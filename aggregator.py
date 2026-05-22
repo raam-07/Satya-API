@@ -161,6 +161,7 @@ def enrich_articles(articles, entities):
         state_to_ruling_party[canonical] = s.get('ruling_party', '')
 
     enriched_count = 0
+    debug_samples = []
     for article in articles:
         text = f"{article.get('title', '')} {article.get('content', '')[:1500]}"
         text_lower = text.lower()
@@ -219,14 +220,18 @@ def enrich_articles(articles, entities):
                             continue
                     implicit_parties.add(canonical)
 
-        # --- Skip implicit links for international articles ---
+        # --- For international articles, still do implicit linking but more conservatively ---
+        # If the article explicitly mentions Indian ministers/parties, still link them
+        # But don't add state ruling parties for international articles
         if article.get('category') == 'international':
-            # Keep only what was already explicit; don't add implicit Indian context
-            article['all_parties'] = list(explicit_parties)
-            article['all_states'] = list(explicit_states)
-            article['all_ministers'] = [
-                minister_aliases.get(m.lower(), m) for m in explicit_ministers
-            ]
+            # Only keep ministers/parties found explicitly in text — not derived from states
+            article['all_parties'] = list(explicit_parties | implicit_parties)
+            article['all_states'] = list(explicit_states | implicit_states)
+            article['all_ministers'] = list(all_ministers_canonical)
+            article['implicit_parties'] = list(implicit_parties - explicit_parties)
+            article['implicit_states'] = list(implicit_states - explicit_states)
+            if implicit_parties or implicit_states or all_ministers_canonical:
+                enriched_count += 1
             continue
 
         # --- Merge all ---
@@ -238,8 +243,19 @@ def enrich_articles(articles, entities):
 
         if implicit_parties or implicit_states:
             enriched_count += 1
+            if len(debug_samples) < 5:
+                debug_samples.append({
+                    "title": article.get('title', '')[:80],
+                    "explicit_parties": list(explicit_parties),
+                    "implicit_parties": list(implicit_parties),
+                    "all_parties": article.get('all_parties', []),
+                    "all_states": article.get('all_states', []),
+                    "all_ministers": article.get('all_ministers', [])
+                })
 
     logging.info(f"Enriched {enriched_count}/{len(articles)} articles with implicit entity links.")
+    for sample in debug_samples:
+        logging.info(f"  DEBUG: {sample}")
     return articles
 
 # ==============================================================================
@@ -730,6 +746,9 @@ def main():
 
     if not promises:
         logging.warning("Could not load promises.json. Promises features will be limited.")
+
+    # 1.5. Enrich articles with implicit entity links
+    articles = enrich_articles(articles, entities)
 
     # 2. Build all JSON outputs
     build_india_overview(articles, entities, promises)
