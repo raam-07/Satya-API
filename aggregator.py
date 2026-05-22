@@ -97,6 +97,7 @@ def fetch_articles(sheet):
 def load_json_from_url(url, fallback_path=None):
     if url:
         try:
+            url = url.strip()  # remove any trailing whitespace/newlines from secrets
             response = requests.get(url, timeout=10)
             response.raise_for_status()
             return response.json()
@@ -106,6 +107,140 @@ def load_json_from_url(url, fallback_path=None):
         with open(fallback_path, 'r') as f:
             return json.load(f)
     return None
+
+# ==============================================================================
+# --- ENRICHMENT — Implicit linking via entities.json ---
+# ==============================================================================
+
+def enrich_articles(articles, entities):
+    """
+    Adds implicit fields to each article:
+      - implicit_parties: parties inferred from mentioned ministers/CMs
+      - implicit_states: states inferred from mentioned ministers/CMs
+      - all_parties: union of explicit + implicit parties
+      - all_states: union of explicit + implicit states
+      - all_ministers: canonical minister names (alias resolution)
+
+    Also scans article text for unmentioned but matching ministers/parties/states
+    using simple substring matching.
+    """
+    logging.info("Enriching articles with implicit entity links...")
+
+    all_ministers = (
+        entities['india']['cabinet_ministers'] +
+        entities['india']['state_chief_ministers'] +
+        entities['india']['opposition_leaders']
+    )
+
+    # Build lookup maps
+    minister_to_party = {}
+    minister_to_state = {}
+    minister_aliases = {}  # alias -> canonical
+    for m in all_ministers:
+        canonical = m['name']
+        minister_to_party[canonical] = m.get('party', '')
+        minister_to_state[canonical] = m.get('state', '')
+        minister_aliases[canonical.lower()] = canonical
+        for alias in m.get('aliases', []):
+            minister_aliases[alias.lower()] = canonical
+
+    party_aliases = {}
+    for p in entities['india']['parties']:
+        canonical = p['name']
+        party_aliases[canonical.lower()] = canonical
+        for alias in p.get('aliases', []):
+            party_aliases[alias.lower()] = canonical
+
+    state_aliases = {}
+    state_to_ruling_party = {}
+    for s in entities['india']['states']:
+        canonical = s['name']
+        state_aliases[canonical.lower()] = canonical
+        for alias in s.get('aliases', []):
+            state_aliases[alias.lower()] = canonical
+        state_to_ruling_party[canonical] = s.get('ruling_party', '')
+
+    enriched_count = 0
+    for article in articles:
+        text = f"{article.get('title', '')} {article.get('content', '')[:1500]}"
+        text_lower = text.lower()
+
+        explicit_parties = set(article.get('party_mentioned', []))
+        explicit_ministers = set(article.get('ministers_mentioned', []))
+        explicit_states = set(article.get('states_mentioned', []))
+
+        implicit_parties = set()
+        implicit_states = set()
+        all_ministers_canonical = set()
+
+        # --- Scan text for any minister mentions (catches missed ones) ---
+        for alias_lower, canonical in minister_aliases.items():
+            # Need to be careful — match whole word, not substring
+            if len(alias_lower) > 4:
+                pattern = r'\b' + re.escape(alias_lower) + r'\b'
+                if re.search(pattern, text_lower):
+                    all_ministers_canonical.add(canonical)
+
+        # Add already-mentioned ministers
+        for m_name in explicit_ministers:
+            canonical = minister_aliases.get(m_name.lower(), m_name)
+            all_ministers_canonical.add(canonical)
+
+        # --- Infer parties/states from ministers ---
+        for canonical in all_ministers_canonical:
+            party = minister_to_party.get(canonical)
+            state = minister_to_state.get(canonical)
+            if party:
+                implicit_parties.add(party)
+            if state:
+                implicit_states.add(state)
+
+        # --- Scan text for state aliases (catches missed ones) ---
+        for alias_lower, canonical in state_aliases.items():
+            if len(alias_lower) >= 4:
+                pattern = r'\b' + re.escape(alias_lower) + r'\b'
+                if re.search(pattern, text_lower):
+                    implicit_states.add(canonical)
+
+        # --- For each detected state, add its ruling party as implicit ---
+        for state in implicit_states:
+            ruling = state_to_ruling_party.get(state)
+            if ruling:
+                implicit_parties.add(ruling)
+
+        # --- Scan text for party aliases (catches missed ones) ---
+        for alias_lower, canonical in party_aliases.items():
+            if len(alias_lower) >= 3:
+                pattern = r'\b' + re.escape(alias_lower) + r'\b'
+                if re.search(pattern, text_lower):
+                    # Extra check for "Congress" — only count if Indian context
+                    if canonical in ['INC', 'Congress']:
+                        if 'us congress' in text_lower or 'american congress' in text_lower or 'congressional' in text_lower:
+                            continue
+                    implicit_parties.add(canonical)
+
+        # --- Skip implicit links for international articles ---
+        if article.get('category') == 'international':
+            # Keep only what was already explicit; don't add implicit Indian context
+            article['all_parties'] = list(explicit_parties)
+            article['all_states'] = list(explicit_states)
+            article['all_ministers'] = [
+                minister_aliases.get(m.lower(), m) for m in explicit_ministers
+            ]
+            continue
+
+        # --- Merge all ---
+        article['implicit_parties'] = list(implicit_parties - explicit_parties)
+        article['implicit_states'] = list(implicit_states - explicit_states)
+        article['all_parties'] = list(explicit_parties | implicit_parties)
+        article['all_states'] = list(explicit_states | implicit_states)
+        article['all_ministers'] = list(all_ministers_canonical)
+
+        if implicit_parties or implicit_states:
+            enriched_count += 1
+
+    logging.info(f"Enriched {enriched_count}/{len(articles)} articles with implicit entity links.")
+    return articles
 
 # ==============================================================================
 # --- HELPERS ---
@@ -185,19 +320,19 @@ def build_india_overview(articles, entities, promises):
     # Top mentioned ministers in last 30 days
     minister_counts = Counter()
     for a in filter_recent(articles, 30):
-        for m in a.get('ministers_mentioned', []):
+        for m in a.get('all_ministers', a.get('ministers_mentioned', [])):
             minister_counts[m] += 1
 
     # Top mentioned parties
     party_counts = Counter()
     for a in filter_recent(articles, 30):
-        for p in a.get('party_mentioned', []):
+        for p in a.get('all_parties', a.get('party_mentioned', [])):
             party_counts[p] += 1
 
     # Top mentioned states
     state_counts = Counter()
     for a in filter_recent(articles, 30):
-        for s in a.get('states_mentioned', []):
+        for s in a.get('all_states', a.get('states_mentioned', [])):
             state_counts[s] += 1
 
     # Promise stats
@@ -242,7 +377,7 @@ def build_party_dashboards(articles, entities, promises):
 
     party_articles_map = defaultdict(list)
     for a in articles:
-        for p in a.get('party_mentioned', []):
+        for p in a.get('all_parties', a.get('party_mentioned', [])):
             party_articles_map[p].append(a)
 
     for party in entities['india']['parties']:
@@ -317,7 +452,7 @@ def build_state_pages(articles, entities, promises):
 
     state_articles_map = defaultdict(list)
     for a in articles:
-        for s in a.get('states_mentioned', []):
+        for s in a.get('all_states', a.get('states_mentioned', [])):
             state_articles_map[s].append(a)
 
     for state in entities['india']['states']:
@@ -386,7 +521,7 @@ def build_minister_pages(articles, entities, promises):
 
     for a in articles:
         mentioned = set()
-        for name in a.get('ministers_mentioned', []):
+        for name in a.get('all_ministers', a.get('ministers_mentioned', [])):
             canonical = minister_lookup.get(name.lower(), name)
             mentioned.add(canonical)
         for canonical in mentioned:
