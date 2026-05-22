@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22 23:04:00.158384",
+  "generated_at": "2026-05-22 23:06:31.671267",
   "endpoints": {
     "india_overview": "india_overview.json",
     "promises_summary": "promises_summary.json",
@@ -7,8 +7,13 @@
       "BJP": "party_bjp.json",
       "INC": "party_inc.json"
     },
-    "states": {},
-    "ministers": {},
+    "states": {
+      "Kerala": "state_kerala.json",
+      "Delhi": "state_delhi.json"
+    },
+    "ministers": {
+      "Narendra Modi": "minister_narendra_modi.json"
+    },
     "topics": {
       "crime_violence": "topic_crime_violence.json",
       "economy": "topic_economy.json",
@@ -27,8 +32,8 @@
   },
   "stats": {
     "parties_count": 2,
-    "states_count": 0,
-    "ministers_count": 0,
+    "states_count": 2,
+    "ministers_count": 1,
     "topics_count": 13
   }
 }
