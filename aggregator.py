@@ -40,11 +40,11 @@ PROMISES_JSON_URL = os.environ.get('PROMISES_JSON_URL', '')
 OUTPUT_DIR = './api'
 
 # Auto-expansion thresholds
-MIN_STATE_ARTICLES = 30        # Min articles to generate state JSON
-MIN_MINISTER_ARTICLES = 20     # Min articles to generate minister JSON
-MIN_PARTY_ARTICLES = 25        # Min articles to generate party JSON
+MIN_STATE_ARTICLES = 15        # Min articles to generate state JSON
+MIN_MINISTER_ARTICLES = 10     # Min articles to generate minister JSON
+MIN_PARTY_ARTICLES = 15        # Min articles to generate party JSON
 MIN_TOPIC_ARTICLES = 30        # Min articles to generate topic JSON
-MIN_CITY_ARTICLES = 25         # Min articles to generate city JSON
+MIN_CITY_ARTICLES = 15         # Min articles to generate city JSON
 
 # Time windows
 RECENT_DAYS = 30               # For "recent" feeds
@@ -160,6 +160,9 @@ def enrich_articles(articles, entities):
             state_aliases[alias.lower()] = canonical
         state_to_ruling_party[canonical] = s.get('ruling_party', '')
 
+    # Sources that are NOT Indian — skip implicit Indian entity linking for these
+    NON_INDIAN_SOURCES = {'The Dawn', 'BBC', 'Al Jazeera', 'The Guardian'}
+
     enriched_count = 0
     debug_samples = []
     for article in articles:
@@ -169,6 +172,17 @@ def enrich_articles(articles, entities):
         explicit_parties = set(article.get('party_mentioned', []))
         explicit_ministers = set(article.get('ministers_mentioned', []))
         explicit_states = set(article.get('states_mentioned', []))
+
+        # --- HARD FILTER: Skip enrichment for non-Indian sources ---
+        # These foreign sources mention Indian entities only when truly relevant
+        # so we trust the explicit classifier output here
+        if article.get('source') in NON_INDIAN_SOURCES:
+            article['all_parties'] = list(explicit_parties)
+            article['all_states'] = list(explicit_states)
+            article['all_ministers'] = list(explicit_ministers)
+            article['implicit_parties'] = []
+            article['implicit_states'] = []
+            continue
 
         implicit_parties = set()
         implicit_states = set()
@@ -203,11 +217,9 @@ def enrich_articles(articles, entities):
                 if re.search(pattern, text_lower):
                     implicit_states.add(canonical)
 
-        # --- For each detected state, add its ruling party as implicit ---
-        for state in implicit_states:
-            ruling = state_to_ruling_party.get(state)
-            if ruling:
-                implicit_parties.add(ruling)
+        # NOTE: We do NOT auto-add a state's ruling party just because the state is mentioned.
+        # That caused too many false positives (e.g. SEBI article mentioning Jharkhand → tagged JMM)
+        # Parties are only added if they appear explicitly OR via minister inference.
 
         # --- Scan text for party aliases (catches missed ones) ---
         for alias_lower, canonical in party_aliases.items():
