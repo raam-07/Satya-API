@@ -1,9 +1,12 @@
 {
-  "generated_at": "2026-05-22 23:02:06.267756",
+  "generated_at": "2026-05-22 23:04:00.158384",
   "endpoints": {
     "india_overview": "india_overview.json",
     "promises_summary": "promises_summary.json",
-    "parties": {},
+    "parties": {
+      "BJP": "party_bjp.json",
+      "INC": "party_inc.json"
+    },
     "states": {},
     "ministers": {},
     "topics": {
@@ -23,7 +26,7 @@
     }
   },
   "stats": {
-    "parties_count": 0,
+    "parties_count": 2,
     "states_count": 0,
     "ministers_count": 0,
     "topics_count": 13
