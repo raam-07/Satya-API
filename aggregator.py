@@ -375,6 +375,17 @@ def build_india_overview(articles, entities, promises):
             promise_summary['total'] += 1
             promise_summary[p.get('status', 'ongoing')] = promise_summary.get(p.get('status', 'ongoing'), 0) + 1
 
+    # Civic flag stats
+    flagged_count = sum(1 for a in filter_recent(articles, 30) if a.get('civic_flag'))
+    flagged_today = sum(1 for a in filter_recent(articles, 1) if a.get('civic_flag'))
+
+    # Top flag categories
+    flag_categories = Counter(
+        a.get('civic_flag_category', 'other')
+        for a in filter_recent(articles, 30)
+        if a.get('civic_flag')
+    )
+
     overview = {
         "generated_at": str(datetime.now()),
         "current_government": {
@@ -386,7 +397,14 @@ def build_india_overview(articles, entities, promises):
         "stats": {
             "total_articles_classified": len(articles),
             "articles_last_7_days": len(filter_recent(articles, 7)),
-            "articles_last_30_days": len(filter_recent(articles, 30))
+            "articles_last_30_days": len(filter_recent(articles, 30)),
+            "civic_flags_last_30_days": flagged_count,
+            "civic_flags_today": flagged_today
+        },
+        "civic_alert": {
+            "flagged_count_30d": flagged_count,
+            "flagged_today": flagged_today,
+            "top_flag_categories": dict(flag_categories.most_common(5))
         },
         "top_stories": top_stories,
         "category_breakdown_30d": dict(category_counts),
@@ -720,6 +738,7 @@ def build_manifest(parties, states, ministers, topics, has_promises):
         "generated_at": str(datetime.now()),
         "endpoints": {
             "feed": "feed.json",
+            "feed_flagged": "feed_flagged.json",
             "feed_politics": "feed_politics.json",
             "feed_crime": "feed_crime.json",
             "feed_economy": "feed_economy.json",
@@ -808,6 +827,10 @@ def build_feeds(articles):
         cleaned = serialize_article(a)
         cleaned['rephrased_article'] = clean_markdown(cleaned.get('rephrased_article', ''))
         cleaned['is_india'] = is_india_centered(a)
+        cleaned['civic_flag'] = a.get('civic_flag', False)
+        cleaned['civic_flag_score'] = a.get('civic_flag_score', 0)
+        cleaned['civic_flag_category'] = a.get('civic_flag_category')
+        cleaned['civic_flag_reason'] = a.get('civic_flag_reason')
         return cleaned
 
     feed = {
@@ -864,6 +887,37 @@ def build_feeds(articles):
             }
             save_json(topic_feed, filename)
             logging.info(f"  Saved {filename} ({len(topic_articles)} articles)")
+
+    # --- Build flagged feed: "What's Wrong Right Now" ---
+    flagged_articles = [
+        a for a in sorted_articles
+        if a.get('civic_flag') is True
+    ]
+
+    # Sort by flag score descending, then by date
+    flagged_articles.sort(
+        key=lambda a: (a.get('civic_flag_score', 0), a.get('scraped_at', '')),
+        reverse=True
+    )
+
+    if flagged_articles:
+        # Group by flag category
+        by_category = defaultdict(list)
+        for a in flagged_articles:
+            cat = a.get('civic_flag_category', 'other')
+            by_category[cat].append(a)
+
+        flagged_feed = {
+            "generated_at": str(datetime.now()),
+            "total": len(flagged_articles),
+            "description": "Articles flagged as needing immediate public attention",
+            "category_breakdown": {k: len(v) for k, v in by_category.items()},
+            "articles": [clean_article(a) for a in flagged_articles[:500]]
+        }
+        save_json(flagged_feed, 'feed_flagged.json')
+        logging.info(f"  Saved feed_flagged.json ({len(flagged_articles)} flagged articles)")
+    else:
+        logging.info("  No civic-flagged articles found yet (classifier needs to run with new version)")
 
     return len(feed_articles)
 
