@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 10:44:22.680476",
+  "generated_at": "2026-05-23 14:50:11.061432",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,28 +8,32 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 39,
-    "articles_last_30d": 39
+    "total_articles": 50,
+    "articles_last_30d": 50
   },
   "top_cities_30d": {
-    "Hyderabad": 12,
-    "Mumbai": 1,
+    "Hyderabad": 15,
+    "Delhi": 5,
+    "Mumbai": 3,
     "Bengaluru": 1,
-    "Delhi": 1,
     "Varanasi": 1,
     "Allahabad": 1,
-    "Madurai": 1
+    "Madurai": 1,
+    "Bangalore": 1,
+    "Pune": 1,
+    "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 38,
-    "education": 13,
-    "infrastructure": 11,
-    "economy": 10,
+    "foreign_policy": 49,
+    "infrastructure": 18,
+    "education": 17,
+    "economy": 11,
+    "protest_opposition": 10,
     "rape_sexual_crime": 7,
     "crime_violence": 7,
-    "protest_opposition": 7,
-    "health": 4,
-    "farmer_agriculture": 4
+    "farmer_agriculture": 7,
+    "health": 5,
+    "corruption_scam": 1
   },
   "recent_articles": [
     {
@@ -1066,6 +1070,317 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 57775,
+      "title": "Maharashtra records highest number of 24,171 cases in crimes against children: NCRB report - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-records-highest-number-of-24171-cases-in-crimes-against-children-ncrb-report/article70956080.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jkghx9/article70958450.ece/alternates/LANDSCAPE_1200/iStock-1341625999.jpg",
+      "scraped_at": "2026-05-09 08:45:30.421982",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "crime against children",
+      "rephrased_article": "**Maharashtra** topped the country with 24,171 cases of crimes against children in 2024, followed by **Uttar Pradesh**.  **Mumbai** recorded the highest number of FIRs concerning crimes against women, while **Delhi** led in overall crime against women. The **National Crime Records Bureau (NCRB)** stated that the increase in reported crimes does not necessarily indicate an increase in crime itself and is a reflection of improved reporting practices.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Pune",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57581,
+      "title": "Telangana Govt issues detailed guidelines for Musi rejuvenation Phase-I; December 2027 deadline for project completion - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-issues-detailed-guidelines-for-musi-rejuvenation-phase-i/article70954834.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/9xfbsk/article70954953.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-08%20at%203.14.41%20PM.jpeg",
+      "scraped_at": "2026-05-08 12:01:31.335577",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "The **Telangana** Government is moving forward with the ambitious Musi Riverfront Development Project, emphasizing its social responsibility and stakeholder engagement.  A Cabinet sub-committee has outlined guidelines for Phase I of the project, which involves a 5 km stretch from Himayatsagar to Bapughat, with an estimated ₹7,055 crore in funding from the **Asian Development Bank**. The project aims to revitalize the riverfront while minimizing impact on residents' properties. Officials have been directed to address public concerns and ensure minimal disruption during construction.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 57426,
+      "title": "Supreme Court asks if there was a 'proper debate' in Parliament before enacting CEC/EC appointments law - The Hindu",
+      "url": "https://www.thehindu.com/news/national/sc-asks-if-there-was-a-proper-debate-in-parliament-before-enacting-cecec-appointments-law/article70951582.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vs6pw8/article70952367.ece/alternates/LANDSCAPE_1200/IMG_SUPREME_COURT__DELHI_2_1_OKDSS237.jpg",
+      "scraped_at": "2026-05-07 22:06:11.193234",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Parliament",
+      "rephrased_article": "The **Supreme Court** questioned whether there was a proper debate in Parliament regarding the 2023 judgment that shifted Election Commission appointments from solely executive control to a more participatory process.  **Justice Dipankar Datta**, leading the bench, expressed uncertainty about the reflection of the court's ethos in parliamentary discussions. Senior advocate **Shadan Farasat** argued that Opposition MPs were suspended before debate, hindering a proper discussion. Advocate **Prashant Bhushan** from the Association for Democratic Reforms highlighted concerns over insufficient safeguards against CEC removal and advocated for independent and transparent appointments.  Advocate **Kaleeswaram Raj**, representing activist C.R. Neelakandan, emphasized the Supreme Court's emphasis on free and fair elections as a cornerstone of democracy.",
+      "party_mentioned": [
+        "AIMIM",
+        "Owaisi"
+      ],
+      "ministers_mentioned": [
+        "Owaisi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57385,
+      "title": "Telangana leads India in human trafficking cases, women form vast majority of victims - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-accounts-for-20-of-human-trafficking-cases-in-india/article70952065.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2rka47/article70952064.ece/alternates/LANDSCAPE_1200/iStock-1334623338.jpg",
+      "scraped_at": "2026-05-07 19:17:52.214492",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Telangana",
+      "rephrased_article": "**Telangana** recorded the highest number of human trafficking cases in 2024, with 423 reported incidents, a significant increase from the previous year. This was followed by **Maharashtra**, **Odisha**, **Bihar**, and **Karnataka**.  The National Crime Records Bureau (NCRB) data revealed that sexual exploitation for prostitution was the primary motive behind trafficking in **Telangana**, accounting for 770 victims. The state also had the highest trafficking crime rate at 1.1 cases per lakh population, with a charge-sheeting rate of 99%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Karnataka",
+        "Maharashtra",
+        "Odisha",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57353,
+      "title": "DGP calls for public partnership to curb drug menace - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/dgp-calls-for-public-partnership-to-curb-drug-menace/article70951753.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/y3sxhd/article70951744.ece/alternates/LANDSCAPE_1200/CV%20Aand%20with%20EAGLE%20director%20.jpeg",
+      "scraped_at": "2026-05-07 15:19:05.784661",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "drug menace",
+      "rephrased_article": "**C.V. Anand**, **Director General of Police** of Telangana, convened a review meeting for the Elite Action Group for Drug Law Enforcement (EAGLE) force to address the growing drug menace in the state.  He emphasized the need for public cooperation and stressed that curbing drug abuse requires a collective effort involving police, educational institutions, and society at large. **Anand** highlighted the increase in drug-related offenses and arrests, noting that investigations are extending beyond street-level suppliers to those orchestrating operations. He directed officials to strengthen enforcement through advanced technology, financial investigations, and action against foreign syndicates while also raising concerns over the response of educational institutions to drug-related incidents involving students.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
+    {
+      "id": 57239,
+      "title": "Doctors’ body seeks review of SC ruling on liability of deceased doctors’ families - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/doctors-body-seeks-review-of-sc-ruling-on-liability-of-deceased-doctors-families/article70947525.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-07 05:02:53.567010",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "Union Government",
+      "rephrased_article": "The **Healthcare Reforms Doctors Association (HRDA), Telangana** expressed concern over a recent Supreme Court ruling that allows compensation proceedings in medical negligence cases to continue even after the death of a doctor, implicating legal heirs. The association argued that extending litigation to family members not involved in patient care could cause distress and discourage young doctors from entering high-risk specialties. They urged the **Union Government**, **Ministry of Health and Family Welfare**, and other stakeholders to reconsider the judgment's implications for healthcare delivery systems in India.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 57044,
+      "title": "Telangana CM Revanth directs police to minimise public inconvenience during VIP movement - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-directs-police-to-minimise-public-inconvenience-during-vip-movement/article70946716.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xc5xnq/article70946926.ece/alternates/LANDSCAPE_1200/04hyngg_Massive%20traffic%20jam%20%2002.jpg",
+      "scraped_at": "2026-05-06 11:30:37.493082",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana CM Revanth Reddy",
+      "rephrased_article": "**A. Revanth Reddy**, Chief Minister of **Telangana**, directed the **DGP C.V. Anand** to ensure smooth traffic flow during convoy movements and the movement of other dignitaries across the state.  Following a traffic congestion incident near the airport, Reddy instructed officials to avoid prolonged road waits due to convoy arrangements and stressed action against responsible personnel. The DGP convened a video conference with police officers from various commissionerates, emphasizing the need for streamlined traffic regulation and the establishment of a dedicated Traffic Bureau.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56972,
+      "title": "Kakatiya-era temple razed to make way for school, draws ire of historians - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/kakatiya-era-temple-razed-to-make-way-for-school-draws-ire-of-historians/article70942655.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/ef9a9n/article70942738.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-05%20at%2015.05.15.jpeg",
+      "scraped_at": "2026-05-06 00:00:20.318491",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "State Archaeology department",
+      "rephrased_article": "**The State Archaeology department** has been criticized for demolishing an 800-year-old temple in Warangal, Telangana. The temple, which featured a rare inscription referencing the Kakatiya ruler Ganapatdeva, was destroyed to make way for a government school.  Historians and activists have condemned the destruction, emphasizing that the temple could have been preserved or incorporated into the new construction.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
+    {
+      "id": 56925,
+      "title": "Cabinet panel clears Railway Ministry’s three multitracking projects in six States - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cabinet-panel-clears-railway-ministrys-three-multitracking-projects-in-six-states/article70943928.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/226l7y/article70944593.ece/alternates/LANDSCAPE_1200/20260505351L.jpg",
+      "scraped_at": "2026-05-05 21:11:28.056011",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Railway Ministry",
+      "rephrased_article": "The **Cabinet Committee on Economic Affairs**, chaired by Prime Minister Narendra Modi, approved three multitracking projects for the **Railway Ministry** with a total cost of ₹23,437 crore. These projects will increase the existing railway network by about 901 km in Madhya Pradesh, Rajasthan, Uttar Pradesh, Karnataka, Andhra Pradesh and Telangana. The projects are expected to be completed by 2030-31 and will enhance connectivity to approximately 4,161 villages, improve rail connectivity to several tourist destinations, and provide seamless connectivity for people, goods, and services.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 56808,
+      "title": "Anantapur police bust international cricket betting racket run from Philippines; 10 arrested - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/members-of-philippines-based-online-betting-racket-arrested/article70942359.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1zlyom/article70942726.ece/alternates/LANDSCAPE_1200/10745_5_5_2026_16_5_29_2_IMG_20260505_WA0023.JPG",
+      "scraped_at": "2026-05-05 12:11:22.525759",
+      "category": "sports",
+      "sentiment": "negative",
+      "sentiment_target": "IPL",
+      "rephrased_article": "**Anantapur police** in India have arrested 10 individuals involved in an international cricket betting racket operating from the Philippines. The operation, led by **Superintendent of Police P Jagadeesh**, saw the seizure of ₹19.70 lakh in cash and ₹18.20 lakh in bank accounts across nine banks.  The gang, which has members across the country, used digital payment platforms to facilitate illegal betting activities through an app offering cricket betting and other banned games. The operation was initiated after police received information about the group's activities during the ongoing IPL matches. **Shiva**, a Philippines-based member of the gang, recruited local associates to collect bank accounts, SIM cards, and passbooks before sending them to the Philippines via cargo pants.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56751,
+      "title": "Requiem for Stalin’s spirit - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1997642/requiem-for-stalins-spirit",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/05074611b13b7b5.webp",
+      "scraped_at": "2026-05-05 06:27:20.871073",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Stalin",
+      "rephrased_article": "**Joseph Stalin's** spirit appears to be perplexed and saddened by recent events in India, where his former followers have aligned with Hindu nationalism. The Communist Party of India-Marxist (CPI-M) has seen a decline in its influence, with the Bharatiya Janata Party (BJP) gaining significant ground in West Bengal elections.  The CPI-M's support for Hindu nationalist forces is a surprise to Stalin's spirit, who would have preferred a more socialist approach. The writer notes that this shift reflects a broader trend of Indian communists aligning with Hindutva forces, a development that Stalin likely did not anticipate.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Telangana",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
       ]
     }
   ]

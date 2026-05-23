@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 10:44:22.813071",
+  "generated_at": "2026-05-23 14:50:11.230961",
   "endpoints": {
     "feed": "feed.json",
     "feed_politics": "feed_politics.json",
@@ -17,13 +17,17 @@
       "AAP": "party_aap.json",
       "TMC": "party_tmc.json",
       "SP": "party_sp.json",
-      "DMK": "party_dmk.json"
+      "DMK": "party_dmk.json",
+      "CPM": "party_cpm.json",
+      "TDP": "party_tdp.json"
     },
     "states": {
       "Andhra Pradesh": "state_andhra_pradesh.json",
       "Assam": "state_assam.json",
       "Bihar": "state_bihar.json",
       "Gujarat": "state_gujarat.json",
+      "Haryana": "state_haryana.json",
+      "Himachal Pradesh": "state_himachal_pradesh.json",
       "Karnataka": "state_karnataka.json",
       "Kerala": "state_kerala.json",
       "Madhya Pradesh": "state_madhya_pradesh.json",
@@ -35,15 +39,22 @@
       "Telangana": "state_telangana.json",
       "Uttar Pradesh": "state_uttar_pradesh.json",
       "West Bengal": "state_west_bengal.json",
-      "Delhi": "state_delhi.json"
+      "Delhi": "state_delhi.json",
+      "Jammu and Kashmir": "state_jammu_and_kashmir.json",
+      "Puducherry": "state_puducherry.json"
     },
     "ministers": {
       "Narendra Modi": "minister_narendra_modi.json",
       "Amit Shah": "minister_amit_shah.json",
       "S. Jaishankar": "minister_s_jaishankar.json",
       "JP Nadda": "minister_jp_nadda.json",
+      "Dharmendra Pradhan": "minister_dharmendra_pradhan.json",
+      "Yogi Adityanath": "minister_yogi_adityanath.json",
       "Mamata Banerjee": "minister_mamata_banerjee.json",
       "M.K. Stalin": "minister_mk_stalin.json",
+      "Pinarayi Vijayan": "minister_pinarayi_vijayan.json",
+      "Chandrababu Naidu": "minister_chandrababu_naidu.json",
+      "Devendra Fadnavis": "minister_devendra_fadnavis.json",
       "Rahul Gandhi": "minister_rahul_gandhi.json",
       "Mallikarjun Kharge": "minister_mallikarjun_kharge.json"
     },
@@ -70,9 +81,9 @@
     }
   },
   "stats": {
-    "parties_count": 6,
-    "states_count": 16,
-    "ministers_count": 9,
+    "parties_count": 8,
+    "states_count": 20,
+    "ministers_count": 14,
     "topics_count": 19
   }
 }

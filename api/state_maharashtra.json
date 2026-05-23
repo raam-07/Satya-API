@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 10:44:22.670776",
+  "generated_at": "2026-05-23 14:50:11.047081",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,32 +8,32 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 30,
-    "articles_last_30d": 30
+    "total_articles": 44,
+    "articles_last_30d": 44
   },
   "top_cities_30d": {
-    "Mumbai": 7,
-    "Pune": 6,
-    "Nashik": 6,
-    "Delhi": 5,
-    "Hyderabad": 1,
+    "Mumbai": 12,
+    "Pune": 11,
+    "Nashik": 8,
+    "Delhi": 7,
+    "Nagpur": 3,
+    "Hyderabad": 2,
+    "Bengaluru": 2,
     "Jaipur": 1,
     "Thane": 1,
-    "Nagpur": 1,
-    "Chennai": 1,
-    "Bengaluru": 1
+    "Chennai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 28,
-    "education": 14,
-    "protest_opposition": 11,
-    "economy": 9,
-    "infrastructure": 9,
-    "farmer_agriculture": 4,
-    "crime_violence": 4,
-    "corruption_scam": 3,
-    "rape_sexual_crime": 3,
-    "health": 2
+    "foreign_policy": 42,
+    "education": 21,
+    "protest_opposition": 18,
+    "economy": 12,
+    "infrastructure": 11,
+    "crime_violence": 8,
+    "farmer_agriculture": 5,
+    "rape_sexual_crime": 5,
+    "health": 4,
+    "corruption_scam": 4
   },
   "recent_articles": [
     {
@@ -941,6 +941,464 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57775,
+      "title": "Maharashtra records highest number of 24,171 cases in crimes against children: NCRB report - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-records-highest-number-of-24171-cases-in-crimes-against-children-ncrb-report/article70956080.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jkghx9/article70958450.ece/alternates/LANDSCAPE_1200/iStock-1341625999.jpg",
+      "scraped_at": "2026-05-09 08:45:30.421982",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "crime against children",
+      "rephrased_article": "**Maharashtra** topped the country with 24,171 cases of crimes against children in 2024, followed by **Uttar Pradesh**.  **Mumbai** recorded the highest number of FIRs concerning crimes against women, while **Delhi** led in overall crime against women. The **National Crime Records Bureau (NCRB)** stated that the increase in reported crimes does not necessarily indicate an increase in crime itself and is a reflection of improved reporting practices.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Pune",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57766,
+      "title": "IPO Calendar: 2 issues to keep investors busy but mainboard activity remains muted - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-2-issues-to-keep-investors-busy-but-mainboard-activity-remains-muted/articleshow/130970829.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130970896,width-1200,height-630,imgsize-39044,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-09 06:38:38.858386",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "other",
+      "rephrased_article": "**RFBL Flexi Pack**, a Gujarat-based company that manufactures and trades printed multilayer flexible packaging materials, is raising Rs 35.33 crore through an IPO of 70.65 lakh shares. The company plans to use the proceeds for capital expenditure, working capital needs, and general corporate purposes.  **Goldline Pharmaceutical**, another company seeking to raise Rs 11.61 crore through a fresh issue of 27 lakh shares, operates an asset-light pharmaceutical marketing business selling medicines under its \"Goldline\" brand across various segments. The company plans to use most of the IPO proceeds toward repayment of borrowings.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Gujarat",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 57550,
+      "title": "Maharashtra Class 10 results out; over 92% students pass, girls outperform boys again - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-class-10-results-out-over-92-students-pass-girls-outperform-boys-again/article70954766.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dk7jq8/article70954780.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000129B.jpg",
+      "scraped_at": "2026-05-08 10:07:58.189401",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "MSBSHSE",
+      "rephrased_article": "**The Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE)** announced the Class 10 results, with an overall pass percentage of 92.09%. **Girls** performed better than boys, achieving a 94.96% pass rate compared to boys' 89.56%. The Kokan division topped the list with 97.62%, while the Chatrapati Sambhajinagar division recorded the lowest pass percentage at 88.41%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Pune",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57385,
+      "title": "Telangana leads India in human trafficking cases, women form vast majority of victims - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-accounts-for-20-of-human-trafficking-cases-in-india/article70952065.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2rka47/article70952064.ece/alternates/LANDSCAPE_1200/iStock-1334623338.jpg",
+      "scraped_at": "2026-05-07 19:17:52.214492",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Telangana",
+      "rephrased_article": "**Telangana** recorded the highest number of human trafficking cases in 2024, with 423 reported incidents, a significant increase from the previous year. This was followed by **Maharashtra**, **Odisha**, **Bihar**, and **Karnataka**.  The National Crime Records Bureau (NCRB) data revealed that sexual exploitation for prostitution was the primary motive behind trafficking in **Telangana**, accounting for 770 victims. The state also had the highest trafficking crime rate at 1.1 cases per lakh population, with a charge-sheeting rate of 99%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Karnataka",
+        "Maharashtra",
+        "Odisha",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57277,
+      "title": "2005 'fake' encounter of gangster Sohrabuddin Shaikh: HC upholds acquittal of 22 persons - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/2005-fake-encounter-of-gangster-sohrabuddin-shaikh-hc-upholds-acquittal-of-22-persons/article70950239.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/j2721m/article28129800.ece/alternates/LANDSCAPE_1200/24THSOHRABUDDIN",
+      "scraped_at": "2026-05-07 07:54:42.535026",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "police",
+      "rephrased_article": "The **Bombay High Court** upheld the December 2018 acquittal of all 22 accused in the 2005 fake encounter case of gangster Sohrabuddin Shaikh, his wife Kausar Bi, and aide Tulsiram Prajapati. The court dismissed appeals filed by Shaikh's brothers, Rubabuddin and Nayabuddin, who had challenged the special court's decision to acquit them.  The **CBI**, which handled the investigation, accepted the acquittal judgment and did not appeal. The case involved allegations of police officers from Gujarat and Rajasthan abducting the three individuals and later killing them in staged encounters.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Hyderabad",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57248,
+      "title": "Six missing after boat capsizes in Yamuna in U.P.’s Hamirpur; search underway - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/boat-capsizes-in-yamuna-in-uttar-pradesh-hamirpur/article70949490.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rztneu/article70949531.ece/alternates/LANDSCAPE_1200/Screenshot%202026-05-07%20091415.png",
+      "scraped_at": "2026-05-07 05:05:25.473204",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Six** people, including children, went missing after a boat capsized in the Yamuna river on Wednesday evening. **Three** individuals were rescued by the boatman, while the remaining six remain unaccounted for.  The **District Magistrate**, **Chief Minister Adityanath**, and **BJP MLA Manoj Prajapati** have ordered rescue efforts to locate the missing persons. The **National Disaster Response Force** and **State Disaster Response Force** are assisting in the search.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57227,
+      "title": "Congress leader Varsha Gaikwad writes to Maharashtra Governor, seeks immediate enactment of Shakti Bill - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/congress-leader-varsha-gaikwad-writes-to-maharashtra-governor-seeks-immediate-enactment-of-shakti-bill/article70947949.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8phb6f/article70948537.ece/alternates/LANDSCAPE_1200/Varsha%20Gaikwad.jpeg",
+      "scraped_at": "2026-05-07 01:24:45.841870",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Varsha Gaikwad**, **Mumbai Congress president** and MP, has written to **Maharashtra Governor Jishnu Dev Varma** urging urgent action on rising crimes against women in the state.  Gaikwad requested the Governor's intervention regarding the **Shakti Criminal Laws (Maharashtra Amendment) Bill, 2020**, which awaits presidential assent, and urged the government to take strict action against atrocities against women. The letter comes amid protests following a four-year-old girl's alleged rape and murder in Pune district.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Pune"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence",
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56960,
+      "title": "Maharashtra to upgrade 19 secondary ashram schools to junior college for tribals - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-to-upgrade-19-secondary-ashram-schools-to-junior-college-for-tribals/article70943366.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-05 23:56:03.151419",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Maharashtra government",
+      "rephrased_article": "The **Maharashtra** government approved upgrading 19 secondary schools and 5 primary ashram schools to higher levels under the Tribal Development Department.  This decision aims to prevent dropouts and improve educational progress for tribal students in remote areas. The upgrades will create new positions and funding for these schools, which currently serve over 2.6 million students across the state.  The **Maharashtra** government's decision is part of a larger effort to provide quality education to all students, particularly those from marginalized communities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune",
+        "Nagpur",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56928,
+      "title": "Bombay High Court directs Maharashtra government to ease travel curbs on Sangram Patil, U.K.-based doctor booked for posts on PM Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-directs-maharashtra-to-ease-travel-curbs-on-uk-based-doctor-booked-for-posts-on-pm-modi/article70943727.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ottnub/article70944592.ece/alternates/LANDSCAPE_1200/IMG_Bombay-HC-strik_G59D_2_1_NUELFO0R.jpg",
+      "scraped_at": "2026-05-05 21:12:32.038590",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Sangram Patil",
+      "rephrased_article": "The **Bombay High Court** ordered the Maharashtra government to modify a lookout circular (LOC) against **Sangram Patil**, a UK-based doctor and YouTuber, so he can return to the United Kingdom by May 11th.  **Patil**, who is named in an FIR for alleged posts critical of Prime Minister Narendra Modi and BJP leaders, was prevented from returning to the UK after immigration authorities cited the LOC. The court heard arguments from **Patil's** legal team and the state government, with the main petition seeking quashing of the FIR still pending after the summer vacation.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56880,
+      "title": "Put petty politics aside, says Rahul Gandhi, as he backs Mamata Banerjee - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-accorded-rousing-reception-in-kolathur/article70944083.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/y0m2gp/article70941846.ece/alternates/LANDSCAPE_1200/West%20Bengal%20Assembly%20elections%202026%20%2032.JPG",
+      "scraped_at": "2026-05-05 18:04:07.102138",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Rahul Gandhi**, leader of the Opposition in the Lok Sabha, criticized the **BJP's** victory in the West Bengal and Assam Assembly elections as a \"theft\" of the popular mandate, alleging it marks a step towards destroying Indian democracy. He expressed support for the Trinamool Congress (TMC) and cautioned against political schadenfreude over the party's defeat.  Gandhi urged political parties to prioritize India above partisan considerations.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Haryana",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56876,
+      "title": "Put petty politics aside, says Rahul Gandhi, as he backs Mamata Banerjee - The Hindu",
+      "url": "https://www.thehindu.com/news/national/put-petty-politics-aside-its-not-about-one-party-but-india-rahul-on-tmcs-loss-in-polls/article70941799.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/y0m2gp/article70941846.ece/alternates/LANDSCAPE_1200/West%20Bengal%20Assembly%20elections%202026%20%2032.JPG",
+      "scraped_at": "2026-05-05 18:02:48.529830",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Rahul Gandhi**, leader of the Opposition in the Lok Sabha, criticized the **BJP's** victory in the West Bengal and Assam Assembly elections as a \"theft\" of the popular mandate, alleging it was part of the party's attempt to destroy Indian democracy.  He expressed support for the Trinamool Congress (TMC) and urged political parties to prioritize national interests over partisan concerns. **Gandhi** also noted that this is not an isolated incident, referencing previous instances of electoral manipulation by the **BJP**.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Haryana",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56730,
+      "title": "Nasrapur rape and murder | Child rights body seeks special prosecutor, fast-tracking of the case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/nasrapur-rape-and-murder-child-rights-body-seeks-special-prosecutor-fast-tracking-of-the-case/article70939557.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/da1aci/article70940573.ece/alternates/LANDSCAPE_1200/20260502499L.jpg",
+      "scraped_at": "2026-05-05 03:47:44.242629",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "The **Maharashtra State Commission for Protection of Child Rights** urged the state government to appoint a special public prosecutor and move the Nasrapur rape and murder case to a fast-track court. The case involves an alleged rape and murder of a four-year-old girl in Pune's Bhor taluka on May 1st, prompting protests and disruptions in the region.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Pune"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56689,
+      "title": "PM Modi on West Bengal election result: ‘Lotus’ is blooming from Gangotri to Gangasagar - The Hindu",
+      "url": "https://www.thehindu.com/elections/pm-modi-bjp-election-results-bengal-assam-puducherry-may-4-2026/article70939219.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kgd5e0/article70939245.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-04%20at%2019.29.17.jpeg",
+      "scraped_at": "2026-05-05 00:00:01.462886",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Prime Minister Narendra Modi** praised the outcomes of the elections in four States and a Union Territory as a triumph of democracy and the Constitution, attributing the BJP's success to voters seeking stability and development amidst global turmoil. He highlighted women's crucial role in building a developed India, accusing the Congress and Samajwadi Party of blocking women's reservation in the Lok Sabha.  **Modi** expressed confidence that the BJP-led NDA would continue its efforts to serve people and work ceaselessly for a developed India.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party",
+        "SP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Gujarat",
+        "Kerala",
+        "Maharashtra",
+        "Nagaland",
+        "Tamil Nadu",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 56669,
+      "title": "​Lost and found: The Hindu Editorial on the 2026 Assembly elections - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/lost-and-found-on-the-five-2026-assembly-elections/article70939648.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-04 22:37:51.195754",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The 2026 Assembly elections in Assam, West Bengal, Tamil Nadu, Kerala and Puducherry resulted in significant shifts in India's political landscape. The BJP secured victories in Assam and Puducherry while the Congress suffered its worst performance in Assam. In West Bengal, the BJP capitalized on long-term planning and a tainted election process to achieve a decisive victory.  The TVK led by actor C. Joseph Vijay made a historic debut in Tamil Nadu, becoming the first non-Dravidian Chief Minister. The Congress faces an internal challenge in Kerala with multiple candidates vying for the Chief Minister position. **Amit Shah**, Home Minister, is likely to gain further influence within the BJP as it continues its expansion across regions and social groups.  The results suggest a potential realignment of the Opposition, opening opportunities for the Congress to consolidate and galvanize support against the BJP.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "CPI",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Mamata Banerjee",
+        "Mamata",
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "education",
         "protest_opposition"
       ]
     }

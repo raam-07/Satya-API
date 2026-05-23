@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 10:44:22.675642",
+  "generated_at": "2026-05-23 14:50:11.053779",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,27 +8,31 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 20,
-    "articles_last_30d": 20
+    "total_articles": 29,
+    "articles_last_30d": 29
   },
   "top_cities_30d": {
-    "Delhi": 9,
+    "Delhi": 13,
+    "Pune": 3,
     "Jaipur": 3,
-    "Pune": 2,
+    "Mumbai": 3,
     "Nashik": 2,
     "Bengaluru": 1,
-    "Mumbai": 1
+    "Kolkata": 1,
+    "Bangalore": 1,
+    "Nagpur": 1,
+    "Hyderabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 20,
-    "education": 11,
-    "protest_opposition": 9,
-    "infrastructure": 6,
-    "farmer_agriculture": 4,
-    "corruption_scam": 4,
-    "health": 4,
-    "crime_violence": 3,
-    "economy": 3
+    "foreign_policy": 29,
+    "education": 14,
+    "protest_opposition": 13,
+    "infrastructure": 8,
+    "corruption_scam": 8,
+    "farmer_agriculture": 7,
+    "economy": 6,
+    "health": 6,
+    "crime_violence": 4
   },
   "recent_articles": [
     {
@@ -655,6 +659,293 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 57829,
+      "title": "West Bengal Cabinet 2026: From Dilip Ghosh to Agnimitra Paul, Ministers who were sworn in along with Suvendu Adhikari - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal-2026-cabinet-ministers-bjp-government-suvendu-adhikari-cm-agnimitra-paul-dilip-ghosh/article70958634.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/urg6b1/article70958478.ece/alternates/LANDSCAPE_1200/20260509049L.jpg",
+      "scraped_at": "2026-05-09 11:31:00.829294",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Suvendu Adhikari**, newly sworn in as the Chief Minister of West Bengal, inducted five new ministers into his cabinet on Saturday. The swearing-in ceremony was attended by **Prime Minister Narendra Modi**, **Union Ministers Amit Shah, Rajnath Singh, J. P. Nadda, and Dharmendra Pradhan**, among other BJP leaders.  **Dilip Ghosh**, a senior BJP leader who secured victory in the Kharagpur seat, **Agnimitra Paul**, a fashion designer-turned-legislator who won Asansol Dakshin, **Ashok Kirtania**, a BJP stalwart who gained victory in Bangaon Uttar, and **Kshudiram Tudu**, a former school teacher from Ranibandh (ST) constituency, were among the newly appointed ministers.  **Nisith Pramanik**, a key face of BJP from North Bengal, was also inducted into the cabinet.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Rajnath Singh",
+        "Yogi Adityanath",
+        "Yogi",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Tripura",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57775,
+      "title": "Maharashtra records highest number of 24,171 cases in crimes against children: NCRB report - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-records-highest-number-of-24171-cases-in-crimes-against-children-ncrb-report/article70956080.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jkghx9/article70958450.ece/alternates/LANDSCAPE_1200/iStock-1341625999.jpg",
+      "scraped_at": "2026-05-09 08:45:30.421982",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "crime against children",
+      "rephrased_article": "**Maharashtra** topped the country with 24,171 cases of crimes against children in 2024, followed by **Uttar Pradesh**.  **Mumbai** recorded the highest number of FIRs concerning crimes against women, while **Delhi** led in overall crime against women. The **National Crime Records Bureau (NCRB)** stated that the increase in reported crimes does not necessarily indicate an increase in crime itself and is a reflection of improved reporting practices.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Pune",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57766,
+      "title": "IPO Calendar: 2 issues to keep investors busy but mainboard activity remains muted - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-2-issues-to-keep-investors-busy-but-mainboard-activity-remains-muted/articleshow/130970829.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130970896,width-1200,height-630,imgsize-39044,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-09 06:38:38.858386",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "other",
+      "rephrased_article": "**RFBL Flexi Pack**, a Gujarat-based company that manufactures and trades printed multilayer flexible packaging materials, is raising Rs 35.33 crore through an IPO of 70.65 lakh shares. The company plans to use the proceeds for capital expenditure, working capital needs, and general corporate purposes.  **Goldline Pharmaceutical**, another company seeking to raise Rs 11.61 crore through a fresh issue of 27 lakh shares, operates an asset-light pharmaceutical marketing business selling medicines under its \"Goldline\" brand across various segments. The company plans to use most of the IPO proceeds toward repayment of borrowings.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Gujarat",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 57445,
+      "title": "Former Rajasthan Minister Mahesh Joshi arrested in Jal Jeevan Mission scam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/former-rajasthan-minister-mahesh-joshi-arrested-in-960-crore-jjm-scam/article70951202.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9b47fz/article70951209.ece/alternates/LANDSCAPE_1200/PTI05_07_2026_000170B.jpg",
+      "scraped_at": "2026-05-07 23:30:14.176841",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Mahesh Joshi",
+      "rephrased_article": "**Rajasthan’s Anti-Corruption Bureau (ACB)** arrested **Congress leader and former Minister Mahesh Joshi** in connection with the alleged Jal Jeevan Mission (JJM) scam.  The arrest follows the April 2025 arrest of retired IAS officer Subodh Agarwal, who was also accused of involvement in the scheme's irregularities. The ACB claims that Mr. Joshi misused his position as a Minister and accepted bribes to award fraudulent tenders worth ₹960 crore. He has been remanded to ACB custody until May 11th after being arrested from his residence.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57277,
+      "title": "2005 'fake' encounter of gangster Sohrabuddin Shaikh: HC upholds acquittal of 22 persons - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/2005-fake-encounter-of-gangster-sohrabuddin-shaikh-hc-upholds-acquittal-of-22-persons/article70950239.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/j2721m/article28129800.ece/alternates/LANDSCAPE_1200/24THSOHRABUDDIN",
+      "scraped_at": "2026-05-07 07:54:42.535026",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "police",
+      "rephrased_article": "The **Bombay High Court** upheld the December 2018 acquittal of all 22 accused in the 2005 fake encounter case of gangster Sohrabuddin Shaikh, his wife Kausar Bi, and aide Tulsiram Prajapati. The court dismissed appeals filed by Shaikh's brothers, Rubabuddin and Nayabuddin, who had challenged the special court's decision to acquit them.  The **CBI**, which handled the investigation, accepted the acquittal judgment and did not appeal. The case involved allegations of police officers from Gujarat and Rajasthan abducting the three individuals and later killing them in staged encounters.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Hyderabad",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57229,
+      "title": "In a first, world’s smallest wild cat snapped with kitten in Faridabad; confirms breeding outside protected areas, say researchers - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/in-a-first-worlds-smallest-wild-cat-snapped-with-kitten-in-faridabad-confirms-breeding-outside-protected-areas-say-researchers/article70947507.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/4po0os/article70948518.ece/alternates/LANDSCAPE_1200/5_BM_Cat%20new.jpg",
+      "scraped_at": "2026-05-07 01:25:23.593224",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "rusty-spotted cat",
+      "rephrased_article": "**Researchers**, including wildlife photographer Yatin Verma, have documented the first confirmed breeding of a rusty-spotted cat in the Delhi-National Capital Region (NCR) and Haryana.  The discovery was made during routine field surveys conducted since August 2022. The adult cat and its kitten were observed perched on a False Ashoka tree in Kot village, confirming active reproduction outside protected areas. This finding highlights the importance of the Aravalis mountain system for wildlife conservation, including the rusty-spotted cat, which is listed as 'Near Threatened' on the IUCN Red List.  The research paper documenting this discovery was published in Zoo’s Print.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Haryana",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Faridabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57197,
+      "title": "Rise in cybercrime but overall crime rate dropped in 2024, says latest NCRB report - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rise-in-cybercrime-but-overall-crime-rate-dropped-in-2024-says-latest-ncrb-report/article70948292.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rh4za6/article70948563.ece/alternates/LANDSCAPE_1200/2024-02-21T140030Z_702616538_RC2176ARDFCQ_RTRMADP_3_APPLE-IMESSAGE-SPYWARE.JPG",
+      "scraped_at": "2026-05-06 23:30:32.374022",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **National Crime Records Bureau (NCRB)** reported a 6% decline in overall crime in India for 2024, but cybercrime cases surged by over 17%.  **NCRB** data revealed that fraud constituted the majority of cybercrime cases, followed by sexual exploitation and extortion. The report also highlighted a rise in crimes against the state, with **The Prevention of Damage to Public Property Act** being the most frequently cited law. Suicide rates increased significantly in 2024, particularly among agricultural workers, unemployed individuals, daily wage laborers, and students.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Mizoram",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 56955,
+      "title": "Fraud unearthed in Rajasthan health scheme, doctor, lab operator arrested - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/fraud-unearthed-in-rajasthan-health-scheme-doctor-lab-operator-arrested/article70943597.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/chnjgj/article70820343.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+      "scraped_at": "2026-05-05 23:54:37.832458",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Rajasthan Government Health Scheme",
+      "rephrased_article": "**The Special Operations Group (SOG) of the Rajasthan police arrested a doctor and a private lab operator for allegedly colluding to defraud the Rajasthan Government Health Scheme (RGHS).**  They are accused of submitting fake medical claims, causing significant financial losses to the state exchequer. The SOG has confirmed the arrests in connection with this case.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy",
+        "health",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56925,
+      "title": "Cabinet panel clears Railway Ministry’s three multitracking projects in six States - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cabinet-panel-clears-railway-ministrys-three-multitracking-projects-in-six-states/article70943928.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/226l7y/article70944593.ece/alternates/LANDSCAPE_1200/20260505351L.jpg",
+      "scraped_at": "2026-05-05 21:11:28.056011",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Railway Ministry",
+      "rephrased_article": "The **Cabinet Committee on Economic Affairs**, chaired by Prime Minister Narendra Modi, approved three multitracking projects for the **Railway Ministry** with a total cost of ₹23,437 crore. These projects will increase the existing railway network by about 901 km in Madhya Pradesh, Rajasthan, Uttar Pradesh, Karnataka, Andhra Pradesh and Telangana. The projects are expected to be completed by 2030-31 and will enhance connectivity to approximately 4,161 villages, improve rail connectivity to several tourist destinations, and provide seamless connectivity for people, goods, and services.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture"
       ]
     }
   ]
