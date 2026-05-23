@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 18:12:07.235026",
+  "generated_at": "2026-05-23 20:07:07.687473",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 203,
-    "articles_last_30d": 203
+    "total_articles": 213,
+    "articles_last_30d": 213
   },
   "top_cities_30d": {
-    "Chennai": 48,
+    "Chennai": 50,
     "Delhi": 18,
-    "Madurai": 10,
+    "Madurai": 11,
     "Coimbatore": 8,
     "Kolkata": 6,
     "Hyderabad": 2,
@@ -24,18 +24,42 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 190,
-    "education": 61,
+    "foreign_policy": 200,
+    "education": 63,
     "protest_opposition": 42,
-    "economy": 36,
-    "infrastructure": 34,
-    "farmer_agriculture": 26,
-    "crime_violence": 18,
+    "economy": 39,
+    "infrastructure": 35,
+    "farmer_agriculture": 27,
+    "crime_violence": 19,
+    "health": 16,
     "corruption_scam": 16,
-    "health": 15,
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 61234,
+      "title": "New Green Card rule: Sridhar Vembu slammed for asking Indian visa holders to come back home, to choose self-respect - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/new-green-card-rule-sridhar-vembu-slammed-for-asking-indian-visa-holders-to-come-back-home-to-choose-self-respect/articleshow/131279417.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131279475,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-23 18:41:07.646376",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Sridhar Vembu",
+      "rephrased_article": "**Sridhar Vembu**, founder of **Zoho**, sparked controversy by urging visa holders in the US to return home, claiming self-respect dictates their course.  His statement drew criticism from social media users who pointed out that not everyone has his privilege and the new Green Card rule requiring applicants to leave the US for residency is disruptive. The US announced a revised policy where \"Adjustment of Status\" will be granted only in exceptional cases, forcing most applicants to return home and undergo consular processes.  Vembu's call to action was met with strong disapproval from social media users who highlighted the challenges faced by many in India, including economic disparities and political corruption.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 61168,
       "title": "Coimbatore girl's murder: police arrested two persons - The Hindu",
@@ -5462,32 +5486,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 55877,
-      "title": "Tamil Nadu to witness hotter May; above normal rainfall could offer relief: IMD - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-witness-hotter-may-above-normal-rainfall-could-offer-relief-imd/article70928772.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/glpd4x/article70929326.ece/alternates/LANDSCAPE_1200/4871_27_4_2026_15_19_11_1_DSC_7174.JPG",
-      "scraped_at": "2026-05-01 23:03:51.131163",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "IMD",
-      "rephrased_article": "**Tamil Nadu** is expected to experience above-average temperatures in May, with coastal areas facing heatwave conditions and the mercury remaining high at night. The **India Meteorological Department (IMD)** has issued an agromet advisory warning of potential agricultural impacts from the increased temperatures.  The IMD also predicts heavy rainfall in the Western Ghats and interior districts until Monday, May 4th, 2026, with some areas experiencing above-average rainfall due to convective activity. The state has already experienced a deficit in rainfall since March 1st, 2026, with only 41 mm recorded compared to the usual 66.3 mm for May.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "farmer_agriculture"
       ]
     }
   ]

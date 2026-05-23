@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 18:12:07.174539",
+  "generated_at": "2026-05-23 20:07:07.623193",
   "party": "INC",
   "full_name": "Indian National Congress",
   "ideology": "Centrist, Social liberalism",
@@ -12,12 +12,12 @@
   ],
   "color": "#00BFFF",
   "stats": {
-    "total_articles": 280,
-    "articles_last_30d": 280,
+    "total_articles": 303,
+    "articles_last_30d": 303,
     "sentiment_breakdown_30d": {
-      "neutral": 98,
-      "negative": 113,
-      "positive": 69
+      "neutral": 107,
+      "negative": 123,
+      "positive": 73
     }
   },
   "ministers": [
@@ -88,6 +88,31 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 61207,
+      "title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/cabinet-clears-25-lakh-houses-587-crore-for-prlsi/article71015536.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/kw61x5/article71015552.ece/alternates/LANDSCAPE_1200/Ponguleti%20.jpeg",
+      "scraped_at": "2026-05-23 17:09:52.164425",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Telangana** Cabinet approved a range of initiatives, including the launch of the second phase of Indiramma houses and funding for the Palamuru-Rangareddy Lift Irrigation Scheme.  **Chief Minister A. Revanth Reddy** announced plans to complete unfinished Indiramma houses and allocate funds for their completion. The Cabinet also allocated ₹1,000 crore for the upcoming Godavari Pushkarams and the mid-day meal scheme in all junior colleges. Additionally, **Ponguleti Srinivas Reddy**, Minister for Revenue and Housing, stated that the government will provide financial assistance to complete unfinished Indiramma houses and will allocate funds for construction of one lakh low-income group (LIG) houses in 24 Assembly constituencies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 61187,
       "title": "One more Trinamool councillor from Bidhannagar arrested - The Hindu",
@@ -5664,30 +5689,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 56695,
-      "title": "Kerala Assembly polls 2026: UDF win was made massive by anti-Left voting - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-udf-win-was-made-massive-by-anti-left-voting/article70939933.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ohmlm3/article70940243.ece/alternates/LANDSCAPE_1200/NH04UDF11.JPG",
-      "scraped_at": "2026-05-05 00:01:27.681346",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "UDF",
-      "rephrased_article": "The **United Democratic Front (UDF)**, led by the **Congress**, has returned to power in Kerala after a decade-long absence.  Following four bypoll victories and strong performance in the 2024 Lok Sabha elections and December's local body polls, the alliance secured a majority in the State Assembly. The victory was attributed to cohesive teamwork within Team UDF, guarantees and assurances to voters, effective campaigning, and criticisms of the outgoing **Left Democratic Front** government's policies.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 18:12:07.223521",
+  "generated_at": "2026-05-23 20:07:07.675217",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,32 +8,60 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 31,
-    "articles_last_30d": 31
+    "total_articles": 33,
+    "articles_last_30d": 33
   },
   "top_cities_30d": {
-    "Delhi": 10,
-    "Bhopal": 5,
-    "Indore": 3,
+    "Delhi": 11,
+    "Bhopal": 6,
+    "Indore": 4,
     "Agra": 3,
     "Mumbai": 2,
     "Pune": 1,
     "Bengaluru": 1,
     "Kolkata": 1,
-    "Faridabad": 1
+    "Faridabad": 1,
+    "Ahmedabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 31,
+    "foreign_policy": 33,
     "education": 13,
-    "infrastructure": 10,
-    "protest_opposition": 10,
-    "farmer_agriculture": 7,
-    "health": 7,
+    "infrastructure": 11,
+    "protest_opposition": 11,
+    "health": 9,
+    "farmer_agriculture": 8,
     "crime_violence": 6,
     "economy": 6,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61212,
+      "title": "Twisha Sharma’s husband sent to 7-day police remand; AIIMS Delhi forms panel for second autopsy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/aiims-delhi-forms-4-member-board-for-twisha-sharmas-second-autopsy-team-to-fly-to-bhopal/article71014281.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ha85g2/article71014332.ece/alternates/LANDSCAPE_1200/10_DrGupta_Shashi_18_01_Del.jpg",
+      "scraped_at": "2026-05-23 17:11:24.152455",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "police",
+      "rephrased_article": "**Samarth Singh**, husband of actor-model Twisha Sharma, was sent to seven days of police custody in Bhopal following his arrest for dowry death and harassment. **AIIMS Delhi** formed a four-member panel to perform a second autopsy on Sharma's body after the Madhya Pradesh High Court ordered it.  The probe team is investigating Mr. Singh's alleged role in Sharma's death, including questioning him and his mother, **Giribala Singh**, who was also named as an accused. The family has demanded a CBI investigation into the case, alleging police misconduct and influence from the accused family.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 60986,
       "title": "Twisha Sharma: Rival claims of murder and suicide set off media frenzy after Indian bride dies",
@@ -1023,6 +1051,36 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 55253,
+      "title": "15 labourers die as van overturns in Madhya Pradesh’s Dhar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/12-labourers-die-as-van-overturns-in-madhya-pradeshs-dhar/article70922080.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lluse1/article70922142.ece/alternates/LANDSCAPE_1200/20260429491L.jpg",
+      "scraped_at": "2026-04-29 21:12:50.018706",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "At least 15 laborers, many of them women, died and over 30 were injured in a road accident on the Indore-Ahmedabad highway in Madhya Pradesh's Dhar district.  The **police** said the speeding van carrying about 46 labourers overturned and collided with an SUV.  **Prime Minister Narendra Modi** expressed condolences and announced financial assistance for the victims, while **Madhya Pradesh Chief Minister Mohan Yadav** directed officials to oversee medical arrangements and provide financial aid.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Indore"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "farmer_agriculture"
       ]
     }
   ]

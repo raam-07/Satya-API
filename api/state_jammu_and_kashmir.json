@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 18:12:07.258621",
+  "generated_at": "2026-05-23 20:07:07.713406",
   "state": "Jammu and Kashmir",
   "capital": "Srinagar / Jammu",
   "ruling_party": "National Conference",
@@ -8,23 +8,23 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 21,
-    "articles_last_30d": 21
+    "total_articles": 23,
+    "articles_last_30d": 23
   },
   "top_cities_30d": {
-    "Srinagar": 5,
+    "Srinagar": 6,
     "Delhi": 3,
     "Bengaluru": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 21,
-    "protest_opposition": 11,
+    "foreign_policy": 22,
+    "protest_opposition": 12,
     "education": 9,
     "crime_violence": 6,
-    "infrastructure": 4,
+    "infrastructure": 5,
+    "economy": 3,
     "health": 3,
-    "economy": 2,
-    "farmer_agriculture": 1
+    "farmer_agriculture": 2
   },
   "recent_articles": [
     {
@@ -630,6 +630,58 @@
         "foreign_policy",
         "protest_opposition"
       ]
+    },
+    {
+      "id": 55469,
+      "title": "Railways Minister flags off first Jammu-Srinagar direct train service on ‘historic day’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/vaishnaw-flags-off-jammu-srinagar-vande-bharat-services-from-may-2/article70923544.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kuzvn6/article70923709.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000038A.jpg",
+      "scraped_at": "2026-04-30 17:04:42.760636",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Union Minister for Railways Ashwini Vaishnaw** and **J&K Chief Minister Omar Abdullah** celebrated the launch of the first direct train service between Jammu city and Srinagar city.  Vaishnaw described the service as a \"gamechanger\" for the region's economy, highlighting its impact on cargo movement and tourism. The new rail line connects the Kashmir division with the Jammu division, offering seamless travel to pilgrimage destinations like Shree Mata Vaishno Devi and Shri Amarnath temple. **Prime Minister Narendra Modi** is credited with realizing the dream of railway connectivity in the Kashmir Valley.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54950,
+      "title": "Police file FIR against viral video of pro-Pakistan posters put up in J&K’s Doda - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/police-file-fir-against-viral-video-of-pro-pakistan-posters-put-up-in-jks-doda/article70917152.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-28 17:15:45.884739",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "The **Jammu and Kashmir police** filed an FIR after a video surfaced showing posters praising **Pakistan’s Prime Minister Shehbaz Sharif** and **Army Chief Asim Munir**. The posters, displayed on a bridge in Doda district, also praised the two leaders for their role in negotiating peace between Iran and the United States.  The police are investigating the origin of the video and the individuals responsible for posting it.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     }
   ]
 }

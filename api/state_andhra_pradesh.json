@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 18:12:07.196452",
+  "generated_at": "2026-05-23 20:07:07.646650",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 65,
-    "articles_last_30d": 65
+    "total_articles": 67,
+    "articles_last_30d": 67
   },
   "top_cities_30d": {
     "Visakhapatnam": 8,
     "Delhi": 6,
     "Hyderabad": 5,
-    "Bengaluru": 2,
+    "Bengaluru": 3,
     "Chennai": 2,
     "Varanasi": 1,
     "Allahabad": 1,
@@ -24,18 +24,43 @@
     "Mumbai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 60,
-    "education": 19,
-    "farmer_agriculture": 16,
-    "infrastructure": 13,
+    "foreign_policy": 61,
+    "education": 20,
+    "farmer_agriculture": 17,
+    "infrastructure": 14,
     "economy": 11,
     "health": 10,
     "protest_opposition": 10,
-    "crime_violence": 9,
-    "rape_sexual_crime": 5,
+    "crime_violence": 10,
+    "rape_sexual_crime": 6,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61207,
+      "title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/cabinet-clears-25-lakh-houses-587-crore-for-prlsi/article71015536.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/kw61x5/article71015552.ece/alternates/LANDSCAPE_1200/Ponguleti%20.jpeg",
+      "scraped_at": "2026-05-23 17:09:52.164425",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Telangana** Cabinet approved a range of initiatives, including the launch of the second phase of Indiramma houses and funding for the Palamuru-Rangareddy Lift Irrigation Scheme.  **Chief Minister A. Revanth Reddy** announced plans to complete unfinished Indiramma houses and allocate funds for their completion. The Cabinet also allocated ₹1,000 crore for the upcoming Godavari Pushkarams and the mid-day meal scheme in all junior colleges. Additionally, **Ponguleti Srinivas Reddy**, Minister for Revenue and Housing, stated that the government will provide financial assistance to complete unfinished Indiramma houses and will allocate funds for construction of one lakh low-income group (LIG) houses in 24 Assembly constituencies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 60923,
       "title": "Deepa Jewellers, Cotec Healthcare receive Sebi approval for IPOs - The Economic Times",
@@ -1798,6 +1823,32 @@
         "economy",
         "foreign_policy",
         "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 54936,
+      "title": "Congress leader booked under POCSO - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-leader-booked-under-pocso/article70917289.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6cgmw3/article70917450.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UCO6JMT3K_R1571726741_0_5b403a12-24d1-448c-8643-3c26822f5009.jpg",
+      "scraped_at": "2026-04-28 15:09:32.369938",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Anand Naidu",
+      "rephrased_article": "**Anand Naidu**, general secretary of the **Bengaluru North District Congress Committee (DCC)**, has been booked by the Mahalakshmi Layout police for allegedly assaulting minor children.  The complaint alleges that Naidu was in an illicit relationship with the complainant's wife for three years and assaulted his children when they questioned the relationship. The children have accused Naidu of using a rod and biting them, causing injuries. The police have registered a case and initiated an investigation.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime"
       ]
     }
   ]
