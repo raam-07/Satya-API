@@ -719,6 +719,14 @@ def build_manifest(parties, states, ministers, topics, has_promises):
     manifest = {
         "generated_at": str(datetime.now()),
         "endpoints": {
+            "feed": "feed.json",
+            "feed_politics": "feed_politics.json",
+            "feed_crime": "feed_crime.json",
+            "feed_economy": "feed_economy.json",
+            "feed_international": "feed_international.json",
+            "feed_health": "feed_health.json",
+            "feed_corruption": "feed_topic_corruption.json",
+            "feed_farmers": "feed_topic_farmers.json",
             "india_overview": "india_overview.json",
             "promises_summary": "promises_summary.json" if has_promises else None,
             "parties": {p: f"party_{slugify(p)}.json" for p in parties},
@@ -734,6 +742,130 @@ def build_manifest(parties, states, ministers, topics, has_promises):
         }
     }
     save_json(manifest, 'manifest.json')
+
+def is_india_centered(article):
+    """
+    Returns True if an article is India-centered.
+    Checks source, states, ministers, parties, category.
+    """
+    INDIAN_SOURCES = {'The Hindu', 'Times of India', 'Economic Times'}
+    INDIA_CATEGORIES = {'politics', 'crime', 'regional'}
+
+    if article.get('source') in INDIAN_SOURCES:
+        return True
+    if article.get('states_mentioned') or article.get('all_states'):
+        return True
+    if article.get('ministers_mentioned') or article.get('all_ministers'):
+        return True
+    if article.get('all_parties') or article.get('party_mentioned'):
+        return True
+    if article.get('category') in INDIA_CATEGORIES:
+        return True
+    return False
+
+def clean_markdown(text):
+    """Strip **bold** markdown from text for clean display."""
+    if not text:
+        return text
+    return re.sub(r'\*\*(.*?)\*\*', r'\1', text)
+
+def build_feeds(articles):
+    """
+    Builds the main homepage feed and category feeds.
+    Main feed: 1000 articles, 70%+ India-centered.
+    Category feeds: 200 articles each.
+    """
+    logging.info("Building feed JSONs...")
+
+    sorted_articles = sort_by_date(articles)
+
+    # --- Split into India-centered and international ---
+    india_articles = [a for a in sorted_articles if is_india_centered(a)]
+    international_articles = [a for a in sorted_articles if not is_india_centered(a)]
+
+    logging.info(f"  India-centered: {len(india_articles)} | International: {len(international_articles)}")
+
+    # --- Build main feed: 700 India + 300 International (or whatever is available) ---
+    india_quota = min(700, len(india_articles))
+    international_quota = min(300, len(international_articles))
+
+    # If India articles are fewer than 700, fill up with international
+    if india_quota < 700:
+        international_quota = min(1000 - india_quota, len(international_articles))
+
+    feed_articles = india_articles[:india_quota] + international_articles[:international_quota]
+
+    # Re-sort combined feed by date
+    feed_articles = sort_by_date(feed_articles)[:1000]
+
+    india_count = sum(1 for a in feed_articles if is_india_centered(a))
+    india_pct = round(india_count / len(feed_articles) * 100) if feed_articles else 0
+
+    logging.info(f"  Main feed: {len(feed_articles)} articles ({india_pct}% India-centered)")
+
+    # Clean markdown from rephrased articles
+    def clean_article(a):
+        cleaned = serialize_article(a)
+        cleaned['rephrased_article'] = clean_markdown(cleaned.get('rephrased_article', ''))
+        cleaned['is_india'] = is_india_centered(a)
+        return cleaned
+
+    feed = {
+        "generated_at": str(datetime.now()),
+        "total": len(feed_articles),
+        "india_centered_count": india_count,
+        "india_centered_pct": india_pct,
+        "articles": [clean_article(a) for a in feed_articles]
+    }
+    save_json(feed, 'feed.json')
+    logging.info(f"  Saved feed.json ({len(feed_articles)} articles)")
+
+    # --- Category feeds: 200 each ---
+    category_map = {
+        'politics': 'feed_politics.json',
+        'crime': 'feed_crime.json',
+        'economy': 'feed_economy.json',
+        'international': 'feed_international.json',
+        'health': 'feed_health.json',
+        'education': 'feed_education.json',
+        'other': 'feed_other.json',
+    }
+
+    for category, filename in category_map.items():
+        cat_articles = [a for a in sorted_articles if a.get('category') == category]
+        cat_articles = cat_articles[:200]
+        if cat_articles:
+            cat_feed = {
+                "generated_at": str(datetime.now()),
+                "category": category,
+                "total": len(cat_articles),
+                "articles": [clean_article(a) for a in cat_articles]
+            }
+            save_json(cat_feed, filename)
+            logging.info(f"  Saved {filename} ({len(cat_articles)} articles)")
+
+    # --- Topic feeds for homepage filter ---
+    topic_map = {
+        'corruption_scam': 'feed_topic_corruption.json',
+        'rape_sexual_crime': 'feed_topic_crime_against_women.json',
+        'farmer_agriculture': 'feed_topic_farmers.json',
+        'foreign_policy': 'feed_topic_foreign.json',
+    }
+
+    for topic, filename in topic_map.items():
+        topic_articles = [a for a in sorted_articles if topic in a.get('topic_tags', [])]
+        topic_articles = topic_articles[:200]
+        if topic_articles:
+            topic_feed = {
+                "generated_at": str(datetime.now()),
+                "topic": topic,
+                "total": len(topic_articles),
+                "articles": [clean_article(a) for a in topic_articles]
+            }
+            save_json(topic_feed, filename)
+            logging.info(f"  Saved {filename} ({len(topic_articles)} articles)")
+
+    return len(feed_articles)
 
 # ==============================================================================
 # --- MAIN ---
@@ -763,6 +895,7 @@ def main():
     articles = enrich_articles(articles, entities)
 
     # 2. Build all JSON outputs
+    feed_count = build_feeds(articles)
     build_india_overview(articles, entities, promises)
     parties = build_party_dashboards(articles, entities, promises)
     states = build_state_pages(articles, entities, promises)
@@ -775,9 +908,10 @@ def main():
 
     elapsed = round(time.time() - start_time, 2)
     logging.info(f"--- Aggregator Finished in {elapsed}s ---")
-    logging.info(f"Generated: {len(parties)} parties, {len(states)} states, {len(ministers)} ministers, {len(topics)} topics")
+    logging.info(f"Generated: {len(parties)} parties, {len(states)} states, {len(ministers)} ministers, {len(topics)} topics, feed: {feed_count} articles")
 
     print(json.dumps({
+        "feed_articles": feed_count,
         "parties": len(parties),
         "states": len(states),
         "ministers": len(ministers),
