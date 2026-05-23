@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 14:50:11.070215",
+  "generated_at": "2026-05-23 18:12:07.252490",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,91 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 143,
-    "articles_last_30d": 143
+    "total_articles": 172,
+    "articles_last_30d": 172
   },
   "top_cities_30d": {
-    "Delhi": 143,
-    "Mumbai": 13,
-    "Kolkata": 12,
-    "Chennai": 8,
-    "Hyderabad": 7,
+    "Delhi": 170,
+    "Mumbai": 17,
+    "Kolkata": 14,
+    "Chennai": 11,
+    "Hyderabad": 10,
+    "Bengaluru": 9,
     "Jaipur": 6,
-    "Bengaluru": 6,
     "Agra": 5,
-    "Ahmedabad": 2,
-    "Nagpur": 2
+    "Ahmedabad": 4,
+    "Allahabad": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 142,
-    "protest_opposition": 67,
-    "crime_violence": 46,
-    "education": 46,
-    "infrastructure": 43,
-    "economy": 40,
-    "farmer_agriculture": 24,
-    "corruption_scam": 18,
-    "health": 13,
+    "foreign_policy": 171,
+    "protest_opposition": 74,
+    "education": 55,
+    "economy": 51,
+    "infrastructure": 50,
+    "crime_violence": 50,
+    "farmer_agriculture": 26,
+    "corruption_scam": 21,
+    "health": 16,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61190,
+      "title": "Iran hosts Pakistani delegation amid diplomatic flurry to avert new US strikes | Iran | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/eb97ac12f33f08b129302493d96bd7e18ac561c7/81_0_1066_853/master/1066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8171e622feba7f33d565b9780f9e29f",
+      "scraped_at": "2026-05-23 15:49:11.537283",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "US",
+      "rephrased_article": "**Mohammad Bagher Ghalibaf**, **Iran’s parliamentary speaker**, stated that Iran will not compromise on its national rights during a meeting with **Syed Asim Munir**, the Pakistani army chief, in Tehran.  Amidst reports of renewed US strikes on Iran, **Pakistan** has been mediating talks between the two countries. **Marco Rubio**, the US secretary of state, expressed cautious optimism for negotiations while **Trump** is reportedly reviewing options for restarting a bombing campaign. The ceasefire between the US, Israel and Iran, which began in early April, remains largely unchanged despite efforts to extend it.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61177,
+      "title": "Rubio meets Modi, renewing ties with India after US-China summit - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002483/rubio-meets-modi-renewing-ties-with-india-after-us-china-summit",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/23180543909824b.webp",
+      "scraped_at": "2026-05-23 14:16:49.754756",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Secretary of State Marco Rubio** invited **Indian Prime Minister Narendra Modi** to visit the White House, reaffirming the importance of the US-India partnership.  Rubio's visit followed a week after the US held a summit with China and included meetings with religious leaders and a focus on shared values. The two countries discussed regional and global peace and security issues, while **Modi** affirmed India and the US would continue to work closely for the global good.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61128,
       "title": "U.S. Secretary of State Marco Rubio four-day India visit updates - The Hindu",
@@ -4377,6 +4434,766 @@
         "education",
         "farmer_agriculture",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 56521,
+      "title": "'Not a nation that bows': Bilawal hails Pakistan's victory against India during Marka-i-Haq - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/1997435/not-a-nation-that-bows-bilawal-hails-pakistans-victory-against-india-during-marka-i-haq",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/0414310996f887b.webp",
+      "scraped_at": "2026-05-04 11:25:08.141432",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**PPP Chairman Bilawal Bhutto-Zardari** and **Sindh Chief Minister Murad Ali Shah** addressed a commemoration event for Marka-i-Haq, marking the 2025 conflict with India.  **Bilawal** emphasized Pakistan's \"victory\" against India, highlighting its resilience and unity in the face of pressure. He stressed that victory was measured by dignity preserved and sovereignty defended, not territorial gains or military victories. **Bilawal** called for a focus on building a stronger Pakistan through investment in people, education, and economic growth, while advocating for just and dignified peace.  The event commemorated the conflict's impact and its significance for future generations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56444,
+      "title": "Karnataka leadership talks in Delhi unlikely in next few weeks - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-leadership-talks-in-delhi-unlikely-in-next-few-weeks/article70935119.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x56i0c/article70935698.ece/alternates/LANDSCAPE_1200/DSC_4198_1A.JPG",
+      "scraped_at": "2026-05-03 21:54:27.232022",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** leaders are planning to meet with **Mallikarjun Kharge**, the party president, in Delhi next week to discuss Cabinet expansion. However, the leadership issue in Karnataka is unlikely to be resolved soon due to upcoming Rajya Sabha elections and a lack of timeline from **Kharge**.  With several seats falling vacant in the Legislative Council, the party is prioritizing these elections before discussing leadership changes.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56427,
+      "title": "Tamil Nadu | UPSC to shortlist DGP candidates on May 11 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-upsc-to-shortlist-dgp-candidates-on-may-11/article70935278.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/m60qvl/article70935982.ece/alternates/LANDSCAPE_1200/IMG_3421.JPG",
+      "scraped_at": "2026-05-03 20:56:00.134175",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "The **Union Public Service Commission (UPSC)** will hold an Empanelment Committee Meeting (ECM) in Delhi on May 11th to shortlist three qualified officers for the position of Director-General of Police/Head of the Police Force (DGP/HoPF) in the Tamil Nadu Police. The next DGP/HoPF, appointed by the newly elected government, will have a minimum two-year tenure as per Supreme Court guidelines.  The Chief Secretary and Home Secretary from **Tamil Nadu** will represent the state at the meeting which was previously postponed.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56423,
+      "title": "‘Kashmir will never be Pakistani and we will never become Pakistan’, says Farooq Abdullah - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kashmir-will-never-be-pakistani-and-we-will-never-become-pakistan-says-farooq-abdullah/article70936108.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/99ku8x/article70936216.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000066A.jpg",
+      "scraped_at": "2026-05-03 20:54:33.702030",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Kashmir",
+      "rephrased_article": "**Dr. Farooq Abdullah**, president of the **National Conference**, criticized separatist politics during a book release event, stating his party chose Mahatma Gandhi over slogans of \"Nara-e-Takbeer Allahu Akbar\" and emphasized Kashmir's commitment to India.  He also expressed regret for the 1990s exodus of Kashmiri Pandits and called for unity in diversity to overcome mistrust between Delhi and Kashmir. **Mirwaiz Umar Farooq**, a separatist leader, praised Dr. Razdan's humanitarian service.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "PDP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 56409,
+      "title": "India rejects Nepal’s objection to Kailash Manasarovar Yatra via Lipulekh Pass - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-rejects-nepals-objection-to-kailash-manasarovar-yatra-via-lipulekh-pass/article70936188.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7im2ly/article70936195.ece/alternates/LANDSCAPE_1200/PTI10_03_2024_000309B.jpg",
+      "scraped_at": "2026-05-03 19:40:27.805930",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "India",
+      "rephrased_article": "**India** responded to **Nepal's** objection to the Kailash Manasarovar Yatra passing through Lipulekh Pass, stating that such territorial claims are \"untenable.\" The Ministry of External Affairs (MEA) clarified that Lipulekh Pass has been a long-standing route for the pilgrimage since 1954 and that India remains open to dialogue with **Nepal** on all bilateral issues.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Sikkim",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56338,
+      "title": "New short Haj package likely to be popular among working pilgrims - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/centre-must-roll-back-lpg-price-hike-says-kerala-cm/article70935606.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 15:30:14.756817",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Haj",
+      "rephrased_article": "**The Central Haj Committee** has introduced a new \"short Haj\" package for pilgrims with limited time, reducing the pilgrimage duration to 20 days from the usual 40-45 days. The first batch of pilgrims from Kerala will depart on May 17th under government supervision, with three flights transporting around 1,000 individuals. **State Haj Committee Chairman Hussain Saqafi Chullikkode** stated that the duration could be further reduced in future based on demand.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56336,
+      "title": "New short Haj package likely to be popular among working pilgrims - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/new-short-haj-package-likely-to-be-popular-among-working-pilgrims/article70935547.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 15:29:40.519722",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Haj",
+      "rephrased_article": "**The Central Haj Committee** has introduced a new \"short Haj\" package for pilgrims with limited time, reducing the pilgrimage duration to 20 days from the usual 40-45 days. The first batch of Kerala pilgrims will depart on May 17th under government supervision, with three flights transporting around 1,000 individuals.  The committee expects this option to gain popularity among working professionals and others with limited time constraints. \"The duration could be reduced further in the coming years,\" said State Haj Committee Chairman Hussain Saqafi Chullikkode.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56320,
+      "title": "‘Hot for Them Too’: British Man Praised Online for Rescuing Dehydrated Bird Amid Delhi’s Heatwave | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/hot-for-them-too-british-man-praised-online-for-rescuing-dehydrated-bird-amid-delhis-heatwave/articleshow/130733540.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130733637,width-1280,height-720,imgsize-1061231,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-03 14:34:17.122556",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Wildlife SOS",
+      "rephrased_article": "A British national, **Nick Booker**, rescued a dehydrated Black Kite in Delhi during the ongoing heatwave.  **Booker** captured the rescue on video and contacted **Wildlife SOS**, a wildlife rescue organization that responded promptly to assist the bird. The incident drew attention to the impact of extreme temperatures on urban wildlife and highlighted the need for people to provide water for birds. **Wildlife SOS** members, including Sanoj Chaurasiya and Pratap Singh, were commended for their quick response.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56268,
+      "title": "Silence, the court is in session - The Hindu",
+      "url": "https://www.thehindu.com/news/national/silence-the-court-is-in-session-a-look-at-judicial-accountability-in-india/article70883455.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/m8vwjc/article70919451.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
+      "scraped_at": "2026-05-03 11:02:56.420898",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Yashwant Varma**, a judge of the Allahabad High Court, resigned after an inquiry found he and his family had exercised control over cash recovered from his official residence in 2025.  The Supreme Court Collegium recommended impeachment proceedings against him, but before they could proceed, Varma stepped down. The article also examines the growing concerns about judicial corruption, citing data from the Lok Sabha that shows a sharp rise in complaints against judges between 2016 and 2025. It highlights the lack of transparency surrounding these complaints, with the Law Ministry often stating it does not maintain records or has no mechanism to monitor them.  The article also discusses Rishi A. Kumar's blog post criticizing the judiciary for suppressing discussion about its failures, which led to a backlash from legal professionals and ultimately prompted him to seek legal intervention.",
+      "party_mentioned": [
+        "BSP",
+        "Bahujan Samaj Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56201,
+      "title": "‘Ten lifetimes won’t be enough’: TMC’s Abhishek Banerjee dares ‘bangla birodhi’ leaders to contest from Falta - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/ten-lifetimes-wont-be-enough-tmcs-abhishek-banerjee-dares-bangla-birodhi-leaders-to-contest-from-falta/article70934527.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ajjbla/article70934552.ece/alternates/LANDSCAPE_1200/PTI04_24_2026_000263A.jpg",
+      "scraped_at": "2026-05-03 06:33:58.840077",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Abhishek Banerjee**, **General Secretary of the Trinamool Congress (TMC)**, responded to remarks by **BJP leader Amit Malviya** regarding the Election Commission of India's decision to order fresh polling in the Falta Assembly constituency.  Banerjee challenged the BJP and its supporters to contest in Falta, accusing them of attempting to undermine his \"Diamond Harbour model.\" The ECI ordered repolling across 285 polling stations in Falta due to reports of electoral offences and subversion during the second phase of voting on April 29th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56176,
+      "title": "Silence, the court is in session - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/tribals-scheduled-castes-preserved-indias-identity-and-soul-despite-foreign-invasions-bhagwat/article70934305.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/m8vwjc/article70919451.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
+      "scraped_at": "2026-05-03 03:40:34.706607",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Yashwant Varma",
+      "rephrased_article": "**Yashwant Varma**, a judge of the Allahabad High Court, submitted his resignation to **President Droupadi Murmu** on April 9th after nearly a year of scrutiny surrounding alleged unaccounted cash found at his official residence in Delhi.  Varma's decision comes following months of investigation into the incident that occurred on March 14th, 2025, when firefighters responding to a fire discovered stacks of half-burnt currency notes in a storeroom at his residence.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56171,
+      "title": "Silence, the court is in session - The Hindu",
+      "url": "https://www.thehindu.com/news/national/silence-the-court-is-in-session/article70883455.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/m8vwjc/article70919451.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
+      "scraped_at": "2026-05-03 03:39:04.684931",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Yashwant Varma",
+      "rephrased_article": "**Yashwant Varma**, a judge of the Allahabad High Court, submitted his resignation to **President Droupadi Murmu** on April 9th after nearly a year of scrutiny following an incident where firefighters discovered stacks of allegedly unaccounted-for cash at his official residence in Delhi.  Varma's decision comes after months of public and legal pressure stemming from the discovery made on March 14, 2025.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56156,
+      "title": "Delhi court rejects bail plea of Al Falah University chairman in money laundering case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-court-rejects-bail-plea-of-al-falah-university-chairman-in-money-laundering-case/article70933115.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8nhw1k/article70881073.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+      "scraped_at": "2026-05-02 22:51:53.167038",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Al Falah University chairman",
+      "rephrased_article": "**Jawad Ahmed Siddiqui**, chairman of the **Al Falah University** group, had his regular bail plea denied by a Delhi court on Saturday.  The **Enforcement Directorate (ED)** opposed the request, citing the seriousness of the money laundering allegations and ongoing investigations. **Siddiqui**, arrested in November 2025 for allegedly generating illicit funds through student fees, remains in judicial custody. A separate ED probe is also underway.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56140,
+      "title": "BJP accuses Trinamool of misusing judicial process out of political desperation - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/supreme-court-ruling-counting-staff-bengal-polls-tmc-bjp/article70931504.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4m9dc4/article70931511.ece/alternates/LANDSCAPE_1200/TH27-Devesh-BJPGDLFC3K2U.3.jpg.jpg",
+      "scraped_at": "2026-05-02 20:55:25.001454",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "The **Supreme Court** declined to intervene in a Calcutta High Court decision regarding the deployment of central government officials for vote counting in West Bengal, prompting accusations from the **BJP** that the **Trinamool Congress** was using the judicial process for political gain.  **BJP** spokesperson Sudhanshu Trivedi claimed the **Trinamool Congress** was resorting to desperate measures due to anxiety about a violence-free election in the state. He also criticized the actions of West Bengal Chief Minister Mamata Banerjee, alleging she did not trust her own government employees and staff.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56139,
+      "title": "Raghav Chadha | The prodigy who walked away - The Hindu",
+      "url": "https://www.thehindu.com/news/national/raghav-chadha-the-prodigy-who-walked-away/article70932943.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/oe2yw0/article70932923.ece/alternates/LANDSCAPE_1200/Raghav_Chadda.jpg",
+      "scraped_at": "2026-05-02 20:55:00.771861",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Raghav Chadha",
+      "rephrased_article": "**Raghav Chadha**, a 37-year-old member of the **Rajya Sabha**, is known for his unique background.  He was born in Delhi in 1988 and studied at Modern School, Barakhamba Road before becoming a chartered accountant. After working briefly in the corporate world, he entered politics through the India Against Corruption movement.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
+    {
+      "id": 56089,
+      "title": "Probe into alleged hotel drug party to be widened - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/probe-into-alleged-hotel-drug-party-to-be-widened/article70932383.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 17:27:49.858837",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Police** in Kerala have launched a two-pronged investigation into the \"white collar drug party\" case, focusing on tracing the source of drugs supplied for high-profile parties and identifying regular attendees. Following the arrest of **Kevin B. Mathew**, allegedly a major drug dealer who supplied narcotics for such events, the probe is expected to expand to Bengaluru and Delhi to uncover the origin of the drugs.  Mathew was apprehended after police raided a hotel in Kadavanthra where he had been staying, but managed to escape before being caught.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55975,
+      "title": "Most Viewed Business News Articles, Top News Articles | The Economic Times",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/5-mutual-fund-nfos-and-1-sif-to-open-for-subscription-this-week-check-details/slideshow/130713241.cms",
+      "source": "Economic Times",
+      "image_url": "https://economictimes.indiatimes.com/photo/65498029.cms",
+      "scraped_at": "2026-05-02 10:59:50.098562",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "PhonePe",
+      "rephrased_article": "**Indus Appstore**, a product of **PhonePe**, is working to empower Indian app creators and consumers by shifting the focus towards innovation and creative control.  The company's Chief Business Officer, Priya Narasimhan, believes this approach will create a stronger and more dynamic app ecosystem in India. **Confucius** emphasized the importance of practical experience for learning and understanding.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Chennai",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55938,
+      "title": "Apple says India antitrust body overstepping judicial authority as spat intensifies - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-says-india-antitrust-body-overstepping-judicial-authority-as-spat-intensifies/article70930709.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/gk8oz7/article70930716.ece/alternates/LANDSCAPE_1200/2026-04-30T192203Z_1179995714_RC2UZKAXZIY3_RTRMADP_3_APPLE-RESULTS.JPG",
+      "scraped_at": "2026-05-02 08:12:36.574828",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Apple",
+      "rephrased_article": "**Apple** has accused the **Competition Commission of India** of exceeding its authority by demanding financial information in an antitrust case concerning iPhone app markets.  The company argues it is challenging the law governing penalties, and that the commission must wait for a court ruling on this matter.  This latest development signifies a growing conflict between Apple and Indian investigators over potential fines of up to $38 billion.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55903,
+      "title": "Govt. absorbed global oil shock, didn’t pass it on to consumers: Hardeep Puri - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-absorbed-global-oil-shock-didnt-pass-it-on-to-consumers-hardeep-puri/article70928855.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3jkka2/article70929563.ece/alternates/LANDSCAPE_1200/HS%20Phoolka%20joins%20BJP%209.JPG",
+      "scraped_at": "2026-05-02 03:44:05.229959",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Union Petroleum and Natural Gas Minister Hardeep Singh Puri** stated that India maintained stable energy supplies despite a 60-day disruption caused by the closure of the Strait of Hormuz. He attributed this stability to long-term planning and timely policy interventions by the **Narendra Modi government**, which absorbed global shock at the fiscal level instead of passing it on to consumers.  **Mr. Puri** highlighted that India ensured uninterrupted availability of various fuels, while also emphasizing the country's diversification efforts in crude sourcing and LPG imports. Gujarat Chief Minister Bhupendra Patel emphasized the state's role as a growth hub for industries like chemicals, pharmaceuticals, textiles, and tourism.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Surat",
+        "Rajkot"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 55896,
+      "title": "Jabalpur cruise tragedy death toll rises to 9; survivors allege negligence by crew - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cruise-boat-tragedy-toll-rises-updates/article70927475.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hif6av/article70927479.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000015B.jpg",
+      "scraped_at": "2026-05-02 00:04:58.687819",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "crew",
+      "rephrased_article": "**Divers** recovered five more bodies from the Bargi dam reservoir in Jabalpur, India, bringing the total number of victims to nine.  The bodies were found on Friday morning, including a mother holding her four-year-old son. The search for four missing individuals continues, including three children.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55833,
+      "title": "Census 2027: Around 82 lakh households have opted for self enumeration as field visits begin in 5 states - The Hindu",
+      "url": "https://www.thehindu.com/news/national/census-2027-around-82-lakh-households-have-opted-for-self-enumeration-as-field-visits-begin-in-5-states/article70929763.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h39h07/article70929765.ece/alternates/LANDSCAPE_1200/CENSUS%20DIGITAL%20MAPPING%20DELHI%202026_27_04_26.jpg",
+      "scraped_at": "2026-05-01 21:01:16.172783",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Union government",
+      "rephrased_article": "**The Union government** announced that over 82 lakh households have utilized the self-enumeration facility during the initial Houselisting and Housing Operations (HLO) phase of Census 2027. The exercise, which commenced on May 1st in several states including Andhra Pradesh, Haryana, Chandigarh, Madhya Pradesh, Chhattisgarh, and Rajasthan, aims to collect data about household facilities and demographics.  The HLO will continue until May 30th, with trained enumerators visiting each house for verification.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Meghalaya",
+        "Mizoram",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Telangana",
+        "Uttarakhand",
+        "Delhi",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55808,
+      "title": "High drama in Punjab Assembly; Congress, Akali Dal allege CM Mann was drunk during House proceedings - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-congress-akali-dal-allege-cm-mann-was-drunk-during-house-proceedings/article70928207.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mufaat/article70928326.ece/alternates/LANDSCAPE_1200/Punjab%20CM%20Mann%20Assembly.png",
+      "scraped_at": "2026-05-01 18:08:52.912316",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bhagwant Mann",
+      "rephrased_article": "Opposition parties in Punjab, including the Congress and Shiromani Akali Dal, have accused **Chief Minister Bhagwant Mann** of appearing intoxicated during a session of the Vidhan Sabha.  They demanded an alcohol test and called for dope testing of all MLAs.  Congress leader Sukhpal Singh Khaira urged **Arvind Kejriwal**, the national convener of the Aam Aadmi Party, to take action against **Mann**. Rajya Sabha MP Swati Maliwal also accused **Mann** of being intoxicated at public events and demanded an alcohol test. The Congress Legislative Party has formally written to the Speaker requesting immediate alco-meter and dope testing of all members.  Finance Minister Harpal Singh Cheema refuted the allegations, calling them false and baseless.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "INC",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55752,
+      "title": "India's cows offer biogas alternative to Mideast energy crunch - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1996638/indias-cows-offer-biogas-alternative-to-mideast-energy-crunch",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/011212225de122f.webp",
+      "scraped_at": "2026-05-01 15:15:09.189015",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "India's government",
+      "rephrased_article": "An energy crunch in India, caused by the Iran war, has led to long queues for cooking gas cylinders. **Gauri Devi**, a 25-year-old woman from Uttar Pradesh, uses biogas produced from cow dung as an alternative fuel source.  **India's government** promotes biogas production as a low-cost rural energy source, subsidizing millions of digester units that convert farm waste into methane for cooking and fertilizer. While biogas provides a reliable cooking fuel option, it remains a small fraction of household cooking fuel due to logistical challenges like cost and space limitations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 55724,
+      "title": "India raises cooking gas, jet fuel prices as supply pressures mount - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1996683/india-raises-cooking-gas-jet-fuel-prices-as-supply-pressures-mount",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/01182707f1f9203.webp",
+      "scraped_at": "2026-05-01 14:05:35.752136",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's** state-run energy firm, **Indian Oil Corporation Limited (IOCL)**, raised the prices of commercial liquefied petroleum gas (LPG) and jet fuel for international airlines. The price hikes are attributed to supply pressures from the Middle East war, which has disrupted imports.  The government maintains that India faces no overall fuel shortage, but the increases will impact restaurants and other sectors reliant on LPG and jet fuel.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55624,
+      "title": "Square Yards reports Rs 2,086 crore revenue in FY26, growth of 48% year-over-year - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/square-yards-reports-rs-2086-crore-revenue-in-fy26-growth-of-48-year-over-year/articleshow/130671971.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130671965,width-1200,height-630,imgsize-2303299,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-01 07:46:58.207947",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Square Yards",
+      "rephrased_article": "**Square Yards**, a real estate brokerage firm, reported a 49% year-over-year increase in gross profit to Rs 476 crore (USD 51 million) driven by strong India revenue growth. The company facilitated over 2.73 lakh customer acquisitions in FY26 and saw Bangalore lead the market share for real estate GTV at 30%.  **Square Yards'** fintech arm, Urban Money, also reported a significant contribution to total gross value transaction (GTV) with mortgage loans accounting for 86% of its portfolio.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Hyderabad",
+        "Pune"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55588,
+      "title": "India’s first green methanol plant to turn Kutch’s most invasive weed into marine fuel - The Hindu",
+      "url": "https://www.thehindu.com/news/national/indias-first-green-methanol-plant-to-turn-kutch-weed-into-marine-fuel/article70925310.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qg5w1f/article70926485.ece/alternates/LANDSCAPE_1200/IMG_9871_9_10_2022_18_33_2_1_A0ACF8S7.jpg",
+      "scraped_at": "2026-05-01 01:29:46.895011",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prosopis juliflora**, a highly invasive plant known as gando baval in Kutch, is set to be utilized for the production of green methanol and fuel for ocean-going ships.  The plant was introduced by the British in the 1920s and later by the **Gujarat forest department** in 1961 to combat encroaching salt deserts. The **Indian government** plans to build its first green methanol production plant using this invasive species.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55580,
+      "title": "The rupee at record low will end India’s cheap-money era - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/the-rupee-at-record-low-will-end-indias-cheap-money-era/articleshow/130662202.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130662185,width-1200,height-630,imgsize-97224,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-01 01:27:20.022839",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**RBI** Governor Sanjay Malhotra has signaled a preference to avoid raising interest rates in India, citing the need to manage inflation expectations.  However, pressure from the foreign-exchange market and the war in Iran have led to a weakening of the Indian rupee, prompting concerns about capital outflow and potential demand compression. The central bank's easing measures may be insufficient to prevent higher inflation as energy prices surge and monsoon forecasts suggest potential food shortages.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education"
       ]
     }
   ]

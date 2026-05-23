@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 14:50:11.029058",
+  "generated_at": "2026-05-23 18:12:07.203222",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,86 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 149,
-    "articles_last_30d": 149
+    "total_articles": 172,
+    "articles_last_30d": 172
   },
   "top_cities_30d": {
-    "Delhi": 31,
-    "Hyderabad": 11,
+    "Delhi": 33,
+    "Hyderabad": 12,
     "Kolkata": 10,
+    "Bengaluru": 10,
     "Mumbai": 9,
-    "Bengaluru": 9,
     "Ahmedabad": 6,
     "Patna": 5,
     "Agra": 3,
-    "Jaipur": 2,
-    "Coimbatore": 2
+    "Surat": 3,
+    "Jaipur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 147,
-    "infrastructure": 52,
-    "economy": 49,
-    "protest_opposition": 45,
-    "education": 39,
-    "crime_violence": 32,
-    "farmer_agriculture": 28,
-    "health": 15,
-    "corruption_scam": 12,
+    "foreign_policy": 170,
+    "infrastructure": 62,
+    "economy": 55,
+    "protest_opposition": 53,
+    "education": 41,
+    "crime_violence": 34,
+    "farmer_agriculture": 29,
+    "health": 17,
+    "corruption_scam": 13,
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 61158,
+      "title": "Government plans to inaugurate Bhogapuram Airport on July 5: MP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-plans-to-inaugurate-bhogapuram-airport-on-july-5-mp/article71014262.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dws1t7/article71014381.ece/alternates/LANDSCAPE_1200/SIDAR-experts-wG78FNE9L1.3.jpg.jpg",
+      "scraped_at": "2026-05-23 12:08:49.900577",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**M. Sribharat**, an MP, announced that the **State government** plans to inaugurate the International Airport at Bhogapuram on July 5th with Prime Minister **Narendra Modi**.  He expressed confidence that several airlines would soon begin operations from the new airport following its inauguration. Scoot Airlines will commence international services from Bhogapuram Airport starting July 8th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 61154,
+      "title": "Back Rahul Gandhi’s call for ‘Samvidhan Bachao’, says Jagga Reddy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/back-rahul-gandhis-call-for-samvidhan-bachao-says-jagga-reddy/article71014241.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/k28vyj/article71014240.ece/alternates/LANDSCAPE_1200/TPCC%20working%20president%20T%20Jagga%20Reddy%20.jpeg",
+      "scraped_at": "2026-05-23 12:07:50.701659",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**T. Jagga Reddy**, a senior Congress leader, defended **Rahul Gandhi**'s \"Samvidhan Bachao\" campaign, arguing that the Constitution and democratic values are under threat under the current BJP-led government. He compared the Constitution to Karna's armor in the Mahabharata, stating that its protection is vital for citizens' rights and freedoms.  He called for vigilance to safeguard voting rights and constitutional freedoms, highlighting Congress contributions to India's democratic systems throughout history.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61128,
       "title": "U.S. Secretary of State Marco Rubio four-day India visit updates - The Hindu",
@@ -4437,6 +4489,571 @@
         "foreign_policy",
         "infrastructure",
         "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56469,
+      "title": "Assembly elections 2026 results: Counting of votes begins across five States - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-2026-results-counting-of-votes/article70937126.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/l0l6dj/article70937168.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000009B.jpg",
+      "scraped_at": "2026-05-04 03:40:13.770704",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "Counting of votes for the Assembly elections in five states, including Assam, Kerala, Tamil Nadu, Puducherry, and West Bengal, is underway.  **Election Commission of India (ECI)** officials are overseeing the process at designated counting centers across the country. Early trends suggest a tight race in several constituencies with the **DMK** seeking to retain power in Tamil Nadu, while the **AIADMK** and independent candidates like Vijay's Tamilaga Vettri Kazhagam are vying for victory. In Kerala, the ruling Left Democratic Front faces competition from the Opposition United Democratic Front (UDF) and Bharatiya Janata Party-led National Democratic Alliance (NDA).  Security arrangements have been tightened across all states to ensure a smooth and peaceful counting process.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Kerala",
+        "Maharashtra",
+        "Nagaland",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56455,
+      "title": "India-Jamaica ties characterised by ‘continuity and change’: Jaishankar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-jamaica-ties-characterised-by-continuity-and-change-jaishankar/article70936414.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wiujjn/article70936415.ece/alternates/LANDSCAPE_1200/20260503054L.jpg",
+      "scraped_at": "2026-05-03 23:54:08.640314",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**S. Jaishankar**, India's External Affairs Minister, concluded his first visit to Jamaica on Sunday, highlighting the \"continuity and change\" in the bilateral relationship between the two countries.  He emphasized shared history, current cooperation, and a future with greater possibilities for both nations. **Jaishankar** also stressed the importance of building a deeper partnership that benefits their people and contributes to a more just world.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56450,
+      "title": "Saini urges Punjab OBCs to back BJP in Assembly polls - The Hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/saini-urges-punjab-obcs-to-back-bjp-in-assembly-polls/article70935987.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/77n56i/article70936295.ece/alternates/LANDSCAPE_1200/PTI05_03_2026_000478B.jpg",
+      "scraped_at": "2026-05-03 22:51:43.514605",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Haryana Chief Minister Nayab Singh Saini** urged the OBC community in Punjab to unite and support the **BJP** in the upcoming Assembly elections. He claimed that the party ensures equal representation and criticized the Aam Aadmi Party government's performance, citing disillusionment with poll promises.  Saini highlighted the community's contributions to nation-building and alleged they have been denied opportunities in Punjab. He urged them to support the BJP, referencing measures under Prime Minister Narendra Modi for OBC representation, reservation in education, and constitutional status for the OBC Commission.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56442,
+      "title": "Ahead of Misri’s expected Nepal visit, Kathmandu expresses concern to India, China on Kailash yatra over Lipulekh - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ahead-of-misris-expected-nepal-visit-kathmandu-expresses-concern-to-india-china-on-kailash-yatra-over-lipulekh/article70935673.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nxmsmb/article70935870.ece/alternates/LANDSCAPE_1200/20260501304L.jpg",
+      "scraped_at": "2026-05-03 21:53:49.092968",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "India",
+      "rephrased_article": "**Nepal** expressed its opposition to the upcoming Kailash Manasarovar Yatra through the Kalapani-Limpiyadhura-Lipulekh region, reiterating that the area is part of its sovereign territory. **India's Ministry of External Affairs (MEA)** refuted these claims, stating they are not based on historical facts and have been a long-standing route for the pilgrimage since 1954.  The visit of **Foreign Secretary Vikram Misri** to Kathmandu was previously in focus due to uncertainties regarding meeting with the new Prime Minister, Balendra Shah, who has adopted a restrictive diplomatic protocol. The situation highlights ongoing tensions between India and Nepal over territorial disputes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56379,
+      "title": "Hazrat Khwaja Bande Nawaz Urs gets under way in Kalaburagi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/hazrat-khwaja-bande-nawaz-urs-gets-under-way-in-kalaburagi/article70935453.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6lz9sm/article70936071.ece/alternates/LANDSCAPE_1200/10258_3_5_2026_19_27_9_1_KLB_KBN_URS_SANDAL_PROCCESSION_1.JPEG",
+      "scraped_at": "2026-05-03 17:33:48.532753",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Hazrat Khwaja Bande Nawaz Gesu Daraz",
+      "rephrased_article": "The 622nd Urs-e-Shareef of the revered Sufi saint **Hazrat Khwaja Bande Nawaz Gesu Daraz** commenced in Kalaburagi, drawing thousands of devotees. The four-day observance commemorates the life and legacy of the saint who dedicated himself to fostering unity and harmony among communities.  Devotees participated in special prayers, rituals, and processions, including a solemn sandal paste procession that culminated at the saint's tomb. **Syed Mohammad Ali Al-Hussaini**, Sajjada Nasheen of the Dargah Shareef, presided over the events. The celebrations highlight the saint's teachings on love, kindness, inclusiveness, and peaceful coexistence.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56154,
+      "title": "Rahul Gandhi cites Gujarat BJP chief’s ‘indecent remarks’ against Geniben Thakor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-cites-gujarat-bjp-chiefs-indecent-remarks-against-geniben-thakor/article70933018.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fay7mr/article70933313.ece/alternates/LANDSCAPE_1200/West%20Bengal%20Assembly%20elections%202026%20%2032.JPG",
+      "scraped_at": "2026-05-02 22:51:19.257557",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Rahul Gandhi**, leader of the Opposition in the Lok Sabha, criticized **the BJP** after its Gujarat unit president made an offensive remark about Congress MP Geniben Thakor.  Gandhi accused the party of having a \"distorted mindset\" and promoting an \"anti-women\" ideology, stating that the BJP's actions contradict their claims of women empowerment. **Priyanka Gandhi Vadra**, Congress general secretary, also condemned the incident, supporting **Geniben Thakor** and highlighting the hypocrisy of the BJP's \"Nari Vandana\" campaign.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56152,
+      "title": "What is India’s new Cell Broadcast System? Everything you need to know - The Hindu",
+      "url": "https://www.thehindu.com/news/national/what-is-india-new-cell-broadcast-system-emergency-alert-ndma-everything-you-need-to-know/article70931015.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vexpik/article70932877.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000052B.jpg",
+      "scraped_at": "2026-05-02 21:51:28.054602",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Union Telecom Minister",
+      "rephrased_article": "**Jyotiraditya Scindia**, **Union Telecom Minister**, launched the Cell Broadcast Alert System in India on Saturday, a system designed to deliver emergency and natural disaster alerts to citizens' mobile phones. The system, developed by the **Department of Telecommunications (DoT)** in collaboration with the **National Disaster Management Authority (NDMA)**, utilizes indigenous technology and is based on the Common Alerting Protocol (CAP).  The system was tested on April 29th and will be used to deliver critical information about disasters and emergencies. Users can enable or disable test alerts through their device settings.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56080,
+      "title": "2,792 MoUs inked at Vibrant Gujarat regional conference; expected to create 2.82 lakh jobs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/2792-mous-inked-at-vibrant-gujarat-regional-conference-expected-to-create-282-lakh-jobs/article70931693.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nizjmh/article70932705.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000122.jpg",
+      "scraped_at": "2026-05-02 16:19:52.280881",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Vibrant Gujarat initiative",
+      "rephrased_article": "**Gujarat's Deputy Chief Minister Harsh Sanghavi** announced that **2,792 memoranda of understanding (MoUs)** were signed during the Vibrant Gujarat Regional Conference for South Gujarat, generating an investment of ₹3,53,306 crore and promising 2.82 lakh direct jobs. The agreements are expected to be implemented over the next three years as part of the state government's efforts to expand the Vibrant Gujarat initiative beyond Gandhinagar under **Chief Minister Bhupendra Patel**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56074,
+      "title": "INDIA bloc likely to meet after poll results to discuss strategy on delimitation, women’s quota - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-likely-to-meet-after-poll-results-to-discuss-strategy-on-delimitation-womens-quota/article70932063.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/puwlpx/article70932331.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000495B.jpg",
+      "scraped_at": "2026-05-02 16:16:40.477494",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Narenda Modi",
+      "rephrased_article": "The **INDIA** bloc is expected to meet in mid-May to discuss the way forward on women's reservation, which was tied up with delimitation. The government proposed increasing Lok Sabha seats and offering 33% of them to women, but this was not included in the Constitution (131st Amendment) Bill. **Narenda Modi** is unlikely to abandon his plan for the expansion of the Lok Sabha.  The bloc will likely not discuss the Assembly elections as constituents fought separately in Kerala and West Bengal.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56025,
+      "title": "Two killed, 15 injured as bus carrying pilgrims overturns in Gujarat - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/several-injured-killed-bus-accident-gujarat-junagadh-latest-update/article70931910.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 13:28:01.764959",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "nilgai",
+      "rephrased_article": "A **bus** carrying pilgrims from Bhavnagar to Dwarka and Somnath overturned in Junagadh district on Saturday, killing two women and injuring at least 15 passengers. The accident occurred when a **nilgai** darted across the road, causing the driver to lose control of the vehicle near Rahij village.  Local residents assisted the injured while authorities used an excavator to rescue trapped passengers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure",
+        "health"
+      ]
+    },
+    {
+      "id": 55915,
+      "title": "Bihar CM Samrat Choudhary proposes system where the children of Ministers and the poor study together - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-proposes-system-where-the-children-of-ministers-and-the-poor-study-together/article70928935.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rz1xme/article70930677.ece/alternates/LANDSCAPE_1200/20260501202L.jpg",
+      "scraped_at": "2026-05-02 03:48:48.432428",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Nitish Kumar",
+      "rephrased_article": "**Samrat Choudhary**, Bihar Chief Minister, visited Nalanda for the first time since assuming office on Friday. He praised former Chief Minister **Nitish Kumar**'s development work in Nalanda and across the state while highlighting that Bihar is progressing under the leadership of **Prime Minister Narendra Modi** and **Nitish Kumar**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55903,
+      "title": "Govt. absorbed global oil shock, didn’t pass it on to consumers: Hardeep Puri - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-absorbed-global-oil-shock-didnt-pass-it-on-to-consumers-hardeep-puri/article70928855.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3jkka2/article70929563.ece/alternates/LANDSCAPE_1200/HS%20Phoolka%20joins%20BJP%209.JPG",
+      "scraped_at": "2026-05-02 03:44:05.229959",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Union Petroleum and Natural Gas Minister Hardeep Singh Puri** stated that India maintained stable energy supplies despite a 60-day disruption caused by the closure of the Strait of Hormuz. He attributed this stability to long-term planning and timely policy interventions by the **Narendra Modi government**, which absorbed global shock at the fiscal level instead of passing it on to consumers.  **Mr. Puri** highlighted that India ensured uninterrupted availability of various fuels, while also emphasizing the country's diversification efforts in crude sourcing and LPG imports. Gujarat Chief Minister Bhupendra Patel emphasized the state's role as a growth hub for industries like chemicals, pharmaceuticals, textiles, and tourism.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Surat",
+        "Rajkot"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 55874,
+      "title": "Scorching heat boosts salt production in Thoothukudi; glut concerns grow - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/scorching-heat-boosts-salt-production-in-thoothukudi-glut-concerns-grow/article70920841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/80lzib/article70921066.ece/alternates/LANDSCAPE_1200/9865_29_4_2026_18_9_38_2_DSC_1692.JPG",
+      "scraped_at": "2026-05-01 23:02:39.804690",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Thoothukudi salt producers",
+      "rephrased_article": "**Thoothukudi** district producers are experiencing a surge in salt production this season, but face concerns about falling demand and the influx of **Gujarat** salt into the southern market.  While average production is around 25 lakh tonnes, unseasonal rainfall has impacted previous seasons, leading to increased reliance on **Gujarat** salt for traders in the region.  **M.P. Dileep**, a local salt manufacturer, expresses concern about stock accumulation despite favorable weather conditions and predicts price drops in Thoothukudi. **A.R.A.S. Dhanabalan**, former secretary of the **Thoothukudi Small Scale Salt Producers’ Association**, echoes these concerns regarding both local and export markets.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55860,
+      "title": "India to tap augmented solar capacity, coal to weather El Nino, summer-related power demand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-collector-felicitates-class-10-toppers-from-govt-schools/article70929200.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p3c425/article70929742.ece/alternates/LANDSCAPE_1200/KSEB_04.JPG",
+      "scraped_at": "2026-05-01 22:04:47.280968",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "India",
+      "rephrased_article": "**India** is expected to meet its increased power demand this summer, with traditional coal-powered thermal plants and augmented solar power playing a key role.  While **India's** peak power demand reached 256.1 gigawatts in April, **thermal plants** accounted for 66.9% of generation, while solar power contributed 21.5%. Despite the potential impact of El Nino on monsoon rains and temperatures, **India** has ample coal reserves to meet its needs, with a stock sufficient for over 83 days of usage.  The government is confident in the country's ability to weather the challenges posed by both summer demand and El Nino conditions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Maharashtra",
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55859,
+      "title": "India to tap augmented solar capacity, coal to weather El Nino, summer-related power demand - The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/india-to-tap-augmented-solar-capacity-coal-to-weather-el-nino-summer-related-power-demand/article70929050.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p3c425/article70929742.ece/alternates/LANDSCAPE_1200/KSEB_04.JPG",
+      "scraped_at": "2026-05-01 22:04:24.552629",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India",
+      "rephrased_article": "**India** is expected to meet its increased power demands this summer, with traditional coal-powered thermal plants and augmented solar power playing a key role.  While solar energy accounts for about 30% of India's installed capacity, limitations in battery storage currently restrict its full utilization. **The Indian Meteorological Department (IMD)** predicts El Nino conditions that could lead to weaker monsoon rains and longer dry spells, impacting rainfall patterns across the country. However, **India** has ample coal stocks, with daily consumption averaging around 2.3-2.4 million tonnes, which would last for more than 83 days.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Maharashtra",
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55758,
+      "title": "Load testing on Peenya flyover, traffic banned from May 5 to 8 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/load-testing-on-peenya-flyover-traffic-banned-from-may-5-to-8/article70928836.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8bax98/article70929116.ece/alternates/LANDSCAPE_1200/Bengaluru-likelGLMFLATUM.3.jpg.jpg",
+      "scraped_at": "2026-05-01 15:16:25.666240",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "NHAI",
+      "rephrased_article": "**The National Highways Authority of India (NHAI)** will conduct load testing on the Peenya Elevated Flyover from May 5 to 8 between 5 a.m. and 11 a.m., resulting in traffic bans during those days. The flyover, a key entry/exit point for northern districts, was originally scheduled for testing in April but was postponed due to Prime Minister Narendra Modi's visit to the city.  The **Bengaluru Traffic Police** have advised drivers to use service roads and alternative junctions to avoid congestion.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55722,
+      "title": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu",
+      "url": "https://www.thehindu.com/news/national/modi-empowered-ed-to-cleanse-cancer-of-financial-crimes-not-to-target-anyone-mos-pankaj-chaudhary/article70928211.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lqmo2l/article70928220.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000065A.jpg",
+      "scraped_at": "2026-05-01 14:04:53.149265",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "ED",
+      "rephrased_article": "**Union Minister of State (MoS) for Finance Pankaj Chaudhary** stated that the **Enforcement Directorate (ED)** has been given necessary powers to combat financial crimes and terror funding, not to target individuals.  He highlighted the rise in financial crimes like money laundering, 'hawala' transactions, and corporate fraud as reasons for this strengthened agency. The ED achieved significant success with attachments worth ₹2.36 lakh crore since 2005 and a conviction rate of nearly 94% in money laundering cases.  The agency also initiated proceedings under the Fugitive Economic Offenders Act (FEOA) against 54 individuals, confiscating properties worth ₹2,178.34 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55717,
+      "title": "Conducting health camp and distributing kits is not labour welfare, says Union Minister Shobha Karandlaje - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/conducting-health-camp-and-distributing-kits-is-not-labour-welfare-says-union-minister-shobha-karandlaje/article70928411.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bb2mu6/article70928841.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000288A.jpg",
+      "scraped_at": "2026-05-01 14:03:19.823242",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Shobha Karandlaje**, Union Minister of State for Labour, Employment and MSME, criticized the functioning of the **Karnataka** State Labour Department.  She alleged that construction workers' welfare fund is not being utilized properly in the state, citing the example of an uncommissioned ESI Hospital in Chikkaballapur.  The minister also expressed disappointment over the defeat of a revised Women’s Reservation Bill linked to delimitation due to opposition politics. **Prime Minister Narendra Modi** led government has introduced four labour codes to replace 29 Central laws, with a focus on providing social security and facilities for all workers in the country.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55630,
+      "title": "Mahua flower festival celebrated in Telangana’s Adilabad - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/mahua-flower-festival-celebrated-in-telanganas-adilabad/article70925832.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/6jne01/article70927792.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-30%20at%209.15.58%20PM.jpeg",
+      "scraped_at": "2026-05-01 07:48:46.969093",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Adilabad Collector Rajarshi Shah",
+      "rephrased_article": "**Adilabad Collector Rajarshi Shah** urged tribal communities to collect **ippa** flowers sustainably to enhance their economic well-being. He emphasized the importance of preserving trees and respecting tribal heritage, highlighting the significance of these efforts in achieving financial self-reliance. The call was made during the annual \"Ippa Puvvu Panduga\" event organized by the Integrated Tribal Development Agency, Utnoor, in collaboration with Adivasi (Gondwana) organizations at Jamidi village in Adilabad district.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55588,
+      "title": "India’s first green methanol plant to turn Kutch’s most invasive weed into marine fuel - The Hindu",
+      "url": "https://www.thehindu.com/news/national/indias-first-green-methanol-plant-to-turn-kutch-weed-into-marine-fuel/article70925310.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qg5w1f/article70926485.ece/alternates/LANDSCAPE_1200/IMG_9871_9_10_2022_18_33_2_1_A0ACF8S7.jpg",
+      "scraped_at": "2026-05-01 01:29:46.895011",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prosopis juliflora**, a highly invasive plant known as gando baval in Kutch, is set to be utilized for the production of green methanol and fuel for ocean-going ships.  The plant was introduced by the British in the 1920s and later by the **Gujarat forest department** in 1961 to combat encroaching salt deserts. The **Indian government** plans to build its first green methanol production plant using this invasive species.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55500,
+      "title": "Odisha Assembly: BJP, BJD and Congress resort to political one-upmanship over women’s reservation - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-assembly-bjp-bjd-and-congress-resort-to-political-one-upmanship-over-womens-reservation/article70925338.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8yvb1v/article70926203.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000108A.jpg",
+      "scraped_at": "2026-04-30 18:27:07.312168",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Odisha** Chief Minister **Mohan Charan Majhi** addressed the special session of the state legislative assembly on Thursday, April 30, 2026, emphasizing women's active participation in Indian democracy.  He assured that reservation for women in the Lok Sabha and State Assemblies would be implemented from 2029. **Naveen Patnaik**, Leader of Opposition, criticized the BJP's handling of the issue, arguing that it was a ploy to push through delimitation without proper discussion. The BJD also highlighted its past support for women's reservation, while the Congress demanded immediate implementation of the already passed 33% reservation bill.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
         "protest_opposition"
       ]
     }

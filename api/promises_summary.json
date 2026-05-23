@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 14:50:11.229831",
+  "generated_at": "2026-05-23 18:12:07.416904",
   "stats": {
     "total_promises": 20,
     "kept": 2,
@@ -17,9 +17,9 @@
         "status": "broken",
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the deadline has passed."
+        "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
       {
         "id": "p002",
@@ -30,9 +30,9 @@
         "status": "broken",
         "made_on": "2014-03-15",
         "deadline": "ongoing",
-        "evidence_count": 5,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on Modi's visit to Italy and government meetings, not on job creation."
+        "gemma_reasoning": "The promise is not directly addressed in the provided evidence."
       },
       {
         "id": "p003",
@@ -43,7 +43,7 @@
         "status": "broken",
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
-        "evidence_count": 4,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -56,9 +56,9 @@
         "status": "broken",
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
-        "evidence_count": 7,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on domestic and international relations, not economic progress."
+        "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
       {
         "id": "p006",
@@ -69,9 +69,9 @@
         "status": "broken",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence does not relate to the promise of ending corruption."
+        "gemma_reasoning": "The promise is not directly related to the provided evidence."
       },
       {
         "id": "p007",
@@ -82,9 +82,9 @@
         "status": "broken",
         "made_on": "2017-02-01",
         "deadline": "ongoing",
-        "evidence_count": 7,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is still in effect as it is a policy implemented by the government."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The evidence provided focuses on political events and Modi's visits, not on the impact of electoral bonds on transparency."
       },
       {
         "id": "p011",
@@ -95,9 +95,9 @@
         "status": "broken",
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
-        "evidence_count": 4,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on Modi's visit to Italy and government meetings, not on the status of demonetization."
+        "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and economic concerns."
       },
       {
         "id": "p012",
@@ -108,9 +108,9 @@
         "status": "broken",
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
-        "evidence_count": 7,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2015, and the deadline has passed."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The project was approved in 2023, but the timeline for completion is not specified."
       },
       {
         "id": "p016",
@@ -121,9 +121,9 @@
         "status": "broken",
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
-        "evidence_count": 1,
+        "evidence_count": 6,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on traffic congestion in Katpadi, not the Yamuna river."
+        "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       },
       {
         "id": "p017",
@@ -134,9 +134,9 @@
         "status": "broken",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
-        "evidence_count": 2,
+        "evidence_count": 10,
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a policy proposal, not a current program."
+        "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it is not yet implemented."
       }
     ],
     "ongoing": [
@@ -149,7 +149,7 @@
         "status": "ongoing",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -162,9 +162,9 @@
         "status": "ongoing",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
-        "evidence_count": 3,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the provided evidence does not mention any progress towards it."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
       {
         "id": "p009",
@@ -175,9 +175,9 @@
         "status": "ongoing",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is still being implemented, but no concrete timeline or details have been provided."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The provided evidence focuses on austerity measures and political appointments, not on the implementation of the Uniform Civil Code."
       },
       {
         "id": "p010",
@@ -188,9 +188,9 @@
         "status": "ongoing",
         "made_on": "2019-06-01",
         "deadline": "ongoing",
-        "evidence_count": 7,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is mentioned in the context of a government reform agenda, but no specific details or timeline are provided."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The evidence shows that Modi's call for austerity has not been universally followed."
       },
       {
         "id": "p013",
@@ -201,9 +201,9 @@
         "status": "ongoing",
         "made_on": "2018-09-17",
         "deadline": "ongoing",
-        "evidence_count": 2,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on political disputes and proposals, not on Amit Shah's specific promise."
+        "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       },
       {
         "id": "p018",
@@ -214,9 +214,9 @@
         "status": "ongoing",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
-        "evidence_count": 1,
+        "evidence_count": 8,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence is unrelated to Yogi Adityanath's promise in Uttar Pradesh."
+        "gemma_reasoning": "The provided articles do not mention Yogi Adityanath's promise regarding mafia raj and crime."
       },
       {
         "id": "p019",
@@ -227,9 +227,9 @@
         "status": "ongoing",
         "made_on": "2011-05-20",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-standing slogan and not directly related to the provided news."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The promise is not directly related to the provided news articles."
       },
       {
         "id": "p020",
@@ -240,9 +240,9 @@
         "status": "ongoing",
         "made_on": "2023-08-15",
         "deadline": "2047-08-15",
-        "evidence_count": 8,
+        "evidence_count": 10,
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-term goal, not a specific policy or promise broken or kept."
+        "gemma_reasoning": "The promise is a long-term goal with no concrete evidence of progress."
       }
     ],
     "kept": [
@@ -255,9 +255,9 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 5,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on school upgrades and singing of national songs, not on Arvind Kejriwal's promise of free and world-class government schools."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
       {
         "id": "p015",
@@ -268,9 +268,9 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No evidence provided regarding the status of this promise."
+        "evidence_count": 6,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The provided articles do not mention anything about the status of the free electricity promise."
       }
     ]
   },
@@ -285,9 +285,9 @@
         "status": "broken",
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the deadline has passed."
+        "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
       {
         "id": "p002",
@@ -298,9 +298,9 @@
         "status": "broken",
         "made_on": "2014-03-15",
         "deadline": "ongoing",
-        "evidence_count": 5,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on Modi's visit to Italy and government meetings, not on job creation."
+        "gemma_reasoning": "The promise is not directly addressed in the provided evidence."
       },
       {
         "id": "p003",
@@ -311,7 +311,7 @@
         "status": "broken",
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
-        "evidence_count": 4,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -324,7 +324,7 @@
         "status": "ongoing",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -337,9 +337,9 @@
         "status": "broken",
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
-        "evidence_count": 7,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on domestic and international relations, not economic progress."
+        "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
       {
         "id": "p006",
@@ -350,9 +350,9 @@
         "status": "broken",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence does not relate to the promise of ending corruption."
+        "gemma_reasoning": "The promise is not directly related to the provided evidence."
       },
       {
         "id": "p007",
@@ -363,9 +363,9 @@
         "status": "broken",
         "made_on": "2017-02-01",
         "deadline": "ongoing",
-        "evidence_count": 7,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is still in effect as it is a policy implemented by the government."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The evidence provided focuses on political events and Modi's visits, not on the impact of electoral bonds on transparency."
       },
       {
         "id": "p008",
@@ -376,9 +376,9 @@
         "status": "ongoing",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
-        "evidence_count": 3,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the provided evidence does not mention any progress towards it."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
       {
         "id": "p009",
@@ -389,9 +389,9 @@
         "status": "ongoing",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is still being implemented, but no concrete timeline or details have been provided."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The provided evidence focuses on austerity measures and political appointments, not on the implementation of the Uniform Civil Code."
       },
       {
         "id": "p010",
@@ -402,9 +402,9 @@
         "status": "ongoing",
         "made_on": "2019-06-01",
         "deadline": "ongoing",
-        "evidence_count": 7,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is mentioned in the context of a government reform agenda, but no specific details or timeline are provided."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The evidence shows that Modi's call for austerity has not been universally followed."
       },
       {
         "id": "p011",
@@ -415,9 +415,9 @@
         "status": "broken",
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
-        "evidence_count": 4,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on Modi's visit to Italy and government meetings, not on the status of demonetization."
+        "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and economic concerns."
       },
       {
         "id": "p012",
@@ -428,9 +428,9 @@
         "status": "broken",
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
-        "evidence_count": 7,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2015, and the deadline has passed."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The project was approved in 2023, but the timeline for completion is not specified."
       },
       {
         "id": "p020",
@@ -441,9 +441,9 @@
         "status": "ongoing",
         "made_on": "2023-08-15",
         "deadline": "2047-08-15",
-        "evidence_count": 8,
+        "evidence_count": 10,
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-term goal, not a specific policy or promise broken or kept."
+        "gemma_reasoning": "The promise is a long-term goal with no concrete evidence of progress."
       }
     ],
     "Amit Shah": [
@@ -456,9 +456,9 @@
         "status": "ongoing",
         "made_on": "2018-09-17",
         "deadline": "ongoing",
-        "evidence_count": 2,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on political disputes and proposals, not on Amit Shah's specific promise."
+        "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       }
     ],
     "Arvind Kejriwal": [
@@ -471,9 +471,9 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 5,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on school upgrades and singing of national songs, not on Arvind Kejriwal's promise of free and world-class government schools."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
       {
         "id": "p015",
@@ -484,9 +484,9 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No evidence provided regarding the status of this promise."
+        "evidence_count": 6,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The provided articles do not mention anything about the status of the free electricity promise."
       },
       {
         "id": "p016",
@@ -497,9 +497,9 @@
         "status": "broken",
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
-        "evidence_count": 1,
+        "evidence_count": 6,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on traffic congestion in Katpadi, not the Yamuna river."
+        "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       }
     ],
     "Rahul Gandhi": [
@@ -512,9 +512,9 @@
         "status": "broken",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
-        "evidence_count": 2,
+        "evidence_count": 10,
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a policy proposal, not a current program."
+        "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it is not yet implemented."
       }
     ],
     "Yogi Adityanath": [
@@ -527,9 +527,9 @@
         "status": "ongoing",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
-        "evidence_count": 1,
+        "evidence_count": 8,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence is unrelated to Yogi Adityanath's promise in Uttar Pradesh."
+        "gemma_reasoning": "The provided articles do not mention Yogi Adityanath's promise regarding mafia raj and crime."
       }
     ],
     "Mamata Banerjee": [
@@ -542,9 +542,9 @@
         "status": "ongoing",
         "made_on": "2011-05-20",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-standing slogan and not directly related to the provided news."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The promise is not directly related to the provided news articles."
       }
     ]
   },
@@ -559,9 +559,9 @@
         "status": "broken",
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the deadline has passed."
+        "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
       {
         "id": "p002",
@@ -572,9 +572,9 @@
         "status": "broken",
         "made_on": "2014-03-15",
         "deadline": "ongoing",
-        "evidence_count": 5,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on Modi's visit to Italy and government meetings, not on job creation."
+        "gemma_reasoning": "The promise is not directly addressed in the provided evidence."
       },
       {
         "id": "p003",
@@ -585,7 +585,7 @@
         "status": "broken",
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
-        "evidence_count": 4,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -598,7 +598,7 @@
         "status": "ongoing",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -611,9 +611,9 @@
         "status": "broken",
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
-        "evidence_count": 7,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on domestic and international relations, not economic progress."
+        "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
       {
         "id": "p006",
@@ -624,9 +624,9 @@
         "status": "broken",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
-        "evidence_count": 3,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence does not relate to the promise of ending corruption."
+        "gemma_reasoning": "The promise is not directly related to the provided evidence."
       },
       {
         "id": "p007",
@@ -637,9 +637,9 @@
         "status": "broken",
         "made_on": "2017-02-01",
         "deadline": "ongoing",
-        "evidence_count": 7,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is still in effect as it is a policy implemented by the government."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The evidence provided focuses on political events and Modi's visits, not on the impact of electoral bonds on transparency."
       },
       {
         "id": "p008",
@@ -650,9 +650,9 @@
         "status": "ongoing",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
-        "evidence_count": 3,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the provided evidence does not mention any progress towards it."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
       {
         "id": "p009",
@@ -663,9 +663,9 @@
         "status": "ongoing",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is still being implemented, but no concrete timeline or details have been provided."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The provided evidence focuses on austerity measures and political appointments, not on the implementation of the Uniform Civil Code."
       },
       {
         "id": "p010",
@@ -676,9 +676,9 @@
         "status": "ongoing",
         "made_on": "2019-06-01",
         "deadline": "ongoing",
-        "evidence_count": 7,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is mentioned in the context of a government reform agenda, but no specific details or timeline are provided."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The evidence shows that Modi's call for austerity has not been universally followed."
       },
       {
         "id": "p011",
@@ -689,9 +689,9 @@
         "status": "broken",
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
-        "evidence_count": 4,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on Modi's visit to Italy and government meetings, not on the status of demonetization."
+        "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and economic concerns."
       },
       {
         "id": "p012",
@@ -702,9 +702,9 @@
         "status": "broken",
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
-        "evidence_count": 7,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2015, and the deadline has passed."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The project was approved in 2023, but the timeline for completion is not specified."
       },
       {
         "id": "p013",
@@ -715,9 +715,9 @@
         "status": "ongoing",
         "made_on": "2018-09-17",
         "deadline": "ongoing",
-        "evidence_count": 2,
+        "evidence_count": 10,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on political disputes and proposals, not on Amit Shah's specific promise."
+        "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       },
       {
         "id": "p018",
@@ -728,9 +728,9 @@
         "status": "ongoing",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
-        "evidence_count": 1,
+        "evidence_count": 8,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence is unrelated to Yogi Adityanath's promise in Uttar Pradesh."
+        "gemma_reasoning": "The provided articles do not mention Yogi Adityanath's promise regarding mafia raj and crime."
       },
       {
         "id": "p020",
@@ -741,9 +741,9 @@
         "status": "ongoing",
         "made_on": "2023-08-15",
         "deadline": "2047-08-15",
-        "evidence_count": 8,
+        "evidence_count": 10,
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-term goal, not a specific policy or promise broken or kept."
+        "gemma_reasoning": "The promise is a long-term goal with no concrete evidence of progress."
       }
     ],
     "AAP": [
@@ -756,9 +756,9 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 5,
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on school upgrades and singing of national songs, not on Arvind Kejriwal's promise of free and world-class government schools."
+        "evidence_count": 10,
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
       {
         "id": "p015",
@@ -769,9 +769,9 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No evidence provided regarding the status of this promise."
+        "evidence_count": 6,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The provided articles do not mention anything about the status of the free electricity promise."
       },
       {
         "id": "p016",
@@ -782,9 +782,9 @@
         "status": "broken",
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
-        "evidence_count": 1,
+        "evidence_count": 6,
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on traffic congestion in Katpadi, not the Yamuna river."
+        "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       }
     ],
     "INC": [
@@ -797,9 +797,9 @@
         "status": "broken",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
-        "evidence_count": 2,
+        "evidence_count": 10,
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a policy proposal, not a current program."
+        "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it is not yet implemented."
       }
     ],
     "TMC": [
@@ -812,9 +812,9 @@
         "status": "ongoing",
         "made_on": "2011-05-20",
         "deadline": "ongoing",
-        "evidence_count": 2,
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-standing slogan and not directly related to the provided news."
+        "evidence_count": 10,
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The promise is not directly related to the provided news articles."
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 14:50:11.065946",
+  "generated_at": "2026-05-23 18:12:07.247302",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "TMC",
@@ -8,30 +8,87 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 104,
-    "articles_last_30d": 104
+    "total_articles": 133,
+    "articles_last_30d": 133
   },
   "top_cities_30d": {
-    "Kolkata": 32,
-    "Delhi": 17,
+    "Kolkata": 35,
+    "Delhi": 18,
     "Chennai": 3,
+    "Bengaluru": 3,
     "Mumbai": 2,
-    "Bengaluru": 2,
-    "Hyderabad": 1
+    "Hyderabad": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 99,
-    "education": 69,
-    "protest_opposition": 49,
-    "crime_violence": 32,
-    "economy": 30,
-    "infrastructure": 30,
-    "farmer_agriculture": 17,
-    "corruption_scam": 10,
-    "health": 9,
+    "foreign_policy": 128,
+    "education": 77,
+    "protest_opposition": 61,
+    "infrastructure": 38,
+    "economy": 34,
+    "crime_violence": 34,
+    "farmer_agriculture": 18,
+    "corruption_scam": 13,
+    "health": 10,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 61187,
+      "title": "One more Trinamool councillor from Bidhannagar arrested - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/one-more-trinamool-councillor-from-bidhannagar-arrested/article71014932.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3z8eoy/article71015304.ece/alternates/LANDSCAPE_1200/iStock-1905024012%203.jpg",
+      "scraped_at": "2026-05-23 15:47:52.329178",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "**TMC** councillors from the municipality of Bidhannagar, **West Bengal**, have been arrested in recent days for charges including intimidation, violence, extortion, and money laundering.  The arrests follow a crackdown by the new **BJP** government after the 2021 Assembly election. Several other TMC leaders, including a local union leader and a former minister, have also been arrested on various charges. The arrests come amid allegations of post-poll violence and threats against citizens.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61144,
+      "title": "Chief Electoral Officer (Kerala) Rathan U. Kelkar appointed Secretary to Chief Minister V.D. Satheesan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/chief-electoral-officer-kerala-rathan-u-kelkar-appointed-secretary-to-chief-minister-vd-satheesan/article71014395.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o0hdz/article71014402.ece/alternates/LANDSCAPE_1200/TH24-REVISED-SrG1NFG1A8U.3.jpg.jpg",
+      "scraped_at": "2026-05-23 12:05:07.645122",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**Rathan U. Kelkar**, the Chief Electoral Officer of **Kerala**, will transition from his role to become the Secretary to **Chief Minister V.D. Satheesan**.  Mr. Kelkar, a 2003 batch IAS officer, has been in the news for overseeing the recent Kerala Assembly elections and the Special Intensive Revision (SIR) of electoral rolls. The appointment follows the recent appointment of **Manoj Kumar Agarwal** as Chief Secretary to the new BJP government in West Bengal.  The State government will send a panel of names to the Election Commission to appoint a new CEO once Mr. Kelkar is relieved of his duties.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 61036,
       "title": "Centre tells Supreme Court it will bring back persons allegedly ‘pushed’ to Bangladesh - The Hindu",
@@ -3423,6 +3480,742 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 56469,
+      "title": "Assembly elections 2026 results: Counting of votes begins across five States - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-2026-results-counting-of-votes/article70937126.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/l0l6dj/article70937168.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000009B.jpg",
+      "scraped_at": "2026-05-04 03:40:13.770704",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "Counting of votes for the Assembly elections in five states, including Assam, Kerala, Tamil Nadu, Puducherry, and West Bengal, is underway.  **Election Commission of India (ECI)** officials are overseeing the process at designated counting centers across the country. Early trends suggest a tight race in several constituencies with the **DMK** seeking to retain power in Tamil Nadu, while the **AIADMK** and independent candidates like Vijay's Tamilaga Vettri Kazhagam are vying for victory. In Kerala, the ruling Left Democratic Front faces competition from the Opposition United Democratic Front (UDF) and Bharatiya Janata Party-led National Democratic Alliance (NDA).  Security arrangements have been tightened across all states to ensure a smooth and peaceful counting process.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Kerala",
+        "Maharashtra",
+        "Nagaland",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56468,
+      "title": "West Bengal, Tamil Nadu among 5 state election results today. 10 things stock market investors should track under volatility - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-assam-among-5-state-election-results-today-10-things-stock-market-investors-should-track-under-volatility/articleshow/130742547.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130742586,width-1200,height-630,imgsize-39746,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-04 03:39:49.496958",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Nifty",
+      "rephrased_article": "**Investors** are advised to focus on broader macro signals rather than political headlines as state elections often trigger short-term volatility.  The **Nifty** is expected to swing 1-1.5% either way depending on the final election results, with crude oil prices remaining a key risk factor. **Foreign institutional investors (FIIs)** continue to sell Indian equities, while domestic institutions are absorbing pressure. Analysts suggest that markets will likely revert to global cues like oil prices and FII flows after the elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56464,
+      "title": "West Bengal election results LIVE: Vote counting under way for 293 seats as TMC looks to retain power, BJP aims historic win - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-live-updates-may-4-2026/article70934929.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/r6weoh/article70937195.ece/alternates/LANDSCAPE_1200/Bengal%20elections%20graphic",
+      "scraped_at": "2026-05-04 03:38:25.891199",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "TMC",
+      "rephrased_article": "**Election Commission of India (ECI)** has appointed additional observers for the counting of votes in West Bengal's Assembly election, following allegations from **Trinamool Congress (TMC) leader Mamata Banerjee**.  The counting is scheduled for May 4th with **TMC**, **BJP**, **CPI(M)** and **Congress** all vying for power. The state saw high voter turnout in both phases of the election.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56391,
+      "title": "West Bengal waits with bated breath for May 4 Assembly election results - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-waits-with-bated-breath-for-may-4-assembly-election-results/article70935796.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bq1uqs/article70936156.ece/alternates/LANDSCAPE_1200/PTI05_03_2026_000174B.jpg",
+      "scraped_at": "2026-05-03 18:19:01.659773",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Election Commission of India (ECI)** will begin counting votes for the West Bengal Assembly elections on Monday, May 4, 2026. The results are expected after repolling for the Falta Assembly seat in South 24 Parganas district on May 21.  The Trinamool Congress, led by Chief Minister Mamata Banerjee, is seeking a fourth consecutive term while the Bharatiya Janata Party (BJP) aims to defeat them with promises of \"paribortan\". The Communist Party of India (Marxist)-led Left front and the Congress have also contested the elections. Security arrangements have been increased due to concerns about irregularities by the Trinamool Congress, which has already begun claiming victory.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56363,
+      "title": "All set for counting; ECI promises transparency - The Hindu",
+      "url": "https://www.thehindu.com/elections/eci-ensures-transparency-and-all-set-for-vote-counting-in-assam-kerala-tamil-nadu-west-bengal-and-puducherry/article70935694.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wdc2r4/article70936126.ece/alternates/LANDSCAPE_1200/20260503205L.jpg",
+      "scraped_at": "2026-05-03 17:28:26.697291",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** has announced its commitment to ensuring transparency, security, and efficiency during the counting of votes for upcoming Assembly elections in five states and bye-elections in seven constituencies. The ECI deployed additional observers in West Bengal to ensure a secure environment. Political parties are closely monitoring the preparations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56271,
+      "title": "West Bengal Assembly polls: Ruckus outside counting centre in Mamata’s constituency - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-polls-ruckus-outside-counting-centre-in-mamatas-constituency/article70934680.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qkvm4a/article70934686.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000107A.jpg",
+      "scraped_at": "2026-05-03 11:04:29.842688",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Mamata Banerjee**, West Bengal Chief Minister, witnessed a ruckus at the counting centre in her Bhabanipur constituency. **TMC** workers alleged that two cars bearing the **BJP** flag were allowed entry to the compound where EVMs are kept. This incident follows a four-hour sit-in by Ms. Banerjee at the same counting centre on Thursday night, alleging unauthorized entry into the strongroom.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56206,
+      "title": "Watch: What happens on counting day? | Explained - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-what-happens-on-counting-day-explained/article70932941.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4ag2dr/article70932937.ece/alternates/LANDSCAPE_1200/counting%203.png",
+      "scraped_at": "2026-05-03 06:35:35.456697",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Across Tamil Nadu, Kerala, Puducherry, West Bengal and Assam, the counting of votes for the upcoming general election will begin on May 4th. The process involves a series of steps including the verification of votes, tallying results, and declaration of winners.  The outcome of these elections will determine the future political landscape of these states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56201,
+      "title": "‘Ten lifetimes won’t be enough’: TMC’s Abhishek Banerjee dares ‘bangla birodhi’ leaders to contest from Falta - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/ten-lifetimes-wont-be-enough-tmcs-abhishek-banerjee-dares-bangla-birodhi-leaders-to-contest-from-falta/article70934527.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ajjbla/article70934552.ece/alternates/LANDSCAPE_1200/PTI04_24_2026_000263A.jpg",
+      "scraped_at": "2026-05-03 06:33:58.840077",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Abhishek Banerjee**, **General Secretary of the Trinamool Congress (TMC)**, responded to remarks by **BJP leader Amit Malviya** regarding the Election Commission of India's decision to order fresh polling in the Falta Assembly constituency.  Banerjee challenged the BJP and its supporters to contest in Falta, accusing them of attempting to undermine his \"Diamond Harbour model.\" The ECI ordered repolling across 285 polling stations in Falta due to reports of electoral offences and subversion during the second phase of voting on April 29th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56193,
+      "title": "Assembly elections 2026 LIVE: 'Ten lifetimes won't be enough', Abhishek Banerjee challenges BJP to contest from Falta - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-eci-live-updates-may-3-2026-tamil-nadu-west-bengal-assam-kerala-pondicherry-results/article70934298.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nigr7p/article70934530.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000337B.jpg",
+      "scraped_at": "2026-05-03 06:31:28.927042",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **Election Commission of India (ECI)** has ordered fresh voting in all 285 polling stations of Falta assembly constituency in West Bengal on May 21st. This decision follows repolling in 15 booths of Paschim Magrahat and Diamond Harbour constituencies due to severe electoral offences and democratic process subversion during the April 29th election. The counting of votes will begin at 8 a.m. on Monday, May 4th, with postal ballots followed by EVMs.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56151,
+      "title": "Bengaluru road rage: Couple assaulted by bikers after warning against rash riding - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-road-rage-couple-assaulted-by-bikers-after-warning-against-rash-riding/article70932448.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 21:50:57.431851",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Electronic City police** have registered a case against three motorists for allegedly assaulting a West Bengal couple after a road rage incident in Bettadasanapura, Bengaluru. The incident occurred when the couple confronted a group of youths performing dangerous driving maneuvers on the road.  The suspects chased the couple's car and assaulted both individuals, causing injuries to **Soumyadeep Sen** and **Vyundreela Pradhan**.  A video of the assault has gone viral, raising concerns about road safety.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure",
+        "health"
+      ]
+    },
+    {
+      "id": 56140,
+      "title": "BJP accuses Trinamool of misusing judicial process out of political desperation - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/supreme-court-ruling-counting-staff-bengal-polls-tmc-bjp/article70931504.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4m9dc4/article70931511.ece/alternates/LANDSCAPE_1200/TH27-Devesh-BJPGDLFC3K2U.3.jpg.jpg",
+      "scraped_at": "2026-05-02 20:55:25.001454",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "The **Supreme Court** declined to intervene in a Calcutta High Court decision regarding the deployment of central government officials for vote counting in West Bengal, prompting accusations from the **BJP** that the **Trinamool Congress** was using the judicial process for political gain.  **BJP** spokesperson Sudhanshu Trivedi claimed the **Trinamool Congress** was resorting to desperate measures due to anxiety about a violence-free election in the state. He also criticized the actions of West Bengal Chief Minister Mamata Banerjee, alleging she did not trust her own government employees and staff.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56120,
+      "title": "ECI announces repolling for Falta Assembly seat in West Bengal on May 21 - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/eci-announces-repolling-for-falta-assembly-seat-in-west-bengal-on-may-21/article70933032.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iaz6gq/article70933160.ece/alternates/LANDSCAPE_1200/20260502236L.jpg",
+      "scraped_at": "2026-05-02 19:40:14.604739",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** has ordered repolling for the Falta Assembly seat in West Bengal on May 21st following allegations of electoral malpractices during the April 29th election. The ECI received complaints about black adhesive tape/perfume being applied to EVM buttons, voter intimidation, unauthorized party presence at polling stations, and instances of voters' companions casting votes on their behalf.  The repolling will be held in all 285 polling stations and vote counting is scheduled for May 24th.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56111,
+      "title": "High turnout for repoll in 15 West Bengal booths; peaceful amid tight security - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/repoll-in-west-bengal-after-election-commission-order/article70930679.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t2262p/article70932905.ece/alternates/LANDSCAPE_1200/20260502151L.jpg",
+      "scraped_at": "2026-05-02 18:16:05.795155",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "**Election Commission** officials oversaw a repoll in 15 booths across two constituencies in West Bengal's South 24 Parganas district on Saturday.  The repoll, held after initial polling was marred by violence, saw high voter turnout in both Magrahat Paschim and Diamond Harbour constituencies. While the final results are pending, the repoll was largely peaceful with no major incidents reported.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56091,
+      "title": "Watch: How Kerala, West Bengal and Assam voted in 2021 - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-how-kerala-west-bengal-and-assam-voted-in-2021/article70932974.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jxoo3i/article70932973.ece/alternates/LANDSCAPE_1200/2021%20voting.png",
+      "scraped_at": "2026-05-02 17:28:44.191023",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "elections",
+      "rephrased_article": "The upcoming elections in Kerala, West Bengal, and Assam are being analyzed by experts to understand voting patterns from the 2021 elections. **Voting** for these states is scheduled for May 4th, and analysts are examining past election results to predict potential outcomes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56085,
+      "title": "Tea garden workers union moves ILO seeking restoration of their rights in West Bengal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/tea-garden-workers-union-moves-ilo-seeking-restoration-of-their-rights-in-west-bengal/article70932781.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o6vf3f/article70933016.ece/alternates/LANDSCAPE_1200/20240424011L.jpg",
+      "scraped_at": "2026-05-02 17:26:53.005624",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "PBCMS",
+      "rephrased_article": "**The Paschim Banga Cha Majoor Samity (PBCMS)**, a trade union representing tea plantation workers in West Bengal, has filed a representation with the **International Labour Organization**, alleging that the government has failed to protect their rights. The PBCMS claims this failure violates binding international obligations under ILO Conventions related to forced labor, equal remuneration, and protection of indigenous populations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56074,
+      "title": "INDIA bloc likely to meet after poll results to discuss strategy on delimitation, women’s quota - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-likely-to-meet-after-poll-results-to-discuss-strategy-on-delimitation-womens-quota/article70932063.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/puwlpx/article70932331.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000495B.jpg",
+      "scraped_at": "2026-05-02 16:16:40.477494",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Narenda Modi",
+      "rephrased_article": "The **INDIA** bloc is expected to meet in mid-May to discuss the way forward on women's reservation, which was tied up with delimitation. The government proposed increasing Lok Sabha seats and offering 33% of them to women, but this was not included in the Constitution (131st Amendment) Bill. **Narenda Modi** is unlikely to abandon his plan for the expansion of the Lok Sabha.  The bloc will likely not discuss the Assembly elections as constituents fought separately in Kerala and West Bengal.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55995,
+      "title": "West Bengal election: Hundreds stage protest over ‘threats’ by TMC workers in Falta - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-protest-falta-violence-tmc-clash-latest-update/article70931402.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/y6obas/article70931415.ece/alternates/LANDSCAPE_1200/20260502148L.jpg",
+      "scraped_at": "2026-05-02 11:54:50.073027",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "**Hundreds** of villagers in Falta, West Bengal staged a protest demanding safety after alleging threats from **TMC workers**. The protesters blocked the road, claiming local panchayat pradhan Israfil threatened them with attacks. **CRPF deputy commandant** visited the area and assured the demonstrators of their security. **Jehangir Khan**, a TMC candidate, dismissed the allegations and claimed the women were staged by the BJP to engineer arrests before the counting.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55984,
+      "title": "Kavitha defends criticism of KCR, alleges attempts made to sabotage registration of her party - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/kavitha-defends-criticism-of-kcr-alleges-attempts-made-to-sabotage-registration-of-her-party/article70931435.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/mzfqoc/article70931480.ece/alternates/LANDSCAPE_1200/Kavitha%20meet%20the%20press%20May%202.jpg",
+      "scraped_at": "2026-05-02 11:03:02.486055",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "K. Chandrashekar Rao",
+      "rephrased_article": "**K. Kavitha**, president of **Telangana Jagruthi**, defended her recent criticism of **K. Chandrashekar Rao**, the president of the **Bharat Rashtra Samithi (BRS)**, stating that she holds ideological differences with him but maintains personal respect for him as a father. She argued that her party, **Telangana Rakshana Sena**, is being formed to provide an alternative political platform in Telangana and that the BJP cannot come to power in the state.  She also claimed that the previous BRS government caused \"opportunity cost\" to Telangana by failing to address issues like unemployment and job opportunities.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 55979,
+      "title": "ECI deploys additional counting, police observers in West Bengal - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/eci-deploys-additional-counting-police-observers-in-west-bengal/article70931509.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h0p8dl/article70931519.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000107A.jpg",
+      "scraped_at": "2026-05-02 11:01:15.633862",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** deployed additional 165 counting observers and 77 police observers in West Bengal ahead of the vote count on May 4, 2026. These observers will assist with security and law enforcement outside the counting centers, while police observers will not be allowed inside the counting centers. The two-phase polling for the 294 Assembly seats took place on April 23 and April 29, with results to be declared on May 4.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55974,
+      "title": "Supreme Court ruling on counting staff for Bengal polls crumbled TMC's bid to seize power unfairly: BJP - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/supreme-court-ruling-on-counting-staff-for-bengal-polls-crumbled-tmcs-bid-to-seize-power-unfairly-bjp/article70931504.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4m9dc4/article70931511.ece/alternates/LANDSCAPE_1200/TH27-Devesh-BJPGDLFC3K2U.3.jpg.jpg",
+      "scraped_at": "2026-05-02 10:59:28.418899",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "The **Supreme Court** declined to intervene in a Calcutta High Court ruling regarding the deployment of **Central employees** for vote counting in West Bengal. The **BJP** claims that the **Trinamool Congress'** attempt to seize power through \"unfair means\" has failed after the high court decision.  **BJP** spokesperson **Sudhanshu Trivedi** suggests the **Trinamool Congress** challenged the ruling out of frustration and desperation following anticipated defeat in the upcoming state elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55912,
+      "title": "Assembly elections 2026 LIVE: Repolling begins at 15 booths in South 24 Parganas after ECI's repoll order - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-may-2-2026-tamil-nadu-west-bengal-assam-kerala-pondicherry-results/article70930663.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t2pdu6/article70930669.ece/alternates/LANDSCAPE_1200/20260429011L.jpg",
+      "scraped_at": "2026-05-02 03:47:36.780770",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Voting began on Saturday, May 2, 2026, at 15 booths in two Assembly constituencies in West Bengal's South 24 Parganas district for repolls ordered by the **Election Commission** following reports of electoral malpractices. The repolls were held in 11 polling stations of Magrahat Paschim Assembly constituency and four in Diamond Harbour. **Shashi Panja**, a **TMC** leader, alleged that the BJP had tried to provoke other parties on polling day to trigger large-scale repolling and \"defame Bengal.\"",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55860,
+      "title": "India to tap augmented solar capacity, coal to weather El Nino, summer-related power demand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-collector-felicitates-class-10-toppers-from-govt-schools/article70929200.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p3c425/article70929742.ece/alternates/LANDSCAPE_1200/KSEB_04.JPG",
+      "scraped_at": "2026-05-01 22:04:47.280968",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "India",
+      "rephrased_article": "**India** is expected to meet its increased power demand this summer, with traditional coal-powered thermal plants and augmented solar power playing a key role.  While **India's** peak power demand reached 256.1 gigawatts in April, **thermal plants** accounted for 66.9% of generation, while solar power contributed 21.5%. Despite the potential impact of El Nino on monsoon rains and temperatures, **India** has ample coal reserves to meet its needs, with a stock sufficient for over 83 days of usage.  The government is confident in the country's ability to weather the challenges posed by both summer demand and El Nino conditions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Maharashtra",
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55859,
+      "title": "India to tap augmented solar capacity, coal to weather El Nino, summer-related power demand - The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/india-to-tap-augmented-solar-capacity-coal-to-weather-el-nino-summer-related-power-demand/article70929050.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p3c425/article70929742.ece/alternates/LANDSCAPE_1200/KSEB_04.JPG",
+      "scraped_at": "2026-05-01 22:04:24.552629",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India",
+      "rephrased_article": "**India** is expected to meet its increased power demands this summer, with traditional coal-powered thermal plants and augmented solar power playing a key role.  While solar energy accounts for about 30% of India's installed capacity, limitations in battery storage currently restrict its full utilization. **The Indian Meteorological Department (IMD)** predicts El Nino conditions that could lead to weaker monsoon rains and longer dry spells, impacting rainfall patterns across the country. However, **India** has ample coal stocks, with daily consumption averaging around 2.3-2.4 million tonnes, which would last for more than 83 days.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Maharashtra",
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55787,
+      "title": "Bedroll attendant arrested for ‘raping’ woman on train - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bedroll-attendant-arrested-for-raping-woman-on-train/article70929383.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-01 18:03:49.064585",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Government Railway Police (GRP)** arrested a bedroll attendant, Saurav Bagdi, for allegedly raping a woman passenger on the Visakha Express. The incident occurred in the H1 coach after the accused befriended the victim and her husband near the toilet of the general coach.  The victim filed a complaint at Rentachintala police station, leading to the case being transferred to Vijayawada GRP who arrested Bagdi and seized evidence.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55681,
+      "title": "Nearly ₹1,000 hike in commercial cylinder price is a harsh blow to cafes, hotels and street side vendors: Uttam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/hike-in-commercial-cylinder-price-is-a-harsh-blow-to-cafes-hotels-and-street-side-vendors-uttam/article70928198.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/otxd9t/article70928216.ece/alternates/LANDSCAPE_1200/Commercial-LPG-G6MFNEQGG.3.jpg.jpg",
+      "scraped_at": "2026-05-01 11:15:53.792225",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Centre",
+      "rephrased_article": "**N. Uttam Kumar Reddy**, **Telangana Civil Supplies Minister**, criticized the **Centre's** decision to increase the price of a 19kg commercial LPG cylinder by almost ₹1,000 per refill. The new price is ₹3,315, marking an increase of ₹994 from the previous ₹2,321. Reddy accused the **Centre** of taking the decision shortly after West Bengal elections, calling it \"cheating\" and demanding a rollback.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55582,
+      "title": "West Bengal election 2026: Mamata Banerjee visits Bhabanipur EVM strong room, warns against counting irregularities - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/trinamool-stages-sit-in-outside-evm-strongroom-in-kolkata-alleging-irregularities/article70925902.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/senudn/article70926489.ece/alternates/LANDSCAPE_1200/Screenshot%202026-05-01%20034226.png",
+      "scraped_at": "2026-05-01 01:27:58.126468",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "**Mamata Banerjee**, West Bengal Chief Minister and **TMC** supremo, visited an EVM strong room in Bhabanipur, alleging possible tampering with the machines. She demanded transparency and access to the counting area, expressing concern about potential malpractice.  The Election Commission dismissed these claims, stating that poll officials were segregating postal ballots as per due process and strongrooms remained secure. **TMC** leaders alleged attempts like voter intimidation and misuse of central forces but the **BJP** refuted these accusations. The situation escalated with protests by **TMC** candidates outside the venue, demanding increased security measures.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55543,
+      "title": "ECI introduces new QR code-based ID cards for counting centres - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-introduces-qr-based-identity-cards-for-counting-centres-on-may-4-to-check-unauthorised-entry/article70924721.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rksmxj/article70924756.ece/alternates/LANDSCAPE_1200/10213_29_4_2026_19_41_14_1_KA30COUNTINGCENTERINKRISHNAGIRI.JPG",
+      "scraped_at": "2026-04-30 22:31:44.207276",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission** of India introduced a QR code-based photo identity card system for counting centres in Assam, Kerala, Tamil Nadu, West Bengal, and Puducherry.  This new system aims to prevent unauthorized individuals from entering the counting centers during upcoming elections on May 4th. The system will be rolled out to all future general and byelections for Lok Sabha and State Legislative Assemblies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]

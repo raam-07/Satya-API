@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 14:50:11.061432",
+  "generated_at": "2026-05-23 18:12:07.241820",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 50,
-    "articles_last_30d": 50
+    "total_articles": 76,
+    "articles_last_30d": 76
   },
   "top_cities_30d": {
-    "Hyderabad": 15,
-    "Delhi": 5,
-    "Mumbai": 3,
+    "Hyderabad": 24,
+    "Delhi": 6,
+    "Mumbai": 4,
     "Bengaluru": 1,
     "Varanasi": 1,
     "Allahabad": 1,
@@ -24,18 +24,47 @@
     "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 49,
-    "infrastructure": 18,
-    "education": 17,
-    "economy": 11,
-    "protest_opposition": 10,
+    "foreign_policy": 73,
+    "education": 28,
+    "infrastructure": 25,
+    "economy": 16,
+    "farmer_agriculture": 12,
+    "protest_opposition": 12,
     "rape_sexual_crime": 7,
     "crime_violence": 7,
-    "farmer_agriculture": 7,
-    "health": 5,
-    "corruption_scam": 1
+    "health": 7,
+    "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 61154,
+      "title": "Back Rahul Gandhi’s call for ‘Samvidhan Bachao’, says Jagga Reddy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/back-rahul-gandhis-call-for-samvidhan-bachao-says-jagga-reddy/article71014241.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/k28vyj/article71014240.ece/alternates/LANDSCAPE_1200/TPCC%20working%20president%20T%20Jagga%20Reddy%20.jpeg",
+      "scraped_at": "2026-05-23 12:07:50.701659",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**T. Jagga Reddy**, a senior Congress leader, defended **Rahul Gandhi**'s \"Samvidhan Bachao\" campaign, arguing that the Constitution and democratic values are under threat under the current BJP-led government. He compared the Constitution to Karna's armor in the Mahabharata, stating that its protection is vital for citizens' rights and freedoms.  He called for vigilance to safeguard voting rights and constitutional freedoms, highlighting Congress contributions to India's democratic systems throughout history.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 60980,
       "title": "Mumbai, Maharashtra emerging as key hubs for global investment and clean energy partnerships, say diplomats - The Hindu",
@@ -1381,6 +1410,621 @@
         "education",
         "farmer_agriculture",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 56459,
+      "title": "KTR accuses Revanth Reddy govt. of betrayal to 14L students over fee reimbursement - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/ktr-accuses-revanth-reddy-govt-of-betrayal-to-14l-students-over-fee-reimbursement/article70935824.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 23:55:21.993385",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**K.T. Rama Rao**, working president of the **Bharatiya Rashtra Samithi (BRS)**, criticized the **Telangana Government** for delaying fee reimbursement payments to students from marginalized communities.  He accused the government of dismantling the scheme and causing financial distress in the education sector. **KTR** demanded the immediate withdrawal of the order and an apology from the Chief Minister. He also highlighted the impact on over 2,500 educational institutions and warned of statewide protests if the issue is not addressed.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56354,
+      "title": "TB dam crest gates repairs nearing completion, inauguration likely by May 15, says Shivakumar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/tb-dam-crest-gates-repairs-nearing-completion-inauguration-likely-by-may-15-says-shivakumar/article70934844.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/k0km3z/article70935971.ece/alternates/LANDSCAPE_1200/10258_3_5_2026_15_51_54_2_DK_SHIVAKUMAR_6.JPEG",
+      "scraped_at": "2026-05-03 16:14:46.781485",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Tungabhadra Dam",
+      "rephrased_article": "**D.K. Shivakumar**, Deputy Chief Minister and Water Resources Minister of **Karnataka**, announced that the extensive repair and replacement of all 33 crest gates at the Tungabhadra Dam are nearing completion, with a target inauguration date set for May 15th.  The project, considered a technical marvel, has been completed ahead of schedule and will enhance the dam's lifespan by another 50 years. The state government is collaborating with **Andhra Pradesh** on the project, which aims to support agriculture in several regions across Karnataka, Andhra Pradesh, and Telangana.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56332,
+      "title": "Telangana sees more road accidents, fewer deaths in first quadrimester of 2026 - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bwssb-nets-1215-crore-under-ots-scheme/article70935353.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 15:28:31.752170",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "A. Revanth Reddy",
+      "rephrased_article": "**Telangana** saw a mixed trend in road accident data for the first four months of 2026, with a rise in crashes and a decrease in fatalities.  While accidents increased by 2.5% to 9,313 between January and April this year, deaths fell to 2,363, marking a 15.3% decline from 2025. The **Chief Minister A. Revanth Reddy** launched the ‘Arrive Alive’ campaign in January to promote responsible driving and reduce accidents and fatalities.  The state attributed the reduction in deaths to a comprehensive road safety action plan that includes stricter enforcement of traffic rules, checks on overloading, action against unfit and illegally modified vehicles, and improvements in post-crash response.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56329,
+      "title": "Telangana sees more road accidents, fewer deaths in first quadrimester of 2026 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-sees-more-road-accidents-fewer-deaths-in-first-quadrimester-of-2026/article70935590.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 15:27:41.909067",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "A. Revanth Reddy",
+      "rephrased_article": "**Telangana** saw a mixed trend in road accident data for the first four months of 2026, with an increase in accidents and a decrease in fatalities.  The number of crashes rose by 2.5% to 9,313 between January and April this year, while deaths fell to 2,363, marking a 15.3% decline from 2025. **Chief Minister A. Revanth Reddy** launched the ‘Arrive Alive’ campaign in January to promote responsible driving and reduce both accidents and fatalities.  The state's efforts have been attributed to stricter enforcement of traffic rules, checks on overloading, action against unfit vehicles, and improvements in post-crash response.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56294,
+      "title": "BRS office is a centre of ‘false propaganda’: Govt. Whip Adi Srinivas - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/brs-office-is-a-centre-of-false-propaganda-govt-whip-adi-srinivas/article70934897.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 13:22:30.271970",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BRS",
+      "rephrased_article": "**Adi Srinivas**, the **Congress** government whip, criticized the **BRS** government's handling of job creation in Telangana. He accused the BRS of misleading unemployed youth by failing to fill positions during its rule and now falsely claiming responsibility for recent job drives.  Srinivas highlighted the Congress government's transparency in providing nearly 70,000 jobs through recruitment ceremonies across Hyderabad.  He also criticized former **BRS** leader T. Jeevan Reddy for changing his stance on the issue after joining the party.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56288,
+      "title": "SCR seeks land at four locations in Telangana for mega coaching terminals - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/scr-seeks-land-at-four-locations-in-telangana-for-mega-coaching-terminals/article70929178.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9yxj24/article70931178.ece/alternates/LANDSCAPE_1200/11hyrk_rain025.jpg",
+      "scraped_at": "2026-05-03 12:00:08.958602",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana government",
+      "rephrased_article": "**South Central Railway (SCR)** has requested the **Telangana** government to provide 1,125 acres of land for the development of mega coaching terminals. The sites identified include Dabilpur, Nagulapalli, Jukkal, and Cherlapally. These locations are intended to alleviate congestion at existing terminals and accommodate future passenger demands.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56267,
+      "title": "Telangana scorches as Mendora in Nizamabad hits 46℃; most districts record temperatures above 43℃ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-scorches-as-mendora-in-nizamabad-hits-46%C2%B0c-most-districts-record-temperatures-above-43%C2%B0c/article70934547.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8f2039/article70934885.ece/alternates/LANDSCAPE_1200/_DSC9686.JPG",
+      "scraped_at": "2026-05-03 11:02:21.809876",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Telangana",
+      "rephrased_article": "**Telangana** experienced extreme heat on May 2nd, with temperatures reaching a high of 46°C in Mendora.  The **Telangana Development Planning Society (TGDPS)** reported that ten districts recorded maximum temperatures above 45°C. The highest temperature was recorded in Mendora, followed by other locations across the state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56095,
+      "title": "Cut-off fixation is academic experts’ domain: HC - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/cut-off-fixation-is-academic-experts-domain-hc/article70932828.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 17:30:10.117383",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "CAT-2025 exam",
+      "rephrased_article": "The **Telangana High Court** dismissed a writ petition filed by Kataru Satya Sai, who scored an overall percentile of 99.82 in the CAT-2025 exam. The court ruled that Satya Sai's request to be shortlisted for an MBA interview at **IIM-Mumbai** was based on a misunderstanding of the selection process, which is determined by mandatory sectional cut-offs set by the academic authorities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56088,
+      "title": "Husnabad constituency witnessing all-round development: Ponnam Prabhakar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/husnabad-constituency-witnessing-all-round-development-ponnam-prabhakar/article70932790.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 17:27:32.241044",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Ponnam Prabhakar",
+      "rephrased_article": "**Ponnam Prabhakar**, Minister for Backward Classes Welfare and Transport, announced plans to establish a **Telangana Public School** in Chigurumamidi and develop bus stands in Mulkanoor, Saidapur, and Elkaturthy.  He also highlighted ongoing infrastructure projects in Husnabad constituency, including the four-laning of Kothapalli-Husnabad main road and the Young India Integrated Residential School building at Tangellapalli. **Prabhakar** emphasized efforts to expedite the completion of the Gouravelli irrigation project and plans for a Kabaddi academy, ATC, and NAAC skill development training centers in the area.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 56059,
+      "title": "Telangana Haj panel clarifies airfare hike, accommodation rules for pilgrims - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-haj-panel-clarifies-airfare-hike-accommodation-rules-for-pilgrims/article70932406.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/71g5qm/article70932607.ece/alternates/LANDSCAPE_1200/_DSC0599.JPG",
+      "scraped_at": "2026-05-02 15:32:30.308433",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Haj Committee of India",
+      "rephrased_article": "**Syed Ghulam Afzal Biyabani**, chairman of the **Telangana Haj Committee (TGHC)**, stated that the additional ₹10,000 \"differential airfare\" for pilgrims was a decision made by the **Central government** and the **Haj Committee of India**.  He clarified that the TGHC would not permit pilgrims to cook at their accommodations in Saudi Arabia, instead requiring them to purchase food from approved catering companies or outside vendors.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 56047,
+      "title": "Telangana government to clear ₹6,000 crore retirement benefits in 100 days, promises Revanth Reddy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-government-to-clear-6000-crore-retirement-benefits-in-100-days-promises-revanth-reddy/article70932062.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bagtou/article70932271.ece/alternates/LANDSCAPE_1200/TELANGANA%20CM%20PC%20REDDY%20PC%20DELHI%202026_18_04_3.jpg",
+      "scraped_at": "2026-05-02 14:38:11.450962",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana government",
+      "rephrased_article": "**Chief Minister A. Revanth Reddy** assured government employees that the state would clear retirement benefits worth ₹6,000 crore within 100 days and announced a series of measures aimed at addressing employee welfare.  He highlighted key decisions made by his administration, including timely salary payments and free and transparent union elections.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56006,
+      "title": "Telangana MLAs, MPs asked to recommend CMRF cases only from their constituencies, applications not to be accepted otherwise - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-mlas-mps-asked-to-recommend-cmrf-cases-only-from-their-constituencies-applications-not-to-be-accepted-otherwise/article70931487.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/sltqfj/article70931569.ece/alternates/LANDSCAPE_1200/IMG_TH08_Corrected_Telan_2_1_3MFSNENR.jpg",
+      "scraped_at": "2026-05-02 11:58:19.698686",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana government",
+      "rephrased_article": "The **Telangana** government has implemented new guidelines for the Chief Minister’s Relief Fund (CMRF), requiring all applications to be submitted online and accompanied by a recommendation letter from a local MLA or Lok Sabha MP. The move aims to improve transparency and prevent misuse of the fund, as complaints arose about legislators outside their constituencies issuing letters, creating complications in processing relief.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55984,
+      "title": "Kavitha defends criticism of KCR, alleges attempts made to sabotage registration of her party - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/kavitha-defends-criticism-of-kcr-alleges-attempts-made-to-sabotage-registration-of-her-party/article70931435.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/mzfqoc/article70931480.ece/alternates/LANDSCAPE_1200/Kavitha%20meet%20the%20press%20May%202.jpg",
+      "scraped_at": "2026-05-02 11:03:02.486055",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "K. Chandrashekar Rao",
+      "rephrased_article": "**K. Kavitha**, president of **Telangana Jagruthi**, defended her recent criticism of **K. Chandrashekar Rao**, the president of the **Bharat Rashtra Samithi (BRS)**, stating that she holds ideological differences with him but maintains personal respect for him as a father. She argued that her party, **Telangana Rakshana Sena**, is being formed to provide an alternative political platform in Telangana and that the BJP cannot come to power in the state.  She also claimed that the previous BRS government caused \"opportunity cost\" to Telangana by failing to address issues like unemployment and job opportunities.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 55967,
+      "title": "Commercial LPG 19 kg cylinder prices increase sharply, no change in domestic LPG cost - The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/commercial-lpg-19-kg-cylinders-prices-increased-sharply-in-telangana-no-change-in-domestic-lpg-cost/article70927393.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jqpf1k/article70927416.ece/alternates/LANDSCAPE_1200/6578_1_3_2021_16_21_8_1_NDBL_1_1_03_21.JPG",
+      "scraped_at": "2026-05-02 09:49:52.799079",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "LPG",
+      "rephrased_article": "**State-owned oil marketing companies** have announced a significant increase in commercial liquefied petroleum gas (LPG) prices, effective May 1, 2026. The price of 19 kg commercial cylinders has risen by almost ₹1,000 per refill to ₹3,315, marking an all-time high. This hike comes amid supply constraints due to the war in West Asia and government efforts to prioritize domestic LPG supplies. **The Telangana LPG Distributors Association (TLDA)** urged consumers to purchase from authorized distributors only, citing concerns about premium pricing and quality risks associated with unauthorized agents.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 55897,
+      "title": "Govt. readying technical proposals for talks with Maharashtra on Pranahita-Chevella project - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/govt-readying-technical-proposals-for-talks-with-maharashtra-on-pranahita-chevella-project/article70929352.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/9390yt/article70929343.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%207.47.47%20PM.jpeg",
+      "scraped_at": "2026-05-02 00:05:25.908267",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Pranahita-Chevella project",
+      "rephrased_article": "**N. Uttam Kumar Reddy**, **Minister for Irrigation and Civil Supplies** of **Telangana**, reaffirmed the government's commitment to reviving the Pranahita-Chevella project, aiming to provide irrigation to Adilabad and Rangareddy districts by constructing a barrage at Tummidihatti.  He instructed consultants from **Aarvee Associates** and **IIT Hyderabad** to prepare comprehensive technical proposals for consultation with **Maharashtra** regarding the construction of the barrage, emphasizing the need to minimize submergence in the Chapral wildlife sanctuary and offering appropriate compensation for affected lands.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 55865,
+      "title": "Doctors’ body seeks cap on duty hours, flags 36-hour shifts for Telangana resident PG doctors - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/belagavi-art-workshop-to-be-held/article70923666.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-01 22:06:25.042970",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "Healthcare Reforms Doctors Association",
+      "rephrased_article": "The **Healthcare Reforms Doctors Association (HRDA)** in Telangana has written to the Director of Medical Education (DME) urging the implementation of regulated duty hours for resident doctors, senior residents, and interns. The association cites national standards and reports highlighting the negative impact of excessive working hours on trainee well-being, patient safety, and healthcare quality. They have requested the DME to issue directions mandating a maximum 12-hour shift and 48-hour workweek with weekly offs for all medical colleges in the state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 55864,
+      "title": "Doctors’ body seeks cap on duty hours, flags 36-hour shifts for Telangana resident PG doctors - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/doctors-body-seeks-cap-on-duty-hours-flags-36-hour-shifts-for-telangana-resident-pg-doctors/article70928776.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-01 22:06:01.921641",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "Healthcare Reforms Doctors Association",
+      "rephrased_article": "The **Healthcare Reforms Doctors Association (HRDA)** in Telangana has written to the Director of Medical Education (DME) requesting the implementation of regulated duty hours for resident doctors, senior residents, and interns across government and private medical colleges. The association cited national standards and reports highlighting the detrimental effects of excessive working hours on trainee well-being, patient safety, and healthcare quality.  The HRDA urged the DME to issue directions mandating a maximum of 12-hour shifts and 48-hour workweeks with weekly off days for all medical colleges in the state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 55845,
+      "title": "Telangana IT Minister for stronger digital push in govt. schools - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-it-minister-for-stronger-digital-push-in-govt-schools/article70928751.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-01 22:01:11.693218",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "government",
+      "rephrased_article": "**D. Sridhar Babu**, Minister for IT and Industries, visited a 'Super Summer Camp' in Manthani town to support the development of digital infrastructure in government schools. The camp, organized by **T-Fiber** and **Super Teacher Edu Reforms Pvt. Ltd.** aims to bridge the digital divide and provide hands-on learning experiences in computer education, AI, and robotics for students. Similar camps will be held in Peddapalli, Ramagundam, and Sulthanabad until May 23rd with a closing ceremony scheduled for May 26th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 55833,
+      "title": "Census 2027: Around 82 lakh households have opted for self enumeration as field visits begin in 5 states - The Hindu",
+      "url": "https://www.thehindu.com/news/national/census-2027-around-82-lakh-households-have-opted-for-self-enumeration-as-field-visits-begin-in-5-states/article70929763.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h39h07/article70929765.ece/alternates/LANDSCAPE_1200/CENSUS%20DIGITAL%20MAPPING%20DELHI%202026_27_04_26.jpg",
+      "scraped_at": "2026-05-01 21:01:16.172783",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Union government",
+      "rephrased_article": "**The Union government** announced that over 82 lakh households have utilized the self-enumeration facility during the initial Houselisting and Housing Operations (HLO) phase of Census 2027. The exercise, which commenced on May 1st in several states including Andhra Pradesh, Haryana, Chandigarh, Madhya Pradesh, Chhattisgarh, and Rajasthan, aims to collect data about household facilities and demographics.  The HLO will continue until May 30th, with trained enumerators visiting each house for verification.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Meghalaya",
+        "Mizoram",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Telangana",
+        "Uttarakhand",
+        "Delhi",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55820,
+      "title": "Buddha Purnima marked at Buddhavanam with ‘Mobile Museum on Wheels’ launch - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/buddha-purnima-marked-at-buddhavanam-with-mobile-museum-on-wheels-launch/article70929371.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hpqquz/article70929373.ece/alternates/LANDSCAPE_1200/IMG-20260501-WA0022.jpg",
+      "scraped_at": "2026-05-01 19:52:58.137441",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Buddhavanam",
+      "rephrased_article": "**Telangana Tourism and Culture Minister Jupally Krishna Rao** attended the 2570th Buddha Purnima celebrations at **Buddhavanam**, where traditional Buddhist rituals were performed.  The event included the inauguration of a children's play area and the launch of a \"Mobile Museum on Wheels\" initiative to promote Buddhist heritage education across Telangana. The mobile unit features replicas of Buddhist sculptures, educational materials, and digital content, aiming to foster understanding of Buddhist thought and values among younger generations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 55780,
+      "title": "HC issues contempt notices to top police officials, others over seizing two-wheeler for pending challans - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/hc-issues-contempt-notices-to-top-police-officials-others-over-seizing-two-wheeler-for-pending-challans/article70929398.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-01 16:40:19.748513",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "The **Telangana High Court** issued notices to seven individuals, including former officials and police officers, in a contempt of court case concerning the seizure of a two-wheeler for non-payment of traffic challans. The case was filed by a private employee who argued that despite a previous HC order prohibiting such actions, traffic police continued seizing vehicles with pending challans.  The judge ordered these individuals to respond by June 19th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55681,
+      "title": "Nearly ₹1,000 hike in commercial cylinder price is a harsh blow to cafes, hotels and street side vendors: Uttam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/hike-in-commercial-cylinder-price-is-a-harsh-blow-to-cafes-hotels-and-street-side-vendors-uttam/article70928198.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/otxd9t/article70928216.ece/alternates/LANDSCAPE_1200/Commercial-LPG-G6MFNEQGG.3.jpg.jpg",
+      "scraped_at": "2026-05-01 11:15:53.792225",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Centre",
+      "rephrased_article": "**N. Uttam Kumar Reddy**, **Telangana Civil Supplies Minister**, criticized the **Centre's** decision to increase the price of a 19kg commercial LPG cylinder by almost ₹1,000 per refill. The new price is ₹3,315, marking an increase of ₹994 from the previous ₹2,321. Reddy accused the **Centre** of taking the decision shortly after West Bengal elections, calling it \"cheating\" and demanding a rollback.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55630,
+      "title": "Mahua flower festival celebrated in Telangana’s Adilabad - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/mahua-flower-festival-celebrated-in-telanganas-adilabad/article70925832.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/6jne01/article70927792.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-30%20at%209.15.58%20PM.jpeg",
+      "scraped_at": "2026-05-01 07:48:46.969093",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Adilabad Collector Rajarshi Shah",
+      "rephrased_article": "**Adilabad Collector Rajarshi Shah** urged tribal communities to collect **ippa** flowers sustainably to enhance their economic well-being. He emphasized the importance of preserving trees and respecting tribal heritage, highlighting the significance of these efforts in achieving financial self-reliance. The call was made during the annual \"Ippa Puvvu Panduga\" event organized by the Integrated Tribal Development Agency, Utnoor, in collaboration with Adivasi (Gondwana) organizations at Jamidi village in Adilabad district.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55595,
+      "title": "City Nature Challenge 2026: Andhra, Telangana record surge - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/city-nature-challenge-2026-andhra-telangana-record-surge/article70923342.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qkx8aj/article70923584.ece/alternates/LANDSCAPE_1200/000008SeaAni.jpg",
+      "scraped_at": "2026-05-01 05:12:01.010648",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "other",
+      "rephrased_article": "**East Coast Conservation Team** members and 15 enthusiasts participated in a tidepool exploration at Tenneti Park in Visakhapatnam last weekend. The group, including children as young as six, documented the diverse marine life they observed with photographs uploaded to iNaturalist.  The shared experience aimed to document nature's secrets along the shore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55479,
+      "title": "High Court directs FRRO to extend Russian woman’s visa - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/high-court-directs-frro-to-extend-russian-womans-visa/article70925822.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-30 17:07:25.789520",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Russian woman",
+      "rephrased_article": "**Justice Nagesh Bheemapaka** of the **Telangana High Court** granted a Russian woman, Alena Evgenievna Pavlova, an extension on her visa due to humanitarian and compassionate grounds. The judge also ruled against imposing overstay penalties on Pavlova, who had been actively involved in translating Indian literature into Russian and volunteering with various organizations.  The court acknowledged the exceptional circumstances of Pavlova's situation following the death of her husband and her subsequent request for an extension.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
       ]
     }
   ]

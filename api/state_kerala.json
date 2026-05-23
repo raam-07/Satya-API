@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 14:50:11.040218",
+  "generated_at": "2026-05-23 18:12:07.216866",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,34 +8,113 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 146,
-    "articles_last_30d": 146
+    "total_articles": 197,
+    "articles_last_30d": 197
   },
   "top_cities_30d": {
-    "Delhi": 21,
-    "Chennai": 8,
+    "Delhi": 24,
+    "Bengaluru": 10,
+    "Chennai": 10,
     "Kolkata": 8,
-    "Bengaluru": 5,
-    "Hyderabad": 3,
-    "Mumbai": 2,
+    "Hyderabad": 6,
+    "Mumbai": 4,
+    "Ahmedabad": 2,
     "Madurai": 1,
     "Ranchi": 1,
-    "Pune": 1,
-    "Nagpur": 1
+    "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 139,
-    "protest_opposition": 62,
-    "education": 49,
-    "infrastructure": 34,
-    "economy": 30,
-    "farmer_agriculture": 21,
-    "crime_violence": 18,
-    "health": 17,
-    "corruption_scam": 12,
+    "foreign_policy": 187,
+    "protest_opposition": 76,
+    "education": 57,
+    "infrastructure": 42,
+    "economy": 33,
+    "crime_violence": 22,
+    "farmer_agriculture": 22,
+    "health": 21,
+    "corruption_scam": 13,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61183,
+      "title": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work in that country again' - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/indian-origin-cancer-specialist-banned-from-practising-in-uk-says-i-will-never-work-in-that-country-again/articleshow/131280538.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131281885,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-23 15:46:19.905177",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Shamir Chandran",
+      "rephrased_article": "**Shamir Chandran**, an Indian-origin oncologist, has been struck off the UK medical register after a tribunal ruled that his criminal conviction made him a risk to the public.  The **Medical Practitioners Tribunal Service (MPTS)** found Chandran guilty of controlling and coercive behaviour and cruelty to a person under 16, and he fled the UK before the proceedings. The tribunal deemed allowing Chandran to continue practicing medicine would damage public trust in the profession.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 61154,
+      "title": "Back Rahul Gandhi’s call for ‘Samvidhan Bachao’, says Jagga Reddy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/back-rahul-gandhis-call-for-samvidhan-bachao-says-jagga-reddy/article71014241.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/k28vyj/article71014240.ece/alternates/LANDSCAPE_1200/TPCC%20working%20president%20T%20Jagga%20Reddy%20.jpeg",
+      "scraped_at": "2026-05-23 12:07:50.701659",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**T. Jagga Reddy**, a senior Congress leader, defended **Rahul Gandhi**'s \"Samvidhan Bachao\" campaign, arguing that the Constitution and democratic values are under threat under the current BJP-led government. He compared the Constitution to Karna's armor in the Mahabharata, stating that its protection is vital for citizens' rights and freedoms.  He called for vigilance to safeguard voting rights and constitutional freedoms, highlighting Congress contributions to India's democratic systems throughout history.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61144,
+      "title": "Chief Electoral Officer (Kerala) Rathan U. Kelkar appointed Secretary to Chief Minister V.D. Satheesan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/chief-electoral-officer-kerala-rathan-u-kelkar-appointed-secretary-to-chief-minister-vd-satheesan/article71014395.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o0hdz/article71014402.ece/alternates/LANDSCAPE_1200/TH24-REVISED-SrG1NFG1A8U.3.jpg.jpg",
+      "scraped_at": "2026-05-23 12:05:07.645122",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**Rathan U. Kelkar**, the Chief Electoral Officer of **Kerala**, will transition from his role to become the Secretary to **Chief Minister V.D. Satheesan**.  Mr. Kelkar, a 2003 batch IAS officer, has been in the news for overseeing the recent Kerala Assembly elections and the Special Intensive Revision (SIR) of electoral rolls. The appointment follows the recent appointment of **Manoj Kumar Agarwal** as Chief Secretary to the new BJP government in West Bengal.  The State government will send a panel of names to the Election Commission to appoint a new CEO once Mr. Kelkar is relieved of his duties.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 60975,
       "title": "'Go home' for Green Card rule: Immigration attorney Rahul Reddy explains what H-1B visa holders should do now - The Times of India",
@@ -4196,6 +4275,1209 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 56529,
+      "title": "Supreme Court asks Dubai-based Indian to approach embassy over travel ban - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-election-reuslts-2026-bjp-seats-winners/article70938441.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-04 11:27:53.356080",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Embassy",
+      "rephrased_article": "The **Supreme Court** declined to grant relief to Asif Azad, an Indian engineer who alleged harassment by local authorities in Dubai.  Mr. Azad, appearing via video conference from a Dubai mall, claimed he was wrongfully subjected to a travel ban due to a case against him in Kerala. The court directed Mr. Azad to seek assistance from the **Indian Embassy** in the UAE.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56523,
+      "title": "Supreme Court asks Dubai-based Indian to approach embassy over travel ban - The Hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-asks-dubai-based-indian-to-approach-embassy-over-travel-ban/article70938446.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-04 11:25:51.306503",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Embassy",
+      "rephrased_article": "The **Supreme Court** declined to grant relief to Asif Azad, an Indian engineer who alleged harassment by **Dubai** authorities and a wrongful travel ban.  Mr. Azad appeared via video conferencing from a Dubai mall, claiming he was entrapped and implicated in a case against him in Kerala. The court directed Mr. Azad to seek assistance from the **Indian Embassy** in the UAE.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56513,
+      "title": "Kerala Election Results 2026 LIVE: UDF leads in the State, CM Pinarayi Vijayan trails in Dharmadam - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-election-results-live-updates-4-may-2026/article70935144.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/ukauw6/article70937588.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-04%20at%2011.42.31.jpeg",
+      "scraped_at": "2026-05-04 09:29:54.640199",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "UDF",
+      "rephrased_article": "The **Congress-led UDF** is on track to secure a majority in the Kerala Assembly elections, with trends indicating they will surpass their target of 100 seats.  As counting progressed, the UDF held a commanding lead in over 100 constituencies while the **CPI(M)-led LDF** lagged behind in under 40. The **BJP-led NDA** secured only two seats according to early results.  Congress MLA Chandy Oommen won his constituency by a significant margin.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56507,
+      "title": "Kerala Assembly election results: Congress’ Chandy Oommen wins in Puthuppally with huge margin - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-election-results-congress-chandy-oommen-wins-in-puthuppally-with-a-margin-of-52907-votes/article70938070.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/j99i80/article70938084.ece/alternates/LANDSCAPE_1200/IMG_UDF_MLA_Chandy_Oomme_2_1_NTBO4BDF.jpg",
+      "scraped_at": "2026-05-04 09:28:09.726473",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Chandy Oommen",
+      "rephrased_article": "**Chandy Oommen**, son of former Kerala Chief Minister **Oommen Chandy**, won the Puthuppally by-election with a significant margin, securing 84,031 votes. His victory came after a campaign focused on environmental sustainability and door-to-door canvassing using bicycles.  The Communist Party of India (Marxist)'s K. M. Radhakrishnan received 31,124 votes. The Kerala Assembly elections were held on April 9th.",
+      "party_mentioned": [
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56469,
+      "title": "Assembly elections 2026 results: Counting of votes begins across five States - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-2026-results-counting-of-votes/article70937126.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/l0l6dj/article70937168.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000009B.jpg",
+      "scraped_at": "2026-05-04 03:40:13.770704",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "Counting of votes for the Assembly elections in five states, including Assam, Kerala, Tamil Nadu, Puducherry, and West Bengal, is underway.  **Election Commission of India (ECI)** officials are overseeing the process at designated counting centers across the country. Early trends suggest a tight race in several constituencies with the **DMK** seeking to retain power in Tamil Nadu, while the **AIADMK** and independent candidates like Vijay's Tamilaga Vettri Kazhagam are vying for victory. In Kerala, the ruling Left Democratic Front faces competition from the Opposition United Democratic Front (UDF) and Bharatiya Janata Party-led National Democratic Alliance (NDA).  Security arrangements have been tightened across all states to ensure a smooth and peaceful counting process.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Kerala",
+        "Maharashtra",
+        "Nagaland",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56468,
+      "title": "West Bengal, Tamil Nadu among 5 state election results today. 10 things stock market investors should track under volatility - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-assam-among-5-state-election-results-today-10-things-stock-market-investors-should-track-under-volatility/articleshow/130742547.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130742586,width-1200,height-630,imgsize-39746,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-04 03:39:49.496958",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Nifty",
+      "rephrased_article": "**Investors** are advised to focus on broader macro signals rather than political headlines as state elections often trigger short-term volatility.  The **Nifty** is expected to swing 1-1.5% either way depending on the final election results, with crude oil prices remaining a key risk factor. **Foreign institutional investors (FIIs)** continue to sell Indian equities, while domestic institutions are absorbing pressure. Analysts suggest that markets will likely revert to global cues like oil prices and FII flows after the elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56444,
+      "title": "Karnataka leadership talks in Delhi unlikely in next few weeks - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-leadership-talks-in-delhi-unlikely-in-next-few-weeks/article70935119.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x56i0c/article70935698.ece/alternates/LANDSCAPE_1200/DSC_4198_1A.JPG",
+      "scraped_at": "2026-05-03 21:54:27.232022",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** leaders are planning to meet with **Mallikarjun Kharge**, the party president, in Delhi next week to discuss Cabinet expansion. However, the leadership issue in Karnataka is unlikely to be resolved soon due to upcoming Rajya Sabha elections and a lack of timeline from **Kharge**.  With several seats falling vacant in the Legislative Council, the party is prioritizing these elections before discussing leadership changes.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56428,
+      "title": "Kerala Assembly polls 2026: LDF, UDF keeping their fingers crossed in Kozhikode - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly-polls-2026-ldf-udf-keeping-their-fingers-crossed-in-kozhikode/article70935323.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ikpxeb/article70936042.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-03%20at%209.59.30%20PM.jpeg",
+      "scraped_at": "2026-05-03 20:56:25.731219",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "LDF",
+      "rephrased_article": "**Political fronts** in **Kozhikode** are closely watching the election results on May 4th, as the district's outcome could significantly impact government formation in the state.  Key contests include Perambra, Beypore, Elathur, and Vadakara, where candidates from the **Left Democratic Front (LDF)** face off against those from the **United Democratic Front (UDF)**. While the LDF has historically dominated the district, recent exit polls predict a less favorable outcome for the ruling front, with some internal discussions suggesting potential losses in key constituencies.",
+      "party_mentioned": [
+        "Congress",
+        "Nationalist Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56376,
+      "title": "Walk-through survey nearing completion - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/walk-through-survey-nearing-completion/article70935884.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 17:32:37.267297",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "KWA",
+      "rephrased_article": "**SUEZ**, the French company responsible for water distribution in Kochi, is conducting a walk-through survey of the **Kerala Water Authority (KWA)** pipeline network within the city limits. The survey, which involves ground-level inspection without excavation, is nearing completion and will be followed by door-to-door surveys in Kaloor and Karuvelippady. Consumer surveys have been delayed due to elections but are now being expedited.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56375,
+      "title": "Kerala Assembly Elections 2026: Political hotspots under tight surveillance as Ernakulam awaits poll verdict - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-political-hotspots-under-tight-surveillance-as-ernakulam-awaits-poll-verdict/article70935579.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zfw61h/article70935820.ece/alternates/LANDSCAPE_1200/Election01.jpg",
+      "scraped_at": "2026-05-03 17:32:07.257118",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Ernakulam rural police** have implemented heightened security measures for the Assembly election result day, with over 1,300 personnel deployed across 15 locations identified as sensitive due to reported incidents during the campaign. **District Police Chief (Ernakulam rural) K.S. Sudarshan** stated that these locations include areas like Chengamanad and Kunnathunad, where additional surveillance will be in place at points likely to witness gatherings of party supporters.  The police have also deployed 2,000 personnel within the city limits, including strike forces and additional mobile patrols. The **Election Commission of India (ECI)** guidelines will guide the three-layer security plan at Cochin University of Science and Technology, where votes for six constituencies will be counted.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 56363,
+      "title": "All set for counting; ECI promises transparency - The Hindu",
+      "url": "https://www.thehindu.com/elections/eci-ensures-transparency-and-all-set-for-vote-counting-in-assam-kerala-tamil-nadu-west-bengal-and-puducherry/article70935694.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wdc2r4/article70936126.ece/alternates/LANDSCAPE_1200/20260503205L.jpg",
+      "scraped_at": "2026-05-03 17:28:26.697291",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** has announced its commitment to ensuring transparency, security, and efficiency during the counting of votes for upcoming Assembly elections in five states and bye-elections in seven constituencies. The ECI deployed additional observers in West Bengal to ensure a secure environment. Political parties are closely monitoring the preparations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56358,
+      "title": "Sringeri Assembly seat recount: Congress MLA slips to second position as his vote tally reduces by 255 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/sringeri-seat-recount-raje-gowdas-vote-tally-reduced-by-255-bjp-supporters-celebrate/article70934261.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/w4wn16/article70934263.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000181A.jpg",
+      "scraped_at": "2026-05-03 16:16:19.758838",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "In the Karnataka Assembly election re-count for Sringeri constituency, **T. D. Raje Gowda** of the Congress lost to defeated BJP candidate **D. N. Jeevaraj**.  The Returning Officer did not declare a winner after the verification and recounting process, which reduced **Raje Gowda's** tally by 255 votes. The Returning Officer submitted the report to the Election Commission of India as per court instructions. **Jeevaraj** claimed victory based on increased votes, while **Raje Gowda** alleged tampering with ballots.  The Deputy Chief Minister D.K. Shivakumar stated that they would fight in court and called it a conspiracy against democracy. The Leader of the Opposition R. Ashok demanded that **Jeevaraj** be declared the winner.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56349,
+      "title": "Rahul Gandhi's Nicobar visit: Parliamentary forum discussion needed for Great Nicobar projects, says Congress - The Hindu",
+      "url": "https://www.thehindu.com/news/national/parliamentary-forum-discussion-needed-for-great-nicobar-projects-says-congress/article70934694.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/gbp8gu/article70934701.ece/alternates/LANDSCAPE_1200/20260429109L.jpg",
+      "scraped_at": "2026-05-03 16:12:55.719948",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "The **Congress** criticized the government's handling of the Great Nicobar Island Development Project, stating that it lacked due diligence and had failed to address concerns raised by members. The party called for a parliamentary review of the project, arguing that the government issued a clarification after **Rahul Gandhi**’s visit was deemed “hugely impactful”.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56340,
+      "title": "Civil society signatories demand that SIR be stopped - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/civil-society-signatories-demand-that-sir-be-stopped/article70935599.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/e4dhz1/article70935791.ece/alternates/LANDSCAPE_1200/20260222210L.jpg",
+      "scraped_at": "2026-05-03 15:30:49.967808",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "ECI",
+      "rephrased_article": "Over 300 individuals, including **Justice B. Sudarshan Reddy**, **Prakash Raj**, and **Teesta Setalvad**, have signed a joint statement demanding the halt of the Special Intensive Revision (SIR) electoral roll revision process. The signatories argue that SIR is an exclusionary, undemocratic, and unscientific process that has deprived nearly 6 crore voters of their right to vote in 10 states and three Union Territories. They also criticize the ECI for its alleged bias and lack of transparency, calling for a thorough review of the process and the replacement of the ECI with an impartial body. The statement concludes by warning the ECI against manipulating election results and threatening nationwide resistance if it continues to disregard the Constitution and democracy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56338,
+      "title": "New short Haj package likely to be popular among working pilgrims - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/centre-must-roll-back-lpg-price-hike-says-kerala-cm/article70935606.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 15:30:14.756817",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Haj",
+      "rephrased_article": "**The Central Haj Committee** has introduced a new \"short Haj\" package for pilgrims with limited time, reducing the pilgrimage duration to 20 days from the usual 40-45 days. The first batch of pilgrims from Kerala will depart on May 17th under government supervision, with three flights transporting around 1,000 individuals. **State Haj Committee Chairman Hussain Saqafi Chullikkode** stated that the duration could be further reduced in future based on demand.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56336,
+      "title": "New short Haj package likely to be popular among working pilgrims - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/new-short-haj-package-likely-to-be-popular-among-working-pilgrims/article70935547.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 15:29:40.519722",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Haj",
+      "rephrased_article": "**The Central Haj Committee** has introduced a new \"short Haj\" package for pilgrims with limited time, reducing the pilgrimage duration to 20 days from the usual 40-45 days. The first batch of Kerala pilgrims will depart on May 17th under government supervision, with three flights transporting around 1,000 individuals.  The committee expects this option to gain popularity among working professionals and others with limited time constraints. \"The duration could be reduced further in the coming years,\" said State Haj Committee Chairman Hussain Saqafi Chullikkode.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56334,
+      "title": "Kerala Assembly polls: Ban on firecracker use in Palakkad - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-ban-on-firecracker-use-in-palakkad/article70935718.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 15:29:06.058599",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Palakkad District Collector M.S. Madhavikutty",
+      "rephrased_article": "**Palakkad District Collector M.S. Madhavikutty** imposed a ban on the sale and use of firecrackers in the district from Monday (May 4) to Tuesday (May 5) due to the announcement of election results.  All firecracker manufacturing and sales units will be closed during this period, and the bursting of firecrackers is prohibited for victory celebrations. **Tahsildars** and inspectors have been instructed to enforce the ban within their jurisdictions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56314,
+      "title": "Meeting reviews monsoon preparedness in Kozhikode - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/meeting-reviews-monsoon-preparedness-in-kozhikode/article70935541.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-03 14:32:27.970164",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Fire and Rescue Services",
+      "rephrased_article": "**District Collector Snehil Kumar Singh** chaired a meeting to discuss monsoon preparedness in the district.  The meeting reviewed measures to prevent waterlogging, ensure water sanitation and school safety, and maintain drainage systems. **Mr. Singh** also directed the **Kerala Fire and Rescue Services** to equip all fire stations with essential supplies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 56262,
+      "title": "Kerala Assembly Polls: Official declaration of results likely by 5 p.m. on May 4 - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-official-declaration-of-results-likely-by-5-pm-on-may-4/article70934812.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5fpyfe/article70934903.ece/alternates/LANDSCAPE_1200/TH24-REVISED-SrG1NFG1A8U.3.jpg.jpg",
+      "scraped_at": "2026-05-03 11:00:52.739321",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Assembly",
+      "rephrased_article": "**Election Commission of India (EC)** officials are overseeing the counting of votes from the April 9 Kerala Assembly elections, with results expected by 5 p.m. on Monday. **Chief Electoral Officer Kerala (CEO Kerala) Rathan U. Kelkar** emphasized accuracy over speed in the vote count process, noting that lapses could lead to disciplinary action.  The voter turnout has been updated to 79.7% and postal ballots will be counted first. The Model Code of Conduct remains in effect until May 6 or until the EC decides otherwise.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56210,
+      "title": "All set for vote counting in Kozhikode district - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/kozhikode/all-set-for-vote-counting-in-kozhikode-district/article70927896.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vbjgdd/article70391418.ece/alternates/LANDSCAPE_1200/NH10StrongRoom02.JPG",
+      "scraped_at": "2026-05-03 06:36:54.829767",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Assembly election",
+      "rephrased_article": "**District Collector Snehil Kumar Singh** convened a meeting with political party representatives in Kozhikode district to discuss preparations for the Kerala Assembly election vote count on May 4th. The meeting covered arrangements at counting centers, facilities for agents, and procedures for postal ballots and Electronic Voting Machines (EVMs).  A three-tier security system has been implemented at all counting centers, with CCTV surveillance and internet connectivity. Counting of EVM votes will commence after the completion of postal ballot counting.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56208,
+      "title": "Kerala Assembly polls 2026: Election is not a boxing contest, but a fight between ideologies: Riyas - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/election-is-not-a-boxing-contest-but-a-fight-between-ideologies-riyas/article70932697.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ybbn6r/article70932752.ece/alternates/LANDSCAPE_1200/PTI03_21_2026_000338A.jpg",
+      "scraped_at": "2026-05-03 06:36:15.075563",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Riyas",
+      "rephrased_article": "**Public Works Minister P.A. Mohamed Riyas** stated that the upcoming election is not a personal competition but a battle of ideologies between different political parties. He emphasized that voters choose candidates based on their political beliefs and development plans, rather than personal attachments. **Mr. Riyas** expressed confidence in securing a larger victory margin in the 2021 election despite exit polls predicting his defeat.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 56206,
+      "title": "Watch: What happens on counting day? | Explained - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-what-happens-on-counting-day-explained/article70932941.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4ag2dr/article70932937.ece/alternates/LANDSCAPE_1200/counting%203.png",
+      "scraped_at": "2026-05-03 06:35:35.456697",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Across Tamil Nadu, Kerala, Puducherry, West Bengal and Assam, the counting of votes for the upcoming general election will begin on May 4th. The process involves a series of steps including the verification of votes, tallying results, and declaration of winners.  The outcome of these elections will determine the future political landscape of these states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56204,
+      "title": "Opposing campaigns in Kerala map out the best- and worst-case scenarios for their respective alliances - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/opposing-campaigns-in-kerala-map-out-the-best-and-worst-case-scenarios-for-their-respective-alliances/article70934451.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jrvjyd/article70934469.ece/alternates/LANDSCAPE_1200/PTI05_02_2026_000114A.jpg",
+      "scraped_at": "2026-05-03 06:34:56.536925",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**V.D. Satheesan**, **K.C. Venugopal**, and **Ramesh Chennithala** of the **Congress** are optimistic about a potential victory for their alliance in the upcoming Kerala Assembly elections, citing recent electoral successes and a perceived shift in voter sentiment towards the opposition. The **United Democratic Front (UDF)**, led by the **Indian Union Muslim League (IUML)**, is banking on its strong support base among minorities and backward classes to counter the ruling **Left Democratic Front (LDF)**.  **CPI(M)** leaders believe voters will continue to trust the LDF's record of governance and welfare programs. The **BJP-led National Democratic Alliance (NDA)** aims to capitalize on voter dissatisfaction with both the UDF and LDF, positioning itself as a development alternative.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56154,
+      "title": "Rahul Gandhi cites Gujarat BJP chief’s ‘indecent remarks’ against Geniben Thakor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-cites-gujarat-bjp-chiefs-indecent-remarks-against-geniben-thakor/article70933018.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fay7mr/article70933313.ece/alternates/LANDSCAPE_1200/West%20Bengal%20Assembly%20elections%202026%20%2032.JPG",
+      "scraped_at": "2026-05-02 22:51:19.257557",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Rahul Gandhi**, leader of the Opposition in the Lok Sabha, criticized **the BJP** after its Gujarat unit president made an offensive remark about Congress MP Geniben Thakor.  Gandhi accused the party of having a \"distorted mindset\" and promoting an \"anti-women\" ideology, stating that the BJP's actions contradict their claims of women empowerment. **Priyanka Gandhi Vadra**, Congress general secretary, also condemned the incident, supporting **Geniben Thakor** and highlighting the hypocrisy of the BJP's \"Nari Vandana\" campaign.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56108,
+      "title": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bail-order-reminder-that-personal-liberty-cant-be-sacrificed-for-political-vendetta-pawan-khera/article70932791.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/eqy4wa/article70933120.ece/alternates/LANDSCAPE_1200/T-gana-HC-breatGP6FR905R.3.jpg.jpg",
+      "scraped_at": "2026-05-02 18:14:31.909107",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Pawan Khera**, a Congress leader, was granted anticipatory bail by the **Supreme Court** after allegations were made against him regarding his comments on Assam Chief Minister **Himanta Biswa Sarma's** wife. The court found that the matter appeared to stem from political rivalry and granted pre-arrest bail with certain conditions.  **Abhishek Singhvi**, along with other legal representatives, defended Khera's liberty amidst threats and intimidation. The Congress hailed the decision as a victory for the rule of law, urging **Sarma** to reconsider his language and apologize.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56101,
+      "title": "Lightning strike damages house in Kerala’s Thrissur, injures three - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/lightning-strike-damages-house-in-keralas-thrissur-injures-three/article70932687.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 17:32:37.663263",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "lightning",
+      "rephrased_article": "**Manoj**, **Smruthi**, and their daughter **Dhwani** were injured when a wall of their Manathala home collapsed following a lightning strike early Saturday morning. The family was rushed to a nearby hospital, where they are in stable condition.  The incident comes amidst increased reports of lightning strikes across the state during evening and night hours as summer showers intensify.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56100,
+      "title": "Kerala elections 2026: May 4 is day of reckoning for Kerala Congress factions - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-may-4-is-day-of-reckoning-for-kerala-congress-factions/article70932177.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4wp0p7/article70932541.ece/alternates/LANDSCAPE_1200/80687_26_3_2026_18_48_57_3_J1.JPG",
+      "scraped_at": "2026-05-02 17:32:02.024194",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Jose K. Mani",
+      "rephrased_article": "With the 2026 Kerala Assembly elections just a day away, **Jose K. Mani**, leader of **Kerala Congress (M)**, faces a crucial test as his party's future hangs in the balance.  A second consecutive loss for Mani in Pala could significantly impact his leadership and raise questions about the party's direction after his 2021 defection from the United Democratic Front (UDF). The outcome of the election will likely determine the political landscape and influence within **Kerala Congress** itself.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56099,
+      "title": "Elephant parading rules violated rampantly, alleges animal task force - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/elephant-parading-rules-violated-rampantly-alleges-animal-task-force/article70932767.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ft62w8/article70932884.ece/alternates/LANDSCAPE_1200/20260501105L.jpg",
+      "scraped_at": "2026-05-02 17:31:34.702577",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Forest department",
+      "rephrased_article": "**Two people** were killed in a twin elephant rampage in Kerala on Friday, prompting renewed calls for stricter enforcement of captive elephant parading rules. **The Heritage Animal Task Force** alleges elephants are routinely subjected to extreme stress during festival seasons due to violations of these rules, which include inadequate rest, food, and water provisions. The task force claims the deaths are a direct result of cruelty and that the Forest department's 2013 guidelines are being ignored across Kerala.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56091,
+      "title": "Watch: How Kerala, West Bengal and Assam voted in 2021 - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-how-kerala-west-bengal-and-assam-voted-in-2021/article70932974.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jxoo3i/article70932973.ece/alternates/LANDSCAPE_1200/2021%20voting.png",
+      "scraped_at": "2026-05-02 17:28:44.191023",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "elections",
+      "rephrased_article": "The upcoming elections in Kerala, West Bengal, and Assam are being analyzed by experts to understand voting patterns from the 2021 elections. **Voting** for these states is scheduled for May 4th, and analysts are examining past election results to predict potential outcomes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56078,
+      "title": "Kerala Assembly Elections 2026: ‘No violation of rules on strong room premises in Kozhikode’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-no-violation-of-rules-on-strong-room-premises-in-kozhikode/article70932390.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 16:18:49.178184",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Assembly Elections 2026",
+      "rephrased_article": "**The Chief Electoral Officer (CEO) of Kerala has concluded that there were no violations of rules regarding the opening of a polling material room by the returning officer (RO) for the Perambra Assembly constituency and the presence of the RO for the Koyilandy Assembly constituency near the strongroom was not illegal.**  These findings were revealed by District Collector Snehil Kumar Singh, who is also the District Election Officer, at a press conference.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 56074,
+      "title": "INDIA bloc likely to meet after poll results to discuss strategy on delimitation, women’s quota - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-likely-to-meet-after-poll-results-to-discuss-strategy-on-delimitation-womens-quota/article70932063.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/puwlpx/article70932331.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000495B.jpg",
+      "scraped_at": "2026-05-02 16:16:40.477494",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Narenda Modi",
+      "rephrased_article": "The **INDIA** bloc is expected to meet in mid-May to discuss the way forward on women's reservation, which was tied up with delimitation. The government proposed increasing Lok Sabha seats and offering 33% of them to women, but this was not included in the Constitution (131st Amendment) Bill. **Narenda Modi** is unlikely to abandon his plan for the expansion of the Lok Sabha.  The bloc will likely not discuss the Assembly elections as constituents fought separately in Kerala and West Bengal.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 56062,
+      "title": "Maniyar hydel project: Carborundum Universal expresses dismay over KSEB takeover bid - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/maniyar-hydel-project-carborundum-universal-expresses-dismay-over-kseb-takeover-bid/article70932207.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hr1juq/article70932577.ece/alternates/LANDSCAPE_1200/Maniyar_Dam02.jpg",
+      "scraped_at": "2026-05-02 15:34:03.322227",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "KSEB",
+      "rephrased_article": "**Carborundum Universal Ltd.** has expressed disappointment over **Kerala State Electricity Board’s (KSEB)** recent takeover bid for the Maniyar small hydroelectric project. The company, which operated the 12 MW unit on KSEB's request for a year after their 30-year BOOT agreement expired in December 2024, claims it has not been compensated for the power generated and supplied to KSEB.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 56051,
+      "title": "Tribal youth from Khammam district treks Mount Everest Base Camp - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/tribal-youth-from-khammam-district-treks-mount-everest-base-camp/article70932564.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/au7ne2/article70932693.ece/alternates/LANDSCAPE_1200/hy02Mothikumar.jpg",
+      "scraped_at": "2026-05-02 15:29:19.309015",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "B. Rahul",
+      "rephrased_article": "**B. Mothi Kumar**, a tribal youth from India, trekked to the Mount Everest Base Camp in Nepal to showcase \"yuva shakti\" and highlight his role in nation building.  He displayed a banner with a picture of **B. Rahul**, the ITDA Project Officer, at the base camp, expressing gratitude for the ITDA's initiatives for tribal welfare. **Mr. Rahul** was recently awarded the \"Adivasi Vikasa Ratna\" award by various Adivasi Associations in Bhadrachalam.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56027,
+      "title": "‘Wake Up Keralam’ condemns Vellappally Natesan’s ‘communal’ statements - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/wake-up-keralam-condemns-vellappally-natesans-communal-statements/article70931646.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xl396v/article70931702.ece/alternates/LANDSCAPE_1200/Dedicating-PadmG4OFG5GFE.3.jpg.jpg",
+      "scraped_at": "2026-05-02 13:28:39.829157",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Vellappally Natesan",
+      "rephrased_article": "**Wake Up Keralam**, a collective of democratic citizens, condemned the recent communal statements made by **Vellappally Natesan**, general secretary of the **SNDP Yogam**. The statement, signed by several members, accused Mr. Natesan of repeatedly making anti-Muslim remarks and attempting to undermine communal harmony for political gain.  **Wake Up Keralam** emphasized that Mr. Natesan's position as a leader in the organization founded by Sree Narayana Guru, who advocated for unity and secularism, carries a heightened responsibility to uphold these values. The collective urged Mr. Natesan to withdraw his inflammatory statements and refrain from further actions that threaten religious harmony.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56003,
+      "title": "Dining out set to get costlier in Kerala as LPG prices surge; hotels call May 6 shutdown - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/dining-out-set-to-get-costlier-in-kerala-as-lpg-prices-surge-hotels-call-may-6-shutdown/article70931195.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nm1fnw/article70931249.ece/alternates/LANDSCAPE_1200/LPG02.JPG",
+      "scraped_at": "2026-05-02 11:57:21.755556",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "LPG prices",
+      "rephrased_article": "**Kerala's State-owned oil marketing companies** have announced a significant price increase for commercial liquefied petroleum gas (LPG) cylinders, pushing the cost to over ₹3,000 in major cities. The **Kerala Hotel and Restaurant Association (KHRA)** has responded by calling for a statewide shutdown on May 6th, protesting the hike's impact on their industry and consumers.  The association has requested a review of the decision from both oil companies and the Union government.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55926,
+      "title": "NIA court in Kochi denies bail to accused in banned PFI anti-national activities case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/up-congress-chief-ajay-rai-hospitalised-after-fainting-stable/article70930746.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/r2z8ri/article70930905.ece/alternates/LANDSCAPE_1200/gavel%201.jpg",
+      "scraped_at": "2026-05-02 06:15:20.242058",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "PFI",
+      "rephrased_article": "A special court in Kochi, Kerala, denied bail to Shahul Hameed, a 50th accused in the 2022 case related to alleged anti-national activities of the **Popular Front of India (PFI)**. The judge, P.K. Mohandas, dismissed the bail plea on April 29th, following an investigation by the **National Investigation Agency (NIA)**.  The case includes the murder of RSS activist Sreenivasan and is linked to alleged anti-national activities of the **PFI**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 55919,
+      "title": "NIA court in Kochi denies bail to accused in banned PFI anti-national activities case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/nia-court-in-kochi-denies-bail-to-accused-in-pfi-anti-national-activities-case/article70930882.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/r2z8ri/article70930905.ece/alternates/LANDSCAPE_1200/gavel%201.jpg",
+      "scraped_at": "2026-05-02 06:12:54.623752",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "PFI",
+      "rephrased_article": "A special court in Kochi, Kerala, denied bail to Shahul Hameed, a 50th accused in the 2022 case related to alleged anti-national activities of the banned **Popular Front of India (PFI)**.  The judge, P.K. Mohandas, dismissed the bail plea on April 29th, following investigations by the **National Investigation Agency (NIA)** into the murder of RSS activist Sreenivasan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 55894,
+      "title": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ikl9io/article70927959.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
+      "scraped_at": "2026-05-02 00:03:57.391908",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "The **Allahabad High Court** rejected a petition seeking to register a sedition case against **Rahul Gandhi**, the Leader of Opposition in the Lok Sabha, for his alleged statement about fighting the Indian state. The court upheld a lower court's order that declined the plea for criminal charges against Mr. Gandhi.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55890,
+      "title": "​Primary league: On the Congress, UDF, 2026 Kerala Assembly elections - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/primary-league-on-the-congress-udf-2026-kerala-assembly-elections/article70928808.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-02 00:01:52.361196",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "IUML",
+      "rephrased_article": "**Congress** leaders in Kerala have been caught off guard by the **IUML's** public endorsement of  **V.D. Satheesan** for Chief Minister, despite the party's internal agreements to let the legislature choose its leader. This move has sparked concerns about sectarian tensions and the IUML's maximalist demands within the UDF coalition, potentially jeopardizing the Front's social base. The **IUML**, however, is urged to respect established norms of Kerala's coalition politics, which involve a collective leadership decision by all partners.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55874,
+      "title": "Scorching heat boosts salt production in Thoothukudi; glut concerns grow - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/scorching-heat-boosts-salt-production-in-thoothukudi-glut-concerns-grow/article70920841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/80lzib/article70921066.ece/alternates/LANDSCAPE_1200/9865_29_4_2026_18_9_38_2_DSC_1692.JPG",
+      "scraped_at": "2026-05-01 23:02:39.804690",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Thoothukudi salt producers",
+      "rephrased_article": "**Thoothukudi** district producers are experiencing a surge in salt production this season, but face concerns about falling demand and the influx of **Gujarat** salt into the southern market.  While average production is around 25 lakh tonnes, unseasonal rainfall has impacted previous seasons, leading to increased reliance on **Gujarat** salt for traders in the region.  **M.P. Dileep**, a local salt manufacturer, expresses concern about stock accumulation despite favorable weather conditions and predicts price drops in Thoothukudi. **A.R.A.S. Dhanabalan**, former secretary of the **Thoothukudi Small Scale Salt Producers’ Association**, echoes these concerns regarding both local and export markets.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55800,
+      "title": "Nursing student found dead in hostel, parents suspect foul play - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/nursing-student-found-dead-in-hostel-parents-suspect-foul-play/article70929197.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-01 18:06:55.472707",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "A 20-year-old nursing student, Adhithyan P.A., was found dead in his hostel room at a private college in Bengaluru on Wednesday. **Police** are treating the death as a case of self-harm, but the deceased's father suspects foul play citing an earlier incident involving warnings against drug use from his son's hostelmates. The police are currently investigating the case.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 55722,
+      "title": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu",
+      "url": "https://www.thehindu.com/news/national/modi-empowered-ed-to-cleanse-cancer-of-financial-crimes-not-to-target-anyone-mos-pankaj-chaudhary/article70928211.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lqmo2l/article70928220.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000065A.jpg",
+      "scraped_at": "2026-05-01 14:04:53.149265",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "ED",
+      "rephrased_article": "**Union Minister of State (MoS) for Finance Pankaj Chaudhary** stated that the **Enforcement Directorate (ED)** has been given necessary powers to combat financial crimes and terror funding, not to target individuals.  He highlighted the rise in financial crimes like money laundering, 'hawala' transactions, and corporate fraud as reasons for this strengthened agency. The ED achieved significant success with attachments worth ₹2.36 lakh crore since 2005 and a conviction rate of nearly 94% in money laundering cases.  The agency also initiated proceedings under the Fugitive Economic Offenders Act (FEOA) against 54 individuals, confiscating properties worth ₹2,178.34 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55647,
+      "title": "This May Day reminds workers to be more organised, says Kerala Chief Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/this-may-day-reminds-workers-to-be-more-organised-says-kerala-chief-minister/article70927825.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/her2k6/article70927962.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%2010.16.57%20AM.jpeg",
+      "scraped_at": "2026-05-01 09:54:24.657601",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**Kerala**'s trade union organizations and workers from various sectors celebrated May Day on Friday, expressing concerns over the erosion of labor rights and the introduction of four new labor codes. **Chief Minister Pinarayi Vijayan**, in a Facebook post, acknowledged the growing strength of labor strikes across India despite neoliberal policies that undermine worker rights.  He urged workers to remain organized. The celebrations included rallies and public events in all 14 district centers and over 250 other locations. Trade unions like CITU, AITUC, AIUTUC, AICTU, SEWA, TUCI, HMS, NLC, INLC, HMKP, KTUCM, JTU, and NTU joined forces to mark the occasion.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55610,
+      "title": "Slithering fear: snakebite incidents trigger panic in Kerala - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/slithering-fear-snakebite-incidents-trigger-panic-in-kerala/article70920343.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o4r92k/article70925276.ece/alternates/LANDSCAPE_1200/NH24DikshalDeath04.JPEG",
+      "scraped_at": "2026-05-01 05:16:35.423097",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "other",
+      "rephrased_article": "**Dileep**, a 38-year-old man, lives in a makeshift hut made from scrap materials near the Kadinamkulam backwaters in Kerala. The dwelling consists of two small rooms and a hall, with items like utensils and firewood scattered around its perimeter.  He is seen staring at a mound of earth where wilted wreaths lie in the sun.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55586,
+      "title": "Tourists flock to Munnar to escape soaring temperatures - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/tourists-flock-to-munnar-to-escape-soaring-temperatures/article70924834.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-kerala/c8d6yd/article70927022.ece/alternates/LANDSCAPE_1200/Tourists-flock-GKQFU15RO.3.jpg.jpg",
+      "scraped_at": "2026-05-01 01:29:10.112823",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Munnar",
+      "rephrased_article": "**Munnar**, a hill station in Kerala, is experiencing a surge of tourists due to its cool temperatures and pleasant weather. **Dileep Pottankulam**, president of the Munnar Hotel and Resort Association, reported that hotels are fully booked until May 3rd, with many visitors drawn by the refreshing atmosphere compared to other parts of the state facing scorching heat.  **G. Sojan**, coordinator of the My Munnar Movement, attributed the influx to post-election tourism from Tamil Nadu and a growing number of north Indian tourists. The increase in arrivals has led to heavy traffic congestion in **Munnar** town.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55543,
+      "title": "ECI introduces new QR code-based ID cards for counting centres - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-introduces-qr-based-identity-cards-for-counting-centres-on-may-4-to-check-unauthorised-entry/article70924721.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rksmxj/article70924756.ece/alternates/LANDSCAPE_1200/10213_29_4_2026_19_41_14_1_KA30COUNTINGCENTERINKRISHNAGIRI.JPG",
+      "scraped_at": "2026-04-30 22:31:44.207276",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission** of India introduced a QR code-based photo identity card system for counting centres in Assam, Kerala, Tamil Nadu, West Bengal, and Puducherry.  This new system aims to prevent unauthorized individuals from entering the counting centers during upcoming elections on May 4th. The system will be rolled out to all future general and byelections for Lok Sabha and State Legislative Assemblies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 55500,
+      "title": "Odisha Assembly: BJP, BJD and Congress resort to political one-upmanship over women’s reservation - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-assembly-bjp-bjd-and-congress-resort-to-political-one-upmanship-over-womens-reservation/article70925338.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8yvb1v/article70926203.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000108A.jpg",
+      "scraped_at": "2026-04-30 18:27:07.312168",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Odisha** Chief Minister **Mohan Charan Majhi** addressed the special session of the state legislative assembly on Thursday, April 30, 2026, emphasizing women's active participation in Indian democracy.  He assured that reservation for women in the Lok Sabha and State Assemblies would be implemented from 2029. **Naveen Patnaik**, Leader of Opposition, criticized the BJP's handling of the issue, arguing that it was a ploy to push through delimitation without proper discussion. The BJD also highlighted its past support for women's reservation, while the Congress demanded immediate implementation of the already passed 33% reservation bill.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 55474,
+      "title": "Bowring tragedy: CM orders suspension of official, Lokayukta takes up inquiry, police file only UDR - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bowring-tragedy-chief-minister-siddaramaiah-orders-suspension-of-executive-engineer-concerned/article70924466.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lx2e0o/article70925005.ece/alternates/LANDSCAPE_1200/Internal-quota_GHMFS3FN6.3.jpg.jpg",
+      "scraped_at": "2026-04-30 17:06:02.557768",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Bowring and Lady Curzon Hospital",
+      "rephrased_article": "Following the tragic collapse of a compound wall at **Bowring and Lady Curzon Hospital**, which killed seven people, **Chief Minister Siddaramaiah** ordered the suspension of the executive engineer involved and directed a notice to be issued to the hospital authorities. The **Lokayukta** has registered a suo motu case and initiated an inquiry into the incident.  The **Bengaluru City Police** filed an Unnatural Death Report (UDR) but have not yet registered an FIR against any authorities for alleged negligence. An investigation is underway to determine the cause of the collapse, with experts from the Public Works Department and the India Meteorological Department consulted.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "health",
+        "education"
       ]
     }
   ]
