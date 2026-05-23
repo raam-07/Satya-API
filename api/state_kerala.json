@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 08:25:50.691909",
+  "generated_at": "2026-05-23 10:44:22.666622",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,30 +8,31 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 54,
-    "articles_last_30d": 54
+    "total_articles": 87,
+    "articles_last_30d": 87
   },
   "top_cities_30d": {
-    "Delhi": 5,
-    "Chennai": 4,
-    "Bengaluru": 2,
+    "Delhi": 13,
+    "Chennai": 7,
+    "Bengaluru": 3,
+    "Hyderabad": 2,
     "Mumbai": 2,
-    "Hyderabad": 1,
+    "Kolkata": 2,
     "Madurai": 1,
-    "Kolkata": 1,
     "Ranchi": 1,
-    "Pune": 1
+    "Pune": 1,
+    "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 52,
-    "protest_opposition": 20,
-    "education": 15,
-    "economy": 13,
-    "infrastructure": 13,
-    "crime_violence": 6,
+    "foreign_policy": 84,
+    "protest_opposition": 37,
+    "education": 23,
+    "economy": 18,
+    "infrastructure": 18,
+    "health": 11,
+    "crime_violence": 10,
+    "farmer_agriculture": 9,
     "corruption_scam": 6,
-    "health": 6,
-    "farmer_agriculture": 5,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
@@ -1466,6 +1467,929 @@
       "topic_tags": [
         "foreign_policy",
         "education"
+      ]
+    },
+    {
+      "id": 58494,
+      "title": "Siddaramaiah launches counter-attack, accuses Modi of destroying dignity of Prime Minister’s post - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-launches-counter-attack-accuses-modi-of-destroying-dignity-of-prime-ministers-post/article70966356.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8rrg33/article70966830.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%2020.39.51.JPEG",
+      "scraped_at": "2026-05-12 00:08:32.179108",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, criticized **Prime Minister Narendra Modi** for his recent speech in Bengaluru, accusing him of using \"lies, poor taste, hatred and jealousy\" to undermine the Prime Minister's office.  **Siddaramaiah** questioned the authenticity of the speech, suggesting it reflected poorly on **Modi**'s government and party in Karnataka.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58487,
+      "title": "CPI(M) defends Vijayan, says leadership is collective after Kerala defeat - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cpim-defends-vijayan-says-leadership-is-collective-after-kerala-defeat/article70966085.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/718np4/article70967101.ece/alternates/LANDSCAPE_1200/NH05PinarayiVijayan04.JPG",
+      "scraped_at": "2026-05-12 00:05:51.470840",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**M.A. Baby**, **CPI(M)** general secretary, stated that **Pinarayi Vijayan** cannot be solely held responsible for the Left Democratic Front's (LDF) loss in Kerala. He emphasized that the party functions as a collective unit and that **Vijayan** led the campaign as its senior-most member.  Baby did not specify who within the LDF will assume the Leader of the Opposition position, despite widespread speculation about **Vijayan** potentially holding it.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58484,
+      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+      "scraped_at": "2026-05-12 00:04:20.847646",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58482,
+      "title": "Tussle over CM lays bare fault lines in Congress - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2026-crisis-over-cm-choice-betrays-congs-lack-of-vision/article70967005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wcilx1/article70967465.ece/alternates/LANDSCAPE_1200/NH09Keralam02.JPEG",
+      "scraped_at": "2026-05-12 00:03:52.470946",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "The **Congress** has created a political crisis following its recent election victory in Kerala, causing division within the United Democratic Front (UDF) and embarrassing allies like the **IUML**. The party's central leadership is struggling to choose a chief ministerial candidate, leading to internal conflict and discontent among both senior leaders and ordinary workers.  The situation has been exacerbated by the party's decision to ask sitting MPs not to contest, further fueling speculation about its lack of vision and preparedness for post-election governance.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58343,
+      "title": "Govt. to bring reforms in AYUSH sector to enhance quality: Health Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-to-bring-reforms-in-ayush-sector-to-enhance-quality-health-minister/article70966407.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g3q3rg/article70966625.ece/alternates/LANDSCAPE_1200/vjkvg-satya%201.JPG",
+      "scraped_at": "2026-05-11 15:21:10.842378",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "AYUSH",
+      "rephrased_article": "**The State government of Andhra Pradesh** is implementing reforms in the AYUSH sector to enhance healthcare services and combat the distribution of fake drugs. **Minister for Health, Medical Education and Family Welfare Satya Kumar Yadav** announced the establishment of three committees – an expert committee, a stakeholders committee, and a technical committee – to develop new guidelines. The committees will consult experts, gather public feedback, and study best practices from other states like Kerala, Karnataka, and Tamil Nadu before submitting their recommendations.  The aim is to strengthen the regulatory framework for AYUSH clinics and hospitals, ensuring all practitioners are qualified and services meet national standards.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 58320,
+      "title": "Jockeying for the KPCC president’s post gains momentum, even as uncertainty looms over the party’s Chief Minister choice - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/jockeying-for-the-kpcc-presidents-post-gains-momentum-even-as-uncertainty-looms-over-the-partys-chief-minister-choice/article70965329.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/e4mflx/article70965539.ece/alternates/LANDSCAPE_1200/Kerala-AssemblyGJFFR6CA2.2.jpg.jpg",
+      "scraped_at": "2026-05-11 11:45:19.069818",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "KPCC",
+      "rephrased_article": "**Sunny Joseph**, the current **KPCC** president, is expected to relinquish his position to join the upcoming UDF government.  Several prominent figures, including **Benny Behanan**, **Kodikunnil Suresh**, **Anto Antony**, and **Shafi Parambil**, are vying for the vacant post of **KPCC** president.  The **AICC** will likely choose a leader based on age, demographics, and political merit. The **INTUC** has also entered the fray, with its leader objecting to **K.C. Venugopal's** candidacy for Chief Minister.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58285,
+      "title": "Kerala Government formation LIVE: Impasse over chief ministerial candidate in Congress - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-government-formation-udf-congress-delay-over-new-cm-candidate-live-updates-may-11-2026/article70961445.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i4grzv/article70961452.ece/alternates/LANDSCAPE_1200/Three-hour-meetGTVFV9IJG.3.jpg.jpg",
+      "scraped_at": "2026-05-11 04:49:50.171163",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** leadership held marathon discussions in **New Delhi** with the three main contenders for Kerala's Chief Minister position, **K.C. Venugopal**, **Ramesh Chennithala**, and **V.D. Satheesan**, and **KPCC president Sunny Joseph**.  The consultations, attended by observers **Ajay Maken** and **Mukul Wasnik**, have failed to reach a decision on the selection of a new Chief Minister despite discussions lasting over three hours.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58278,
+      "title": "‘Compromised PM’ no longer capable of running country: Rahul slams Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/compromised-pm-no-longer-capable-of-running-country-rahul-slams-modi/article70964378.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zff4ck/article70964384.ece/alternates/LANDSCAPE_1200/20260404027L.jpg",
+      "scraped_at": "2026-05-11 04:47:24.109605",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Rahul Gandhi**, leader of the **Congress**, criticized **Prime Minister Narendra Modi** for urging citizens to make sacrifices during the West Asia conflict, calling it evidence of failure.  Gandhi argued that these measures are shifting responsibility onto the public and highlight the government's inability to address the crisis. The **Congress** also condemned **Modi**'s call for reducing fuel consumption and postponing gold purchases, claiming it is reckless and immoral.  The Prime Minister, meanwhile, urged citizens to use petroleum products judiciously, postpone gold purchases, and adopt alternative modes of transport to strengthen the economy amidst the global crisis.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58270,
+      "title": "The emerging Rahul Gandhi-Vijay political partnership - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/the-emerging-rahul-gandhi-vijay-political-partnership/article70962074.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7f03nz/article70963116.ece/alternates/LANDSCAPE_1200/DSC_5948.JPG",
+      "scraped_at": "2026-05-11 00:03:54.173922",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "**Rahul Gandhi**, Congress leader, attended the swearing-in ceremony of **C. Joseph Vijay**'s new **Tamilaga Vettri Kazhagam** government in Chennai. The event signaled a potential shift in the political landscape between the Congress and the DMK, with **Gandhi** expressing support for **Vijay** and their relationship mirroring that shared by former allies **M.K. Stalin** and **Gandhi**.  The TVK's success may bolster the Congress's influence in southern India.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58269,
+      "title": "Congress’ wait to join the Tamil Nadu Cabinet continues - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/congress-wait-to-join-the-tamil-nadu-cabinet-continues/article70962912.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5ehn2w/article70963621.ece/alternates/LANDSCAPE_1200/DSC_5948.JPG",
+      "scraped_at": "2026-05-11 00:03:28.200236",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Rahul Gandhi** attended the swearing-in ceremony of **C. Joseph Vijay**, the new Chief Minister of Tamil Nadu, on Sunday (May 10, 2026). However, despite the Congress's request for both of its MLAs to be sworn in as Cabinet Ministers at the same time, the **Tamil Nadu Vettri Kazhagam** (TVK) opted to delay the swearing-in. The TVK is planning to include members from other coalition partners like the AIADMK in the cabinet expansion.  The decision not to immediately swear in the Congress MLAs was seen as a missed opportunity by some party leaders who felt it would have sent a strong message of unity.",
+      "party_mentioned": [
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58266,
+      "title": "CM selection a democratic process: Chennithala - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/cm-selection-a-democratic-process-chennithala/article70963375.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h07an3/article70963481.ece/alternates/LANDSCAPE_1200/IMG_Ramesh_Chennithala_2_1_9GFP8KOJ.jpg",
+      "scraped_at": "2026-05-10 23:01:43.324695",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Ramesh Chennithala**, a senior Congress leader, criticized the BJP for its alleged delay in selecting a Chief Minister after the 2025 Delhi Assembly elections. He defended the **Congress**'s democratic process and emphasized that decisions are made through discussions within the party.  Chennithala stated that five days is not an unreasonable time frame for such a decision, especially considering the complexity of the selection process. The Congress leadership has been meeting with various leaders to arrive at a consensus on the next Chief Minister.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58239,
+      "title": "Kerala’s fiscal worries - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/keralas-fiscal-worries/article70963310.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/o1cada/article70963476.ece/alternates/LANDSCAPE_1200/Kerala.jpg",
+      "scraped_at": "2026-05-10 21:02:47.064260",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala",
+      "rephrased_article": "**V.D. Satheesan**, the **Kerala** Opposition Leader, claims that the newly elected **UDF** government inherited a nearly empty treasury from the **LDF**.  The new government faces challenges in managing Kerala's finances, including high expenditures on salaries, pensions, and interest payments, limited tax revenue potential, and the impact of the 16th Finance Commission awards. The outgoing Finance Minister, **K.N. Balagopal**, disputes these claims, emphasizing that the state is in a better financial position than it was under the previous government.  The new government will need to address these challenges to fulfill its promises of development and social welfare programs.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58225,
+      "title": "Congress claims Instagram blocked Rahul Gandhi's reel and photo post featuring Vijay due to MeitY rules - The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-claims-instagram-blocked-rahul-gandhis-reel-and-photo-post-featuring-vijay-due-to-meity-rules/article70963346.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fe57zf/article70963369.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000394A.jpg",
+      "scraped_at": "2026-05-10 20:04:49.671809",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** leader Rahul Gandhi's post featuring him and actor-politician Vijay after the Tamil Nadu chief minister's oath-taking ceremony was mistakenly flagged for blocking by **Instagram**, according to **Congress** aide Srivatsa.  He claimed that the action is due to Ministry of Electronics and Information Technology (MeitY) rules, but **MeitY** sources denied this, stating it was a platform error. The post had garnered millions of views before being restored.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58222,
+      "title": "Prisoners in Kerala to get a wider variety of fish with Jail department entering into tie-up with Matsyafed - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/prisoners-in-kerala-to-get-a-wider-variety-of-fish-with-jail-department-entering-into-tie-up-with-matsyafed/article70962148.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/e8naih/article70962745.ece/alternates/LANDSCAPE_1200/IMG_iStock-2260884598_2_1_G2FLQ5CQ.jpg",
+      "scraped_at": "2026-05-10 20:04:00.278951",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Kerala Jail department",
+      "rephrased_article": "**Kerala's Jail department** has partnered with **Matsyafed** to supply a wider variety of fish to 56 prisons across the state. The agreement, beginning in May, will replace local procurement and ensure consistent fish availability for inmates.  The new system will provide prisoners with sardine, mackerel, tuna, and other commonly available fish, cut into curry-sized pieces, daily. This change aims to address complaints from prisoners regarding limited fish options.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58217,
+      "title": "LPG hike pushes up food prices across Kerala - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/lpg-hike-pushes-up-food-prices-across-kerala/article70962531.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x0ptl2/article70962787.ece/alternates/LANDSCAPE_1200/Tea03.JPG",
+      "scraped_at": "2026-05-10 20:02:28.477815",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "LPG",
+      "rephrased_article": "**Hoteliers** across the state have quietly increased menu prices by ₹2 to ₹5 due to a recent surge in commercial **LPG** cylinder prices.  This price hike has caused customer dissatisfaction, particularly among those who rely on daily meals from eateries.  While some **hoteliers** argue that the increase is necessary to cover rising costs of raw materials and cooking gas, customers like **C.M. Anumol**, a Kudumbashree worker, are concerned about the impact on their budgets.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58208,
+      "title": "CPI Kerala State secretary Binoy Viswam criticises personality cults, reiterates CPI claim to Deputy Opposition Leader’s post - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/cpi-kerala-state-secretary-binoy-viswam-criticises-personality-cults-reiterates-cpi-claim-to-deputy-opposition-leaders-post/article70962777.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/a1j8xe/article70962937.ece/alternates/LANDSCAPE_1200/Binoy_Viswam02.jpg",
+      "scraped_at": "2026-05-10 18:38:31.736740",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "LDF",
+      "rephrased_article": "**Binoy Viswam**, **CPI** State secretary, criticized the **Left Democratic Front's (LDF)** performance in the Kerala Assembly elections, calling it a warning from the people and emphasizing the need for the Left to learn from its mistakes.  Viswam also reiterated the CPI's claim to the Deputy Leader of the Opposition position in the Assembly.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58204,
+      "title": "In Kerala, nearly half of Congress’ MLAs-elect are young faces - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/in-kerala-nearly-half-of-congress-mla-elects-are-young-faces/article70962314.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rh4x9a/article70962569.ece/alternates/LANDSCAPE_1200/80693_4_5_2026_19_45_15_1_ABINVARKEY.JPG",
+      "scraped_at": "2026-05-10 18:37:08.959630",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** emerged victorious in the recent Kerala Assembly elections, with a significant number of young leaders securing victory.  The party's new leadership, largely comprised of first-time legislators and youth activists, includes individuals like **O.J. Janeesh**, **Abin Varkey**, and **A.D. Thomas**. These newly elected representatives, who are significantly younger than the average age of senior Congress leaders in the state, attribute their success to factors such as organizational preparedness, a favorable political climate, and the public's dissatisfaction with the ruling Left Democratic Front (LDF) government. The party is optimistic about the future leadership of these young candidates, predicting they will guide the party for at least the next 15 years.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58201,
+      "title": "No intent to insult, says Apu Joseph amid KC(M) protest - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/no-intent-to-insult-says-apu-joseph-amid-kcm-protest/article70962215.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x6j7xo/article70962506.ece/alternates/LANDSCAPE_1200/Apu%20john%20Joseph.jpg",
+      "scraped_at": "2026-05-10 18:36:04.088860",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "KC(M)",
+      "rephrased_article": "**Apu John Joseph**, Thodupuzha MLA-elect, clarified his \"prodigal son\" remark regarding **Jose K. Mani** and the **Kerala Congress (M)**, stating it was not intended as an insult but a political sentiment seeking the party's return to mainstream politics.  He expressed regret for any discomfort caused and reiterated his invitation to the faction in a cordial spirit.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58193,
+      "title": "Kochi-Lakshadweep seaplane trial flight rescheduled to May 12 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-lakshadweep-seaplane-trial-flight-rescheduled-to-may-12/article70962824.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cprcqk/article70963072.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-10%20at%2021.04.02.jpeg",
+      "scraped_at": "2026-05-10 17:13:34.546913",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Cochin International Airport",
+      "rephrased_article": "**Inclement weather** has forced the postponement of the trial flight of the seaplane service on the Kochi-Lakshadweep route to May 12. The **Cochin International Airport**, originally scheduled for a test run on May 10, will now operate the flight connecting Kalpeni in Lakshadweep and four other islands in the Union Territory.  The trial flight was postponed due to a yellow alert for rain issued in multiple districts of Kerala.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58008,
+      "title": "Could hantavirus be the new emerging pathogen in Kerala? - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/could-hantavirus-be-the-new-emerging-pathogen-in-kerala/article70959251.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ux9lh4/article70959964.ece/alternates/LANDSCAPE_1200/IAV_4.jpg",
+      "scraped_at": "2026-05-10 04:35:41.317276",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "hantavirus",
+      "rephrased_article": "**Kerala's** health department is investigating the possibility of hantavirus infection contributing to a significant number of acute febrile illnesses with renal syndrome and thrombocytopenia, which are currently attributed to leptospirosis.  The state has previously documented hantavirus seroprevalence in research studies dating back to 1999.  **Kerala's** clinicians are aware that the two diseases share similar symptoms, making timely diagnosis challenging. The **Institute of Advanced Virology (IAV)** now provides PCR testing for hantavirus confirmation. While there has been no confirmed human-to-human transmission, the IAV is conducting basic biological studies on the virus and routine PCR testing to identify potential cases.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 57997,
+      "title": "Man arrested on charge of assaulting minor on train - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/man-arrested-on-charge-of-assaulting-minor-on-train/article70960119.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-09 23:28:47.737363",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Sanish",
+      "rephrased_article": "**Punalur police** arrested a 40-year-old man, Sanish, for allegedly sexually assaulting a six-year-old girl on the **Palaruvi Express**. The incident occurred in early morning hours while the victim and her family were traveling from Tamil Nadu. A vigilant passenger recorded video evidence of the crime, which was shared with authorities leading to the suspect's arrest.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57991,
+      "title": "A young IAS officer’s reform wish list for new government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/a-young-ias-officers-reform-wish-list-for-new-government/article70959340.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/5p87zy/article70959343.ece/alternates/LANDSCAPE_1200/Dilip.jpg",
+      "scraped_at": "2026-05-09 22:14:03.488380",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "UDF government",
+      "rephrased_article": "**Dilip K. Kainikkara**, a young IAS officer and Tirur Sub Collector, has presented a reform wish list to the newly elected **United Democratic Front (UDF)** government in Kerala.  He recommends the bifurcation of Malappuram district and an increase in the pension age to 58. He argues that dividing large districts improves administrative efficiency and public access to services.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57957,
+      "title": "Water conservation a challenge in Ernakulam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/water-conservation-a-challenge-in-ernakulam/article70959831.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-09 20:13:32.364600",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Water conservation",
+      "rephrased_article": "**Haritha Keralam Mission** conducted a water budget study for 96 local bodies in Ernakulam, revealing that the **Kochi Corporation** experiences surplus water availability for most of the year but faces deficits from late November to early May. The study highlights that conserving water is the primary challenge, with rainfall being the main source and excess reliance on supplied water impacting other sources like wells and waterbodies.  The water budget, prepared by comparing water availability and consumption over a 10-day period, will help local bodies develop conservation strategies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 57953,
+      "title": "Trinamool nominates Sobhandeb as Opposition leader, Firhad as Chief Whip - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-nominates-sobhandeb-as-opposition-leader-firhad-as-chief-whip/article70960231.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bdok2r/article70960357.ece/alternates/LANDSCAPE_1200/HGf45KIbQAAcgVc.jpg",
+      "scraped_at": "2026-05-09 20:12:02.922140",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** nominated **Sobhandeb Chattopadhyay**, 82, as the Leader of Opposition in the 18th West Bengal Legislative Assembly.  The party will have two deputy leaders of opposition: **Asima Patra** and **Nayna Bandyopadhya**. **Firhad Hakim** has been appointed as the Trinamool Chief Whip. The decision comes after **Mamata Banerjee** lost her seat in the recent Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57930,
+      "title": "Three-hour meeting fails to end impasse over Congress Chief Minister for Kerala - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/impasse-over-congress-chief-minister-for-kerala/article70959697.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rlh4s4/article70960183.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%2019.38.59.jpeg",
+      "scraped_at": "2026-05-09 17:38:31.475005",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Despite consultations between **Congress** president Mallikarjun Kharge, Leader of the Opposition Rahul Gandhi, and AICC general secretary (organisation) K.C. Venugopal, senior leaders Ramesh Chennithala and V.D. Satheesan, and KPCC president Sunny Joseph, a decision on naming a Chief Minister for **Kerala** remains stalled.  The high command has until May 23 to finalize the candidate after considering claims from each faction, including those of Congress MLA-designates and constituents of the United Democratic Front (UDF). The consultations were marked by intense posturing and competing claims, with party workers removing aggressive flex boards and appeals made to maintain decorum.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57929,
+      "title": "Actor Madhu presented with Krishnanjali Award - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/actor-madhu-presented-with-krishnanjali-award/article70960005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3569e/article70960210.ece/alternates/LANDSCAPE_1200/JA09Madhu02.JPG",
+      "scraped_at": "2026-05-09 17:38:04.786578",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Madhu",
+      "rephrased_article": "**Madhu**, a veteran Malayalam actor, was honored with the Krishnanjali Award at his residence on Saturday. The award, presented by **K. Jayakumar**, son of film director M. Krishnan Nair and former Chief Secretary, recognized Madhu's contributions to Malayalam cinema over six decades as an actor, director, producer, and studio owner. Prominent figures from art, culture, and literature attended the ceremony, which also marked the 25th anniversary of **Krishnan Nair**'s death.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 57891,
+      "title": "Labour shortage stalls Mananchira-Vellimadukunnu Road widening works - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/labour-shortage-stalls-mananchira-vellimadukunnu-road-widening-works/article70959405.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/xs2rji/article70959371.ece/alternates/LANDSCAPE_1200/mananchiravellimadu.jpg",
+      "scraped_at": "2026-05-09 15:10:39.801166",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Road Fund Board",
+      "rephrased_article": "**Kerala Road Fund Board** officials cite a labor shortage caused by migrant workers from West Bengal and Assam returning home for the Assembly elections as a major obstacle to widening the Mananchira-Vellimadukunnu Road in Kozhikode. The scarcity of bitumen, also impacting construction progress, has further delayed the project. While some workers have returned, the issue of bitumen supply remains unresolved.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 57875,
+      "title": "Bidar: Take informed decisions about career paths, IAS officer tells students at The Hindu EducationPlus Career Counselling 2026 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bidar-take-informed-decisions-about-career-paths-ias-officer-tells-students-at-the-hindu-educationplus-career-counselling-2026/article70958805.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yaz50a/article70959256.ece/alternates/LANDSCAPE_1200/9727_9_5_2026_16_43_41_1_10BGMRAHULSHINDHETHEPCC1.JPG",
+      "scraped_at": "2026-05-09 14:06:59.678212",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "other",
+      "rephrased_article": "**Rahul Shinde**, a senior IAS officer and Belagavi Zilla Panchayat CEO, advised students to choose rewarding careers while developing resilience. He emphasized focusing on personal interests and aptitude rather than fleeting trends or job market demands. **Dayananda J.**, CET nodal officer, provided details about the KEA CET examination and counselling.  **Sachin Gudge**, associate professor at Bidar Institute of Medical Sciences, spoke about medicine as a career path. Other speakers included **Vinita Balbhim Patil**, principal of Lingaraj Appa Engineering College, and **Parvat Bijaspur**, CA, who discussed careers in commerce.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 57867,
+      "title": "Police launch probe after hoax mail threatens blasts across Kerala - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/police-launch-probe-after-hoax-mail-threatens-blasts-across-kerala/article70959307.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-09 14:04:31.224949",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Thiruvananthapuram City Cyber Police** in **Kerala** registered a case on Friday after receiving a hoax email claiming explosions at courts and collectorates across the state. The email, received by a **District Collector** in **Bikaner**, Rajasthan, was later confirmed as false.  The **Rajasthan Police** alerted **Kerala Police**, who conducted security checks. The investigation is ongoing to identify the sender, suspected to have used a dark web platform.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57855,
+      "title": "Kerala CM debate: Kharge to hold crucial talks with senior leaders today evening - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-debate-kharge-to-hold-crucial-talks-with-senior-leaders-today-evening/article70958477.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nebpof/article70958548.ece/alternates/LANDSCAPE_1200/10258_22_4_2026_16_50_36_1_KLB_AICC_MALLIKARJUN_KHARGE_3.JPEG",
+      "scraped_at": "2026-05-09 12:18:14.449576",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Congress",
+      "rephrased_article": "**Mallikarjun Kharge**, **AICC president**, will meet with key figures in the Kerala Congress leadership, including **K.C. Venugopal**, **V.D. Satheesan**, and **Ramesh Chennithala**, on Saturday (May 9, 2026) to discuss the selection of a new Chief Minister.  **Rahul Gandhi** is expected to meet with the Kerala leaders after a consensus emerges from the meeting chaired by **Kharge**.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57849,
+      "title": "Which party governs which State/UT: In maps - The Hindu",
+      "url": "https://www.thehindu.com/news/which-party-governs-which-state-in-maps/article70955247.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pbjvvu/article70949412.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000286B.jpg",
+      "scraped_at": "2026-05-09 12:15:25.231378",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**The Bharatiya Janata Party (BJP)** and its allies secured victories in Assam, Puducherry, and West Bengal, while the Congress-led UDF won in Tamil Nadu. **Suvendu Adhikari**, a BJP leader, is set to become the first BJP Chief Minister of West Bengal. The results mark a shift in the political landscape with the BJP or the NDA now governing 20 states and 2 Union Territories.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Sikkim",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57847,
+      "title": "Prioritise public safety when releasing wild animals: Kerala SHRC - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/prioritise-public-safety-when-releasing-wild-animals-kerala-shrc/article70958887.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jsik8x/article70958954.ece/alternates/LANDSCAPE_1200/IMG_Wild_Boar__4.jpg_4_1_O79TCTOD.jpg",
+      "scraped_at": "2026-05-09 12:14:40.665626",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Forest department",
+      "rephrased_article": "**The State Human Rights Commission (SHRC)** has issued a directive to the **Forest department**, requiring them to prioritize public safety and transparency when capturing and releasing wild animals in forest areas. The order, prompted by complaints from social activist **P.N. Venukuttan Nair**, emphasizes the need for effective communication with local communities and the release of animals within forest interiors.  The SHRC also urged the Forest department to implement robust preventive measures to mitigate human-wildlife conflicts, including strengthening surveillance in residential areas and installing solar fences and warning systems.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57834,
+      "title": "Congress seeks discussion in Parliament on China's 'support' to Pakistan in Operation Sindoor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-seeks-discussion-in-parliament-on-chinas-support-to-pakistan-in-operation-sindoor/article70958763.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9rv86y/article70958786.ece/alternates/LANDSCAPE_1200/CONGRESS%20KHERA%20PC%20DELHI%202026_01_05_23.jpg",
+      "scraped_at": "2026-05-09 11:32:30.193773",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "China",
+      "rephrased_article": "**Congress** general secretary (communications) Jairam Ramesh demanded a discussion in Parliament on **China's** claims of providing on-site technical support to Pakistan during Operation Sindoor last year.  Ramesh questioned the government's loosening of investment and trade curbs on China, its deepening industrial dependency, and why Prime Minister Narendra Modi gave a clean chit to China in 2020 after the conflict. He cited **Lt. Gen. Rahul Singh**, Deputy Chief of Army Staff, who had previously revealed details about **China's** involvement.  Ramesh emphasized the need for these issues to be discussed in Parliament.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
       ]
     }
   ]

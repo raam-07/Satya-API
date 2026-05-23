@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 08:25:50.687816",
+  "generated_at": "2026-05-23 10:44:22.660013",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,59 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 61,
-    "articles_last_30d": 61
+    "total_articles": 107,
+    "articles_last_30d": 107
   },
   "top_cities_30d": {
-    "Delhi": 13,
+    "Delhi": 24,
+    "Hyderabad": 10,
+    "Bengaluru": 8,
     "Mumbai": 5,
-    "Hyderabad": 4,
-    "Ahmedabad": 4,
-    "Bengaluru": 3,
-    "Kolkata": 2,
+    "Ahmedabad": 5,
+    "Kolkata": 4,
+    "Agra": 2,
+    "Patna": 2,
     "Surat": 2,
-    "Vadodara": 2,
-    "Jaipur": 1,
-    "Agra": 1
+    "Vadodara": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 61,
-    "economy": 26,
-    "infrastructure": 22,
-    "protest_opposition": 15,
-    "education": 14,
-    "farmer_agriculture": 12,
-    "crime_violence": 11,
-    "corruption_scam": 7,
-    "health": 6,
-    "rape_sexual_crime": 1
+    "foreign_policy": 106,
+    "economy": 39,
+    "infrastructure": 39,
+    "protest_opposition": 28,
+    "education": 22,
+    "crime_violence": 22,
+    "farmer_agriculture": 18,
+    "health": 12,
+    "corruption_scam": 10,
+    "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 61060,
+      "title": "Five killed in cruiser-lorry collision near Wadi in Kalaburagi district - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/lorry-cruiser-collision-near-wadi-kalaburagi-on-may-23-2026/article71013465.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/uq4h3n/article71013481.ece/alternates/LANDSCAPE_1200/10258_23_5_2026_9_24_11_1_WADI_ACCIDENT_1.JPG",
+      "scraped_at": "2026-05-23 04:32:38.802185",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "accident",
+      "rephrased_article": "A head-on collision between a cruiser vehicle and an Ashok Leyland lorry on National Highway 150 near Neeladahalla, India, resulted in the deaths of five people from **Ingalagi village**. The accident occurred early Saturday morning when the cruiser, driven by Mashaq Saab, collided with the lorry transporting goods from Gujarat to Chennai.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 61024,
       "title": "Innovation begins with understanding the fundamentals: Prakash Balasubramanian - The Hindu",
@@ -1736,6 +1761,1353 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 58494,
+      "title": "Siddaramaiah launches counter-attack, accuses Modi of destroying dignity of Prime Minister’s post - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-launches-counter-attack-accuses-modi-of-destroying-dignity-of-prime-ministers-post/article70966356.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8rrg33/article70966830.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%2020.39.51.JPEG",
+      "scraped_at": "2026-05-12 00:08:32.179108",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, criticized **Prime Minister Narendra Modi** for his recent speech in Bengaluru, accusing him of using \"lies, poor taste, hatred and jealousy\" to undermine the Prime Minister's office.  **Siddaramaiah** questioned the authenticity of the speech, suggesting it reflected poorly on **Modi**'s government and party in Karnataka.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58492,
+      "title": "Green energy key to India’s future growth: Naidu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/green-energy-key-to-indias-future-growth-naidu/article70966522.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ix4g32/article70966677.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-11%20at%2020.22.28.jpeg",
+      "scraped_at": "2026-05-12 00:07:39.534965",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Narendra Modi** urged citizens to reduce edible oil consumption and increase public transport usage, while **N. Chandrababu Naidu**, Andhra Pradesh's Chief Minister, emphasized India's need for energy security and sustainable development through green energy and decentralized power systems.  Naidu spoke at the Confederation of Indian Industry (CII) Business Summit in New Delhi on Monday, highlighting India's growing economic power under **Modi's** leadership.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58484,
+      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+      "scraped_at": "2026-05-12 00:04:20.847646",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58479,
+      "title": "Two cheetahs released into wild in Kuno; CM Yadav says M.P. now recognised as ‘Cheetah State’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/two-cheetahs-released-into-wild-in-kuno-cm-yadav-says-mp-now-recognised-as-cheetah-state/article70967195.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/z11auc/article70967207.ece/alternates/LANDSCAPE_1200/PTI05_11_2026_000101B.jpg",
+      "scraped_at": "2026-05-12 00:03:09.415643",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Project Cheetah",
+      "rephrased_article": "**Madhya Pradesh Chief Minister Mohan Yadav** released two cheetahs from Botswana into an open forest in Kuno National Park, marking another successful chapter of the **Project Cheetah**.  The reintroduction program aims to restore the endangered species and prepare them for free roaming. This is the third international phase of the project, following previous arrivals from Namibia and South Africa. The release follows a quarantine period and experts believe cheetahs from Botswana will contribute to a healthy and sustainable population in Kuno.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58472,
+      "title": "Did BJP internal wranglings upset Modi? - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/pms-telangana-visit-leaves-a-sour-taste-in-state-bjp/article70967023.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3b5c1x/article70967061.ece/alternates/LANDSCAPE_1200/2248_10_5_2026_20_56_5_1_PRIMEMINISTERNARENDRAMODI01.JPG",
+      "scraped_at": "2026-05-11 22:39:39.379172",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Prime Minister Narendra Modi's** visit to Telangana was met with disappointment among **BJP** leaders, who expressed dissatisfaction over internal disagreements and factional politics.  Sources claim the PM was particularly upset by his time spent with Andhra Pradesh CM **Chandrababu Naidu** and Deputy CM **Pawan Kalyan**, which they believe unnerved party members.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58469,
+      "title": "PM Modi to meet Iran FM, other BRICS Ministers before UAE visit - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-to-meet-iran-fm-other-brics-ministers-before-uae-visit/article70966622.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tobmjy/article70967047.ece/alternates/LANDSCAPE_1200/Russia_Iran_21_45.jpg",
+      "scraped_at": "2026-05-11 22:39:04.376459",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "PM Modi",
+      "rephrased_article": "**Abbas Araghchi**, Iranian Foreign Minister, will travel to New Delhi this week for the BRICS Foreign Ministers meeting. He is expected to meet with **Prime Minister Narendra Modi** before the latter's visit to the UAE.  The meeting will take place on Thursday, May 14th, alongside other BRICS ministers from Brazil, Russia, South Africa, Egypt, Ethiopia, and Indonesia.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58462,
+      "title": "$200 million divorce battle: Iranian heiress accused of shielding family assets to block husband’s claims in California - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/200-million-divorce-battle-iranian-heiress-accused-of-shielding-family-assets-to-block-husbands-claims-in-california/articleshow/131017591.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131017798,width-1280,height-720,imgsize-88744,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-11 22:37:52.277218",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Star Bral",
+      "rephrased_article": "**Setareh “Star” Bral**, daughter of a late Iranian real estate tycoon, is accused by her estranged husband, **Ryan Aronin**, of hiding assets in a $200 million divorce battle.  Court documents allege that Bral transferred control of her company, Star Pacific Properties, to her brother in October 2024 and attempted to distance herself from the SYB Family Trust, which is estimated to be worth $200 million. Aronin claims she has continued to benefit from trust-related rental income despite separating from him in March 2022. The dispute centers around Bral's alleged attempts to limit her financial exposure and control over assets.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 58455,
+      "title": "CM is unsettled by PM’s remarks: BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/cm-is-unsettled-by-pms-remarks-bjp/article70966902.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/51pbal/article70967122.ece/alternates/LANDSCAPE_1200/DSC_6638.JPG",
+      "scraped_at": "2026-05-11 22:36:41.538246",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** in Karnataka responded to **Chief Minister Siddaramaiah's** criticism of **Prime Minister Narendra Modi**, stating that the Prime Minister's speech at a BJP event was within his democratic right. The opposition leader, R. Ashok, argued that the Prime Minister spoke about issues affecting 7 crore Kannadigas and that Siddaramaiah should focus on addressing real concerns in Karnataka rather than being rattled by the remarks.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Karnataka",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58436,
+      "title": "Most drowning cases occur in summer: Fire dept. - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/most-drowning-cases-occur-during-summer-fire-dept/article70965311.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-11 21:27:39.278272",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "students",
+      "rephrased_article": "**Fire and Rescue Services** department reported a surge in drowning cases involving students during summer vacation.  Three dental students from **Baselios Dental College** drowned in the Palavan river near Kothamangalam, while another student drowned in a quarry in Thrikkariyoor panchayat. The incidents highlight the dangers of strong undercurrents and deep pits in the picturesque but treacherous river. To address this issue, **Kothamangalam fire station** organized a 10-day swimming camp for students.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58421,
+      "title": "​Belated warning: On the Prime Minister’s austerity appeal - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/belated-warning-on-the-prime-ministers-austerity-appeal/article70965048.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-11 21:24:22.429885",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** issued a seven-point call to action for citizens of India, urging them to work from home and reduce fuel consumption in response to the West Asia crisis. The timing and content of his message have been criticized as problematic, particularly given his recent campaign travels and pre-election silence on these issues.  The government's decision not to raise fuel prices before elections has been lauded by some but is now being seen as a strategic move to dilute its impact on the public. **Confederation of Indian Industry** also issued a call to action for Indian corporations, highlighting the dire situation and potential negative impacts of Modi's suggestions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58388,
+      "title": "Modi’s austerity drive is an admission of failure on economic and foreign policy fronts, alleges Akhilesh - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modis-appeal-on-fuel-savings-an-admission-of-failure-will-rattle-markets-akhilesh/article70964575.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/b08pfp/article70964597.ece/alternates/LANDSCAPE_1200/20260509267L.jpg",
+      "scraped_at": "2026-05-11 17:41:34.776125",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Akhilesh Yadav**, president of the **Samajwadi Party**, criticized **Prime Minister Narendra Modi's** appeal for austerity in light of the Iran conflict, accusing the **BJP government** of failing on both economic and foreign policy fronts.  Yadav argued that the appeal was an admission of failure and that the restrictions imposed were disproportionate to the perceived crisis. He also accused the **BJP** of fueling political unrest with electoral fraud and social discord.",
+      "party_mentioned": [
+        "BJP",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58334,
+      "title": "Telangana BJP distances itself from POCSO case against Bandi Sanjay’s son, calls it legal issue - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-bjp-distances-itself-from-pocso-case-against-bandi-sanjays-son-calls-it-legal-issue/article70965280.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nn3jcz/article70965507.ece/alternates/LANDSCAPE_1200/25hyngg_NEC%20of%20the%20party%2001.jpg",
+      "scraped_at": "2026-05-11 11:49:06.880166",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **Bharatiya Janata Party** (BJP) in Telangana distanced itself from a POCSO case involving the son of Union Minister of State for Home Affairs, Bandi Sanjay Kumar. The state BJP president, N. Ramchander Rao, stated that the party has no connection to the matter and will investigate if any family member is involved.  Rao also addressed allegations of discrepancies in the Special Intensive Revision (SIR) conducted during the recent Assembly elections, claiming it was a clean-up exercise approved by the Election Commission and Supreme Court. He asserted that the SIR aimed to eliminate \"bogus\" voters and that the results reflected the mandate of genuine voters.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58307,
+      "title": "Bandi Bhagirath’s case takes serious turn with Telangana CM ordering special team for comprehensive probe - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/bandi-bhagiraths-case-takes-a-serious-turn-with-telangana-cm-ordering-special-team-for-comprehensive-probe/article70964852.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-11 08:31:08.265752",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Bandi Sanjay Kumar",
+      "rephrased_article": "**A. Revanth Reddy**, **Telangana Chief Minister**, has demanded an immediate investigation into allegations of sexual harassment against the son of **Union Minister of State for Home Affairs Bandi Sanjay Kumar**, **Bandi Bhagirath**.  The Chief Minister, who is also the Home Minister, instructed the Director General of Police (DGP), **C.V. Anand**, to launch a probe into the case registered at Pet Basheerabad Police Station. The investigation follows allegations that the police have been slow to act on the complaint lodged by the alleged victim on May 8th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58292,
+      "title": "1998 Pokhran nuclear tests reflected India's scientific excellence: PM on National Technology Day - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/1998-pokhran-nuclear-tests-reflected-indias-scientific-excellence-pm-on-national-technology-day/article70964324.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ql3ay9/article70964327.ece/alternates/LANDSCAPE_1200/HP180474.jpg",
+      "scraped_at": "2026-05-11 04:52:10.628746",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** greeted the nation on National Technology Day, commemorating India's successful nuclear tests at Pokhran in 1998. He emphasized technology as a key pillar for building a self-reliant India and highlighted its role in accelerating innovation and national growth. **Mr. Modi** praised the scientists who led these landmark events, stating they are the true architects of the nation's pride and self-respect.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58278,
+      "title": "‘Compromised PM’ no longer capable of running country: Rahul slams Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/compromised-pm-no-longer-capable-of-running-country-rahul-slams-modi/article70964378.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zff4ck/article70964384.ece/alternates/LANDSCAPE_1200/20260404027L.jpg",
+      "scraped_at": "2026-05-11 04:47:24.109605",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Rahul Gandhi**, leader of the **Congress**, criticized **Prime Minister Narendra Modi** for urging citizens to make sacrifices during the West Asia conflict, calling it evidence of failure.  Gandhi argued that these measures are shifting responsibility onto the public and highlight the government's inability to address the crisis. The **Congress** also condemned **Modi**'s call for reducing fuel consumption and postponing gold purchases, claiming it is reckless and immoral.  The Prime Minister, meanwhile, urged citizens to use petroleum products judiciously, postpone gold purchases, and adopt alternative modes of transport to strengthen the economy amidst the global crisis.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58274,
+      "title": "Solicitor General launches two tomes on humour in court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-hotel-associations-seek-lpg-relief-urge-pm-modi-for-rationalisation/article70960128.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fwvc7q/article70963210.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000742B.jpg",
+      "scraped_at": "2026-05-11 00:05:40.670518",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Amit Shah",
+      "rephrased_article": "**Chief Justice of India (CJI) Surya Kant** praised **Solicitor General Tushar Mehta's** new books, \"The Bench, The Bar and The Bizarre\" and \"The Lawful and The Awful,\" which feature humorous anecdotes from the courtroom.  Kant suggested that Mehta likely wrote the books during downtime in court or while waiting for slow-moving files to be read.  **Home Minister Amit Shah** also attended the book launch.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58273,
+      "title": "Solicitor General launches two tomes on humour in court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/solicitor-general-launches-two-tomes-on-humour-in-court/article70962834.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fwvc7q/article70963210.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000742B.jpg",
+      "scraped_at": "2026-05-11 00:05:09.909995",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "CJI Surya Kant",
+      "rephrased_article": "**Chief Justice of India (CJI) Surya Kant** praised **Solicitor General Tushar Mehta's** books, \"The Bench, The Bar and The Bizarre\" and \"The Lawful and The Awful,\" which feature humorous courtroom anecdotes.  **Kant** suggested that the books were filled with comical tales from the Indian legal system, noting that there was ample material in Delhi alone to fill a library. **Shah**, the Home Minister, also attended the launch event.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58266,
+      "title": "CM selection a democratic process: Chennithala - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/cm-selection-a-democratic-process-chennithala/article70963375.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h07an3/article70963481.ece/alternates/LANDSCAPE_1200/IMG_Ramesh_Chennithala_2_1_9GFP8KOJ.jpg",
+      "scraped_at": "2026-05-10 23:01:43.324695",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Ramesh Chennithala**, a senior Congress leader, criticized the BJP for its alleged delay in selecting a Chief Minister after the 2025 Delhi Assembly elections. He defended the **Congress**'s democratic process and emphasized that decisions are made through discussions within the party.  Chennithala stated that five days is not an unreasonable time frame for such a decision, especially considering the complexity of the selection process. The Congress leadership has been meeting with various leaders to arrive at a consensus on the next Chief Minister.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58263,
+      "title": "Crumbling of Awadh’s heritage amidst monument encroachments - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/crumbling-of-awadhs-heritage-amidst-monument-encroachments/article70959336.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ivf3c5/article70959345.ece/alternates/LANDSCAPE_1200/6607_8_4_2026_16_51_55_4_08_04_ASIMONUMENTSLUCKNOW_D.JPG",
+      "scraped_at": "2026-05-10 23:00:47.649011",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "ASI",
+      "rephrased_article": "A report by the Comptroller and Auditor General of India (CAG) highlights the concerning state of protected monuments in Uttar Pradesh. The report found that 31 centrally protected monuments are untraceable, with only 31 monuments having proper ownership documentation and 96 being encroached upon. Heritage activists express worry over the disappearance of these historical sites and the potential loss of Awadhi culture, which is intertwined with the architecture and traditions of these structures.  The report also found that the ASI has not been adequately enforcing existing laws and regulations, leading to inadequate planning and documentation for conservation efforts. Experts advocate for stronger legislation, including a state heritage law, to address this issue and protect these valuable cultural assets.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Kanpur",
+        "Agra",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58230,
+      "title": "India-Trinidad archival pact to help diaspora trace ancestral roots: Jaishankar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-trinidad-archival-pact-to-help-diaspora-trace-ancestral-roots-jaishankar/article70962513.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jt7xb6/article70963342.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000012B.jpg",
+      "scraped_at": "2026-05-10 20:06:16.717751",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**External Affairs Minister S. Jaishankar** highlighted the importance of preserving the legacy of the **Girmitya** community during his visit to Trinidad and Tobago, emphasizing India's efforts to connect descendants with their roots.  He underscored the significance of a new archival cooperation agreement between **India** and **Trinidad and Tobago**, which aims to help individuals trace their ancestry and reconnect with families in India. The agreement, along with Prime Minister Narendra Modi's directive for a dedicated Girmitya Studies Centre, reflects India's commitment to preserving this historical legacy.  Mr. Jaishankar also noted the growing number of applications for Overseas Citizenship of India (OCI) cards following Mr. Modi's announcement of extended eligibility.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58227,
+      "title": "AAP holds protests against BJP over ED action against Punjab Minister Sanjeev Arora - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/aap-holds-protests-against-bjp-over-ed-action-against-punjab-minister-sanjeev-arora/article70961862.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/f1jtu/article70961875.ece/alternates/LANDSCAPE_1200/20250625085L.jpg",
+      "scraped_at": "2026-05-10 20:05:26.853758",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **Aam Aadmi Party (AAP)** held protests across Punjab against the **BJP** following the ED's arrest of Punjab Industries Minister Sanjeev Arora on charges of GST fraud. The protests, led by AAP leaders including Hardip Singh Mundian and Mohinder Bhagat, escalated into clashes with BJP workers in Ludhiana and Bathinda.  The **BJP** accused AAP workers of attacking their activists while the **AAP** condemned the police's alleged inaction.",
+      "party_mentioned": [
+        "BJP",
+        "AAP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Arvind Kejriwal",
+        "Kejriwal"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58221,
+      "title": "Congress government spending more time to solve its internal dispute rather than people’s problems, says Prime Minister Narendra Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-government-spending-more-time-to-solve-its-internal-dispute-rather-than-peoples-problems-says-prime-minister-narendra-modi/article70962197.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p8y127/article70963077.ece/alternates/LANDSCAPE_1200/_JAI3876.JPG",
+      "scraped_at": "2026-05-10 20:03:44.356007",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress government in Karnataka",
+      "rephrased_article": "**Prime Minister Narendra Modi** criticized the **Congress government in Karnataka** during a speech on Sunday, stating that it has been preoccupied with internal disputes instead of addressing the needs of its citizens. He questioned the future leadership and power dynamics within the state government, suggesting an unresolved situation.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58213,
+      "title": "PM visit turns city into high security zone as crowds throng Parade Grounds - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/pm-visit-turns-city-into-high-security-zone-as-crowds-throng-parade-grounds/article70963138.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kgt6v/article70963462.ece/alternates/LANDSCAPE_1200/_DSC4010.JPG",
+      "scraped_at": "2026-05-10 20:01:37.196779",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** visited Hyderabad for a series of programs culminating in a public meeting at Parade Grounds. Over 75,000 people attended the meeting, with an additional 10,000 to 15,000 gathered outside the venue.  Over 2,600 police personnel were deployed across the city for security. The Prime Minister's visit included the launch of Sindhu Hospital in Hitec City and the inauguration of infrastructure projects. Despite heavy security measures, traffic remained largely smooth throughout the day.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health"
+      ]
+    },
+    {
+      "id": 58212,
+      "title": "No one is buying Trump's Gold? Immigration attorneys say the $1 million visa scheme is 'unethical' - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/no-one-is-buying-trumps-gold-immigration-attorneys-say-the-1-million-visa-scheme-is-unethical/articleshow/130998702.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130998711,width-1280,height-720,imgsize-124226,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-10 20:01:18.654125",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Donald Trump",
+      "rephrased_article": "Several immigration lawyers are advising wealthy foreigners to avoid **Donald Trump**'s \"Gold Card\" visa program due to legal and financial concerns.  The program, which costs between $1 million and $2 million, has not been approved by Congress and faces uncertainty about its future. Attorneys warn that the program is risky and may lead to financial loss for applicants, citing ongoing litigation, tax complications, and potential cancellation by a future administration. Despite these concerns, some individuals are still pursuing applications, but interest in the program remains far below initial projections.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58187,
+      "title": "Ramchander Rao says public response to Modi rally points to party’s rise in Telangana - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/ramchander-rao-says-public-response-to-modi-rally-points-to-partys-rise-in-telangana/article70963165.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lsbk01/article70963214.ece/alternates/LANDSCAPE_1200/DSC1147.jpg",
+      "scraped_at": "2026-05-10 17:11:00.095099",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**N. Ramchander Rao**, the **BJP** State president, claimed a massive turnout at the party's public meeting in Secunderabad indicated growing support for the BJP in Telangana.  He attributed the large crowd to Prime Minister **Narendra Modi's** popularity and asserted that it signaled the BJP would form the next government in the state.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58181,
+      "title": "PM Modi urges citizens to cut fuel use, avoid foreign travel - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-urges-citizens-to-cut-fuel-use-avoid-foreign-travel/article70963121.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/24y756/article70963235.ece/alternates/LANDSCAPE_1200/DSC1130.jpg",
+      "scraped_at": "2026-05-10 17:09:00.477106",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** called for collective action to strengthen India's economic resilience and promote responsible living amidst global economic uncertainties. He urged citizens to reduce non-essential spending, prioritize locally manufactured goods, conserve foreign exchange reserves, and adopt sustainable practices like using public transport, carpooling, and electric vehicles. **Modi** emphasized the importance of patriotism in addressing national challenges, calling for a collaborative effort from all sectors including political parties, organizations, and the media.  He also highlighted government efforts to mitigate the impact of rising fertilizer prices on farmers through subsidies.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58179,
+      "title": "Indian-American Tina Shah stirs row after saying she is the ‘only Democrat who is pro-Israel’ in viral video - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-american-tina-shah-stirs-row-after-saying-she-is-the-only-democrat-who-is-pro-israel-in-viral-video/articleshow/130995334.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130995402,width-1280,height-720,imgsize-70336,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-10 17:08:27.854546",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bernie Sanders",
+      "rephrased_article": "**Tina Shah**, an Indian-American congressional candidate in New Jersey, sparked controversy after a leaked audio clip revealed her describing herself as the only Democrat in her race fully backing Israel. The recording reignited debate within the progressive party over foreign policy issues like the Gaza war and tensions with Iran.  Progressive lawmakers such as **Bernie Sanders** and **Alexandria Ocasio-Cortez** have criticized US military aid to Israel, while other Democrats, including **John Fetterman** and **Chuck Schumer**, support continued military aid and a strong stance in favor of Israel.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 58165,
+      "title": "Modi visits Naidu, Pawan in Hyderabad - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/modi-visits-naidu-pawan-in-hyderabad/article70962984.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/psidq4/article70963081.ece/alternates/LANDSCAPE_1200/9604_10_5_2026_20_44_23_1_IMG_20260510_WA0035.JPG",
+      "scraped_at": "2026-05-10 16:02:47.073168",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** visited **Andhra Pradesh Chief Minister N. Chandrababu Naidu** and **Deputy Chief Minister K. Pawan Kalyan** at their residences in Hyderabad on Sunday.  **Naidu** expressed gratitude to **Modi** for his support of Andhra Pradesh's development, while **Pawan Kalyan** noted the Prime Minister's personal concern for his health.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58160,
+      "title": "Telangana BJP chief’s special memento for Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-bjp-chiefs-special-memento-for-modi/article70963087.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/m6tixc/article70963101.ece/alternates/LANDSCAPE_1200/DSC0847.jpg",
+      "scraped_at": "2026-05-10 16:01:04.966332",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**N. Ramachandra Rao**, the State BJP president, presented **Prime Minister Narendra Modi** with eight bronze Asthalaxmis at a public meeting in Hyderabad on Sunday.  Earlier, **Union Minister G.Kishan Reddy** honored **Modi** with a shawl and a statue of Lord Ram from Ayodhya during a separate event at the HICC.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58141,
+      "title": "Gelatin sticks found along PM Modi’s convoy, half hour before he passed by - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gelatin-sticks-found-along-pm-modis-convoy-half-hour-before-he-passed-by/article70961946.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/99vob8/article70962174.ece/alternates/LANDSCAPE_1200/_JAI2874.JPG",
+      "scraped_at": "2026-05-10 14:40:02.030424",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** was in Bengaluru on Sunday to attend the 45th anniversary celebrations of The Art of Living Foundation and the 70th birthday event of its founder, **Sri Sri Ravi Shankar**.  A suspicious packet containing two gelatin sticks was found near the Art of Living Ashram minutes before **Modi**'s convoy passed by. Police have detained a suspect who made a threat call to the police control room, claiming to have planned explosions during the visit. The Kaggalipura Police are investigating the source of the gelatin sticks and the suspect's potential connection to the incident.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58114,
+      "title": "PM Modi assures more support to Telangana, asks CM Revanth to collaborate with him - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/centre-to-support-telangana-more-vigorously-pm-modi-in-hyderabad/article70962140.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/a0mifn/article70962164.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000367B.jpg",
+      "scraped_at": "2026-05-10 12:02:18.299435",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "PM Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** assured **Telangana Chief Minister A. Revanth Reddy** that the **Central government** would continue to support its development, emphasizing the importance of state-level progress for a developed India by 2047.  During his visit on May 10, 2026, **Modi** inaugurated several developmental projects worth ₹9,400 crore, including industrial parks and railway infrastructure, aiming to make Telangana a manufacturing hub. He highlighted the government's commitment to creating employment opportunities and reviving the textile industry through schemes like PM Mitra Park at Warangal and investments in infrastructure development.  The Prime Minister also emphasized the importance of energy security with the launch of the Malkapur terminal.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58097,
+      "title": "Prime Minister Narendra Modi attacks Congress on ‘betrayal of allies’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-attacks-congress-on-betrayal-of-allies/article70961586.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jxxgsy/article70961609.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000044B.jpg",
+      "scraped_at": "2026-05-10 10:53:51.300530",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress party",
+      "rephrased_article": "**Prime Minister Narendra Modi** criticized the **Congress party** during a rally in Bengaluru, accusing them of betraying the DMK for power.  He stated that the Congress had a long-standing relationship with the DMK and that the DMK had consistently supported the Congress's political interests.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58088,
+      "title": "Inauguration of Dhyan Mandir at Art of Living: PM Modi stresses on mental wellbeing - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/inauguration-of-dhyan-mandir-at-art-of-living-pm-modi-stresses-on-mental-wellbeing/article70962019.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1wb5br/article70962027.ece/alternates/LANDSCAPE_1200/20260510181L.jpg",
+      "scraped_at": "2026-05-10 10:51:13.444283",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** emphasized the importance of mental well-being in an era of rapid technological change during the inauguration of Dhyan Mandir in Bengaluru. **Modi** stressed the need for \"natural healing\" of the Earth and sustainable agriculture ahead of the Monsoon season, highlighting the interconnectedness of ecology and economy. He praised the AOL founder, **Sri Sri Ravishankar**, for promoting spiritual consciousness and lauded the Swacch Bharath Abhiyan as a societal norm.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58078,
+      "title": "CITU calls South Coast Railway zone a “betrayal” of Andhra Pradesh, flags revenue loss - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-calls-south-coast-railway-zone-a-betrayal-of-andhra-pradesh-flags-revenue-loss/article70961865.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/9xya/article70962082.ece/alternates/LANDSCAPE_1200/SCR.jpeg",
+      "scraped_at": "2026-05-10 10:48:24.264689",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Union government",
+      "rephrased_article": "**The Centre’s** notification operationalising the South Coast Railway (SCoR) zone from June 1, 2026, has drawn criticism from **the Centre of Indian Trade Unions (CITU)**.  **CITU** leaders argue that the new zone weakens Andhra Pradesh's interests by retaining key revenue-generating railway sections under the East Coast Railway (ECoR), and accuses the Union government of diverting railway revenue to Odisha. They also raised concerns over territorial jurisdiction, recruitment freezes, and privatization efforts, calling for a zone that serves the economic interests of Andhra Pradesh.",
+      "party_mentioned": [
+        "BJP",
+        "TDP",
+        "Telugu Desam"
+      ],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Odisha"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58075,
+      "title": "NDA leaders stake claim to form Assam government - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-government-formation-himanta-biswa-sarma-legislature-party-leader-bjp-nda-alliance/article70961689.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7rl29/article70961697.ece/alternates/LANDSCAPE_1200/20260510043L.jpg",
+      "scraped_at": "2026-05-10 09:21:43.990318",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Himanta Biswa Sarma**, leader of the **Bharatiya Janata Party (BJP)**-led **National Democratic Alliance (NDA)**, was unanimously elected as the leader of the Assam Legislature Party.  Following this, the NDA staked a claim to form the government in Assam with the support of 102 MLAs. The swearing-in ceremony for the new council of ministers is scheduled for May 12th. **J.P. Nadda**, Union Minister and central observer for the BJP Legislature Party meeting, announced that eight BJP legislators proposed Sarma's name as their leader.  The newly elected members of the BJP and its regional allies — **Asom Gana Parishad (AGP)** and **Bodoland People’s Front (BPF)** — chose their leaders in the morning.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58062,
+      "title": "RFBL Flexi Pack fixes price band at Rs 47-50 for IPO, to hit markets on May 12 - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rfbl-flexi-pack-fixes-price-band-at-rs-47-50-for-ipo-to-hit-markets-on-may-12/articleshow/130986256.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130986256,width-1200,height-630,imgsize-64412,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-10 09:19:07.126511",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "RFBL Flexi Pack Ltd",
+      "rephrased_article": "**RFBL Flexi Pack Ltd**, a Gujarat-based manufacturer and trader of printed multilayer flexible packaging materials, is launching an IPO on the NSE SME platform. The company plans to raise **Rs 35.32 crore** from the issue, which will open for subscription on May 12th and close on May 14th, with anchor investor bidding starting on May 11th.  The proceeds will be used for debt repayment and general corporate purposes. **Grow House Wealth Management Pvt. Ltd.** is the Book Running Lead Manager (BRLM) to the Issue, while **Kfin Technologies Ltd** is the Registrar to the Issue.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58022,
+      "title": "EAM Jaishankar hands over India-assisted agro-processing facility in South Trinidad - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eam-jaishankar-hands-over-india-assisted-agro-processing-facility-in-south-trinidad/article70961390.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/szp7us/article70961392.ece/alternates/LANDSCAPE_1200/20260509533L.jpg",
+      "scraped_at": "2026-05-10 04:39:40.895514",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**S. Jaishankar**, **India's External Affairs Minister**, handed over an agro-processing facility in South Trinidad to **Prime Minister Kamla Persad-Bissessar** on Saturday, May 9, 2026.  The facility is part of the **SEEDS (Supply of Equipment for Efficient Development of SMEs)** initiative aimed at promoting sustainable economic growth in the Global South. Jaishankar also visited Nelson Island to commemorate the arrival of the first Indian immigrants, known as Girmitiyas, in 1845 and discussed new ideas for expanding bilateral cooperation between India and Trinidad and Tobago with **Prime Minister Persad-Bissessar**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57996,
+      "title": "Kejriwal slams PM Modi over ED raids in Punjab - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/bjp-hits-back-at-kejriwal-over-aurangzeb-remark-on-modi-ed-raids-in-punjab/article70959047.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/v44xzw/article70959088.ece/alternates/LANDSCAPE_1200/20260509154L.jpg",
+      "scraped_at": "2026-05-09 23:28:04.154424",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**AAP** leader Arvind Kejriwal accused the **ED** of being a tool for political intimidation, targeting Punjab Minister Sanjeev Arora in raids.  Kejriwal claimed that the BJP is trying to break AAP leaders and force them into joining their party, comparing PM Modi's actions to Mughal Emperor Aurangzeb's atrocities. He asserted that the people of Punjab will resist these attacks and teach the BJP a lesson in the 2027 Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "AAP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Arvind Kejriwal",
+        "Kejriwal"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57982,
+      "title": "Ministers, ambassadors, artists to join The Hindu’s Huddle in June - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ministers-ambassadors-artists-to-join-the-hindus-huddle-in-june/article70960008.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/4tl6dp/article70960011.ece/alternates/LANDSCAPE_1200/IMG_5275.jpeg",
+      "scraped_at": "2026-05-09 22:10:04.595981",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "The Hindu",
+      "rephrased_article": "**The Hindu Group** is hosting its annual **The Hindu Huddle**, a conference focused on global issues, in Bengaluru from June 5th to 6th. This year's theme, \"A World in Transition,\" will feature discussions on topics such as regional parties in Indian democracy, diplomacy and conflict resolution, women's representation in Parliament, the role of AI, mental health, and the future of work.  The event will include prominent speakers from India and around the world, including Union Ministers Hardeep Puri and Nitin Gadkari, former President Mohamed Nasheed, and Chinese Ambassador Xu Feihong.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah",
+        "Omar Abdullah",
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57967,
+      "title": "Amid Sultan Palace row, tourism minister says such heritage structures will be beautified - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/amid-sultan-palace-row-tourism-minister-says-such-heritage-structures-will-be-beautified/article70958684.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8stt3b/article70958739.ece/alternates/LANDSCAPE_1200/IMG_PTI06_25_2022_000100_2_1_SOA42EJJ.jpg",
+      "scraped_at": "2026-05-09 21:13:07.340507",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Sultan Palace",
+      "rephrased_article": "**Kedar Prasad Gupta**, the new **Tourism Minister of Bihar**, stated that heritage buildings will be beautified in the state.  Following reports suggesting the Sultan Palace might be demolished for a five-star hotel, Mr. Gupta assured citizens that the palace would be preserved and made part of the heritage hotel project. The project was initially approved in 2024 but faced controversy after a report claimed the palace was not listed as a heritage building.  Citizens have demanded the composition of a panel investigating the palace's conservation status be made public, while some suggest listing the palace is crucial for its preservation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata",
+        "Patna"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57924,
+      "title": "Modi to set the tone for capturing Telangana after Bengal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/modi-to-set-the-tone-for-capturing-telangana-after-bengal/article70960013.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hxl6o2/article70960057.ece/alternates/LANDSCAPE_1200/DSC0273.jpg",
+      "scraped_at": "2026-05-09 17:36:17.982929",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Prime Minister Narendra Modi** is scheduled to visit Telangana on Sunday, marking a significant push by the **Bharatiya Janata Party (BJP)** to establish itself as a major electoral force in the state.  Party leaders believe the Prime Minister's address will signal the BJP's intention to capture power in the next Assembly elections and are confident that his popularity will help expand their base.  **N. Ramchander Rao**, **Union Ministers G. Kishan Reddy** and **Bandi Sanjay Kumar** and party workers are anticipating a strong response from the public.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 57914,
+      "title": "People celebrate with sweets and colour as ‘Kanthi’s son’ takes oath in Bengal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/people-celebrate-with-sweets-and-colour-as-kanthis-son-takes-oath-in-bengal/article70959271.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/70enyh/article70959507.ece/alternates/LANDSCAPE_1200/PTI05_09_2026_000168B.jpg",
+      "scraped_at": "2026-05-09 16:36:43.002899",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Suvendu Adhikari",
+      "rephrased_article": "**Kanthi**, the hometown of **Suvendu Adhikari**, celebrated his swearing-in as West Bengal's Chief Minister on Saturday.  His father, **Sisir Adhikari**, a veteran politician, expressed pride in his son's achievement and thanked the people for choosing him. He urged his son to serve the state wholeheartedly and focus on its development.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 57872,
+      "title": "Naidu and Pawan congratulate Suvendu Adhikari on taking oath as West Bengal CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-and-pawan-congratulate-suvendu-adhikar-on-taking-oath-as-west-bengal-cm/article70959054.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/osydr0/article70959052.ece/alternates/LANDSCAPE_1200/10745_9_5_2026_17_44_38_1_IMG_20260509_WA0038.JPG",
+      "scraped_at": "2026-05-09 14:06:03.428534",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**N. Chandrababu Naidu**, **Prime Narendra Modi**, and **K. Pawan Kalyan**  attended the swearing-in ceremony of **Suvendu Adhikari** as Chief Minister of West Bengal in Kolkata. **Naidu** congratulated the new government and expressed his best wishes for its success, while **Pawan Kalyan** highlighted the significance of the BJP's victory in addressing concerns about violence, lawlessness, and national security.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57848,
+      "title": "PM Modi to dedicate Telangana railway projects worth Rs. 1,535 crore on May 10 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/pm-modi-to-dedicate-telangana-railway-projects-worth-rs-1535-crore-on-may-10/article70958575.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-09 12:15:03.096008",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** will dedicate key railway infrastructure projects in Telangana on Sunday, May 10, 2026. The projects include sections of the Kazipet–Vijayawada multi-tracking project and the Kazipet Rail Under Bypass. These initiatives are expected to enhance rail capacity, improve punctuality, and support economic activity across the region.  The **Centre**'s push to modernise railway infrastructure is also reflected in these projects.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 57834,
+      "title": "Congress seeks discussion in Parliament on China's 'support' to Pakistan in Operation Sindoor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-seeks-discussion-in-parliament-on-chinas-support-to-pakistan-in-operation-sindoor/article70958763.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9rv86y/article70958786.ece/alternates/LANDSCAPE_1200/CONGRESS%20KHERA%20PC%20DELHI%202026_01_05_23.jpg",
+      "scraped_at": "2026-05-09 11:32:30.193773",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "China",
+      "rephrased_article": "**Congress** general secretary (communications) Jairam Ramesh demanded a discussion in Parliament on **China's** claims of providing on-site technical support to Pakistan during Operation Sindoor last year.  Ramesh questioned the government's loosening of investment and trade curbs on China, its deepening industrial dependency, and why Prime Minister Narendra Modi gave a clean chit to China in 2020 after the conflict. He cited **Lt. Gen. Rahul Singh**, Deputy Chief of Army Staff, who had previously revealed details about **China's** involvement.  Ramesh emphasized the need for these issues to be discussed in Parliament.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
       ]
     }
   ]

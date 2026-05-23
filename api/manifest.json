@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 08:25:50.809205",
+  "generated_at": "2026-05-23 10:44:22.813071",
   "endpoints": {
     "feed": "feed.json",
     "feed_politics": "feed_politics.json",
@@ -14,15 +14,21 @@
     "parties": {
       "BJP": "party_bjp.json",
       "INC": "party_inc.json",
+      "AAP": "party_aap.json",
       "TMC": "party_tmc.json",
+      "SP": "party_sp.json",
       "DMK": "party_dmk.json"
     },
     "states": {
+      "Andhra Pradesh": "state_andhra_pradesh.json",
+      "Assam": "state_assam.json",
+      "Bihar": "state_bihar.json",
       "Gujarat": "state_gujarat.json",
       "Karnataka": "state_karnataka.json",
       "Kerala": "state_kerala.json",
       "Madhya Pradesh": "state_madhya_pradesh.json",
       "Maharashtra": "state_maharashtra.json",
+      "Odisha": "state_odisha.json",
       "Punjab": "state_punjab.json",
       "Rajasthan": "state_rajasthan.json",
       "Tamil Nadu": "state_tamil_nadu.json",
@@ -34,7 +40,12 @@
     "ministers": {
       "Narendra Modi": "minister_narendra_modi.json",
       "Amit Shah": "minister_amit_shah.json",
-      "Rahul Gandhi": "minister_rahul_gandhi.json"
+      "S. Jaishankar": "minister_s_jaishankar.json",
+      "JP Nadda": "minister_jp_nadda.json",
+      "Mamata Banerjee": "minister_mamata_banerjee.json",
+      "M.K. Stalin": "minister_mk_stalin.json",
+      "Rahul Gandhi": "minister_rahul_gandhi.json",
+      "Mallikarjun Kharge": "minister_mallikarjun_kharge.json"
     },
     "topics": {
       "crime_violence": "topic_crime_violence.json",
@@ -59,9 +70,9 @@
     }
   },
   "stats": {
-    "parties_count": 4,
-    "states_count": 12,
-    "ministers_count": 3,
+    "parties_count": 6,
+    "states_count": 16,
+    "ministers_count": 9,
     "topics_count": 19
   }
 }

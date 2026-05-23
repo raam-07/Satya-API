@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 08:25:50.699143",
+  "generated_at": "2026-05-23 10:44:22.676957",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,32 +8,59 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 54,
-    "articles_last_30d": 54
+    "total_articles": 97,
+    "articles_last_30d": 97
   },
   "top_cities_30d": {
-    "Chennai": 10,
-    "Coimbatore": 3,
-    "Madurai": 2,
+    "Chennai": 22,
+    "Delhi": 6,
+    "Madurai": 5,
+    "Coimbatore": 4,
     "Hyderabad": 1,
     "Mumbai": 1,
     "Kolkata": 1,
-    "Delhi": 1,
-    "Pune": 1
+    "Pune": 1,
+    "Varanasi": 1,
+    "Allahabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 50,
-    "education": 19,
-    "economy": 14,
-    "farmer_agriculture": 12,
-    "infrastructure": 10,
-    "protest_opposition": 9,
-    "health": 6,
-    "corruption_scam": 5,
-    "crime_violence": 3,
+    "foreign_policy": 93,
+    "education": 29,
+    "economy": 21,
+    "protest_opposition": 18,
+    "farmer_agriculture": 15,
+    "infrastructure": 13,
+    "health": 10,
+    "corruption_scam": 7,
+    "crime_violence": 7,
     "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 61084,
+      "title": "Sulur minor girl abduction and murder: Law and order a serious concern in T.N., says Udhayanidhi Stalin - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/sulur-minor-girl-abduction-and-murder-law-and-order-a-serious-concern-in-tn-says-udhayanidhi-stalin/article71013787.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7yc8jd/article71013806.ece/alternates/LANDSCAPE_1200/9712_14_3_2026_13_3_15_4__DSC3884.JPG",
+      "scraped_at": "2026-05-23 07:22:06.411428",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Udhayanidhi Stalin**, leader of the Opposition, expressed concern over 30 major crimes within 12 days of the new government assuming office. These incidents include sexual violence, ganja smuggling, and the abduction and murder of a minor girl in Coimbatore. **Stalin** called for swift justice for the victim's family and urged the Chief Minister to prioritize law and order to prevent future incidents.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 61026,
       "title": "Seven MLAs from Chennai find place in Tamil Nadu cabinet: highest in recent years - The Hindu",
@@ -1424,6 +1451,1145 @@
       ],
       "cities_mentioned": [],
       "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58486,
+      "title": "Tamil Nadu Assembly: Churning in AIADMK becomes evident with split over Leader of Legislature Party post - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-churning-in-aiadmk-becomes-evident-with-split-over-leader-of-legislature-party-post/article70965873.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jhcsxa/article70966191.ece/alternates/LANDSCAPE_1200/DSC_8312.JPG",
+      "scraped_at": "2026-05-12 00:04:50.439182",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "AIADMK",
+      "rephrased_article": "Following the AIADMK's recent election defeat in Tamil Nadu, **Edappadi K. Palaniswami** and **S.P. Velumani** are vying for leadership of the party's Legislature Party.  A group of legislators submitted a letter to the Pro-tem Speaker, purportedly supporting **Palaniswami**, but the exact number of supporters remains unclear. The letter was handed over by O.S. Manian, who claims he acted on instructions from his colleagues.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58484,
+      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+      "scraped_at": "2026-05-12 00:04:20.847646",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58375,
+      "title": "How a bid to make Thirumavalavan Tamil Nadu’s CM failed - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-a-bid-to-make-thirumavalavan-cm-failed/article70967132.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zfuqeq/article70967134.ece/alternates/LANDSCAPE_1200/BVR_1927_01.JPG",
+      "scraped_at": "2026-05-11 17:38:25.986321",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**Thol. Thirumavalavan**, leader of the **VCK**, was unable to secure support for himself as the first Chief Minister from the Scheduled Caste in Tamil Nadu despite a last-minute attempt by **DMK** and **AIADMK**.  The move was prompted by difficulties securing an AIADMK government with DMK support, leading to negotiations between the VCK, CPI, CPI-M, and the Left parties. Ultimately, **Thirumavalavan** decided against the proposal after discussions with senior DMK and AIADMK leaders.",
+      "party_mentioned": [
+        "BJP",
+        "CPI",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58368,
+      "title": "How a bid to make Thirumavalavan CM failed - The Hindu",
+      "url": "https://www.thehindu.com/news/national/how-a-bid-to-make-thirumavalavan-cm-failed/article70967147.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-11 17:36:24.031871",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**Thol. Thirumavalvan**, leader of the **Viduthalai Chiruthaigal Katchi (VCK)**, was unable to secure the support needed for him to become the first Chief Minister from the Scheduled Caste in Tamil Nadu. The attempt faced opposition from both the **DMK** and the **AIADMK**, who were reportedly concerned about potential backlash and criticism.  Despite support from the **CPI**, **CPI(M)**, and the VCK, Thirumavalvan ultimately decided against the proposal after backroom negotiations failed to garner sufficient consensus among the parties involved.",
+      "party_mentioned": [
+        "BJP",
+        "CPI",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58343,
+      "title": "Govt. to bring reforms in AYUSH sector to enhance quality: Health Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-to-bring-reforms-in-ayush-sector-to-enhance-quality-health-minister/article70966407.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g3q3rg/article70966625.ece/alternates/LANDSCAPE_1200/vjkvg-satya%201.JPG",
+      "scraped_at": "2026-05-11 15:21:10.842378",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "AYUSH",
+      "rephrased_article": "**The State government of Andhra Pradesh** is implementing reforms in the AYUSH sector to enhance healthcare services and combat the distribution of fake drugs. **Minister for Health, Medical Education and Family Welfare Satya Kumar Yadav** announced the establishment of three committees – an expert committee, a stakeholders committee, and a technical committee – to develop new guidelines. The committees will consult experts, gather public feedback, and study best practices from other states like Kerala, Karnataka, and Tamil Nadu before submitting their recommendations.  The aim is to strengthen the regulatory framework for AYUSH clinics and hospitals, ensuring all practitioners are qualified and services meet national standards.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 58327,
+      "title": "Vijay, Udhayanidhi, Palaniswami take oath as MLAs in Tamil Nadu; J.C.D. Prabhakar nominated for Speaker post - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/newly-elected-tamil-nadu-mlas-take-oath-17th-tamil-nadu-assembly/article70964409.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/nay3ey/article70965364.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-11%20at%2010.35.59%20AM.jpeg",
+      "scraped_at": "2026-05-11 11:47:12.226279",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu",
+      "rephrased_article": "**C. Joseph Vijay**, the new **Tamil Nadu Chief Minister**, and his cabinet colleagues took their oaths in the 17th Tamil Nadu Legislative Assembly on Monday, May 11, 2026.  The assembly's strength is now 233 following the resignation of Vijay from a second seat.  **M.V. Karuppaiah**, the Pro-tem Speaker, administered the oath to **Vijay** and other members. The election for Speaker and Deputy Speaker will be held on Tuesday, May 12, 2026.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58314,
+      "title": "Why a ministerial vacancy nearly delayed Class 12 Board exam results in T.N. - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/why-a-ministerial-vacancy-nearly-delayed-class-12-board-exam-results-in-tn/article70959648.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hvxuhh/article70962131.ece/alternates/LANDSCAPE_1200/Sengotaiyan.jpg",
+      "scraped_at": "2026-05-11 08:33:15.258807",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Tamil Nadu School Education Department",
+      "rephrased_article": "**The School Education Department of Tamil Nadu** postponed the release date for Class 12 State Board exam results due to a lack of a Minister to authorize the announcement. This decision caused significant disappointment among students, teachers, and parents as it disrupted their preparation plans.  After facing backlash from various stakeholders, including child rights groups and educationists, the department reversed its decision and released the results on May 8th, as scheduled. Governor Rajendra Vishwanath Arlekar urged the department to release the scores without delay.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58270,
+      "title": "The emerging Rahul Gandhi-Vijay political partnership - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/the-emerging-rahul-gandhi-vijay-political-partnership/article70962074.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7f03nz/article70963116.ece/alternates/LANDSCAPE_1200/DSC_5948.JPG",
+      "scraped_at": "2026-05-11 00:03:54.173922",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "**Rahul Gandhi**, Congress leader, attended the swearing-in ceremony of **C. Joseph Vijay**'s new **Tamilaga Vettri Kazhagam** government in Chennai. The event signaled a potential shift in the political landscape between the Congress and the DMK, with **Gandhi** expressing support for **Vijay** and their relationship mirroring that shared by former allies **M.K. Stalin** and **Gandhi**.  The TVK's success may bolster the Congress's influence in southern India.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58269,
+      "title": "Congress’ wait to join the Tamil Nadu Cabinet continues - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/congress-wait-to-join-the-tamil-nadu-cabinet-continues/article70962912.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5ehn2w/article70963621.ece/alternates/LANDSCAPE_1200/DSC_5948.JPG",
+      "scraped_at": "2026-05-11 00:03:28.200236",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Rahul Gandhi** attended the swearing-in ceremony of **C. Joseph Vijay**, the new Chief Minister of Tamil Nadu, on Sunday (May 10, 2026). However, despite the Congress's request for both of its MLAs to be sworn in as Cabinet Ministers at the same time, the **Tamil Nadu Vettri Kazhagam** (TVK) opted to delay the swearing-in. The TVK is planning to include members from other coalition partners like the AIADMK in the cabinet expansion.  The decision not to immediately swear in the Congress MLAs was seen as a missed opportunity by some party leaders who felt it would have sent a strong message of unity.",
+      "party_mentioned": [
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58267,
+      "title": "CREDAI Tamil Nadu calls for transparent governance, faster urban development - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/credai-tamil-nadu-calls-for-transparent-governance-faster-urban-development/article70962555.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-10 23:02:05.396192",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "CREDAI Tamil Nadu",
+      "rephrased_article": "**CREDAI Tamil Nadu** congratulated **C. Joseph Vijay** on becoming Chief Minister and urged for systems that promote transparency, eliminate corruption, and improve governance. The organization's president, **Habib W.S.**, emphasized the need for urban development, infrastructure expansion, and ease of doing business to sustain Tamil Nadu's economic growth.  **CREDAI Chennai** president, **Mehul H. Doshi**, also congratulated **R. Kumar**, a member of their organization, on his victory in the Velachery constituency.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58259,
+      "title": "​No detours: On the Tamil Nadu elections, post-poll outcome - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/no-detours-on-the-tamil-nadu-elections-post-poll-outcome/article70962657.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-10 22:01:51.824602",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**The Tamilaga Vettri Kazhagam (TVK)**, led by C. Joseph Vijay, formed a government after securing the support of **Congress**, **CPI(M)**, **CPI**, **VCK**, and **IUML** parties, despite falling short of a majority. The Governor's decision to disregard the Sarkaria Commission framework and Supreme Court rulings regarding the strength of a ministry was criticized.  The Congress's alliance with the TVK is seen as opportunistic, potentially jeopardizing their decades-long alliance with the DMK.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58250,
+      "title": "Chief Minister C. Joseph Vijay chairs meeting to take stock of law and order - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-c-joseph-vijay-chairs-meeting-to-take-stock-of-law-and-order/article70962449.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/koxt7q/article70963431.ece/alternates/LANDSCAPE_1200/20260510341L.jpg",
+      "scraped_at": "2026-05-10 21:06:45.624093",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, the newly sworn-in Chief Minister of Tamil Nadu, began his tenure by reviewing law and order with senior officials including **Chief Secretary M. Sai Kumar** and **Director-General of Police Sandeep Rai Rathore**. The meeting focused on safety measures for women and combating illegal drugs and psychotropic substances.  Vijay also paid respects to social reformer 'Periyar' E.V. Ramasamy at Periyar Thidal and met with Dravidar Kazhagam president K. Veeramani.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58246,
+      "title": "Non-binary Indian on student visa elected to Scottish Parliament - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/non-binary-indian-on-student-visa-elected-to-scottish-parliament/articleshow/130998924.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130998927,width-1280,height-720,imgsize-22254,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-10 21:05:21.518685",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Manivannan",
+      "rephrased_article": "**Q Manivannan**, an Indian national and non-binary transgender individual, became the first foreign citizen elected as a **Member of the Scottish Parliament (MSP)** on Friday.  They won the Edinburgh & Lothians East seat for the **Scottish Greens**. While their election has sparked controversy, **Manivannan** will receive an annual salary of £77k despite not having a permanent visa to live in the UK. They are currently crowdfunding to raise money for a graduate visa that would allow them to remain in Scotland for three more years.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58245,
+      "title": "Tamil Nadu Minister K.G. Arunraj interview | 'Dravidian parties got trapped in vicious cycle of cash-for-votes and corruption' - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dravidian-parties-got-trapped-in-vicious-cycle-of-cash-for-votes-and-corruptiontamil-nadu-minister-arunraj/article70963286.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/27wf0v/article70963287.ece/alternates/LANDSCAPE_1200/SAT_4043.JPG.jpeg",
+      "scraped_at": "2026-05-10 21:04:59.803634",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**K.G. Arunraj**, a former **IRS officer** and newly appointed Minister in the **Tamil Nadu** government, criticized **DMK** and **AIADMK** for losing their initial idealism due to corruption.  He stated that these parties were unable to act on their good intentions because they had become entangled in a cycle of cash-for-votes and corruption.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58235,
+      "title": "PIL in SC for reviewing wages of priests, sevadars and temple staff in govt.-controlled temples - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pil-in-sc-for-reviewing-wages-of-priests-sevadars-and-temple-staff-in-govt-controlled-temples/article70962565.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yltob4/article70963273.ece/alternates/LANDSCAPE_1200/IMG_SUPREME_COURT__DELHI_2_1_OKDSS237.jpg",
+      "scraped_at": "2026-05-10 20:07:37.605211",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "An advocate, **Ashwini Upadhyay**, has filed a plea in the Supreme Court seeking direction for the Centre and State governments to establish a judicial commission or expert committee to review wages and benefits provided to priests, sevadars, and temple staff in state-controlled temples. The petition argues that these individuals are employees under the Code on Wages, 2019, and that denying them dignified wages violates their right to livelihood guaranteed by Article 21 of the Constitution.  **Upadhyay** cites instances of protests in Andhra Pradesh and Telangana demanding minimum wages for priests and temple staff who are not receiving even the minimum wage prescribed by the State. The plea also highlights a circular issued by a Tamil Nadu department prohibiting priests from accepting 'Dakshina' in 'aarti plates', further highlighting the precarious nature of their livelihood.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Varanasi",
+        "Allahabad",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58231,
+      "title": "Governor’s role in government formation | Explained - The Hindu",
+      "url": "https://www.thehindu.com/news/national/governors-role-in-government-formation-explained/article70962222.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cjtah2/article70963246.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000207B.jpg",
+      "scraped_at": "2026-05-10 20:06:32.072709",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "The **Tamilaga Vettri Kazhagam (TVK)** secured a majority in the recent Tamil Nadu Assembly elections, but the Governor invited the party's chief to form the government.  **C. Joseph Vijay**, the TVK leader, was sworn in as Chief Minister after securing letters of support from 120 members. The Governor's discretion in appointing the Chief Minister is based on constitutional provisions and previous recommendations by commissions, but there have been instances where Governors have appointed a Chief Minister without following these guidelines.  The Supreme Court has emphasized that the \"floor of the House\" is the appropriate forum to determine majority support for a government.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Maharashtra",
+        "Manipur",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58225,
+      "title": "Congress claims Instagram blocked Rahul Gandhi's reel and photo post featuring Vijay due to MeitY rules - The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-claims-instagram-blocked-rahul-gandhis-reel-and-photo-post-featuring-vijay-due-to-meity-rules/article70963346.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fe57zf/article70963369.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000394A.jpg",
+      "scraped_at": "2026-05-10 20:04:49.671809",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** leader Rahul Gandhi's post featuring him and actor-politician Vijay after the Tamil Nadu chief minister's oath-taking ceremony was mistakenly flagged for blocking by **Instagram**, according to **Congress** aide Srivatsa.  He claimed that the action is due to Ministry of Electronics and Information Technology (MeitY) rules, but **MeitY** sources denied this, stating it was a platform error. The post had garnered millions of views before being restored.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58210,
+      "title": "Subsidy for power supply to domestic consumers to cross ₹10,000-crore mark - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/subsidy-for-power-supply-to-domestic-consumers-to-cross-10000-croremark/article70962501.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vwbb0z/article70963227.ece/alternates/LANDSCAPE_1200/742_12-12-2018_20-10-37_1_TANGEDCOSUBSTATION1.JPG",
+      "scraped_at": "2026-05-10 18:39:35.813605",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "**The Tamil Nadu government** announced a new 200-unit free electricity scheme for domestic consumers using below 500 units monthly, increasing the state's annual subsidy burden by nearly ₹2,000 crore. The Energy Department order also mandated an additional tariff subsidy of ₹1,730 crore to be compensated to **Tamil Nadu Power Distribution Corporation limited (TNPDCL)**. This move is expected to push the annual domestic consumer tariff subsidy past ₹10,100 crore for the fiscal year.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58209,
+      "title": "Tradition of singing Tamil Thaai Vazhthu at beginning, National Anthem at end will continue, says Minister Aadhav Arjuna - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tradition-of-singing-tamil-thaai-vazhthu-at-beginning-national-anthem-at-end-will-continue-says-minister-aadhav-arjuna/article70963167.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h0vn4g/article70963316.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000043B.jpg",
+      "scraped_at": "2026-05-10 18:39:00.991764",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Thai Vazhthu",
+      "rephrased_article": "**Tamil Nadu Minister Aadhav Arjuna** stated that the new government will continue the tradition of singing **Tamil Thai Vazhthu** (invocation of Mother Tamil) and the National Anthem at the beginning and end of official functions, respectively. This follows criticism from allies of the ruling TVK party, including **CPI**, **CPI-M**, and **VCK**, who had previously objected to the order of hymns at the swearing-in ceremony for the new Chief Minister C. Joseph Vijay's Cabinet.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58120,
+      "title": "‘They should not be allowed to stand’: British MP Rupert Lowe slams election of Indian-born Scottish lawmaker without permanent visa | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/they-should-not-be-allowed-to-stand-british-mp-rupert-lowe-slams-election-of-indian-born-scottish-lawmaker-without-permanent-visa/articleshow/130989088.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130989329,width-1280,height-720,imgsize-638537,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-10 13:29:48.689773",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Q Manivannan",
+      "rephrased_article": "**British MP Rupert Lowe** called for a ban on foreign nationals contesting elections in the UK following the election of **Q Manivannan**, an Indian-born politician, to the Scottish Parliament.  **Lowe** criticized existing rules after **Manivannan**, who holds temporary immigration status, was elected despite not having permanent residency. The issue sparked debate as the Scottish government changed eligibility rules last year to allow individuals with limited leave to remain in the UK to stand for office.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58115,
+      "title": "Who is Q Manivannan? Tamil Nadu-born trans immigrant without permanent UK residency elected to Scottish Parliament - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/who-is-q-manivannan-tamil-nadu-born-trans-immigrant-without-permanent-uk-residency-elected-to-scottish-parliament/articleshow/130989661.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130989667,width-1280,height-720,imgsize-74860,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-10 12:02:41.284984",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Scottish Greens",
+      "rephrased_article": "**Q Manivannan**, an Indian-origin transgender politician, won a seat in the Scottish Parliament despite not holding permanent residency or British citizenship.  The **Scottish Greens** party nominated Manivannan, who identifies as non-binary and is a Commonwealth citizen with a valid visa, to represent Edinburgh and Lothians East. The election sparked debate about eligibility for candidates, with some critics arguing that foreign nationals without permanent residency should not be allowed to contest British elections. The Scottish Greens defended Manivannan's candidacy, stating they are on a valid visa and criticizing the UK immigration system.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58102,
+      "title": "Tamil Nadu CM Vijay's maiden speech on his new government in Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-minister-vijay-maiden-speech-transparency-safety-of-women-no-power-centres-in-new-government/article70962016.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fiz04l/article70962152.ece/alternates/LANDSCAPE_1200/DSC_6382.JPG",
+      "scraped_at": "2026-05-10 11:57:47.404992",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, the newly sworn-in Chief Minister of Tamil Nadu, outlined his vision for a government focused on transparency, safety of women, and law and order. He pledged to address public debt and promised accountability in the use of public funds. **Vijay** emphasized that he would not tolerate any wrongdoing within his administration and vowed to prioritize the welfare of all citizens, including women, youth, farmers, and minorities.",
+      "party_mentioned": [
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58097,
+      "title": "Prime Minister Narendra Modi attacks Congress on ‘betrayal of allies’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-attacks-congress-on-betrayal-of-allies/article70961586.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jxxgsy/article70961609.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000044B.jpg",
+      "scraped_at": "2026-05-10 10:53:51.300530",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress party",
+      "rephrased_article": "**Prime Minister Narendra Modi** criticized the **Congress party** during a rally in Bengaluru, accusing them of betraying the DMK for power.  He stated that the Congress had a long-standing relationship with the DMK and that the DMK had consistently supported the Congress's political interests.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58083,
+      "title": "Vijay resigns from Tiruchi East Assembly seat - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-resigns-from-tiruchi-east-assembly-seat/article70962020.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5tl3f4/article70962055.ece/alternates/LANDSCAPE_1200/DSC_6091.JPG",
+      "scraped_at": "2026-05-10 10:49:46.547966",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, resigned as a member of the **Tamil Nadu Legislative Assembly** from both Perambur and Tiruchi East constituencies on Sunday (May 10, 2026). He submitted his resignation to **Principal Secretary of the Legislative Assembly K. Srinivasan**. The move will trigger a by-election for the Tiruchi East constituency.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58070,
+      "title": "Stalin reacts to Tamil Nadu CM Vijay speech: ‘Money is there; what is required is efficient administration’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/mk-stalin-reacts-to-tamil-nadu-cm-vijay-speech-money-is-there-what-is-required-is-efficient-administration/article70961861.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/in0ivw/article70961869.ece/alternates/LANDSCAPE_1200/TH%20TRI-03%206.jpg.jpeg",
+      "scraped_at": "2026-05-10 09:20:39.742561",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**M.K. Stalin**, former Tamil Nadu Chief Minister and DMK president, criticized **C. Joseph Vijay's** statement that the previous government left the state treasury empty with a debt burden of ₹10 lakh crore.  Stalin asserted that the government should not claim there was \"no money\" at the beginning of its tenure, suggesting instead that an efficient administration is needed to distribute existing resources.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58066,
+      "title": "BJP won’t support any coalition formation in Tamil Nadu: Nainar Nagenthran - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/bjp-wont-support-any-coalition-formation-in-tamil-nadu-nainar-nagenthran/article70954751.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2meci1/article70954777.ece/alternates/LANDSCAPE_1200/9868_20_12_2025_20_57_57_1_BJP_2.JPEG",
+      "scraped_at": "2026-05-10 09:19:52.311512",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Nainar Nagenthran**, **BJP** state president, announced the party will not support any government formation following the 2026 Tamil Nadu Assembly election. The BJP contested 33 seats as part of the AIADMK-led National Democratic Alliance, winning only one seat in Udhagamandalam.  The party's performance fell short of securing a simple majority despite contesting on multiple alliances.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58043,
+      "title": "TVK-led Tamil Nadu government: full list of Ministers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-know-the-tvk-ministers-in-c-joseph-vijays-cabinet/article70961530.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/qr54pp/article70961695.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-10%20at%2011.39.02%20AM.jpeg",
+      "scraped_at": "2026-05-10 07:33:37.049389",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "**C. Joseph Vijay**, a former Tamil cinema star, was sworn in as the new Chief Minister of **Tamil Nadu**.  Joining him are nine other ministers: **N. Anand**, **K.A. Sengottaiyan**, **Aadhav Arjuna**, **K.G. Arunraj**, **C.T.R. Nirmalkumar**, **A. Rajmohan**, **P. Venkataramanan**, **T.K. Prabhu**, and **S. Keerthana**.  These ministers were sworn in alongside Vijay, who has been elected from the Perambur and Tiruchi East constituencies.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 58018,
+      "title": "TVK-led Tamil Nadu Government | Full list of Ministers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-tvk-vijay-full-list-of-ministers/article70961413.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ml36qr/article70961443.ece/alternates/LANDSCAPE_1200/1693_20_4_2026_19_0_14_3_BVR_7132.JPG",
+      "scraped_at": "2026-05-10 04:38:32.303847",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Bussy** N. Anand, a close aide of **C. Joseph Vijay**, won the T. Nagar seat in the Tamil Nadu Assembly elections.  **Aadhav Arjuna**, general secretary of the Tamilaga Vettri Kazhagam (TVK), also won from the Villivakkam seat. **K.G. Arunraaj**, a former IRS officer, was elected from Tiruchengodu. **K.A. Sengottaiyan**, who previously held ministerial positions for the AIADMK, won the Gobichettipalayam constituency.  **P. Venkataramanan**, treasurer of the TVK, and **C.T.R. Nirmal Kumar**, a former BJP IT wing joint secretary, also won their respective seats.  A. Rajmohan, a YouTuber and media personality, and Dr. T.K. Prabhu, a dentist, were elected from Egmore and Karaikudiconstituency respectively. S.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 58014,
+      "title": "Tamil Nadu swearing-in ceremony LIVE: TVK president C. Joseph Vijay arrives at venue - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-tvk-swearing-in-vijay-oath-ceremony-new-chief-minister-live-updates-may-10-2026/article70960233.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3q3bc4/article70961426.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-10%20at%2009.19.05.jpeg",
+      "scraped_at": "2026-05-10 04:37:25.009895",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, president of the **Tamilaga Vettri Kazhagam (TVK)**, will be sworn in as the Chief Minister of Tamil Nadu on Sunday, May 10, 2026.  He secured the support of 120 MLAs-elect after a nail-biting political uncertainty that ended with the **VCK** and the **IUML** extending their support to the TVK coalition government. The swearing-in ceremony will take place at Nehru Stadium in Chennai at 10 a.m.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58002,
+      "title": "Vijay’s Tamilaga Vettri Kazhagam: a new political dawn in Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-tvk-tamilaga-vettri-kazhagam-a-new-political-dawn-in-tamil-nadu/article70960243.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/v0e6bu/article70960246.ece/alternates/LANDSCAPE_1200/venGADESH-01.jpg.jpeg",
+      "scraped_at": "2026-05-10 00:15:11.470745",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "A senior civil servant in New Delhi was surprised to hear strong support for **C. Joseph Vijay**, founder of the Tamilaga Vettri Kazhagam (TVK), at a wedding in Chennai on polling day.  Similarly, a Madurai-based activist observed widespread support for **Vijay** among young people in his native village near Rajapalayam.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57997,
+      "title": "Man arrested on charge of assaulting minor on train - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/man-arrested-on-charge-of-assaulting-minor-on-train/article70960119.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-09 23:28:47.737363",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Sanish",
+      "rephrased_article": "**Punalur police** arrested a 40-year-old man, Sanish, for allegedly sexually assaulting a six-year-old girl on the **Palaruvi Express**. The incident occurred in early morning hours while the victim and her family were traveling from Tamil Nadu. A vigilant passenger recorded video evidence of the crime, which was shared with authorities leading to the suspect's arrest.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57989,
+      "title": "Tamil Nadu heading for a coalition government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-heading-for-a-coalition-government/article70959951.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/e23ph3/article70960170.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%208.25.42%20PM.jpeg",
+      "scraped_at": "2026-05-09 22:13:10.717564",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress party",
+      "rephrased_article": "**Tamil Nadu** is poised to form its first coalition government in decades, with the **Congress party** joining forces with **Tamilaga Vetri Kazhagam**. The alliance will be led by **C. Joseph Vijay**, who is expected to assume the role of Chief Minister.  The decision was reached after a proposal from the **Congress** was accepted by **TVK** leadership.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57984,
+      "title": "SPCSS-TN calls Centre’s higher education bill unconstitutional, demands its withdrawal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/spcss-tn-calls-centres-higher-education-bill-unconstitutional-demands-its-withdrawal/article70960027.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rie77w/article70960343.ece/alternates/LANDSCAPE_1200/Prince%20Gajendra%20Babu%202.jpg",
+      "scraped_at": "2026-05-09 22:10:49.010776",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "VBSA Bill 2025",
+      "rephrased_article": "**The State Platform for Common School System – Tamil Nadu (SPCSS-TN)** has written to the **Joint Parliamentary Committee** examining the **Viksit Bharat Shiksha Adhishthan (VBSA) Bill 2025**, arguing it is unconstitutional and should be withdrawn. The letter claims the bill grants excessive power to the Union government, potentially leading to the privatization of education and undermining state universities' role in social justice.  The SPCSS-TN also criticizes the bill for failing to recognize the importance of state universities in India's development and for its potential to create a subservient educational system.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57980,
+      "title": "Tamilaga Vettri Kazhagam | The star who stormed into politics - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/p6oebd/article70960023.ece/alternates/LANDSCAPE_1200/Vijay_CM_Artxx.jpg",
+      "scraped_at": "2026-05-09 21:18:46.633332",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamilaga Vettri Kazhagam",
+      "rephrased_article": "**C. Joseph Vijay**, the founder of the **Tamilaga Vettri Kazhagam (TVK)**, has achieved significant political success in Tamil Nadu with his party securing 108 seats in the state assembly during its first election. The TVK, formed in February 2024, leverages a strong fan base and presents itself as a secular organization focused on social justice and equality.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57979,
+      "title": "DMK’s Periyakaruppan moves Madras HC to prevent TVK MLA from participating in vote of confidence - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmks-periyakaruppan-moves-madras-hc-to-prevent-tvk-mla-from-participating-in-vote-of-confidence/article70960156.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/akzuei/article70960245.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%2022.52.20.jpeg",
+      "scraped_at": "2026-05-09 21:18:18.730902",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**K.R. Periyakaruppan**, leader of the **Dravida Munnetra Kazhagam (DMK)**, filed a writ petition in the Madras High Court seeking to prevent **Seenivasa Sethupathy** of the **Tamilaga Vettri Kazhagam (TVK)** from participating in the trust vote for the Tamil Nadu Legislative Assembly. The petition argues that votes cast in Periyakaruppan's Tirupattur constituency were not recounted properly, and therefore the elected candidate should be disqualified.  The case will be heard by a summer vacation Bench of Justices L. Victoria Gowri and N. Senthilkumar on May 10, 2026.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57948,
+      "title": "Oldest Forest school in Jawadhu Hills secures 98% in Plus Two examinations - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/oldest-forest-school-in-jawadhu-hills-secures-98-in-plus-two-examinations/article70959201.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/l4rz3j/article70959520.ece/alternates/LANDSCAPE_1200/school-4.jpg",
+      "scraped_at": "2026-05-09 19:15:26.801888",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Forest Government Higher Secondary School",
+      "rephrased_article": "**Forest Department** schools in Tamil Nadu achieved high pass rates in the 2026 Plus Two examinations. The **Forest Government Higher Secondary School** in Pudur Nadu, a tribal village in Jawadhu Hills of Tirupattur district, topped the list with a 98% pass percentage, exceeding other forest schools in Jamunamarathur and Nellivasal which achieved 97% and 93% respectively.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57946,
+      "title": "Aadhav Arjuna, ‘Bussy’ Anand, Sengottaiyan among 9 TVK Ministers to be sworn in with Vijay on May 10 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-aadhav-arjuna-bussy-anand-sengottaiyan-swearing-in-with-vijay-as-ministers-on-may-10-2026/article70960273.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6amejg/article70960304.ece/alternates/LANDSCAPE_1200/Jothi_DSC_9163.JPG",
+      "scraped_at": "2026-05-09 19:14:22.493966",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**Nine** members of the **Tamilaga Vettri Kazhagam (TVK)** are expected to be sworn in as ministers on Sunday, May 10, 2026. The party president and Chief Minister-designate, **C. Joseph Vijay**, will also take his oath.  The list submitted to Governor Rajendra Vishwanath Arlekar includes representatives from various constituencies across Tamil Nadu, with Chennai receiving five ministerial positions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57944,
+      "title": "1.65 lakh Olive Ridley turtle hatchlings released into the sea so far this nesting season, says T.N. Forest Department - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/165-lakh-olive-ridley-turtle-hatchlings-released-into-the-sea-so-far-this-nesting-season-says-tn-forest-department/article70959086.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fgxhv2/article70960329.ece/alternates/LANDSCAPE_1200/BVR_2952.JPG",
+      "scraped_at": "2026-05-09 19:13:38.362122",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Olive Ridley sea turtles",
+      "rephrased_article": "**Tamil Nadu** has seen a successful nesting season for **Olive Ridley** sea turtles, with nearly 1.65 lakh hatchlings released into the sea.  The state recorded 1,985 turtle nests and collected around 2.29 lakh eggs this year, marking a significant improvement in survival rates compared to last year. The Forest Department attributes this success to extensive monitoring and coordination among various agencies, volunteers, and coastal communities. While the nesting season is still ongoing, Tamil Nadu has seen continued progress in its conservation efforts following a strong 2025 season.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57889,
+      "title": "TVK’s Vijay to take oath as Tamil Nadu Chief Minister on May 10 - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/joseph-vijay-tamil-nadu-governor-meeting-government-formation-may-9-updates/article70959569.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nnzfzr/article70959518.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%207.15.52%20PM.jpeg",
+      "scraped_at": "2026-05-09 15:09:55.362739",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Chief Minister",
+      "rephrased_article": "**C. Joseph Vijay**, president of the **Tamilaga Vettri Kazhagam**, will be sworn in as the Chief Minister of Tamil Nadu on Sunday, May 10, 2026, at 10 a.m. at Nehru Stadium in Chennai.  He secured the support of 120 MLAs-elect, enough to form a government, after meeting with **Governor Rajendra Vishwanath Arlekar** and receiving unconditional support from the **VCK** and the **IUML**. This marks the fourth time Mr. Vijay has met with the Governor in four days.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57850,
+      "title": "Tamil Nadu government formation: VCK, IUML extend unconditional support to Vijay’s TVK - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-vck-iuml-extend-unconditional-support-to-vijays-tvk/article70958929.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/8qigd/article70958946.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%2016.33.33.jpeg",
+      "scraped_at": "2026-05-09 12:15:46.736003",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "TVK",
+      "rephrased_article": "**Thol. Thirumavalavan**, president of the **Viduthalai Chiruthaigal Katchi (VCK)**, and **K.M. Kader Mohideen**, national president of the **Indian Union Muslim League (IUML)**, extended unconditional support to the **Tamilaga Vettri Kazhagam (TVK)** to form the government in Tamil Nadu. The letters were sent to the Governor and expressed support for TVK leader C. Joseph Vijay's leadership. With this support, the TVK now has 120 MLAs-elect, exceeding the majority mark needed to form a government.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57849,
+      "title": "Which party governs which State/UT: In maps - The Hindu",
+      "url": "https://www.thehindu.com/news/which-party-governs-which-state-in-maps/article70955247.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pbjvvu/article70949412.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000286B.jpg",
+      "scraped_at": "2026-05-09 12:15:25.231378",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**The Bharatiya Janata Party (BJP)** and its allies secured victories in Assam, Puducherry, and West Bengal, while the Congress-led UDF won in Tamil Nadu. **Suvendu Adhikari**, a BJP leader, is set to become the first BJP Chief Minister of West Bengal. The results mark a shift in the political landscape with the BJP or the NDA now governing 20 states and 2 Union Territories.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Sikkim",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57840,
+      "title": "Second plea filed in Supreme Court challenging Governor's delay in inviting Vijay to form govt. in Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/second-plea-filed-in-supreme-court-challenging-governors-delay-in-inviting-vijay-to-form-govt-in-tamil-nadu/article70958675.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fuf6u4/article70958769.ece/alternates/LANDSCAPE_1200/DSC_4388.JPG",
+      "scraped_at": "2026-05-09 11:34:21.765727",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Rajendra Arlekar",
+      "rephrased_article": "A writ petition was filed in the Supreme Court on Saturday, May 9, 2026, challenging **Rajendra Arlekar**, the Tamil Nadu Governor's press release denying **C. Joseph Vijay**, the president of the Tamilaga Vettri Kazhagam (TVK), the right to form the government. The petition argues that the Governor's refusal to invite Mr. Vijay and his insistence on demonstrating \"requisite majority support\" is unconstitutional and arbitrary, contradicting established constitutional conventions for government formation in a hung Assembly.  The petition was filed by retired IPS officer M. Ramasubramani through advocate G. Siva Bala Murugan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
         "foreign_policy"
       ]
     }

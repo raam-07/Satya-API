@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 08:25:50.702050",
+  "generated_at": "2026-05-23 10:44:22.682125",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,29 +8,56 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 23,
-    "articles_last_30d": 23
+    "total_articles": 32,
+    "articles_last_30d": 32
   },
   "top_cities_30d": {
-    "Delhi": 8,
+    "Delhi": 9,
+    "Kolkata": 3,
+    "Lucknow": 3,
     "Ghaziabad": 2,
+    "Kanpur": 2,
     "Bengaluru": 1,
-    "Kolkata": 1,
-    "Kanpur": 1,
-    "Lucknow": 1
+    "Ahmedabad": 1,
+    "Agra": 1,
+    "Allahabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 22,
-    "protest_opposition": 11,
-    "crime_violence": 8,
-    "farmer_agriculture": 7,
-    "infrastructure": 6,
-    "education": 3,
-    "economy": 3,
-    "corruption_scam": 3,
-    "health": 3
+    "foreign_policy": 31,
+    "protest_opposition": 15,
+    "crime_violence": 10,
+    "education": 8,
+    "farmer_agriculture": 8,
+    "infrastructure": 7,
+    "economy": 4,
+    "corruption_scam": 4,
+    "health": 4
   },
   "recent_articles": [
+    {
+      "id": 61078,
+      "title": "Uttar Pradesh woman killed by boyfriend after she refuses to accompany him - The Hindu",
+      "url": "https://www.thehindu.com/elections/uttar-pradesh-assembly/uttar-pradesh-woman-killed-by-boyfriend-after-she-refuses-to-accompany-him/article71013772.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-23 07:20:37.734739",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Ali Mohammad",
+      "rephrased_article": "**Ali Mohammad**, 25, has been arrested for allegedly strangling his 21-year-old girlfriend, **Reshma**, inside her home in Uttar Pradesh's Shamli district. The incident occurred on Friday evening, with family members present.  Police say Ali Mohammad attacked Reshma after she refused to accompany him somewhere and both he and his associate, **Aliyas**, were apprehended at the scene. The body has been sent for a post-mortem examination, and police are continuing their investigation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 60860,
       "title": "Slow-moving bands of heavy rain trigger flooding and landslides in parts of China | China | The Guardian",
@@ -678,6 +705,291 @@
       ],
       "states_mentioned": [
         "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58484,
+      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+      "scraped_at": "2026-05-12 00:04:20.847646",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58388,
+      "title": "Modi’s austerity drive is an admission of failure on economic and foreign policy fronts, alleges Akhilesh - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modis-appeal-on-fuel-savings-an-admission-of-failure-will-rattle-markets-akhilesh/article70964575.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/b08pfp/article70964597.ece/alternates/LANDSCAPE_1200/20260509267L.jpg",
+      "scraped_at": "2026-05-11 17:41:34.776125",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Akhilesh Yadav**, president of the **Samajwadi Party**, criticized **Prime Minister Narendra Modi's** appeal for austerity in light of the Iran conflict, accusing the **BJP government** of failing on both economic and foreign policy fronts.  Yadav argued that the appeal was an admission of failure and that the restrictions imposed were disproportionate to the perceived crisis. He also accused the **BJP** of fueling political unrest with electoral fraud and social discord.",
+      "party_mentioned": [
+        "BJP",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58263,
+      "title": "Crumbling of Awadh’s heritage amidst monument encroachments - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/crumbling-of-awadhs-heritage-amidst-monument-encroachments/article70959336.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ivf3c5/article70959345.ece/alternates/LANDSCAPE_1200/6607_8_4_2026_16_51_55_4_08_04_ASIMONUMENTSLUCKNOW_D.JPG",
+      "scraped_at": "2026-05-10 23:00:47.649011",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "ASI",
+      "rephrased_article": "A report by the Comptroller and Auditor General of India (CAG) highlights the concerning state of protected monuments in Uttar Pradesh. The report found that 31 centrally protected monuments are untraceable, with only 31 monuments having proper ownership documentation and 96 being encroached upon. Heritage activists express worry over the disappearance of these historical sites and the potential loss of Awadhi culture, which is intertwined with the architecture and traditions of these structures.  The report also found that the ASI has not been adequately enforcing existing laws and regulations, leading to inadequate planning and documentation for conservation efforts. Experts advocate for stronger legislation, including a state heritage law, to address this issue and protect these valuable cultural assets.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Kanpur",
+        "Agra",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58256,
+      "title": "Suvendu Adhikari to chair first Cabinet meeting on May 11, 2026 - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-to-chair-first-cabinet-meeting-on-may-11-2026/article70963091.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x8dzq9/article70963252.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000753B.jpg",
+      "scraped_at": "2026-05-10 22:00:54.592772",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Suvendu Adhikari",
+      "rephrased_article": "**Suvendu Adhikari**, the newly elected Chief Minister of **West Bengal**, will hold his first cabinet meeting on Monday, May 11, at Nabanna.  The meeting will see the allocation of portfolios to five ministers who were sworn in with him on Saturday. The cabinet is expected to establish inquiry commissions into atrocities against women during the **Trinamool Congress** regime. Adhikari also plans to meet with top officials from various departments including the police and district magistrates.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58184,
+      "title": "WB CM Suvendu Adhikari to chair first cabinet meeting today - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/wb-cm-suvendu-adhikari-to-chair-first-cabinet-meeting-today/article70963091.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x8dzq9/article70963252.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000753B.jpg",
+      "scraped_at": "2026-05-10 17:09:51.796512",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Suvendu Adhikari",
+      "rephrased_article": "**Suvendu Adhikari**, the newly elected Chief Minister of West Bengal, will hold his first cabinet meeting on Monday (May 11, 2026) at Nabanna. The meeting is expected to allocate portfolios to five ministers who were sworn in alongside him on Saturday (May 9). **Adhikari** also plans to establish inquiry commissions into atrocities against women during the previous Trinamool Congress regime and meet with top officials of various departments including police, district magistrates, and the Director General of West Bengal police.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58169,
+      "title": "Uttar Pradesh Cabinet expanded with six new Ministers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-expansion-yogi-adityanath-ministry/article70962176.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9i3u2k/article70962264.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000421A.jpg",
+      "scraped_at": "2026-05-10 16:04:07.239412",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Yogi Adityanath",
+      "rephrased_article": "**Yogi Adityanath**, the Chief Minister of **Uttar Pradesh**, expanded his state cabinet by adding six new ministers and elevating two to independent charge.  **Bhupendra Singh Chaudhary** and **Manoj Kumar Pandey** were sworn in as Cabinet Ministers, while **Chaudhary** previously served as State BJP president and **Pandey** switched from the Samajwadi Party (SP) before the 2024 Lok Sabha election.",
+      "party_mentioned": [
+        "BJP",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58075,
+      "title": "NDA leaders stake claim to form Assam government - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-government-formation-himanta-biswa-sarma-legislature-party-leader-bjp-nda-alliance/article70961689.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7rl29/article70961697.ece/alternates/LANDSCAPE_1200/20260510043L.jpg",
+      "scraped_at": "2026-05-10 09:21:43.990318",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Himanta Biswa Sarma**, leader of the **Bharatiya Janata Party (BJP)**-led **National Democratic Alliance (NDA)**, was unanimously elected as the leader of the Assam Legislature Party.  Following this, the NDA staked a claim to form the government in Assam with the support of 102 MLAs. The swearing-in ceremony for the new council of ministers is scheduled for May 12th. **J.P. Nadda**, Union Minister and central observer for the BJP Legislature Party meeting, announced that eight BJP legislators proposed Sarma's name as their leader.  The newly elected members of the BJP and its regional allies — **Asom Gana Parishad (AGP)** and **Bodoland People’s Front (BPF)** — chose their leaders in the morning.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 57911,
+      "title": "Parties are equal partners in INDIA alliance, says U.P. Congress chief Ajay Rai - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/parties-are-equal-partners-in-india-alliance-says-up-congress-chief-ajay-rai/article70959639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/agokll/article70960093.ece/alternates/LANDSCAPE_1200/20260415401L.jpg",
+      "scraped_at": "2026-05-09 16:35:27.251002",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Ajay Rai**, Uttar Pradesh Congress president, stated that the **INDIA** alliance in Uttar Pradesh is based on equal partnership and a united effort to defeat the **BJP**. He emphasized that decisions regarding the Congress's participation will be made by the high command and that the party is focusing on strengthening its organization at the booth level for the upcoming Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
       ],
       "cities_mentioned": [],
       "topic_tags": [

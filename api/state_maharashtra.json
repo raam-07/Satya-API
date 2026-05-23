@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 08:25:50.694842",
+  "generated_at": "2026-05-23 10:44:22.670776",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,32 +8,57 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 21,
-    "articles_last_30d": 21
+    "total_articles": 30,
+    "articles_last_30d": 30
   },
   "top_cities_30d": {
     "Mumbai": 7,
-    "Pune": 5,
-    "Delhi": 4,
-    "Nashik": 4,
+    "Pune": 6,
+    "Nashik": 6,
+    "Delhi": 5,
     "Hyderabad": 1,
     "Jaipur": 1,
     "Thane": 1,
-    "Nagpur": 1
+    "Nagpur": 1,
+    "Chennai": 1,
+    "Bengaluru": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 19,
-    "education": 11,
+    "foreign_policy": 28,
+    "education": 14,
+    "protest_opposition": 11,
+    "economy": 9,
     "infrastructure": 9,
-    "protest_opposition": 7,
-    "economy": 6,
-    "farmer_agriculture": 3,
-    "corruption_scam": 2,
-    "crime_violence": 2,
-    "health": 1,
-    "rape_sexual_crime": 1
+    "farmer_agriculture": 4,
+    "crime_violence": 4,
+    "corruption_scam": 3,
+    "rape_sexual_crime": 3,
+    "health": 2
   },
   "recent_articles": [
+    {
+      "id": 61064,
+      "title": "For every job at Mazagon Dock, 6.4 jobs are created across economy: Captain Jagmohan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/for-every-job-at-mazagon-dock-64-jobs-are-created-across-economy-captain-jagmohan/article71010963.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/uidm3u/article71013466.ece/alternates/LANDSCAPE_1200/emma_11908_22_5_2026_15_20_6_1_DSC_4455.JPG",
+      "scraped_at": "2026-05-23 04:33:22.123197",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "economy",
+      "rephrased_article": "**Captain Jagmohan (Retd.)**, Chairman and Managing Director of **Mazagon Dock Shipbuilders Limited (MDL)**, stated that one direct job at MDL generates six and a half jobs across India. He cited the Project 17A frigate as an example, where 4,500 MDL workers support nearly 28,000 positions in ancillary industries. The **Maritime Amrit Kaal Vision (MAKV)** aims to place India among the top five shipbuilding countries by 2047 with a target of 4.5 million gross tonnage and an expected investment of ₹4.5 lakh crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education"
+      ]
+    },
     {
       "id": 61031,
       "title": "‘Development is not about factories or roads; we must connect with people’ - The Hindu",
@@ -640,6 +665,283 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58484,
+      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+      "scraped_at": "2026-05-12 00:04:20.847646",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58446,
+      "title": "TCS Nashik case: NCW flags ‘toxic work culture’, ‘zero POSH compliance’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tcs-nashik-case-ncw-flags-toxic-work-culture-zero-posh-compliance/article70966426.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ivr6iw/article70967298.ece/alternates/LANDSCAPE_1200/20260511417L.jpg",
+      "scraped_at": "2026-05-11 22:35:12.987483",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "TCS",
+      "rephrased_article": "The **National Commission for Women (NCW)** has found that **Tata Consultancy Services (TCS)** in Nashik is failing to comply with the Prevention of Sexual Harassment (POSH) Act, citing pervasive harassment, religious denigration, and systemic bullying. The NCW's fact-finding committee observed that victims were intimidated into silence due to a lack of formal complaint mechanisms and a toxic workplace environment.  The committee has recommended action for TCS’ failure to comply with the POSH Act, as well as measures to protect complainants and ensure a safe working environment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Nashik"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58231,
+      "title": "Governor’s role in government formation | Explained - The Hindu",
+      "url": "https://www.thehindu.com/news/national/governors-role-in-government-formation-explained/article70962222.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cjtah2/article70963246.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000207B.jpg",
+      "scraped_at": "2026-05-10 20:06:32.072709",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "The **Tamilaga Vettri Kazhagam (TVK)** secured a majority in the recent Tamil Nadu Assembly elections, but the Governor invited the party's chief to form the government.  **C. Joseph Vijay**, the TVK leader, was sworn in as Chief Minister after securing letters of support from 120 members. The Governor's discretion in appointing the Chief Minister is based on constitutional provisions and previous recommendations by commissions, but there have been instances where Governors have appointed a Chief Minister without following these guidelines.  The Supreme Court has emphasized that the \"floor of the House\" is the appropriate forum to determine majority support for a government.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Maharashtra",
+        "Manipur",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58108,
+      "title": "Rupali Chakankar appears before SIT in 'godman' Kharat case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/rupali-chakankar-appears-before-sit-in-godman-kharat-case/article70962106.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qtmphn/article70962112.ece/alternates/LANDSCAPE_1200/IMG_DEL29_Rupali_Chakank_2_1_NS9L8QOQ.jpg",
+      "scraped_at": "2026-05-10 12:00:07.910952",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Ashok Kharat",
+      "rephrased_article": "**Rupali Chakankar**, NCP leader and former State women’s panel chief, appeared before the special investigation team (SIT) in Nashik to answer questions about her alleged association with self-styled godman **Ashok Kharat**.  Ms. Chakankar resigned from both positions following revelations of her ties to **Kharat**, who is currently under arrest for rape and sexual exploitation. The Maharashtra Government has set up an SIT to investigate 12 cases against **Kharat** in Nashik and Ahilyanagar districts, with the SIT likely to question Ms. Chakankar about her connection to him.  Senior Congress leader **Nana Patole** alleged that **Kharat**’s life is in danger in prison and demanded the removal of four ministers connected to him from the state cabinet.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Nashik"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "corruption_scam",
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58018,
+      "title": "TVK-led Tamil Nadu Government | Full list of Ministers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-tvk-vijay-full-list-of-ministers/article70961413.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ml36qr/article70961443.ece/alternates/LANDSCAPE_1200/1693_20_4_2026_19_0_14_3_BVR_7132.JPG",
+      "scraped_at": "2026-05-10 04:38:32.303847",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Bussy** N. Anand, a close aide of **C. Joseph Vijay**, won the T. Nagar seat in the Tamil Nadu Assembly elections.  **Aadhav Arjuna**, general secretary of the Tamilaga Vettri Kazhagam (TVK), also won from the Villivakkam seat. **K.G. Arunraaj**, a former IRS officer, was elected from Tiruchengodu. **K.A. Sengottaiyan**, who previously held ministerial positions for the AIADMK, won the Gobichettipalayam constituency.  **P. Venkataramanan**, treasurer of the TVK, and **C.T.R. Nirmal Kumar**, a former BJP IT wing joint secretary, also won their respective seats.  A. Rajmohan, a YouTuber and media personality, and Dr. T.K. Prabhu, a dentist, were elected from Egmore and Karaikudiconstituency respectively. S.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 57982,
+      "title": "Ministers, ambassadors, artists to join The Hindu’s Huddle in June - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ministers-ambassadors-artists-to-join-the-hindus-huddle-in-june/article70960008.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/4tl6dp/article70960011.ece/alternates/LANDSCAPE_1200/IMG_5275.jpeg",
+      "scraped_at": "2026-05-09 22:10:04.595981",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "The Hindu",
+      "rephrased_article": "**The Hindu Group** is hosting its annual **The Hindu Huddle**, a conference focused on global issues, in Bengaluru from June 5th to 6th. This year's theme, \"A World in Transition,\" will feature discussions on topics such as regional parties in Indian democracy, diplomacy and conflict resolution, women's representation in Parliament, the role of AI, mental health, and the future of work.  The event will include prominent speakers from India and around the world, including Union Ministers Hardeep Puri and Nitin Gadkari, former President Mohamed Nasheed, and Chinese Ambassador Xu Feihong.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah",
+        "Omar Abdullah",
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 57941,
+      "title": "Gram panchayat elections in Karnataka will be held before end of 2026, says Minister Priyank Kharge - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/gram-panchayat-elections-in-karnataka-will-be-held-before-end-of-2026-says-minister-priyank-kharge/article70958996.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kf9k4x/article70960332.ece/alternates/LANDSCAPE_1200/AFP_A8Y43JJ.jpg",
+      "scraped_at": "2026-05-09 19:12:35.108928",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Siddaramaiah",
+      "rephrased_article": "**Priyank Kharge**, **Rural Development and Panchayat Raj Minister**, announced that the state government will hold gram panchayat elections before the end of the year.  He also stated that drinking water scarcity in Kalaburagi district is being addressed with funds from the state government, the Kalyana Karnataka Region Development Board, and recommendations from task forces headed by MLAs. **Mr. Kharge** added that a decision on expanding the State Cabinet will be made at the appropriate time by **Chief Minister Siddaramaiah** and the party high command.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 57906,
+      "title": "NCP(SP) leader splashed with ink by right-wing preacher - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/ncpsp-leader-splashed-with-ink-by-right-wing-preacher/article70959314.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-09 16:33:44.979877",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Sangram Bhandare",
+      "rephrased_article": "**Vikas Lawande**, spokesperson for the **NCP(SP)**, was allegedly attacked with black ink in Pune, Maharashtra on Saturday by a group led by right-wing preacher **Sangram Bhandare**. The attack followed **Lawande's** remarks about **Bhandare's** gurus, who are part of the Warkari movement.  **Lawande** reported the incident to the police and demanded action against the attackers. Several political leaders, including **Shashikant Shinde**, **Mehbub Shaikh**, and **Vijay Wadettiwar**, condemned the attack and called for protection of free speech.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
       ]
     }
   ]

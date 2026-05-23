@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 08:25:50.693996",
+  "generated_at": "2026-05-23 10:44:22.669764",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,26 +8,27 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 15,
-    "articles_last_30d": 15
+    "total_articles": 18,
+    "articles_last_30d": 18
   },
   "top_cities_30d": {
     "Bhopal": 5,
-    "Delhi": 3,
+    "Delhi": 4,
     "Indore": 2,
     "Pune": 1,
     "Mumbai": 1,
-    "Agra": 1
+    "Agra": 1,
+    "Bengaluru": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 15,
-    "education": 7,
+    "foreign_policy": 18,
+    "education": 8,
+    "crime_violence": 6,
+    "health": 6,
     "infrastructure": 5,
-    "crime_violence": 5,
-    "health": 5,
-    "protest_opposition": 4,
-    "farmer_agriculture": 3,
-    "economy": 3
+    "protest_opposition": 5,
+    "economy": 4,
+    "farmer_agriculture": 3
   },
   "recent_articles": [
     {
@@ -440,6 +441,123 @@
         "foreign_policy",
         "infrastructure",
         "education"
+      ]
+    },
+    {
+      "id": 58484,
+      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+      "scraped_at": "2026-05-12 00:04:20.847646",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "ECI",
+      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58479,
+      "title": "Two cheetahs released into wild in Kuno; CM Yadav says M.P. now recognised as ‘Cheetah State’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/two-cheetahs-released-into-wild-in-kuno-cm-yadav-says-mp-now-recognised-as-cheetah-state/article70967195.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/z11auc/article70967207.ece/alternates/LANDSCAPE_1200/PTI05_11_2026_000101B.jpg",
+      "scraped_at": "2026-05-12 00:03:09.415643",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Project Cheetah",
+      "rephrased_article": "**Madhya Pradesh Chief Minister Mohan Yadav** released two cheetahs from Botswana into an open forest in Kuno National Park, marking another successful chapter of the **Project Cheetah**.  The reintroduction program aims to restore the endangered species and prepare them for free roaming. This is the third international phase of the project, following previous arrivals from Namibia and South Africa. The release follows a quarantine period and experts believe cheetahs from Botswana will contribute to a healthy and sustainable population in Kuno.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57838,
+      "title": "Bengaluru fire accident: One killed, four others critical in Nagarbhavi hotel blaze - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-fire-accident-one-killed-four-others-critical-in-nagarbhavi-hotel-blaze/article70958676.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/karnataka/vzvy87/article70958768.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%2015.55.41.jpeg",
+      "scraped_at": "2026-05-09 11:33:44.476902",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Raj Kumar",
+      "rephrased_article": "A fire broke out at a hotel in Malagala, near Nagarabhavi, India, on Friday night, resulting in the death of **Raj Kumar**, a 40-year-old hotel employee.  **Four colleagues** sustained severe burns and are currently hospitalized in critical condition. The fire is suspected to have been caused by a short circuit, spreading rapidly through the staff quarters where five workers were sleeping. Firefighters rescued all five workers but **Kumar** succumbed to his injuries during treatment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "health"
       ]
     }
   ]
