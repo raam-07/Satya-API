@@ -1,21 +1,40 @@
 {
-  "generated_at": "2026-05-23 05:06:10.351024",
+  "generated_at": "2026-05-23 08:25:50.809205",
   "endpoints": {
+    "feed": "feed.json",
+    "feed_politics": "feed_politics.json",
+    "feed_crime": "feed_crime.json",
+    "feed_economy": "feed_economy.json",
+    "feed_international": "feed_international.json",
+    "feed_health": "feed_health.json",
+    "feed_corruption": "feed_topic_corruption.json",
+    "feed_farmers": "feed_topic_farmers.json",
     "india_overview": "india_overview.json",
     "promises_summary": "promises_summary.json",
     "parties": {
       "BJP": "party_bjp.json",
-      "INC": "party_inc.json"
+      "INC": "party_inc.json",
+      "TMC": "party_tmc.json",
+      "DMK": "party_dmk.json"
     },
     "states": {
       "Gujarat": "state_gujarat.json",
       "Karnataka": "state_karnataka.json",
       "Kerala": "state_kerala.json",
+      "Madhya Pradesh": "state_madhya_pradesh.json",
+      "Maharashtra": "state_maharashtra.json",
       "Punjab": "state_punjab.json",
+      "Rajasthan": "state_rajasthan.json",
+      "Tamil Nadu": "state_tamil_nadu.json",
+      "Telangana": "state_telangana.json",
+      "Uttar Pradesh": "state_uttar_pradesh.json",
+      "West Bengal": "state_west_bengal.json",
       "Delhi": "state_delhi.json"
     },
     "ministers": {
-      "Narendra Modi": "minister_narendra_modi.json"
+      "Narendra Modi": "minister_narendra_modi.json",
+      "Amit Shah": "minister_amit_shah.json",
+      "Rahul Gandhi": "minister_rahul_gandhi.json"
     },
     "topics": {
       "crime_violence": "topic_crime_violence.json",
@@ -26,18 +45,23 @@
       "farmer_agriculture": "topic_farmer_agriculture.json",
       "protest_opposition": "topic_protest_opposition.json",
       "health": "topic_health.json",
+      "rape_sexual_crime": "topic_rape_sexual_crime.json",
       "corruption_scam": "topic_corruption_scam.json",
       "category_international": "category_international.json",
       "category_politics": "category_politics.json",
       "category_economy": "category_economy.json",
       "category_crime": "category_crime.json",
-      "category_other": "category_other.json"
+      "category_other": "category_other.json",
+      "category_health": "category_health.json",
+      "category_sports": "category_sports.json",
+      "category_education": "category_education.json",
+      "category_environment": "category_environment.json"
     }
   },
   "stats": {
-    "parties_count": 2,
-    "states_count": 5,
-    "ministers_count": 1,
-    "topics_count": 14
+    "parties_count": 4,
+    "states_count": 12,
+    "ministers_count": 3,
+    "topics_count": 19
   }
 }

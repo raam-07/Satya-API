@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 05:06:10.258790",
+  "generated_at": "2026-05-23 08:25:50.690183",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,29 +8,56 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 17,
-    "articles_last_30d": 17
+    "total_articles": 41,
+    "articles_last_30d": 41
   },
   "top_cities_30d": {
-    "Bengaluru": 7,
-    "Delhi": 2,
+    "Bengaluru": 13,
+    "Delhi": 4,
+    "Chennai": 2,
     "Hyderabad": 1,
     "Jaipur": 1,
-    "Mumbai": 1
+    "Mumbai": 1,
+    "Coimbatore": 1,
+    "Bangalore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 17,
-    "infrastructure": 8,
-    "education": 8,
-    "protest_opposition": 8,
-    "health": 5,
-    "economy": 5,
-    "farmer_agriculture": 4,
+    "foreign_policy": 41,
+    "education": 16,
+    "protest_opposition": 14,
+    "infrastructure": 13,
+    "economy": 11,
+    "health": 10,
+    "farmer_agriculture": 10,
+    "crime_violence": 7,
     "corruption_scam": 2,
-    "crime_violence": 2,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61022,
+      "title": "KARD, Khandre condemn assault on BRIMS resident doctor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/kard-khandre-condemn-assault-on-brims-resident-doctor/article71010999.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4l71vb/article71012370.ece/alternates/LANDSCAPE_1200/10258_22_5_2026_18_44_38_2_BRIMS_ASSAULT_2.JPG",
+      "scraped_at": "2026-05-23 00:15:32.660357",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Tukaram",
+      "rephrased_article": "**The Karnataka Association of Resident Doctors (KARD)** and **Bidar district in-charge Minister Eshwar B. Khandre** condemned the alleged assault of a resident doctor at **Bidar Institute of Medical Sciences (BRIMS)**, urging the state government to improve security for doctors working in public hospitals.  A letter sent to the Director of Medical Education on Friday stated that **Tukaram**, a 28-year-old orthopaedic resident doctor, was allegedly assaulted while attending to an injured patient in the casualty ward around 1 a.m. on Friday.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
     {
       "id": 60980,
       "title": "Mumbai, Maharashtra emerging as key hubs for global investment and clean energy partnerships, say diplomats - The Hindu",
@@ -490,6 +517,627 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 59423,
+      "title": "Insensitivity and lack of concern, alleges Congress on Center’s silence over U.P. storm deaths - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/insensitivity-and-lack-of-concern-alleges-congress-on-centers-silence-over-up-storm-deaths/article70983868.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kt0mtv/article70985069.ece/alternates/LANDSCAPE_1200/20260511350L.jpg",
+      "scraped_at": "2026-05-15 23:58:55.500064",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Union Government",
+      "rephrased_article": "Following a powerful storm that killed at least 111 people in Uttar Pradesh, the **Uttar Pradesh** government directed Ministers to assess the situation and provide financial assistance. The **Congress** party criticized the **Union Government's** lack of response, highlighting the condolences from Russian President Vladimir Putin as evidence of their insensitivity.  The **Uttar Pradesh** Chief Minister Yogi Adityanath announced a ₹4 lakh compensation for families who lost loved ones and directed officials to ensure relief for farmers and livestock owners.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59388,
+      "title": "Monsoon to reach Kerala on May 26, says IMD - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-meteorological-department-southwest-monsoon-kerala-may-26/article70982338.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ephlb3/article70982353.ece/alternates/LANDSCAPE_1200/Clouds05.JPG",
+      "scraped_at": "2026-05-15 21:12:39.720523",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "El Nino",
+      "rephrased_article": "The **India Meteorological Department (IMD)** predicts the southwest monsoon will advance into Kerala on May 26, a day earlier than its usual June 1 arrival.  While this year's monsoon onset is anticipated to be early, there are concerns about below-normal rainfall. The IMD has historically been accurate in predicting the monsoon's arrival over Kerala, with only one exception in 2015. **M. Ravichandran**, Secretary of the Ministry of Earth Sciences, stated that after the monsoon onset, a period of heavy rain is expected for the next five days.  The IMD has warned of potential drought impacts due to reduced rainfall and the ongoing El Nino phenomenon.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala",
+        "Andaman"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 59384,
+      "title": "Joyride horse dies of highly contagious zoonotic disease disease in Chennai; Tamil Nadu goes into alert mode - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/health/joyride-horse-dies-of-highly-contagious-zoonotic-disease-disease-in-chennai-tamil-nadu-goes-into-alert-mode/article70983531.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/8jqptm/article70983978.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-15%20at%208.01.50%20PM.jpeg",
+      "scraped_at": "2026-05-15 21:11:34.315044",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "glanders",
+      "rephrased_article": "**The ICAR–National Research Centre on Equines (NRCE)** confirmed that a horse used for joyrides in the city has died from glanders, a highly contagious bacterial disease affecting equines. **The Besant Memorial Animal Dispensary (BMAD)** alerted authorities after noticing the horse's weakened condition and sent samples to the NRCE for testing. The NRCE advised the Tamil Nadu Animal Husbandry Department to isolate and monitor all equines in the area, implement surveillance and testing protocols, and regulate inter-state movement of horses. **The Tamil Nadu Animal Welfare Board** has requested that samples be collected from all joyride horses.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 59380,
+      "title": "Supreme Court closes plea of Goa Congress leader after his death from snakebite - The Hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-closes-plea-of-goa-congress-leader-after-his-death-from-snakebite/article70984415.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/c4st8n/article70984894.ece/alternates/LANDSCAPE_1200/11_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
+      "scraped_at": "2026-05-15 21:10:30.397398",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "The **Supreme Court** closed the plea of deceased **Ketan Bhatikar**, a Congress candidate for the Ponda Assembly seat, challenging a Bombay High Court order cancelling the bypoll.  Bhatikar died from a snakebite on Thursday and his lawyer requested the court to leave the larger question of law open while closing the proceedings. The High Court had earlier canceled the bypoll citing violation of the Representation of the People Act as less than one year remained in the term of the Assembly.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 59371,
+      "title": "Sebi approves IPO plans of Neolite Lightings, Aspri Spirits and SS Retail - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-ipo-plans-of-neolite-lightings-aspri-spirits-and-ss-retail/articleshow/131117351.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131117371,width-1200,height-630,imgsize-5912,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-15 19:51:34.250826",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "other",
+      "rephrased_article": "**Neolite ZKW Lightings**, a manufacturer of automotive lighting products, plans to raise Rs 600 crore through a combination of fresh issue and offer-for-sale. The IPO will be used for setting up a greenfield manufacturing facility in Kancheepuram, Tamil Nadu, expanding existing operations, and repaying borrowings. **Neolite ZKW Lightings** has a significant market share in India's commercial vehicle lighting segment and serves over 40 OEM customers. Meanwhile, **Aspri Spirits**, an importer and distributor of international wine and spirits, received Sebi approval for its public issue with a proposed IPO of up to Rs 140 crore.  SS Retail, another company seeking regulatory clearance, plans to raise Rs 500 crore through its IPO, which will be used for expansion and growth.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 59285,
+      "title": "Supreme Court allows actor Darshan to revive bail plea in a year if no ‘substantial progress’ in trial - The Hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-allows-actor-darshan-to-revive-bail-plea-in-a-year-if-no-substantial-progress-in-trial/article70982075.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vb0jsu/article70982591.ece/alternates/LANDSCAPE_1200/20240611394L.jpg",
+      "scraped_at": "2026-05-15 11:31:43.569055",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka High Court",
+      "rephrased_article": "The **Supreme Court** expressed disappointment over the slow pace of the trial in the 2024 Renukaswamy murder case involving Kannada actor Darshan Thoogudeepa. The court granted him liberty to renew his bail plea if there is no \"substantial progress\" within a year, directing the trial court to ensure regular witness examinations and avoid adjournments on flimsy grounds.  The top court also directed prison authorities to provide Mr. Darshan with basic amenities as per jail manual rules and for the Karnataka High Court to address the issue of the vacant presiding officer position at the trial court.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "health",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59266,
+      "title": "Get Cauvery water released by Karnataka: Farmers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/get-cauvery-water-released-by-karnataka-farmers/article70982831.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-15 11:26:57.849063",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "**The Coordination Committee of All Farmers Associations of Tamil Nadu** urged the **Tamil Nadu government** to prioritize releasing the state's water share from the Cauvery river, citing a need for immediate action given last season's kuruvai cultivation. The committee also expressed concern over an agreement between **the Tamil Nadu Civil Supplies Corporation (TNCSC)** and the National Consumer Cooperative Federation (NCCF) for paddy procurement, urging the government to ensure timely payment of sales proceeds to farmers.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58953,
+      "title": "‘Limited’ religious symbols to be allowed with uniforms in Karnataka schools and colleges - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/limited-traditional-and-religious-symbols-to-be-allowed-with-prescribed-uniforms-in-karnataka-schools-and-colleges/article70974812.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4dm2cr/article70974939.ece/alternates/LANDSCAPE_1200/DSC_0397.JPG",
+      "scraped_at": "2026-05-14 01:31:18.266654",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka government",
+      "rephrased_article": "**The Karnataka government** withdrew its 2022 order requiring prescribed uniforms in educational institutions and replaced it with a new order allowing students to wear “limited” traditional and faith-based symbols alongside their uniforms.  Minister for School Education and Literacy **Madhu Bangarappa** stated that the decision aims to promote secular values and equal respect for all religions and traditions within schools, while maintaining institutional discipline.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58949,
+      "title": "Women’s coalition urges speedy implementation of 33% reservation - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/womens-coalition-urges-speedy-implementation-of-33-reservation/article70975106.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-14 01:30:16.611452",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "women's reservation Act",
+      "rephrased_article": "**Members of the National Coalition for Women’s Reservation-Karnataka** have called on the government to immediately implement the women's reservation Act, arguing that linking it to future Census and delimitation exercises is delaying progress. They criticized the delay in delivering equal political representation for women, who constitute 50% of the population, and questioned the need to link implementation with these processes.  The coalition has been advocating for the Act's implementation since 1996 and has intensified nationwide mobilization efforts to achieve this goal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58853,
+      "title": "Lawrence Bishnoi gang stakes claim on gunfire outside Diljit Dosanjh's manager in Karnal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/lawrence-bishnoi-gang-stakes-claim-on-gunfire-outside-diljit-dosanjhs-manager-in-karnal/article70974236.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9dev0n/article70975727.ece/alternates/LANDSCAPE_1200/IMG_20230418145L_2_1_A1EVEMI8.jpg",
+      "scraped_at": "2026-05-13 18:30:16.389348",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lawrence Bishnoi gang",
+      "rephrased_article": "**Punjab Finance Minister Harpal Singh Cheema** alleged that the **Lawrence Bishnoi gang** was responsible for an alleged firing incident outside the residence of Diljit Dosanjh's manager in Haryana.  **Tyson Bishnoi, Arzoo Bishnoi, and Hari Boxer**, purportedly acting on behalf of the **Bishnoi gang**, claimed responsibility for the incident via social media. **Cheema** accused the **BJP** of using gangsters to intimidate Punjabis who refuse to join their party. The **Haryana Police** have not received a complaint from the manager or his family and found no evidence at the scene.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Haryana",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58836,
+      "title": "Congress unveils ‘Bhu Guarantee’ in Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-unveils-bhu-guarantee-in-karnataka/article70973676.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vprnos/article70973754.ece/alternates/LANDSCAPE_1200/GBA%201.JPEG",
+      "scraped_at": "2026-05-13 16:10:34.543438",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "government",
+      "rephrased_article": "**D.K. Shivakumar**, the **Deputy Chief Minister** of Karnataka, unveiled the \"sixth guarantee\" — Bhu Guarantee — which includes a 60% discount on conversion fees for B-Khata to A-Khata properties within Greater Bengaluru Authority (GBA) limits. The scheme also offers a 50% reduction in regularisation costs for buildings constructed before 2008 on BDA land, and a 15% setback relaxation as per the Town Planning Act. These announcements come amidst discussions about holding civic elections in Bengaluru this year.  The government aims to encourage property conversions and regularizations, but faces challenges with low application rates due to high fees previously associated with these processes.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58824,
+      "title": "Karnataka SC/ST employees’ association objects to new roster - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-scst-employees-association-objects-to-new-roster/article70975156.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-13 16:07:23.411153",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Karnataka State Government",
+      "rephrased_article": "The **Karnataka State Government** announced a 400-point roster for the recruitment of 56,432 posts. The **Karnataka State Government Scheduled Castes/Scheduled Tribes Employees’ Association** objected to the first 50 points being unscientific and argued it would negatively impact SC community candidates in Group ‘A’ and Group ‘B’ posts.  The association urged five Dalit Ministers to review and create a new, scientific roster.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58774,
+      "title": "SC asks Centre to consider States’ pleas for funds for CCTVs in police stations - The Hindu",
+      "url": "https://www.thehindu.com/news/national/sc-asks-centre-to-consider-states-pleas-for-funds-for-cctvs-in-police-stations/article70973179.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8ucpd/article70973688.ece/alternates/LANDSCAPE_1200/CB27_CCTV.jpg",
+      "scraped_at": "2026-05-13 10:35:13.644149",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Centre",
+      "rephrased_article": "The **Supreme Court** urged the **Union government** to fully implement the Assistance to States and Union Territories for Modernisation of Police (ASUMP) scheme, which provides funds for installing CCTV cameras in police stations and a centralized monitoring dashboard. The court expressed concerns over non-functional CCTV cameras in Udaipur police stations and directed the Centre to consider requests from states for funding.  The ASUMP scheme has been extended until September 30, 2026, with most states initiating steps towards compliance. However, Jharkhand was criticized for not installing any CCTV cameras, despite receiving funds under the scheme. The court also cautioned against releasing funds without due diligence to prevent misappropriation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Nagaland",
+        "Punjab",
+        "Rajasthan",
+        "Tripura",
+        "Jammu",
+        "Kashmir",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58758,
+      "title": "What you need to know about Karnataka’s Rohith Vemula Bill - The Hindu",
+      "url": "https://www.thehindu.com/videos/what-you-need-to-know-about-karnatakas-rohith-vemula-bill/article70973147.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/videos/mig3vq/article70973141.ece/alternates/LANDSCAPE_1200/Rohit-Vemula-bill-explainer-thumbnail.jpg",
+      "scraped_at": "2026-05-13 07:43:22.145418",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka government",
+      "rephrased_article": "The **Karnataka** government has approved the revised **Rohith Vemula** Bill, 2026. The bill aims to prevent discrimination and injustice for students, faculty, and staff from scheduled castes and tribes (SC/ST) by guaranteeing equal access to education in all higher educational institutions across the state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58725,
+      "title": "Cong MLCs meet Surjewala, seeks clarity on leadership issue - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/cong-mlcs-meet-surjewala-seeks-clarity-on-leadership-issue/article70971333.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-13 00:10:07.901074",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**MLCs** from the **Congress** government in Karnataka met with **Randeep Singh Surjewala**, a **Congress** general secretary, in New Delhi to discuss potential leadership changes. The MLCs requested an early clarification on the issue and also demanded that at least five members be included in the state cabinet if there is a reshuffle.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58703,
+      "title": "ST delegation meets CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/st-delegation-meets-cm/article70970841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/31q5u6/article70971297.ece/alternates/LANDSCAPE_1200/CM%207.JPEG",
+      "scraped_at": "2026-05-12 22:48:44.070759",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, has promised to convene an all-party meeting to discuss the inclusion of a 56% reservation matrix in the Ninth Schedule of the Constitution.  He also assured **V.S. Ugrappa**, former MP and leader of the Samana Manaskara Vedike, that he will take an all-party delegation to **Prime Minister Narendra Modi** to advocate for this legislation. The state government has been working to overturn a legal stay on the 56% reservation, with legal experts being consulted and a special leave petition potentially filed in the Supreme Court.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58684,
+      "title": "AICC begins consultations with Kerala leaders in New Delhi to decide on Congress’ CM candidate - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/aicc-begins-consultations-with-kerala-leaders-in-new-delhi-to-decide-on-congress-chief-minister-candidate/article70968619.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/72xoay/article70968711.ece/alternates/LANDSCAPE_1200/AICC-summons-toGORFVFMNH.6.jpg.jpg",
+      "scraped_at": "2026-05-12 22:44:52.856918",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Rahul Gandhi**, **Sonia Gandhi**, and **Mallikarjun Kharge** met with top Kerala leaders in New Delhi on Tuesday to discuss the selection of a Chief Minister nominee for the state. The high command is seeking bipartisan support from former KPCC presidents, Congress MLAs-elect, and other key figures to restore organizational stability after the party's recent victory.  The meeting considered several potential candidates, including **K.C. Venugopal**, **V.D. Satheesan**, **Ramesh Chennithala**, and **Priyanka Gandhi Vadra**.  **K. Muraleedharan**, a KPCC insider, stated that the high command would consider popular opinion in addition to legislative party numbers when making their decision.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58660,
+      "title": "The challenge to not breach the limit - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/the-challenge-to-not-breach-the-limit/article70971397.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/xwjvu2/article70971559.ece/alternates/LANDSCAPE_1200/Karnataka.jpg",
+      "scraped_at": "2026-05-12 21:30:39.637193",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka government",
+      "rephrased_article": "**The Karnataka government** announced the resumption of public recruitment for 56,432 posts after a year-long hiatus due to reservation issues. The new quota matrix has been met with resentment from job aspirants and some groups, as it altered the overall reservation percentage and internal quotas for Scheduled Castes (SCs).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58639,
+      "title": "Election results 2026: Why welfare policies aren't winning polls in India like it used to",
+      "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f797/live/bdf1a730-ccf5-11f0-9fb5-5f3a3703a365.jpg",
+      "scraped_at": "2026-05-12 21:26:51.516646",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "India's welfare politics, once a key electoral tool, is facing challenges. While cash transfers and subsidized services have become the norm across parties, recent state elections suggest that extensive welfare delivery alone is no longer enough to secure incumbency.  **Mamata Banerjee's Trinamool Congress**, for example, lost power in West Bengal despite its women-centric welfare schemes. **The Bharatiya Janata Party** has capitalized on expanding welfare architecture, including women's self-help groups and administrative efficiency, while voters are increasingly demanding more than just welfare benefits.  Political scientists argue that this shift signifies a move from the floor of Indian politics to the ceiling, where parties must build coalitions around broader issues like job creation and economic mobility.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58630,
+      "title": "Two persons arrested for burglary in Tirupattur - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-for-burglary-in-tirupattur/article70970135.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-12 20:04:07.767801",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**G. Nagaraj**, 60, and **B. Vaishnavi**, 26, were arrested in Tirupattur for stealing gold jewelry, silver objects, and cash from the home of a retired government school teacher. The theft occurred on April 9th after the couple returned from Chennai.  **Shymala Devi**, Superintendent of Police, formed special teams to investigate the case, which included analyzing CCTV footage and tracing mobile phone signals. The suspects were apprehended in KGF Colony and are currently held at the sub-jail in Tirupattur.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58611,
+      "title": "LPG price surge pushes auto, taxi operators to seek subsidy for shift to CNG, EV - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/lpg-price-surge-pushes-auto-taxi-operators-to-seek-subsidy-for-shift-to-cng-ev/article70971124.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qi2lxk/article70971356.ece/alternates/LANDSCAPE_1200/demonetisation_25.jpg",
+      "scraped_at": "2026-05-12 17:41:11.329067",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "LPG price",
+      "rephrased_article": "**The Federation of Private Transport Associations** has urged the **State** and **Union governments** to provide financial assistance for auto and taxi operators to transition to CNG and electric vehicles. The federation cites rising LPG prices and supply concerns as reasons for their request, noting that drivers are willing to switch but face high conversion costs without government support.  The association has formally submitted representations to both the State Transport Department and the Union government seeking subsidies to ease the process.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58568,
+      "title": "Workers under CITU Karnataka demand revocation of Labour Codes, burn copies of the Act - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/workers-under-citu-karnataka-demand-revocation-of-labour-codes-burn-copies-of-the-act/article70969547.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/karnataka/bxowt0/article70969695.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-12%20at%2017.16.33.jpeg",
+      "scraped_at": "2026-05-12 12:31:35.889164",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Workers** across **Karnataka**, under the **Centre of Indian Trade Unions (CITU)**, protested against newly-implemented central labor codes. Protests involved burning copies of the codes and taking out processions, with demonstrations occurring at workplaces and district centers. The **CITU Karnataka State Committee** called for a state-wide protest on May 12, 2026, urging the government to not implement the codes in the state due to concerns about worker rights.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58562,
+      "title": "World Deadliest Snakes: King Cobra Capitals: 10 countries where the world’s deadliest snake thrives | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/king-cobra-capitals-10-countries-where-the-worlds-deadliest-snake-thrives/articleshow/131037890.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131038225,width-1280,height-720,imgsize-1673484,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-12 12:30:04.279515",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "King cobra",
+      "rephrased_article": "**King cobras**, the world's longest venomous snake, inhabit forests and wetlands across South and Southeast Asia.  Top countries with significant populations include India, Thailand, Indonesia, Malaysia, Myanmar, Bangladesh, Nepal, Vietnam, Cambodia, and China. These countries support diverse king cobra habitats, which are threatened by habitat loss, deforestation, and poaching.  Conservation efforts focus on protecting forest corridors and educating communities about safe coexistence with these fascinating creatures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Andaman"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "farmer_agriculture",
+        "protest_opposition"
       ]
     }
   ]

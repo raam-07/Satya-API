@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 05:06:10.257725",
+  "generated_at": "2026-05-23 08:25:50.687816",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,33 +8,121 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 18,
-    "articles_last_30d": 18
+    "total_articles": 61,
+    "articles_last_30d": 61
   },
   "top_cities_30d": {
-    "Delhi": 6,
-    "Kolkata": 1,
+    "Delhi": 13,
+    "Mumbai": 5,
+    "Hyderabad": 4,
+    "Ahmedabad": 4,
+    "Bengaluru": 3,
+    "Kolkata": 2,
+    "Surat": 2,
+    "Vadodara": 2,
     "Jaipur": 1,
-    "Agra": 1,
-    "Mumbai": 1,
-    "Patna": 1,
-    "Coimbatore": 1,
-    "Bengaluru": 1,
-    "Hyderabad": 1
+    "Agra": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 18,
-    "infrastructure": 9,
-    "economy": 6,
-    "education": 6,
-    "farmer_agriculture": 6,
-    "crime_violence": 5,
-    "protest_opposition": 4,
-    "health": 3,
-    "corruption_scam": 1,
+    "foreign_policy": 61,
+    "economy": 26,
+    "infrastructure": 22,
+    "protest_opposition": 15,
+    "education": 14,
+    "farmer_agriculture": 12,
+    "crime_violence": 11,
+    "corruption_scam": 7,
+    "health": 6,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61024,
+      "title": "Innovation begins with understanding the fundamentals: Prakash Balasubramanian - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/innovation-begins-with-understanding-the-fundamentals-prakash-balasubramanian/article71011412.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/f0qio8/article71012365.ece/alternates/LANDSCAPE_1200/10258_22_5_2026_20_5_29_2_KLB_NIRMAAN_FEST_2.JPG",
+      "scraped_at": "2026-05-23 00:16:00.842794",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "PDA Engineering College",
+      "rephrased_article": "**Prakash Balasubramanian**, senior director at **Infineon Technologies**, emphasized the importance of foundational knowledge for technological breakthroughs during the inauguration of \"Nirmaan Utsav\" in Kalaburagi city. He highlighted the evolution of technologies over decades and urged students to think innovatively. Deputy Commissioner of Police (Law and Order) Shaloo encouraged students to combine academic learning with practical experience and stay updated on emerging fields like drones, artificial intelligence, and cybersecurity. HKE Society president and MLC Shashil Namoshi noted that **PDA Engineering College** is nurturing future-ready students through events like \"Nirmaan Utsav.\"",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 61018,
+      "title": "Elected government has no role in Jammu demolitions, says Farooq Abdullah - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/elected-government-has-no-role-in-jammu-demolitions-says-farooq-abdullah/article71012124.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/khbfgh/article71012399.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000066A.jpg",
+      "scraped_at": "2026-05-23 00:14:34.200131",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Farooq Abdullah**, president of the **National Conference (NC)**, stated that the elected government has no involvement in the ongoing demolitions in Jammu.  He accused the opposition parties of pursuing anti-Gujjar policies and claimed that Gujjars and Bakerwals have historically protected the region's borders. **Gulam Ali Khatana**, a BJP Rajya Sabha member, countered by accusing the NC and Congress of neglecting the development of Gujjar and Pahari communities for decades. He praised the Modi government's efforts to empower these communities.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61008,
+      "title": "Vadodara to host Vibrant Gujarat Regional Conference in June - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/vadodara-to-host-vibrant-gujarat-regional-conference-in-june/article71011157.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-23 00:12:07.723742",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Gujarat",
+      "rephrased_article": "The **Vibrant Gujarat Regional Conference** (VGRC) will be held in Vadodara in the last week of June 2026, focusing on Central Gujarat's industrial strength and investment opportunities. The conference aims to highlight the region's contributions to manufacturing, including its dominance in sectors like transport equipment, auto components, pharmaceuticals, and beverages.  The event will attract stakeholders from industry, government, and academia, with a focus on tourism and culture. **Gujarat** is expected to showcase its strengths in these areas, including heritage sites like Sabarmati Ashram and the Statue of Unity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Ahmedabad",
+        "Surat",
+        "Vadodara",
+        "Rajkot"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
     {
       "id": 60950,
       "title": "Rubio's maiden India visit aims to repair strained ties; boost Quad cooperation - The Hindu",
@@ -544,6 +632,1110 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 59482,
+      "title": "UN event highlights India-Oman maritime ties through maiden voyage of stitched sail vessel - The Hindu",
+      "url": "https://www.thehindu.com/news/international/un-event-highlights-india-oman-maritime-ties-through-maiden-voyage-of-stitched-sail-vessel/article70986250.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/33o2vf/article70986335.ece/alternates/LANDSCAPE_1200/Malabar-shipwriGK1FDJN7D.3.jpg.jpg",
+      "scraped_at": "2026-05-16 08:26:24.371039",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Indian Navy**'s traditional stitched sail vessel, **INSV Kaundinya**, embarked on its maiden voyage from Porbandar to Muscat. The event, organized by the **Permanent Mission of India to the UN** and the **Oman Mission to the UN**, highlighted centuries-old maritime traditions and cooperation amidst global shipping disruptions.  Indian Navy Commodore Amit Srivastava, Commander Vikas Sheoran who skippered the vessel, and Expedition Officer Commander Y. Hemant Kumar attended the event. The voyage underscores India's ancient maritime trade routes connecting India with the Arabian Peninsula and East Africa, while Oman's Permanent Representative to the UN Omar Said Omar Alkathiri emphasized the shared history and the importance of cooperation in ocean governance.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 59466,
+      "title": "Fuel price hike negatively impacts economy, triggers rise in essential commodity prices: Telangana CM Revanth Reddy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/fuel-price-hike-negatively-impacts-economy-triggers-rise-in-essential-commodity-prices-telangana-cm-revanth-reddy/article70985978.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5rrue1/article70986112.ece/alternates/LANDSCAPE_1200/CM-says-his-comGO1FJF2S6.4.jpg.jpg",
+      "scraped_at": "2026-05-16 06:29:56.087297",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Union Government",
+      "rephrased_article": "**A Revanth Reddy**, **Telangana Chief Minister**, criticized the **Union Government’s** decision to increase petrol and diesel prices, arguing it would negatively impact the economy and ordinary citizens. He accused the government of mismanaging the economy through “inefficient governance” and “ill-conceived policies,” claiming that the fuel price hike was a breach of public trust and a misleading tactic for electoral gains.  He demanded the immediate withdrawal of the increase.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 59423,
+      "title": "Insensitivity and lack of concern, alleges Congress on Center’s silence over U.P. storm deaths - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/insensitivity-and-lack-of-concern-alleges-congress-on-centers-silence-over-up-storm-deaths/article70983868.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kt0mtv/article70985069.ece/alternates/LANDSCAPE_1200/20260511350L.jpg",
+      "scraped_at": "2026-05-15 23:58:55.500064",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Union Government",
+      "rephrased_article": "Following a powerful storm that killed at least 111 people in Uttar Pradesh, the **Uttar Pradesh** government directed Ministers to assess the situation and provide financial assistance. The **Congress** party criticized the **Union Government's** lack of response, highlighting the condolences from Russian President Vladimir Putin as evidence of their insensitivity.  The **Uttar Pradesh** Chief Minister Yogi Adityanath announced a ₹4 lakh compensation for families who lost loved ones and directed officials to ensure relief for farmers and livestock owners.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "farmer_agriculture",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59345,
+      "title": "No question of putting such restrictions: PM Modi dismisses reports of govt mulling tax on foreign travel - The Hindu",
+      "url": "https://www.thehindu.com/news/national/no-question-of-putting-such-restrictions-on-foreign-travel-pm-modi-dismisses-reports-of-govt-mulling-taxation-on-foreign-travel/article70984620.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bjruuf/article70984627.ece/alternates/LANDSCAPE_1200/20260506172L.jpg",
+      "scraped_at": "2026-05-15 17:48:42.347236",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** denied reports that the government is considering taxes on foreign travel, stating there is \"no question of putting such restrictions on foreign travel.\"  The Prime Minister's denial followed a report suggesting the government was discussing levying a tax or surcharge on foreign travel. **Modi** emphasized his commitment to improving \"Ease of Doing Business\" and \"Ease of Living\" for citizens while urging them to adopt austerity measures amidst the ongoing crisis in West Asia.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 59317,
+      "title": "Deputy Chairman Pranesh writes to Chikkamagaluru SP to take back escort vehicle - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/deputy-chairman-pranesh-writes-to-chikkamagaluru-sp-to-take-back-escort-vehicle/article70984282.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-15 15:40:45.539587",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Deputy Chairman of the Legislative Council, M.K. Pranesh**, has requested the withdrawal of his official escort vehicle in response to **Prime Minister Narendra Modi’s** call for austerity measures.  Pranesh, who represents local bodies in Chikkamagaluru, stated he was voluntarily giving up the vehicle as a way to reduce fuel consumption and contribute to national efforts to conserve resources.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 59308,
+      "title": "DMRC rolls out hydrogen buses in Central Vista - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/dmrc-rolls-out-hydrogen-buses-in-central-vista/article70982911.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nqllwi/article70982955.ece/alternates/LANDSCAPE_1200/BUS%20FLAGOFF_15_05_11.jpg",
+      "scraped_at": "2026-05-15 13:20:59.383837",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Delhi Metro Rail Corporation (DMRC)**, in collaboration with the **Ministry of Housing and Urban Affairs** and the **Ministry of Petroleum and Natural Gas**, launched a hydrogen-powered shuttle bus service in Delhi's Central Vista area on May 15, 2026. The service, which will operate during peak office hours from Monday to Friday, aims to promote green hydrogen as a clean fuel alternative and strengthen environment-friendly public transport solutions. **Dr. Amit Kumar Jain**, DMRC Director (Operations and Services), received the ceremonial keys of the buses from **Arvind Kumar**, **Indian Oil Corporation** Director (Refinery).",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 59301,
+      "title": "Indian magnate Adani agrees to multi-million-dollar penalty in US court case - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2000436/indian-magnate-adani-agrees-to-multi-million-dollar-penalty-in-us-court-case",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/15125323a86b3fd.webp",
+      "scraped_at": "2026-05-15 13:19:13.383480",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Adani",
+      "rephrased_article": "**Gautam Adani**, chairman of the **Adani Group**, agreed to pay a $18 million civil penalty in a US court case related to bribery allegations. The settlement, without admitting guilt, comes as US prosecutors are reportedly set to drop charges against Adani.  The case involved accusations that Adani and his subordinates misled investors about lucrative solar energy contracts obtained through bribes paid to Indian officials.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
+    {
+      "id": 59237,
+      "title": "PM Modi UAE visit LIVE: PM Modi embarks on six-day visit to UAE, 4 European nations - The Hindu",
+      "url": "https://www.thehindu.com/news/national/narendra-modi-five-nation-tour-live-updates-uae-netherlands-sweden-norway-italy-west-asia-crisis-may-15-2026/article70981387.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/4ko1x4/article70981592.ece/alternates/LANDSCAPE_1200/Untitled%20design%2043.png",
+      "scraped_at": "2026-05-15 05:38:56.886020",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "PM Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** embarked on a six-day diplomatic tour to the United Arab Emirates (UAE), the Netherlands, Sweden, Norway and Italy. The purpose of his trip is to strengthen bilateral ties amid geopolitical tensions, with a focus on enhancing India's energy security. **President Sheikh Mohamed bin Zayed Al Nahyan** will host **Modi** in the UAE, where they will discuss the ongoing West Asia conflict and advance their comprehensive strategic partnership.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 59233,
+      "title": "Will lead to further inflation, growth estimates will be lowered considerably: Congress on fuel hike - The Hindu",
+      "url": "https://www.thehindu.com/news/national/will-lead-to-further-inflation-growth-estimates-will-be-lowered-considerably-congress-on-fuel-hike/article70981584.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9cqh18/article70981635.ece/alternates/LANDSCAPE_1200/_NGP2529.JPG",
+      "scraped_at": "2026-05-15 05:37:47.683666",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Modi government",
+      "rephrased_article": "The **Congress** criticized the **Modi government** for increasing petrol and diesel prices, claiming it will exacerbate inflation and lower growth estimates. The party's general secretary, **Jairam Ramesh**, stated that despite falling international oil prices for years, domestic prices remained high, leading to consumer exploitation.  Fuel prices were hiked by ₹3 per litre each on Friday (May 15, 2026), marking the first increase in over four years and coming after a period of price freezes. The hike was attributed to rising global crude prices triggered by the West Asia conflict and is expected to impact inflation and growth estimates.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Chennai",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 59224,
+      "title": "Compromised PM didn't sign trade deal with U.S., but a bargain for Adani's release: Rahul - The Hindu",
+      "url": "https://www.thehindu.com/news/national/compromised-pm-didnt-sign-trade-deal-with-us-but-a-bargain-for-adanis-release-rahul/article70981631.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hro665/article70981657.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000296B.jpg",
+      "scraped_at": "2026-05-15 05:35:23.222877",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Rahul Gandhi** accused **Prime Minister Narendra Modi** of negotiating a trade deal with the U.S. to secure the release of billionaire businessman **Gautam Adani**.  The **U.S.** government agreed to settle a lawsuit against **Adani**, who was accused of bribery in connection with a solar energy project. Congress general secretary in-charge communications **Jairam Ramesh** criticized the deal, suggesting it was a \"bargain\" for **Adani's release\".",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59209,
+      "title": "Semi-high-speed train project to turn Gujarat into manufacturing and logistics hub: Amit Shah - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/semi-high-speed-train-project-to-turn-gujarat-into-manufacturing-and-logistics-hub-amit-shah/article70979514.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/m66yus/article70980498.ece/alternates/LANDSCAPE_1200/20260510378L.jpg",
+      "scraped_at": "2026-05-15 01:30:15.301460",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Amit Shah**, **Union Home Minister**, announced that the Cabinet approved a ₹20,667 crore Ahmedabad (Sarkhej)-Dholera semi-high-speed double rail line project. The project will connect Ahmedabad to Dholera Special Investment Region and Greenfield Industrial Smart City, creating employment opportunities and positioning Gujarat as a global manufacturing hub.  **Shah** also lauded the Cabinet's decision to upgrade and modernize the Nagpur International Airport and a ₹37,500 crore scheme for surface coal and lignite gasification projects, which will contribute to India's economic growth and job creation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 59197,
+      "title": "Remove import duty on cotton to ensure supply, CM Vijay urges Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/remove-import-duty-on-cotton-to-ensure-supply-cm-vijay-urges-modi/article70979198.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rjro6e/article70980275.ece/alternates/LANDSCAPE_1200/20260512105L.jpg",
+      "scraped_at": "2026-05-14 23:37:02.208188",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, urged **Prime Minister Narendra Modi** to remove the 11% import duty on cotton to ensure raw material availability for the textile and apparel industry.  He cited the increase in cotton prices and yarn prices as a result of reduced production and increased trading activity, arguing that duty-free imports would help meet export commitments and protect jobs. The textile and apparel sector is a major employment generator, with **Vijay** emphasizing the government's responsibility to safeguard this sector.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 59184,
+      "title": "CM Fadnavis’ bike ride draws Opposition ire - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/cm-fadnavis-bike-ride-draws-opposition-ire/article70979916.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8pr2pb/article70980490.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000161B.jpg",
+      "scraped_at": "2026-05-14 23:34:01.335760",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Sharad Pawar",
+      "rephrased_article": "**Devendra Fadnavis**, the **Maharashtra** Chief Minister, rode a motorbike to Vidhan Bhavan after Prime Minister **Narendra Modi** called for austerity measures. The move drew criticism from the Opposition who urged Ministers to use public transport instead.  **Sharad Pawar**, NCP SP president, questioned the timing of the austerity measures and demanded an all-party meeting with the Prime Minister. He also criticized the State Government ministers' language towards **Rahul Gandhi**, the Leader of Opposition in Parliament.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Eknath Shinde",
+        "Devendra Fadnavis",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59158,
+      "title": "Efforts on to release Kuki, Naga people held hostage in Manipur, say Ministers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/manipur/manipur-home-minister-on-manipur-violence/article70978148.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/57k1vx/article70978248.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000207B.jpg",
+      "scraped_at": "2026-05-14 22:20:39.167558",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Kuki, Naga people",
+      "rephrased_article": "Following the killings of four church leaders in separate ambushes, **Govindas Konthoujam**, **Losii Dikho** and other officials confirmed that at least 38 people from the Kuki and Naga communities are being held hostage by various groups.  The attacks occurred in the Kuki-dominated Kangpokpi district and the Naga-majority Noney district. The Deputy Chief Minister stated that talks were ongoing with both Kuki and Naga groups, but no resolution was reached. **Angomcha Bimol Akoijam**, a Manipur Congress MP, criticized the government's handling of the situation.  The United Naga Council (UNC) issued an ultimatum to the state government demanding the release of 20 hostages held by Kuki groups.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Manipur"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "health",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59148,
+      "title": "Indian pharma fuels Africa's 'zombie drug' and opioid crisis despite crackdown - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2000191/indian-pharma-fuels-africas-zombie-drug-and-opioid-crisis-despite-crackdown",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/1414112934d6cb8.webp",
+      "scraped_at": "2026-05-14 22:18:16.368173",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Indian pharmaceutical companies are exporting high-strength tapentadol tablets to west Africa despite a crackdown on illegal drug trade. The pills, which are often sold as tramadol and are much stronger than approved doses, are fueling a deadly opioid epidemic in the region.  The pills are being added to \"zombie drugs\" like kush, leading to increased addiction and health problems, including deaths from overdoses.  While India claims it has banned exports of tapentadol mixed with other drugs, shipments continue despite warnings from government officials in Nigeria, Sierra Leone, and Ghana. The Indian Drug Manufacturers’ Association defends the trade, stating that manufacturers are not responsible for what happens after their products leave their facilities. Experts warn that the lack of regulation and enforcement in Africa allows unscrupulous companies to exploit the market, leading to widespread misuse of the drug.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 59140,
+      "title": "U.S. to drop graft charges against Gautam Adani: NY Times - The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/us-authorities-move-to-resolve-fraud-cases-against-gautam-adani-says-report/article70980105.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/px8v5i/article70980117.ece/alternates/LANDSCAPE_1200/20260501131L_iCCmw2g.jpg",
+      "scraped_at": "2026-05-14 22:16:22.868611",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Gautam Adani",
+      "rephrased_article": "**U.S.** prosecutors are dropping charges against **Gautam Adani**, the chairman of the **Adani Group**, who was accused of bribing Indian officials for solar energy contracts.  The move, brought under the **Biden** administration, followed a meeting between **Adani’s** lawyers and prosecutors at the Department of Justice where **Giuffra**, one of **President Donald Trump's** personal lawyers, presented proposals for an investment in the American economy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 59133,
+      "title": "Sri Lanka’s Fisheries Minister urges CM Vijay to ban bottom trawling - The Hindu",
+      "url": "https://www.thehindu.com/news/international/sri-lankas-fisheries-minister-urges-cm-vijay-to-ban-bottom-trawling/article70979174.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/otjbii/article70980299.ece/alternates/LANDSCAPE_1200/IMG_Ramalingam_Chandrase_2_1_AODN89BL.jpg",
+      "scraped_at": "2026-05-14 21:01:21.073696",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu",
+      "rephrased_article": "**Sri Lanka’s** Fisheries Minister Ramalingam Chandrasekar urged **Tamil Nadu Chief Minister C. Joseph Vijay** to ban bottom trawling fishing, a practice prohibited in Sri Lanka since 2017, as he believes it is the root cause of ongoing conflict between the two states.  Chandrasekar expressed hope for diplomatic resolution and a meeting with Vijay, congratulating him on his recent election win. He praised Vijay's letter to **External Affairs Minister S. Jaishankar** seeking intervention in the release of six Tamil Nadu fishermen arrested by the Sri Lankan Navy for fishing illegally in Sri Lankan waters. Chandrasekar stated that arrests are made because bottom trawling destroys marine resources and threatens livelihoods, emphasizing the need for a ban on this practice in Tamil Nadu to prevent future conflicts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59059,
+      "title": "Watch: Congress ends suspense: V. D. Satheesan to be next Kerala CM | Above the Fold | 14.05.2026 - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-congress-ends-suspense-v-d-satheesan-to-be-next-kerala-cm-above-the-fold-14052026/article70979266.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/qdz1l4/article70979689.ece/alternates/LANDSCAPE_1200/MAY%2014%20THUMB.png",
+      "scraped_at": "2026-05-14 15:31:50.169805",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Kerala Congress** named V.D. Satheesan as its new Chief Minister after weeks of internal discussions, ending months of uncertainty.  The **BRICS Foreign Ministers’ meeting**, hosted by India in New Delhi, saw **External Affairs Minister S. Jaishankar** address key global challenges and diplomatic priorities.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 59027,
+      "title": "MoS Arjun Ram Meghwal takes e-rickshaw ride in Rajasthan’s Bikaner to promote fuel conservation - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/mos-arjun-ram-meghwal-takes-e-rickshaw-ride-in-rajasthans-bikaner-to-promote-fuel-conservation/article70977759.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/swgfx4/article70977762.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000152B.jpg",
+      "scraped_at": "2026-05-14 11:04:13.554032",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Arjun Ram Meghwal**, Union Minister of State for Law and Justice, traveled to his residence in Bikaner by e-rickshaw on Thursday to promote fuel conservation.  He joined **Prime Minister Narendra Modi's** call for austerity measures amidst global energy crises. Rajasthan Chief Minister **Bhajanlal Sharma** has also reduced the number of vehicles in his convoy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58988,
+      "title": "Last date to buy these 12 stocks for dividends, bonus issues and more. Do you own any? - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/last-date-to-buy-these-12-stocks-for-dividends-bonus-issues-and-more-do-you-own-any/articleshow/131082429.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131082442,width-1200,height-630,imgsize-2147247,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-14 05:19:07.333280",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "other",
+      "rephrased_article": "**SEBI**’s T+1 settlement rule means investors must buy shares by today to be eligible for corporate actions. **SBI**, the largest lender in India, will pay a dividend of Rs 17.35 per share tomorrow. Other companies with ex-dividend dates include **Anand Rathi Wealth**, **IEX**, and several others that have set May 15 as their record date for dividends. **Biogen Pharmachem Industries** will issue a 1:6 bonus, while **Dev Labtech Venture** will go ex-record date for its 1:1 bonus and stock split.  Stocks like **Steelco Gujarat** and **Onix Solar Energy** will turn ex-record date for their rights issues tomorrow.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58949,
+      "title": "Women’s coalition urges speedy implementation of 33% reservation - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/womens-coalition-urges-speedy-implementation-of-33-reservation/article70975106.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-14 01:30:16.611452",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "women's reservation Act",
+      "rephrased_article": "**Members of the National Coalition for Women’s Reservation-Karnataka** have called on the government to immediately implement the women's reservation Act, arguing that linking it to future Census and delimitation exercises is delaying progress. They criticized the delay in delivering equal political representation for women, who constitute 50% of the population, and questioned the need to link implementation with these processes.  The coalition has been advocating for the Act's implementation since 1996 and has intensified nationwide mobilization efforts to achieve this goal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58934,
+      "title": "Odisha CM reduces number of vehicles in his convoy by half - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-reduces-number-of-vehicles-in-his-convoy-by-half/article70974940.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/k20590/article70976002.ece/alternates/LANDSCAPE_1200/90092_7_8_2025_21_34_0_1_ODISHA_HANDLOOMS_MADHURI_DIXIT_4.JPG",
+      "scraped_at": "2026-05-13 23:13:49.733431",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Odisha Chief Minister Mohan Charan Majhi** has ordered a reduction of half the vehicles in his personal security convoy, following **Prime Minister Narendra Modi's** appeal for citizens to adopt cost-cutting measures due to global oil crisis.  Majhi also urged the public to minimize private vehicle use and prioritize public transport, advising against unnecessary travel and gold purchases.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58904,
+      "title": "Modi cuts motorcade size to save fuel amid mounting economic pressure - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1999923/modi-cuts-motorcade-size-to-save-fuel-amid-mounting-economic-pressure",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/13143638d45b3a3.webp",
+      "scraped_at": "2026-05-13 21:58:11.249737",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Narendra Modi**, the Indian Prime Minister, has significantly reduced the size of his motorcade to save fuel in response to soaring energy prices triggered by the Iran war.  Following a public appeal for austerity measures, including reducing foreign travel and oil consumption, **Modi** scaled down motorcades for visits to Gujarat and Assam, while also requesting electric vehicles be included where possible. The government source declined to specify the exact size of the reduced motorcade but confirmed essential security components were maintained in line with protocol.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58863,
+      "title": "Harshkumar Patel seeks to quash conviction in case linked to Indian family’s freezing deaths at US-Canada border - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/harshkumar-patel-seeks-to-quash-conviction-in-case-linked-to-indian-familys-freezing-deaths-at-uscanada-border/articleshow/131076337.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131076437,width-1280,height-720,imgsize-52844,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-13 20:20:29.544967",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Harshkumar Patel",
+      "rephrased_article": "**Harshkumar Patel**, a man convicted in a human smuggling case linked to the deaths of an Indian family near the US-Canada border, has appealed his conviction and sentence. He claims legal errors impacted his trial, specifically regarding jury instructions and sentencing. **Patel**, who is now representing himself, seeks to vacate all convictions or overturn selected charges and resentencing. His co-accused, **Steve Shand**, also filed an appeal challenging his conviction and sentence, arguing that the traffic stop leading to his arrest was unlawful and that he was unaware of the smuggling operation's leader's decision to cross a family with young children in dangerous conditions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58853,
+      "title": "Lawrence Bishnoi gang stakes claim on gunfire outside Diljit Dosanjh's manager in Karnal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/lawrence-bishnoi-gang-stakes-claim-on-gunfire-outside-diljit-dosanjhs-manager-in-karnal/article70974236.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9dev0n/article70975727.ece/alternates/LANDSCAPE_1200/IMG_20230418145L_2_1_A1EVEMI8.jpg",
+      "scraped_at": "2026-05-13 18:30:16.389348",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lawrence Bishnoi gang",
+      "rephrased_article": "**Punjab Finance Minister Harpal Singh Cheema** alleged that the **Lawrence Bishnoi gang** was responsible for an alleged firing incident outside the residence of Diljit Dosanjh's manager in Haryana.  **Tyson Bishnoi, Arzoo Bishnoi, and Hari Boxer**, purportedly acting on behalf of the **Bishnoi gang**, claimed responsibility for the incident via social media. **Cheema** accused the **BJP** of using gangsters to intimidate Punjabis who refuse to join their party. The **Haryana Police** have not received a complaint from the manager or his family and found no evidence at the scene.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Haryana",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58806,
+      "title": "Rupee hits all-time low of 95.74 vs USD as outflows, oil risks weigh on outlook - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-past-95-73-per-us-dollar-to-hit-lifetime-low-as-persistent-outflows-wipe-comfort-from-gold-duty-hike/articleshow/131059422.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131059447,width-1200,height-630,imgsize-25206,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-13 13:21:34.577549",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "rupee",
+      "rephrased_article": "The **rupee** weakened against the US dollar, reaching its new all-time low of 95.7450 per dollar.  Rising energy prices due to the U.S.-Iran war have contributed to India's macroeconomic challenges, prompting economists to revise growth forecasts and inflation projections. **Prime Minister Narendra Modi** has urged measures to conserve foreign exchange reserves, while the central government implemented tariffs on precious metal imports to stabilize the rupee. The **Reserve Bank of India (RBI)** Governor Sanjay Malhotra stated that India’s monetary policy can address temporary supply shocks but may intervene if inflationary pressures persist.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58792,
+      "title": "In a major reshuffle, 72 IAS officers transferred by Gujarat government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/in-a-major-reshuffle-72-ias-officers-transferred-by-gujarat-government/article70973526.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-13 10:40:10.005731",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Gujarat government",
+      "rephrased_article": "The **Gujarat** government transferred 72 Indian Administrative Service (IAS) officers on Wednesday, May 13, 2026.  **D.N. Modi**, the Municipal Commissioner of Jamnagar, was appointed Development Commissioner in Gandhinagar, while **Anand Patel**, Collector of Kutch-Bhuj, became Commissioner of Schools and also took charge as Director of the Gujarat Council of Education Research and Training (GCERT). Other notable transfers included **Sujeet Kumar** to Special Commissioner of State Tax, Ahmedabad.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Surat",
+        "Vadodara"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 58782,
+      "title": "Manappuram Finance, IIFL Finance, other stocks rally up to 11% as gold prices soar after import duty hike - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/manappuram-finance-iifl-finance-other-stocks-rally-up-to-11-as-gold-prices-soar-after-import-duty-hike/articleshow/131060298.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131060477,width-1200,height-630,imgsize-129204,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-13 10:37:22.827679",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prime Minister Narendra Modi** urged citizens to reduce non-essential gold purchases, citing the need to stabilize the rupee and reduce imports. **India**'s government implemented a hike in import duties on gold to address these concerns. This move is expected to decrease precious metal imports, support the rupee, and narrow the trade deficit.  The rise in gold prices has positively impacted gold financing firms like **Muthoot Finance**, **Manappuram Finance**, and **IIFL Finance** as their loans are secured by gold.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Mumbai",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58780,
+      "title": "AIADMK legislature party splits vertically during trust vote in Tamil Nadu Assembly - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-legislature-party-splits-vertically-during-trust-vote-in-tn-assembly-25-voted-in-favour-of-tvk-govt-22-voted-against/article70973315.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wz4dak/article70973681.ece/alternates/LANDSCAPE_1200/20260513079L.jpg",
+      "scraped_at": "2026-05-13 10:36:49.625040",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "AIADMK",
+      "rephrased_article": "The **All India Anna Dravida Munnetra Kazhagam (AIADMK)** legislature party in Tamil Nadu experienced a significant split during a trust vote.  **25 MLAs**, led by rebel leader S.P. Velumani, voted in favor of the motion moved by Chief Minister C. Joseph Vijay while 22 MLAs, led by AIADMK general secretary Edappadi K. Palaniswami, voted against it. The division within the party highlights a growing rift between factions within the AIADMK.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58765,
+      "title": "Hindustan Zinc shares surge 5% as silver prices near Rs 3 lakh/kg after import duty hike; Vedanta shares jump 4% - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-surge-5-as-silver-prices-near-rs-3-lakh/kg-after-import-duty-hike-vedanta-shares-jump-4/articleshow/131056130.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131058482,width-1200,height-630,imgsize-28336,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-13 07:45:28.644643",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prime Minister Narendra Modi** urged citizens to reduce purchases of non-essential gold and silver over the next year to alleviate pressure on foreign exchange reserves and imports. This policy measure led to a surge in import duty on silver, resulting in a 6% jump in MCX silver futures prices and a 6% rise in gold futures prices. **Hindustan Zinc**, India's largest silver producer, saw its share price climb over 5%, while **Vedanta** shares also rose significantly.  The government's push for infrastructure development is expected to boost steel demand, benefiting companies like **Hindustan Zinc**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58764,
+      "title": "PM austerity appeal: State leaders take steps to limit their fuel use - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-austerity-appeal-state-leaders-take-steps-to-limit-their-fuel-use/article70973021.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rmks0l/article70973050.ece/alternates/LANDSCAPE_1200/PTI05_13_2026_000040B.jpg",
+      "scraped_at": "2026-05-13 07:45:10.080900",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi**, **Union Home Minister Amit Shah**, and several other state chief ministers have implemented measures to reduce fuel consumption in response to the West Asia crisis.  These include reducing convoy sizes, promoting electric vehicles, and encouraging public transport use. **Yogi Adityanath**, **Rekha Gupta**, **Mohan Yadav**, and others have also taken steps to promote sustainability within their respective states.  **Devendra Fadnavis**, **Harsh Sanghavi**, and **Acharya Devvrat** have implemented similar measures in Maharashtra, Gujarat, and Bihar respectively.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Yogi Adityanath",
+        "Yogi",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "infrastructure",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58740,
+      "title": "Kalyan Jewellers, Titan, other jewellery stocks crash up to 6% as Centre hikes gold customs duty to 15% - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/titan-kalyan-jewellers-other-jewellery-stocks-in-focus-as-centre-hikes-gold-customs-duty-to-15/articleshow/131053651.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131053715,width-1200,height-630,imgsize-99318,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-13 04:35:52.100720",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Indian government** has significantly increased customs duty on gold and silver imports, raising the effective import tax to 15% from 6%.  This move is expected to dampen demand in the jewelry sector, potentially leading to higher domestic prices and reduced consumer spending.  While organized players may fare better than smaller unorganized jewellers due to their stronger brands and inventory management, the increase could still negatively impact sales. The decision comes after Prime Minister Modi urged citizens to reduce gold purchases and curb imports, which have already fallen significantly in recent weeks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 58733,
+      "title": "Tata Power shares crash 7% after Q4. What are Goldman Sachs and Motilal Oswal saying? - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-crash-7-after-q4-what-are-goldman-sachs-and-motilal-oswal-saying/articleshow/131054022.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131054256,width-1200,height-630,imgsize-55168,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-13 04:33:46.269831",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Tata Power",
+      "rephrased_article": "**Tata Power's** revenue for the March quarter declined 13% year-on-year to Rs 14,900 crore. However, EBITDA rose 10% to Rs 4,216 crore. The renewable energy segment contributed significantly to growth, with profit after tax before exceptional items rising 59% year-on-year.  Brokerage firms like Goldman Sachs and Motilal Oswal Financial Services maintain \"Sell\" and \"Buy\" ratings respectively on **Tata Power**, highlighting the company's strong long-term growth potential in rooftop solar and distribution, while acknowledging challenges with renewable energy generation execution.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58727,
+      "title": "Opposition parties are spreading panic over PM’s voluntary, precautionary appeal: BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/opposition-parties-are-spreading-panic-over-pms-voluntary-precautionary-appeal-bjp/article70971181.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/u1pmt5/article70971363.ece/alternates/LANDSCAPE_1200/PTI02_21_2025_000164B.jpg",
+      "scraped_at": "2026-05-13 00:10:50.901986",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **Bharatiya Janata Party (BJP)** criticized opposition parties, accusing them of spreading misinformation about Prime Minister **Narendra Modi**’s call for voluntary gold purchases and foreign travel restrictions.  **BJP spokesperson Gaurav Bhatia** stated that the government has taken measures to protect India's economy and there is no shortage of essential commodities.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58720,
+      "title": "Vijay urges Union Minister to secure the release of six T.N. fisherfolk arrested by Lankan Navy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-urges-union-minister-to-secure-the-release-of-six-tn-fisherfolk-arrested-by-lankan-navy/article70969455.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h9ipg8/article70971503.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000130B.jpg",
+      "scraped_at": "2026-05-13 00:08:16.374631",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Sri Lankan Navy",
+      "rephrased_article": "**Tamil Nadu** Chief Minister C. Joseph Vijay requested the **Union Minister for External Affairs S. Jaishankar** to use diplomatic channels to secure the early release and safe repatriation of six Tamil Nadu fishermen arrested by the **Sri Lankan Navy** on May 10th for allegedly crossing the International Maritime Boundary Line while fishing. The fishermen, identified as Alex, Anthoni Rajan, Santhana Alocias, Arul They Britto, Albert, and Sahaya Selvashanu, were apprehended along with their fishing boat.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58703,
+      "title": "ST delegation meets CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/st-delegation-meets-cm/article70970841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/31q5u6/article70971297.ece/alternates/LANDSCAPE_1200/CM%207.JPEG",
+      "scraped_at": "2026-05-12 22:48:44.070759",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, has promised to convene an all-party meeting to discuss the inclusion of a 56% reservation matrix in the Ninth Schedule of the Constitution.  He also assured **V.S. Ugrappa**, former MP and leader of the Samana Manaskara Vedike, that he will take an all-party delegation to **Prime Minister Narendra Modi** to advocate for this legislation. The state government has been working to overturn a legal stay on the 56% reservation, with legal experts being consulted and a special leave petition potentially filed in the Supreme Court.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58612,
+      "title": "Gold, housing plays take a hit as PM Modi's austerity pitch rattles consumer-facing stocks - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-housing-plays-take-a-hit-as-modis-austerity-pitch-rattles-consumer-facing-stocks/articleshow/131036677.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131041916,width-1200,height-630,imgsize-109054,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-12 17:41:30.212984",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "PM Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi's** recent advice to work from home to reduce fuel consumption sparked a market reaction, impacting sectors like jewellery and real estate. **Titan Company Limited**, **Kalyan Jewellers India Limited**, and **Senco Gold Limited** saw significant declines in their share prices during intraday trading.  Analysts suggest the selloff is driven by sentiment rather than structural demand concerns, as gold remains expensive and crude oil prices remain high.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58611,
+      "title": "LPG price surge pushes auto, taxi operators to seek subsidy for shift to CNG, EV - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/lpg-price-surge-pushes-auto-taxi-operators-to-seek-subsidy-for-shift-to-cng-ev/article70971124.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qi2lxk/article70971356.ece/alternates/LANDSCAPE_1200/demonetisation_25.jpg",
+      "scraped_at": "2026-05-12 17:41:11.329067",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "LPG price",
+      "rephrased_article": "**The Federation of Private Transport Associations** has urged the **State** and **Union governments** to provide financial assistance for auto and taxi operators to transition to CNG and electric vehicles. The federation cites rising LPG prices and supply concerns as reasons for their request, noting that drivers are willing to switch but face high conversion costs without government support.  The association has formally submitted representations to both the State Transport Department and the Union government seeking subsidies to ease the process.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 58538,
+      "title": "NSUI protests after NTA cancels NEET-UG 2026 over paper leak - The Hindu",
+      "url": "https://www.thehindu.com/news/national/nsui-protests-after-nta-cancels-neet-ug-2026-over-paper-leak/article70969236.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8rkx69/article70969256.ece/alternates/LANDSCAPE_1200/PTI05_12_2026_000134B.jpg",
+      "scraped_at": "2026-05-12 10:09:39.615979",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "NTA",
+      "rephrased_article": "A massive protest organized by the **National Students' Union of India (NSUI)** erupted outside the **Shastri Bhawan** on Tuesday, May 12, 2026, demanding justice for students alleging a paper leak in the NEET-UG exam.  The protest saw members of the **Congress party's student wing** participate, holding signs and slogans criticizing the government's handling of the situation. The **National Testing Agency (NTA)** canceled the examination following investigations by the **Rajasthan Special Operations Group (SOG) and the CBI**.  The NSUI accused the central government of failing to protect students and demanded the resignation of **Union Education Minister Dharmendra Pradhan** and a ban on the **NTA**.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "health",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58528,
+      "title": "Assam swearing-in LIVE: Himanta Biswa Sarma takes oath as Assam CM; Four MLAs sworn in as Ministers - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-bjp-government-formation-himanta-biswa-sarma-swearing-in-oath-ceremony-live-updates-may-12-2026/article70968167.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/610qgk/article70968733.ece/alternates/LANDSCAPE_1200/20260512028L.jpg",
+      "scraped_at": "2026-05-12 07:29:42.619275",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Himanta Biswa Sarma** was sworn in as the Chief Minister of Assam for a second consecutive term on Tuesday, May 2, 2026. **Governor Lakshman Prasad Acharya** administered the oath of office at a ceremony held at the Veterinary Ground in Guwahati.  Joining **Sarma** were four other MLAs who took oaths as Ministers: **Rameswar Teli**, **Ajanta Neog**, **Atul Bora**, and **Charan Boro**. The event was attended by prominent figures including **Prime Minister Narendra Modi**, **Union Ministers Amit Shah, Rajnath Singh, Nitin Gadkari, Sarbananda Sonowal, Pabitra Margherita**, and **BJP president Nitin Nabin**. This marks the formation of a third successive NDA government in the state.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Rajnath Singh",
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]
