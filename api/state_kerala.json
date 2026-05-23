@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22 23:06:31.615277",
+  "generated_at": "2026-05-23 05:06:10.259742",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,25 +8,25 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 15,
-    "articles_last_30d": 15
+    "total_articles": 19,
+    "articles_last_30d": 19
   },
   "top_cities_30d": {
+    "Delhi": 2,
+    "Bengaluru": 2,
     "Hyderabad": 1,
-    "Delhi": 1,
-    "Bengaluru": 1,
     "Chennai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 13,
-    "education": 7,
-    "protest_opposition": 5,
-    "economy": 3,
-    "infrastructure": 3,
-    "crime_violence": 3,
-    "health": 3,
+    "foreign_policy": 17,
+    "education": 8,
+    "protest_opposition": 7,
+    "economy": 4,
+    "infrastructure": 4,
+    "crime_violence": 4,
+    "health": 4,
+    "corruption_scam": 2,
     "rape_sexual_crime": 1,
-    "corruption_scam": 1,
     "farmer_agriculture": 1
   },
   "recent_articles": [
@@ -418,6 +418,118 @@
       "topic_tags": [
         "health",
         "education"
+      ]
+    },
+    {
+      "id": 59607,
+      "title": "NEET paper leak row: Congress demands resignation of Education Minister Dharmendra Pradhan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/neet-paper-leak-row-rahul-gandhi-demands-dharmendra-pradhans-removal/article70987362.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dhnegh/article70987418.ece/alternates/LANDSCAPE_1200/2315_20_4_2026_14_28_35_2_RAHUL3.JPG",
+      "scraped_at": "2026-05-16 17:04:49.980878",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Congress** leaders demanded the resignation of **Dharmendra Pradhan**, the **Union Education Minister**, over the NEET-UG paper leak scandal.  They accused the government of a \"money-making racket\" involving people linked to the ruling establishment and claimed that the incident had caused immense trauma for 22 lakh students. **Rahul Gandhi** called for the Prime Minister's intervention, while **Mallikarjun Kharge**, the Congress president, alleged that the Modi government was undermining student credibility through repeated paper leaks.  **Jairam Ramesh**, a Congress general secretary, criticized the government's lack of action and incompetence in addressing exam reforms.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Goa",
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence",
+        "foreign_policy",
+        "health",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59536,
+      "title": "Submerged temple emerges as Bhavanisagar Dam level drops - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/submerged-temple-emerges-as-bhavanisagar-dam-level-drops/article70986508.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/chennai/bo3e4g/article70986745.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-16%20at%2015.56.40.jpeg",
+      "scraped_at": "2026-05-16 11:14:33.043792",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Bhavanisagar Dam",
+      "rephrased_article": "**The Bhavanisagar Dam**'s water level dropping to 59 ft. has revealed the dilapidated **Sri Madhava Perumal Temple**, which was submerged during construction in the 1940s and 1950s.  A study of inscriptions on the temple premises found it to be located at the confluence of the Bhavani and Moyar rivers, once a significant trade route connecting Kongu with Karnataka and Kerala. The site is believed to have been ruled by the Hoysalas and served as the location for a fort built by **Madhava Perumal Dhandanayaka**, a general appointed by King Veera Ballala III.  The temple was last visible in 2024 when the water level dropped, and fishermen report that portions of the structure become visible again at lower water levels.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 59525,
+      "title": "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/ashas-meet-kerala-cm-designate-vd-satheesan-urge-him-to-honour-pre-poll-promises/article70986603.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/k6jxjm/article70986813.ece/alternates/LANDSCAPE_1200/NH01VD05.JPG",
+      "scraped_at": "2026-05-16 11:11:28.750645",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**Kerala ASHA Health Workers’ Association (KAHWA)** met with **V.D. Satheesan**, the new Chief Minister-designate, to reiterate their demands for an increase in honorarium and retirement benefits. They expressed hope that the new government would prioritize addressing their concerns.  **Satheesan** assured them that he would not forget his pre-election promise of resolving their grievances.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59489,
+      "title": "Kerala politics LIVE: All eyes on Congress equations in Satheesan’s home turf ahead of Cabinet formation - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-cabinet-formation-udf-announcement-cm-vd-satheesan-live-updates-may-16-2026/article70985940.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tai7ku/article70985948.ece/alternates/LANDSCAPE_1200/JA15UDFmeeting02.JPG",
+      "scraped_at": "2026-05-16 08:28:51.043169",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**V.D. Satheesan**, the newly designated Chief Minister-designate of the **United Democratic Front (UDF)**, has sparked speculation about potential Cabinet appointments in his stronghold of Ernakulam.  The UDF leadership met in Thiruvananthapuram on May 15th to discuss the new government's formation but did not make any final decisions regarding ministerial positions. The AICC general secretary **K.C. Venugopal** assured that differences among senior Congress leaders would be resolved amicably, paving the way for a smooth Cabinet selection process.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]

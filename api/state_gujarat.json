@@ -1,118 +1,39 @@
 {
-  "generated_at": "2026-05-23 05:06:10.263656",
-  "name": "Narendra Modi",
-  "role": "Prime Minister",
-  "ministry": "Prime Minister's Office",
-  "party": "BJP",
+  "generated_at": "2026-05-23 05:06:10.257725",
   "state": "Gujarat",
-  "constituency": "Varanasi",
-  "criminal_cases": 0,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
-  "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
-  "affidavit_url": "https://affidavit.eci.gov.in",
+  "capital": "Gandhinagar",
+  "ruling_party": "BJP",
+  "cm": "Bhupendra Patel",
+  "region": "West",
+  "cm_confidence": null,
+  "party_confidence": null,
   "stats": {
     "total_articles": 18,
-    "articles_last_30d": 18,
-    "sentiment_breakdown_30d": {
-      "positive": 7,
-      "neutral": 6,
-      "negative": 5
-    }
+    "articles_last_30d": 18
   },
-  "promises": [
-    {
-      "id": "p001",
-      "promise": "Double farmer income by 2022",
-      "status": "broken",
-      "made_on": "2016-02-28",
-      "evidence_count": 3
-    },
-    {
-      "id": "p002",
-      "promise": "Create 2 crore jobs every year",
-      "status": "broken",
-      "made_on": "2014-03-15",
-      "evidence_count": 5
-    },
-    {
-      "id": "p003",
-      "promise": "Bring back black money from Swiss banks and deposit Rs 15 lakh in every Indian's account",
-      "status": "broken",
-      "made_on": "2014-04-10",
-      "evidence_count": 4
-    },
-    {
-      "id": "p004",
-      "promise": "Build 2 crore pucca houses for the poor by 2022 (PM Awas Yojana)",
-      "status": "ongoing",
-      "made_on": "2015-06-25",
-      "evidence_count": 3
-    },
-    {
-      "id": "p005",
-      "promise": "Make India a $5 trillion economy by 2024-25",
-      "status": "broken",
-      "made_on": "2019-07-05",
-      "evidence_count": 7
-    },
-    {
-      "id": "p006",
-      "promise": "End corruption completely — 'Na khaunga, na khane dunga'",
-      "status": "broken",
-      "made_on": "2014-04-01",
-      "evidence_count": 3
-    },
-    {
-      "id": "p007",
-      "promise": "Electoral bonds will bring transparency to political funding",
-      "status": "broken",
-      "made_on": "2017-02-01",
-      "evidence_count": 7
-    },
-    {
-      "id": "p008",
-      "promise": "Har ghar nal se jal — piped water to every household by 2024",
-      "status": "ongoing",
-      "made_on": "2019-08-15",
-      "evidence_count": 3
-    },
-    {
-      "id": "p009",
-      "promise": "Uniform Civil Code implementation",
-      "status": "ongoing",
-      "made_on": "2014-04-01",
-      "evidence_count": 2
-    },
-    {
-      "id": "p010",
-      "promise": "One nation one election",
-      "status": "ongoing",
-      "made_on": "2019-06-01",
-      "evidence_count": 7
-    },
-    {
-      "id": "p011",
-      "promise": "Demonetization will end black money and terrorism funding",
-      "status": "broken",
-      "made_on": "2016-11-08",
-      "evidence_count": 4
-    },
-    {
-      "id": "p012",
-      "promise": "Bullet train between Mumbai and Ahmedabad by 2023",
-      "status": "broken",
-      "made_on": "2017-09-14",
-      "evidence_count": 7
-    },
-    {
-      "id": "p020",
-      "promise": "Viksit Bharat by 2047 — developed India by centenary of independence",
-      "status": "ongoing",
-      "made_on": "2023-08-15",
-      "evidence_count": 8
-    }
-  ],
+  "top_cities_30d": {
+    "Delhi": 6,
+    "Kolkata": 1,
+    "Jaipur": 1,
+    "Agra": 1,
+    "Mumbai": 1,
+    "Patna": 1,
+    "Coimbatore": 1,
+    "Bengaluru": 1,
+    "Hyderabad": 1
+  },
+  "top_topics_30d": {
+    "foreign_policy": 18,
+    "infrastructure": 9,
+    "economy": 6,
+    "education": 6,
+    "farmer_agriculture": 6,
+    "crime_violence": 5,
+    "protest_opposition": 4,
+    "health": 3,
+    "corruption_scam": 1,
+    "rape_sexual_crime": 1
+  },
   "recent_articles": [
     {
       "id": 60950,
@@ -143,64 +64,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 60941,
-      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks | US-Israel war on Iran News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a1099ce7b3e-1779472846_3d05d3-1779477026.jpg?resize=1200%2C630&quality=80",
-      "scraped_at": "2026-05-22 19:54:48.079594",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Iran",
-      "rephrased_article": "**Pakistan’s** army chief, Field Marshal Asim Munir, is in Tehran to mediate between **Israel** and the **United States**, as part of ongoing efforts to end their war.  **Iran’s** Foreign Ministry spokesperson, Esmaeil Baghaei, stated that while progress has been made, a deal is not yet close. US Secretary of State Marco Rubio reported \"slight progress\" in talks with Iran, but emphasized the need for continued negotiations. **The European Union** announced it will impose new sanctions on Iranian officials and others responsible for blocking the Strait of Hormuz.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 60905,
-      "title": "Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? | International Trade News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/marco-rubio-visits-india-whats-at-stake-with-trump-modi-ties-strained?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a10554fb32b-1779455311_d215ef-1779455597.jpg?resize=1200%2C630&quality=80",
-      "scraped_at": "2026-05-22 15:41:08.787751",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Trump-Modi ties",
-      "rephrased_article": "**Marco Rubio**, US Secretary of State, is visiting India for a three-day trip ahead of the Quad meeting on May 26th.  Rubio's visit comes amidst strained relations between **Donald Trump** and **Narendra Modi**, as well as efforts to mend ties with **India**. The visit also coincides with the US Department of Justice dropping criminal fraud charges against Indian billionaire **Gautam Adani**, and an extension of a sanctions waiver allowing purchases of Russian oil.  Rubio's trip is seen as part of Washington's effort to strengthen bilateral relations with India, particularly in light of tensions between Trump and Modi last year.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Delhi",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata",
-        "Jaipur",
-        "Agra"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure"
       ]
     },
     {
@@ -267,6 +130,58 @@
       ]
     },
     {
+      "id": 60813,
+      "title": "Gujarat Police trace 701 missing persons under ‘Operation Milap’ in two weeks - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-police-trace-701-missing-persons-under-operation-milap-in-two-weeks/article71007247.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/biyfya/article71008162.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000310B.jpg",
+      "scraped_at": "2026-05-22 01:35:45.113648",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Gujarat Police",
+      "rephrased_article": "**Gujarat Police** have successfully reunited 701 missing persons with their families through a statewide operation called **Operation Milap**, which ran from May 7 to May 21.  The initiative, aimed at reviewing pending missing person cases, involved analyzing old records and conducting fresh field verifications. The drive also included checking digital records, social media activity, transport locations, and shelter homes, with officials noting some cases were linked to trafficking networks. **Deputy Chief Minister Harsh Sanghavi** stated the government provided resources for the operation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 60778,
+      "title": "Ladakh leaders to meet Home Ministry officials on May 22, Sonam Wangchuk part of delegation - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh/ladakh-leaders-to-meet-home-ministry-officials-tomorrow-sonam-wangchuk-part-of-delegation/article71007304.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6gxllo/article71007654.ece/alternates/LANDSCAPE_1200/TH17-Vijaita-A-GACFNR82Q.3.jpg.jpg",
+      "scraped_at": "2026-05-21 23:14:28.467708",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Ladakh",
+      "rephrased_article": "A delegation from Ladakh, including climate activist **Sonam Wangchuk**, is meeting with **Union Home Ministry** officials on Friday to discuss demands for constitutional safeguards such as Statehood and inclusion under the Sixth Schedule of the Constitution. This meeting follows a previous inconclusive high-powered committee meeting in February and comes after the violence in Leh city in September 2025, which stalled talks.  The delegation will reiterate their demands for Statehood, while officials have offered safeguards under Article 371 of the Constitution.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 60766,
       "title": "Take forward reforms, PM tells Ministers - The Hindu",
       "url": "https://www.thehindu.com/news/national/take-forward-reforms-pm-tells-ministers/article71007783.ece",
@@ -295,65 +210,30 @@
       ]
     },
     {
-      "id": 60755,
-      "title": "Parody Cockroach Janta political party’s rise reflects youth anger in India | India | The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/21/cockroach-janta-party-youth-anger-frustration-protest-india",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/e0d7848d77ed07c76fe8ddd217017f5772da8c4b/0_132_2133_1705/master/2133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64b3fca2722e75fa0dd530c849948abb",
-      "scraped_at": "2026-05-21 22:02:47.222273",
-      "category": "politics",
+      "id": 60732,
+      "title": "Bihar midday meal incident: HC asks whether NGO can continue providing meals - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-midday-meal-incident-hc-asks-whether-ngo-can-continue-providing-meals/article71007201.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/svd6zi/article71007969.ece/alternates/LANDSCAPE_1200/In-Bihar-a-plaG91G0B9TD.3.jpg.jpg",
+      "scraped_at": "2026-05-21 20:26:27.636471",
+      "category": "health",
       "sentiment": "neutral",
       "sentiment_target": "Indian Government",
-      "rephrased_article": "A satirical online movement, the Cockroach Janta (People's) party, has gained significant traction in India.  **Abhijeet Dipke**, a political communications strategist and student at Boston University, founded the movement after **Surya Kant**, the Supreme Court chief justice, sparked backlash with comments comparing unemployed young people to cockroaches. The CJP uses absurdist humor to mock corruption, joblessness, and government dysfunction, attracting millions of followers on social media.  While some dismiss it as a digital gimmick, Dipke believes it reflects mounting frustration among India's youth and could lead to real political change.",
-      "party_mentioned": [
-        "BJP",
-        "AAP"
-      ],
+      "rephrased_article": "The **Patna High Court** has expressed concern over delays in the investigation of a midday meal incident where over 150 students fell ill in Saharsa district. The court questioned whether the NGO supplying meals to over 1,800 students should continue operations during the probe and raised concerns about discrepancies in food sample collection and testing.  The court directed officials to file affidavits explaining the processes involved. The matter will be heard again on June 2nd.",
+      "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Shah"
       ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 60741,
-      "title": "India's 'Cockroach Janta Party' goes viral, spotlights Gen Z worries - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002051/indias-cockroach-janta-party-goes-viral-spotlights-gen-z-worries",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/211912475c83910.webp",
-      "scraped_at": "2026-05-21 21:59:56.699959",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "A five-day-old group called the **Cockroach Janta Party (CJP)** has gained significant traction in India, surpassing the Instagram followers of the ruling **Bharatiya Janata Party (BJP)**.  The CJP, founded by 30-year-old Abhijeet Dipke, addresses issues like unemployment, inflation, and political representation, resonating with a large segment of young Indians who feel ignored by mainstream politics. The group's rapid growth reflects the anxieties felt by India's youth, as highlighted in a recent Deloitte Global survey that found Gen Z facing financial stress and postponing major life decisions due to economic concerns. Dipke emphasizes the CJP's commitment to democratic and peaceful means of political engagement, while also acknowledging its potential for significant change within Indian politics.",
-      "party_mentioned": [
-        "BJP"
+      "states_mentioned": [
+        "Bihar"
       ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
-      ],
-      "states_mentioned": [],
       "cities_mentioned": [
-        "Lucknow"
+        "Patna"
       ],
       "topic_tags": [
-        "economy",
         "foreign_policy",
         "health",
-        "education",
-        "farmer_agriculture",
-        "protest_opposition"
+        "education"
       ]
     },
     {
@@ -585,6 +465,32 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 59554,
+      "title": "BRICS is evolving with new members; differences will take time to resolve: Brazil FM Mauro Vieira - The Hindu",
+      "url": "https://www.thehindu.com/news/international/brics-is-evolving-with-new-members-differences-will-take-time-to-resolve-brazil-fm-mauro-vieira/article70986172.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kuq4pj/article70986321.ece/alternates/LANDSCAPE_1200/27_Mauro_Vieira_Minister_Foreign_Affairs_of_Brazil_15_05_Delhi.jpg",
+      "scraped_at": "2026-05-16 12:43:22.965020",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "BRICS",
+      "rephrased_article": "The **BRICS** Foreign Ministers meeting in Delhi concluded with a detailed Chair Statement supporting Indian initiatives and the Palestinian cause, but failed to reach consensus on positions regarding the war in West Asia.  Despite disagreements, **Mauro Vieira**, Brazilian Foreign Minister, emphasized the continued importance of **BRICS**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
       ]
     },
     {
