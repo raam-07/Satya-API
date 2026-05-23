@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.630230",
+  "generated_at": "2026-05-23 21:11:26.429130",
   "party": "AAP",
   "full_name": "Aam Aadmi Party",
   "ideology": "Anti-corruption, Populism",
@@ -10,11 +10,11 @@
   ],
   "color": "#0066FF",
   "stats": {
-    "total_articles": 24,
-    "articles_last_30d": 24,
+    "total_articles": 26,
+    "articles_last_30d": 26,
     "sentiment_breakdown_30d": {
-      "neutral": 6,
-      "negative": 15,
+      "neutral": 7,
+      "negative": 16,
       "positive": 3
     }
   },
@@ -762,6 +762,60 @@
         "infrastructure",
         "health",
         "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54846,
+      "title": "Punjab power outages: SAD blames AAP government’s failure - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-power-outages-sad-blames-aap-governments-failure/article70912721.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/77n0e6/article70913742.ece/alternates/LANDSCAPE_1200/20250625085L.jpg",
+      "scraped_at": "2026-04-28 01:24:41.796588",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "AAP government",
+      "rephrased_article": "**AAP** government in Punjab claims to have addressed the ongoing power supply issues, while **SAD** blames the government for prolonged outages.  **SAD** leader Daljit Singh Cheema accused the **AAP** of mismanagement due to a lack of short-term power purchases and timely agreements with neighboring states.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 54783,
+      "title": "‘Weakening public faith’ vs. ‘justified stand’: legal experts divided over Kejriwal’s decision - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/weakening-public-faith-vs-justified-stand-legal-experts-divided-over-former-cms-decision/article70913811.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pd1gf9/article70913803.ece/alternates/LANDSCAPE_1200/20260427167L.jpg",
+      "scraped_at": "2026-04-27 22:29:28.938302",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Arvind Kejriwal",
+      "rephrased_article": "**Members of the legal fraternity** offered differing opinions on **Arvind Kejriwal’s** decision to not appear before a Delhi High Court judge in the excise policy case.  Some lawyers argued that dissatisfaction with judicial orders should be addressed through established legal remedies, while others supported **Kejriwal’s** decision, citing potential bias and the need for due process. Senior advocate Sajan Poovayya criticized the move as withdrawing from due process, while advocate Gyanant Kumar Singh suggested it was a tactic to challenge the court's ruling after losing the case.  However, advocate Prashant Bhushan supported **Kejriwal’s** decision, arguing that his apprehension of bias is justified.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
         "protest_opposition"
       ]
     }

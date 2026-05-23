@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.653817",
+  "generated_at": "2026-05-23 21:11:26.451970",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,100 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 189,
-    "articles_last_30d": 189
+    "total_articles": 197,
+    "articles_last_30d": 197
   },
   "top_cities_30d": {
     "Delhi": 35,
+    "Mumbai": 13,
     "Hyderabad": 12,
     "Kolkata": 11,
-    "Mumbai": 11,
     "Bengaluru": 10,
     "Ahmedabad": 7,
-    "Patna": 5,
+    "Patna": 6,
+    "Chennai": 5,
     "Agra": 3,
-    "Surat": 3,
-    "Nagpur": 3
+    "Surat": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 187,
-    "infrastructure": 72,
-    "economy": 61,
-    "protest_opposition": 57,
-    "education": 45,
-    "crime_violence": 42,
+    "foreign_policy": 193,
+    "infrastructure": 73,
+    "economy": 64,
+    "protest_opposition": 58,
+    "education": 48,
+    "crime_violence": 44,
     "farmer_agriculture": 31,
     "health": 19,
     "corruption_scam": 14,
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 61253,
+      "title": "DMK, Congress trade barbs over the latter’s post-poll alliance with the TVK - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/war-of-words-between-dmk-and-congress-over-pre-and-post-poll-allegiances/article71015278.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/as2eat/article71015730.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-23%20at%208.38.01%20PM.jpeg",
+      "scraped_at": "2026-05-23 20:14:17.547096",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**DMK** leader Udhayanidhi Stalin accused the **Congress** of being responsible for the BJP's victories, claiming they had \"shed blood and tears\" to ensure Congress wins.  **DMK** president M.K. Stalin was also present at the meeting where a resolution condemned the **Congress** for its betrayal and labeled it a \"parasite\".  The **Congress** Legislature Party leader S. Rajesh Kumar countered these accusations, stating that the people of Tamil Nadu elected the **AIADMK** to power based on the promise of sharing power with alliance partners.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61249,
+      "title": "Govt. to soon bring in an AI policy to transform Bihar: CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/govt-to-soon-bring-in-an-ai-policy-to-transform-bihar-cm/article71014658.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/5lojj0/article71015390.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-23%20at%2013.35.31.jpeg",
+      "scraped_at": "2026-05-23 20:12:43.909576",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Bihar Government",
+      "rephrased_article": "**Bihar Chief Minister Samrat Choudhary** announced the state government's intention to introduce an AI policy, aiming to transform Bihar into an AI hub.  He highlighted the potential of AI in India's communication revolution and emphasized the importance of collaboration with younger generations. The summit, organized by the IT Department in collaboration with the **Bihar Industries Association (BIA)** and Qlass EdTech, saw participation from Deputy Chief Minister **Bijendra Prasad Yadav**, Information Technology Minister **Nitish Mishra**, and founder of BharatGPT **Ankush Agrawal**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [
+        "Patna"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
     {
       "id": 61237,
       "title": "China mine blast: Death toll rises to 82; Beijing orders crackdown as rescue ops continue — top developments - The Times of India",
@@ -5540,6 +5606,166 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 54921,
+      "title": "Indian billionaire Ambani's son offers home for Colombian drug kingpin Pablo Escobar's hippos - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1995770/indian-billionaire-ambanis-son-offers-home-for-colombian-drug-kingpin-pablo-escobars-hippos",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/28155110aaa0667.webp",
+      "scraped_at": "2026-04-28 12:17:29.889081",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Ambani",
+      "rephrased_article": "**Anant Ambani**, son of **Mukesh Ambani**, offered to relocate 80 hippos from Colombia, which have been causing damage in the Magdalena River, to his Vantara animal center in India.  He proposed a scientifically-led translocation and creation of a naturalistic habitat for the animals at his facility, which already houses hundreds of other endangered species. The Colombian government is currently considering culling the hippos.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54877,
+      "title": "Chandrababu Naidu lays foundation for Google’s ₹1.35 lakh crore AI data centre in Visakhapatnam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/caught-in-unrest-after-zubeen-gargs-death-assams-tezpur-university-starts-afresh/article70915103.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/es6oef/article70915065.ece/alternates/LANDSCAPE_1200/Chandrababu.jpeg",
+      "scraped_at": "2026-04-28 07:41:20.252100",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Google",
+      "rephrased_article": "**Chief Minister N. Chandrababu Naidu** laid the foundation stone for a 1-Gigawatt Google data center in Tarluvada, Visakhapatnam, marking one of India's largest foreign direct investments. The project will be managed by **Google’s subsidiary Raiden Infotech**, in partnership with **Adani Infra**, and is part of a $15 billion investment from **Google** in the state.  The center will offer large-scale data storage and AI cloud infrastructure, and an upcoming subsea cable system will connect Visakhapatnam to several countries. Union Ministers, IT Minister Nara Lokesh, and representatives from Google, Adani Group, and Airtel Nxtra attended the ceremony.",
+      "party_mentioned": [
+        "Congress",
+        "YSRCP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Chennai",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 54871,
+      "title": "Chandrababu Naidu lays foundation for Google’s ₹1.35 lakh crore AI data centre in Visakhapatnam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-lays-foundation-for-googles-135-lakh-crore-ai-data-centre-in-visakhapatnam/article70915031.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/es6oef/article70915065.ece/alternates/LANDSCAPE_1200/Chandrababu.jpeg",
+      "scraped_at": "2026-04-28 07:39:41.729656",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Nara Lokesh",
+      "rephrased_article": "On Tuesday, April 28, 2026, **Chief Minister N. Chandrababu Naidu** laid the foundation stone for a Google data center in Tarluvada, Visakhapatnam. The $15 billion investment will create a 1-Gigawatt hyperscale AI data center on 601.4 acres and is expected to generate thousands of jobs. **Union Ministers Ashwini Vaishnaw**, **Kinjarapu Rammohan Naidu**, and **Pemmasani Chandrasekhar**, along with **IT Minister Nara Lokesh** and representatives from Google, Adani Infra, and other partners attended the ceremony.  The project will be inaugurated in September 2028 and is expected to position Andhra Pradesh as an international data gateway for India.",
+      "party_mentioned": [
+        "Congress",
+        "YSRCP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Chennai",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 54862,
+      "title": "Assembly election 2026 LIVE: All preparations done for second phase of West Bengal polls, says Election Commission - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-28-2026/article70914701.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/adqxa3/article70914703.ece/alternates/LANDSCAPE_1200/20260427280L.jpg",
+      "scraped_at": "2026-04-28 05:05:41.739411",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Campaigning for the second phase of West Bengal's assembly elections concluded on Monday, with political parties making their final appeals to voters.  **Prime Minister Narendra Modi**, in a letter addressed to the people, emphasized his vision for transforming challenges into opportunities and predicted that the next Chief Minister will be from the **Bhartiya Janata Party (BJP)**. The first phase of voting took place on April 23rd with a record 93% voter turnout. Votes will be counted on May 4th.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 54845,
+      "title": "Ladakh groups seek meeting with Shah and steps to build trust - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh-groups-seek-meeting-with-shah-and-steps-to-build-trust/article70913274.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/a765bw/article70913559.ece/alternates/LANDSCAPE_1200/15th-PTI-Rahul-G2NFJERFA.3.jpg.jpg",
+      "scraped_at": "2026-04-28 01:24:22.788790",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Amit Shah",
+      "rephrased_article": "Ahead of **Amit Shah**, the **Union Home Minister**,’s visit to Ladakh, the **Leh Apex Body** (LAB) urged for a trust-building exercise and requested a meeting with him during his two-day tour. The LAB, composed of socio-political-religious organizations, also called for the convening of a high-powered committee, chaired by **Shah**, which includes members from the LAB and the Kargil Democratic Alliance (KDA).",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 54826,
+      "title": "Firms postpone D-Street debut as uncertainty clouds market outlook - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/firms-postpone-d-street-debut-as-uncertainty-clouds-market-outlook/articleshow/130566871.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130566863,width-1200,height-630,imgsize-58932,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-04-28 01:19:23.869559",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The uncertainty in India's IPO market is expected to persist for the next two to three months**, with institutional investors delaying companies due to valuation discrepancies. **Prime Database** data reveals a robust pipeline of 146 companies seeking approval to raise ₹2.11 lakh crore, but many are awaiting final approvals.  **Sebi** has granted temporary extensions on IPO approvals to ease fundraising pressures, allowing companies with December quarter data to launch their IPOs by June.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
       ]
     }
   ]

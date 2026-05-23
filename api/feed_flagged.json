@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-05-23 20:07:07.599188",
-  "total": 1,
+  "generated_at": "2026-05-23 21:11:26.399333",
+  "total": 6,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 1
+    "power_abuse": 5,
+    "scale_of_harm": 1
   },
   "articles": [
     {
@@ -36,6 +37,149 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Alleged abuse of power and potential harm to children by a prominent political figure warrants urgent concern."
+    },
+    {
+      "id": 54901,
+      "title": "Author of novel depicting toddler role-play spared jail after being convicted of writing child abuse material | Sydney | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/28/author-convicted-child-abuse-material-tori-woods-avoids-jail-ntwnfb",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/605a5794bb3dcc79e86dc967f918b3e76959ca8d/253_0_2525_2020/master/2525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63fed17712813cae009951a78653d09c",
+      "scraped_at": "2026-04-28 10:26:39.555283",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "child abuse material",
+      "rephrased_article": "Lauren Ashley Mastrosa, a former marketing executive for BaptistCare, was convicted of three child abuse material offences related to her novel \"Daddy's Little Toy\". The 34-year-old, who published the book under the pen name Tori Woods, received an 18-month community corrections order and was placed on the child protection register for eight years. Margaret Cunneen SC, Mastrosa's lawyer, argued that she made a mistake and had no intention of writing child abuse material, while the crown prosecutor emphasized the novel's normalization of child exploitation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article reports on a case involving the creation and distribution of child abuse material, which is a serious crime."
+    },
+    {
+      "id": 54822,
+      "title": "FBI affidavit quotes White House press dinner shooting suspect expressing rage at ‘a pedophile, rapist and traitor’ – US politics live | Trump administration | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/27/white-house-correspondents-dinner-shooting-suspect-charges-donald-trump-king-charles-latest-news-updates",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/4035df2acf34d1d2e0701da6a0f18f07edbddf6e/318_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=939ae1a22ec3bf53a35b53160e4f8e7c",
+      "scraped_at": "2026-04-27 23:37:18.901370",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trump",
+      "rephrased_article": "An FBI affidavit quotes Cole Allen's manifesto, which states he planned to assassinate President Trump and describes him as a \"pedophile, rapist, and traitor.\"  Allen sent the manifesto to family and friends before attempting to charge into the White House correspondents' dinner. The affidavit accuses Allen of intending to kill the president. King Charles and Queen Camilla met with Donald Trump at the White House.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article reports a potential threat to the President and a possible act of violence, warranting concern."
+    },
+    {
+      "id": 54893,
+      "title": "Kashmir seminary declared unlawful under Indian law, sparks outcry | Religion News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/kashmir-seminary-declared-unlawful-under-anti-terror-law-sparks-outcry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2021/12/AP21339448278252.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-28 10:24:13.358271",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "New Delhi",
+      "rephrased_article": "An important Islamic seminary in Indian-administered Kashmir, Jamia Siraj-ul-Uloom, has been declared unlawful under anti-terror laws.  Kashmir Divisional Commissioner Anshul Garg issued the order based on a police dossier alleging links to the banned political party Jamaat-e-Islami (JeI). Mohammad Shafi Lone, the seminary chairman, rejected the allegations and called the move a “calculated dismantling of Kashmir’s civic life.” Leaders in Muslim-majority Kashmir criticized the decision as part of an ongoing campaign of overreach by New Delhi.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mehbooba Mufti"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The declaration of a religious institution unlawful due to alleged ties to a banned group raises concerns about potential suppression of dissent and religious freedom."
+    },
+    {
+      "id": 54814,
+      "title": "First teenage suicide linked to domestic abuse recorded in England and Wales | Domestic violence | The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/28/first-teenage-suicide-domestic-abuse-england-and-wales",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/73e134d267e2e7171618055768d5e13bc8c02522/1534_341_6080_4864/master/6080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d81f8c557c9f82a008d1035fa0fd70ce",
+      "scraped_at": "2026-04-27 23:35:32.360213",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "domestic abuse",
+      "rephrased_article": "The Domestic Homicide Project reports that suicides after domestic abuse have surpassed homicides for the third year in a row, with 347 deaths last year.  Louisa Rolfe, assistant police commissioner in the Metropolitan police, attributes the rise to \"impact of pornography\" and \"toxic influencers,\" which she believes normalize domestic abuse. Frank Mullane, CEO of Advocacy After Fatal Domestic Abuse, calls for a separate offense for suicide after domestic violence to raise awareness. He also urges police to preserve the scene of suicides and treat them as potential homicides, emphasizing the need for more professional curiosity in unexplained deaths.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights a concerning trend of domestic abuse leading to teenage suicides, which is a serious public health issue."
+    },
+    {
+      "id": 54799,
+      "title": "Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says | Nigeria | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/gunmen-kill-at-least-29-at-football-pitch-in-north-east-nigeria-governor-says",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/01f2eb7ca053a25d5513df0b96cb8a337dced345/125_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a66a2ff6c0920142893be2e283b72e84",
+      "scraped_at": "2026-04-27 23:31:06.610356",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Boko Haram",
+      "rephrased_article": "Gunmen killed at least 29 people in Adamawa state, Nigeria on Sunday, targeting a football pitch in the Guyaku community. Ahmadu Umaru Fintiri, governor of Adamawa state, confirmed the attack and blamed it on Boko Haram militants.  The Islamic State’s West Africa Province (ISWAP) claimed responsibility for the attack, stating that they killed at least 25 people and burned a church. The governor vowed to intensify security operations to restore peace while Nigerian security forces rescued 15 kidnapped pupils in Kogi state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "Large-scale violence by militants is reported as routine."
     }
   ]
 }

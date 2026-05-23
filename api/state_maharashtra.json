@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.676801",
+  "generated_at": "2026-05-23 21:11:26.475146",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,27 +8,27 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 63,
-    "articles_last_30d": 63
+    "total_articles": 65,
+    "articles_last_30d": 65
   },
   "top_cities_30d": {
     "Mumbai": 16,
     "Pune": 14,
     "Delhi": 9,
     "Nashik": 9,
-    "Hyderabad": 3,
+    "Hyderabad": 4,
     "Nagpur": 3,
-    "Bengaluru": 2,
+    "Bengaluru": 3,
+    "Bangalore": 2,
     "Jaipur": 1,
-    "Thane": 1,
-    "Chennai": 1
+    "Thane": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 59,
+    "foreign_policy": 61,
     "protest_opposition": 26,
+    "infrastructure": 23,
     "education": 23,
     "economy": 22,
-    "infrastructure": 21,
     "crime_violence": 10,
     "farmer_agriculture": 8,
     "rape_sexual_crime": 7,
@@ -36,6 +36,31 @@
     "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 61254,
+      "title": "68% of flyover on Anna Salai completed despite delays due to war, labour shortage - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/68-of-flyover-on-anna-salai-completed-despite-delays-due-to-war-labour-shortage/article71015595.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9n0a8o/article71015734.ece/alternates/LANDSCAPE_1200/2501_23_5_2026_16_57_8_4_DSC_9545.JPEG",
+      "scraped_at": "2026-05-23 20:14:41.725780",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "State Highways Department",
+      "rephrased_article": "**State Highways Department** officials report that nearly 68% of the construction project for a flyover on Anna Salai, connecting Saidapet and Teynampet, has been completed.  The project is expected to be finished by September with 32 out of 131 decks in place. The completion of the flyover will involve placing slabs on girders, completing foundation work for pillars, and installing approach ramps and crash barriers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 61064,
       "title": "For every job at Mazagon Dock, 6.4 jobs are created across economy: Captain Jagmohan - The Hindu",
@@ -1928,6 +1953,35 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 54818,
+      "title": "Residents urge BMRCL to include ‘Bilekahalli’ in IIMB metro station name on Bengaluru’s Pink Line metro - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/residents-urge-bmrcl-to-include-bilekahalli-in-iimb-metro-station-name-on-bengalurus-pink-line-metro/article70912092.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/geu1vy/article70913267.ece/alternates/LANDSCAPE_1200/_DSC8572.JPG",
+      "scraped_at": "2026-04-27 23:36:25.480182",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "BMRCL",
+      "rephrased_article": "**Residents** in south Bengaluru have written to **Bangalore Metro Rail Corporation Limited (BMRCL)**, urging them to rename the upcoming “IIMB” metro station on the Pink Line as “IIMB–Bilekahalli” to recognize the locality’s identity.  The residents argue that naming the station solely after an institution risks overlooking the cultural context of the area and propose a name that balances modern infrastructure with local heritage. While **BMRCL** has received the letter, they confirmed that renaming a metro station involves a detailed procedure and requires approval from both state and central governments. This issue reflects a larger trend in Bengaluru where renaming metro stations is becoming increasingly contentious.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
       ]
     }
   ]

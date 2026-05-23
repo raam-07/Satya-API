@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.675217",
+  "generated_at": "2026-05-23 21:11:26.473444",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 33,
-    "articles_last_30d": 33
+    "total_articles": 35,
+    "articles_last_30d": 35
   },
   "top_cities_30d": {
     "Delhi": 11,
-    "Bhopal": 6,
+    "Bhopal": 7,
     "Indore": 4,
     "Agra": 3,
     "Mumbai": 2,
@@ -24,17 +24,42 @@
     "Ahmedabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 33,
+    "foreign_policy": 35,
     "education": 13,
+    "protest_opposition": 12,
     "infrastructure": 11,
-    "protest_opposition": 11,
     "health": 9,
     "farmer_agriculture": 8,
     "crime_violence": 6,
     "economy": 6,
-    "corruption_scam": 1
+    "corruption_scam": 1,
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61256,
+      "title": "Twisha Sharma death case: husband Samarth Singh brought to Bhopal, police to seek remand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-husband-samarth-singh-bhopal-police-probe/article71013590.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/r4enqk/article71013616.ece/alternates/LANDSCAPE_1200/20260522346L.jpg",
+      "scraped_at": "2026-05-23 20:15:26.856519",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Samarth Singh",
+      "rephrased_article": "**Samarth Singh**, the husband of Twisha Sharma, who was found dead in her marital home on May 12th, 2026, was arrested by **Madhya Pradesh police** after he surrendered at a Jabalpur district court.  He is being held for questioning regarding his alleged involvement in dowry death and harassment. The case has prompted the State government to recommend a Central Bureau of Investigation (CBI) probe into Sharma's death.  The investigation is ongoing, with **Giribala Singh**, former judge and chairperson of the Bhopal Consumer Court, stating she is willing to provide a statement but has not yet been contacted by police.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 61212,
       "title": "Twisha Sharma’s husband sent to 7-day police remand; AIIMS Delhi forms panel for second autopsy - The Hindu",
@@ -1081,6 +1106,36 @@
         "infrastructure",
         "health",
         "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 54832,
+      "title": "M.P. Assembly passes resolution to implement women’s reservation after delimitation amid uproar by Opposition - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-assembly-congress-stages-walkout-over-speakers-refusal-to-accept-private-con-womens-quota/article70911980.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ljvema/article70912078.ece/alternates/LANDSCAPE_1200/10219_20_12_2023_15_38_48_2_DSC_1160.JPG",
+      "scraped_at": "2026-04-28 01:20:52.857945",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "M.P. Assembly",
+      "rephrased_article": "The **Madhya Pradesh** Assembly passed a resolution to implement women's reservation following the delimitation exercise, despite opposition from the Congress.  **Chief Minister Mohan Yadav** proposed the resolution, urging immediate implementation after the completion of the delimitation process. The resolution was met with resistance from the Opposition, who argued that the government's actions contradicted its words and called for an immediate enforcement of the Women's Reservation Act.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "Janata Dal",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
       ]
     }
   ]

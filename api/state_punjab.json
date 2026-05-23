@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.681522",
+  "generated_at": "2026-05-23 21:11:26.480011",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 117,
-    "articles_last_30d": 117
+    "total_articles": 121,
+    "articles_last_30d": 121
   },
   "top_cities_30d": {
     "Delhi": 17,
@@ -18,17 +18,18 @@
     "Faridabad": 1,
     "Surat": 1,
     "Rajkot": 1,
-    "Hyderabad": 1
+    "Hyderabad": 1,
+    "Bhopal": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 117,
-    "infrastructure": 44,
+    "foreign_policy": 119,
+    "infrastructure": 46,
     "education": 44,
-    "protest_opposition": 42,
-    "economy": 39,
-    "crime_violence": 34,
+    "protest_opposition": 43,
+    "economy": 40,
+    "crime_violence": 35,
     "health": 23,
-    "farmer_agriculture": 18,
+    "farmer_agriculture": 19,
     "corruption_scam": 14,
     "rape_sexual_crime": 2
   },
@@ -3038,6 +3039,104 @@
         "infrastructure",
         "health",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 54846,
+      "title": "Punjab power outages: SAD blames AAP government’s failure - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-power-outages-sad-blames-aap-governments-failure/article70912721.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/77n0e6/article70913742.ece/alternates/LANDSCAPE_1200/20250625085L.jpg",
+      "scraped_at": "2026-04-28 01:24:41.796588",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "AAP government",
+      "rephrased_article": "**AAP** government in Punjab claims to have addressed the ongoing power supply issues, while **SAD** blames the government for prolonged outages.  **SAD** leader Daljit Singh Cheema accused the **AAP** of mismanagement due to a lack of short-term power purchases and timely agreements with neighboring states.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 54835,
+      "title": "Indiramma housing programme will be accelerated; more powers to Collectors, says Ponguleti - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/indiramma-housing-programme-will-be-accelerated-more-powers-to-collectors-says-ponguleti/article70912890.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/telangana/88b4bs/article70912888.ece/alternates/LANDSCAPE_1200/Housing%20review%20.jpeg",
+      "scraped_at": "2026-04-28 01:21:39.071480",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indiramma Housing Scheme",
+      "rephrased_article": "**Ponguleti Srinivasa Reddy**, the Revenue and Housing Minister, announced a series of measures to expedite the **Indiramma Housing Scheme**. These include decentralizing powers to District Collectors and appointing special officers for each erstwhile district.  The Minister also directed weekly reviews by Collectors to address local issues and prevent bottlenecks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 54790,
+      "title": "‘Harvest more water; banning paddy is not the solution to groundwater stress’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/harvest-more-water-banning-paddy-is-not-the-solution-to-groundwater-stress/article70913015.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-27 22:31:25.381517",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Ground Water Department**, in collaboration with the State-level committee on Groundwater Resource Assessment (GWRA), is recommending a shift in mindset regarding groundwater use. The department suggests conservation measures at the village level, including banning water-intensive crops like paddy during the Rabi season and changing crop choices to ensure safe groundwater levels.  **Secretary (Irrigation & Command Area Development) E. Sridhar**, chairman of the State-level committee, emphasized that water used for agriculture is a resource stored for use, highlighting the importance of agriculture in the state's production. The GWRA report released on Monday advises discouraging paddy crop for Rabi season to avoid crop loss to farmers and aims to enhance groundwater recharge methods.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 54787,
+      "title": "Raghu Rai: The photographer who showed India to itself",
+      "url": "https://www.bbc.com/news/articles/crk1k8n1j4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/eb7a/live/b2717d40-41ee-11f1-b4a0-bd642342950f.jpg",
+      "scraped_at": "2026-04-27 22:30:33.538432",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Raghu Rai",
+      "rephrased_article": "**Raghu Rai**, a celebrated Indian photojournalist, passed away at the age of 83.  His career spanned over five decades, documenting India's most defining events and shaping how the nation viewed its history. **Rai** began his career at The Statesman newspaper in 1966 and later worked as photo editor for **India Today** and **Sunday** magazines. He joined **Magnum Photos** in 1977, a prestigious photography agency that has influenced generations of photographers. His photographs captured political power, everyday life, and the Sikh militancy in Punjab during the 1980s.  His work is recognized for its artistic merit and its ability to capture the essence of India's people and culture. **Rai** was lauded by prominent figures such as **Narendra Modi**, who called him a \"creative stalwart,\" and photographers who described his work as bridging reportage and art.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "crime_violence"
       ]
     }
   ]

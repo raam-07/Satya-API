@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.612480",
+  "generated_at": "2026-05-23 21:11:26.411826",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,20 +7,240 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 5390,
-    "articles_last_7_days": 719,
-    "articles_last_30_days": 5390,
-    "civic_flags_last_30_days": 1,
+    "total_articles_classified": 5561,
+    "articles_last_7_days": 738,
+    "articles_last_30_days": 5561,
+    "civic_flags_last_30_days": 6,
     "civic_flags_today": 0
   },
   "civic_alert": {
-    "flagged_count_30d": 1,
+    "flagged_count_30d": 6,
     "flagged_today": 0,
     "top_flag_categories": {
-      "power_abuse": 1
+      "power_abuse": 5,
+      "scale_of_harm": 1
     }
   },
   "top_stories": [
+    {
+      "id": 61256,
+      "title": "Twisha Sharma death case: husband Samarth Singh brought to Bhopal, police to seek remand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-husband-samarth-singh-bhopal-police-probe/article71013590.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/r4enqk/article71013616.ece/alternates/LANDSCAPE_1200/20260522346L.jpg",
+      "scraped_at": "2026-05-23 20:15:26.856519",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Samarth Singh",
+      "rephrased_article": "**Samarth Singh**, the husband of Twisha Sharma, who was found dead in her marital home on May 12th, 2026, was arrested by **Madhya Pradesh police** after he surrendered at a Jabalpur district court.  He is being held for questioning regarding his alleged involvement in dowry death and harassment. The case has prompted the State government to recommend a Central Bureau of Investigation (CBI) probe into Sharma's death.  The investigation is ongoing, with **Giribala Singh**, former judge and chairperson of the Bhopal Consumer Court, stating she is willing to provide a statement but has not yet been contacted by police.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 61255,
+      "title": "TVK government will fall one day, says M.K. Stalin - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-government-will-fall-one-day-says-mk-stalin/article71015716.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4lh9h7/article71015724.ece/alternates/LANDSCAPE_1200/9868_16_4_2026_19_35_33_3_SPEACH_3_EDITED.JPEG",
+      "scraped_at": "2026-05-23 20:15:04.152892",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TVK government",
+      "rephrased_article": "**M.K. Stalin**, leader of the **DMK**, criticized the **TVK** government, led by Chief Minister **C. Joseph Vijay**, for its dependence on other parties for support and alleged attempts to split the AIADMK.  He compared the public's interest in the new party to a child's fascination with a toy, predicting that it would fade quickly. **Stalin** also highlighted his government's achievements over the past five years as evidence of improved governance.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61253,
+      "title": "DMK, Congress trade barbs over the latter’s post-poll alliance with the TVK - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/war-of-words-between-dmk-and-congress-over-pre-and-post-poll-allegiances/article71015278.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/as2eat/article71015730.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-23%20at%208.38.01%20PM.jpeg",
+      "scraped_at": "2026-05-23 20:14:17.547096",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**DMK** leader Udhayanidhi Stalin accused the **Congress** of being responsible for the BJP's victories, claiming they had \"shed blood and tears\" to ensure Congress wins.  **DMK** president M.K. Stalin was also present at the meeting where a resolution condemned the **Congress** for its betrayal and labeled it a \"parasite\".  The **Congress** Legislature Party leader S. Rajesh Kumar countered these accusations, stating that the people of Tamil Nadu elected the **AIADMK** to power based on the promise of sharing power with alliance partners.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61252,
+      "title": "Coalition government here to stay in Tamil Nadu like Kerala, says Kader Mohideen - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/coalition-government-here-to-stay-in-tamil-nadu-like-kerala-says-kader-mohideen/article71015078.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wev436/article71015081.ece/alternates/LANDSCAPE_1200/4861_26_3_2026_15_43_52_4_PIX9.JPG",
+      "scraped_at": "2026-05-23 20:13:54.198916",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**K.M. Kader Mohideen**, president of the **Indian Union Muslim League (IUML)**, stated that Tamil Nadu has formed a coalition government similar to Kerala and that it will continue in the future. He attributed this success to the DMK's ability to secure votes from the Muslim community, which he believes was crucial for their victory.  **C. Joseph Vijay**, the new leader of Tamil Nadu politics, is credited with initiating this change.",
+      "party_mentioned": [
+        "BJP",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61246,
+      "title": "Becoming a permanent resident in the US: List of top 10 countries that obtain maximum Green Cards - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/becoming-a-permanent-resident-in-the-us-list-of-top-10-countries-that-obtain-maximum-green-cards/articleshow/131284823.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131284840,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-23 20:11:38.056336",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "US Citizenship and Immigration Services",
+      "rephrased_article": "The **US Citizenship and Immigration Services** (USCIS) has announced a new rule requiring Green Card applicants to file their applications from consulates in their home countries, rather than within the US. This change, which experts say is not a law change but a minor tweak with significant impact, affects applicants who previously changed their status in the US while intending to become permanent residents. The new rule could significantly affect countries that receive the most Green Cards annually, including **Mexico**, **India**, **China**, and others, as it may delay processing times for those already facing long backlogs.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61245,
+      "title": "Tens of thousands rally in Serbia for antigovernment demonstrations | Protests News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a11ed3c-1779559740.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-23 20:11:12.398635",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Aleksandar Vucic",
+      "rephrased_article": "Tens of thousands of people, led by student activists, rallied in Belgrade to protest against the Serbian government and demand early elections. The demonstrations, sparked by the November 2024 rail station disaster that killed 16 people, have grown into a campaign demanding President **Aleksandar Vucic** call for an election.  The protests were met with clashes between protesters and police, with some setting fire to bins filled with rubbish.  International organizations like the Council of Europe are monitoring the situation closely.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "economy",
+        "crime_violence",
+        "corruption_scam",
+        "education"
+      ]
+    },
+    {
+      "id": 61242,
+      "title": "Brampton man Gurkanwal Singh pleads guilty after shooting guns from jeep in 'careless and unsafe' stunt - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/brampton-man-gurkanwal-singh-pleads-guilty-after-shooting-guns-from-jeep-in-careless-and-unsafe-stunt/articleshow/131284605.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131284692,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-23 20:10:16.221260",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Gurkanwal Singh",
+      "rephrased_article": "A 24-year-old Sikh man, **Gurkanwal Singh**, pleaded guilty to careless use of a firearm in Bracebridge court after videos showing him firing guns recklessly from a Jeep on Crown land in Ontario sparked an investigation. The incident occurred in February 2025 and involved the discovery of firearms inside the vehicle, with footage obtained from an Instagram account linked to **Singh**.  The case is expected to return to court later this month for sentencing.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 61241,
+      "title": "Iran move World Cup base from US to Mexico with FIFA approval | World Cup 2026 News | Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-18T140947Z_931977777_UP1EM5I13CA0Q_RTRMADP_3_IRAN-CRISIS-SOCCER-TURKEY-1779561976.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-23 20:09:58.941779",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Iran",
+      "rephrased_article": "**Iran**'s football federation has moved their World Cup 2026 training camp from Arizona to Tijuana, Mexico, after receiving FIFA approval. **Mehdi Taj**, the federation president, stated that the move will help avoid visa complications stemming from the US-Israel war on Iran and allow for direct flights with **Iran Air**. The team will play their first two Group G matches in Los Angeles before facing Egypt in Seattle.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61240,
+      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg",
+      "scraped_at": "2026-05-23 20:09:41.871461",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Iran",
+      "rephrased_article": "**Donald Trump** stated that **Iran** is \"getting a lot closer\" to reaching an agreement with the US on the war.  He has seen a draft agreement and insists any deal would prevent Iran from obtaining a nuclear weapon, while Iranian foreign ministry spokesman **Esmaeil Baqaei** said both sides have been converging in their positions but key issues remain unresolved. **Marco Rubio**, US Secretary of State, expressed cautious optimism about potential news within the next couple of days, emphasizing the US's stance on Iran not acquiring a nuclear weapon and reopening the Strait of Hormuz without Iranian tolls.  The temporary ceasefire between **Iran** and the US started in early April, with the US blockading Iranian ports since 13 April.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61237,
       "title": "China mine blast: Death toll rises to 82; Beijing orders crackdown as rescue ops continue — top developments - The Times of India",
@@ -46,252 +266,55 @@
         "infrastructure",
         "health"
       ]
-    },
-    {
-      "id": 61232,
-      "title": "Tahsildar’s vehicle set on fire in Walajah - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tahsildars-vehicle-set-on-fire-in-walajah/article71014768.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/ocmlo/article71014883.ece/alternates/LANDSCAPE_1200/fire-45.jpeg",
-      "scraped_at": "2026-05-23 18:40:30.664532",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "**Tahsildar**'s official vehicle was set on fire early Saturday morning at the **taluk office** in Walajah town, Ranipet.  Firefighters extinguished the blaze before it spread further, but the vehicle was severely damaged. Security personnel observed a masked individual setting the SUV ablaze inside the premises and fled the scene. Police are investigating the incident and analyzing CCTV footage to identify the suspect.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61231,
-      "title": "Pakistan PM Shehbaz Sharif begins 4-day China visit amid fragile US-Iran truce - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/china/pakistan-pm-shehbaz-sharif-begins-4-day-china-visit-amid-fragile-us-iran-truce/articleshow/131279700.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131279753,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-23 18:40:13.247958",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "China",
-      "rephrased_article": "**Shehbaz Sharif**, the **Prime Minister of Pakistan**, began a four-day visit to China on Saturday, following visits by **Donald Trump** and **Vladimir Putin**. The trip comes amid ongoing US-Iran conflict mediation efforts with **China's foreign ministry** indicating discussions will focus on \"issues of common concern.\"  While **Xi Jinping**, the Chinese president, has not confirmed a meeting with Sharif, Beijing supports Pakistan's role as a mediator.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61230,
-      "title": "Thousands march in Madrid demanding Spanish PM quit over graft allegations | Protests News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/14010156-1779556137.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-23 18:39:56.955101",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Pedro Sanchez",
-      "rephrased_article": "Thousands of people marched in Madrid demanding the resignation of **Prime Minister Pedro Sanchez** over corruption allegations. The protest, organized by civic associations and backed by political parties including the Popular Party (PP) and far-right Vox, was sparked by a series of scandals involving Sanchez's family and entourage.  Sanchez has maintained that the accusations are politically motivated, while his brother is scheduled to stand trial for influence peddling and his wife is under investigation in a separate case.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61229,
-      "title": "Fuel price hike: Bengaluru hoteliers feel the heat - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/fuel-price-hike-bengaluru-hoteliers-feel-the-heat/article71013834.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/eoe415/article71013874.ece/alternates/LANDSCAPE_1200/DSC_0924.JPG",
-      "scraped_at": "2026-05-23 18:39:39.640027",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Fuel price hike",
-      "rephrased_article": "**Fuel prices** have increased for the third time in 10 days, raising concerns about their impact on transportation and logistics sectors. **Hotels** in Bengaluru are warning that rising costs will force them to increase menu prices or face financial strain.  The industry is already struggling with high commercial LPG cylinder prices and supply shortages, making it difficult to absorb the increased fuel costs without impacting consumers.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 61228,
-      "title": "Is United States on verge of a Maduro-like military intervention in Cuba? - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/is-united-states-on-verge-of-a-maduro-like-military-intervention-in-cuba/articleshow/131280980.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131281635,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-23 18:39:22.431061",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "US Government",
-      "rephrased_article": "The **Trump** administration is intensifying pressure on Cuba through sanctions, restrictions on oil shipments, and threats of tariffs. The indictment of former Cuban president Raúl Castro over the 1996 shootdown of Brothers to the Rescue aircraft has been seen as a symbolic move aimed at squeezing the Cuban economy and forcing concessions or regime change.  Analysts believe this approach is similar to the one used against Venezuela but that Cuba presents a more complex challenge due to its consolidated political structure, disciplined security apparatus, and lack of widespread opposition movements. While **Secretary of State Marco Rubio** has advocated for hardline policies against Havana, Cuban officials have expressed openness to negotiations. The US military has increased intelligence-gathering flights near Cuba, while the USS Nimitz entered the Caribbean in May, fueling fears about potential intervention plans. However, experts warn that a full-scale invasion would be risky and costly, potentially destabilizing the region and triggering a humanitarian crisis.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "health",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61225,
-      "title": "US, Iran move closer to 60-day ceasefire extension: What's in the deal - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-move-closer-to-60-day-ceasefire-extension-whats-in-the-deal/articleshow/131282678.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131282773,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-23 18:38:30.479953",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Iran",
-      "rephrased_article": "The United States and **Iran** are nearing an agreement to extend their ceasefire for another 60 days, with mediators working on a framework for broader negotiations. The proposed deal includes the gradual reopening of the Strait of Hormuz, phased sanctions relief, easing of US restrictions on Iranian ports, and discussions about Iran's uranium stockpile.  The talks aim to prevent renewed military confrontation between Washington and Tehran, but deep disagreements remain over Iran's nuclear program and its right to pursue sovereign interests. The agreement is being closely monitored by regional powers like Saudi Arabia, Qatar, and the United Arab Emirates who fear a renewed conflict could destabilize the Gulf region and worsen the global energy crisis.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61224,
-      "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran | US-Israel war on Iran News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a11de5a5fd6-1779555930.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-23 18:38:13.764131",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "US-Israeli war with Iran",
-      "rephrased_article": "**President Donald Trump** posted a photo of the US flag covering the map of Iran on his Truth Social account, prompting concerns about potential disruptions to ongoing negotiations for a lasting ceasefire in the US-Israeli war with Iran. **Vali Nasr**, professor of international affairs and Middle East studies at Johns Hopkins University, stated that this post could undermine diplomacy by casting doubt on America's true intentions.  Despite recent progress reported by both **US Secretary of State Marco Rubio** and **Iranian Foreign Ministry spokesperson Esmaeil Baghaei**, key sticking points in the standoff remain unresolved.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "education"
-      ]
-    },
-    {
-      "id": 61221,
-      "title": "Man held for stone pelting near Arani - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-stone-pelting-near-arani/article71014754.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-23 18:37:19.067609",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Mani",
-      "rephrased_article": "**Government Railway Police (GRP)** arrested a 34-year-old man, T. Joseph Mani, for damaging the glass windows of the Howrah express train near Arani town in Tiruvannamalai after an argument with other passengers.  Mani pulled the emergency chain to stop the train and threw stones at the windows before being apprehended by railway police. An investigation is ongoing.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61220,
-      "title": "Canada’s new immigration policy could let foreign criminals delay deportation — What we know - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/canadas-new-immigration-policy-could-let-foreign-criminals-delay-deportation-what-we-know/articleshow/131284030.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131284339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-23 18:36:55.782812",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Canadian Government",
-      "rephrased_article": "**The Immigration and Refugee Board (IRB)** has revised its guidelines for postponing deportation hearings, allowing tribunal members to consider ongoing criminal appeals when deciding whether to delay proceedings. The changes, effective June 1st, broaden the criteria for postponements but have drawn criticism from **Conservative** officials who argue they could make it easier for convicted foreign nationals to remain in Canada longer.  The IRB maintains that the updated guidelines aim to improve consistency and fairness in handling postponement requests while emphasizing that authorities can still arrest and detain individuals deemed a public safety risk.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "protest_opposition"
-      ]
     }
   ],
   "category_breakdown_30d": {
-    "international": 237,
-    "politics": 77,
+    "international": 241,
+    "politics": 80,
     "economy": 118,
-    "crime": 48,
-    "other": 119,
+    "crime": 50,
+    "other": 121,
     "health": 31,
-    "sports": 35,
+    "sports": 37,
     "education": 18,
-    "environment": 33,
-    "regional": 3
+    "environment": 34,
+    "regional": 8
   },
   "top_ministers_30d": {
-    "Narendra Modi": 170,
+    "Narendra Modi": 178,
     "Mamata Banerjee": 64,
-    "Rahul Gandhi": 59,
-    "Modi": 54,
-    "Amit Shah": 49,
-    "Shah": 45,
-    "M.K. Stalin": 34,
+    "Rahul Gandhi": 60,
+    "Modi": 57,
+    "Amit Shah": 52,
+    "Shah": 47,
+    "M.K. Stalin": 38,
     "Mallikarjun Kharge": 24,
-    "Pinarayi Vijayan": 21,
-    "Chandrababu Naidu": 21
+    "Chandrababu Naidu": 23,
+    "Pinarayi Vijayan": 21
   },
   "top_parties_30d": {
-    "Congress": 494,
-    "BJP": 413,
-    "INC": 303,
-    "TMC": 100,
-    "DMK": 95,
-    "Trinamool": 77,
-    "CPI": 66,
-    "AIADMK": 58,
-    "CPM": 39,
-    "SP": 38
+    "Congress": 507,
+    "BJP": 429,
+    "INC": 311,
+    "TMC": 102,
+    "DMK": 101,
+    "Trinamool": 79,
+    "CPI": 68,
+    "AIADMK": 60,
+    "SAD": 40,
+    "SP": 39
   },
   "top_states_30d": {
-    "Tamil Nadu": 213,
-    "Kerala": 210,
-    "Gujarat": 189,
-    "Delhi": 182,
-    "West Bengal": 143,
-    "Karnataka": 131,
-    "Punjab": 117,
-    "Telangana": 87,
-    "Kashmir": 78,
-    "Andhra Pradesh": 67
+    "Tamil Nadu": 219,
+    "Kerala": 215,
+    "Gujarat": 197,
+    "Delhi": 185,
+    "West Bengal": 147,
+    "Karnataka": 134,
+    "Punjab": 121,
+    "Telangana": 91,
+    "Kashmir": 79,
+    "Andhra Pradesh": 70
   },
   "promise_summary": {
     "total": 20,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.646650",
+  "generated_at": "2026-05-23 21:11:26.444636",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,27 +8,27 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 67,
-    "articles_last_30d": 67
+    "total_articles": 70,
+    "articles_last_30d": 70
   },
   "top_cities_30d": {
-    "Visakhapatnam": 8,
+    "Visakhapatnam": 10,
     "Delhi": 6,
     "Hyderabad": 5,
+    "Chennai": 5,
     "Bengaluru": 3,
-    "Chennai": 2,
+    "Mumbai": 3,
+    "Madurai": 2,
     "Varanasi": 1,
     "Allahabad": 1,
-    "Madurai": 1,
-    "Kolkata": 1,
-    "Mumbai": 1
+    "Kolkata": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 61,
-    "education": 20,
+    "foreign_policy": 64,
+    "education": 22,
     "farmer_agriculture": 17,
     "infrastructure": 14,
-    "economy": 11,
+    "economy": 13,
     "health": 10,
     "protest_opposition": 10,
     "crime_violence": 10,
@@ -36,6 +36,33 @@
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61257,
+      "title": "Chennai and surrounding areas to experience cloudy weather - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-and-surrounding-areas-to-experience-cloudy-weather/article71015358.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3evr39/article71015727.ece/alternates/LANDSCAPE_1200/4871_9_5_2026_12_18_2_1_DSC_7667.JPG",
+      "scraped_at": "2026-05-23 20:15:50.260470",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "None",
+      "rephrased_article": "**Chennai** experienced cloudy skies on Saturday due to a low-level circulation over the central Bay of Bengal and a north–south trough. **V.R. Durai**, Director, Regional Weather Forecasting Centre, explained that this interaction caused enhanced moisture incursion and strong onshore winds, leading to widespread low and mid-level clouds. Residents reported a sandstorm at Marina Beach, while Sunday is expected to be cloudy with heavy rain possible in isolated areas of Tamil Nadu and surrounding regions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61207,
       "title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
@@ -1849,6 +1876,76 @@
       "topic_tags": [
         "crime_violence",
         "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 54877,
+      "title": "Chandrababu Naidu lays foundation for Google’s ₹1.35 lakh crore AI data centre in Visakhapatnam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/caught-in-unrest-after-zubeen-gargs-death-assams-tezpur-university-starts-afresh/article70915103.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/es6oef/article70915065.ece/alternates/LANDSCAPE_1200/Chandrababu.jpeg",
+      "scraped_at": "2026-04-28 07:41:20.252100",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Google",
+      "rephrased_article": "**Chief Minister N. Chandrababu Naidu** laid the foundation stone for a 1-Gigawatt Google data center in Tarluvada, Visakhapatnam, marking one of India's largest foreign direct investments. The project will be managed by **Google’s subsidiary Raiden Infotech**, in partnership with **Adani Infra**, and is part of a $15 billion investment from **Google** in the state.  The center will offer large-scale data storage and AI cloud infrastructure, and an upcoming subsea cable system will connect Visakhapatnam to several countries. Union Ministers, IT Minister Nara Lokesh, and representatives from Google, Adani Group, and Airtel Nxtra attended the ceremony.",
+      "party_mentioned": [
+        "Congress",
+        "YSRCP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Chennai",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 54871,
+      "title": "Chandrababu Naidu lays foundation for Google’s ₹1.35 lakh crore AI data centre in Visakhapatnam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-lays-foundation-for-googles-135-lakh-crore-ai-data-centre-in-visakhapatnam/article70915031.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/es6oef/article70915065.ece/alternates/LANDSCAPE_1200/Chandrababu.jpeg",
+      "scraped_at": "2026-04-28 07:39:41.729656",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Nara Lokesh",
+      "rephrased_article": "On Tuesday, April 28, 2026, **Chief Minister N. Chandrababu Naidu** laid the foundation stone for a Google data center in Tarluvada, Visakhapatnam. The $15 billion investment will create a 1-Gigawatt hyperscale AI data center on 601.4 acres and is expected to generate thousands of jobs. **Union Ministers Ashwini Vaishnaw**, **Kinjarapu Rammohan Naidu**, and **Pemmasani Chandrasekhar**, along with **IT Minister Nara Lokesh** and representatives from Google, Adani Infra, and other partners attended the ceremony.  The project will be inaugurated in September 2028 and is expected to position Andhra Pradesh as an international data gateway for India.",
+      "party_mentioned": [
+        "Congress",
+        "YSRCP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Chennai",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 20:07:07.623193",
+  "generated_at": "2026-05-23 21:11:26.422248",
   "party": "INC",
   "full_name": "Indian National Congress",
   "ideology": "Centrist, Social liberalism",
@@ -12,12 +12,12 @@
   ],
   "color": "#00BFFF",
   "stats": {
-    "total_articles": 303,
-    "articles_last_30d": 303,
+    "total_articles": 311,
+    "articles_last_30d": 311,
     "sentiment_breakdown_30d": {
-      "neutral": 107,
-      "negative": 123,
-      "positive": 73
+      "neutral": 110,
+      "negative": 127,
+      "positive": 74
     }
   },
   "ministers": [
@@ -88,6 +88,102 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 61255,
+      "title": "TVK government will fall one day, says M.K. Stalin - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-government-will-fall-one-day-says-mk-stalin/article71015716.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4lh9h7/article71015724.ece/alternates/LANDSCAPE_1200/9868_16_4_2026_19_35_33_3_SPEACH_3_EDITED.JPEG",
+      "scraped_at": "2026-05-23 20:15:04.152892",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TVK government",
+      "rephrased_article": "**M.K. Stalin**, leader of the **DMK**, criticized the **TVK** government, led by Chief Minister **C. Joseph Vijay**, for its dependence on other parties for support and alleged attempts to split the AIADMK.  He compared the public's interest in the new party to a child's fascination with a toy, predicting that it would fade quickly. **Stalin** also highlighted his government's achievements over the past five years as evidence of improved governance.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61253,
+      "title": "DMK, Congress trade barbs over the latter’s post-poll alliance with the TVK - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/war-of-words-between-dmk-and-congress-over-pre-and-post-poll-allegiances/article71015278.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/as2eat/article71015730.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-23%20at%208.38.01%20PM.jpeg",
+      "scraped_at": "2026-05-23 20:14:17.547096",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**DMK** leader Udhayanidhi Stalin accused the **Congress** of being responsible for the BJP's victories, claiming they had \"shed blood and tears\" to ensure Congress wins.  **DMK** president M.K. Stalin was also present at the meeting where a resolution condemned the **Congress** for its betrayal and labeled it a \"parasite\".  The **Congress** Legislature Party leader S. Rajesh Kumar countered these accusations, stating that the people of Tamil Nadu elected the **AIADMK** to power based on the promise of sharing power with alliance partners.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61250,
+      "title": "Public outcry grows louder over power cuts in U.P.; Oppn. parties call it structural failure - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/public-outcry-grows-louder-over-power-cuts-inupoppn-parties-call-it-structural-failure/article71014891.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3xmk1s/article71015747.ece/alternates/LANDSCAPE_1200/IMG_1355972212.jpg_2_1_QL9QDINS.jpg",
+      "scraped_at": "2026-05-23 20:13:07.288164",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Yogi Adityanath-led government",
+      "rephrased_article": "**Residents** of Uttar Pradesh are protesting frequent power cuts, exacerbated by the heat wave. **Opposition parties**, including the Samajwadi Party and Congress, have criticized the **Yogi Adityanath-led government** for its handling of the crisis, alleging a failure to expand power generation capacity and pointing to structural issues within the electricity department. The **Vidyut Karmchari Joint Sangharsh Samiti** has also blamed the vertical restructuring system implemented in the power corporation for the ongoing problems.",
+      "party_mentioned": [
+        "Congress",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 61207,
       "title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
@@ -5618,77 +5714,6 @@
       "topic_tags": [
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 56704,
-      "title": "Kerala Assembly poll: Deciphering the Malabar mandate - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-poll-deciphering-the-malabar-mandate/article70939470.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/hfk2fi/article70940172.ece/alternates/LANDSCAPE_1200/80691_4_5_2026_20_4_45_1_TKG5.JPG",
-      "scraped_at": "2026-05-05 00:03:50.224381",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "CPI(M)-led Left Democratic Front",
-      "rephrased_article": "**North Kerala**, comprising seven districts from Kasaragod to Thrissur, has witnessed a significant shift in the political landscape ahead of the 2026 Assembly elections. The region, previously a stronghold for the **CPI(M)-led Left Democratic Front**, has become a launchpad for the **Congress-led United Democratic Front**.  The LDF's dominance in this area has significantly weakened, with its seat count plummeting from 50 to just a dozen. This change marks a significant departure from the previous election results and could reshape future political dynamics in the state.",
-      "party_mentioned": [
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56702,
-      "title": "Kerala Assembly Elections 2026: UDF sweeps Kozhikode with 12 seats - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-udf-sweeps-kozhikode-with-12-seats/article70939892.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qrke5l/article70940117.ece/alternates/LANDSCAPE_1200/80692_4_5_2026_20_42_0_1_05TVKZELECTION1.JPG",
-      "scraped_at": "2026-05-05 00:03:20.156255",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "UDF",
-      "rephrased_article": "The **Left Democratic Front (LDF)** suffered a significant setback in the Kozhikode district Assembly elections, losing its dominance after winning 11 of 13 seats in 2021. The **United Democratic Front (UDF)** secured 12 seats, while the **Congress** won five, marking a major shift in power dynamics.  The **Indian Union Muslim League (IUML)** also made gains, securing six seats, including their first female legislator, Fathima Thahiliya.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56701,
-      "title": "Kerala Assembly Elections 2026: Sixth straight win for V.D. Satheesan in Paravur - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-sixth-straight-win-for-vd-satheesan-in-paravur/article70938617.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/v0qjbx/article70940273.ece/alternates/LANDSCAPE_1200/NH04VDsatheesan02.JPG",
-      "scraped_at": "2026-05-05 00:03:00.412161",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "V.D. Satheesan",
-      "rephrased_article": "**V.D. Satheesan**, the UDF candidate, has won the Paravur Assembly constituency for a sixth consecutive time in Kerala's elections.  He secured 78,658 votes, defeating **E.T. Taison** of the LDF who received 58,058 votes. **Valsala Prasannakumar**, former Congress chairperson, finished third with 20,377 votes. This victory follows Satheesan's win in 2021 against M.T. Nixon of the LDF.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]
