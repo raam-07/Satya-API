@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 15:48:22.398605",
+  "generated_at": "2026-05-24 19:53:04.533721",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 263,
+    "total_articles": 283,
     "articles_last_30d": 254
   },
   "top_cities_30d": {
-    "Chennai": 55,
+    "Chennai": 56,
     "Delhi": 18,
     "Madurai": 12,
     "Coimbatore": 9,
@@ -24,11 +24,11 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 218,
+    "foreign_policy": 217,
     "education": 66,
     "protest_opposition": 50,
     "economy": 43,
-    "infrastructure": 38,
+    "infrastructure": 39,
     "farmer_agriculture": 27,
     "crime_violence": 24,
     "health": 19,
@@ -36,6 +36,57 @@
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 61391,
+      "title": "Congress factions in Kerala ‘wishcasting’ for their respective loyalists as KPCC president’s post comes up for grabs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/congress-factions-in-kerala-wishcasting-for-their-respective-loyalists-as-kpcc-presidents-post-comes-up-for-grabs/article71017533.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mxffl/article71017617.ece/alternates/LANDSCAPE_1200/JA26KPCC05.JPG",
+      "scraped_at": "2026-05-24 12:09:26.512356",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** factions in Kerala are engaged in a power struggle for the upcoming KPCC president position, with **Sunny Joseph**, current KPCC president, joining the government. The **All India Congress Committee (AICC)** is reportedly set to intervene and re-organize the party's leadership structure, including the KPCC presidency, amidst concerns about internal divisions hindering past UDF governments.  The AICC has emphasized social demographics, caste balance, and merit as key considerations for selecting the next KPCC president.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61376,
+      "title": "Steps will be taken to modernise prison administration: T.N. Law Minister Nirmalkumar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/steps-will-be-taken-to-modernise-prison-administration-tn-law-minister-nirmalkumar/article71017477.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/arza7f/article71017545.ece/alternates/LANDSCAPE_1200/DSC_9110.JPG",
+      "scraped_at": "2026-05-24 11:03:44.852520",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "T.N. Law Minister Nirmalkumar",
+      "rephrased_article": "**R. Nirmalkumar**, Tamil Nadu Minister for Law, emphasized the need for prison modernization in the state, including using digital technologies to enhance visitor screening and prevent contraband smuggling.  He inspected the Central Prison at Puzhal and noted the need for improved hospital equipment and basic amenities for the 1,500 inmates housed there. **Nirmalkumar** also pledged to explore legal aid options for remand prisoners held beyond their stipulated periods and directed both the Electricity and Prisons departments to avoid unnecessary administrative transfers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
     {
       "id": 61324,
       "title": "Officials check school buses for road worthiness in Kallakurichi - The Hindu",
@@ -5473,52 +5524,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 56124,
-      "title": "EC makes final preparations for counting of votes at 62 centres across Tamil Nadu - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ec-makes-final-preparations-for-counting-of-votes-at-62-centres-across-tamil-nadu/article70931465.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/p1hp8x/article70932135.ece/alternates/LANDSCAPE_1200/9712_2_5_2026_15_18_42_1__DSC3334.JPG",
-      "scraped_at": "2026-05-02 19:42:03.937077",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Election Commission of India (EC)** has finalized arrangements for the Tamil Nadu Assembly election vote counting at 62 centers on Monday. The counting will begin at 8 a.m. with postal ballots, accepted until 8 a.m., and then followed by EVM votes starting at 8:30 a.m.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56123,
-      "title": "Five schools, 69 students from T.N. get road safety awards - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/five-schools-69-students-from-tn-get-road-safety-awards/article70932773.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/v7dfk9/article70933165.ece/alternates/LANDSCAPE_1200/road%20safety.jpg",
-      "scraped_at": "2026-05-02 19:41:39.700571",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "National Road Safety Mission",
-      "rephrased_article": "**The National Road Safety Mission** awarded five institutions in Tamil Nadu and recognized 69 students as Olympiad winners at the National Road Safety Education Excellence Awards 2025-26.  A total of 134 schools from the state participated, with several named top performers and select institutions receiving special recognition. The program, launched in 2024, has reached over 5,000 schools across 35 states and union territories, engaging more than 2.2 million students through school zone safety audits and a safety rating framework.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education"
       ]
     }
   ]

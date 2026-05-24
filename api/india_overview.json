@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 15:48:22.302640",
+  "generated_at": "2026-05-24 19:53:04.440127",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,17 +7,17 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 6855,
-    "articles_last_7_days": 842,
-    "articles_last_30_days": 6551,
-    "civic_flags_last_30_days": 26,
-    "civic_flags_today": 4
+    "total_articles_classified": 7155,
+    "articles_last_7_days": 913,
+    "articles_last_30_days": 6562,
+    "civic_flags_last_30_days": 28,
+    "civic_flags_today": 6
   },
   "civic_alert": {
-    "flagged_count_30d": 26,
-    "flagged_today": 4,
+    "flagged_count_30d": 28,
+    "flagged_today": 6,
     "top_flag_categories": {
-      "power_abuse": 20,
+      "power_abuse": 22,
       "institutional_failure": 3,
       "scale_of_harm": 2,
       "suppression": 1
@@ -25,185 +25,58 @@
   },
   "top_stories": [
     {
-      "id": 61361,
-      "title": "Cooling appliances’ demand surges ahead of Eidul Azha - Business - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002664/cooling-appliances-demand-surges-ahead-of-eidul-azha",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/2407023317a1007.webp",
-      "scraped_at": "2026-05-24 09:37:09.393043",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Pakistani economy",
-      "rephrased_article": "Despite rising living costs, appliance sales have increased in the lead-up to Eidul Azha. **Sohail Malik**, finance secretary of the **Karachi Electronic Dealers Association (KEDA)**, reported a 25-30% increase in refrigerator and deep freezer sales compared to last year.  **Pak Elektron (PAEL)**, a leading appliance manufacturer, attributes this growth to consumers' need for cooling appliances to store Qurbani meat. The company projects strong recovery in appliance sales due to economic stability, easing import restrictions, lower interest rates, and increased consumer financing.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61360,
-      "title": "Squeals of horror over price caps – but how are we going to fix our broken food system? | Food & drink industry | The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/24/horror-price-caps-fix-broken-food-system-analysis",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/555629f5d728030616a857a3c0eb362fc923eb31/340_70_2658_2126/master/2658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d0c46b0f7c2463444fa225de2522def",
-      "scraped_at": "2026-05-24 09:36:53.158584",
-      "category": "economy",
+      "id": 61431,
+      "title": "Who was Kamran Aman? UK delivery driver stabbed to death in racist attack by teenagers - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/who-was-kamran-aman-uk-delivery-driver-stabbed-to-death-in-racist-attack-by-teenagers/articleshow/131292370.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131292423,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-24 14:15:36.492028",
+      "category": "crime",
       "sentiment": "negative",
-      "sentiment_target": "UK Government",
-      "rephrased_article": "The **Treasury** is asking UK supermarkets to cap price rises on essential foods in response to rising food prices, a move met with criticism from industry figures. The surge in food prices is attributed to global factors like the Iran war and a record-breaking El Niño event, highlighting vulnerabilities in the global food system.  These disruptions, coupled with climate change impacts like drought and extreme weather events, are causing significant challenges for British farmers and increasing the cost of living crisis.  The UK's reliance on imports for key resources like fertilizer and fossil gas further exacerbates these issues. The government acknowledges the need for a more resilient food system but faces resistance from market-driven approaches.",
+      "sentiment_target": "Marcus Staniforth",
+      "rephrased_article": "**Marcus Staniforth**, 17, and a 16-year-old boy were sentenced to life in prison with minimum terms of 17 years and 15 years respectively for the racist murder of **Kamran Aman**, a 38-year-old grocery delivery driver. The attack occurred outside **Aman's** mother's home in Barry, Wales, after the victim was targeted by the teenagers who had been drinking alcohol and taking drugs.  The case has now been referred to the Court of Appeal under the Unduly Lenient Sentence scheme for review.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "economy",
-        "infrastructure",
-        "foreign_policy",
+        "crime_violence",
         "rape_sexual_crime"
       ]
     },
     {
-      "id": 61359,
-      "title": "Bomb attack in Pakistan’s Balochistan province kills more than 20 people | Conflict News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a12aa73a2ce-1779608179.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-24 09:36:37.169969",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Balochistan Liberation Army",
-      "rephrased_article": "A bomb attack in Quetta, the capital of Pakistan's Balochistan province, killed at least 20 people and injured over 50 others. The **Balochistan Liberation Army** claimed responsibility for the explosion which occurred when a train passed through the city.  The blast caused several carriages to overturn and catch fire, damaging nearby houses and buildings.  Hospitals in Quetta declared a state of emergency as medical staff were ordered to remain on duty.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61357,
-      "title": "'Obsession with our country's most cherished structure': Trump reacts to White House shooting - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/obsession-with-our-countrys-most-cherished-structure-trump-reacts-to-white-house-shooting/articleshow/131288789.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131288812,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-24 09:36:02.353313",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Secret Service",
-      "rephrased_article": "**President Donald Trump** reacted to a shooting near the White House, praising **Secret Service** and law enforcement for their swift action that resulted in the suspect's death. The suspect, identified as Nasire Best, was shot by **Secret Service** personnel after allegedly firing multiple rounds at officers stationed near a security checkpoint.  The incident occurred while **Trump** was inside the White House during diplomatic discussions related to Iran and a proposed peace framework involving Middle Eastern nations.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61356,
-      "title": "2008 railway exam assault: Raj Thackeray's role in instigating attack not proved, says court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/2008-railway-exam-assault-raj-thackerays-role-in-instigating-attack-not-proved-says-court/article71017331.ece",
+      "id": 61430,
+      "title": "Quad remains ‘vital’, says Japanese Foreign Minister, rejecting concerns over the grouping’s importance in the Indo-Pacific - The Hindu",
+      "url": "https://www.thehindu.com/news/national/quad-remains-vital-says-japanese-foreign-minister-rejecting-concerns-over-the-groupings-importance-in-the-indo-pacific/article71017719.ece",
       "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8astdu/article71017344.ece/alternates/LANDSCAPE_1200/20260220075L.jpg",
-      "scraped_at": "2026-05-24 09:35:45.743587",
-      "category": "politics",
+      "image_url": "https://th-i.thgim.com/public/incoming/j9z8wr/article71018123.ece/alternates/LANDSCAPE_1200/%E8%8C%82%E6%9C%A8%E5%A4%A7%E8%87%A3.jpg.jpeg",
+      "scraped_at": "2026-05-24 14:15:15.083194",
+      "category": "international",
       "sentiment": "neutral",
-      "sentiment_target": "Raj Thackeray",
-      "rephrased_article": "A **Thane** court acquitted **Raj Thackeray** and five others in a 14-year-old case of alleged assault on Railway Recruitment Board examinees at Kalyan station. The court found the prosecution failed to prove **Thackeray's** presence or that he incited the attack, as key witnesses could not identify him, and the evidence was deemed inadmissible due to its lack of preservation and production.  The court also noted that injuries sustained by witnesses could have resulted from a stampede.",
+      "sentiment_target": "Quadrilateral Foreign Ministers' Meeting (FMM)",
+      "rephrased_article": "**Toshimitsu Motegi**, **Japanese Foreign Minister**, stated that the **Quadrilateral Foreign Ministers' Meeting (FMM)** will prioritize cooperation on critical minerals for green energy and hi-tech. The meeting, hosted by **S. Jaishankar**, will also address ongoing conflicts in Iran and the Hormuz Strait blockade, as well as the recent visit of **Donald Trump** to China.  The FMM is expected to set the agenda for the Quad Summit, which has not taken place since 2024 due to India-U.S. tensions.",
       "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Uttar Pradesh"
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
       ],
-      "cities_mentioned": [
-        "Thane"
-      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
       "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
+        "foreign_policy"
       ]
     },
     {
-      "id": 61355,
-      "title": "TikToker held in Faisalabad for using obscene language for female tourists in Naran - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002608/tiktoker-held-in-faisalabad-for-using-obscene-language-for-female-tourists-in-naran",
+      "id": 61425,
+      "title": "What we know about the possible US-Iran deal - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002774/what-we-know-about-the-possible-us-iran-deal",
       "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/24105745291465c.webp",
-      "scraped_at": "2026-05-24 09:35:30.416477",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Yousuf",
-      "rephrased_article": "A **TikToker** from Faisalabad, Yousuf, was arrested for making a video of female tourists at lake Saif-ul-Muluk using obscene language. The **Roshanwala Police** registered a case against him after identifying the suspect and he later confessed to profiting from creating such videos. In another incident, a 16-year-old girl suffering from cancer was allegedly kidnapped, gang-raped, and filmed by three individuals including a father and son in Faisalabad. The **Saddar Police** arrested the accused father and son based on the victim's mother's complaint.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "rape_sexual_crime",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61353,
-      "title": "Russian attacks on Ukraine’s Kyiv kill at least four people | Russia-Ukraine war News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26144105121844-1779610876.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-24 09:34:59.820774",
+      "image_url": "https://i.dawn.com/large/2026/05/241756299b9db9b.webp",
+      "scraped_at": "2026-05-24 14:13:31.325574",
       "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Russia",
-      "rephrased_article": "**Russia** launched a massive missile and drone attack on **Kyiv**, Ukraine, killing at least four people and injuring over 60. The attack involved hypersonic missiles, including the Oreshnik, as well as drones and conventional missiles.  The **Russian** defense ministry claimed the strikes were in response to attacks on Russian-occupied territory. **Ukrainian** officials reported damage to residential buildings, offices, shops, and a metro station in the capital.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61352,
-      "title": "RInfra Q4 net profit falls to Rs 918 cr; company appoints Vijesh Babu Thota as CEO - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rinfra-q4-net-profit-falls-to-rs-918-cr-company-appoints-vijesh-babu-thota-as-ceo/articleshow/131289792.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131289906,width-1200,height-630,imgsize-8966,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-24 09:34:43.084280",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Reliance Infrastructure",
-      "rephrased_article": "**Reliance Infrastructure** reported a net profit of Rs 4,387.08 crore in the same quarter last year, but its total income fell to Rs 4,154.34 crore for the January-March period of FY26 from Rs 4,268.05 crore in the previous fiscal. Expenses increased to Rs 5,419.87 crore, driven by higher power costs, which reached Rs 3,285.68 crore. The company's annual income dropped to Rs 20,862.03 crore from Rs 23,999.29 crore in the previous fiscal year. **Reliance Infrastructure** appointed Vijesh Babu Thota as CEO effective May 23 and Asheesh Chaturvedi as the new CFO.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 61351,
-      "title": "Taiwan Elections Spark Controversy with 'No Indian Workers' Billboards | World News - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/no-indian-workers-billboards-in-taiwan-polls-unsettle-expats/articleshow/131289805.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131289910,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-24 09:34:25.775555",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Lee Hung-Yi",
-      "rephrased_article": "**Lee Hung-Yi**, an independent candidate in Taiwan's upcoming local elections, has sparked controversy with billboards featuring a turbaned man with a \"no entry\" sign. **Joseph Wu**, former foreign minister and current National Security Council secretary general, condemned the campaign as \"despicable conduct.\" The billboards have unsettled the small but growing Indian community on the island, who say they are part of an online anti-India sentiment fueled by limited people-to-people contact and political campaigns against a potential influx of Indian workers. Despite attempts to reach him for comment, **Lee Hung-Yi** could not be reached.",
+      "sentiment": "neutral",
+      "sentiment_target": "US-Iran deal",
+      "rephrased_article": "**President Donald Trump** announced an agreement had been “largely negotiated” with **Iran**, which would include the reopening of the Strait of Hormuz.  **Esmaeil Baqaei**, Iran’s Foreign Ministry spokesman, stated that a memorandum of understanding (MoU) would be drafted first, before a final deal is reached within 30 to 60 days. The agreement reportedly includes an apparent commitment by **Iran** to give up its stockpile of highly enriched uranium, but **Iran** has denied making any commitments regarding its nuclear program.  A key sticking point in the talks is traffic through the Strait of Hormuz, a vital global conduit for oil shipments that has come under Iranian control since the outbreak of the war. The potential agreement would also see the US temporarily lifting sanctions on oil, gas, and petrochemicals during the negotiation period.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
@@ -213,16 +86,97 @@
       ]
     },
     {
-      "id": 61349,
-      "title": "More facts surface ahead of high profile One Constitution project case hearing - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002704/more-facts-surface-ahead-of-high-profile-one-constitution-project-case-hearing",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/241119157246417.webp",
-      "scraped_at": "2026-05-24 09:33:52.532648",
+      "id": 61424,
+      "title": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people | Conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260524__B3VJ49F__v1__HighRes__PakistanUnrestExplosion-1779612203.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-24 14:13:10.603218",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Balochistan Liberation Army",
+      "rephrased_article": "A bomb attack on a train carrying military personnel in Quetta, Balochistan, Pakistan, killed at least 24 people and injured over 50. The explosion occurred near the Chaman Pattak signal as the train passed, causing two carriages to overturn and catch fire. **The Balochistan Liberation Army** claimed responsibility for the attack.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61423,
+      "title": "Andy Burnham seeks advice from Sue Gray on forming future Labour government | Andy Burnham | The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/24/andy-burnham-advice-sue-gray-future-labour-government",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/a8aa648b9330f56c79fd0f806ae47550d8f87f8c/530_0_2369_1895/master/2369.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81a8b4ddd324b40e5fd45cc4937f903c",
+      "scraped_at": "2026-05-24 14:12:51.292380",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Andy Burnham",
+      "rephrased_article": "**Andy Burnham** has sought advice from **Sue Gray**, former chief of staff to **Keir Starmer**, on managing a potential transition into Downing Street.  Senior Labour figures are increasingly treating Burnham's path back to Westminster seriously, with internal succession chatter intensifying ahead of the Makerfield byelection.  **Darren Jones**, chief secretary to the Treasury, criticized the internal jockeying and urged focus on addressing country-wide challenges. **Wes Streeting**, a potential rival contender in any future leadership race, campaigned for Burnham over the weekend alongside **Lucy Powell**, Labour's deputy leader.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61422,
+      "title": "Indian man Parminderpal Singh arrested by ICE in Los Angeles over criminal record, may face deportation - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-man-parminderpal-singh-arrested-by-ice-in-los-angeles-over-criminal-record-may-face-deportation/articleshow/131292389.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131292444,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-24 14:12:30.987147",
       "category": "international",
       "sentiment": "neutral",
-      "sentiment_target": "Islamabad High Court",
-      "rephrased_article": "The **Islamabad High Court** is set to resume hearing the One Constitution project, with new details emerging regarding a 2012 arbitration award between **Abdul Hafeez Sheikh** of M BNP and **Nadeem Zia Pirzada** of M/s Paragon. The agreement stipulated that BNP would hold 75% ownership with Sheikh and 25% with Pirzada, subject to a forensic audit.  The court record also includes a petition concerning a dispute between BNP and the Bank of Punjab, signed by Ejazul Ahsan who later became a judge of the Supreme Court. Notably, Ahsan was part of the IHC bench that restored the controversial lease of the One Constitution Avenue project.",
+      "sentiment_target": "Parminderpal Singh",
+      "rephrased_article": "**Immigration and Customs Enforcement (ICE)** arrested **Parminderpal Singh**, a 26-year-old Indian citizen, in Los Angeles this week for potential deportation proceedings.  Singh has a history of criminal offenses including vehicle theft, grand theft, trespassing, and vandalism. This arrest follows a trend of ICE targeting non-citizens accused or convicted of crimes, with several Indian nationals facing detention or deportation proceedings in recent years.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 61421,
+      "title": "New U.S. Green Card rules raise concerns among professionals, students - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/new-us-green-card-rules-raise-concerns-among-professionals-students/article71017824.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bms2ka/article71018126.ece/alternates/LANDSCAPE_1200/New-USCIS-policGOJG14VKD.4.jpg.jpg",
+      "scraped_at": "2026-05-24 14:12:10.820919",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "USCIS",
+      "rephrased_article": "**The Trump administration's** new immigration policy requiring non-immigrant visa holders to apply for permanent residency in their home countries has caused anxiety and uncertainty among Indian professionals and students living in the United States. The policy, implemented through a memo from **USCIS**, requires most temporary workers and students to leave the country and apply for permanent residency through consular processing, creating concern for those already facing lengthy Green Card backlogs.  Many individuals, including software engineers like Maddela Srinivasulu and parents like Bulusu Janardhan, express fear about the future of their families and careers in the U.S., while others believe the policy's impact will be limited due to existing wait times for employment-based Green Cards.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61420,
+      "title": "PM Shehbaz lands in Beijing, will hold 'high-level' meetings with Chinese leadership - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002753/pm-shehbaz-lands-in-beijing-will-hold-high-level-meetings-with-chinese-leadership",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/24182845dfbe545.webp",
+      "scraped_at": "2026-05-24 14:11:51.289271",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "**Prime Minister Shehbaz Sharif** arrived in Beijing on Sunday to meet with Chinese leadership, including President Xi Jinping and Premier Li Qiang.  He discussed strengthening the Pakistan-China all-weather strategic cooperative partnership and advancing cooperation under CPEC Phase-II. **Shehbaz** highlighted areas of importance for Pakistani-Chinese cooperation, such as agriculture, IT, special economic zones (SEZs), and mining. He also emphasized the potential of renewable energy, healthcare, and investment opportunities in Pakistan.  **DPM Ishaq Dar**, accompanied by Planning Minister Ahsan Iqbal, arrived in Beijing to participate in the 2nd Pakistan–China Political Parties Forum and the 4th CPEC Political Parties Joint Consultation Mechanism. **Dar** highlighted Pakistan's economic revival and emphasized a billion-dollar joint venture between Servis Group of Pakistan and Long March Tyres of China.  The visit is significant as Pakistan and China commemorate the 75th anniversary of diplomatic relations.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [
@@ -231,58 +185,96 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy",
-        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61419,
+      "title": "Will the Texas primary run-off give Democrats a chance to flip the state? | US Midterm Elections 2026 News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/will-the-texas-primary-run-off-give-democrats-a-chance-to-flip-the-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26139649088867-1779489384.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-24 14:11:31.598442",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Ken Paxton",
+      "rephrased_article": "The Texas Republican primary runoff between Attorney General Ken Paxton and Senator John Cornyn will determine the nominee for November's midterm elections.  Paxton, endorsed by former President Donald Trump, faces accusations of misconduct and is considered less likely to win against Democratic nominee James Talarico, who has gained momentum in recent polls. Republicans are concerned that a Paxton nomination could hurt their statewide prospects and potentially lead to a shift in power within the US Senate. The winner will face Talarico, a left-leaning candidate with strong support from independent voters.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61417,
+      "title": "Trump turnaround: Open the straits, close the war - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-turnaround-open-the-straits-close-the-war/articleshow/131293243.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131293262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-24 14:10:51.626484",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Donald Trump",
+      "rephrased_article": "**President Donald Trump** has reportedly shifted his approach to the ongoing conflict with **Iran**, aiming for a deal that falls short of initial demands. The agreement, which would involve concessions from the U.S., aims to reopen the Strait of Hormuz and prevent global economic disruptions caused by energy supply issues.  However, Iran insists on maintaining sovereignty over the waterway and has rejected commitments regarding uranium enrichment or nuclear program dismantlement.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
         "foreign_policy"
       ]
     }
   ],
   "category_breakdown_30d": {
-    "international": 282,
-    "politics": 93,
-    "economy": 131,
-    "crime": 61,
-    "other": 130,
-    "health": 34,
-    "sports": 41,
-    "education": 20,
-    "environment": 37,
-    "regional": 13
+    "international": 323,
+    "politics": 101,
+    "economy": 133,
+    "crime": 66,
+    "other": 133,
+    "health": 35,
+    "sports": 44,
+    "education": 23,
+    "environment": 40,
+    "regional": 15
   },
   "top_ministers_30d": {
-    "Narendra Modi": 203,
-    "Rahul Gandhi": 75,
-    "Mamata Banerjee": 71,
-    "Amit Shah": 62,
-    "Modi": 61,
-    "Shah": 58,
-    "M.K. Stalin": 44,
+    "Narendra Modi": 207,
+    "Rahul Gandhi": 74,
+    "Mamata Banerjee": 70,
+    "Modi": 62,
+    "Amit Shah": 61,
+    "Shah": 60,
+    "M.K. Stalin": 43,
     "Chandrababu Naidu": 31,
     "Mallikarjun Kharge": 27,
     "Pinarayi Vijayan": 23
   },
   "top_parties_30d": {
     "Congress": 569,
-    "BJP": 499,
+    "BJP": 503,
     "INC": 364,
-    "TMC": 119,
-    "DMK": 112,
-    "Trinamool": 92,
+    "TMC": 118,
+    "DMK": 111,
+    "Trinamool": 91,
     "CPI": 73,
     "AIADMK": 64,
     "SP": 45,
-    "SAD": 44
+    "CPM": 44
   },
   "top_states_30d": {
     "Kerala": 256,
     "Tamil Nadu": 254,
-    "Gujarat": 233,
-    "Delhi": 217,
-    "West Bengal": 171,
+    "Gujarat": 238,
+    "Delhi": 219,
+    "West Bengal": 170,
     "Karnataka": 158,
-    "Punjab": 143,
-    "Telangana": 108,
-    "Andhra Pradesh": 95,
-    "Kashmir": 89
+    "Punjab": 144,
+    "Telangana": 111,
+    "Andhra Pradesh": 96,
+    "Kashmir": 90
   },
   "promise_summary": {
     "total": 20,

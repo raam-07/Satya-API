@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 15:48:22.396160",
+  "generated_at": "2026-05-24 19:53:04.531278",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 48,
+    "total_articles": 50,
     "articles_last_30d": 46
   },
   "top_cities_30d": {
@@ -24,7 +24,7 @@
     "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 39,
+    "foreign_policy": 40,
     "education": 17,
     "protest_opposition": 15,
     "economy": 11,
@@ -32,10 +32,36 @@
     "crime_violence": 9,
     "corruption_scam": 9,
     "farmer_agriculture": 8,
-    "health": 7,
+    "health": 8,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61370,
+      "title": "Heatstroke kills 16 in southern India as temperatures climb - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002757/heatstroke-kills-16-in-southern-india-as-temperatures-climb",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/2414553334c6490.webp",
+      "scraped_at": "2026-05-24 11:01:46.690643",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "India",
+      "rephrased_article": "**At least 16 people have died of heatstroke in southern India this summer**, according to officials, as a severe heatwave grips the country.  The **India Meteorological Department** predicted above-normal temperatures and intense heatwave conditions earlier this week, with several cities exceeding 45 degrees Celsius. The **Telangana** government has urged residents to take precautions during heatwaves, particularly vulnerable groups like the elderly, children, and pregnant women.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61338,
       "title": "12 MPs, four Parliamentary panels selected for Sansad Ratna Awards - The Hindu",
@@ -1444,6 +1470,41 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 53388,
+      "title": "Govt claims women winning unreserved panchayat seats in ‘significant numbers’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-claims-women-winning-unreserved-panchayat-seats-in-significant-numbers/article70893003.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-22 18:43:44.746384",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Union Government",
+      "rephrased_article": "The **Union Government** celebrated National Panchayati Raj Day, highlighting the progress of women's reservation in Panchayati Raj Institutions (PRIs).  While the Constitution mandates a 33% quota for women in urban and rural local bodies, 19 states have extended this provision to reserve 50% seats for women. However, data shows that the actual number of women representatives exceeds the prescribed quota in only 10 states/union territories, while four others fail to meet it.  The Ministry emphasized the increasing representation of women in PRIs, but acknowledged discrepancies between mandated and achieved quotas across various states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Kerala",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Sikkim",
+        "Tripura",
+        "Andaman"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
         "foreign_policy"
       ]
     }

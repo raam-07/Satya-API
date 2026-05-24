@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 15:48:22.431580",
+  "generated_at": "2026-05-24 19:53:04.565599",
   "state": "Ladakh",
   "capital": "Leh",
   "ruling_party": "Central Govt",
@@ -8,17 +8,17 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 20,
-    "articles_last_30d": 19
+    "total_articles": 22,
+    "articles_last_30d": 20
   },
   "top_cities_30d": {
     "Delhi": 7,
     "Srinagar": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 17,
+    "foreign_policy": 18,
+    "infrastructure": 8,
     "protest_opposition": 7,
-    "infrastructure": 7,
     "crime_violence": 5,
     "education": 4,
     "economy": 3,
@@ -26,6 +26,31 @@
     "health": 1
   },
   "recent_articles": [
+    {
+      "id": 61405,
+      "title": "Ladakh L-G Saxena launches ecological restoration project to reclaim 800 acres of barren land - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh/ladakh-l-g-saxena-launches-ecological-restoration-project-to-reclaim-800-acres-of-barren-land/article71017579.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/b5zm2p/article71017587.ece/alternates/LANDSCAPE_1200/20260518469L.jpg",
+      "scraped_at": "2026-05-24 12:12:22.863796",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Vinai Kumar Saxena",
+      "rephrased_article": "**Lieutenant-Governor Vinai Kumar Saxena** launched an ambitious ecological restoration project in Ladakh, aiming to reclaim nearly 800 acres of barren land near Spituk. The project utilizes excess water from the recently restored Igoo-Phey irrigation canal to replenish depleted aquifers and trigger natural vegetation growth.  Officials believe this initiative will improve soil health, create opportunities for sustainable agriculture and afforestation, and contribute to long-term ecological benefits in the region. This project aligns with Prime Minister Narendra Modi's vision of restoring 26 million hectares of degraded land by 2030.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61116,
       "title": "Financial decisions will rest with elected leaders: Sonam Wangchuk on Ladakh’s agreement with Centre - The Hindu",
@@ -630,6 +655,34 @@
       "topic_tags": [
         "foreign_policy",
         "crime_violence"
+      ]
+    },
+    {
+      "id": 53484,
+      "title": "Pahalgam terror attack: Govt appoints Karambir Singh Nalwa as Special Public Prosecutor to lead trial - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pahalgam-terror-attack-govt-appoints-karambir-singh-nalwa-as-special-public-prosecutor-to-lead-trial/article70894456.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/frs15k/article70894467.ece/alternates/LANDSCAPE_1200/12205_23_4_2025_13_44_18_4_56_MILITANT_ATTACK_SGR_23_04_2025.JPG",
+      "scraped_at": "2026-04-23 00:17:00.212625",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "**The Centre** appointed noted lawyer **Karambir Singh Nalwa** as Special Public Prosecutor to lead the trial in the Pahalgam terror attack case, which claimed 25 tourists and a local pony operator's lives on April 22, 2025. The NIA filed a comprehensive chargesheet against six individuals and two terrorist organizations, Pakistan-based Lashkar-e-Taiba and its shadow outfit TRF, for their role in planning and executing the attack.  The agency traced the conspiracy to Pakistan, which it said has been \"unabatedly sponsoring terrorism against India.\" The NIA named **Hafeez Saeed**, leader of **Lashkar-e-Taiba**, and **Habibullah Malik alias Sajid Jatt**, head of **The Resistance Front**, as accused in the chargesheet.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
       ]
     }
   ]

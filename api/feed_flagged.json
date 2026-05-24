@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-05-24 15:48:22.276545",
-  "total": 33,
+  "generated_at": "2026-05-24 19:53:04.418249",
+  "total": 42,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 24,
+    "power_abuse": 32,
     "scale_of_harm": 3,
     "institutional_failure": 4,
-    "suppression": 2
+    "suppression": 3
   },
   "articles": [
+    {
+      "id": 61432,
+      "title": "Ohio State reels from multiple scandals amid wider crisis in higher education | US universities | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/24/ohio-state-university-scandals",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/061a34099f5b7dca3efa31453eb96e68219427ec/171_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b634efba4a02cc52b7fbdca6df98624c",
+      "scraped_at": "2026-05-24 14:15:57.625529",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Ohio State University",
+      "rephrased_article": "Ohio State University, a prominent institution in the Midwest, is facing multiple scandals that have tarnished its reputation.  The university has settled with hundreds of victims of sexual abuse by Dr. Richard Strauss, a former medical staff member who abused student athletes for decades.  In addition to the sexual abuse scandal, the university's president resigned after using public funds to support an inappropriate relationship with a podcast host. The university is also grappling with declining enrollment and financial challenges, as well as controversies surrounding diversity initiatives and academic freedom.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "crime_violence",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Abuse of power and suppression of justice are evident in the cover-up of sexual abuse."
+    },
     {
       "id": 61340,
       "title": "UK judge’s decision not to jail boys for rape like a ‘rock in my face’, says victim, 16 | Hampshire | The Guardian",
@@ -338,6 +365,59 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Potential sanctions evasion by an Indian company raises concerns about financial misconduct."
+    },
+    {
+      "id": 53400,
+      "title": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians | Israel-Palestine conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69e91994bd-1776884116.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-22 20:09:17.950805",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israeli soldiers",
+      "rephrased_article": "Israeli soldiers and settlers are increasingly using sexual violence as a tool to pressure Palestinians in the occupied West Bank.  A report by the West Bank Protection Consortium, funded by the European Union, documented cases of forced nudity, invasive body searches, threats of rape, and sexual harassment, with over 70% of displaced families citing these acts as reasons for leaving their homes. The report also highlighted widespread harassment at checkpoints in Hebron, where women and young boys are subjected to humiliation and inappropriate questions from soldiers.  B’Tselem, an Israeli human rights organization, published a detailed report detailing mistreatment and humiliation by soldiers, including detention, humiliating body searches, filming victims during assaults, and unjustified physical and verbal abuse. Palestinian detainees in Israeli prisons have also reported sexual violence, including rape and assault, with documented cases of torture and ill-treatment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Systematic sexual violence against Palestinians is a grave human rights violation."
+    },
+    {
+      "id": 61375,
+      "title": "25 terrorists killed in Bannu clash - Newspaper - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002648/25-terrorists-killed-in-bannu-clash",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/240739513513dde.webp",
+      "scraped_at": "2026-05-24 11:03:25.172809",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Police",
+      "rephrased_article": "A fierce clash between police, a peace committee, and terrorists in Bannu district resulted in the deaths of at least 25 terrorists, two police officers, and two civilians.  Police sources confirmed that the operation was launched after receiving information about the presence of a large number of terrorists in the area. The Lakki Marwat police peace committee also arrived to support the Bannu police.  The operation led to the deaths of two key terrorist commanders, Zmari Noor and Abdullah.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Loss of life, including civilians, in a clash with police raises serious concerns."
     },
     {
       "id": 61299,
@@ -862,6 +942,172 @@
       "civic_flag_reason": "Suspension of parliament without convening raises concerns about abuse of power."
     },
     {
+      "id": 53543,
+      "title": "Nigeria EndSars protests: Police dragnet left this innocent man in prison for five years",
+      "url": "https://www.bbc.com/news/articles/cql7p9rd3gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/31ce/live/beef48b0-3ca1-11f1-8e26-931170ebc0de.jpg",
+      "scraped_at": "2026-04-23 08:27:43.105052",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Nigerian Police",
+      "rephrased_article": "Rasheed Wasiu, a 23-year-old Nigerian, spent five years in prison after being arrested during the End Sars protests in Lagos. He was initially accused of unlawful possession of firearms but later had his case dismissed due to lack of evidence.  The Take It Back Movement (TIB), an advocacy group, intervened on his behalf and secured his release. However, upon returning home, Wasiu discovered that his mother had gone missing. His neighbors reported seeing her occasionally at the market but she has not responded to their greetings.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Five years imprisonment based on lack of evidence is a grave abuse of power."
+    },
+    {
+      "id": 53520,
+      "title": "West Bengal election 2026: Humayun Kabir accuses Mamata Banerjee of 'purchasing' candidates, faces 'go back' slogans - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-elections-clash-murshidabad-election-commission-trinamool-congress-latest-update/article70896029.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/c8wsci/article70896062.ece/alternates/LANDSCAPE_1200/Untitled%20design%2038.png",
+      "scraped_at": "2026-04-23 06:13:39.722793",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "Humayun Kabir, leader of the Aam Janata Unnayan Party (AJUP), alleged that the ruling Trinamool Congress (TMC) bribed several of his party candidates to keep them out of the West Bengal Elections 2026.  Kabir was met with protests from TMC supporters who accused him of being a BJP agent and brandished slogans against him. The Election Commission is investigating allegations of voter intimidation in Domkal, Murshidabad district, where voters reported threats and intimidation by armed individuals.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy",
+        "corruption_scam",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of vote buying and suppression of opposition raise serious concerns."
+    },
+    {
+      "id": 53509,
+      "title": "West Bengal: Chief Minister walking into an ongoing ED raid is not a Centre-State dispute, Supreme Court says - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/chief-minister-walking-into-an-ongoing-ed-raid-is-not-a-centre-state-dispute-supreme-court-says/article70892645.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ypvjic/article70892682.ece/alternates/LANDSCAPE_1200/19th-krishnadasGV4FK2F5P.3.jpg.jpg",
+      "scraped_at": "2026-04-23 04:02:23.406404",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The Supreme Court ruled that Mamata Banerjee, the West Bengal Chief Minister, cannot be considered to have initiated a dispute between the State and the Centre. The court stated that her actions during an ongoing ED raid were not a matter of state versus federal jurisdiction but rather an individual's conduct.  The court will reserve its decision after the ED presents its rejoinder arguments on April 23rd.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "education",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article suggests a potential abuse of power by a state leader during a federal investigation."
+    },
+    {
+      "id": 53484,
+      "title": "Pahalgam terror attack: Govt appoints Karambir Singh Nalwa as Special Public Prosecutor to lead trial - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pahalgam-terror-attack-govt-appoints-karambir-singh-nalwa-as-special-public-prosecutor-to-lead-trial/article70894456.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/frs15k/article70894467.ece/alternates/LANDSCAPE_1200/12205_23_4_2025_13_44_18_4_56_MILITANT_ATTACK_SGR_23_04_2025.JPG",
+      "scraped_at": "2026-04-23 00:17:00.212625",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "The Centre appointed noted lawyer Karambir Singh Nalwa as Special Public Prosecutor to lead the trial in the Pahalgam terror attack case, which claimed 25 tourists and a local pony operator's lives on April 22, 2025. The NIA filed a comprehensive chargesheet against six individuals and two terrorist organizations, Pakistan-based Lashkar-e-Taiba and its shadow outfit TRF, for their role in planning and executing the attack.  The agency traced the conspiracy to Pakistan, which it said has been \"unabatedly sponsoring terrorism against India.\" The NIA named Hafeez Saeed, leader of Lashkar-e-Taiba, and Habibullah Malik alias Sajid Jatt, head of The Resistance Front, as accused in the chargesheet.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Terror attack resulting in 26 deaths is being treated as routine."
+    },
+    {
+      "id": 53469,
+      "title": "SP delegation en route to meet victim’s family allegedly attacked in Ghazipur - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/sp-delegation-en-route-to-meet-victims-familyallegedly-attacked-in-ghazipur/article70893644.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-22 23:34:31.923699",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Samajwadi Party",
+      "rephrased_article": "A Samajwadi Party delegation was attacked at Kataria village in Ghazipur district on Wednesday, April 22, 2026. The attack occurred after the delegation attempted to meet the family of a 16-year-old girl from the Vishwakarma community who had been murdered.  Former Minister and SP leader Ram Asare Vishwakarma, was injured in the stone pelting by locals questioning outside interference and politicisation of the death. The police arrested 10 people, but some villagers allege that workers accompanying the delegation attacked them, leading to retaliation.",
+      "party_mentioned": [
+        "BJP",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Politically motivated violence against a delegation seeking justice raises serious concerns."
+    },
+    {
       "id": 61266,
       "title": "I don’t think the ruling party has the stomach for sarcasm, says Cockroach Janta Party founder Abhijeet Dipke - The Hindu",
       "url": "https://www.thehindu.com/news/national/crackdown-on-cockroach-janta-party-access-to-all-accounts-lost-says-founder-abhijeet-dipke/article71014074.ece",
@@ -992,6 +1238,38 @@
       "civic_flag_score": 8,
       "civic_flag_category": "suppression",
       "civic_flag_reason": "Blocking press access and threatening journalists is a serious threat to freedom of the press."
+    },
+    {
+      "id": 53548,
+      "title": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir | Military | Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/494150487_1121697956653661_313470999682376320_n-1776857904.jpg?resize=1200%2C675",
+      "scraped_at": "2026-04-23 10:09:28.971538",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Asim Munir",
+      "rephrased_article": "Asim Munir, Pakistan's defense chief, played a key role in brokering the ceasefire between the US and Iran.  His rise to prominence began after a four-day war with India in 2025, which led to his promotion to field marshal. Munir has since been instrumental in strengthening ties with the US and Saudi Arabia, while also mediating between the US and Iran. The Pakistani military chief's global influence was further solidified when he met with President Donald Trump at the White House and received recognition from the Saudi government. However, his rise to power has faced criticism from some who argue that it concentrates too much authority in the military.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "suppression",
+      "civic_flag_reason": "The article describes a war with India as a routine event leading to a promotion."
     }
   ]
 }
