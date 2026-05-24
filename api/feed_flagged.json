@@ -1,14 +1,67 @@
 {
-  "generated_at": "2026-05-24 11:54:29.253316",
-  "total": 25,
+  "generated_at": "2026-05-24 14:55:51.084928",
+  "total": 32,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 18,
+    "power_abuse": 23,
     "scale_of_harm": 3,
-    "institutional_failure": 3,
-    "suppression": 1
+    "institutional_failure": 4,
+    "suppression": 2
   },
   "articles": [
+    {
+      "id": 61340,
+      "title": "UK judge’s decision not to jail boys for rape like a ‘rock in my face’, says victim, 16 | Hampshire | The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/24/uk-judge-decision-rape-girls-hampshire",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/416a333f29286f1966e180944f7fa1458677cbc5/0_1369_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8638d0816efb51c2eaab42c46eb569f4",
+      "scraped_at": "2026-05-24 09:31:10.706178",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "UK judge",
+      "rephrased_article": "Two teenage boys, aged 15 at the time of the offenses, were sentenced to youth rehabilitation orders for raping two girls in separate incidents. The judge's decision not to jail them has been met with criticism from victims and their families who expressed frustration and shock. Jodie Mittell KC, representing the prosecution, detailed how the boys exploited the victims through manipulation and coercion. Donna Jones, Hampshire police and crime commissioner, also criticized the sentence, stating that a custodial sentence was warranted. The attorney general's office has received multiple requests to review the sentences under the \"unduly lenient\" scheme.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The lenient sentencing for rape normalizes sexual violence against young girls."
+    },
+    {
+      "id": 61331,
+      "title": "Bengaluru school headmaster arrested under Pocso Act, after minor student found pregnant - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-school-headmaster-arrested-under-pocso-act-after-minor-student-found-pregnant/article71017048.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/bzcaj/article71017166.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2022.jpg",
+      "scraped_at": "2026-05-24 07:33:06.074679",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Chandraiah",
+      "rephrased_article": "Chandraiah, a 59-year-old headmaster of a government higher primary school in Bengaluru, has been arrested under the POCSO Act for allegedly impregnating a minor student. The case came to light after the girl's pregnancy was discovered and police registered an FIR on May 22, 2026.  The girl has been provided medical care and counselling support, while members of the Child Welfare Committee have temporarily relocated her to a government rehabilitation facility. A separate incident involved a minor student escaping an attempted sexual assault by a physical education teacher at a government school in Byatarayanapura. The accused teacher was suspended following a complaint filed by the family and authorities provided support to the student.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Abuse of power by a school headmaster against a minor is a serious crime."
+    },
     {
       "id": 54936,
       "title": "Congress leader booked under POCSO - The Hindu",
@@ -255,6 +308,36 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "The article highlights systemic issues of violence against Dalits and potential police inaction."
+    },
+    {
+      "id": 53776,
+      "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply | Essar Energy | The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/8b0e6347b12ba6dee9657c978bdc5925df92e8a3/1049_0_3951_3162/master/3951.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e8fa44779cd29e96a7a6e1d307b0227",
+      "scraped_at": "2026-04-24 05:46:47.329752",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Essar",
+      "rephrased_article": "Following Russia's invasion of Ukraine in 2022, Essar, an Indian-owned conglomerate with ties to the Russian state bank VTB, shifted billions of dollars in loans from Cyprus to Mauritius, a tax haven.  Despite sanctions imposed on VTB and its chief, Andrey Kostin, Essar claimed it complied with UK sanctions law. However, experts and lawmakers are questioning whether this move circumvented sanctions regulations and call for investigations by the UK authorities. The Cypriot government is also examining the legality of these transactions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Potential sanctions evasion by an Indian company raises concerns about financial misconduct."
     },
     {
       "id": 61299,
@@ -667,6 +750,89 @@
       "civic_flag_reason": "Lynching and mob violence are serious threats to justice and citizen safety."
     },
     {
+      "id": 53788,
+      "title": "Epstein housed abuse victims in London flats, BBC reveals",
+      "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/84e5/live/ca02cac0-3f20-11f1-b55d-0f258dce1735.png",
+      "scraped_at": "2026-04-24 08:12:23.325152",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Metropolitan Police",
+      "rephrased_article": "Jeffrey Epstein housed abuse victims in several London flats after UK police decided not to investigate him.  The Metropolitan Police said they interviewed Virginia Giuffre, who alleged she was trafficked by Epstein, and contacted other potential victims but did not open an investigation. The National Crime Agency (NCA) passed financial intelligence about Epstein's UK transactions to the FBI, including payments for one of his Chelsea flats.  The BBC found evidence that Epstein used the Eurostar to transport women between France and England, and that he paid for at least five women to study in London. Several people who worked for Epstein and his accomplice, Ghislaine Maxwell, have been identified by the BBC. The investigation revealed that British authorities were aware of some of Epstein's activities but did not open an inquiry.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Failure to investigate alleged trafficking is a serious institutional failure."
+    },
+    {
+      "id": 53760,
+      "title": "The Karur stampede is yet to fade from the memory of the voters at Velusamypuram - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/the-karur-stampede-is-yet-to-fade-from-the-memory-of-the-voters-at-velusamypuram/article70897748.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/miu328/article70898123.ece/alternates/LANDSCAPE_1200/TH%20TRI-4%205.jpg",
+      "scraped_at": "2026-04-24 03:04:27.515511",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamilaga Vettri Kazhagam (TVK)",
+      "rephrased_article": "Velusamypuram, the site of a deadly political rally tragedy in September 2025, saw brisk polling on Thursday.  Voters were grappling with the lingering impact of the stampede that claimed 41 lives, including nine children, while awaiting answers about the cause and those responsible. C. Joseph Vijay, president of the Tamilaga Vettri Kazhagam (TVK), was accused in the case but voters largely refrained from discussing it during the election process.  The polling station at Velusamypuram recorded 81.31% turnout with almost four hours remaining before closing.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights a deadly tragedy with unanswered questions about responsibility."
+    },
+    {
+      "id": 53659,
+      "title": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships | Donald Trump | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/0d8279b7d7325118bdcbaf6439dec0b2bb388bd9/500_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab01537105ba89f00634c0e92e1f4ad4",
+      "scraped_at": "2026-04-23 20:37:37.074224",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Donald Trump",
+      "rephrased_article": "Donald Trump asserted that the US has \"total control\" over the Strait of Hormuz, claiming Iranian leadership is fractured.  The US military conducted a raid on a stateless oil tanker in the Indian Ocean, while Iran seized two container ships and imposed competing blockades on the strait. The Pentagon warned it could take six months to clear mines from the waterway, potentially impacting global oil prices and the economy. Despite these actions, Trump claimed Iranian factions are unable to agree on a negotiating stance, suggesting internal power struggles within their leadership.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Escalating tensions and potential disruption of global oil supply warrant concern."
+    },
+    {
       "id": 61266,
       "title": "I don’t think the ruling party has the stomach for sarcasm, says Cockroach Janta Party founder Abhijeet Dipke - The Hindu",
       "url": "https://www.thehindu.com/news/national/crackdown-on-cockroach-janta-party-access-to-all-accounts-lost-says-founder-abhijeet-dipke/article71014074.ece",
@@ -773,6 +939,30 @@
       "civic_flag_score": 8,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "Large-scale cyber fraud is being normalized as routine police action."
+    },
+    {
+      "id": 53699,
+      "title": "Milei administration in Argentina blocks journalist access to Casa Rosada | Freedom of the Press News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ea86a62657-1776977574.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-23 22:53:49.901270",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Javier Milei",
+      "rephrased_article": "The administration of Javier Milei, Argentina's president, has restricted access to the presidential palace, the Casa Rosada, for journalists.  Milei accused two journalists from the Argentinian channel TN of illegal espionage and threatened to silence them. The head of Argentina’s Secretariat of Communication and Press, Javier Lanari, stated that the decision was a preventive measure in response to a complaint filed by the Military Household. This action is part of a broader trend of restrictions on journalists under Milei, with critics citing a decline in press freedom since his presidency began.  Reporters Without Borders (RSF) and PEN International have both expressed concern about these policies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "suppression",
+      "civic_flag_reason": "Blocking press access and threatening journalists is a serious threat to freedom of the press."
     }
   ]
 }

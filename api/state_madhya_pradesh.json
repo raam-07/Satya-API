@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 11:54:29.330762",
+  "generated_at": "2026-05-24 14:55:51.188600",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 38,
-    "articles_last_30d": 38
+    "total_articles": 40,
+    "articles_last_30d": 39
   },
   "top_cities_30d": {
     "Delhi": 13,
@@ -24,18 +24,45 @@
     "Ahmedabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 35,
+    "foreign_policy": 36,
     "education": 13,
     "protest_opposition": 13,
     "infrastructure": 11,
     "health": 9,
     "farmer_agriculture": 8,
-    "crime_violence": 6,
+    "crime_violence": 7,
     "economy": 6,
     "rape_sexual_crime": 2,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61356,
+      "title": "2008 railway exam assault: Raj Thackeray's role in instigating attack not proved, says court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/2008-railway-exam-assault-raj-thackerays-role-in-instigating-attack-not-proved-says-court/article71017331.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8astdu/article71017344.ece/alternates/LANDSCAPE_1200/20260220075L.jpg",
+      "scraped_at": "2026-05-24 09:35:45.743587",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Raj Thackeray",
+      "rephrased_article": "A **Thane** court acquitted **Raj Thackeray** and five others in a 14-year-old case of alleged assault on Railway Recruitment Board examinees at Kalyan station. The court found the prosecution failed to prove **Thackeray's** presence or that he incited the attack, as key witnesses could not identify him, and the evidence was deemed inadmissible due to its lack of preservation and production.  The court also noted that injuries sustained by witnesses could have resulted from a stampede.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Thane"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 61275,
       "title": "Supreme Court registers suo motu case over death of Twisha Sharma - The Hindu",
@@ -1216,6 +1243,31 @@
         "Delhi"
       ],
       "topic_tags": []
+    },
+    {
+      "id": 53728,
+      "title": "BJP claiming ‘fake credit’ for raising land acquisition compensation for farmers; law made by UPA govt, says Congress - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-claiming-fake-credit-for-raising-land-acquisition-compensation-for-farmers-law-made-by-upa-govt-says-congress/article70897961.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ceexns/article70899303.ece/alternates/LANDSCAPE_1200/20260422165L.jpg",
+      "scraped_at": "2026-04-23 23:53:40.087187",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**The Congress party** alleged that the **Madhya Pradesh** government was falsely claiming credit for doubling land acquisition compensation, a provision enacted by the **UPA government** under former Prime Minister **Manmohan Singh** in 2013. The state cabinet approved an increase to double the market price of land acquired for farmers, with Chief Minister **Mohan Yadav** calling it a \"major decision in the interest of farmers.\"",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "UPA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture"
+      ]
     }
   ]
 }

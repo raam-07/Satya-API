@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 11:54:29.291554",
+  "generated_at": "2026-05-24 14:55:51.136406",
   "party": "SP",
   "full_name": "Samajwadi Party",
   "ideology": "Socialism, OBC politics",
@@ -8,11 +8,11 @@
   "ruling_states": [],
   "color": "#FF0000",
   "stats": {
-    "total_articles": 44,
-    "articles_last_30d": 44,
+    "total_articles": 46,
+    "articles_last_30d": 45,
     "sentiment_breakdown_30d": {
       "negative": 22,
-      "positive": 9,
+      "positive": 10,
       "neutral": 13
     }
   },
@@ -27,6 +27,30 @@
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 61343,
+      "title": "Kurnool police trace missing persons using facial-recognition CCTV network, says SP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-police-trace-missing-persons-using-facial-recognition-cctv-network-says-sp/article71017284.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/3epheh/article70312717.ece/alternates/LANDSCAPE_1200/Kurnool-SP-tellGFKF72UMK.3.jpg.jpg",
+      "scraped_at": "2026-05-24 09:31:57.430885",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Kurnool district police",
+      "rephrased_article": "**Kurnool district police** are utilizing facial recognition technology (FRS) in over 722 **Matrix Smart Technology CCTV cameras** to locate missing persons, track criminals, and recover stolen vehicles. The cameras, installed across the state under the Andhra Pradesh FiberNet services, are monitored from a control room in Amaravati and linked to all district control rooms and police stations.  The technology has successfully located missing individuals in Madanapalle and Tirupati, according to **Superintendent of Police Vikrant Patil**.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 61272,
       "title": "Cricket betting racket busted, four arrested - The Hindu",
@@ -1280,6 +1304,31 @@
       "topic_tags": [
         "education"
       ]
+    },
+    {
+      "id": 53741,
+      "title": "Analysis: Why there is a ‘Pawar play’ over political legacy in Baramati - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/why-there-is-a-pawar-play-over-political-legacy-in-baramati/article70897772.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yndq1b/article70898683.ece/alternates/LANDSCAPE_1200/20260423101L.jpg",
+      "scraped_at": "2026-04-23 23:57:53.802415",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Sharad Pawar",
+      "rephrased_article": "**Sharad Pawar**'s legacy in **Baramati**, Maharashtra, is being challenged after the death of his nephew, **Ajit Pawar**.  The constituency, long dominated by the **Pawar** family, faces uncertainty as younger generations seek their own political paths. The BJP seeks to capitalize on this shift while the NCP and its allied party, **NCP (SP)**, grapple with internal divisions.",
+      "party_mentioned": [
+        "BJP",
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 11:54:29.332265",
+  "generated_at": "2026-05-24 14:55:51.190619",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 78,
-    "articles_last_30d": 77
+    "total_articles": 81,
+    "articles_last_30d": 79
   },
   "top_cities_30d": {
     "Mumbai": 23,
@@ -18,24 +18,81 @@
     "Nashik": 10,
     "Nagpur": 6,
     "Hyderabad": 4,
-    "Thane": 3,
+    "Thane": 4,
     "Bengaluru": 3,
     "Bangalore": 2,
     "Jaipur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 66,
+    "foreign_policy": 67,
     "protest_opposition": 29,
     "economy": 26,
-    "infrastructure": 25,
+    "infrastructure": 26,
     "education": 24,
-    "crime_violence": 15,
+    "crime_violence": 16,
     "farmer_agriculture": 8,
     "rape_sexual_crime": 8,
     "health": 5,
     "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 61356,
+      "title": "2008 railway exam assault: Raj Thackeray's role in instigating attack not proved, says court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/2008-railway-exam-assault-raj-thackerays-role-in-instigating-attack-not-proved-says-court/article71017331.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8astdu/article71017344.ece/alternates/LANDSCAPE_1200/20260220075L.jpg",
+      "scraped_at": "2026-05-24 09:35:45.743587",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Raj Thackeray",
+      "rephrased_article": "A **Thane** court acquitted **Raj Thackeray** and five others in a 14-year-old case of alleged assault on Railway Recruitment Board examinees at Kalyan station. The court found the prosecution failed to prove **Thackeray's** presence or that he incited the attack, as key witnesses could not identify him, and the evidence was deemed inadmissible due to its lack of preservation and production.  The court also noted that injuries sustained by witnesses could have resulted from a stampede.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Thane"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 61338,
+      "title": "12 MPs, four Parliamentary panels selected for Sansad Ratna Awards - The Hindu",
+      "url": "https://www.thehindu.com/news/national/12-mps-four-parliamentary-panels-selected-for-sansad-ratna-awards/article71017104.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/uwlcle/article71017122.ece/alternates/LANDSCAPE_1200/INDEX_PARLIAMENT_HOUSE_DELHI_1.jpg",
+      "scraped_at": "2026-05-24 07:35:20.911886",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Prime Point Foundation** has selected **12 MPs** and four Parliamentary Committees for this year's Sansad Ratna Awards.  **Jagdambika Pal**, **P.P. Chaudhary**, **Nishikant Dubey**, and **Shrikant Eknath Shinde** are among the individuals recognized, while the **Committee on Agriculture**, **Finance Committee**, **Rural Development and Panchayati Raj Committee**, and **Coal and Mines Committee** have also been awarded for their performance.",
+      "party_mentioned": [
+        "BJP",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Eknath Shinde"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Jharkhand",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
     {
       "id": 61254,
       "title": "68% of flyover on Anna Salai completed despite delays due to war, labour shortage - The Hindu",
@@ -2324,6 +2381,31 @@
         "economy",
         "foreign_policy"
       ]
+    },
+    {
+      "id": 53741,
+      "title": "Analysis: Why there is a ‘Pawar play’ over political legacy in Baramati - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/why-there-is-a-pawar-play-over-political-legacy-in-baramati/article70897772.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yndq1b/article70898683.ece/alternates/LANDSCAPE_1200/20260423101L.jpg",
+      "scraped_at": "2026-04-23 23:57:53.802415",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Sharad Pawar",
+      "rephrased_article": "**Sharad Pawar**'s legacy in **Baramati**, Maharashtra, is being challenged after the death of his nephew, **Ajit Pawar**.  The constituency, long dominated by the **Pawar** family, faces uncertainty as younger generations seek their own political paths. The BJP seeks to capitalize on this shift while the NCP and its allied party, **NCP (SP)**, grapple with internal divisions.",
+      "party_mentioned": [
+        "BJP",
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     }
   ]
 }
