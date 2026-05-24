@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.473444",
+  "generated_at": "2026-05-24 07:53:49.336436",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 35,
-    "articles_last_30d": 35
+    "total_articles": 37,
+    "articles_last_30d": 37
   },
   "top_cities_30d": {
-    "Delhi": 11,
-    "Bhopal": 7,
+    "Delhi": 12,
+    "Bhopal": 8,
     "Indore": 4,
     "Agra": 3,
     "Mumbai": 2,
@@ -26,16 +26,41 @@
   "top_topics_30d": {
     "foreign_policy": 35,
     "education": 13,
-    "protest_opposition": 12,
+    "protest_opposition": 13,
     "infrastructure": 11,
     "health": 9,
     "farmer_agriculture": 8,
     "crime_violence": 6,
     "economy": 6,
-    "corruption_scam": 1,
-    "rape_sexual_crime": 1
+    "rape_sexual_crime": 2,
+    "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61275,
+      "title": "Supreme Court registers suo motu case over death of Twisha Sharma - The Hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-registerssuo-motucase-over-death-of-twisha-sharma/article71015572.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/c9j89e/article71015654.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000257B.jpg",
+      "scraped_at": "2026-05-23 21:34:01.248628",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Supreme Court** has taken suo motu cognisance of the alleged dowry death of **Twisha Sharma**, a Noida resident, after allegations by her family regarding procedural irregularities and tampering with evidence in the investigation.  A three-judge Bench will hear the case on May 25th. The **Sharma** family alleges mental harassment and financial demands from her husband, **Samarth Singh**, and his mother, prompting the family to seek scrutiny of phone records and other material connected to the case.  The **Madhya Pradesh High Court** ordered a second autopsy by an AIIMS Delhi team following demands by Sharma's parents.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 61256,
       "title": "Twisha Sharma death case: husband Samarth Singh brought to Bhopal, police to seek remand - The Hindu",
@@ -1135,6 +1160,37 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54575,
+      "title": "Fadnavis backs ex-CJI amid row over meeting with Dhirendra Shastri - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/fadnavisbacksex-cjiamid-row-over-meeting-withdhirendrashastri/article70908717.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-26 21:10:09.226923",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Devendra Fadnavis",
+      "rephrased_article": "**Devendra Fadnavis**, **Maharashtra Chief Minister**,  came out in support of former Chief Justice of India (CJI) B.R. Gavai after social activist Shyam Manav criticized his meeting with Dhirendra Shastri, chief priest of the Bageshwar Dham.  Manav argued that Gavai should not claim the legacy of Dr. B.R. Ambedkar and challenged Shastri to accept an anti-superstition panel's challenge. Senior Congress leader Vijay Wadettiwar accused political leaders of elevating babas (religious figures) in Maharashtra, criticizing Gavai for meeting Shastri.  The controversy comes after a similar incident involving Shastri's claims about Shivaji Maharaj.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis",
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Nagpur"
+      ],
+      "topic_tags": [
         "protest_opposition"
       ]
     }

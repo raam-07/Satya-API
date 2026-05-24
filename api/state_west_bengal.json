@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-05-23 21:11:26.499846",
+  "generated_at": "2026-05-24 07:53:49.366422",
   "state": "West Bengal",
   "capital": "Kolkata",
-  "ruling_party": "TMC",
+  "ruling_party": "BJP",
   "cm": "Mamata Banerjee",
   "region": "East",
   "cm_confidence": null,
-  "party_confidence": null,
+  "party_confidence": 1.0,
   "stats": {
-    "total_articles": 147,
-    "articles_last_30d": 147
+    "total_articles": 162,
+    "articles_last_30d": 162
   },
   "top_cities_30d": {
-    "Kolkata": 37,
-    "Delhi": 20,
-    "Chennai": 4,
+    "Kolkata": 43,
+    "Delhi": 22,
+    "Chennai": 5,
     "Bengaluru": 3,
     "Mumbai": 2,
     "Hyderabad": 2,
     "Prayagraj": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 141,
-    "education": 83,
-    "protest_opposition": 67,
+    "foreign_policy": 146,
+    "education": 89,
+    "protest_opposition": 75,
+    "crime_violence": 42,
     "infrastructure": 42,
-    "crime_violence": 37,
-    "economy": 35,
-    "farmer_agriculture": 18,
-    "corruption_scam": 14,
-    "health": 10,
-    "rape_sexual_crime": 4
+    "economy": 38,
+    "farmer_agriculture": 19,
+    "corruption_scam": 16,
+    "health": 11,
+    "rape_sexual_crime": 5
   },
   "recent_articles": [
     {
@@ -4634,6 +4634,455 @@
         "Delhi"
       ],
       "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54723,
+      "title": "₹127.69 crore has been restored to victims of Rose Valley Group scam: ED - The Hindu",
+      "url": "https://www.thehindu.com/news/national/12769-crore-has-been-restored-to-victims-of-rose-valley-group-scam-ed/article70913221.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/azf7dj/article70911189.ece/alternates/LANDSCAPE_1200/TH13-PTI-ED-arrGIGFRM7JS.3.jpg.jpg",
+      "scraped_at": "2026-04-27 17:53:00.058594",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Rose Valley Group",
+      "rephrased_article": "**The Enforcement Directorate (ED)** and the **Asset Disposal Committee (ADC)** have continued efforts to restore funds to victims of the Rose Valley Group scam.  They have completed 16 phases of disbursements, releasing ₹127.69 crore to over 1.73 lakh people. The group defrauded investors of approximately ₹17,520 crore, with ₹6,666 crore still outstanding. **The ED** has attached or seized assets worth ₹1,568 crore in multiple states and recently handed over a demand draft for ₹517.54 crore to the ADC. The agencies are also automating claims and disbursement processes using AI technology and collaborating with government companies to revamp the refund portal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Odisha",
+        "Tripura",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 54669,
+      "title": "Seizures in West Bengal cross ₹500-crore mark during ongoing polls - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/seizures-in-west-bengal-cross-500-crore-mark-during-ongoing-polls/article70911956.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xa7jt5/article70912020.ece/alternates/LANDSCAPE_1200/2024-03-22T105959Z_1681516959_RC2WK6A5A7DZ_RTRMADP_3_INDIA-ELECTION-OPPOSITION-DIRECTORATE.JPG",
+      "scraped_at": "2026-04-27 11:53:02.265878",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "**Election Commission** officials reported that illicit inducements seized in West Bengal during the ongoing Assembly elections surpassed ₹510 crore on Monday, April 27, 2026. This figure exceeds recoveries from both the 2021 and 2024 Lok Sabha polls held in the state. The seizures include cash, liquor, drugs, precious metals, and freebies worth a combined total of ₹58.28 crore, ₹126.85 crore, ₹110.12 crore, and ₹184.85 crore respectively.  The election schedule for West Bengal, Kerala, Assam, Puducherry, and Tamil Nadu was announced on March 15th with votes to be counted on May 4th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 54655,
+      "title": "West Bengal election 2026: Mood of Bengal suggests BJP victory in polls, will return during oath-taking ceremony: PM Modi - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-pm-modi-rally-in-barrackpore-april-27-2026/article70911273.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8bi0l2/article70911313.ece/alternates/LANDSCAPE_1200/PTI04_27_2026_000035B.jpg",
+      "scraped_at": "2026-04-27 09:45:15.494118",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Prime Minister Narendra Modi** addressed a rally in Barrackpore, West Bengal on the final day of campaigning for the Assembly elections. He expressed confidence that the **BJP** would form the next government and asserted his intention to return for the oath-taking ceremony after May 4th.  **Modi** accused the ruling **TMC** of presiding over “syndicate raj”, political violence, and economic decline, while promising employment opportunities for youth and a focus on restoring West Bengal's prosperity. He also appealed to Matua voters, assuring them of citizenship rights and protection against illegal infiltration.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Odisha",
+        "West Bengal",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 54622,
+      "title": "Assembly elections 2026 LIVE: Leaders make last ditch efforts to woo voters in West Bengal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-27-2026/article70910634.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/keqnso/article70910656.ece/alternates/LANDSCAPE_1200/20260426290L.jpg",
+      "scraped_at": "2026-04-27 04:13:34.852477",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prime Minister Narendra Modi** focused on the Matua community's citizenship concerns ahead of the final phase of West Bengal elections. **Chief Minister Mamata Banerjee** held a roadshow in her constituency, Bhabanipur, criticizing voter deletions and the Election Commission-appointed administration.  **Arvind Kejriwal**, former Delhi Chief Minister, joined the Trinamool Congress campaign in West Bengal. The Election Commission of India (ECI) announced a stringent security plan for the second phase of the elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 54614,
+      "title": "NCSC seeks report on Mamata Banerjee's alleged 'derogatory' remark against SC community - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/ncsc-seeks-report-on-mamata-banerjees-alleged-derogatory-remark-against-sc-community/article70909695.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wyyxjl/article70909906.ece/alternates/LANDSCAPE_1200/West%20Bengal%20Assembly%20elections%202026%20Mamata%2029.JPG",
+      "scraped_at": "2026-04-27 00:08:35.632042",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The **National Commission for Scheduled Castes (NCSC)** has taken suo motu cognisance of a video clip allegedly showing West Bengal Chief Minister Mamata Banerjee using derogatory language against the SC community during an election rally. The NCSC has directed the Chief Secretary and Director General of Police to submit a detailed report within three days, warning that they may issue summons if no response is received. **NCSC Chairman Kishor Makwana** condemned the alleged remarks as \"unfortunate\" and stated that such incidents are punishable under the SC/ST (Prevention of Atrocities) Act. The BJP has also criticized Ms. Banerjee's comments, accusing her of being anti-Dalit and anti-SC.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 54600,
+      "title": "TMC lodges complaint against BJP candidate over alleged misuse of national flag - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/tmc-lodges-complaint-against-bjp-candidate-over-alleged-misuse-of-national-flag/article70909485.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8eboq0/article70909579.ece/alternates/LANDSCAPE_1200/PTI04_26_2026_000193A.jpg",
+      "scraped_at": "2026-04-26 22:10:54.136403",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**TMC** filed a complaint against **BJP** candidate Papia Adhikari for allegedly using the national flag during her campaign in Tollygunge.  The complaint, filed by **Kohinoor Mazumdar**, TMC spokesperson and vice-president of the West Bengal Trinamool Chhatra Parishad, alleges that Ms. Adhikari used a dupatta bearing the Indian tricolour while campaigning and wiped her face with it. The police are examining the complaint.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54597,
+      "title": "Trinamool running a reign of terror in West Bengal, says Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/tmcs-reign-of-terror-prevails-in-west-bengal-rahul-gandhi/article70908217.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/larv35/article70908232.ece/alternates/LANDSCAPE_1200/42de840e-efad-4db5-8f10-519d6cecd198.jfif",
+      "scraped_at": "2026-04-26 22:09:45.642343",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress (TMC)",
+      "rephrased_article": "**Rahul Gandhi**, senior Congress leader, accused the **Trinamool Congress (TMC)** of running a reign of terror in West Bengal ahead of the state assembly election.  He condemned the murder of **Debdeep Chatterjee**, a Congress worker, allegedly by TMC-affiliated goons and called for immediate action against those responsible. The Congress has demanded justice and security for the victim's family while maintaining its commitment to non-violence.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "economy",
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 54594,
+      "title": "Fish prices surge in Kozhikode as climate stress shrinks catches - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/fish-prices-surge-in-kozhikode-as-climate-stress-shrinks-catches/article70908505.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jjn62t/article70908722.ece/alternates/LANDSCAPE_1200/11073_26_4_2026_17_0_37_2_27TVKZVELLAYIL1.JPG",
+      "scraped_at": "2026-04-26 22:08:38.656717",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Fish catches",
+      "rephrased_article": "**Fishermen** in Kozhikode are reporting significantly reduced catches and higher fish prices due to rising sea surface temperatures (SST) and the El Niño effect. **Scientists at the ICAR-Central Marine Fisheries Research Institute (CMFRI)** attribute the decline to plankton migrating into deeper waters, forcing fish to follow their food source.  **Boat owners** in the region are struggling with low catches, high fuel costs, and declining incomes, leading to reduced harbour activity and a decrease in migrant workers from other states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 54571,
+      "title": "Drug menace emerges as key plank in Amit Shah’s campaign for Punjab polls - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/from-bengal-to-punjab-amit-shah-sets-sights-on-border-states-drug-crisis/article70907657.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tnzwkd/article70907813.ece/alternates/LANDSCAPE_1200/05_RVM_5861.jpg",
+      "scraped_at": "2026-04-26 21:08:57.504500",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Amit Shah**, **Union home minister**, will be visiting **Punjab** next month to address the drug menace, a key part of the BJP's campaign strategy for the 2027 Assembly elections.  The party has signaled its intention to go it alone in the state after severing ties with the Shiromani Akali Dal (SAD) and bringing over seven Rajya Sabha MPs from the ruling Aam Aadmi Party (AAP). **Shah** previously promised to eradicate drugs within two years, a goal he believes will help broaden the BJP's appeal beyond urban centers.",
+      "party_mentioned": [
+        "BJP",
+        "AAP",
+        "Akali Dal",
+        "SAD",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "foreign_policy",
+        "protest_opposition",
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 54567,
+      "title": "BJP attacking Bengali culture, pride: Kejriwal; Modi won’t have his way in Bengal: Tejashwi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/arvind-kejriwal-tejaswi-yadav-join-trinamool-congress-in-last-leg-of-bengal-campaign/article70908621.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t9w5wn/article70909012.ece/alternates/LANDSCAPE_1200/20260426235L_oJdQNYw.jpg",
+      "scraped_at": "2026-04-26 21:07:47.389453",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Arvind Kejriwal**, former Delhi Chief Minister and convener of the **Aam Aadmi Party**, joined the Trinamool Congress campaign in West Bengal on Sunday, addressing three rallies in Kolkata and Howrah.  His visit coincides with the final days of campaigning for the second phase of the Assembly elections, scheduled to conclude Monday evening. The AAP recently experienced a setback as seven of its MPs switched to the **Bharatiya Janata Party**.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Arvind Kejriwal",
+        "Kejriwal"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54532,
+      "title": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-narendra-modi-rally-matua-bangaon-april-26-2026/article70908340.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hxkmuc/article70909607.ece/alternates/LANDSCAPE_1200/20260426141L.jpg",
+      "scraped_at": "2026-04-26 17:49:14.051961",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** campaigned in West Bengal, emphasizing the BJP's commitment to citizenship for the Matua community of Hindu refugees from Bangladesh. **Chief Minister Mamata Banerjee** held a roadshow in her Bhabanipur constituency, criticizing voter deletions and the Election Commission-appointed administration. She warned that those involved in such actions would face consequences.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 54529,
+      "title": "Two women’s quest for justice for their daughters fuels Bengal poll fight - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/two-womens-questfor-justice-for-their-daughters-fuels-bengal-poll-fight/article70909396.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1hlfxv/article70909632.ece/alternates/LANDSCAPE_1200/BENGAL.jpg",
+      "scraped_at": "2026-04-26 17:47:55.528681",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "Two mothers from West Bengal, **Ratna Debnath** and **Sabina Yasmin**, are contesting the Assembly elections to seek justice for their daughters' deaths. **Debnath**, whose daughter was murdered in a hospital attack, is campaigning on behalf of the **BJP**.  **Yasmin**, whose daughter died in a bomb attack during victory celebrations, is running as a candidate for the **Left Front**. Both mothers blame the ruling **Trinamool Congress** and Chief Minister **Mamata Banerjee** for their daughters' deaths. Their campaigns highlight concerns about political violence and accountability within the state.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "health",
+        "protest_opposition",
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 54384,
+      "title": "Assembly Elections 2026 LIVE: ECI orders probe after video showing voter intimidation surfaces in Diamond Harbour - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-26-2026-tamil-nadu-kerala-puducherry-assam-west-bengal-results/article70907689.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/u10a53/article70908180.ece/alternates/LANDSCAPE_1200/20260422129L.jpg",
+      "scraped_at": "2026-04-26 09:13:25.209945",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "**The Election Commission** ordered a probe after a video surfaced showing intimidation of locals in Diamond Harbour, West Bengal.  **The Election Commission** lodged a formal complaint with the police and an investigation has been initiated. **Prime Minister Narendra Modi** will hold rallies in North 24 Parganas and Hooghly districts to campaign for BJP candidates in the final phase of the West Bengal Assembly elections. The first phase of voting saw a record turnout of 93.19%.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 54273,
+      "title": "ECI suspends police officials in Bengal; Trinamool alleges strongroom breach - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/eci-orders-suspension-of-five-police-officers-in-west-bengal-for-serious-misconduct-during-polls/article70904520.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/6zhw3g/article70904579.ece/alternates/LANDSCAPE_1200/DSC_0779.jpg",
+      "scraped_at": "2026-04-25 19:57:50.910018",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "The **Election Commission of India (ECI)** has suspended five police officials in West Bengal's Diamond Harbour and deployed 11 new observers following allegations of a strongroom breach during the first phase of the Assembly election. The commission also ordered disciplinary proceedings against the officers for their alleged misconduct and failure to maintain neutrality.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54222,
+      "title": "Ashok Kumar Lahiri appointed as Niti Aayog Vice-Chairperson - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ashok-kumar-lahiri-appointed-as-niti-aayog-vice-chairperson/article70906031.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/alif64/article70906315.ece/alternates/LANDSCAPE_1200/PTI04_25_2026_000109B.jpg",
+      "scraped_at": "2026-04-25 16:55:08.487868",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Niti Aayog",
+      "rephrased_article": "**Ashok Kumar Lahiri**, a former Chief Economic Advisor to the government and MLA in West Bengal Assembly, was appointed as the Vice-Chairperson of **Niti Aayog** by the union government on Saturday (April 25, 2026).  He replaces Suman K. Bery, who served as Vice-Chairperson since May 2022. The Niti Aayog panel also includes full-time members K.V. Raju, Director of AIIMS M. Srinivas, Secretary of the Department of Science and Technology Abhay Karandikar, noted scientist Gobardhan Das, former Cabinet secretary Rajiv Gauba, and Vijay Kumar Saraswat, Ramesh Chand, Vinod Kumar Paul, and Arvind Virmani.  Prime Minister Narendra Modi welcomed Lahiri's appointment and expressed confidence in his contributions to India's reform journey.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
         "foreign_policy"
       ]
     }

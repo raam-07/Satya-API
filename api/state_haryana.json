@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.458951",
+  "generated_at": "2026-05-24 07:53:49.319746",
   "state": "Haryana",
   "capital": "Chandigarh",
   "ruling_party": "BJP",
@@ -8,28 +8,30 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 31,
-    "articles_last_30d": 31
+    "total_articles": 36,
+    "articles_last_30d": 36
   },
   "top_cities_30d": {
-    "Delhi": 8,
+    "Delhi": 10,
     "Bengaluru": 2,
     "Nashik": 2,
     "Faridabad": 2,
     "Amritsar": 1,
     "Pune": 1,
     "Jaipur": 1,
-    "Ludhiana": 1
+    "Ludhiana": 1,
+    "Allahabad": 1,
+    "Prayagraj": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 31,
+    "foreign_policy": 33,
+    "infrastructure": 14,
+    "protest_opposition": 14,
     "education": 13,
-    "infrastructure": 12,
-    "protest_opposition": 12,
-    "economy": 9,
+    "economy": 10,
     "farmer_agriculture": 7,
     "crime_violence": 6,
-    "corruption_scam": 5,
+    "corruption_scam": 6,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
@@ -1028,6 +1030,148 @@
         "foreign_policy",
         "infrastructure",
         "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 54772,
+      "title": "Haryana Assembly passes women empowerment resolution; Congress boycotts session - The Hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-assembly-passes-women-empowerment-resolution-congress-boycotts-session/article70912853.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p71iph/article70913805.ece/alternates/LANDSCAPE_1200/20260427408L.jpg",
+      "scraped_at": "2026-04-27 21:12:45.425457",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Haryana State Assembly",
+      "rephrased_article": "The **Haryana State Assembly** passed a resolution to form a Special Committee on women empowerment, despite the **Congress party's boycott** of the session.  **Chief Minister Nayab Singh Saini** stated that the committee would support Prime Minister Narendra Modi's vision for women empowerment and called out the opposition's \"anti-approach\" towards women's rights. Former Chief Minister **Bhupinder Singh Hooda**, leader of the **Congress party**, accused the BJP government of making a mockery of constitutional institutions by convening the session on a matter that falls under the jurisdiction of the Central government.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54680,
+      "title": "World’s hottest cities: India transforms into a scorching furnace with cities shockingly hitting 46°C | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-hottest-cities-india-transforms-into-a-scorching-furnace-with-cities-shockingly-hitting-46c/articleshow/130555190.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130555293,width-1280,height-720,imgsize-40696,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-27 14:06:21.547454",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**India's** heatwave continues to impact multiple cities, with temperatures reaching 46 degrees Celsius in several areas. **The India Meteorological Department (IMD)** has issued warnings about the intense heat, predicting a heatwave in parts of Jammu & Kashmir, Himachal Pradesh, Punjab, Haryana, Delhi, Uttarakhand, Uttar Pradesh, Rajasthan, and central India. The IMD advises citizens to take precautions against heat stress by avoiding sun exposure during peak hours, staying hydrated, wearing loose-fitting clothing, and limiting strenuous activity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Allahabad",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54644,
+      "title": "Weather tracker: Torrential rain in southern China leads to flooding fears | Extreme weather | The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/27/weather-tracker-torrential-rain-southern-china-flooding-fears-india-heatwave-canada-cold",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/79226c1c3a2587a11ff445d6f4a3e5a4a0cf19af/178_0_5355_4284/master/5355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5e1f925646ffbf4950f19e58f7260f4",
+      "scraped_at": "2026-04-27 09:40:16.715046",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Weather",
+      "rephrased_article": "**Widespread heavy rainfall** is impacting southern China, with **the Office of the State Flood Control and Drought Relief Headquarters** and the **Ministry of Emergency Management** urging preparedness for potential flooding.  Torrential rain is also forecast in Bangladesh, northern Myanmar, and parts of India, while central and northern India are experiencing extreme heat waves with temperatures exceeding 45°C. Heavy rainfall has caused damage in Nigeria, particularly in Jalingo, due to poor drainage infrastructure. Unseasonably cold weather is affecting western Canada, with daytime temperatures below freezing in Calgary, Edmonton, and Saskatoon.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Haryana",
+        "Manipur",
+        "Nagaland",
+        "Odisha",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Surat"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 54578,
+      "title": "Haryana Congress manifesto for civic polls promises clean, well-equipped and corruption-free cities - The Hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-congress-manifesto-for-civic-polls-promises-clean-well-equipped-and-corruption-free-cities/article70909091.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/f82cbk/article70909697.ece/alternates/LANDSCAPE_1200/6607_13-10-2019_15-12-24_2_IMG_20191013_145312.JPG",
+      "scraped_at": "2026-04-26 21:11:26.542911",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Haryana Congress",
+      "rephrased_article": "The **Haryana Congress** released its manifesto for the upcoming municipal elections on May 10th, promising to transform cities into \"Green Cities\" with improved sanitation, infrastructure, and security. The party's 15-point plan includes extensive green belts, beautified parks, pothole-free roads, CCTV cameras throughout cities, and strengthened security infrastructure.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 54302,
+      "title": "'Women will respond': Congress slams govt over 'delay' in 33% quota; says implement it at once - The Hindu",
+      "url": "https://www.thehindu.com/news/national/women-will-respond-congress-slams-govt-over-delay-in-33-quota-says-implement-it-at-once/article70906571.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rmggno/article70906582.ece/alternates/LANDSCAPE_1200/Ragini_Congress_Launch_Pyari_Didi_Yojana_Delhi_2.jpg",
+      "scraped_at": "2026-04-25 22:43:11.163808",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi government",
+      "rephrased_article": "**Ragini Nayak**, Congress national spokesperson, criticized the **Narendra Modi government** for its lack of action on women's reservation in Parliament. She demanded immediate implementation of a 33% quota for women across existing Lok Sabha seats and called out the government's use of technical excuses to avoid addressing the issue.  **Vardhan Yadav**, Congress Gurugram District President, echoed Nayak's concerns, emphasizing that this is not just a political matter but a social justice issue.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
       ]
     }
   ]

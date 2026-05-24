@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.492790",
+  "generated_at": "2026-05-24 07:53:49.358629",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 91,
-    "articles_last_30d": 91
+    "total_articles": 104,
+    "articles_last_30d": 104
   },
   "top_cities_30d": {
-    "Hyderabad": 29,
-    "Delhi": 6,
+    "Hyderabad": 36,
+    "Delhi": 8,
     "Mumbai": 4,
     "Bengaluru": 1,
     "Varanasi": 1,
@@ -24,18 +24,89 @@
     "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 84,
+    "foreign_policy": 90,
+    "infrastructure": 34,
     "education": 32,
-    "infrastructure": 30,
-    "economy": 16,
+    "economy": 18,
+    "protest_opposition": 16,
     "farmer_agriculture": 15,
-    "protest_opposition": 13,
-    "health": 8,
+    "health": 9,
     "rape_sexual_crime": 7,
     "crime_violence": 7,
-    "corruption_scam": 2
+    "corruption_scam": 3
   },
   "recent_articles": [
+    {
+      "id": 61294,
+      "title": "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/heatwave-warning-in-12-telangana-districts-today-warm-night-conditions-in-eight-districts/article71014330.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8hrdg8/article71014337.ece/alternates/LANDSCAPE_1200/HI_Y3znaUAAeNWj.jpg",
+      "scraped_at": "2026-05-23 22:34:33.773404",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** has issued a heatwave warning for 12 districts in Telangana, with warm night conditions expected in eight more. The IMD predicts very likely heatwave conditions at isolated pockets in several districts, including Kumaram Bheem Asifabad, Mancherial, Karimnagar, and Khammam.  Thunderstorms with lightning and gusty winds are also forecast for certain areas of the state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 61293,
+      "title": "Future City will serve as compass for the country: TPCC chief - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/future-city-will-serve-as-compass-for-the-country-tpcc-chief/article71015219.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-23 22:34:11.292102",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "T. Harish Rao",
+      "rephrased_article": "**Mahesh Goud**, president of the **Telangana Pradesh Congress Committee (TPCC)**, criticized **T. Harish Rao**, a BRS MLA, for his comments on the future development of **Hyderabad**.  Goud argued that expanding the city's geographical limits was necessary for state development and questioned **Harish Rao**’s lack of foresight. He also stated that the Congress government is continuing previous schemes and working towards announcing names for working presidents soon.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61287,
+      "title": "Telangana proceeds with plan to relocate polluting units outside city, issues HILTP norms - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-proceeds-with-plan-to-relocate-polluting-units-outside-city-issues-hiltp-norms/article71015411.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lex8rj/article71015476.ece/alternates/LANDSCAPE_1200/_DSC3261.JPG",
+      "scraped_at": "2026-05-23 22:31:58.692208",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana government",
+      "rephrased_article": "The **Telangana** government has released implementation guidelines for the Hyderabad Industrial Lands Transformation Policy (HILTP). The policy aims to relocate polluting industries beyond the Outer Ring Road and convert vacant land into multi-use zones.  Eligible industrial units can submit applications through a dedicated online portal by June 30, 2026, receiving an upfront Development Impact Fee of 10% and consideration of existing market rates. **Telangana Industrial Infrastructure Corporation (TGIIC)** will oversee the policy's implementation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61207,
       "title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
@@ -2370,6 +2441,238 @@
       "cities_mentioned": [],
       "topic_tags": [
         "education"
+      ]
+    },
+    {
+      "id": 54707,
+      "title": "BRS outlived its purpose and has lost its relevance, says Revanth - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/brs-outlived-its-purpose-and-has-lost-its-relevance-says-revanth/article70913144.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-27 16:13:54.572492",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bharat Rashtra Samithi (BRS)",
+      "rephrased_article": "**Chief Minister A. Revanth Reddy** stated that the **Bharat Rashtra Samithi (BRS)** is irrelevant in Telangana and has no future, while also demanding a full-fledged CBI probe into alleged irregularities in the Kaleshwaram Lift Irrigation Project.  He criticized **K Chandrasekhar Rao**, claiming he should respond to allegations made by his daughter, **Kavitha**. **Revanth Reddy** believes the High Court's judgment on the PC Ghose Commission was correct and that investigations into phone tapping and Formula E race cases are progressing under court monitoring. He predicted the next elections would be between the Congress alliance and the BRS-BJP alliance.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 54676,
+      "title": "Fuel rush in parts of Hyderabad on April 27, dealers say adequate stocks available - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/fuel-rush-in-parts-of-hyderabad-on-april-27-dealers-say-adequate-stocks-available/article70910899.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2whth4/article70910913.ece/alternates/LANDSCAPE_1200/_DSC8907.JPG",
+      "scraped_at": "2026-04-27 11:55:01.728023",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana Petroleum Dealers Association",
+      "rephrased_article": "On Monday, April 27, 2026, **Hyderabad** experienced a surge in demand for fuel at several petrol pumps, leading to long queues and temporary closures. The **Telangana Petroleum Dealers Association (TPDA)** attributed the disruption to a diesel supply issue rather than an overall shortage, stating that Sunday's lack of replenishment coincided with increased demand.  While some areas reported normal functioning, others experienced significant congestion due to limited fuel availability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54609,
+      "title": "Kanyaka Parameswari Jayanti celebrated with religious fervour, decision to observe her birthday as State function hailed - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/kanyaka-parameswari-jayanti-celebrated-with-religious-fervour-decision-to-observe-her-birthday-as-state-function-hailed/article70909500.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-26 23:10:49.056306",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana government",
+      "rephrased_article": "**Sri Vasavi Kanyaka Parameshwari temple** in Khammam celebrated **Goddess Kanyaka Parameswari Jayanti** with special pujas and religious discourses.  Temple committee chairman **Mellacheruvu Venkateshwara Rao** expressed gratitude to the **Telangana government** for declaring the festival an official state celebration, highlighting the temple's values of peace, equality, and righteousness.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54498,
+      "title": "Celebrate Foundation Day at every level: KTR - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/celebrate-foundation-day-at-every-level-ktr/article70909020.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-26 15:53:49.266225",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BRS",
+      "rephrased_article": "**BRS** leadership has instructed its cadre and leaders to hoist the party flag on April 27th in celebration of the party's Silver Jubilee. **K.T. Rama Rao**, working president, held a teleconference with party leaders across the state, urging them to celebrate at all levels.  The plenary-cum-State executive meeting will be held at the party office and only those invited have been asked to attend.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54484,
+      "title": "Govt. to restore 10th century Siddheswara Swamy temple in Nellore district - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-to-restore-10th-century-siddheswara-swamy-temple-in-nellore-district/article70908765.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2lm64k/article70909058.ece/alternates/LANDSCAPE_1200/10215_26_4_2026_19_0_30_1_WHATSAPPIMAGE2026_04_26AT65520PM.JPEG",
+      "scraped_at": "2026-04-26 14:57:43.329933",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Andhra Pradesh** Minister for Endowments, Anam Ramanarayana Reddy, visited the 10th century **Siddheswara Swamy temple** at Krishnapatnam Port area with officials from various states and the **Archaeological Survey of India (ASI)** to inspect its heritage status and discuss development plans. The visit included representatives from Andhra Pradesh, Karnataka, Tamil Nadu, and Telangana.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 54476,
+      "title": "Telangana IT Minister Sridhar Babu calls for stricter curbs against gutka, pan masala, khaini and drugs in State - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-it-minister-calls-for-stricter-curbs-against-gutka-pan-masala-khaini-and-drugs-in-telangana/article70909030.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i4m65a/article70909035.ece/alternates/LANDSCAPE_1200/HG0q-cBaUAA360w.jpg",
+      "scraped_at": "2026-04-26 14:54:38.008489",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana IT Minister Sridhar Babu",
+      "rephrased_article": "**Duddilla Sridhar Babu**, **Telangana IT Minister**, warned against the consumption of gutka, pan masala, khaini, and narcotics, emphasizing their serious health risks. He urged young people to avoid addiction and adopt healthier lifestyles during an Oral Cancer Awareness Marathon in Hyderabad organized by the **Global Oral Cancer Trust**.  **Cyberabad Police Commissioner M. Ramesh** also participated in the event, flagging off a 5K run.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 54324,
+      "title": "Kavitha’s ‘TRS’ may face ECI scrutiny over acronym similarity - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/kavithas-trs-may-face-eci-scrutiny-over-acronym-similarity/article70906336.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qb5ckd/article70907583.ece/alternates/LANDSCAPE_1200/_NGP5948.jpg",
+      "scraped_at": "2026-04-26 03:29:49.290985",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**Election Commission of India (ECI)** may reject the proposed name \"Telangana Rashtra Sena\" for **Kalvakuntla Kavitha's** new political outfit due to its resemblance to the existing **Bharat Rashtra Samithi (BRS)**. The ECI scrutinizes party names for potential voter confusion, examining phonetic similarity and visual resemblance. While the BRS is not objecting to the name, some sources suggest that the ECI may approve it if Kavitha has good relations with New Delhi. However, **Karthik Reddy**, son of a BRS MLA, believes the ECI's decision could be a deliberate tactic to delay registration.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 54292,
+      "title": "Telangana IAS Transfers Apr 2026 | Major reshuffle; Priyanka Ala is Hyderabad Collector - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/major-ias-reshuffle-in-telangana-priyanka-ala-is-hyderabad-collector/article70906424.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yytb1e/article70906426.ece/alternates/LANDSCAPE_1200/Priyanka%20Ala%20Khairtabad%20Zonal%20Commissioner.jpg",
+      "scraped_at": "2026-04-25 21:44:55.320793",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "The **Telangana** government has announced a major reshuffle of IAS officers, transferring and appointing officials across various departments.  **Sanjay Kumar**, Special Chief Secretary in several departments, has been transferred to **Telangana Bhavan** in New Delhi, while **M. Dana Kishore** will replace him as Special Chief Secretary for the **Labour, Employment, Training and Factories (LET&F)** Department. Other key postings include **B. Viziendira** as Secretary to the Social Welfare Department, and **Harichandana Dasari**, Hyderabad Collector, moving to the **LET&F** Department.  The reshuffle also saw several collectors being transferred to different districts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54253,
+      "title": "eKYC related delay compounds domestic LPG consumer woes - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/ekyc-related-delay-compounds-domestic-lpg-consumer-woes/article70898669.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ij4qtb/article70906532.ece/alternates/LANDSCAPE_1200/06_LPG_Cylinders_23_04_Delhi.jpg",
+      "scraped_at": "2026-04-25 19:08:27.984240",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Thousands** of domestic LPG consumers in **Telangana** are experiencing difficulties accessing cooking gas refills due to the incomplete e-KYC process.  **Oil Marketing Companies (OMCs)** have implemented restrictions on refills and delays in service for those who haven't completed the e-KYC, following an advisory issued earlier. The enforcement of e-KYC is crucial given the impact of the war in West Asia on LPG supply.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 54244,
+      "title": "Goud, Chamala fault Kavitha for targeting CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/congress-appreciates-kavitha-for-exposing-brs-loot/article70905591.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-25 19:05:10.635062",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "K. Kavitha",
+      "rephrased_article": "**Mahesh Kumar Goud**, president of the Telangana Pradesh Congress Committee (TPCC), and **Chamala Kiran Kumar Reddy**, Lok Sabha member, praised **K. Kavitha**, chief of the **Telangana Rashtra Samithi (TRS)**, for acknowledging the BRS government's alleged looting during its decade-long rule.  **Goud** questioned her motives for entering politics and **Reddy** criticized her remarks comparing the Chief Minister to Hitler, asserting that such actions would not garner support from the people of Telangana.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
       ]
     }
   ]

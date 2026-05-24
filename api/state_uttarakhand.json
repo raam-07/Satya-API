@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.498705",
+  "generated_at": "2026-05-24 07:53:49.365220",
   "state": "Uttarakhand",
   "capital": "Dehradun",
   "ruling_party": "BJP",
@@ -8,22 +8,24 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 15,
-    "articles_last_30d": 15
+    "total_articles": 17,
+    "articles_last_30d": 17
   },
   "top_cities_30d": {
-    "Delhi": 7,
+    "Delhi": 8,
     "Pune": 1,
-    "Kanpur": 1
+    "Kanpur": 1,
+    "Allahabad": 1,
+    "Prayagraj": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 15,
+    "foreign_policy": 17,
     "education": 7,
     "protest_opposition": 6,
     "infrastructure": 5,
     "crime_violence": 4,
+    "economy": 3,
     "farmer_agriculture": 2,
-    "economy": 2,
     "rape_sexual_crime": 1,
     "health": 1,
     "corruption_scam": 1
@@ -532,6 +534,62 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54680,
+      "title": "World’s hottest cities: India transforms into a scorching furnace with cities shockingly hitting 46°C | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-hottest-cities-india-transforms-into-a-scorching-furnace-with-cities-shockingly-hitting-46c/articleshow/130555190.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130555293,width-1280,height-720,imgsize-40696,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-27 14:06:21.547454",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**India's** heatwave continues to impact multiple cities, with temperatures reaching 46 degrees Celsius in several areas. **The India Meteorological Department (IMD)** has issued warnings about the intense heat, predicting a heatwave in parts of Jammu & Kashmir, Himachal Pradesh, Punjab, Haryana, Delhi, Uttarakhand, Uttar Pradesh, Rajasthan, and central India. The IMD advises citizens to take precautions against heat stress by avoiding sun exposure during peak hours, staying hydrated, wearing loose-fitting clothing, and limiting strenuous activity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Allahabad",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54593,
+      "title": "NGT issues notice to Centre over risks from hanging glaciers in central Himalaya - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ngt-issues-notice-to-centre-over-risks-from-hanging-glaciers-in-central-himalaya/article70908751.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ezmpbm/article70492264.ece/alternates/LANDSCAPE_1200/IMG_BL14_NATIONAL_GREEN__2_1_4M82HF2I.jpg",
+      "scraped_at": "2026-04-26 22:08:16.685647",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **National Green Tribunal (NGT)** has ordered responses from various government agencies and organizations regarding the dangers posed by hanging glaciers in central Himalaya. The tribunal, hearing a case based on a newspaper report, found that four researchers from different institutions assessed the potential impact of glacier retreat and instability, concluding that ice avalanches could reach major settlements.  The NGT also noted violations of the Environment (Protection) Act related to these concerns, prompting the inclusion of several government bodies as respondents in the proceedings.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttarakhand",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
         "foreign_policy"
       ]
     }

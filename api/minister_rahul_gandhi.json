@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.545104",
+  "generated_at": "2026-05-24 07:53:49.415953",
   "name": "Rahul Gandhi",
   "role": "Leader of Opposition",
   "ministry": "",
@@ -7,17 +7,39 @@
   "state": "Kerala",
   "constituency": "Wayanad",
   "criminal_cases": 1,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
+  "criminal_cases_in_news": 3,
+  "criminal_incidents": [
+    {
+      "incident_text": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu **Alamgir Alam**, a former Jharkhand minister, was released on bail from the Birsa Munda Central Jail in Ranc",
+      "source_url": "https://www.thehindu.com/news/national/jharkhand/congress-leader-and-former-jharkhand-minister-alamgir-alam-walks-out-of-jail/article70979362.ece",
+      "source_title": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu",
+      "scraped_at": "2026-05-15 01:28:26.871494",
+      "incident_type": "serious"
+    },
+    {
+      "incident_text": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu **Rahul Gandhi**, leader of the **Congress**, asserted that only his party could defeat the **BJP**, chara",
+      "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
+      "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
+      "scraped_at": "2026-05-08 21:38:27.389329",
+      "incident_type": "serious"
+    },
+    {
+      "incident_text": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu The **Allahabad High Court** rejected a petition seeking to register a sedition case against **Rahul Gandhi**, the Leader of ",
+      "source_url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+      "source_title": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu",
+      "scraped_at": "2026-05-02 00:03:57.391908",
+      "incident_type": "serious"
+    }
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 65,
-    "articles_last_30d": 65,
+    "total_articles": 73,
+    "articles_last_30d": 73,
     "sentiment_breakdown_30d": {
-      "neutral": 21,
-      "negative": 34,
-      "positive": 10
+      "neutral": 23,
+      "negative": 38,
+      "positive": 12
     }
   },
   "promises": [
@@ -30,6 +52,61 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 61292,
+      "title": "Pinarayi flays crackdown on Cockroach Janta Party - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/pinarayi-flays-crackdown-on-cockroach-janta-party/article71015374.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3gzw6o/article71015451.ece/alternates/LANDSCAPE_1200/CPI-M--picks-PiG0NFVV7CQ.3.jpg.jpg",
+      "scraped_at": "2026-05-23 22:33:49.496331",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Union government",
+      "rephrased_article": "**Pinarayi Vijayan**, leader of the Opposition, criticized the **Union government's** withholding of the **Cockroach Janta Party’s X handle**. He argued that this action reflects intolerance towards democratic protests and suggests fear of the youth movement becoming a political force.  Vijayan stated that the platform has gained significant traction due to its focus on addressing unemployment and inequality, highlighting the deep discontent among young people.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61282,
+      "title": "U.P. Congress chief Ajay Rai booked over ‘objectionable’ comment on PM Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-chief-ajay-rai-booked-over-abusive-remarks-against-pm-modi/article71013749.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vs3j52/article71015523.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000152B.jpg",
+      "scraped_at": "2026-05-23 22:30:10.080475",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Ajay Rai**, **Uttar Pradesh Congress president**, is facing an FIR after a complaint from **Neeraj Kumar Rawat**, a BJP district working committee member, alleging abusive remarks against **Prime Minister Narendra Modi**.  The complaint claims that Mr. Rai obstructed government work and blocked a public road with his convoy of vehicles and supporters. The police registered the case based on a video circulating online showing Mr. Rai making objectionable statements. Mr. Rai denies the allegations, calling it a tactic to silence him and accusing the BJP government of using state apparatus against opponents.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61154,
       "title": "Back Rahul Gandhi’s call for ‘Samvidhan Bachao’, says Jagga Reddy - The Hindu",
@@ -2098,6 +2175,174 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54603,
+      "title": "AHINDA has brought political benefits to Congress: Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/ahinda-has-brought-political-benefits-to-congress-minister/article70908941.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/gnee5n/article70909528.ece/alternates/LANDSCAPE_1200/9727_26_4_2026_20_9_10_1_27BGMSJAHINDAHUBLI1.JPEG",
+      "scraped_at": "2026-04-26 22:12:03.682180",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Minister Satish Jarkiholi** spoke at a symposium celebrating the 25th anniversary of the **AHINDA** organization, emphasizing its role in strengthening the Congress and advocating for the interests of exploited communities. He stated that AHINDA aims to bring all deprived communities under one umbrella and will hold various programs throughout the year.  Retired High Court judge H.N. Nagamohan Das also spoke at the event, urging members to remain active and ensure their struggles are clear and guided by morality.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54599,
+      "title": "Raghu Rai's lens chronicled the soul of India: Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/raghu-rais-lens-chronicled-the-soul-of-india-rahul-gandhi/article70909303.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/sfork2/article70909590.ece/alternates/LANDSCAPE_1200/PTI04_26_2026_000042B.jpg",
+      "scraped_at": "2026-04-26 22:10:31.707642",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Raghu Rai",
+      "rephrased_article": "**Rahul Gandhi** expressed condolences for the passing of renowned photographer **Raghu Rai**, who died at age 83 on April 26, 2026.  The **Congress leader** praised **Rai's** work as a chronicler of India's soul and its defining moments, noting that he preserved the nation's memory through his photography. **Gandhi** offered condolences to **Rai's** family, colleagues, and admirers across generations.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 54597,
+      "title": "Trinamool running a reign of terror in West Bengal, says Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/tmcs-reign-of-terror-prevails-in-west-bengal-rahul-gandhi/article70908217.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/larv35/article70908232.ece/alternates/LANDSCAPE_1200/42de840e-efad-4db5-8f10-519d6cecd198.jfif",
+      "scraped_at": "2026-04-26 22:09:45.642343",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress (TMC)",
+      "rephrased_article": "**Rahul Gandhi**, senior Congress leader, accused the **Trinamool Congress (TMC)** of running a reign of terror in West Bengal ahead of the state assembly election.  He condemned the murder of **Debdeep Chatterjee**, a Congress worker, allegedly by TMC-affiliated goons and called for immediate action against those responsible. The Congress has demanded justice and security for the victim's family while maintaining its commitment to non-violence.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "economy",
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 54530,
+      "title": "Rahul Gandhi plans Great Nicobar visit, clearance awaited - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-plans-great-nicobar-visit-clearance-awaited/article70909550.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tjs85/article70909621.ece/alternates/LANDSCAPE_1200/20260426421L.jpg",
+      "scraped_at": "2026-04-26 17:48:21.114331",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Union government",
+      "rephrased_article": "**Rahul Gandhi**, leader of the Opposition, began a three-day visit to the Andaman and Nicobar Islands for a Congress convention in Port Blair.  He is scheduled to also visit Great Nicobar Island where the **Union government** plans a large infrastructure project that has raised concerns among tribal communities about displacement and loss of rights over their forests. **Manickam Tagore**, Congress in-charge of the islands, said Gandhi assured the people in Port Blair he would continue to fight for their rights in Delhi.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 54394,
+      "title": "Raghu Rai, legendary Indian photographer, dies at 83 | Arts and Culture News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/raghu-rai-legendary-indian-photographer-dies-at-83?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/GettyImages-1026466374-1777192204.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-26 10:28:41.636995",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Raghu Rai",
+      "rephrased_article": "**Raghu Rai**, a legendary Indian photographer and Magnum Photos icon, died at 83.  Born in Pakistan's Punjab province before the partition of India, **Rai** documented India's complex social and political life for decades, capturing pivotal moments like the 1971 Bangladesh independence war and the 1984 Bhopal gas leak. His photographs are considered defining visual records of India's history, earning him accolades such as the Padma Shri and the Academie des Beaux-Arts Photography Award. **Rai** was a member of Magnum Photos and his work is celebrated for its ability to capture the soul of India, with portraits of political and social elites, and intimate glimpses into everyday life.  His legacy will be remembered through his extensive photo-books and enduring impact on photography.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 54150,
+      "title": "Rahul Gandhi attacks RSS; alleges 'farzi nationalism in Nagpur, pure servility in U.S.' - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-congress-attacks-rss-ram-madhav-pm-us-nationalism/article70905142.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5hi0ri/article70905163.ece/alternates/LANDSCAPE_1200/20260422390L.jpg",
+      "scraped_at": "2026-04-25 11:17:39.982105",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "RSS",
+      "rephrased_article": "**Rahul Gandhi** and **K.C. Venugopal**, the Leader of Opposition in Lok Sabha, criticized **Ram Madhav**, a senior leader of the **Rashtriya Swayamsevak Sangh (RSS)**, for his statements at an event in Washington D.C.  **Gandhi** labeled the **RSS** as \"Rashtriya Surrender Sangh\" and accused them of promoting \"farzi nationalism\" and \"pure servility.\" **Venugopal** claimed that **Madhav's** remarks indicated Prime Minister **Narendra Modi** is \"dancing to Washington's tunes,\" and has surrendered India's sovereignty.  **Madhav** later apologized for his inaccurate statements, clarifying that India did not agree to stop importing oil from Russia and had protested the 50% tariff imposed by the Trump administration.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Nagpur"
+      ],
+      "topic_tags": [
         "protest_opposition"
       ]
     }

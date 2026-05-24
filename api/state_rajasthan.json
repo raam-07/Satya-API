@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.484127",
+  "generated_at": "2026-05-24 07:53:49.349561",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 37,
-    "articles_last_30d": 37
+    "total_articles": 42,
+    "articles_last_30d": 42
   },
   "top_cities_30d": {
-    "Delhi": 14,
+    "Delhi": 16,
     "Jaipur": 4,
     "Pune": 3,
     "Mumbai": 3,
@@ -24,15 +24,16 @@
     "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 35,
-    "education": 15,
+    "foreign_policy": 37,
+    "education": 17,
     "protest_opposition": 15,
+    "economy": 11,
     "infrastructure": 9,
+    "corruption_scam": 9,
     "farmer_agriculture": 8,
-    "economy": 8,
-    "corruption_scam": 8,
-    "crime_violence": 7,
-    "health": 7
+    "crime_violence": 8,
+    "health": 7,
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
     {
@@ -1165,6 +1166,130 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 54680,
+      "title": "World’s hottest cities: India transforms into a scorching furnace with cities shockingly hitting 46°C | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-hottest-cities-india-transforms-into-a-scorching-furnace-with-cities-shockingly-hitting-46c/articleshow/130555190.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130555293,width-1280,height-720,imgsize-40696,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-27 14:06:21.547454",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**India's** heatwave continues to impact multiple cities, with temperatures reaching 46 degrees Celsius in several areas. **The India Meteorological Department (IMD)** has issued warnings about the intense heat, predicting a heatwave in parts of Jammu & Kashmir, Himachal Pradesh, Punjab, Haryana, Delhi, Uttarakhand, Uttar Pradesh, Rajasthan, and central India. The IMD advises citizens to take precautions against heat stress by avoiding sun exposure during peak hours, staying hydrated, wearing loose-fitting clothing, and limiting strenuous activity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Allahabad",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54633,
+      "title": "Supreme Court takes suo motu note of assault on woman advocate, issues directions - The Hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-takes-suo-motu-note-of-assault-on-woman-advocate-issues-directions/article70910996.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/p0g9w/article67415686.ece/alternates/LANDSCAPE_1200/IMG_IMG_SUPREMECOURT-NKV_2_1_2OBPIUSL.jpg",
+      "scraped_at": "2026-04-27 07:20:15.337431",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Manoj Kumar",
+      "rephrased_article": "The **Supreme Court** took suo motu action in a brutal assault case involving a woman advocate in New Delhi, directing the Delhi Police Commissioner to hand over the investigation to a senior officer. The court also ordered the police to look into three hospitals' refusal of admission to the victim and investigate allegations against her husband's in-laws regarding the disappearance of her two minor children. **Manoj Kumar**, the alleged assailant, was arrested on April 26th after confessing to stabbing his wife on April 22nd during a family dispute.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 54446,
+      "title": "Use knowledge for progress, be job creators: Vice-President to youth - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/use-knowledge-for-progress-be-job-creators-vice-president-to-youth/article70905520.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mlwtqi/article70905722.ece/alternates/LANDSCAPE_1200/20260425197L.jpg",
+      "scraped_at": "2026-04-26 12:12:51.471688",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Vice-President C.P. Radhakrishnan",
+      "rephrased_article": "**Vice-President C.P. Radhakrishnan** urged **Rajasthan University** graduates to use their knowledge for societal progress and become job creators and nation builders during the university's 35th convocation ceremony.  He emphasized that education should be applied for the betterment of society, innovation, and ethical conduct. The event was attended by Chancellor and Governor Haribhau Bagade.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 54338,
+      "title": "CJI bats for structured national registry of former judges willing to serve in ADR - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/cji-bats-for-structured-national-registry-of-former-judges-willing-to-serve-in-adr/article70907887.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/go6lj4/article70907893.ece/alternates/LANDSCAPE_1200/PTI04_25_2026_000118B.jpg",
+      "scraped_at": "2026-04-26 06:00:48.097708",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Chief Justice of India Surya Kant",
+      "rephrased_article": "**Chief Justice of India Surya Kant** called for the creation of a structured national framework to utilize the experience of retired judges in alternative dispute resolution (ADR) mechanisms. He emphasized that their continued engagement should be treated as institutional service with accountability and support, highlighting their potential roles as mediators, arbitrators, legal educators, pre-litigation counsellors, and institution builders. **Chief Justice Kant** also stressed the importance of ADR systems like mediation, Lok Adalats, and arbitration in ensuring access to justice for millions of Indians.  He urged society to utilize these mechanisms before resorting to court proceedings.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "corruption_scam",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54297,
+      "title": "Restoration work at Hindustan Petroleum’s Rajasthan refinery expected to complete in 3-4 weeks - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/restoration-work-at-hindustan-petroleums-rajasthan-refinery-expected-to-complete-in-3-4-weeks/article70906149.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/eue66i/article70886586.ece/alternates/LANDSCAPE_1200/Fire-breaks-outGFQFSJGG6.3.jpg.jpg",
+      "scraped_at": "2026-04-25 21:46:53.009271",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Hindustan Petroleum Corporation Limited (HPCL)",
+      "rephrased_article": "**Hindustan Petroleum Corporation Limited (HPCL)** announced that restoration work at its Balotra refinery-cum-petrochemical complex, which caught fire before its inauguration earlier this week, is progressing and expected to be completed in three to four weeks. The company stated that the crude distillation unit is anticipated to restart in the second fortnight of May, while other secondary units are already nearing completion.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
       ]
     }
   ]

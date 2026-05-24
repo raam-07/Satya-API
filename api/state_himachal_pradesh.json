@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.460450",
+  "generated_at": "2026-05-24 07:53:49.321423",
   "state": "Himachal Pradesh",
   "capital": "Shimla",
   "ruling_party": "INC",
@@ -8,27 +8,30 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 24,
-    "articles_last_30d": 24
+    "total_articles": 27,
+    "articles_last_30d": 27
   },
   "top_cities_30d": {
-    "Delhi": 6,
+    "Delhi": 7,
     "Bengaluru": 2,
     "Patna": 2,
     "Ghaziabad": 1,
     "Kolkata": 1,
-    "Visakhapatnam": 1
+    "Visakhapatnam": 1,
+    "Allahabad": 1,
+    "Prayagraj": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 24,
-    "protest_opposition": 11,
+    "foreign_policy": 26,
+    "protest_opposition": 13,
     "education": 10,
+    "farmer_agriculture": 5,
     "health": 5,
-    "farmer_agriculture": 4,
+    "crime_violence": 4,
     "infrastructure": 4,
-    "crime_violence": 3,
-    "economy": 2,
-    "rape_sexual_crime": 2
+    "economy": 3,
+    "rape_sexual_crime": 2,
+    "corruption_scam": 1
   },
   "recent_articles": [
     {
@@ -798,6 +801,105 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 54701,
+      "title": "BJD asks Odisha Speaker to disqualify MLAs who cross-voted in Rajya Sabha election - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/bjd-asks-odisha-speaker-to-disqualify-mlas-who-cross-voted-in-rajya-sabha-election/article70913039.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-27 16:12:06.265136",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJD",
+      "rephrased_article": "The **Biju Janata Dal (BJD)** has demanded the disqualification of eight Odisha MLAs who voted against the party's decision in the March 16 Rajya Sabha election. The BJD, citing the Tenth Schedule, argues that these MLAs violated party directives and should be disqualified for defying the whip.  The MLAs, however, maintain their actions were constitutional and claim the move is an attempt to pressure them into submission. **Surama Padhy**, the Odisha Assembly Speaker, is currently examining the BJD's formal complaint.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 54680,
+      "title": "World’s hottest cities: India transforms into a scorching furnace with cities shockingly hitting 46°C | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-hottest-cities-india-transforms-into-a-scorching-furnace-with-cities-shockingly-hitting-46c/articleshow/130555190.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130555293,width-1280,height-720,imgsize-40696,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-27 14:06:21.547454",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**India's** heatwave continues to impact multiple cities, with temperatures reaching 46 degrees Celsius in several areas. **The India Meteorological Department (IMD)** has issued warnings about the intense heat, predicting a heatwave in parts of Jammu & Kashmir, Himachal Pradesh, Punjab, Haryana, Delhi, Uttarakhand, Uttar Pradesh, Rajasthan, and central India. The IMD advises citizens to take precautions against heat stress by avoiding sun exposure during peak hours, staying hydrated, wearing loose-fitting clothing, and limiting strenuous activity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Allahabad",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54571,
+      "title": "Drug menace emerges as key plank in Amit Shah’s campaign for Punjab polls - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/from-bengal-to-punjab-amit-shah-sets-sights-on-border-states-drug-crisis/article70907657.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tnzwkd/article70907813.ece/alternates/LANDSCAPE_1200/05_RVM_5861.jpg",
+      "scraped_at": "2026-04-26 21:08:57.504500",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Amit Shah**, **Union home minister**, will be visiting **Punjab** next month to address the drug menace, a key part of the BJP's campaign strategy for the 2027 Assembly elections.  The party has signaled its intention to go it alone in the state after severing ties with the Shiromani Akali Dal (SAD) and bringing over seven Rajya Sabha MPs from the ruling Aam Aadmi Party (AAP). **Shah** previously promised to eradicate drugs within two years, a goal he believes will help broaden the BJP's appeal beyond urban centers.",
+      "party_mentioned": [
+        "BJP",
+        "AAP",
+        "Akali Dal",
+        "SAD",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "foreign_policy",
+        "protest_opposition",
+        "crime_violence",
+        "corruption_scam"
       ]
     }
   ]

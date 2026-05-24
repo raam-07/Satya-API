@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23 21:11:26.678911",
+  "generated_at": "2026-05-24 07:53:49.560109",
   "endpoints": {
     "feed": "feed.json",
     "feed_flagged": "feed_flagged.json",
@@ -29,10 +29,12 @@
       "Gujarat": "state_gujarat.json",
       "Haryana": "state_haryana.json",
       "Himachal Pradesh": "state_himachal_pradesh.json",
+      "Jharkhand": "state_jharkhand.json",
       "Karnataka": "state_karnataka.json",
       "Kerala": "state_kerala.json",
       "Madhya Pradesh": "state_madhya_pradesh.json",
       "Maharashtra": "state_maharashtra.json",
+      "Manipur": "state_manipur.json",
       "Odisha": "state_odisha.json",
       "Punjab": "state_punjab.json",
       "Rajasthan": "state_rajasthan.json",
@@ -64,7 +66,8 @@
       "Devendra Fadnavis": "minister_devendra_fadnavis.json",
       "Omar Abdullah": "minister_omar_abdullah.json",
       "Rahul Gandhi": "minister_rahul_gandhi.json",
-      "Mallikarjun Kharge": "minister_mallikarjun_kharge.json"
+      "Mallikarjun Kharge": "minister_mallikarjun_kharge.json",
+      "Arvind Kejriwal": "minister_arvind_kejriwal.json"
     },
     "topics": {
       "crime_violence": "topic_crime_violence.json",
@@ -85,13 +88,14 @@
       "category_health": "category_health.json",
       "category_sports": "category_sports.json",
       "category_education": "category_education.json",
-      "category_environment": "category_environment.json"
+      "category_environment": "category_environment.json",
+      "category_regional": "category_regional.json"
     }
   },
   "stats": {
     "parties_count": 8,
-    "states_count": 22,
-    "ministers_count": 19,
-    "topics_count": 19
+    "states_count": 24,
+    "ministers_count": 20,
+    "topics_count": 20
   }
 }
