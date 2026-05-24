@@ -791,8 +791,8 @@ def clean_markdown(text):
 def build_feeds(articles):
     """
     Builds the main homepage feed and category feeds.
-    Main feed: 1000 articles, 70%+ India-centered.
-    Category feeds: 200 articles each.
+    Main feed: 10000 articles, 70%+ India-centered.
+    Category feeds: 2000 articles each.
     """
     logging.info("Building feed JSONs...")
 
@@ -804,18 +804,18 @@ def build_feeds(articles):
 
     logging.info(f"  India-centered: {len(india_articles)} | International: {len(international_articles)}")
 
-    # --- Build main feed: 700 India + 300 International (or whatever is available) ---
-    india_quota = min(700, len(india_articles))
-    international_quota = min(300, len(international_articles))
+    # --- Build main feed: 9000 India + 1000 International (or whatever is available) ---
+    india_quota = min(9000, len(india_articles))
+    international_quota = min(1000, len(international_articles))
 
-    # If India articles are fewer than 700, fill up with international
-    if india_quota < 700:
-        international_quota = min(1000 - india_quota, len(international_articles))
+    # If India articles are fewer than 9000, fill up with international
+    if india_quota < 9000:
+        international_quota = min(10000 - india_quota, len(international_articles))
 
     feed_articles = india_articles[:india_quota] + international_articles[:international_quota]
 
     # Re-sort combined feed by date
-    feed_articles = sort_by_date(feed_articles)[:1000]
+    feed_articles = sort_by_date(feed_articles)[:10000]
 
     india_count = sum(1 for a in feed_articles if is_india_centered(a))
     india_pct = round(india_count / len(feed_articles) * 100) if feed_articles else 0
