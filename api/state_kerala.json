@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 07:53:49.329517",
+  "generated_at": "2026-05-24 11:54:29.325328",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,34 +8,64 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 243,
-    "articles_last_30d": 243
+    "total_articles": 256,
+    "articles_last_30d": 256
   },
   "top_cities_30d": {
-    "Delhi": 26,
+    "Delhi": 27,
+    "Bengaluru": 12,
     "Chennai": 12,
-    "Bengaluru": 11,
     "Kolkata": 8,
     "Hyderabad": 7,
-    "Mumbai": 4,
+    "Mumbai": 5,
+    "Ahmedabad": 3,
+    "Coimbatore": 3,
     "Nagpur": 2,
-    "Ahmedabad": 2,
-    "Coimbatore": 2,
     "Madurai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 213,
-    "protest_opposition": 91,
-    "education": 63,
-    "infrastructure": 48,
+    "foreign_policy": 219,
+    "protest_opposition": 96,
+    "education": 64,
+    "infrastructure": 49,
     "economy": 39,
+    "crime_violence": 33,
     "health": 32,
-    "crime_violence": 29,
     "farmer_agriculture": 23,
     "corruption_scam": 16,
-    "rape_sexual_crime": 1
+    "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 61316,
+      "title": "Kasaragod district administration prepares railway master plan to end travel hardships - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kasaragod-district-administration-prepares-railway-master-plan-to-end-travel-hardships/article71010151.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jldfic/article71010673.ece/alternates/LANDSCAPE_1200/State-revenue-aGHIFKBTTL.3.jpg.jpg",
+      "scraped_at": "2026-05-24 04:04:58.702871",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Kasaragod district administration",
+      "rephrased_article": "The **Kasaragod** district administration has proposed a comprehensive railway master plan to address travel hardships faced by passengers in the northern Kerala region. The proposals, submitted to **Palakkad Divisional Railway Manager (DRM) Madhukar Rawat**, include extending eight trains currently terminating at Kannur and Mangaluru Central/Junction to Kasaragod, as well as restoring discontinued passenger services. The administration also seeks stoppages for three major superfast trains that currently bypass Kasaragod station. These proposals aim to benefit passengers travelling for work, education, medical treatment, pilgrimage, and trade.  The district administration has requested the railway authorities to consider these proposals for improved convenience and efficient travel for residents of Kasaragod.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Bengaluru",
+        "Ahmedabad",
+        "Surat",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
     {
       "id": 61292,
       "title": "Pinarayi flays crackdown on Cockroach Janta Party - The Hindu",
@@ -5510,28 +5540,6 @@
       "ministers_mentioned": [],
       "states_mentioned": [
         "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 55586,
-      "title": "Tourists flock to Munnar to escape soaring temperatures - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/tourists-flock-to-munnar-to-escape-soaring-temperatures/article70924834.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-kerala/c8d6yd/article70927022.ece/alternates/LANDSCAPE_1200/Tourists-flock-GKQFU15RO.3.jpg.jpg",
-      "scraped_at": "2026-05-01 01:29:10.112823",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Munnar",
-      "rephrased_article": "**Munnar**, a hill station in Kerala, is experiencing a surge of tourists due to its cool temperatures and pleasant weather. **Dileep Pottankulam**, president of the Munnar Hotel and Resort Association, reported that hotels are fully booked until May 3rd, with many visitors drawn by the refreshing atmosphere compared to other parts of the state facing scorching heat.  **G. Sojan**, coordinator of the My Munnar Movement, attributed the influx to post-election tourism from Tamil Nadu and a growing number of north Indian tourists. The increase in arrivals has led to heavy traffic congestion in **Munnar** town.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu"
       ],
       "cities_mentioned": [],
       "topic_tags": [

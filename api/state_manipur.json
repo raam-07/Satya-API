@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 07:53:49.340984",
+  "generated_at": "2026-05-24 11:54:29.334605",
   "state": "Manipur",
   "capital": "Imphal",
   "ruling_party": "BJP",
@@ -8,21 +8,23 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 17,
-    "articles_last_30d": 17
+    "total_articles": 18,
+    "articles_last_30d": 18
   },
   "top_cities_30d": {
     "Delhi": 3,
-    "Surat": 1
+    "Surat": 1,
+    "Prayagraj": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 15,
-    "crime_violence": 9,
+    "foreign_policy": 16,
+    "crime_violence": 10,
     "protest_opposition": 7,
     "education": 3,
     "health": 2,
     "economy": 2,
-    "infrastructure": 2
+    "infrastructure": 2,
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
     {
@@ -501,6 +503,43 @@
       "topic_tags": [
         "crime_violence",
         "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54080,
+      "title": "‘Victim is Dalit, poor every time’: Rahul Gandhi demands probe into Ghazipur rape-murder - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/victim-is-dalit-poor-every-time-rahul-gandhi-demands-probe-into-ghazipur-rape-murder/article70904654.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/s1xa1/article70904679.ece/alternates/LANDSCAPE_1200/20260422390L.jpg",
+      "scraped_at": "2026-04-25 06:55:00.573357",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Rahul Gandhi**, **Priyanka Gandhi Vadra**, and the **Congress party** are demanding a high-level investigation into the alleged rape and murder of a girl from the Vishwakarma community in Uttar Pradesh's Ghazipur district. **Gandhi** criticized the government for its inaction and demanded immediate justice, protection for the victim's family, and action against police officers involved.  He also questioned Prime Minister **Narendra Modi** and Chief Minister **Yogi Adityanath**, asking why their rule has made daughters unsafe.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Yogi Adityanath",
+        "Yogi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence",
         "foreign_policy"
       ]
     }

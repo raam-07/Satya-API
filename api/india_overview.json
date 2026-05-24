@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 07:53:49.267662",
+  "generated_at": "2026-05-24 11:54:29.270615",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,213 +7,165 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 6255,
-    "articles_last_7_days": 779,
-    "articles_last_30_days": 6255,
-    "civic_flags_last_30_days": 20,
-    "civic_flags_today": 1
+    "total_articles_classified": 6555,
+    "articles_last_7_days": 800,
+    "articles_last_30_days": 6549,
+    "civic_flags_last_30_days": 25,
+    "civic_flags_today": 2
   },
   "civic_alert": {
-    "flagged_count_30d": 20,
-    "flagged_today": 1,
+    "flagged_count_30d": 25,
+    "flagged_today": 2,
     "top_flag_categories": {
-      "power_abuse": 15,
-      "scale_of_harm": 2,
-      "institutional_failure": 2,
+      "power_abuse": 18,
+      "scale_of_harm": 3,
+      "institutional_failure": 3,
       "suppression": 1
     }
   },
   "top_stories": [
     {
-      "id": 61298,
-      "title": "US police responding to dozens of shots fired near the White House | News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26124798476778-1777973384.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-23 23:34:25.928495",
+      "id": 61319,
+      "title": "Records of charges against US Capitol rioters removed - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002645/records-of-charges-against-us-capitol-rioters-removed",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/24083659aeca928.webp",
+      "scraped_at": "2026-05-24 04:06:06.251184",
       "category": "international",
       "sentiment": "negative",
-      "sentiment_target": "US Government",
-      "rephrased_article": "**FBI Director Kash Patel** and **President Donald Trump** were reportedly inside the White House when shots were fired near the building.  Multiple emergency vehicles cordoned off access to the White House, with police and National Guard troops blocking reporters from entering the area. The Secret Service is working to corroborate reports of gunfire near 17th Street and Pennsylvania Avenue NW. No injuries have been reported at this time.",
+      "sentiment_target": "US Justice Department",
+      "rephrased_article": "The **US Justice Department** has removed hundreds of press releases detailing criminal charges related to the January 6th, 2021 attack on the US Capitol from its website. The department claims this action is part of a move to remove \"partisan propaganda\" and that it's proud to reverse what it calls the \"weaponization\" of the Justice Department under the Biden administration. This comes after reports that the Trump administration was quietly deleting information about the attack, including press releases detailing the investigation and charges brought against individuals involved.",
       "party_mentioned": [],
-      "ministers_mentioned": [
-        "Modi"
-      ],
+      "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 61317,
+      "title": "Taiwan Military Activity: Taiwan detects Chinese military aircraft, naval vessels near island for second straight day - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detects-chinese-military-aircraft-naval-vessels-near-island-for-second-straight-day/articleshow/131288010.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131288024,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-24 04:05:21.128615",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "China",
+      "rephrased_article": "**Taiwan's** ministry of national defense reported detecting four sorties of **Chinese military aircraft** and six naval vessels operating around the island until 6 am local time on Sunday. Three of the four aircraft crossed the median line of the Taiwan Strait and entered Taiwan’s southwestern and southeastern Air Defense Identification Zone (ADIZ).  The **ROC Armed Forces** monitored the situation and responded, following similar activity detected on Saturday involving 16 aircraft sorties and eight naval vessels. The repeated incursions come amid rising tensions between China and Taiwan, with Beijing continuing military operations near the self-ruled island.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61314,
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f545/live/50de57c0-56c9-11f1-89a3-d1f559421220.png",
+      "scraped_at": "2026-05-24 04:04:17.428712",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Iran",
+      "rephrased_article": "A missile strike on the oil tanker Skylight in the Strait of Hormuz killed **Dalip Rathore**, 25, and injured others.  The attack, which occurred on March 1st, was the first commercial vessel to be struck after the US-Israel war with Iran erupted. The ship's owner, Red Sea Ship Management, based in Dubai, is unidentifiable and unresponsive to inquiries. **Sunil Puniya**, 26, a crew member on the Skylight, lost his friend and remains traumatized by the experience.  The incident highlights the growing dangers faced by seafarers in the Strait of Hormuz due to geopolitical conflicts, with many vessels stranded and facing abandonment by their shipowners. The International Transport Workers' Federation (ITF) reports a surge in abandoned seafarers, highlighting the need for improved maritime regulations and accountability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
       ]
     },
     {
-      "id": 61297,
-      "title": "Australia news live: Queensland police shot dead man north of Brisbane; gunshots heard near White House | Australia news | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/3f3ea57854e32ae76adc806360e6bbb03bd05d0f/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4b81b2f3e5e1f42f4727e00216d1274e",
-      "scraped_at": "2026-05-23 23:34:09.280831",
-      "category": "crime",
+      "id": 61313,
+      "title": "Dozens feared trapped in Philippines building collapse - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/dozens-feared-trapped-in-philippines-building-collapse/articleshow/131287983.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131287989,width-1200,height-630,imgsize-257200,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-24 04:03:56.606312",
+      "category": "international",
       "sentiment": "neutral",
-      "sentiment_target": "Queensland police",
-      "rephrased_article": "**Queensland police** shot and killed an alleged domestic violence perpetrator who was armed with a firearm at a home north of Brisbane. The incident occurred after midnight on Sunday morning, following reports that the man was making threats. **Police Ethical Standards Command**, with oversight from the Crime and Corruption Commission, will investigate the shooting. Three people were transported to hospital in stable conditions, while paramedics assessed a patient in a life-threatening condition at the scene.",
+      "sentiment_target": "Philippines Government",
+      "rephrased_article": "**Jay Pelayo**, the Angeles City information officer, reported that an incident at a construction site resulted in the collapse of a building.  Eight people were rescued and 11 others escaped, including the site foreman. **Pelayo** stated that approximately 30 to 40 individuals remain missing and search and rescue operations are ongoing. The cause of the collapse is under investigation by the city engineer, who is reviewing the construction history. Rescue efforts are being hindered by the structure's concrete composition.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "crime_violence",
-        "corruption_scam"
+        "crime_violence"
       ]
     },
     {
-      "id": 61296,
-      "title": "Centre asks Delhi Gymkhana Club to hand over premises by June 5 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/centre-asks-delhi-gymkhana-club-to-hand-over-premises-by-june-5/article71014023.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/lxhblw/article71014029.ece/alternates/LANDSCAPE_1200/Gymkhanaclub.jpg",
-      "scraped_at": "2026-05-23 22:35:18.393789",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Union Urban Affairs Ministry",
-      "rephrased_article": "The **Union Urban Affairs Ministry** has ordered the **Delhi Gymkhana Club**, located adjacent to the Prime Minister's residence, to vacate its premises by June 5th. The club's 27.3-acre plot is needed for \"strengthening and securing defense infrastructure\" and other vital public security purposes.  The order was issued by the Land & Development Office (L&DO) under the Union Housing and Urban Affairs Ministry, citing urgent institutional needs and governance infrastructure projects as reasons. The club has operated from the location since 1913.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61295,
-      "title": "India is important to the U.S.’s Indo-Pacific policy, says Rubio, invites Modi to Washington - The Hindu",
-      "url": "https://www.thehindu.com/news/national/us-secretary-of-state-marco-rubio-meets-pm-modi-in-new-delhi/article71014297.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i0vdrh/article71014551.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000208B.jpg",
-      "scraped_at": "2026-05-23 22:34:55.563894",
+      "id": 61312,
+      "title": "White House shooting: 21-year-old Nasire Best, who identified himself as Jesus Christ, shot dead - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/white-house-shooting-21-year-old-nasire-best-who-identified-himself-as-jesus-christ-shot-dead/articleshow/131287947.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131287985,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-24 04:03:32.979037",
       "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "India",
-      "rephrased_article": "**Secretary of State Marco Rubio** began a four-day trip to India, meeting with **Prime Minister Narendra Modi** and other officials.  Rubio emphasized the importance of the Indo-Pacific region and renewed the Quad engagement, highlighting India's role in U.S. policy. The visit included bilateral talks with **External Affairs Minister S. Jaishankar**, attendance at the Quad Foreign Ministers’ Meeting, and a reception hosted by the U.S. Ambassador to India.  The trip also included cultural exchanges and visits to Jaipur and Agra.",
+      "sentiment": "negative",
+      "sentiment_target": "Nasire Best",
+      "rephrased_article": "A gunman, identified as Nasire Best, 21, opened fire at a security checkpoint outside the White House on Saturday evening. **Secret Service** personnel responded with gunfire, killing **Best** and injuring at least one bystander.  The shooting occurred while President Donald Trump was inside the White House during diplomatic discussions related to Iran and a proposed peace framework involving Middle Eastern nations. The FBI launched an investigation into the incident, which prompted a lockdown of the White House complex for approximately 40 minutes.",
       "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi",
-        "S. Jaishankar",
-        "Jaishankar"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata",
-        "Jaipur",
-        "Agra"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61293,
-      "title": "Future City will serve as compass for the country: TPCC chief - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/future-city-will-serve-as-compass-for-the-country-tpcc-chief/article71015219.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-23 22:34:11.292102",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "T. Harish Rao",
-      "rephrased_article": "**Mahesh Goud**, president of the **Telangana Pradesh Congress Committee (TPCC)**, criticized **T. Harish Rao**, a BRS MLA, for his comments on the future development of **Hyderabad**.  Goud argued that expanding the city's geographical limits was necessary for state development and questioned **Harish Rao**’s lack of foresight. He also stated that the Congress government is continuing previous schemes and working towards announcing names for working presidents soon.",
-      "party_mentioned": [
-        "Congress"
-      ],
       "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
       "topic_tags": [
-        "infrastructure",
+        "economy",
+        "crime_violence",
         "foreign_policy"
       ]
     },
     {
-      "id": 61292,
-      "title": "Pinarayi flays crackdown on Cockroach Janta Party - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/pinarayi-flays-crackdown-on-cockroach-janta-party/article71015374.ece",
+      "id": 61311,
+      "title": "PM Modi Jhalmuri break: Security stepped up at stall which Modi had visited in West Bengal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/security-stepped-up-at-jhalmuri-stall-which-pm-visited-during-wb-election-campaign/article71015330.ece",
       "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3gzw6o/article71015451.ece/alternates/LANDSCAPE_1200/CPI-M--picks-PiG0NFVV7CQ.3.jpg.jpg",
-      "scraped_at": "2026-05-23 22:33:49.496331",
+      "image_url": "https://th-i.thgim.com/public/incoming/j33e6b/article71016785.ece/alternates/LANDSCAPE_1200/20260419248L.jpg",
+      "scraped_at": "2026-05-24 04:03:10.622433",
       "category": "politics",
       "sentiment": "negative",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**Pinarayi Vijayan**, leader of the Opposition, criticized the **Union government's** withholding of the **Cockroach Janta Party’s X handle**. He argued that this action reflects intolerance towards democratic protests and suggests fear of the youth movement becoming a political force.  Vijayan stated that the platform has gained significant traction due to its focus on addressing unemployment and inequality, highlighting the deep discontent among young people.",
+      "sentiment_target": "Prime Minister Narendra Modi",
+      "rephrased_article": "**Bikram Kumar Sau**, a Jhalmuri vendor in Jhargram town, West Bengal, has reported receiving threatening phone calls and messages after **Prime Minister Narendra Modi** visited his stall during the state assembly election campaign.  The **Jhargram police** have launched an investigation into the threats, with security personnel posted outside the stall to protect Sau and his family. The incident gained national attention and contributed to the BJP's victory in the district.",
       "party_mentioned": [
         "BJP"
       ],
       "ministers_mentioned": [
-        "Pinarayi Vijayan"
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
       ],
-      "states_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
       "cities_mentioned": [],
       "topic_tags": [
-        "economy",
         "protest_opposition"
       ]
     },
     {
-      "id": 61291,
-      "title": "Naidu to inaugurate MSME Growth Summit-2026 in Vijayawada on May 25 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-to-inaugurate-msme-growth-summit-2026-in-vijayawada-on-may-25/article71015360.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-23 22:33:27.210625",
-      "category": "economy",
+      "id": 61310,
+      "title": "US-Iran deal in sight as CDF wraps up trip - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002652/us-iran-deal-in-sight-as-cdf-wraps-up-trip",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/24060249e96005f.webp",
+      "scraped_at": "2026-05-24 04:02:49.156217",
+      "category": "international",
       "sentiment": "positive",
-      "sentiment_target": "Andhra Pradesh government",
-      "rephrased_article": "**Chief Minister N. Chandrababu Naidu** will inaugurate the **MSME Growth Summit-2026** in Vijayawada on Monday, May 25th. The event, a flagship initiative of the **Andhra Pradesh government**, aims to accelerate the growth and competitiveness of micro, small, and medium enterprises (MSMEs) across the state.  The summit will feature over 1,500 stakeholders, including entrepreneurs, industry associations, policymakers, financial institutions, and technology partners. It will showcase innovation ecosystems, infrastructure initiatives, digital transformation programs, and success stories of MSMEs from Andhra Pradesh. The summit will also launch key initiatives like the foundation stone laying for Phase III of MSME Parks, the AP Cluster Development Programme, and the SIDBI-RTIH Seed Fund.",
+      "sentiment_target": "US-Iran deal",
+      "rephrased_article": "**Field Marshal Asim Munir**, the Chief of Defence Forces, concluded a visit to **Tehran** after intense negotiations with Iranian officials aimed at ending the conflict.  The discussions focused on de-escalation and achieving a final agreement. While no breakthrough was announced, **President Donald Trump** claimed significant progress had been made towards a peace deal that would open the Strait of Hormuz. The talks also included proposals from **Iran** and **Pakistan** to end the war and reopen the Strait of Hormuz.  Despite these developments, **Iranian** officials emphasized their commitment to achieving their goals while maintaining a hardline stance.",
       "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu",
-        "Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 61290,
-      "title": "Congress slams Centre over rising fuel prices, questions PM for not disclosing seriousness of crisis - The Hindu",
-      "url": "https://www.thehindu.com/news/national/congress-chief-mallikarjun-kharge-post-after-third-fuel-price-hike/article71013977.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/a0ri8m/article71014026.ece/alternates/LANDSCAPE_1200/TH11-Phukan-KhaGHUFVFTB4.3.jpg.jpg",
-      "scraped_at": "2026-05-23 22:33:05.662781",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Prime Minister Narendra Modi government",
-      "rephrased_article": "**Congress** leaders criticized the **Prime Minister Narendra Modi** government for its handling of rising fuel prices, accusing it of \"looting\" consumers with high taxes and failing to pass on benefits during periods of low global crude prices.  **Congress** president Mallikarjun Kharge accused the government of timing fuel price reductions around elections and resuming hikes after polling concluded. **Rajeev Gowda**, a Congress research department chairman, argued that rising fuel prices and the depreciating rupee reflected broader economic distress and called for greater transparency from the government regarding its energy policies.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
-      ],
+      "ministers_mentioned": [],
       "states_mentioned": [
         "Delhi"
       ],
@@ -221,112 +173,116 @@
         "Delhi"
       ],
       "topic_tags": [
-        "economy",
-        "education"
-      ]
-    },
-    {
-      "id": 61288,
-      "title": "States to get VB-G RAM G funding based on 16th Finance Commission formula, ‘performance criteria’ - The Hindu",
-      "url": "https://www.thehindu.com/news/national/centre-publishes-draft-rules-for-vb-g-ram-g-invites-feedback/article71013986.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/egkes4/article71014009.ece/alternates/LANDSCAPE_1200/TH29-Sobhana-EcG3QFGOBHA.3.jpg.jpg",
-      "scraped_at": "2026-05-23 22:32:20.515462",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Centre",
-      "rephrased_article": "The **Centre**'s new rural jobs scheme, Viksit Bharat–Guarantee for Rozgar and Ajeevika Mission (VB-G RAM G), will prioritize funding for poorer states using the 16th Finance Commission's horizontal devolution formula. The draft rules also propose allocating a portion of funds based on performance criteria such as timely wage payments and work completion rates.  The scheme, replacing the MGNREGA Act, will have a 60:40 funding split between the Centre and states and includes provisions for grievance redressal mechanisms and administrative frameworks.  Stakeholders have until June 21st to submit their feedback on the draft rules.",
-      "party_mentioned": [
-        "UPA"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "education",
         "foreign_policy"
       ]
     },
     {
-      "id": 61282,
-      "title": "U.P. Congress chief Ajay Rai booked over ‘objectionable’ comment on PM Modi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-chief-ajay-rai-booked-over-abusive-remarks-against-pm-modi/article71013749.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/vs3j52/article71015523.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000152B.jpg",
-      "scraped_at": "2026-05-23 22:30:10.080475",
-      "category": "politics",
+      "id": 61309,
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg",
+      "scraped_at": "2026-05-24 04:02:27.674773",
+      "category": "international",
       "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Ajay Rai**, **Uttar Pradesh Congress president**, is facing an FIR after a complaint from **Neeraj Kumar Rawat**, a BJP district working committee member, alleging abusive remarks against **Prime Minister Narendra Modi**.  The complaint claims that Mr. Rai obstructed government work and blocked a public road with his convoy of vehicles and supporters. The police registered the case based on a video circulating online showing Mr. Rai making objectionable statements. Mr. Rai denies the allegations, calling it a tactic to silence him and accusing the BJP government of using state apparatus against opponents.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi",
-        "PM Modi",
-        "Rahul Gandhi",
-        "Rahul"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
+      "sentiment_target": "Russia",
+      "rephrased_article": "A five-story building in the Russian-occupied town of Starobilsk, Luhansk region, was destroyed in an attack early Friday. **Russia** has accused **Ukraine** of carrying out a drone strike on the college dormitory, claiming 21 lives and 42 injuries.  **Vladimir Putin** called it a \"terrorist strike\" while **Ukraine's Armed Forces** stated they targeted a Russian military unit. The **United Nations Security Council** convened an emergency session at Russia's request, with some members condemning the attack as a war crime.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "protest_opposition",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61308,
+      "title": "White House Shooting: Who was Nasire Best? Maryland man who allegedly believed he was ‘Jesus Christ’ killed after gunfire near Donald Trump’s home - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/trending/white-house-shooting-breaking-news-who-was-nasire-best-maryland-secret-service-donald-trump-security-breach/articleshow/131288029.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131288046,width-1200,height-630,imgsize-44514,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-24 04:02:03.152893",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Nasire Best",
+      "rephrased_article": "**Nasire Best**, a 21-year-old Maryland man, is the suspect in a shooting near the White House security perimeter. **Best** had prior encounters with federal security agencies due to mental health struggles and repeated violations of court orders related to his presence near the White House complex.  The incident occurred on July 10, 2025, when **Best** allegedly bypassed a restricted checkpoint and fired at **Secret Service** officers. The motive behind the shooting remains under investigation, but reports suggest **Best** may have believed himself to be \"Jesus Christ\".",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61307,
+      "title": "Iran refutes Trump's 'largely negotiated' deal, claims to keep Hormuz control - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-refutes-trumps-largely-negotiated-deal-claims-to-keep-hormuz-control/articleshow/131288119.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131288214,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-24 04:01:38.581747",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Iran",
+      "rephrased_article": "**President Donald Trump** announced on Truth Social that the US and **Iran** have “largely negotiated” a deal to reopen the Strait of Hormuz, potentially ending months of conflict. However, **Iran** disputes these claims, stating that the Strait will remain under its control according to a draft proposal awaiting approval from supreme leader **Mojtaba Khamenei**.  While **Trump** expressed optimism about progress and highlighted support from regional leaders, including **Pakistan Prime Minister Shehbaz Sharif**, **Israel** remains cautious about any interim agreement due to concerns over Iran's nuclear program.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
         "foreign_policy"
       ]
     }
   ],
   "category_breakdown_30d": {
-    "international": 249,
-    "politics": 88,
+    "international": 262,
+    "politics": 91,
     "economy": 124,
     "crime": 57,
-    "other": 124,
-    "health": 33,
-    "sports": 38,
+    "other": 126,
+    "health": 34,
+    "sports": 39,
     "education": 19,
     "environment": 36,
-    "regional": 11
+    "regional": 12
   },
   "top_ministers_30d": {
-    "Narendra Modi": 198,
-    "Mamata Banerjee": 68,
-    "Rahul Gandhi": 68,
+    "Narendra Modi": 203,
+    "Rahul Gandhi": 75,
+    "Mamata Banerjee": 71,
     "Modi": 61,
-    "Amit Shah": 58,
-    "Shah": 51,
-    "M.K. Stalin": 39,
-    "Chandrababu Naidu": 30,
+    "Amit Shah": 61,
+    "Shah": 57,
+    "M.K. Stalin": 44,
+    "Chandrababu Naidu": 31,
     "Mallikarjun Kharge": 27,
     "Pinarayi Vijayan": 23
   },
   "top_parties_30d": {
-    "Congress": 549,
-    "BJP": 479,
-    "INC": 348,
-    "TMC": 113,
-    "DMK": 103,
-    "Trinamool": 88,
+    "Congress": 569,
+    "BJP": 497,
+    "INC": 363,
+    "TMC": 119,
+    "DMK": 112,
+    "Trinamool": 92,
     "CPI": 73,
-    "AIADMK": 63,
-    "SP": 43,
-    "CPM": 43
+    "AIADMK": 64,
+    "SP": 44,
+    "CPM": 44
   },
   "top_states_30d": {
-    "Kerala": 243,
-    "Tamil Nadu": 233,
-    "Gujarat": 224,
-    "Delhi": 209,
-    "West Bengal": 162,
-    "Karnataka": 154,
-    "Punjab": 137,
-    "Telangana": 104,
-    "Andhra Pradesh": 90,
-    "Kashmir": 87
+    "Kerala": 256,
+    "Tamil Nadu": 254,
+    "Gujarat": 231,
+    "Delhi": 217,
+    "West Bengal": 171,
+    "Karnataka": 159,
+    "Punjab": 140,
+    "Telangana": 108,
+    "Andhra Pradesh": 94,
+    "Kashmir": 89
   },
   "promise_summary": {
     "total": 20,

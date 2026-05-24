@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 07:53:49.342005",
+  "generated_at": "2026-05-24 11:54:29.335478",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 68,
-    "articles_last_30d": 68
+    "total_articles": 70,
+    "articles_last_30d": 70
   },
   "top_cities_30d": {
     "Delhi": 15,
@@ -17,24 +17,52 @@
     "Mumbai": 5,
     "Visakhapatnam": 5,
     "Chennai": 4,
-    "Hyderabad": 3,
+    "Hyderabad": 4,
     "Kolkata": 3,
     "Jaipur": 2,
     "Srinagar": 2,
     "Faridabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 58,
+    "foreign_policy": 59,
     "education": 29,
     "infrastructure": 22,
     "economy": 18,
     "protest_opposition": 17,
     "health": 11,
+    "corruption_scam": 8,
     "crime_violence": 7,
-    "corruption_scam": 7,
     "farmer_agriculture": 7
   },
   "recent_articles": [
+    {
+      "id": 61299,
+      "title": "West Bengal gained infamy due to recruitment scams, new recruitment policy in next Budget session: CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengalgained-infamy-due-to-recruitment-scams-new-recruitment-policy-in-next-budget-session-cm/article71014999.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7sogne/article71015762.ece/alternates/LANDSCAPE_1200/West-Bengal-govGC6G0RS92.3.jpg.jpg",
+      "scraped_at": "2026-05-23 23:34:44.597237",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Suvendu Adhikari**, West Bengal Chief Minister, announced a new recruitment policy for the state during the Rojgar Mela in Sealdah. The policy will be introduced in the next Budget session of the assembly, beginning on June 18th.  Adhikari cited previous recruitment scams under the Trinamool Congress regime, including teacher and municipal job scandals, as reasons for the new policy. He also expressed concerns about the lack of transparency in examinations and suggested a carbon copy of the OMR sheet be given to all examinees to prevent nepotism and corruption.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
     {
       "id": 61285,
       "title": "A.P. continues to grapple with intense heat as 95 mandals record above 42°C - The Hindu",
@@ -1978,6 +2006,29 @@
       ],
       "topic_tags": [
         "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54008,
+      "title": "Birds of Mangalajodi: A visual journey into Chilika’s avian paradise - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/birds-of-mangalajodi-a-visual-journey-into-chilikas-avian-paradise/article70902037.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/e8f4j5/article70902270.ece/alternates/LANDSCAPE_1200/Birds%20of%20Mangalajodi%20%2002.jpg",
+      "scraped_at": "2026-04-24 22:45:18.225520",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Birds of Mangalajodi",
+      "rephrased_article": "**Dr. Srinivasa Rao Somanchi** and his late wife, **Dr. Seetha Khambhampati**, authored the photographic book \"Birds of Mangalajodi,\" a tribute to the wetlands' birdlife. The book features striking photographs capturing the diverse species found in this significant waterfowl habitat.  The couple spent years documenting the wetlands together, with **Mr. Srinivasa Reddy**, Fellow of The Royal Photographic Society of Great Britain, praising their dedication and the book's message of passion overcoming age. Wildlife photography enthusiasts will find \"Birds of Mangalajodi\" invaluable for its insights into capturing birds in their natural habitat.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
         "foreign_policy"
       ]
     }

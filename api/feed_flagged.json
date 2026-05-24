@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24 07:53:49.252183",
-  "total": 20,
+  "generated_at": "2026-05-24 11:54:29.253316",
+  "total": 25,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 15,
-    "scale_of_harm": 2,
-    "institutional_failure": 2,
+    "power_abuse": 18,
+    "scale_of_harm": 3,
+    "institutional_failure": 3,
     "suppression": 1
   },
   "articles": [
@@ -213,6 +213,81 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "A judge ruled in favor of an institution he financially benefits from, raising serious conflict of interest concerns."
+    },
+    {
+      "id": 54080,
+      "title": "‘Victim is Dalit, poor every time’: Rahul Gandhi demands probe into Ghazipur rape-murder - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/victim-is-dalit-poor-every-time-rahul-gandhi-demands-probe-into-ghazipur-rape-murder/article70904654.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/s1xa1/article70904679.ece/alternates/LANDSCAPE_1200/20260422390L.jpg",
+      "scraped_at": "2026-04-25 06:55:00.573357",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Rahul Gandhi, Priyanka Gandhi Vadra, and the Congress party are demanding a high-level investigation into the alleged rape and murder of a girl from the Vishwakarma community in Uttar Pradesh's Ghazipur district. Gandhi criticized the government for its inaction and demanded immediate justice, protection for the victim's family, and action against police officers involved.  He also questioned Prime Minister Narendra Modi and Chief Minister Yogi Adityanath, asking why their rule has made daughters unsafe.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Yogi Adityanath",
+        "Yogi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights systemic issues of violence against Dalits and potential police inaction."
+    },
+    {
+      "id": 61299,
+      "title": "West Bengal gained infamy due to recruitment scams, new recruitment policy in next Budget session: CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengalgained-infamy-due-to-recruitment-scams-new-recruitment-policy-in-next-budget-session-cm/article71014999.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7sogne/article71015762.ece/alternates/LANDSCAPE_1200/West-Bengal-govGC6G0RS92.3.jpg.jpg",
+      "scraped_at": "2026-05-23 23:34:44.597237",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "Suvendu Adhikari, West Bengal Chief Minister, announced a new recruitment policy for the state during the Rojgar Mela in Sealdah. The policy will be introduced in the next Budget session of the assembly, beginning on June 18th.  Adhikari cited previous recruitment scams under the Trinamool Congress regime, including teacher and municipal job scandals, as reasons for the new policy. He also expressed concerns about the lack of transparency in examinations and suggested a carbon copy of the OMR sheet be given to all examinees to prevent nepotism and corruption.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights ongoing recruitment scams and their impact on citizens."
     },
     {
       "id": 54893,
@@ -500,6 +575,96 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Allegations of pressure to withdraw assault complaint raise serious concerns about justice and power abuse."
+    },
+    {
+      "id": 54022,
+      "title": "Congress leader’s son shot dead, another son injured in Janjgir-Champa in Chhattisgarh - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/gunmen-kill-congress-leaders-son-injure-another-at-his-home-in-chhattisgarh/article70900665.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/k94zjf/article70903375.ece/alternates/LANDSCAPE_1200/Birra.jpg",
+      "scraped_at": "2026-04-24 23:44:34.090291",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Chhattisgarh Government",
+      "rephrased_article": "Unidentified assailants barged into the home of Congress leader Sammelal Kashyap in Janjgir-Champa district, Chhattisgarh, on Friday (April 24, 2026), killing his son Aayush and injuring his younger son Ashutosh. The attackers arrived on a motorcycle and fired at the family while demanding money and mobile phones. Congress State unit president Deepak Baij condemned the incident as another example of deteriorating law and order in the state.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Targeted killing of a political leader's son raises serious concerns about safety and justice."
+    },
+    {
+      "id": 53984,
+      "title": "Madurai Bench orders notice to nine convicts in Sattankulam custodial death case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madurai-bench-orders-notice-to-nine-convicts-in-sattankulam-custodial-death-case/article70902238.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t1jh9p/article70902709.ece/alternates/LANDSCAPE_1200/Sattankulam%20custodial%20deaths%20case.jpg",
+      "scraped_at": "2026-04-24 21:01:47.356863",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "The Madurai Bench of the Madras High Court issued a notice to nine policemen sentenced to death for the custodial death of trader P. Jayaraj and his son J. Benicks in 2020. The court, hearing the referred trial, ordered the notice to the convicts: then Sattankulam inspector S. Sridhar; sub-inspectors P. Raghu Ganesh and K. Balakrishnan; head constables S. Murugan and A. Saamidurai; and constables M. Muthuraj, S. Chelladurai, X. Thomas Francis, and S. Veilumuthu.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Madurai"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Death sentences for custodial deaths are being challenged, raising concerns about justice."
+    },
+    {
+      "id": 53882,
+      "title": "Karbi Anglong lynching: Assam court convicts 20 for murder of Abhijeet and Nilotpal",
+      "url": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/448a/live/32b90b40-3d4d-11f1-ac21-67dfeb2ee87f.png",
+      "scraped_at": "2026-04-24 15:18:05.738949",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "mob",
+      "rephrased_article": "In 2018, Abhijeet Nath and Nilotpal Das, two men from Guwahati, were killed in Karbi Anglong, Assam, after being accused of being child kidnappers by a mob. A court recently convicted 20 people for murder and unlawful assembly while acquitting 25 others due to lack of evidence. The families of the victims expressed dissatisfaction with the verdict, stating they are considering legal options. This case highlights the dangers of misinformation spreading online, particularly through WhatsApp, which fueled suspicion and led to mob violence across India.  The incident also spurred a national conversation about how to curb the spread of false information and hold those responsible accountable.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Karnataka",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "education",
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "Lynching and mob violence are serious threats to justice and citizen safety."
     },
     {
       "id": 61266,

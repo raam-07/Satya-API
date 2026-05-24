@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 07:53:49.349561",
+  "generated_at": "2026-05-24 11:54:29.341646",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 42,
-    "articles_last_30d": 42
+    "total_articles": 45,
+    "articles_last_30d": 45
   },
   "top_cities_30d": {
-    "Delhi": 16,
+    "Delhi": 17,
     "Jaipur": 4,
+    "Mumbai": 4,
     "Pune": 3,
-    "Mumbai": 3,
     "Nashik": 2,
     "Hyderabad": 2,
     "Bengaluru": 1,
@@ -24,18 +24,42 @@
     "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 37,
+    "foreign_policy": 39,
     "education": 17,
     "protest_opposition": 15,
     "economy": 11,
     "infrastructure": 9,
+    "crime_violence": 9,
     "corruption_scam": 9,
     "farmer_agriculture": 8,
-    "crime_violence": 8,
     "health": 7,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61314,
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f545/live/50de57c0-56c9-11f1-89a3-d1f559421220.png",
+      "scraped_at": "2026-05-24 04:04:17.428712",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Iran",
+      "rephrased_article": "A missile strike on the oil tanker Skylight in the Strait of Hormuz killed **Dalip Rathore**, 25, and injured others.  The attack, which occurred on March 1st, was the first commercial vessel to be struck after the US-Israel war with Iran erupted. The ship's owner, Red Sea Ship Management, based in Dubai, is unidentifiable and unresponsive to inquiries. **Sunil Puniya**, 26, a crew member on the Skylight, lost his friend and remains traumatized by the experience.  The incident highlights the growing dangers faced by seafarers in the Strait of Hormuz due to geopolitical conflicts, with many vessels stranded and facing abandonment by their shipowners. The International Transport Workers' Federation (ITF) reports a surge in abandoned seafarers, highlighting the need for improved maritime regulations and accountability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61016,
       "title": "Rajasthan Cabinet approves new industrial development policy with focus on talent economy - The Hindu",
@@ -1291,6 +1315,53 @@
       "topic_tags": [
         "economy"
       ]
+    },
+    {
+      "id": 54006,
+      "title": "10 of 26 petitioners caught in Russia-Ukraine crossfire dead; some volunteered, others duped, government tells Supreme Court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/10-of-26-petitioners-caught-in-russia-ukraine-crossfire-dead-some-volunteered-others-duped-govt-tells-sc/article70901516.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9x86l8/article70903365.ece/alternates/LANDSCAPE_1200/TH18-Vijiaita-2GQNFATHSN.4.jpg.jpg",
+      "scraped_at": "2026-04-24 22:44:39.703983",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Union government",
+      "rephrased_article": "The **Union government** informed the Supreme Court that 10 of the 26 individuals who claimed to have been \"human-trafficked\" to fight in Ukraine are deceased.  **Additional Solicitor General Aishwarya Bhati** stated that the government is pursuing a multi-pronged strategy, including advising young people against traveling to Russia, while acknowledging cases of individuals being misled by agents. The court expressed concern over bringing back the remains from the conflict zone and requested a detailed status report.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 53893,
+      "title": "In photos: North India braces for heatwaves as temperatures cross 40C",
+      "url": "https://www.bbc.com/news/articles/cvg0666d0xjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6d4b/live/647ddd40-3fa5-11f1-b7fe-5bf54e67de0f.jpg",
+      "scraped_at": "2026-04-24 16:36:10.013432",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's weather department** has issued warnings of heatwaves across northern and central India, including Delhi, for the weekend. Temperatures in some areas have already exceeded 40C, prompting **the education department** to issue guidelines for schools to mitigate the risks associated with extreme heat, such as dehydration and heatstroke.  The **Lancet** medical journal reported that climate change played a significant role in driving heatwaves in India in 2024, resulting in substantial economic losses due to reduced labor hours.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
     }
   ]
 }

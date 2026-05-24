@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 07:53:49.362385",
+  "generated_at": "2026-05-24 11:54:29.352920",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,33 +8,59 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 74,
-    "articles_last_30d": 74
+    "total_articles": 77,
+    "articles_last_30d": 77
   },
   "top_cities_30d": {
     "Delhi": 17,
     "Lucknow": 9,
+    "Kanpur": 7,
     "Kolkata": 6,
-    "Kanpur": 6,
-    "Allahabad": 3,
+    "Allahabad": 4,
     "Mumbai": 3,
+    "Prayagraj": 3,
     "Ghaziabad": 2,
     "Agra": 2,
-    "Nagpur": 2,
-    "Prayagraj": 2
+    "Nagpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 68,
+    "foreign_policy": 69,
     "protest_opposition": 31,
+    "crime_violence": 22,
     "infrastructure": 21,
-    "crime_violence": 20,
     "education": 17,
     "farmer_agriculture": 14,
-    "economy": 10,
+    "economy": 11,
     "corruption_scam": 9,
-    "health": 6
+    "health": 7,
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61306,
+      "title": "ITBP officials meet Kanpur top cop seeking action in medical negligence case of jawan’s mother - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/itbp-officials-meet-kanpur-top-cop-seeking-action-in-medical-negligence-case-of-jawans-mother/article71015053.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/s4cfu5/article71016876.ece/alternates/LANDSCAPE_1200/20260523390L.jpg",
+      "scraped_at": "2026-05-24 04:01:12.430968",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "doctors at a private hospital",
+      "rephrased_article": "**Indo-Tibetan Border Police (ITBP)** personnel surrounded the Kanpur Police Commissionerate office on Saturday, May 23, 2026, in protest of alleged medical negligence that led to the amputation of a constable's mother. **ITBP Commandant** and dozens of personnel demanded justice for the incident, accusing doctors at a private hospital of malpractice.  The Kanpur police referred the case to the Chief Medical Officer (CMO) for investigation, which is ongoing.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 61282,
       "title": "U.P. Congress chief Ajay Rai booked over ‘objectionable’ comment on PM Modi - The Hindu",
@@ -2207,6 +2233,68 @@
         "infrastructure",
         "economy",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 54080,
+      "title": "‘Victim is Dalit, poor every time’: Rahul Gandhi demands probe into Ghazipur rape-murder - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/victim-is-dalit-poor-every-time-rahul-gandhi-demands-probe-into-ghazipur-rape-murder/article70904654.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/s1xa1/article70904679.ece/alternates/LANDSCAPE_1200/20260422390L.jpg",
+      "scraped_at": "2026-04-25 06:55:00.573357",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Rahul Gandhi**, **Priyanka Gandhi Vadra**, and the **Congress party** are demanding a high-level investigation into the alleged rape and murder of a girl from the Vishwakarma community in Uttar Pradesh's Ghazipur district. **Gandhi** criticized the government for its inaction and demanded immediate justice, protection for the victim's family, and action against police officers involved.  He also questioned Prime Minister **Narendra Modi** and Chief Minister **Yogi Adityanath**, asking why their rule has made daughters unsafe.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Yogi Adityanath",
+        "Yogi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 54028,
+      "title": "Allahabad HC raps U.P. police for ‘disturbing trend’ of harassing young couples - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-raps-up-police-for-disturbing-trend-of-harassing-young-couples/article70901997.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/ejx2uw/article70903288.ece/alternates/LANDSCAPE_1200/iStock-889304872.jpg",
+      "scraped_at": "2026-04-24 23:47:02.907672",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh police",
+      "rephrased_article": "The **Allahabad High Court** criticized the **Uttar Pradesh police** for pursuing young couples who have married, instead of focusing on serious crimes. The court found that the police's actions were a violation of personal liberty and quashed an FIR filed by Saharanpur police based on a missing complaint from the woman's father.  The court emphasized adults' right to choose their partners and live independently.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "crime_violence"
       ]
     }
   ]
