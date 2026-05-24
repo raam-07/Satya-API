@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 19:53:04.518986",
+  "generated_at": "2026-05-24 23:40:30.249377",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 84,
+    "total_articles": 86,
     "articles_last_30d": 79
   },
   "top_cities_30d": {
-    "Mumbai": 23,
+    "Mumbai": 22,
     "Pune": 16,
     "Delhi": 10,
     "Nashik": 10,
@@ -25,17 +25,38 @@
   },
   "top_topics_30d": {
     "foreign_policy": 66,
-    "protest_opposition": 30,
+    "protest_opposition": 29,
     "infrastructure": 26,
     "economy": 25,
     "education": 23,
-    "crime_violence": 15,
+    "crime_violence": 16,
     "farmer_agriculture": 8,
     "rape_sexual_crime": 8,
     "health": 5,
     "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 61466,
+      "title": "Tigress which killed four women trapped in Maharashtra - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/tigress-which-killed-four-women-trapped-in-maharashtra/article71018435.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-24 17:10:31.222245",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "tigress",
+      "rephrased_article": "**Forest officials** tranquilized a tigress that killed four women in Maharashtra's Chandrapur district. The attack occurred while the women were harvesting tendu patta leaves, and three of them went searching for missing companions.  The deceased are Kavdabai Mohurle (45), Anitabai Mohurle (40), Sunita Mohurle (38), and Sangeeta Chaudhary (50). The incident has sparked anger among residents who have been living in fear due to previous tiger attacks, highlighting the escalating human-tiger conflict.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 61391,
       "title": "Congress factions in Kerala ‘wishcasting’ for their respective loyalists as KPCC president’s post comes up for grabs - The Hindu",
@@ -2490,6 +2511,28 @@
         "Pune"
       ],
       "topic_tags": []
+    },
+    {
+      "id": 53283,
+      "title": "Stick to defensive and quality themes amid volatile global setup: Mayuresh Joshi - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/sticks-to-defensive-and-quality-themes-amid-volatile-global-setup-mayuresh-joshi/articleshow/130436512.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130436506,width-1200,height-630,imgsize-17760,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-04-22 09:09:46.409332",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Economy",
+      "rephrased_article": "**Mayuresh Joshi**, Head Equity at Marketsmith India, suggests investors focus on sectors with consistent earnings and structural growth drivers. He highlights power as a key area of interest due to sustained demand visibility and improving trends.  He also recommends mid-cap PSU banks like Bank of Maharashtra, Bank of Baroda, Bank of India, and Indian Bank for their valuations and earnings potential. Joshi identifies Sai Life Sciences in the pharma sector and Godawari Power in the mining and power space as potential outperformers. He remains cautious on IT due to weak commentary and emerging revenue pressure while favoring FMCG companies like Nestle with strong results and resilience against input cost pressures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
     }
   ]
 }

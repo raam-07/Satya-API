@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 19:53:04.523309",
+  "generated_at": "2026-05-24 23:40:30.253830",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,23 +8,23 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 74,
+    "total_articles": 77,
     "articles_last_30d": 71
   },
   "top_cities_30d": {
     "Delhi": 15,
-    "Bengaluru": 5,
+    "Bengaluru": 6,
     "Mumbai": 5,
     "Visakhapatnam": 5,
     "Chennai": 4,
-    "Hyderabad": 4,
+    "Hyderabad": 3,
     "Kolkata": 3,
     "Jaipur": 2,
     "Srinagar": 2,
     "Faridabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 60,
+    "foreign_policy": 59,
     "education": 30,
     "infrastructure": 22,
     "economy": 18,
@@ -35,6 +35,27 @@
     "farmer_agriculture": 7
   },
   "recent_articles": [
+    {
+      "id": 61454,
+      "title": "Janivara and hijab row: KEA to turn down demand by 3 students for re-exam in all subjects - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/janivara-and-hijab-row-kea-to-turn-down-demand-by-3-students-for-re-exam-in-all-subjects/article71017626.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/b16v5l/article71018465.ece/alternates/LANDSCAPE_1200/DSC_0397.JPG",
+      "scraped_at": "2026-05-24 15:51:39.664284",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "KEA",
+      "rephrased_article": "Three students who were forced to remove their janivara during the Physics Common Entrance Test (CET-2026) in Bengaluru have rejected **KEA’s** offer for a re-examination of just the Physics paper. They instead demanded a re-examination for all four subjects and the best of two scores be considered for ranking.  The **Higher Education Department** has suspended staff at Krupanidhi College, while the parents of the student who refused to remove her hijab have requested help from the **KEA**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": []
+    },
     {
       "id": 61402,
       "title": "Kerala seeks urgent intervention over CBSE Plus Two evaluation complaints - The Hindu",
@@ -2121,6 +2142,54 @@
       "ministers_mentioned": [],
       "states_mentioned": [
         "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 53199,
+      "title": "After 9.8 lakh voter deletions in Odisha, BJD MP urges EC to address ‘serious concerns’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/after-98-lakh-voter-deletions-in-odisha-bjd-mp-urges-ec-to-address-serious-concerns/article70889970.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/b35t78/article70890476.ece/alternates/LANDSCAPE_1200/20260402246L.jpg",
+      "scraped_at": "2026-04-21 22:46:12.952372",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission of India (EC)",
+      "rephrased_article": "**Biju Janata Dal (BJD)** leader **Sasmit Patra** urged the **Election Commission of India (EC)** to investigate the removal of 9.8 lakh voters from the Odisha electoral roll.  Patra expressed concerns over the scale and process behind these proposed deletions, citing reports of procedural irregularities and a risk of disenfranchisement. The BJD MP called for a comprehensive re-verification of all flagged cases and full transparency in data disclosure. Former Minister **Ranendra Pratap Swain** also alleged a political conspiracy behind the voter removals.",
+      "party_mentioned": [
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 53193,
+      "title": "No seats for DMK regulars: Ponmudi, R. Gandhi, Mano Thangaraj, and Kayalvizhi Selvaraj - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/no-seats-for-dmk-regulars-ponmudi-r-gandhi-mano-thangaraj-and-kayalvizhi-selvaraj/article70796094.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i3xal1/article70796105.ece/alternates/LANDSCAPE_1200/K_Ponmudi_04.jpg",
+      "scraped_at": "2026-04-21 22:44:22.926964",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**DMK** has announced its list of 164 candidates for the 2026 Tamil Nadu Assembly elections, denying seats to former **Higher Education Minister K. Ponmudi**, **Handloom and Textiles Minister R. Gandhi**, **Dairy Development Minister Mano Thangaraj**, and **Human Resources Management Minister Kayalvizhi Selvaraj**.  **Ponmudi's son Gowtham Sigamani** has been chosen to represent Tirukoilur, while **Gandhi's son Vinod** is contesting from Ranipet.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
       ],
       "cities_mentioned": [],
       "topic_tags": [

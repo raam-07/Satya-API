@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 19:53:04.566743",
+  "generated_at": "2026-05-24 23:40:30.299648",
   "state": "Puducherry",
   "capital": "Puducherry",
   "ruling_party": "INC",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 41,
-    "articles_last_30d": 39
+    "total_articles": 43,
+    "articles_last_30d": 40
   },
   "top_cities_30d": {
     "Chennai": 10,
@@ -20,9 +20,9 @@
     "Coimbatore": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 37,
+    "foreign_policy": 38,
     "education": 12,
-    "protest_opposition": 11,
+    "protest_opposition": 12,
     "infrastructure": 11,
     "economy": 10,
     "crime_violence": 6,
@@ -32,6 +32,39 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61487,
+      "title": "BJP tried to stitch coalition govt. in Tamil Nadu with DMK and AIADMK on election result day: Congress MP Manickam Tagore - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-tried-to-stitch-coalition-govt-in-tamil-nadu-with-dmk-and-aiadmk-on-election-result-day-congress-mp-manickam-tagore/article71017525.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kkxxek/article71017761.ece/alternates/LANDSCAPE_1200/9864_25_3_2024_15_49_18_2_IMG_20240325_142620.JPG",
+      "scraped_at": "2026-05-24 18:43:39.476929",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**BJP** MP B. Manickam Tagore accused **DMK** leader Udhayanidhi Stalin of attempting to form a coalition government with the **AIADMK** to prevent TVK president C. Joseph Vijay from becoming Chief Minister.  He claimed that the **DMK**'s actions were orchestrated by the **BJP**, and that they will soon strike an understanding with the party, potentially leading to DMK MPs abstaining from voting against the BJP-led government in Parliament.  **Girish Chodankar**, Congress's in-charge for Tamil Nadu and Puducherry, responded to the accusations by stating that the attacks on the Congress should not be directed at the people of Tamil Nadu who voted.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "DMK",
+        "AIADMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 61257,
       "title": "Chennai and surrounding areas to experience cloudy weather - The Hindu",
@@ -1391,6 +1424,29 @@
         "corruption_scam",
         "education"
       ]
+    },
+    {
+      "id": 53252,
+      "title": "Assembly Elections 2026: What are the documents required for voting - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-2026-assam-kerala-west-bengal-puducherry-tamil-nadu-documents-to-vote/article70734702.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yqna1e/article70727522.ece/alternates/LANDSCAPE_1200/iStock-2150782263.jpg",
+      "scraped_at": "2026-04-22 05:35:08.605867",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Assam**, **Kerala**, **Puducherry**, **West Bengal**, and **Tamil Nadu** will hold elections for their Legislative Assemblies on a date yet to be determined.  Approximately 17.8 crore people are eligible to vote in these polls, with the primary document required being a Voter Identification Card (EPIC). Other acceptable forms of identification include Aadhaar Card, PAN Card, Indian Passport, Driving Licence, and various other documents. Voters can verify their eligibility by checking the electoral roll on the ECI portal or by registering as a new voter through Form 6.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 19:53:04.517034",
+  "generated_at": "2026-05-24 23:40:30.247331",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 42,
-    "articles_last_30d": 38
+    "total_articles": 44,
+    "articles_last_30d": 39
   },
   "top_cities_30d": {
     "Delhi": 12,
@@ -24,18 +24,44 @@
     "Ahmedabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 36,
+    "foreign_policy": 37,
     "education": 13,
     "protest_opposition": 13,
     "infrastructure": 11,
     "health": 9,
     "farmer_agriculture": 8,
-    "crime_violence": 7,
+    "crime_violence": 8,
     "economy": 6,
     "rape_sexual_crime": 2,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61442,
+      "title": "SC’s revival of Section 124A for consenting accused brings back a colonial law the country did not want - The Hindu",
+      "url": "https://www.thehindu.com/news/national/sc-revival-of-section-124a-proceedings-revives-debate-over-colonial-era-sedition-law/article71017818.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/pu1mm9/article71018099.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_15_17_2_18_08_2025_SUPREME_COURT04.jpg",
+      "scraped_at": "2026-05-24 15:48:21.629137",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** has revived Section 124A (sedition) proceedings, despite its previous agreement that the provision was outdated and oppressive. The court's May 21 clarification allows for trials under the section to proceed on merits, but this decision does not address the constitutionality of the law itself, which is still being challenged in separate petitions.  The court’s action has created practical challenges, particularly regarding situations where accused individuals may consent to proceedings while co-accused refuse.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 61356,
       "title": "2008 railway exam assault: Raj Thackeray's role in instigating attack not proved, says court - The Hindu",
@@ -1326,6 +1352,35 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 53206,
+      "title": "Tourists return to Pahalgam; hoteliers offer discounts - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/on-anniversary-of-pahalgam-attack-tourists-pledge-to-return-at-the-memorial-site/article70889873.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nykuta/article70890085.ece/alternates/LANDSCAPE_1200/PTI04_21_2026_000416B.jpg",
+      "scraped_at": "2026-04-21 22:48:42.632775",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "J&K administration",
+      "rephrased_article": "**Tourists** returned to **Pahalgam**, a scenic destination in Jammu and Kashmir, for the first anniversary of a terror attack.  Hotels are offering rebates on tariffs, and taxi drivers are providing free rides as a goodwill gesture. A memorial has been erected at the 'selfie point' with the names of all 26 victims displayed. The local community is working to ensure safety and comfort for tourists, while **National Conference** president Farooq Abdullah paid tribute to the victims.  The J&K administration is also prioritizing safety measures for tourists.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     }
   ]
