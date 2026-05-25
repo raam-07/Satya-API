@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.931305",
+  "generated_at": "2026-05-25 18:19:06.683935",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 143,
-    "articles_last_30d": 110
+    "total_articles": 152,
+    "articles_last_30d": 111
   },
   "top_cities_30d": {
     "Hyderabad": 37,
-    "Delhi": 9,
+    "Delhi": 10,
     "Mumbai": 4,
     "Bengaluru": 2,
     "Varanasi": 1,
@@ -24,18 +24,58 @@
     "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 96,
+    "foreign_policy": 97,
     "infrastructure": 35,
     "education": 32,
     "economy": 21,
+    "farmer_agriculture": 16,
     "protest_opposition": 16,
-    "farmer_agriculture": 15,
     "health": 10,
     "rape_sexual_crime": 7,
     "crime_violence": 7,
     "corruption_scam": 3
   },
   "recent_articles": [
+    {
+      "id": 61597,
+      "title": "Scorching days, restless nights: Heatwave tightens grip across parts of India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/scorching-days-restless-nights-heatwave-tightens-grip-across-parts-of-india/article71015005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vuakmk/article71015043.ece/alternates/LANDSCAPE_1200/10215_23_5_2026_16_51_9_1_IMG_20260523_WA0025.JPG",
+      "scraped_at": "2026-05-25 09:19:30.782561",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** experienced scorching temperatures exceeding 44° Celsius in several regions, prompting **hospitals** in Punjab to activate heat stroke management units. The **IMD** issued heatwave alerts for three districts of Jharkhand and warned of rising temperatures across Delhi, Haryana, and Chandigarh.  Veterinarians and animal rescuers reported an increase in distressed birds and animals suffering from dehydration and heatstroke. In Himachal Pradesh, a yellow warning for heatwave conditions was issued for parts of the state. **Chief Ministers** of various states ordered officials to ensure adequate drinking water availability, while **Congress leader Kishori Lal Sharma** raised concerns about power supply disruptions in Uttar Pradesh's Amethi constituency.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 61539,
       "title": "Govt. committed to reviving Nandi awards, says Cinematography Minister Durgesh - The Hindu",
@@ -3661,6 +3701,214 @@
         "crime_violence",
         "foreign_policy",
         "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 52256,
+      "title": "Stalin drumming up non-existent issues: Tamilisai Soundararajan - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-drumming-up-non-existent-issues-tamilisai-soundararajan/article70877201.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/imwwkv/article70878012.ece/alternates/LANDSCAPE_1200/DSC_2024.jpg",
+      "scraped_at": "2026-04-18 14:13:42.615754",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "M.K. Stalin",
+      "rephrased_article": "**Tamilisai Soundararajan**, senior BJP leader and former Telangana Governor, criticized **M.K. Stalin**, the Chief Minister of Tamil Nadu, for portraying a fabricated war against the state.  She accused **Stalin** of raising non-existent issues such as delimitation, the National Education Policy, and electoral roll revisions to distract from the poor law and order situation and governance in the state.",
+      "party_mentioned": [
+        "BJP",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52242,
+      "title": "Telangana Transport Minister raises concerns over rise in fatal road accidents - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-transport-minister-raises-concerns-over-rise-in-fatal-road-accidents/article70877178.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/sh33t2/article70877211.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-18%20at%202.26.49%20PM.jpeg",
+      "scraped_at": "2026-04-18 12:05:58.993299",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**Transport Minister Ponnam Prabhakar** expressed concern over the rising number of fatal road accidents during a 'Arrive Alive' program in Mahabubnagar district. He highlighted media reports indicating significant loss of life and distress among families, emphasizing that government initiatives require public participation for success.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 52240,
+      "title": "Telangana Govt pushes for free MMTS travel to boost use of public transport, offers to bear ticket fares - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/government-pushes-for-free-mmts-travel-to-boost-use-of-public-transport/article70870387.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pelasb/article70870508.ece/alternates/LANDSCAPE_1200/SCR.jpg",
+      "scraped_at": "2026-04-18 12:05:00.962185",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**Telangana**'s Chief Secretary, K. Ramakrishna Rao, requested the **South Central Railway (SCR)** to offer free public travel on MMTS suburban trains.  Rao made this request during a coordination meeting with **SCR General Manager Sanjay Kumar Srivastava**, and senior officials from both sides attended. The government offered to cover ticket fares for an extended period to encourage public transport use.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 52219,
+      "title": "CBI arrests former bank official, two others in ‘digital arrest’ case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cbi-arrests-former-bank-official-two-others-in-digital-arrest-case/article70876914.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h7323o/article70877336.ece/alternates/LANDSCAPE_1200/IMG_PTI12_03_2024_001010_2_1_JIDRD0VC.jpg",
+      "scraped_at": "2026-04-18 11:13:36.122890",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "CBI",
+      "rephrased_article": "**The Central Bureau of Investigation (CBI)** arrested three individuals, including a former bank official, in connection with a \"digital arrest\" scam. The arrests followed searches at five locations across Telangana and Andhra Pradesh.  The victims, a senior citizen, was allegedly coerced into transferring over ₹1.6 crore under the threat of digital arrest. **The CBI** is investigating the case based on a Supreme Court order.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 52087,
+      "title": "HC asks under what authority of law breath analyser test held on advocate - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/hc-asks-under-what-authority-of-law-breath-analyser-test-held-on-advocate/article70874903.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-17 21:54:29.072200",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Inspector Ramakrishna",
+      "rephrased_article": "**Justice E.V. Venugopal** of the Telangana High Court questioned **Inspector Ramakrishna** of the Punjagutta police station about the authority to conduct a breath analyser test on advocate Subba Rao, who visited the station to inquire about a case.  The judge noted that the video evidence presented showed the test was \"unknown to law\" and sought clarification on the reasons for the disturbance leading to the test.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 52036,
+      "title": "Sridhar Babu urges defence, R&D labs to partner with Telangana on aerospace - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/sridhar-babu-urges-defence-rd-labs-to-partner-with-telangana-on-aerospace/article70874807.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/q6enwy/article70875154.ece/alternates/LANDSCAPE_1200/Aeronautical%20Society%20of%20India%20AeSI%20and%20National%20Conference%20%2002.jpg",
+      "scraped_at": "2026-04-17 18:20:38.266766",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**D. Sridhar Babu**, Minister for IT and Industries of Telangana, urged the **defense industry**, **research laboratories**, and scientists to collaborate with the state government to build a strong aerospace ecosystem in Hyderabad. He highlighted the region's existing infrastructure, talent pool, and dedicated aerospace clusters, noting that over 1,500 firms contribute to global aerospace supply chains within Telangana.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 52022,
+      "title": "It’ a red-letter day, says Revanth; KTR blames BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/it-a-red-letter-day-says-revanth-ktr-blames-bjp/article70875028.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tu16kb/article70875140.ece/alternates/LANDSCAPE_1200/MEMAU_17_4_2026_21_21_50_2_9992.JPG",
+      "scraped_at": "2026-04-17 18:15:59.183970",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Following the defeat of the Women's Reservation Bill in Parliament, **Congress** and **Bharatiya Rashtra Samithi (BRS)** leaders praised opposition parties for uniting to block the controversial legislation.  **Rahul Gandhi**, **Mallikarjun Kharge**, and **A. Revanth Reddy** led the charge against the bill, with **K. T. Rama Rao** blaming the BJP for its failure. **Bandi Sanjay** accused the Congress of using the bill to weaken southern India, while **N Ramchander Rao** criticized the bill's defeat as a setback for women's empowerment.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Hemant Soren",
+        "Stalin",
+        "Uddhav Thackeray",
+        "Akhilesh Yadav",
+        "Akhilesh",
+        "Sharad Pawar",
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52016,
+      "title": "Watch: Constitution Amendment Bill, part of delimitation package, defeated - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-constitution-amendment-bill-part-of-delimitation-package-defeated/article70875160.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/eotmth/article70875148.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-17%20at%209.39.53%20PM.jpeg",
+      "scraped_at": "2026-04-17 17:33:27.944896",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Lok Sabha** rejected the Constitution Amendment Bill on women's quota, while **Sri Lanka’s Power and Energy Minister** resigned amidst controversy.  **Iran** reopened the Strait of Hormuz, easing global shipping concerns. The **Supreme Court** flagged illegal sand mining in Madhya Pradesh.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]

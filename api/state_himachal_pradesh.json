@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.886915",
+  "generated_at": "2026-05-25 18:19:06.639556",
   "state": "Himachal Pradesh",
   "capital": "Shimla",
   "ruling_party": "INC",
@@ -8,24 +8,26 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 34,
-    "articles_last_30d": 27
+    "total_articles": 36,
+    "articles_last_30d": 28
   },
   "top_cities_30d": {
-    "Delhi": 7,
+    "Delhi": 8,
     "Bengaluru": 2,
     "Patna": 2,
     "Ghaziabad": 1,
     "Kolkata": 1,
     "Visakhapatnam": 1,
     "Allahabad": 1,
-    "Prayagraj": 1
+    "Prayagraj": 1,
+    "Ludhiana": 1,
+    "Amritsar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 26,
+    "foreign_policy": 27,
     "protest_opposition": 13,
     "education": 10,
-    "farmer_agriculture": 5,
+    "farmer_agriculture": 6,
     "health": 5,
     "crime_violence": 4,
     "infrastructure": 4,
@@ -34,6 +36,46 @@
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61597,
+      "title": "Scorching days, restless nights: Heatwave tightens grip across parts of India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/scorching-days-restless-nights-heatwave-tightens-grip-across-parts-of-india/article71015005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vuakmk/article71015043.ece/alternates/LANDSCAPE_1200/10215_23_5_2026_16_51_9_1_IMG_20260523_WA0025.JPG",
+      "scraped_at": "2026-05-25 09:19:30.782561",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** experienced scorching temperatures exceeding 44° Celsius in several regions, prompting **hospitals** in Punjab to activate heat stroke management units. The **IMD** issued heatwave alerts for three districts of Jharkhand and warned of rising temperatures across Delhi, Haryana, and Chandigarh.  Veterinarians and animal rescuers reported an increase in distressed birds and animals suffering from dehydration and heatstroke. In Himachal Pradesh, a yellow warning for heatwave conditions was issued for parts of the state. **Chief Ministers** of various states ordered officials to ensure adequate drinking water availability, while **Congress leader Kishori Lal Sharma** raised concerns about power supply disruptions in Uttar Pradesh's Amethi constituency.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 60761,
       "title": "Himachal urban poll results reflect public confidence in Congress; party united with no groupism, says CM Sukhu - The Hindu",
@@ -1094,6 +1136,38 @@
       "topic_tags": [
         "health",
         "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52221,
+      "title": "Chief Minister N. Chandra Babu Naidu launches a national-level campaign against Opposition for defeating Constitution Amendment Bill - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-n-chandra-babu-naidu-launches-a-national-level-campaign-against-opposition-for-defeating-constitution-amendment-bill/article70877155.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8jiegy/article70877199.ece/alternates/LANDSCAPE_1200/22GNRAO-CHANDRA%20BABU-01%201.JPG",
+      "scraped_at": "2026-04-18 11:14:17.734711",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Opposition",
+      "rephrased_article": "**Chief Minister N. Chandra Babu Naidu** and his allies launched a nationwide protest against the opposition parties for defeating the Constitution (131st Amendment) Bill, 2026, which aimed to implement women's reservation in Parliament. **Naidu**, accompanied by BJP Andhra Pradesh State BJP President P.V.N. Madhav and Jana Sena PAC Member and Tourism Minister Kandula Durgesh, criticized the opposition for betraying women's rights and vowed to honor their self-respect through nationwide protests.  **Naidu** asserted that Prime Minister Narendra Modi and Home Minister Amit Shah had promised no loss to small states or regions if the bill was passed.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TDP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
         "protest_opposition"
       ]
     }

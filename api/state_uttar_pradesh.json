@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.937570",
+  "generated_at": "2026-05-25 18:19:06.690196",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 95,
-    "articles_last_30d": 77
+    "total_articles": 103,
+    "articles_last_30d": 78
   },
   "top_cities_30d": {
-    "Delhi": 17,
+    "Delhi": 18,
     "Lucknow": 9,
     "Kanpur": 7,
     "Kolkata": 6,
@@ -24,17 +24,57 @@
     "Prayagraj": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 68,
+    "foreign_policy": 69,
     "protest_opposition": 31,
     "infrastructure": 21,
     "crime_violence": 21,
     "education": 17,
-    "farmer_agriculture": 14,
+    "farmer_agriculture": 15,
     "economy": 9,
     "corruption_scam": 9,
     "health": 7
   },
   "recent_articles": [
+    {
+      "id": 61597,
+      "title": "Scorching days, restless nights: Heatwave tightens grip across parts of India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/scorching-days-restless-nights-heatwave-tightens-grip-across-parts-of-india/article71015005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vuakmk/article71015043.ece/alternates/LANDSCAPE_1200/10215_23_5_2026_16_51_9_1_IMG_20260523_WA0025.JPG",
+      "scraped_at": "2026-05-25 09:19:30.782561",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** experienced scorching temperatures exceeding 44° Celsius in several regions, prompting **hospitals** in Punjab to activate heat stroke management units. The **IMD** issued heatwave alerts for three districts of Jharkhand and warned of rising temperatures across Delhi, Haryana, and Chandigarh.  Veterinarians and animal rescuers reported an increase in distressed birds and animals suffering from dehydration and heatstroke. In Himachal Pradesh, a yellow warning for heatwave conditions was issued for parts of the state. **Chief Ministers** of various states ordered officials to ensure adequate drinking water availability, while **Congress leader Kishori Lal Sharma** raised concerns about power supply disruptions in Uttar Pradesh's Amethi constituency.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 61501,
       "title": "BJP names 5 candidates for Legislative Council polls - The Hindu",
@@ -2855,6 +2895,199 @@
       "topic_tags": [
         "infrastructure",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 52201,
+      "title": "Centre's conspiracy to change federal structure defeated; victory of Opposition unity, says Priyanka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-on-opposition-unity-delimitation-bill-women-reservation/article70876852.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8iiwt2/article70876874.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-18%20at%2012.49.55%20PM.jpeg",
+      "scraped_at": "2026-04-18 10:12:19.345631",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Prime Minister Narendra Modi",
+      "rephrased_article": "**Priyanka Gandhi Vadra**, **Congress** general secretary, declared the defeat of the Constitution (131st Amendment) Bill to implement women's reservation as a victory for democracy and opposition unity. She accused the **Prime Minister Narendra Modi** and **Home Minister Amit Shah** of attempting to manipulate the women's reservation law for political gain by linking it with delimitation plans. The bill, which aimed to increase Lok Sabha seats and state assembly representation through 33% reservation for women, failed to secure a two-thirds majority in the Lower House.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52154,
+      "title": "Lebanese return to ‘unliveable’ areas as ceasefire with Israel mostly holds - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/lebanese-return-to-unliveable-areas-as-ceasefire-with-israel-mostly-holds/articleshow/130346080.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130346117,width-1280,height-720,imgsize-987289,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-18 06:53:11.457865",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Israel",
+      "rephrased_article": "**President Trump** announced the US had banned further Israeli bombing in Lebanon, following a 10-day ceasefire between **Hezbollah** and Israel.  While optimism grows that the parallel war between the US and Iran could be nearing an end, the agreement leaves questions about long-term peace and Israel's continued occupation of parts of southern Lebanon. The ceasefire has allowed some displaced Lebanese to return home, but many remain hesitant due to destroyed homes and lingering fear of further conflict.  Despite this, a makeshift crossing over the Litani River in Qasmiyeh demonstrates the tentative return of normalcy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 52085,
+      "title": "How the war on Iran set off worker protests around Delhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/how-the-war-on-iran-set-off-worker-protests-around-delhi/article70873651.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/gnblbp/article70874410.ece/alternates/LANDSCAPE_1200/PTI04_13_2026_000039A.jpg",
+      "scraped_at": "2026-04-17 21:53:59.645216",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Gangeshwar Datt Sharma**, a former shoe-maker, has been under house arrest for over a week in Uttar Pradesh after organizing workers against management exploitation.  He was involved with the workers' movement from his early days at a Noida shoe factory catering to the Russian market. The police arrested Sharma and three others following protests against unfair labor practices. Over 350 people, including many women, have also been detained.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52068,
+      "title": "Sebi clears four IPOs including Avaada Electro and Grand Housing - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-clears-four-ipos-including-avaada-electro-and-grand-housing/articleshow/130336958.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130336950,width-1200,height-630,imgsize-198784,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-04-17 20:59:35.644483",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Avaada Electro**, a solar manufacturing firm backed by **Brookfield**, is expected to raise up to Rs 10,000 crore through an IPO, with proceeds earmarked for expanding its manufacturing capacity.  **Grand Housing**, a Chennai-based real estate developer, will launch an offer-for-sale of up to 3.55 crore shares, while **Sonaselection India** will issue a fresh equity offering of 1.43 crore shares. **Vishal Nirmiti**, an infrastructure player, plans to raise funds through a combination of a Rs 125 crore fresh issue and an offer-for-sale component.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 52050,
+      "title": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-orders-fir-against-rahul-gandhi-in-alleged-dual-citizenship-case/article70873912.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/z0iwst/article70873930.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000287B.jpg",
+      "scraped_at": "2026-04-17 19:46:37.812241",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "The **Lucknow Bench of the Allahabad High Court** ordered the registration of an FIR and further investigation into allegations that **Rahul Gandhi**, Leader of the Opposition in the Lok Sabha, holds British citizenship. The petitioner, S. Vignesh Shishir, claimed that Mr. Gandhi declared his nationality as British in company documents and filings related to M/s Backops Ltd., which was incorporated in the United Kingdom in 2003.  The court directed the state government to register a case and investigate through a central agency.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 52024,
+      "title": "Chaturvedi’s grumbling over defeat of Women’s Bill’ flies in the face of her party’s stand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/chaturvedis-grumbling-over-defeat-of-womens-bill-flies-in-the-face-of-her-partys-stand/article70875057.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5lmi03/article70875236.ece/alternates/LANDSCAPE_1200/20260402351L.jpg",
+      "scraped_at": "2026-04-17 18:16:37.496306",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Shiv Sena UBT** leader Priyanka Chaturvedi criticized the defeat of the Women’s Reservation Bill in the Lok Sabha, expressing her opposition to its inclusion with the Delimitation Bill. **Sanjay Raut**, a Shiv Sena UBT MP, stated that the party opposed the bill because it was presented as a means for the BJP to advance their own agenda. Maharashtra Chief Minister Devendra Fadnavis condemned the opposition's actions, calling them hypocritical and stating that they prioritized politics over progress.",
+      "party_mentioned": [
+        "BJP",
+        "Shiv Sena",
+        "SAD"
+      ],
+      "ministers_mentioned": [
+        "Eknath Shinde",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52022,
+      "title": "It’ a red-letter day, says Revanth; KTR blames BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/it-a-red-letter-day-says-revanth-ktr-blames-bjp/article70875028.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tu16kb/article70875140.ece/alternates/LANDSCAPE_1200/MEMAU_17_4_2026_21_21_50_2_9992.JPG",
+      "scraped_at": "2026-04-17 18:15:59.183970",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Following the defeat of the Women's Reservation Bill in Parliament, **Congress** and **Bharatiya Rashtra Samithi (BRS)** leaders praised opposition parties for uniting to block the controversial legislation.  **Rahul Gandhi**, **Mallikarjun Kharge**, and **A. Revanth Reddy** led the charge against the bill, with **K. T. Rama Rao** blaming the BJP for its failure. **Bandi Sanjay** accused the Congress of using the bill to weaken southern India, while **N Ramchander Rao** criticized the bill's defeat as a setback for women's empowerment.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Hemant Soren",
+        "Stalin",
+        "Uddhav Thackeray",
+        "Akhilesh Yadav",
+        "Akhilesh",
+        "Sharad Pawar",
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
       ]
     }
   ]

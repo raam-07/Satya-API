@@ -1,14 +1,40 @@
 {
-  "generated_at": "2026-05-25 12:47:47.789381",
-  "total": 82,
+  "generated_at": "2026-05-25 18:19:06.535412",
+  "total": 88,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 66,
+    "power_abuse": 70,
     "scale_of_harm": 4,
-    "institutional_failure": 8,
+    "institutional_failure": 10,
     "suppression": 4
   },
   "articles": [
+    {
+      "id": 61554,
+      "title": "Dezi Freeman yelled abuse at dying police officer during shooting, Victorian coroner hears | Porepunkah shooting | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/25/dezi-freeman-inquest-porepunkah-shooting-police-investigating-child-sexual-assault-ntwnfb",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/18923cb34b4da9aec4e915038039398c8616dd49/0_0_1122_897/master/1122.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d93aa2932c787a7f96561825fad295c",
+      "scraped_at": "2026-05-25 05:09:31.109110",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Dezi Freeman",
+      "rephrased_article": "Dezi Freeman, also known as Desmond Filby, yelled abuse at Victoria police officers during a shooting that killed two officers investigating an alleged child sexual assault.  The incident began on August 26th when officers executed a warrant at Freeman's converted bus in Porepunkah.  Freeman shot and killed Det Leading Sen Const Neal Thompson and Sen Const Vadim De Waart-Hottart, before being shot dead by police seven months later. The state coroner is holding directions hearings for the inquest into the deaths of the officers, with speculation surrounding Freeman's whereabouts after the shooting.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Police officers were killed in the line of duty, raising concerns about officer safety."
+    },
     {
       "id": 61432,
       "title": "Ohio State reels from multiple scandals amid wider crisis in higher education | US universities | The Guardian",
@@ -686,6 +712,40 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "High number of candidates with criminal cases raises concerns about justice and representation."
+    },
+    {
+      "id": 52024,
+      "title": "Chaturvedi’s grumbling over defeat of Women’s Bill’ flies in the face of her party’s stand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/chaturvedis-grumbling-over-defeat-of-womens-bill-flies-in-the-face-of-her-partys-stand/article70875057.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5lmi03/article70875236.ece/alternates/LANDSCAPE_1200/20260402351L.jpg",
+      "scraped_at": "2026-04-17 18:16:37.496306",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Shiv Sena UBT leader Priyanka Chaturvedi criticized the defeat of the Women’s Reservation Bill in the Lok Sabha, expressing her opposition to its inclusion with the Delimitation Bill. Sanjay Raut, a Shiv Sena UBT MP, stated that the party opposed the bill because it was presented as a means for the BJP to advance their own agenda. Maharashtra Chief Minister Devendra Fadnavis condemned the opposition's actions, calling them hypocritical and stating that they prioritized politics over progress.",
+      "party_mentioned": [
+        "BJP",
+        "Shiv Sena",
+        "SAD"
+      ],
+      "ministers_mentioned": [
+        "Eknath Shinde",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The defeat of the Women's Reservation Bill raises concerns about institutional failure to advance women's rights."
     },
     {
       "id": 61530,
@@ -2183,6 +2243,92 @@
       "civic_flag_reason": "Repeated arrests of a political leader raise concerns about suppression of dissent."
     },
     {
+      "id": 52123,
+      "title": "Pune police book two students over dance performance on Maoist leader at Govt hostel - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/pune-police-book-two-students-over-dance-performance-on-maoist-leader-at-govt-hostel/article70874798.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-18 02:50:26.785539",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Pune police",
+      "rephrased_article": "Pune police have filed an FIR against two students from Gadchiroli district for a dance performance featuring a song about Madvi Hidma, a Maoist leader, during a cultural event at a government-run boys’ hostel. The performance, which took place between April 6 and April 14 to mark the 135th birth anniversary of B.R. Ambedkar, was deemed prejudicial to national integration and public mischief under sections of the Bharatiya Nyaya Sanhita (BNS).  The students claim they were unaware of Hidma's background and performed without malicious intent. The police are investigating further.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Criminalizing artistic expression critical of the state is a suppression of free speech."
+    },
+    {
+      "id": 52104,
+      "title": "Chhattisgarh power plant tragedy: toll rises to 21, Opposition wants culpable homicide charges to be slapped - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-power-plant-tragedy-toll-rises-to-21-opposition-wants-culpable-homicide-charges-to-be-slapped/article70875109.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7qpz18/article70875360.ece/alternates/LANDSCAPE_1200/20260414496L.jpg",
+      "scraped_at": "2026-04-17 23:45:55.872289",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Vedanta Group",
+      "rephrased_article": "The death toll from this week's power plant explosion in Chhattisgarh's Sakti district has risen to 21, with another worker succumbing to his injuries on Thursday night.  Vedanta Group chairman Anil Agrawal, company manager Devendra Patel, and other responsible officers have been booked under BNS sections for prima facie negligence related to the accident. The Congress party is demanding charges of culpable homicide not amounting to murder be added to the case, citing evidence suggesting inadequate maintenance and operation standards led to the boiler explosion.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article reports a deadly industrial accident with potential negligence by company officials."
+    },
+    {
+      "id": 52089,
+      "title": "SC agrees to hear CBI’s plea against HC order acquitting 4 in custodial-death case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/sc-agrees-to-hear-cbis-plea-against-hc-order-acquitting-4-in-custodial-death-case/article70875286.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zdoztt/article70875323.ece/alternates/LANDSCAPE_1200/SC-asks-UP-to-cG80FS1C6O.4.jpg.jpg",
+      "scraped_at": "2026-04-17 21:55:09.659452",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The Supreme Court agreed to hear a plea from the Central Bureau of Investigation (CBI) challenging a Kerala High Court decision that overturned convictions in a 2005 custodial death case. The court issued a notice to the accused and set a hearing date for May 19th.  The case involves Udayakumar, who died in police custody in Thiruvananthapuram in September 2005 after alleged torture.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Custodial death and potential abuse of power warrant urgent attention."
+    },
+    {
       "id": 61482,
       "title": "'AI impact on Indians abroad is highest': How H-1B workers are struggling after Meta, Amazon layoffs - The Times of India",
       "url": "https://timesofindia.indiatimes.com/world/us/ai-impact-on-indians-abroad-is-highest-how-h-1b-workers-are-struggling-after-meta-amazon-layoffs/articleshow/131293642.cms",
@@ -2480,6 +2626,40 @@
       "civic_flag_score": 8,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "Criminal exploitation of vulnerable people in a social program is a serious concern."
+    },
+    {
+      "id": 52219,
+      "title": "CBI arrests former bank official, two others in ‘digital arrest’ case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cbi-arrests-former-bank-official-two-others-in-digital-arrest-case/article70876914.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h7323o/article70877336.ece/alternates/LANDSCAPE_1200/IMG_PTI12_03_2024_001010_2_1_JIDRD0VC.jpg",
+      "scraped_at": "2026-04-18 11:13:36.122890",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "CBI",
+      "rephrased_article": "The Central Bureau of Investigation (CBI) arrested three individuals, including a former bank official, in connection with a \"digital arrest\" scam. The arrests followed searches at five locations across Telangana and Andhra Pradesh.  The victims, a senior citizen, was allegedly coerced into transferring over ₹1.6 crore under the threat of digital arrest. The CBI is investigating the case based on a Supreme Court order.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Abuse of power and threat of digital arrest are serious concerns."
     }
   ]
 }

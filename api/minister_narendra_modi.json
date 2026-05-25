@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.968862",
+  "generated_at": "2026-05-25 18:19:06.721622",
   "name": "Narendra Modi",
   "role": "Prime Minister",
   "ministry": "Prime Minister's Office",
@@ -7,7 +7,7 @@
   "state": "Gujarat",
   "constituency": "Varanasi",
   "criminal_cases": 0,
-  "criminal_cases_in_news": 4,
+  "criminal_cases_in_news": 5,
   "criminal_incidents": [
     {
       "incident_text": "Remove Bandi Sanjay from Union Cabinet, Kavitha tells Modi - The Hindu **Kalvakuntla Kavitha**, president of the **Telangana Rakshana Sena**, urged **Prime Minister Narendra Modi** to remove **Union M",
@@ -36,12 +36,19 @@
       "source_title": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu",
       "scraped_at": "2026-05-01 14:04:53.149265",
       "incident_type": "serious"
+    },
+    {
+      "incident_text": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu **ED** conducted searches at the residence of **Kolkata Police Deputy Commissioner Shantanu S",
+      "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/ed-arrests-businessman-raids-kolkata-police-deputy-commissioner-in-pmla-case/article70881065.ece",
+      "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
+      "scraped_at": "2026-04-19 16:11:04.103449",
+      "incident_type": "serious"
     }
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 276,
+    "total_articles": 285,
     "articles_last_30d": 217,
     "sentiment_breakdown_30d": {
       "positive": 83,
@@ -143,6 +150,31 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 61592,
+      "title": "Melody effect: Wrong 'Parle' stock hits 5% upper circuit for 4th day, up 21% since PM Modi's gift for Meloni - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/melody-effect-wrong-parle-stock-hits-5-upper-circuit-for-4th-day-up-21-since-pm-modis-gift-for-meloni/articleshow/131303505.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131303805,width-1200,height-630,imgsize-14316,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-25 09:18:03.834501",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Parle Products",
+      "rephrased_article": "**PM Modi** gifted a bag of \"Melody\" candies to his Italian counterpart during a recent visit, sparking viral attention. **Parle Industries**, the company behind the candy, shared the video on social media and highlighted its global reach.  The moment has led to a surge in **Parle Products'** stock price, which is now trading at an all-time high. The company, however, does not currently plan to go public.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi",
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
     {
       "id": 61522,
       "title": "Police protection provided at home of Cockroach Janta Party founder - The Hindu",
@@ -6217,41 +6249,6 @@
         "crime_violence",
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 54877,
-      "title": "Chandrababu Naidu lays foundation for Google’s ₹1.35 lakh crore AI data centre in Visakhapatnam - The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam/caught-in-unrest-after-zubeen-gargs-death-assams-tezpur-university-starts-afresh/article70915103.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/es6oef/article70915065.ece/alternates/LANDSCAPE_1200/Chandrababu.jpeg",
-      "scraped_at": "2026-04-28 07:41:20.252100",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Google",
-      "rephrased_article": "**Chief Minister N. Chandrababu Naidu** laid the foundation stone for a 1-Gigawatt Google data center in Tarluvada, Visakhapatnam, marking one of India's largest foreign direct investments. The project will be managed by **Google’s subsidiary Raiden Infotech**, in partnership with **Adani Infra**, and is part of a $15 billion investment from **Google** in the state.  The center will offer large-scale data storage and AI cloud infrastructure, and an upcoming subsea cable system will connect Visakhapatnam to several countries. Union Ministers, IT Minister Nara Lokesh, and representatives from Google, Adani Group, and Airtel Nxtra attended the ceremony.",
-      "party_mentioned": [
-        "Congress",
-        "YSRCP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi",
-        "Chandrababu Naidu",
-        "Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Chennai",
-        "Visakhapatnam"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy",
-        "economy"
       ]
     }
   ]

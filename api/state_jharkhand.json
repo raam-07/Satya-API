@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.888513",
+  "generated_at": "2026-05-25 18:19:06.641177",
   "state": "Jharkhand",
   "capital": "Ranchi",
   "ruling_party": "JMM",
@@ -8,29 +8,71 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 24,
-    "articles_last_30d": 18
+    "total_articles": 27,
+    "articles_last_30d": 19
   },
   "top_cities_30d": {
     "Ranchi": 5,
-    "Delhi": 2,
+    "Delhi": 3,
     "Bengaluru": 2,
     "Hyderabad": 1,
     "Visakhapatnam": 1,
-    "Srinagar": 1
+    "Srinagar": 1,
+    "Ludhiana": 1,
+    "Amritsar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 13,
+    "foreign_policy": 14,
     "economy": 6,
     "protest_opposition": 5,
     "education": 3,
     "crime_violence": 3,
     "infrastructure": 3,
+    "farmer_agriculture": 2,
     "corruption_scam": 1,
-    "health": 1,
-    "farmer_agriculture": 1
+    "health": 1
   },
   "recent_articles": [
+    {
+      "id": 61597,
+      "title": "Scorching days, restless nights: Heatwave tightens grip across parts of India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/scorching-days-restless-nights-heatwave-tightens-grip-across-parts-of-india/article71015005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vuakmk/article71015043.ece/alternates/LANDSCAPE_1200/10215_23_5_2026_16_51_9_1_IMG_20260523_WA0025.JPG",
+      "scraped_at": "2026-05-25 09:19:30.782561",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** experienced scorching temperatures exceeding 44° Celsius in several regions, prompting **hospitals** in Punjab to activate heat stroke management units. The **IMD** issued heatwave alerts for three districts of Jharkhand and warned of rising temperatures across Delhi, Haryana, and Chandigarh.  Veterinarians and animal rescuers reported an increase in distressed birds and animals suffering from dehydration and heatstroke. In Himachal Pradesh, a yellow warning for heatwave conditions was issued for parts of the state. **Chief Ministers** of various states ordered officials to ensure adequate drinking water availability, while **Congress leader Kishori Lal Sharma** raised concerns about power supply disruptions in Uttar Pradesh's Amethi constituency.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 61506,
       "title": "JMM, Cong. bid to divide society, undermine tribal rights won’t succeed: BJP - The Hindu",
@@ -760,6 +802,76 @@
         "crime_violence",
         "economy",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 52139,
+      "title": "Heatwave alert in Maharashtra till April 20; Akola hottest at 44.2°C - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/heatwave-alert-in-maharashtra-till-april-20-akola-hottest-at-442c/article70873194.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kg6b5s/article70873688.ece/alternates/LANDSCAPE_1200/11908_12_3_2026_16_54_12_3_DSC_7221.JPEG",
+      "scraped_at": "2026-04-18 05:16:13.218285",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "The **India Meteorological Department (IMD)** has issued heatwave alerts for six states, including Maharashtra, where temperatures are expected to rise by 1-2°C over the next three days. The highest recorded temperature in the country so far is 44.2°C in Akola district.  **Dr. Pradeep Awate**, former State Surveillance Officer, Maharashtra Health Services, attributes the rising temperatures to concrete projects and a decline in trees, which are contributing to increased heat in Mumbai. **Bikram Singh**, chief scientist at the Regional Meteorological Centre, stated that the IMD is vigilant and has already sent alerts regarding the heatwave conditions. The Maharashtra Government has implemented standard operating procedures (SOPs) to address the impact of the heatwaves, including regulating working hours during peak temperatures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Nagpur",
+        "Thane",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 52022,
+      "title": "It’ a red-letter day, says Revanth; KTR blames BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/it-a-red-letter-day-says-revanth-ktr-blames-bjp/article70875028.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tu16kb/article70875140.ece/alternates/LANDSCAPE_1200/MEMAU_17_4_2026_21_21_50_2_9992.JPG",
+      "scraped_at": "2026-04-17 18:15:59.183970",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Following the defeat of the Women's Reservation Bill in Parliament, **Congress** and **Bharatiya Rashtra Samithi (BRS)** leaders praised opposition parties for uniting to block the controversial legislation.  **Rahul Gandhi**, **Mallikarjun Kharge**, and **A. Revanth Reddy** led the charge against the bill, with **K. T. Rama Rao** blaming the BJP for its failure. **Bandi Sanjay** accused the Congress of using the bill to weaken southern India, while **N Ramchander Rao** criticized the bill's defeat as a setback for women's empowerment.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Hemant Soren",
+        "Stalin",
+        "Uddhav Thackeray",
+        "Akhilesh Yadav",
+        "Akhilesh",
+        "Sharad Pawar",
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
       ]
     }
   ]

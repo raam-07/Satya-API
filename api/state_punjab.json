@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.915302",
+  "generated_at": "2026-05-25 18:19:06.668129",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 171,
-    "articles_last_30d": 144
+    "total_articles": 178,
+    "articles_last_30d": 145
   },
   "top_cities_30d": {
-    "Delhi": 18,
-    "Amritsar": 2,
-    "Ludhiana": 2,
+    "Delhi": 19,
+    "Amritsar": 3,
+    "Ludhiana": 3,
     "Bhopal": 2,
     "Faridabad": 1,
     "Surat": 1,
@@ -24,18 +24,80 @@
     "Prayagraj": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 134,
+    "foreign_policy": 135,
     "infrastructure": 49,
     "economy": 48,
     "education": 46,
     "protest_opposition": 45,
     "crime_violence": 40,
     "health": 24,
-    "farmer_agriculture": 21,
+    "farmer_agriculture": 22,
     "corruption_scam": 16,
     "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 61597,
+      "title": "Scorching days, restless nights: Heatwave tightens grip across parts of India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/scorching-days-restless-nights-heatwave-tightens-grip-across-parts-of-india/article71015005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vuakmk/article71015043.ece/alternates/LANDSCAPE_1200/10215_23_5_2026_16_51_9_1_IMG_20260523_WA0025.JPG",
+      "scraped_at": "2026-05-25 09:19:30.782561",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** experienced scorching temperatures exceeding 44° Celsius in several regions, prompting **hospitals** in Punjab to activate heat stroke management units. The **IMD** issued heatwave alerts for three districts of Jharkhand and warned of rising temperatures across Delhi, Haryana, and Chandigarh.  Veterinarians and animal rescuers reported an increase in distressed birds and animals suffering from dehydration and heatstroke. In Himachal Pradesh, a yellow warning for heatwave conditions was issued for parts of the state. **Chief Ministers** of various states ordered officials to ensure adequate drinking water availability, while **Congress leader Kishori Lal Sharma** raised concerns about power supply disruptions in Uttar Pradesh's Amethi constituency.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 61577,
+      "title": "Pakistan importing cotton from US, Brazil even before local ginning season - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002839/pakistan-importing-cotton-from-us-brazil-even-before-local-ginning-season",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/250850487ea8b8e.webp",
+      "scraped_at": "2026-05-25 05:14:01.157968",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "**Pakistan's** textile mills have begun importing massive amounts of cotton from the United States and Brazil, driven by a shortage of domestic supplies.  The country may spend billions of dollars on these imports this fiscal year, potentially setting a record high for import bills. The **Karachi Cotton Association (KCA)** is sealed due to an ownership dispute, leaving Pakistan without representation in international cotton markets. The **Pakistan Cotton Ginners Association (PCGA)** has proposed abolishing sales tax on cotton-related products, while the **All Pakistan Textile Mills Association (APTMA)** seeks reductions in energy tariffs and markup rates.  Despite these challenges, some market observers believe prices may ease after Eidul Azha holidays.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 61463,
       "title": "'Heinous crime against humanity': Condemnations pour in after suicide bombing in Quetta - Pakistan - DAWN.COM",
@@ -4320,6 +4382,122 @@
         "foreign_policy",
         "health"
       ]
+    },
+    {
+      "id": 52209,
+      "title": "Campaign launched to remove illegal guards’ cabins from outside houses in Islamabad - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/1992707/campaign-launched-to-remove-illegal-guards-cabins-from-outside-houses-in-islamabad",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/18083040ef00cc3.webp",
+      "scraped_at": "2026-04-18 10:16:13.583037",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Islamabad authorities",
+      "rephrased_article": "**Islamabad** authorities are implementing heightened security measures ahead of peace talks between **Iran** and the **United States**.  The capital administration has removed illegal cabins outside houses in high-security zones, including F-6, F-7, and F-10. Additionally, all inter-provincial bus terminals and cargo terminals were temporarily shut down last night but reopened after a few hours. The capital police have deployed 4,000 Punjab police personnel to assist with security arrangements for the upcoming Tablighi Ijtema.  The deployment includes various units from across Punjab, along with Rangers and the Federal Constabulary.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 52195,
+      "title": "Most-wanted trafficker held in FIA crackdown - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/1992807/police-intensify-combing-operation-against-terrorists-after-chilas-attack-15-held",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/18080615322ffca.webp",
+      "scraped_at": "2026-04-18 09:32:30.618917",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "FIA",
+      "rephrased_article": "**The Federal Investigation Agency (FIA)** conducted multiple operations across the country, arresting a notorious human smuggler and several other suspects.  Raza alias Chacha Musa, listed in international perpetrator lists, was apprehended in Quetta for his involvement in smuggling people from Iran to Pakistan. The FIA also arrested Mohammad Raza at the Taftan border for attempting to enter Pakistan with a fake passport. In Karachi, the Anti-Corruption Circle seized Rs2.234 million and other evidence related to an organized hawala/hundi network with China.  In Peshawar, Nasir Khan was arrested for illegal foreign currency exchange.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "corruption_scam",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52192,
+      "title": "Most-wanted trafficker held in FIA crackdown - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/1992808/most-wanted-trafficker-held-in-fia-crackdown",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/18080615322ffca.webp",
+      "scraped_at": "2026-04-18 09:31:36.581798",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Raza alias Chacha Musa",
+      "rephrased_article": "**The Federal Investigation Agency (FIA)** arrested a notorious human smuggler, **Raza alias Chacha Musa**, in Quetta as part of its ongoing crackdown on human smugglers and traffickers.  During the raid, investigators recovered communication evidence linking him to other smugglers operating from Iran, Balochistan, Punjab, and Khyber Pakhtunkhwa. The FIA also arrested individuals involved in illegal hawala/hundi business across the country, including a suspect attempting to enter Pakistan with a fake passport at the Taftan border.  In Karachi, the Anti-Corruption Circle seized over Rs2.234 million in cash, ledgers, and suspicious documents during a raid on an office suspected of involvement in illegal hawala/hundi networks with China.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "corruption_scam",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 52118,
+      "title": "Punjab’s border farmers caught between fence and Zero Line - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/punjabs-border-farmers-caught-between-fence-and-zero-line/article70874521.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/74yu38/article70876391.ece/alternates/LANDSCAPE_1200/20260417037L.jpg",
+      "scraped_at": "2026-04-18 02:48:11.919847",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "central government",
+      "rephrased_article": "**Farmers** in Rosse village, on the India-Pakistan border in Gurdaspur district of Punjab, are gathering for Baisakhi celebrations despite facing difficulties due to border fencing.  The **central government** is undertaking surveys to relocate the fence closer to the international boundary, aiming to provide farmers with greater access to their fields and freedom from restrictions. While this move offers hope, farmers continue to face challenges until then.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 52048,
+      "title": "80-year-old Sikh, inspired by Fauja Singh, to run London Marathon for first time - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/80-year-old-sikh-inspired-by-fauja-singh-to-run-london-marathon-for-first-time/articleshow/130341124.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130341290,width-1280,height-720,imgsize-47356,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-17 19:45:56.580102",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Baldev Singh Bains",
+      "rephrased_article": "**Baldev Singh Bains**, an 80-year-old British Sikh man, is running the London Marathon on April 26th to raise money for the **Fauja Singh Clubhouse**, a facility being built in Fauja Singh's memory.  Bains was inspired by **Fauja Singh**, who encouraged him to start walking and then running after he discovered running in his 80s. **Harmander Singh**, Fauja's coach, is also running the marathon to raise funds for the clubhouse. The clubhouse will cost £1 million and was given planning permission on April 1st, which would have been Fauja's 115th birthday.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
     }
   ]
 }

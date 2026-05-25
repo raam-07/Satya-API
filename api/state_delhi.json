@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.950316",
+  "generated_at": "2026-05-25 18:19:06.703078",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,194 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 271,
-    "articles_last_30d": 217
+    "total_articles": 286,
+    "articles_last_30d": 223
   },
   "top_cities_30d": {
-    "Delhi": 213,
+    "Delhi": 219,
     "Kolkata": 18,
     "Mumbai": 18,
     "Chennai": 11,
     "Hyderabad": 11,
     "Bengaluru": 10,
-    "Jaipur": 8,
+    "Jaipur": 9,
     "Agra": 7,
     "Bhopal": 4,
     "Ahmedabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 201,
+    "foreign_policy": 206,
     "protest_opposition": 85,
-    "crime_violence": 65,
-    "education": 61,
+    "crime_violence": 68,
+    "education": 62,
     "infrastructure": 60,
     "economy": 60,
-    "farmer_agriculture": 27,
+    "farmer_agriculture": 28,
     "corruption_scam": 22,
     "health": 19,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 61597,
+      "title": "Scorching days, restless nights: Heatwave tightens grip across parts of India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/scorching-days-restless-nights-heatwave-tightens-grip-across-parts-of-india/article71015005.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vuakmk/article71015043.ece/alternates/LANDSCAPE_1200/10215_23_5_2026_16_51_9_1_IMG_20260523_WA0025.JPG",
+      "scraped_at": "2026-05-25 09:19:30.782561",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** experienced scorching temperatures exceeding 44° Celsius in several regions, prompting **hospitals** in Punjab to activate heat stroke management units. The **IMD** issued heatwave alerts for three districts of Jharkhand and warned of rising temperatures across Delhi, Haryana, and Chandigarh.  Veterinarians and animal rescuers reported an increase in distressed birds and animals suffering from dehydration and heatstroke. In Himachal Pradesh, a yellow warning for heatwave conditions was issued for parts of the state. **Chief Ministers** of various states ordered officials to ensure adequate drinking water availability, while **Congress leader Kishori Lal Sharma** raised concerns about power supply disruptions in Uttar Pradesh's Amethi constituency.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Uttar Pradesh",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 61596,
+      "title": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism | Conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a13e2830767-1779688067.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-25 09:19:13.617159",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "US",
+      "rephrased_article": "**Donald Trump** has stated that the US is not in a rush to sign a deal with **Iran**, despite previous optimism about an imminent agreement.  The US blockade on Iranian ships in the Strait of Hormuz will remain in effect until an agreement is reached, certified, and signed. While **Iran** demands the release of frozen funds and the lifting of sanctions, the two sides remain at odds on several key issues such as Iran's nuclear ambitions and Israel's war in Lebanon.  The US Secretary of State, **Marco Rubio**, expressed hope for a \"good agreement\" while facing pushback from Republican hawks who oppose ending the US-Israel war on **Iran**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61587,
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg",
+      "scraped_at": "2026-05-25 09:16:39.923850",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "US-Iran peace deal",
+      "rephrased_article": "Oil prices fell sharply on Monday as hopes for a US-Iran peace deal increased. **US Secretary of State Marco Rubio** stated that negotiators had a \"pretty solid thing on the table\" and an agreement to end the conflict might be reached on Monday.  The global benchmark Brent crude oil price dropped 5.5% to $97.90 (£72.64) a barrel, while US-traded crude was 5.9% lower at $90.93. **President Donald Trump** has claimed an agreement is largely negotiated and will be announced soon, but warned that both sides must take their time to ensure the deal is correct.  Global energy markets have seen significant price swings since early March due to Iran's threat to attack ships in the Strait of Hormuz.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61580,
+      "title": "Rubio says 'solid' Iran deal may come on Monday",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/edba/live/853b1690-580c-11f1-8b8c-6d33e1d5abb6.jpg",
+      "scraped_at": "2026-05-25 09:14:27.963503",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Iran",
+      "rephrased_article": "**US Secretary of State Marco Rubio** and **President Donald Trump** have both indicated that a potential deal between the US and **Iran** could be reached on Monday. The reported agreement, which would involve a 60-day ceasefire extension, reopening the Strait of Hormuz, and further negotiations on Iran's nuclear program, has sparked mixed reactions from Republicans in Congress. Oil prices fell sharply and Asian stock markets rose on hopes of an agreement, but some experts warn that it could take months for shipping industries to fully recover.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61573,
+      "title": "Final paperwork eludes Iran, US - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002888/final-paperwork-eludes-iran-us",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/25073119978933b.webp",
+      "scraped_at": "2026-05-25 05:13:15.818388",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Iran",
+      "rephrased_article": "**President Masoud Pezeshkian** of **Iran** stated that the final decision on signing an agreement with the **United States** will be made by **Supreme Leader Mojtaba Khamenei**.  **US President Donald Trump** expressed confidence in reaching a deal, emphasizing the need for time and caution. While both sides have reported progress, disagreements persist on certain clauses, including Iran's highly enriched uranium stockpile. **US Secretary of State Marco Rubio** remains optimistic about potential news soon but acknowledges that a final agreement could take days to finalize.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61551,
+      "title": "Pune school principal shared NEET-related questions for money: CBI tells court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pune-school-principal-shared-neet-related-questions-for-money-cbi-tells-court/article71019825.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/j4oi4w/article71019839.ece/alternates/LANDSCAPE_1200/21TH_PARLEY_GS8GAIG0S4P0.4.jpg.jpg",
+      "scraped_at": "2026-05-25 05:08:48.652704",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Manisha Sanjay Havaldar",
+      "rephrased_article": "**Manisha Sanjay Havaldar**, principal of Seth Hiralal Saraf Prashala, was arrested by the **Central Bureau of Intelligence (CBI)** for allegedly sharing NEET-UG exam questions and content with students in exchange for money. The CBI claims she collaborated with botany teacher **Manisha Mandhare** to prepare handwritten notes containing these questions and shared them via WhatsApp and printouts.  The investigation revealed that Havaldar received ₹20,000 from one student and ₹25,000 from another. Following the cancellation of the NEET-UG exam on May 3rd due to alleged paper leak, a re-examination is scheduled for June 21st.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Pune",
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
     {
       "id": 61542,
       "title": "Over 60% attendance in UPSC Civil Services prelims at 17 Visakhapatnam centres - The Hindu",
@@ -5804,182 +5964,6 @@
         "education",
         "protest_opposition"
       ]
-    },
-    {
-      "id": 55063,
-      "title": "Rahul meets Nicobarese community, promises to fight against infra project - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/rahul-gandhi-reaches-great-nicobar-says-he-made-it-despite-administrations-efforts-to-stop-him/article70916784.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/288j36/article70917154.ece/alternates/LANDSCAPE_1200/20260428329L.jpg",
-      "scraped_at": "2026-04-29 01:25:13.208546",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**Rahul Gandhi**, Leader of the Opposition in the Lok Sabha, visited Great Nicobar Island to meet with local community leaders. **Gandhi** listened to concerns and fears regarding the **Union government’s** ₹92,000 crore infrastructure project, which is envisioned as a tourism-reliant economy by 2055.  The visit follows a delegation from the island visiting **Gandhi** in New Delhi to raise their issues with the project's progress.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54956,
-      "title": "Alleged drug trafficking kingpin deported from Türkiye to India - The Hindu",
-      "url": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/opf7q9/article70916119.ece/alternates/LANDSCAPE_1200/Salim%20Dola.jpg",
-      "scraped_at": "2026-04-28 17:17:11.409210",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Dawood Ibrahim",
-      "rephrased_article": "**Mohammad Salim Dola**, an alleged drug trafficking kingpin with links to the **Dawood Ibrahim** syndicate, was detained by **Turkish** agencies and deported to India on Tuesday (April 28, 2026). The **Narcotics Control Bureau (NCB)** apprehended him upon his arrival at Delhi’s IGI airport.  The NCB is working with Interpol and the Indian government to bring Dola to justice. He has been accused of involvement in drug trafficking across multiple countries and faces charges from various agencies including the Gujarat Anti-Terrorism Squad, the CBI, and the DRI.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Modi",
-        "Amit Shah",
-        "Shah"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 54893,
-      "title": "Kashmir seminary declared unlawful under Indian law, sparks outcry | Religion News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/28/kashmir-seminary-declared-unlawful-under-anti-terror-law-sparks-outcry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2021/12/AP21339448278252.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-04-28 10:24:13.358271",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "New Delhi",
-      "rephrased_article": "An important Islamic seminary in Indian-administered Kashmir, Jamia Siraj-ul-Uloom, has been declared unlawful under anti-terror laws.  **Kashmir Divisional Commissioner Anshul Garg** issued the order based on a police dossier alleging links to the banned political party Jamaat-e-Islami (JeI). **Mohammad Shafi Lone**, the seminary chairman, rejected the allegations and called the move a “calculated dismantling of Kashmir’s civic life.” Leaders in Muslim-majority Kashmir criticized the decision as part of an ongoing campaign of overreach by New Delhi.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi",
-        "Mehbooba Mufti"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Srinagar"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54783,
-      "title": "‘Weakening public faith’ vs. ‘justified stand’: legal experts divided over Kejriwal’s decision - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/weakening-public-faith-vs-justified-stand-legal-experts-divided-over-former-cms-decision/article70913811.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pd1gf9/article70913803.ece/alternates/LANDSCAPE_1200/20260427167L.jpg",
-      "scraped_at": "2026-04-27 22:29:28.938302",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Arvind Kejriwal",
-      "rephrased_article": "**Members of the legal fraternity** offered differing opinions on **Arvind Kejriwal’s** decision to not appear before a Delhi High Court judge in the excise policy case.  Some lawyers argued that dissatisfaction with judicial orders should be addressed through established legal remedies, while others supported **Kejriwal’s** decision, citing potential bias and the need for due process. Senior advocate Sajan Poovayya criticized the move as withdrawing from due process, while advocate Gyanant Kumar Singh suggested it was a tactic to challenge the court's ruling after losing the case.  However, advocate Prashant Bhushan supported **Kejriwal’s** decision, arguing that his apprehension of bias is justified.",
-      "party_mentioned": [
-        "AAP"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Kejriwal"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54777,
-      "title": "India names BJP leader envoy to Bangladesh as ties thaw - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/1995507/india-names-bjp-leader-envoy-to-bangladesh-as-ties-thaw",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/04/27171003fe31137.webp",
-      "scraped_at": "2026-04-27 21:14:01.814334",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India** appointed veteran politician Dinesh Trivedi as its next high commissioner to **Bangladesh**, a move aimed at strengthening ties with the country.  Trivedi, a former railways and health minister who joined the **Bharatiya Janata Party** in 2021, will be tasked with rebuilding trust after strained relations following a popular uprising that forced **Bangladesh's Prime Minister Sheikh Hasina** to flee to India. The appointment comes as **India** seeks to counter Chinese influence in the region and improve ties with **Bangladesh**, which has been seeking increased fuel and fertilizer supplies from **India**.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 54760,
-      "title": "​Gang of seven: On the AAP defections - The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/gang-of-seven-on-the-aap-defections/article70913116.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-27 21:09:36.257348",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Aam Aadmi Party (AAP)",
-      "rephrased_article": "**Seven** members of the **Aam Aadmi Party (AAP)** have merged with the **Bharatiya Janata Party (BJP)**, increasing the BJP's strength in the Rajya Sabha to 113 and exceeding the halfway mark for the National Democratic Alliance. This merger highlights the opportunism of AAP and its disregard for democratic institutions, as it follows a pattern of defections from other parties. The Supreme Court is currently reviewing the legality of this merger under the Tenth Schedule of the Constitution, which prohibits defection by elected representatives.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Kejriwal"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": []
     }
   ]
 }

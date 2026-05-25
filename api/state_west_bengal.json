@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 12:47:47.942448",
+  "generated_at": "2026-05-25 18:19:06.695455",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 218,
-    "articles_last_30d": 168
+    "total_articles": 224,
+    "articles_last_30d": 170
   },
   "top_cities_30d": {
     "Kolkata": 43,
@@ -21,18 +21,98 @@
     "Prayagraj": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 148,
+    "foreign_policy": 147,
     "education": 90,
-    "protest_opposition": 78,
-    "crime_violence": 42,
+    "protest_opposition": 80,
+    "crime_violence": 43,
     "infrastructure": 42,
-    "economy": 38,
+    "economy": 37,
     "farmer_agriculture": 20,
     "corruption_scam": 17,
     "health": 11,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 61590,
+      "title": "‘Needless fuss’: Kerala CM V.D. Satheesan defends posting former State poll chief Rathan Kelkar as his Secretary - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/needless-fuss-kerala-cm-vd-satheesan-defends-posting-former-state-poll-chief-rathan-kelkar-as-his-secretary/article71020418.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1lxoqx/article71020436.ece/alternates/LANDSCAPE_1200/Satheesan08.JPG",
+      "scraped_at": "2026-05-25 09:17:28.180790",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**Kerala Chief Minister V.D. Satheesan** stated that the appointment of **Rathan U. Kelkar**, former Chief Electoral Officer (Kerala), as his Secretary was not a cause for concern and dismissed criticisms from the opposition.  He emphasized that no political party in Kerala had accused Mr. Kelkar of election manipulation, noting that he was appointed by the previous CPI(M)-led LDF government. **Mr. Satheesan** further highlighted that Mr. Kelkar's appointment is not comparable to similar controversies in West Bengal where allegations against the CEO were made.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61570,
+      "title": "BJP MLA insulted migrant workers in Hubballi assuming they are infiltrators: Congress leader - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bjp-mla-mahesh-tenginakai-insulted-migrant-workers-in-hubballi-assuming-they-are-infiltrators-says-congress-leader-rajat-ullagaddimath/article71018193.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/uqznm0/article71019826.ece/alternates/LANDSCAPE_1200/2699_3_5_2023_19_58_38_2_04HUBLIMAHESHTENGINAKAI.JPG",
+      "scraped_at": "2026-05-25 05:12:37.312883",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mahesh Tenginakai",
+      "rephrased_article": "**Congress** leader Rajat Ullagaddimath has accused **Mahesh Tenginakai**, a **Hubballi-Dharwad Central MLA**, of insulting migrant workers by interrogating them in an inhumane manner at a bus stand.  Ullagaddimath criticized both the MLA and police officers for failing to uphold the law, claiming that the police appeased the MLA despite witnessing his actions. Ullagaddimath expressed concern over the treatment of laborers and questioned the future of infrastructure projects in Hubballi if such behavior continues.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 61564,
+      "title": "Former Kerala Chief Electoral Officer Rathan U. Kelkar takes charge as Secretary to CM Satheesan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/former-kerala-chief-electoral-officer-rathan-u-kelkar-takes-charge-as-secretary-to-chief-minister/article71017928.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/w53305/article71017925.ece/alternates/LANDSCAPE_1200/kel.jpg",
+      "scraped_at": "2026-05-25 05:11:22.702336",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Rathan U. Kelkar**, former Chief Electoral Officer of Kerala, assumed the role of Secretary to **Chief Minister V.D. Satheesan**.  The appointment has been met with criticism from the **CPI(M)** and **BJP**, who accuse the Congress of rewarding officials for election results. However, **Congress** leaders defend the decision, highlighting **Kelkar's** reputation as an efficient officer.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 61489,
       "title": "Govt. plans to complete paddy procurement over next 10 days: Uttam Kumar Reddy - The Hindu",
@@ -6077,100 +6157,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 53240,
-      "title": "Trinamool, BJP make final appeals as campaigning ends for first phase of polls in West Bengal - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/trinamool-bjp-make-final-appeals-as-campaigning-ends-for-first-phase-of-polls-in-west-bengal/article70889882.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/elections/west-bengal-assembly/cnqvcw/article70890064.ece/alternates/LANDSCAPE_1200/WBPolls.jpg",
-      "scraped_at": "2026-04-22 03:00:38.749019",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "West Bengal Assembly elections",
-      "rephrased_article": "Campaigning for the first phase of the West Bengal Assembly elections concluded on April 21, 2026.  **Union Home Minister Amit Shah**, **Delhi Chief Minister Rekha Gupta**, and **West Bengal Chief Electoral Officer Manoj Kumar Agarwal** were among those who campaigned in various districts. Violence erupted during rallies by BJP candidate Ajit Kumar Jana and the Trinamool Congress. The Election Commission deployed over 2,450 companies of Central paramilitary forces to ensure a smooth election process.  The second phase will be held on April 29, with voting taking place on May 4th.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Shah",
-        "Mamata Banerjee",
-        "Mamata"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 53234,
-      "title": "West Bengal election - phase 1: 294 candidates face serious criminal charges, 98 booked for crimes against women - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-candidates-criminal-cases-richest-lowest-assets-crorepatis-adr-report-2026/article70887651.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ha2nfr/article70887718.ece/alternates/LANDSCAPE_1200/20260419128L.jpg",
-      "scraped_at": "2026-04-22 02:58:22.623825",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Bharatiya Janata Party (BJP)",
-      "rephrased_article": "A report by the Association for Democratic Reforms and West Bengal Election Watch revealed that one in five candidates in the first phase of West Bengal Assembly Elections have declared serious criminal cases. The **Bharatiya Janata Party (BJP)** topped the list with 63% of its candidates facing such charges, followed by the **Communist Party of India (Marxist) [CPI (M)]** and the **All India Trinamool Congress (TMC)**.  The report also highlighted that Nandigram in Purba Medinipur district has six candidates with serious criminal cases, while 66 constituencies are flagged as \"red alert\" due to multiple candidates facing such charges. The average assets of candidates across the first phase of elections stood at ₹1.34 crore.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 53056,
-      "title": "International delegates to visit T.N. for observing polling process on April 23 - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/international-delegates-to-visit-tn-for-observing-polling-process-on-april-23/article70888855.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-21 13:56:35.457914",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Delegates** from 17 countries, including representatives of their foreign missions in New Delhi and the **International Institute for Democracy and Electoral Assistance (IDEA)**, will visit Tamil Nadu on April 22nd and 23rd to observe the polling process. The International Election Visitors’ Programme (IEVP) is a flagship program of the **Election Commission of India** aimed at international cooperation and engagement with other countries' election management bodies.  The delegates will witness the dispatch and distribution centers, district control rooms, media monitoring centers, and actual polling on April 23rd.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
     }
   ]
 }
