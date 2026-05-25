@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 23:40:30.221625",
+  "generated_at": "2026-05-25 12:47:47.877385",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 270,
-    "articles_last_30d": 243
+    "total_articles": 314,
+    "articles_last_30d": 240
   },
   "top_cities_30d": {
-    "Delhi": 40,
-    "Kolkata": 17,
+    "Delhi": 39,
+    "Kolkata": 16,
     "Mumbai": 15,
-    "Bengaluru": 13,
+    "Bengaluru": 14,
     "Hyderabad": 12,
     "Ahmedabad": 11,
     "Chennai": 7,
@@ -24,18 +24,95 @@
     "Agra": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 216,
+    "foreign_policy": 217,
     "economy": 77,
     "infrastructure": 77,
-    "protest_opposition": 76,
-    "education": 56,
-    "crime_violence": 54,
+    "protest_opposition": 75,
+    "education": 55,
+    "crime_violence": 52,
     "farmer_agriculture": 32,
     "health": 20,
-    "corruption_scam": 17,
-    "rape_sexual_crime": 8
+    "corruption_scam": 16,
+    "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 61527,
+      "title": "Marco Rubio in India LIVE: Jaishankar addresses National Day reception at the U.S. Embassy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/marco-rubio-india-visit-live-updates-donald-trump-official-to-meet-s-jaishankar-pm-modi-may-24-2026/article71017144.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/wnzynx/article71018610.ece/alternates/LANDSCAPE_1200/Jaishankar%20Rubio.jpg",
+      "scraped_at": "2026-05-24 21:36:13.121833",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**U.S. Secretary of State Marco Rubio** stated that bilateral relations between **India** and the **United States** remain strong, with hopes for a soon-to-be-sealed trade deal.  During his visit to India, **Mr. Rubio** met with **Minister of External Affairs S. Jaishankar**, describing his experience as \"fantastic.\" This visit comes amidst economic and diplomatic tensions between the two nations stemming from U.S. tariffs on Indian exports imposed by former President Donald Trump.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61522,
+      "title": "Police protection provided at home of Cockroach Janta Party founder - The Hindu",
+      "url": "https://www.thehindu.com/news/national/police-protection-provided-at-home-of-cockroach-janta-party-founder/article71018534.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/171uo7/article71014137.ece/alternates/LANDSCAPE_1200/Abhijeet%20Dipke%20Cockroach%20Janta%20Party.png",
+      "scraped_at": "2026-05-24 21:34:15.596259",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Police** have provided security at the home of **Abhijeet Dipke**, founder of the satirical digital outfit, the Cockroach Janta Party (CJP), to prevent crowding.  The CJP has gained popularity online following a comment by **Chief Justice of India Surya Kant** about \"cockroaches\" and \"parasites\".  **Congress party** leaders allege that the Intelligence Bureau warned **Prime Minister Narendra Modi** about potential unrest triggered by the CJP's campaign, prompting government action to block content.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61521,
+      "title": "Six police personnel suspended for dereliction of duty during PM’s visit - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/six-police-personnel-suspended-for-security-breach-during-pm-visit/article71017633.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/chc77l/article71018114.ece/alternates/LANDSCAPE_1200/Gelatin%20sticks.jpeg",
+      "scraped_at": "2026-05-24 21:33:53.374080",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Six police personnel**, including a sub-inspector, have been suspended for alleged dereliction of duty after explosives were found near the route used by **Prime Minister Narendra Modi** during his visit to Bengaluru on May 10. The explosives were discovered close to the Art of Living Foundation Ashram, where the Prime Minister was scheduled to attend a program.  The personnel were responsible for security in the area and were suspended over alleged negligence and lack of alertness.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61487,
       "title": "BJP tried to stitch coalition govt. in Tamil Nadu with DMK and AIADMK on election result day: Congress MP Manickam Tagore - The Hindu",
@@ -5753,88 +5830,6 @@
         "infrastructure",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 55422,
-      "title": "Gujarat High Court, after attire remarks in court, asks IIT Gandhinagar to ‘show sympathy’ to suspended student - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-hc-asks-iit-gandhinagar-to-show-sympathy-to-suspended-student/article70923960.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/zdune2/article70924288.ece/alternates/LANDSCAPE_1200/10507_8_2_2021_16_41_4_1_VIS_2643.jpg",
-      "scraped_at": "2026-04-30 13:09:07.357911",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "IIT Gandhinagar",
-      "rephrased_article": "The **Gujarat High Court** orally advised the **Indian Institute of Technology Gandhinagar (IIT-Gn)** to show sympathy towards a postgraduate student who was previously reprimanded for her attire. The court acknowledged the student's age and potential lack of understanding of consequences, stating that her conduct did not warrant suspension despite initial concerns about decorum in court.  The court emphasized that past actions played a role in its decision.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 55395,
-      "title": "Why market fell today? Sensex slumps 583 pts, Nifty below 24,000; 7 key triggers - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-market-fell-today-sensex-slumps-583-pts-nifty-below-24000-7-key-triggers/articleshow/130630192.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-130630281,width-1200,height-630,imgsize-111036,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-04-30 11:16:55.028895",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Sensex",
-      "rephrased_article": "Indian benchmark indices experienced a sharp selloff on Thursday, erasing nearly Rs 5 lakh crore from the market capitalisation. **Sensex** closed down 583 points at 76,913, while **Nifty** fell over 180 points to close at 23,998.  The sell-off was driven by concerns about geopolitical tensions, rising oil prices, and the Federal Reserve's hawkish stance on inflation.  Global markets also dipped as oil prices surged above $120 per barrel. **Hindustan Unilever (HUL)**, **Tata Steel**, and **UltraTech Cement** were among the top losers on the **Sensex**.  However, **Sun Pharma** emerged as the top gainer.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 55373,
-      "title": "Us Nuclear Violations: Iran at UN accuses US of nuclear double standards, misuse of NPT platform | India News - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/iran-at-un-accuses-us-of-nuclear-double-standards-misuse-of-npt-platform/articleshow/130623504.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130626534,width-1280,height-720,imgsize-38220,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-04-30 09:20:57.918727",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "US",
-      "rephrased_article": "**Iran’s Permanent Mission to the United Nations** accused **the United States** of misrepresenting its nuclear program and deflecting attention from Washington's own violations at the Nuclear Non-Proliferation Treaty review conference. The mission stated that all of Iran's enriched uranium remains under IAEA supervision, with no reports of diversion.  **Iran’s envoy Amir Saeed Irvani** called for an end to aggression against Iran and respect for its sovereignty, urging the UN Security Council to address the situation. **US official Christopher Yeaw** criticized Iran's selection as a vice president at the conference, calling it an \"affront\" to the treaty.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Jaishankar"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

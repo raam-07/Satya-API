@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 23:40:30.289802",
+  "generated_at": "2026-05-25 12:47:47.950316",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 241,
-    "articles_last_30d": 220
+    "total_articles": 271,
+    "articles_last_30d": 217
   },
   "top_cities_30d": {
-    "Delhi": 216,
+    "Delhi": 213,
     "Kolkata": 18,
     "Mumbai": 18,
     "Chennai": 11,
@@ -24,18 +24,44 @@
     "Ahmedabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 203,
-    "protest_opposition": 88,
-    "crime_violence": 68,
+    "foreign_policy": 201,
+    "protest_opposition": 85,
+    "crime_violence": 65,
+    "education": 61,
     "infrastructure": 60,
     "economy": 60,
-    "education": 60,
     "farmer_agriculture": 27,
-    "corruption_scam": 24,
+    "corruption_scam": 22,
     "health": 19,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 61542,
+      "title": "Over 60% attendance in UPSC Civil Services prelims at 17 Visakhapatnam centres - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-60-attendance-in-upsc-civil-services-prelims-at-17-visakhapatnam-centres/article71017838.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dp23ul/article71017944.ece/alternates/LANDSCAPE_1200/UPSC.jpeg",
+      "scraped_at": "2026-05-24 22:39:38.365971",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "UPSC",
+      "rephrased_article": "**The Union Public Service Commission (UPSC)** conducted the Civil Services Preliminary Examination-2026 on May 24, 2026, in Visakhapatnam with over 60% attendance.  A total of 7,763 candidates registered for the two-session exam, with 4,755 attending the morning session and 4,696 appearing in the afternoon. **District Collector M. Abhishikth Kishore**, **Joint Collector G. Vidyadhari**, and **Commissioner of Police Shankabrata Bagchi** oversaw the examination's smooth conduct.  The **Greater Visakhapatnam Municipal Corporation (GVMC)** coordinated civic arrangements, while **Secretary to Government, Social Welfare Department Mudavatu M. Nayak** served as the state government observer.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 61496,
       "title": "National president Nabin asks BJP State unit not to be complacent while citing T.N. example of Opposition not benefitting from DMK’s failure - The Hindu",
@@ -5954,40 +5980,6 @@
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 54680,
-      "title": "World’s hottest cities: India transforms into a scorching furnace with cities shockingly hitting 46°C | World News - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-hottest-cities-india-transforms-into-a-scorching-furnace-with-cities-shockingly-hitting-46c/articleshow/130555190.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130555293,width-1280,height-720,imgsize-40696,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-04-27 14:06:21.547454",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "India Meteorological Department (IMD)",
-      "rephrased_article": "**India's** heatwave continues to impact multiple cities, with temperatures reaching 46 degrees Celsius in several areas. **The India Meteorological Department (IMD)** has issued warnings about the intense heat, predicting a heatwave in parts of Jammu & Kashmir, Himachal Pradesh, Punjab, Haryana, Delhi, Uttarakhand, Uttar Pradesh, Rajasthan, and central India. The IMD advises citizens to take precautions against heat stress by avoiding sun exposure during peak hours, staying hydrated, wearing loose-fitting clothing, and limiting strenuous activity.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Himachal Pradesh",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Allahabad",
-        "Prayagraj"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
     }
   ]
 }

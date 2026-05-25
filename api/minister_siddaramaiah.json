@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24 23:40:30.329798",
+  "generated_at": "2026-05-25 12:47:47.992127",
   "name": "Siddaramaiah",
   "role": "Chief Minister",
   "ministry": "",
@@ -7,21 +7,60 @@
   "state": "Karnataka",
   "constituency": "",
   "criminal_cases": 1,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
+  "criminal_cases_in_news": 1,
+  "criminal_incidents": [
+    {
+      "incident_text": "ED raids a political vendetta, claims Nalapad; Congress leaders question timing - The Hindu **The Enforcement Directorate (ED)** conducted searches at various locations in Bengaluru on Tuesday as part",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/ed-raids-a-political-vendetta-claims-nalapad-congress-leaders-question-timing/article70889235.ece",
+      "source_title": "ED raids a political vendetta, claims Nalapad; Congress leaders question timing - The Hindu",
+      "scraped_at": "2026-04-21 23:45:23.522573",
+      "incident_type": "serious"
+    }
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Siddaramaiah",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 20,
-    "articles_last_30d": 19,
+    "total_articles": 22,
+    "articles_last_30d": 20,
     "sentiment_breakdown_30d": {
       "positive": 3,
       "negative": 7,
-      "neutral": 9
+      "neutral": 10
     }
   },
   "promises": [],
   "recent_articles": [
+    {
+      "id": 61520,
+      "title": "Disambiguating a year of flux: expert panels at The Hindu Huddle, 2026 - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/disambiguating-a-year-of-flux-expert-panels-at-the-hindu-huddle-2026/article71018047.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/itvub5/article71018873.ece/alternates/LANDSCAPE_1200/Logo%20Unit%20ILU%201.pdf.jpg",
+      "scraped_at": "2026-05-24 21:33:30.294464",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "The Hindu Huddle",
+      "rephrased_article": "The sixth edition of The Hindu Group's ideas conclave, The Hindu Huddle, will be held in Bengaluru on June 5 and 6, 2026.  **Siddaramaiah**, **D.K. Shivakumar**, and other Chief Ministers from across the country will participate alongside Union Minister of State for Skill Development and Entrepreneurship **Jayant Chaudhary**, **Omar Abdullah**, **A. Revanth Reddy**, and **K.G. Arunraj**. The event will feature discussions on topics such as tariffs' impact on the Indian economy, diplomacy in managing crises, and artificial intelligence's influence on various aspects of life.  **The Hindu Huddle** is presented by the Sami-Sabinsa Group and co-powered by the Government of Telangana.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah",
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Meghalaya",
+        "Tamil Nadu",
+        "Telangana",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61470,
       "title": "Congress asks its rank and file to be alert against deletion of voters ahead of SIR exercise in Karnataka - The Hindu",
@@ -579,6 +618,29 @@
       "topic_tags": [
         "foreign_policy",
         "corruption_scam"
+      ]
+    },
+    {
+      "id": 52988,
+      "title": "Special Cabinet meeting in Karnataka to discuss internal reservation on April 24 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/special-cabinet-meeting-in-karnataka-to-discuss-internal-reservation-on-april-24/article70885329.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t0uiy1/article70886127.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-18%20at%202.34.32%20PM.jpeg",
+      "scraped_at": "2026-04-21 00:12:05.280510",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka government",
+      "rephrased_article": "The **Karnataka** government will hold a special Cabinet meeting this Friday to discuss the internal reservation matrix for 101 Scheduled Castes within the existing 15% reservation. The decision follows pressure from Dalit groups, including Ministers K.H. Muniyappa and R.B. Thimmapur, who demanded its finalization. A technical committee is reviewing the issue of categorization, ratio for each category, and roster points, with a report expected before the meeting.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]
