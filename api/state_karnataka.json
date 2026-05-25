@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 18:19:06.642838",
+  "generated_at": "2026-05-25 22:17:55.628837",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 217,
-    "articles_last_30d": 163
+    "total_articles": 223,
+    "articles_last_30d": 161
   },
   "top_cities_30d": {
-    "Bengaluru": 55,
+    "Bengaluru": 52,
     "Delhi": 16,
-    "Hyderabad": 7,
+    "Hyderabad": 8,
     "Chennai": 7,
     "Bangalore": 7,
     "Mumbai": 4,
@@ -24,18 +24,67 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 136,
-    "education": 52,
-    "protest_opposition": 49,
-    "infrastructure": 46,
-    "farmer_agriculture": 33,
+    "foreign_policy": 135,
+    "education": 51,
+    "protest_opposition": 50,
+    "infrastructure": 44,
+    "farmer_agriculture": 32,
     "economy": 31,
     "health": 29,
-    "crime_violence": 24,
+    "crime_violence": 25,
     "corruption_scam": 7,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 61647,
+      "title": "Hyderabad advocate murder: Police questioning continues; family seeks swift arrests - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-advocate-murder-police-questioning-continues-family-seeks-swift-arrests/article71022142.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-25 15:58:03.909952",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Hyderabad police** are investigating the death of advocate Khaja Moizuddin, who was allegedly struck by an SUV near Masab Tank.  They have questioned about 10 individuals as part of the investigation, but have not disclosed details regarding the vehicle or the custody status of the accused. The victim's son, Farhan, expressed confidence in the police and judiciary while also alleging preferential treatment for the accused and a political angle to the case. **Police** have yet to respond to these allegations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 61618,
+      "title": "Karnataka’s hijab row: A rollback, at last - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/a-rollback-at-last-in-karnatakas-hijab-row/article71017855.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pndt95/article71018811.ece/alternates/LANDSCAPE_1200/_DSC5572.JPG",
+      "scraped_at": "2026-05-25 12:55:30.152118",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress party",
+      "rephrased_article": "**Karnataka's** Minister for School Education and Literacy Madhu Bangarappa announced the rollback of a 2022 order banning hijab in schools and pre-university colleges. The controversial order, implemented by the previous **BJP** government, sparked protests across the state after six Muslim girls were barred from entering their classrooms in Udupi.  The move was a manifesto promise of the Congress party but had been delayed for nearly three years.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 61558,
       "title": "Petrol price crosses ₹110 mark in Bengaluru, fourth hike in 10 days - The Hindu",
@@ -5328,54 +5377,6 @@
       "cities_mentioned": [
         "Bengaluru"
       ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52662,
-      "title": "Export disruption hits ‘Bangalore Rose’ onion farmers; MP seeks urgent support - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/export-disruption-hits-bangalore-rose-onion-farmers-mp-seeks-urgent-support/article70881653.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/lpnxdf/article70882107.ece/alternates/LANDSCAPE_1200/roseonion_2.jpg",
-      "scraped_at": "2026-04-19 21:07:55.999570",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**K. Sudhakar**, MP for Chickballapur, has urged the **Union government** to intervene in the market distress faced by farmers cultivating the geographically indicated (GI) ‘Bangalore Rose’ onion. The onion's export-oriented nature has been disrupted due to geopolitical issues, leading to a sharp decline in prices and financial hardship for farmers.  **Dr. Sudhakar** has called for procurement interventions, alternative export markets, logistical support, and processing infrastructure development under the Pradhan Mantri Kisan Sampada Yojana (PMKSY) to address the crisis.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 52646,
-      "title": "Haryana Congress announces candidates, BJP holds back-to-back meetings - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/haryana-congress-announces-candidates-bjp-holds-back-to-back-meetings/article70880875.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-19 20:06:23.779803",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Congress** has named its mayoral candidates for all three municipal corporations in the state, while **BJP** is actively shaping its strategy and candidate selection.  The party has established a manifesto panel and held back-to-back meetings to finalize its approach. Nominations for seven municipal bodies open in two days.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana"
-      ],
-      "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
       ]

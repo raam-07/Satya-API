@@ -1,14 +1,66 @@
 {
-  "generated_at": "2026-05-25 18:19:06.535412",
-  "total": 88,
+  "generated_at": "2026-05-25 22:17:55.521238",
+  "total": 97,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 70,
-    "scale_of_harm": 4,
-    "institutional_failure": 10,
+    "power_abuse": 77,
+    "scale_of_harm": 5,
+    "institutional_failure": 11,
     "suppression": 4
   },
   "articles": [
+    {
+      "id": 61632,
+      "title": "Australian Gaza aid flotilla activists allege abuse after Israeli abduction | News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/australian-gaza-aid-flotilla-activists-allege-abuse-after-israeli-abduction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a1441e8-1779712488.jpg?resize=1200%2C675",
+      "scraped_at": "2026-05-25 15:55:31.802229",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israeli",
+      "rephrased_article": "Australian and Malaysian activists who participated in a Gaza aid flotilla, intercepted by Israeli forces last week, returned home after being detained.  The activists allege abuse, sexual assault, and beatings while in Israeli custody, with some hospitalized as a result. Organizers of the flotilla claim at least 15 reported incidents of sexual assault or rape. Malaysian officials have vowed to pursue legal action against Israel, while international condemnation has been levied against Israeli National Security Minister Itamar Ben-Gvir for his actions, including posting a video depicting the activists' mistreatment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "rape_sexual_crime"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of sexual assault and abuse in custody raise serious concerns."
+    },
+    {
+      "id": 61622,
+      "title": "Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention | Gaza | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/stripped-naked-and-beaten-australian-flotilla-activists-arrive-home-after-alleged-torture-in-israeli-detention-ntwnfb",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/a2a0d28c3a41742668e90f47a2f994fc0de8b785/720_0_4043_3235/master/4043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aee02c34177f731e5d4fcf0e211e7de6",
+      "scraped_at": "2026-05-25 12:56:31.686179",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Nine of the eleven Australians who joined a Gaza aid flotilla to Israel returned home, where they were met with support and allegations of abuse.  Violet CoCo, an Australian climate activist, alleged she was subjected to sexual assault, torture, and humiliation while detained by Israel. The activists demanded a meeting with Prime Minister Anthony Albanese, who expressed concern over the minister's actions but declined to meet them without prior notice.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "rape_sexual_crime"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of sexual assault and torture by Israeli authorities raise serious human rights concerns."
+    },
     {
       "id": 61554,
       "title": "Dezi Freeman yelled abuse at dying police officer during shooting, Victorian coroner hears | Porepunkah shooting | The Guardian",
@@ -746,6 +798,96 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "The defeat of the Women's Reservation Bill raises concerns about institutional failure to advance women's rights."
+    },
+    {
+      "id": 51862,
+      "title": "‘Parent’s worst nightmare’: Sydney childcare worker faces 137 child abuse charges relating to multiple centres | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/17/sydney-childcare-worker-child-abuse-charges-multiple-centres-ntwnfb",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/4178fd4e72bf69d777ac06aa4a270db5cf6a5365/672_0_6720_5376/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3fff39cd15e736994f8460dc9890f38",
+      "scraped_at": "2026-04-17 05:38:35.356943",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "former childcare employee",
+      "rephrased_article": "A former childcare employee in his 30s, who was initially charged with eight counts of online child abuse material offences, has been hit with an additional 129 charges after investigators uncovered more victims.  The Australian federal police (AFP) examined over 2.4 million electronic files on the man's devices to establish the scope of his alleged offending across multiple childcare centers. The Sydney man appeared in Parramatta local court, facing a total of 137 charges, including production of child abuse material and filming a person engaged in a private act without consent.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Child abuse is a serious crime and the scale of alleged offenses is alarming."
+    },
+    {
+      "id": 61662,
+      "title": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/assault-on-youth-congress-workers-in-alappuzha-sit-says-assault-unlawful/article71022089.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-25 16:00:28.488083",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "A Special Investigation Team (SIT) concluded that the assault on Indian Youth Congress activists in Alappuzha by police officers, including those from former Chief Minister Pinarayi Vijayan's security detail, was unlawful. The SIT recommended criminal charges against the involved officers and found procedural irregularities in the initial investigation. Home Minister Ramesh Chennithala will review the report before forwarding it to the Home Secretary for further action.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Police assault on citizens is unlawful and points to potential abuse of power."
+    },
+    {
+      "id": 61649,
+      "title": "Cattle market empties as fear grips Eid preparations in India’s West Bengal | Religion News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/cattle-market-empties-as-fear-grips-eid-preparations-in-indias-west-bengal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/At-the-Dhulagarh-market-3-1779695979-e1779710047424.jpg?resize=1200%2C675",
+      "scraped_at": "2026-05-25 15:58:23.800393",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The Dhulagarh cattle market in West Bengal, India, is deserted as the Hindu-majority BJP government's new regulations on cattle slaughter have disrupted Eid al-Adha preparations.  Prime Minister Narendra Modi, a Hindu nationalist leader, and his party have implemented stricter laws prohibiting cattle slaughter without proper certification, leading to economic hardship for Muslim traders who rely on selling beef for the festival. Chief Minister Suvendu Adhikari has ordered strict enforcement of these laws, resulting in many Muslims closing their shops and businesses.  The BJP's victory has also led to restrictions on street prayers in Muslim neighborhoods, further exacerbating tensions.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "The article highlights potential religious discrimination and economic hardship due to new laws."
     },
     {
       "id": 61530,
@@ -2327,6 +2469,133 @@
       "civic_flag_score": 9,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "Custodial death and potential abuse of power warrant urgent attention."
+    },
+    {
+      "id": 51970,
+      "title": "Balen Shah: Nepal's Government Launches Historic Probe into Assets of Former Leaders and Officials | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepals-government-launches-historic-probe-into-assets-of-former-leaders-and-officials/articleshow/130323135.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130323621,width-1280,height-720,imgsize-273266,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-17 14:47:05.646140",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Nepali Government",
+      "rephrased_article": "The newly formed Balendra Shah government in Nepal has established a five-member judicial panel to investigate the assets of public officials from 2006 to the current fiscal year. The inquiry will encompass former kings, presidents, prime ministers, and senior bureaucrats, including figures like former president Ram Baran Yadav and PM Sher Bahadur Deuba. Rajendra Kumar Bhandari, retired Supreme Court judge, heads the commission, which is expected to examine assets based on evidence and legal standards. While the Nepali Congress supports the probe, concerns have been raised about its potential politicization and lack of permanent legal framework.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Investigating past leaders' assets for potential corruption is a positive step."
+    },
+    {
+      "id": 51959,
+      "title": "‘Waiting without answers’: Gaza mother’s fear for her three imprisoned sons | Israel-Palestine conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/17/waiting-without-answers-gaza-mothers-fear-for-her-three-imprisoned-sons?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/DSC4854-1776374207.jpeg?resize=1920%2C1440",
+      "scraped_at": "2026-04-17 14:44:08.600878",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Inaam al-Dahdouh, a 62-year-old Gaza mother, is grappling with the fear of her three sons' potential execution under a new Israeli law allowing for the death penalty against Palestinians convicted in military courts. The sons, Mahmoud, Alaa, and Diaa, were detained after an Israeli attack on al-Shifa Hospital in December 2023.  Inaam has received little information about their whereabouts since their arrest, with only fragments of news from released prisoners providing glimpses into their conditions. Inaam fears the law's potential impact on her sons and calls for a global stance to pressure Israel to reverse its unjust treatment of Palestinian prisoners.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Potential execution of Palestinians under a new Israeli law raises serious human rights concerns."
+    },
+    {
+      "id": 51914,
+      "title": "Noida protests: Workers in India demand hike in minimum wage - but it's not as simple",
+      "url": "https://www.bbc.com/news/articles/ce8444gex65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/fc4f/live/a0c5ffa0-3891-11f1-a836-373ce269a87a.jpg",
+      "scraped_at": "2026-04-17 10:44:09.971383",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh's government",
+      "rephrased_article": "Thousands of factory workers in Noida, India, have been protesting for higher wages and improved working conditions. The protests, which began a week ago as mostly peaceful demonstrations, have escalated into violent clashes with police using tear gas and making arrests.  Uttar Pradesh's government has announced temporary wage increases but many workers feel these are insufficient. Experts point to inconsistent enforcement of labor laws and the lack of union representation in many sectors as contributing factors to the growing discontent. The protests highlight a broader struggle for fair pay within India's vast informal sector, where wages have not kept pace with rising living costs.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Violent clashes between workers and police over insufficient wage hikes signal potential abuse of power."
+    },
+    {
+      "id": 51879,
+      "title": "BJP using women as shield for electoral ambitions: DMK’s Kanimozhi in Lok Sabha - The Hindu",
+      "url": "https://www.thehindu.com/news/national/dmk-kanimozhi-parliament-speech-lok-sabha-women-quota-delimitation-pm-modi-kaala-teeka/article70872723.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mrj72o/article70872743.ece/alternates/LANDSCAPE_1200/kanimozhi.jpg",
+      "scraped_at": "2026-04-17 08:00:52.808297",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Kanimozhi, leader of the DMK, criticized the government's move to amend the 2023 women's reservation law before implementing the principal Act, calling it an \"election rescue strategy\" and a trap designed to link the two. She argued that the proposed delimitation exercise is being used by the BJP as a means to suppress women's representation in Parliament. Kanimozhi also challenged Prime Minister Narendra Modi, accusing him of attempting to silence opposition with his \"kaala teeka\" remark and comparing it to the dark goddess Kali.  Her party, along with other Tamil Nadu leaders, protested against the bill by wearing black clothes and burning copies of the delimitation bill.",
+      "party_mentioned": [
+        "BJP",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article alleges manipulation of a women's rights law for electoral gain."
     },
     {
       "id": 61482,

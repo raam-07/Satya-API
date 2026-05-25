@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 18:19:06.650354",
+  "generated_at": "2026-05-25 22:17:55.636000",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 337,
-    "articles_last_30d": 252
+    "total_articles": 341,
+    "articles_last_30d": 249
   },
   "top_cities_30d": {
     "Delhi": 26,
@@ -29,13 +29,36 @@
     "education": 66,
     "infrastructure": 51,
     "economy": 39,
-    "health": 31,
-    "crime_violence": 30,
+    "crime_violence": 31,
+    "health": 28,
     "farmer_agriculture": 23,
-    "corruption_scam": 17,
+    "corruption_scam": 16,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61662,
+      "title": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/assault-on-youth-congress-workers-in-alappuzha-sit-says-assault-unlawful/article71022089.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-25 16:00:28.488083",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "A Special Investigation Team (SIT) concluded that the assault on Indian Youth Congress activists in Alappuzha by police officers, including those from former Chief Minister Pinarayi Vijayan's security detail, was unlawful. The SIT recommended criminal charges against the involved officers and found procedural irregularities in the initial investigation. **Home Minister Ramesh Chennithala** will review the report before forwarding it to the Home Secretary for further action.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 61590,
       "title": "‘Needless fuss’: Kerala CM V.D. Satheesan defends posting former State poll chief Rathan Kelkar as his Secretary - The Hindu",
@@ -5543,28 +5566,6 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 56062,
-      "title": "Maniyar hydel project: Carborundum Universal expresses dismay over KSEB takeover bid - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/maniyar-hydel-project-carborundum-universal-expresses-dismay-over-kseb-takeover-bid/article70932207.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/hr1juq/article70932577.ece/alternates/LANDSCAPE_1200/Maniyar_Dam02.jpg",
-      "scraped_at": "2026-05-02 15:34:03.322227",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "KSEB",
-      "rephrased_article": "**Carborundum Universal Ltd.** has expressed disappointment over **Kerala State Electricity Board’s (KSEB)** recent takeover bid for the Maniyar small hydroelectric project. The company, which operated the 12 MW unit on KSEB's request for a year after their 30-year BOOT agreement expired in December 2024, claims it has not been compensated for the power generated and supplied to KSEB.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

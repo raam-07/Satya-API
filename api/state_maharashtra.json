@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 18:19:06.659742",
+  "generated_at": "2026-05-25 22:17:55.645248",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 102,
-    "articles_last_30d": 77
+    "total_articles": 104,
+    "articles_last_30d": 78
   },
   "top_cities_30d": {
     "Mumbai": 19,
     "Pune": 17,
-    "Delhi": 10,
+    "Delhi": 11,
     "Nashik": 9,
     "Hyderabad": 4,
     "Nagpur": 4,
@@ -27,8 +27,8 @@
     "foreign_policy": 64,
     "protest_opposition": 29,
     "infrastructure": 25,
+    "education": 25,
     "economy": 24,
-    "education": 24,
     "crime_violence": 14,
     "farmer_agriculture": 8,
     "rape_sexual_crime": 7,
@@ -36,6 +36,35 @@
     "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 61611,
+      "title": "President Droupadi Murmu confers Padma awards - The Hindu",
+      "url": "https://www.thehindu.com/news/national/padma-awards-president-droupadi-murmu-rashtrapati-bhawan/article71021107.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/2vhj7w/article71021100.ece/alternates/LANDSCAPE_1200/Dharmendra.jpg",
+      "scraped_at": "2026-05-25 12:53:49.600823",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "President Droupadi Murmu",
+      "rephrased_article": "**President Droupadi Murmu** conferred the Padma awards in New Delhi on Monday, May 25, 2026. **Dharmendra**, posthumously awarded the Padma Vibhushan, was accompanied by his wife **Hema Malini**.  **N. Rajam** received the Padma Vibhushan and **Bhagat Singh Koshyari** and **Uday Kotak** were awarded the Padma Bhushan. **Harmanpreet Kaur** received the Padma Shri. **Prosenjit Chatterjee**, honored for his contributions to Indian cinema, was awarded the Padma Shri by President Murmu.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 61583,
       "title": "IMD issues heatwave alert for Vidarbha; Western Maharashtra and Marathwada to witness light rains - The Hindu",
@@ -2968,6 +2997,31 @@
         "education",
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 52002,
+      "title": "Four Maoists killed in exchange of fire with security forces in Jharkhand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/four-maoists-killed-in-jharkhands-hazaribag/article70873511.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/cuzgsf/article70875206.ece/alternates/LANDSCAPE_1200/Jharkhand.jpg",
+      "scraped_at": "2026-04-17 17:29:08.767076",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Jharkhand Police",
+      "rephrased_article": "**Jharkhand Police** and the **209 COBRA Battalion** conducted a joint operation in the forest region between Hazaribagh and Chatra, resulting in the deaths of four Maoists.  The deceased included **Shahdev Mahto**, a regional committee member with a ₹15 lakh reward; **Ranjit Ganjhu**, a zonal committee member with a ₹10 lakh reward; **Natasha**, a sub-zonal committee member with a 17-case record; and **Budhan Karmali**, an area commander with a ₹1 lakh reward.  The operation also recovered weapons and other items of daily use, according to the police who claim it has neutralized the Maoist squad active in the region. The police have appealed for remaining militants to surrender.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 18:19:06.690196",
+  "generated_at": "2026-05-25 22:17:55.676474",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 103,
+    "total_articles": 106,
     "articles_last_30d": 78
   },
   "top_cities_30d": {
-    "Delhi": 18,
+    "Delhi": 17,
     "Lucknow": 9,
     "Kanpur": 7,
     "Kolkata": 6,
@@ -26,15 +26,37 @@
   "top_topics_30d": {
     "foreign_policy": 69,
     "protest_opposition": 31,
-    "infrastructure": 21,
-    "crime_violence": 21,
+    "crime_violence": 22,
+    "infrastructure": 20,
     "education": 17,
     "farmer_agriculture": 15,
     "economy": 9,
     "corruption_scam": 9,
-    "health": 7
+    "health": 7,
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61642,
+      "title": "Watch: Iran deal talks advance as Trump signals major breakthrough | Above the Fold | 25.05.2026 - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-iran-deal-talks-advance-as-trump-signals-major-breakthrough-above-the-fold-25052026/article71022268.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/li0won/article71022206.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-25%20at%2021.04.49.jpeg",
+      "scraped_at": "2026-05-25 15:57:17.541837",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Iran deal talks",
+      "rephrased_article": "**Smriti Sudesh**, **Ragavi M**, and **Sonikka Loganathan** are the producers of a television program.  The program features **Ragavi M** as its presenter, with **Naveenkumar V** serving as the shoot director and **Karthi P** as the editor.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 61597,
       "title": "Scorching days, restless nights: Heatwave tightens grip across parts of India - The Hindu",
@@ -3088,6 +3110,64 @@
         "education",
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 51914,
+      "title": "Noida protests: Workers in India demand hike in minimum wage - but it's not as simple",
+      "url": "https://www.bbc.com/news/articles/ce8444gex65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/fc4f/live/a0c5ffa0-3891-11f1-a836-373ce269a87a.jpg",
+      "scraped_at": "2026-04-17 10:44:09.971383",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh's government",
+      "rephrased_article": "Thousands of factory workers in Noida, India, have been protesting for higher wages and improved working conditions. The protests, which began a week ago as mostly peaceful demonstrations, have escalated into violent clashes with police using tear gas and making arrests.  **Uttar Pradesh**'s government has announced temporary wage increases but many workers feel these are insufficient. Experts point to inconsistent enforcement of labor laws and the lack of union representation in many sectors as contributing factors to the growing discontent. The protests highlight a broader struggle for fair pay within India's vast informal sector, where wages have not kept pace with rising living costs.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 51820,
+      "title": "Allahabad High Court declines to quash FIR against schoolgirls booked under U.P.’s anti-conversion Act - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hcdeclines-to-quash-fir-against-schoolgirls-booked-underups-anti-conversion-act/article70870657.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/oorj73/article70871221.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
+      "scraped_at": "2026-04-16 23:47:25.641277",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Allahabad High Court",
+      "rephrased_article": "The **Allahabad High Court** declined to quash an FIR against schoolgirls accused of forcing a Hindu classmate into \"religious conversion\" by making her wear a burkha, eat meat, and pressuring her into changing religions. The court found the allegations in the complaint warrant further investigation, noting that the 2021 Act was enacted to address the issue of forced religious conversions.  The court emphasized the importance of protecting young people from such pressures during their formative years.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "rape_sexual_crime"
       ]
     }
   ]

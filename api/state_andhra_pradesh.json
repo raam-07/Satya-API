@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 18:19:06.615931",
+  "generated_at": "2026-05-25 22:17:55.601871",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,34 +8,61 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 149,
+    "total_articles": 151,
     "articles_last_30d": 91
   },
   "top_cities_30d": {
     "Visakhapatnam": 13,
     "Hyderabad": 7,
+    "Chennai": 7,
     "Delhi": 7,
-    "Chennai": 6,
     "Bengaluru": 4,
+    "Madurai": 3,
     "Mumbai": 3,
-    "Madurai": 2,
     "Varanasi": 1,
     "Allahabad": 1,
     "Kolkata": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 73,
+    "foreign_policy": 74,
     "education": 24,
     "infrastructure": 19,
     "farmer_agriculture": 18,
     "economy": 17,
+    "crime_violence": 13,
     "health": 12,
     "protest_opposition": 12,
-    "crime_violence": 12,
     "rape_sexual_crime": 6,
-    "corruption_scam": 1
+    "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 61629,
+      "title": "T.N. Government appoints T.S Anbu as ADGP (Law and Order); Arun to head DVAC - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ts-anbu-posted-as-adgp-law-and-order-arun-to-head-dvac/article71021636.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/xvv17d/article71021946.ece/alternates/LANDSCAPE_1200/TamilNadu.jpg",
+      "scraped_at": "2026-05-25 15:54:55.842938",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "**The Tamil Nadu government** appointed **T.S. Anbu**, a 2001-batch IPS officer, as the new ADGP, Law and Order, replacing **Maheshwar Dayal**.  **Anbu**, who has served in various capacities including Deputy Commissioner of Police and Superintendent of Police, Madurai, will oversee law and order amidst recent incidents of crime. The government also appointed **A. Arun**, former Chennai Police Commissioner, as Director, Directorate of Vigilance and Anti-Corruption (DVAC).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 61542,
       "title": "Over 60% attendance in UPSC Civil Services prelims at 17 Visakhapatnam centres - The Hindu",
@@ -3985,6 +4012,33 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 51848,
+      "title": "Inside Andhra’s millet push that is turning women into entrepreneurs - The Hindu",
+      "url": "https://www.thehindu.com/life-and-style/food/inside-andhras-millet-push-that-is-turning-women-into-entrepreneurs/article70867695.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fucpxt/article70867796.ece/alternates/LANDSCAPE_1200/02Millet.jpg",
+      "scraped_at": "2026-04-17 03:01:30.368430",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Andhra Pradesh Government",
+      "rephrased_article": "In Andhra Pradesh, the Society for Elimination of Rural Poverty (SERP), in partnership with the National Rural Livelihoods Mission (NRLM) and Vishalakshi Innovations for Sustainable Value Chain (VISV), is training women to run millet-based enterprises.  The three-day training program at SVR Industries in Pendurthi focuses on recipes, business planning, and market access, aiming to help women transition from cooking for their families to creating marketable products. The initiative includes hands-on sessions on preparing a range of millet dishes, as well as providing support for setting up mobile \"plug and play\" millet carts.  The program aims to empower women entrepreneurs by building sustainable livelihoods through the cultivation, processing, and sale of millets.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Didi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
       ]
     }
   ]
