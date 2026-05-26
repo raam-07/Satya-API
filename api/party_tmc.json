@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26 19:29:58.081620",
+  "generated_at": "2026-05-26 23:44:20.571889",
   "party": "TMC",
   "full_name": "All India Trinamool Congress",
   "ideology": "Populism, Secularism",
@@ -10,10 +10,10 @@
   ],
   "color": "#00FF00",
   "stats": {
-    "total_articles": 162,
-    "articles_last_30d": 113,
+    "total_articles": 165,
+    "articles_last_30d": 111,
     "sentiment_breakdown_30d": {
-      "negative": 56,
+      "negative": 54,
       "neutral": 32,
       "positive": 25
     }
@@ -44,6 +44,36 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 61805,
+      "title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/j5w9fx/article71022323.ece/alternates/LANDSCAPE_1200/20260514514L.jpg",
+      "scraped_at": "2026-05-26 04:51:03.882465",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "**Kolkata Police** officials visited **Abhishek Banerjee's** residence on Monday to collect security equipment, part of a continued crackdown on illegal construction by the new **West Bengal** government.  The demolition of an illegally constructed **TMC** party office in Konnagar district and multiple multi-storeyed buildings across the state have been carried out since the BJP assumed power on May 4, 2026. **Minister Agnimitra Paul** stated that those responsible for illegal construction will face consequences.  The crackdown has led to arrests of several local leaders, including a TMC councillor's husband and another leader accused of extortion. The **TMC** is facing internal turmoil with many councillors resigning and party members being arrested.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61636,
       "title": "CPI(M) sees silver lining in Falta Assembly re-poll results - The Hindu",
@@ -5332,6 +5362,76 @@
         "protest_opposition",
         "foreign_policy",
         "education"
+      ]
+    },
+    {
+      "id": 51536,
+      "title": "We support CM’s stand on delimitation: Shanmugam - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/we-support-cms-stand-on-delimitation-shanmugam/article70865871.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/vso0s4/article70865954.ece/alternates/LANDSCAPE_1200/shanmugam.jpg",
+      "scraped_at": "2026-04-15 23:15:00.554583",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**P. Shanmugam**, **DMK president M.K. Stalin**, and other political parties have voiced strong opposition to the proposed delimitation bill by the **BJP-led Centre**.  They argue that the process, based on population, would reduce Tamil Nadu's representation in Parliament. The **DMK** leader criticized the BJP for convening a session of Parliament at a time when states were holding elections and using the Women’s Reservation Bill as political gain.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 51401,
+      "title": "INDIA bloc opposes Delimitation Bill - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-opposes-delimitation-bill/article70865105.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1yd88q/article70865106.ece/alternates/LANDSCAPE_1200/Kharge%20INDIA%20Bloc.jpeg",
+      "scraped_at": "2026-04-15 12:18:31.334898",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Mallikarjun Kharge**, president of the **All India Congress Committee (AICC)**, announced that the INDIA bloc has unanimously decided to oppose the Delimitation Bill.  **Kharge** stated that opposition parties are not against the Women’s Reservation Bill but are concerned about the bill's linking with delimitation and seat increases in State Assemblies. Several Opposition leaders, including **T.R. Baalu**, **Tejashwi Yadav**, and **Sanjay Raut**, expressed their opposition to the Delimitation Bill.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "SP",
+        "NCP",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "DMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
       ]
     }
   ]

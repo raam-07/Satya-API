@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26 19:29:58.189593",
+  "generated_at": "2026-05-26 23:44:20.686899",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 112,
-    "articles_last_30d": 77
+    "total_articles": 117,
+    "articles_last_30d": 79
   },
   "top_cities_30d": {
     "Delhi": 17,
@@ -17,18 +17,18 @@
     "Kanpur": 7,
     "Kolkata": 6,
     "Allahabad": 3,
+    "Mumbai": 3,
     "Ghaziabad": 2,
     "Agra": 2,
-    "Mumbai": 2,
     "Meerut": 2,
     "Prayagraj": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 68,
+    "foreign_policy": 69,
     "protest_opposition": 31,
-    "crime_violence": 21,
+    "crime_violence": 22,
     "infrastructure": 20,
-    "education": 17,
+    "education": 18,
     "farmer_agriculture": 15,
     "economy": 9,
     "corruption_scam": 9,
@@ -36,6 +36,68 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61837,
+      "title": "‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger | Education News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/come-back-my-son-indian-exam-leak-leaves-trail-of-death-despair-anger?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/Ritik-Mishra-1779775673.jpg?resize=1200%2C675",
+      "scraped_at": "2026-05-26 08:41:05.243023",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "NTA",
+      "rephrased_article": "The National Eligibility cum Entrance Test (NEET) examination was cancelled after allegations of a paper leak, leading to the deaths of four students and widespread protests. The controversy stems from repeated accusations of irregularities in NTA-conducted exams, including the 2024 NEET where over 80 students reportedly scored perfect marks.  The NTA has acknowledged shortcomings and announced new exam dates, but experts argue that limited resources and outsourcing have contributed to vulnerabilities.  Students like Harsh Dubey and Ritik Mishra, who died by suicide after the cancellation, highlight the devastating impact of the system's failures on aspiring medical professionals.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Thane"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61788,
+      "title": "Opposition parties criticise CM Vijay over a spate of crimes across Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/opposition-parties-criticise-cmvijayover-a-spate-of-crimes-acrosstamil-nadu/article71020533.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/chennai/h1j88m/article71020729.ece/alternates/LANDSCAPE_1200/Untitled%20design%2034.png",
+      "scraped_at": "2026-05-26 00:14:48.898204",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**Udhayanidhi Stalin**, **Edappadi K. Palaniswami**, and other Opposition leaders criticized **C. Joseph Vijay**, the Tamil Nadu Chief Minister, over a recent surge in crimes across the state. They questioned his response to the issue, demanding explanations for measures taken to protect women and children.  They also criticized his lack of action compared to his pre-election rhetoric on women's safety.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 61642,
       "title": "Watch: Iran deal talks advance as Trump signals major breakthrough | Above the Fold | 25.05.2026 - The Hindu",
@@ -3360,6 +3422,100 @@
         "crime_violence",
         "protest_opposition",
         "corruption_scam"
+      ]
+    },
+    {
+      "id": 51509,
+      "title": "38 booked, 23 held in U.P. over violence on Ambedkar Jayanti - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/38-booked-23-held-in-up-over-violence-on-ambedkar-jayanti/article70865922.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-15 21:34:28.934469",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh administration",
+      "rephrased_article": "**Twenty-three people**, including five women, were arrested in connection with violence that erupted in Uttar Pradesh's Kasganj district on Ambedkar Jayanti. The incident occurred when anti-social elements allegedly tried to block a Dalit community procession and pelted stones at police personnel. **The district police** have lodged an FIR against 38 people, of whom 23 have been arrested.  **Heavy police deployment** has restored peace in the village. The Opposition **Samajwadi Party** accused the administration of negligence and supporting \"feudal forces\" behind the violence.",
+      "party_mentioned": [
+        "BJP",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Agra"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 51499,
+      "title": "Implications of increasing the size of the Lok Sabha - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/implications-of-increasing-the-size-of-the-lok-sabha/article70866451.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/kebxzc/article70866602.ece/alternates/LANDSCAPE_1200/iStock-1974663178.jpg",
+      "scraped_at": "2026-04-15 21:30:19.416028",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The government** has introduced three Bills related to delimitation and women's reservation, which are expected to be debated in the extended Budget session from April 16-18. The **Constitution (131st Amendment) Bill** proposes increasing the Lok Sabha size, adjusting seat distribution based on population proportions, and clarifying that women's reservation will take effect after delimitation. The **Delimitation Bill** establishes a commission with provisions similar to those in 2002, requiring the latest Census for delimitation.  The third Bill extends these provisions to three Union Territories.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 51401,
+      "title": "INDIA bloc opposes Delimitation Bill - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-opposes-delimitation-bill/article70865105.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1yd88q/article70865106.ece/alternates/LANDSCAPE_1200/Kharge%20INDIA%20Bloc.jpeg",
+      "scraped_at": "2026-04-15 12:18:31.334898",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Mallikarjun Kharge**, president of the **All India Congress Committee (AICC)**, announced that the INDIA bloc has unanimously decided to oppose the Delimitation Bill.  **Kharge** stated that opposition parties are not against the Women’s Reservation Bill but are concerned about the bill's linking with delimitation and seat increases in State Assemblies. Several Opposition leaders, including **T.R. Baalu**, **Tejashwi Yadav**, and **Sanjay Raut**, expressed their opposition to the Delimitation Bill.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "SP",
+        "NCP",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "DMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26 19:29:58.154201",
+  "generated_at": "2026-05-26 23:44:20.650227",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 54,
-    "articles_last_30d": 39
+    "total_articles": 57,
+    "articles_last_30d": 41
   },
   "top_cities_30d": {
-    "Delhi": 12,
-    "Bhopal": 8,
+    "Delhi": 13,
+    "Bhopal": 10,
     "Indore": 4,
     "Agra": 3,
     "Mumbai": 2,
@@ -24,18 +24,88 @@
     "Ahmedabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 37,
+    "foreign_policy": 38,
     "education": 13,
-    "protest_opposition": 13,
-    "infrastructure": 11,
+    "infrastructure": 12,
+    "protest_opposition": 12,
+    "crime_violence": 10,
     "health": 9,
     "farmer_agriculture": 8,
-    "crime_violence": 8,
     "economy": 6,
     "rape_sexual_crime": 2,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61782,
+      "title": "CBI takes over probe in Twisha Sharma death case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/cbi-takes-over-probe-in-twisha-sharma-death-case/article71022684.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/74p56h/article71022689.ece/alternates/LANDSCAPE_1200/20260525564L.jpg",
+      "scraped_at": "2026-05-26 00:12:36.510575",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Bhopal Police",
+      "rephrased_article": "**CBI** registered an FIR in the Twisha Sharma dowry death case on May 25, 2026, after taking over from the Bhopal Police. The **Madhya Pradesh High Court** granted two days to retired judge Giribala Singh to respond to challenges to her anticipatory bail.  The **Bhopal Police** SIT interrogated Ms. Singh and recreated events at her house where Twisha Sharma was found dead. A Supreme Court bench assured a fair, independent investigation of the case.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 61778,
+      "title": "M.P. CM announces financial aid to people died in Bhojshala movement; govt to build Saraswati corridor, research centre - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-financial-aid-to-people-died-in-bhojshala-movement-govt-to-build-saraswati-corridor-research-centre/article71022032.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/m9081c/article71023331.ece/alternates/LANDSCAPE_1200/20260525552L.jpg",
+      "scraped_at": "2026-05-26 00:11:23.669563",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "**Mohan Yadav**, Chief Minister of **Madhya Pradesh**, announced financial assistance to the families of three men who died during protests at the Bhojshala temple in 2003.  He also declared the site a temple dedicated to goddess Vagdevi and announced construction of a \"Saraswati Lok\" corridor and a Raja Bhoj Research Institute. The **Madhya Pradesh High Court** ruled that the site is a temple, dismissing the Muslim community's claim that it was a mosque.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61755,
+      "title": "Twisha Sharma death: SC pained by handling of case, asks media to exercise restraint; CBI team dispatched to Bhopal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/twisha-sharma-bhopal-dowry-death-supreme-court-case-hearing-live-may-25-2026/article71019864.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g5l5et/article71019866.ece/alternates/LANDSCAPE_1200/PTI05_24_2026_000395B.jpg",
+      "scraped_at": "2026-05-25 22:37:00.566876",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** intervened in the death of former model-turned-actor Twisha Sharma, urging media to exercise restraint while reporting developments. The court expressed concern over the handling of the case and stated it would ensure a fair and impartial investigation.  Solicitor General Tushar Mehta argued that media intervention had led to significant progress in the case, highlighting the importance of parental responsibility. Sharma's family has alleged procedural lapses and evidence tampering, prompting the court's involvement.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 61442,
       "title": "SC’s revival of Section 124A for consenting accused brings back a colonial law the country did not want - The Hindu",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26 19:29:58.172163",
+  "generated_at": "2026-05-26 23:44:20.668869",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 64,
-    "articles_last_30d": 44
+    "total_articles": 67,
+    "articles_last_30d": 46
   },
   "top_cities_30d": {
     "Delhi": 18,
+    "Mumbai": 5,
     "Jaipur": 4,
-    "Mumbai": 4,
     "Pune": 3,
     "Nashik": 2,
     "Hyderabad": 2,
@@ -24,8 +24,8 @@
     "Nagpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 40,
-    "education": 15,
+    "foreign_policy": 42,
+    "education": 16,
     "protest_opposition": 15,
     "infrastructure": 10,
     "crime_violence": 10,
@@ -36,6 +36,69 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61837,
+      "title": "‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger | Education News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/come-back-my-son-indian-exam-leak-leaves-trail-of-death-despair-anger?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/Ritik-Mishra-1779775673.jpg?resize=1200%2C675",
+      "scraped_at": "2026-05-26 08:41:05.243023",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "NTA",
+      "rephrased_article": "The National Eligibility cum Entrance Test (NEET) examination was cancelled after allegations of a paper leak, leading to the deaths of four students and widespread protests. The controversy stems from repeated accusations of irregularities in NTA-conducted exams, including the 2024 NEET where over 80 students reportedly scored perfect marks.  The NTA has acknowledged shortcomings and announced new exam dates, but experts argue that limited resources and outsourcing have contributed to vulnerabilities.  Students like Harsh Dubey and Ritik Mishra, who died by suicide after the cancellation, highlight the devastating impact of the system's failures on aspiring medical professionals.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Thane"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61771,
+      "title": "Amit Shah to visit border areas over next three weeks - The Hindu",
+      "url": "https://www.thehindu.com/news/national/amit-shah-to-visit-border-areas-over-next-three-weeks/article71022402.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3tte0m/article71022465.ece/alternates/LANDSCAPE_1200/Modi-to-launch-GBUG10OD6.4.jpg.jpg",
+      "scraped_at": "2026-05-25 22:42:07.159461",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Amit Shah",
+      "rephrased_article": "**Union Home Minister Amit Shah** began a three-week tour of India's border areas on Tuesday, May 26, 2026, visiting Rajasthan and Gujarat. He will meet with state officials, BSF officers, and representatives from the Union Home Ministry to assess security situations along the Pakistan and Bangladesh borders. **Shah** plans to unveil a \"Smart Border Concept\" soon, equipped with drones, radars, cameras, and other technology to enhance border security.  He also stated that a high-powered demography mission will be announced soon to identify infiltration routes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Rajasthan",
+        "Tripura",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61732,
       "title": "Jaisalmer civic body swings into action, buries hundreds of cattle carcasses after public outrage - The Hindu",
@@ -1914,6 +1977,36 @@
       "topic_tags": [
         "foreign_policy",
         "crime_violence"
+      ]
+    },
+    {
+      "id": 51499,
+      "title": "Implications of increasing the size of the Lok Sabha - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/implications-of-increasing-the-size-of-the-lok-sabha/article70866451.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/kebxzc/article70866602.ece/alternates/LANDSCAPE_1200/iStock-1974663178.jpg",
+      "scraped_at": "2026-04-15 21:30:19.416028",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The government** has introduced three Bills related to delimitation and women's reservation, which are expected to be debated in the extended Budget session from April 16-18. The **Constitution (131st Amendment) Bill** proposes increasing the Lok Sabha size, adjusting seat distribution based on population proportions, and clarifying that women's reservation will take effect after delimitation. The **Delimitation Bill** establishes a commission with provisions similar to those in 2002, requiring the latest Census for delimitation.  The third Bill extends these provisions to three Union Territories.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
       ]
     }
   ]
