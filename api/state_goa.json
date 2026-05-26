@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 22:17:55.614773",
+  "generated_at": "2026-05-26 19:29:58.125015",
   "state": "Goa",
   "capital": "Panaji",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 21,
-    "articles_last_30d": 15
+    "total_articles": 22,
+    "articles_last_30d": 14
   },
   "top_cities_30d": {
     "Delhi": 5,
-    "Bengaluru": 4,
+    "Bengaluru": 3,
     "Hyderabad": 2,
     "Mumbai": 1,
     "Ahmedabad": 1,
@@ -21,8 +21,8 @@
     "Coimbatore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 14,
-    "infrastructure": 8,
+    "foreign_policy": 13,
+    "infrastructure": 7,
     "education": 5,
     "protest_opposition": 5,
     "economy": 4,
@@ -722,6 +722,36 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
+    },
+    {
+      "id": 51568,
+      "title": "Door-to-door visit by Census enumerators in eight States/U.T.s from April 16 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/door-to-door-visit-by-census-enumerators-in-eight-statesuts-from-april-16/article70865964.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6re62w/article70866298.ece/alternates/LANDSCAPE_1200/National-CensusGALFRK2QR.3.jpg.jpg",
+      "scraped_at": "2026-04-16 00:14:03.865757",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Ministry of Home Affairs (MHA)** announced the commencement of door-to-door enumeration for the first phase of the 2027 Population Census, known as the House Listing and Housing Operations (HLO). Beginning on April 16th in eight states and union territories including Andaman and Nicobar Islands, Goa, Karnataka, Lakshadweep, Mizoram, Odisha, Sikkim, and Delhi's NDMC area and Cantonment Board, enumerators will collect data for the HLO phase. This follows a 15-day self-enumeration period.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
     }
   ]
 }

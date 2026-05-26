@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 22:17:55.681694",
+  "generated_at": "2026-05-26 19:29:58.195213",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 229,
-    "articles_last_30d": 171
+    "total_articles": 237,
+    "articles_last_30d": 169
   },
   "top_cities_30d": {
-    "Kolkata": 44,
+    "Kolkata": 42,
     "Delhi": 22,
-    "Chennai": 5,
+    "Chennai": 4,
     "Bengaluru": 4,
     "Hyderabad": 3,
     "Mumbai": 2,
@@ -22,17 +22,46 @@
   },
   "top_topics_30d": {
     "foreign_policy": 149,
-    "education": 90,
-    "protest_opposition": 81,
-    "crime_violence": 44,
+    "education": 88,
+    "protest_opposition": 80,
+    "crime_violence": 42,
     "infrastructure": 42,
-    "economy": 38,
+    "economy": 39,
     "farmer_agriculture": 20,
     "corruption_scam": 17,
-    "health": 11,
-    "rape_sexual_crime": 5
+    "health": 10,
+    "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 61690,
+      "title": "India orders migrant detention centres in West Bengal, sparking arbitrary explusion fears - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002999/india-orders-migrant-detention-centres-in-west-bengal-sparking-arbitrary-explusion-fears",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/25131904ae58849.webp",
+      "scraped_at": "2026-05-25 17:54:19.369974",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India’s ruling Bharatiya Janata Party (BJP)** has ordered the establishment of detention centers for undocumented Bangladeshis and Rohingyas in West Bengal state, sparking fear among minorities. The directive comes after the BJP won power in the eastern state for the first time since independence.  The government defends its \"detect, delete, deport\" principle, arguing that those targeted are illegal migrants. Critics argue the policy reflects a hardline stance on immigration and disproportionately impacts Muslims, while rights activists raise concerns about potential human rights violations.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 61649,
       "title": "Cattle market empties as fear grips Eid preparations in India’s West Bengal | Religion News | Al Jazeera",
@@ -6130,33 +6159,6 @@
         "crime_violence",
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 53357,
-      "title": "Pakistan out of women’s football tournament in India over political strife | Football News | Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/22/pakistan-out-of-womens-football-tournament-in-india-over-political-strife?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25127658929826-1746663247.jpg?resize=1200%2C675",
-      "scraped_at": "2026-04-22 15:58:36.685912",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Pakistan Government",
-      "rephrased_article": "**Pakistan**'s women's football team will not participate in the **South Asian Football Federation (SAFF)** Women’s Championship hosted in India due to ongoing geopolitical tensions between the two nations. The Pakistani government has barred the team from traveling, citing a lack of an NOC from relevant authorities.  The tournament is scheduled for May 25 to June 7 and will be held at Goa's Pandit Jawaharlal Nehru Stadium. This decision follows a long history of strained relations between India and **Pakistan**, which have impacted cross-border travel for athletes in various sports, including cricket.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Goa",
-        "Tamil Nadu",
-        "West Bengal",
-        "Kashmir"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

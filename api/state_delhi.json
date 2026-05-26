@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 22:17:55.689234",
+  "generated_at": "2026-05-26 19:29:58.203006",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 294,
-    "articles_last_30d": 226
+    "total_articles": 309,
+    "articles_last_30d": 223
   },
   "top_cities_30d": {
-    "Delhi": 222,
+    "Delhi": 219,
     "Kolkata": 19,
     "Mumbai": 18,
     "Chennai": 11,
@@ -24,18 +24,117 @@
     "Ahmedabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 208,
-    "protest_opposition": 85,
-    "crime_violence": 68,
+    "foreign_policy": 206,
+    "protest_opposition": 86,
+    "crime_violence": 66,
     "education": 63,
-    "economy": 60,
-    "infrastructure": 59,
+    "infrastructure": 58,
+    "economy": 58,
     "farmer_agriculture": 28,
     "corruption_scam": 22,
-    "health": 19,
+    "health": 20,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 61739,
+      "title": "'Blistering heat' in Delhi as temperatures reach 45C",
+      "url": "https://www.bbc.com/news/videos/c4g002jvv8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nn7m75.jpg",
+      "scraped_at": "2026-05-25 21:17:30.028936",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**Delhi**, India, is experiencing extreme heat with temperatures reaching a scorching 45 degrees Celsius. The **BBC** reports that this intense heatwave has caused widespread discomfort and health concerns for residents.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 61725,
+      "title": "Leadership change in Karnataka? CM Siddaramaiah to fly to Delhi amid speculation - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-siddaramaiah-heading-to-delhi-on-may-26-amid-talk-of-cabinet-reshuffle-leadership-rajya-sabha-council-elections/article71020440.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6wt2rx/article71022670.ece/alternates/LANDSCAPE_1200/_DSC8995.jpg",
+      "scraped_at": "2026-05-25 19:53:33.531843",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Siddaramaiah",
+      "rephrased_article": "**The Hindu** has updated its commenting platform. Users must now comment in full sentences using English and abide by community guidelines.  Comments will be moderated to ensure they are respectful and constructive.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61721,
+      "title": "Nitin Nabin sends BJP State unit into introspective mode - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/nitin-nabin-sends-bjp-state-unit-into-introspective-mode/article71022316.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xqgduh/article71022416.ece/alternates/LANDSCAPE_1200/DSC_4266.JPG",
+      "scraped_at": "2026-05-25 19:52:46.444855",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**BJP** national president **Nitin Nabin** has called for improvement within the state party unit, urging them to strengthen their efforts if they hope to regain power.  His message came after his recent visit to Karnataka and reflects a sentiment shared by party leaders who believe the organization needs to demonstrate its capabilities as a viable political alternative.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61683,
+      "title": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal | US-Israel war on Iran | The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/25cb795871d044bfacb73ab958097017c45dad49/1218_144_4334_3467/master/4334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8ae6f5f124ac3b0a054d752d48e74c74",
+      "scraped_at": "2026-05-25 17:52:25.305667",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Donald Trump",
+      "rephrased_article": "**Donald Trump** suggested that Saudi Arabia and Qatar sign the Abraham Accords as part of a potential peace deal with Iran.  He stated that negotiations are progressing well but warned of renewed attacks on Iran if a deal fails to materialize. **Trump** also urged other countries in the region, including Egypt, Jordan, Turkey, and Pakistan, to join the Abraham Accords.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61658,
       "title": "'You are not welcome': Row erupts after Laura Loomer says she wants to visit India again following Marco Rubio's trip - The Times of India",
@@ -5843,118 +5942,6 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 55624,
-      "title": "Square Yards reports Rs 2,086 crore revenue in FY26, growth of 48% year-over-year - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/square-yards-reports-rs-2086-crore-revenue-in-fy26-growth-of-48-year-over-year/articleshow/130671971.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-130671965,width-1200,height-630,imgsize-2303299,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-01 07:46:58.207947",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Square Yards",
-      "rephrased_article": "**Square Yards**, a real estate brokerage firm, reported a 49% year-over-year increase in gross profit to Rs 476 crore (USD 51 million) driven by strong India revenue growth. The company facilitated over 2.73 lakh customer acquisitions in FY26 and saw Bangalore lead the market share for real estate GTV at 30%.  **Square Yards'** fintech arm, Urban Money, also reported a significant contribution to total gross value transaction (GTV) with mortgage loans accounting for 86% of its portfolio.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Bangalore",
-        "Hyderabad",
-        "Pune"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 55588,
-      "title": "India’s first green methanol plant to turn Kutch’s most invasive weed into marine fuel - The Hindu",
-      "url": "https://www.thehindu.com/news/national/indias-first-green-methanol-plant-to-turn-kutch-weed-into-marine-fuel/article70925310.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qg5w1f/article70926485.ece/alternates/LANDSCAPE_1200/IMG_9871_9_10_2022_18_33_2_1_A0ACF8S7.jpg",
-      "scraped_at": "2026-05-01 01:29:46.895011",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Prosopis juliflora**, a highly invasive plant known as gando baval in Kutch, is set to be utilized for the production of green methanol and fuel for ocean-going ships.  The plant was introduced by the British in the 1920s and later by the **Gujarat forest department** in 1961 to combat encroaching salt deserts. The **Indian government** plans to build its first green methanol production plant using this invasive species.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 55580,
-      "title": "The rupee at record low will end India’s cheap-money era - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/the-rupee-at-record-low-will-end-indias-cheap-money-era/articleshow/130662202.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-130662185,width-1200,height-630,imgsize-97224,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-01 01:27:20.022839",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**RBI** Governor Sanjay Malhotra has signaled a preference to avoid raising interest rates in India, citing the need to manage inflation expectations.  However, pressure from the foreign-exchange market and the war in Iran have led to a weakening of the Indian rupee, prompting concerns about capital outflow and potential demand compression. The central bank's easing measures may be insufficient to prevent higher inflation as energy prices surge and monsoon forecasts suggest potential food shortages.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 55340,
-      "title": "Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? | Wildlife News | Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/30/why-is-india-turning-to-crocodiles-and-snakes-to-fence-bangladesh-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2024-05-30T100339Z_1731458408_RC2ER7AG7XAM_RTRMADP_3_INDIA-ELECTION-CLIMATE-1777459768.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-04-30 06:36:00.065822",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "The **Indian** Border Security Force (BSF) is exploring the use of apex predators like crocodiles and venomous snakes to deter undocumented migration along its border with **Bangladesh**.  This controversial plan, aimed at addressing challenging terrain that makes traditional fencing difficult, has raised concerns from human rights activists and wildlife conservationists. The BSF's directive to explore this option comes despite the fact that these animals are not native to the region and could pose a threat to local ecosystems and communities. Critics argue that deploying such measures is inhumane and ineffective, highlighting the government's use of fear tactics against undocumented migrants. This approach has been compared to similar controversial strategies employed in the United States, including proposals for using alligators or snakes to deter migrants.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Meghalaya",
-        "Mizoram",
-        "Tripura",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "protest_opposition"
       ]
     }
   ]

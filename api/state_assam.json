@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 22:17:55.607174",
+  "generated_at": "2026-05-26 19:29:58.116806",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 92,
-    "articles_last_30d": 79
+    "total_articles": 94,
+    "articles_last_30d": 77
   },
   "top_cities_30d": {
     "Delhi": 12,
@@ -24,17 +24,46 @@
   },
   "top_topics_30d": {
     "foreign_policy": 68,
-    "protest_opposition": 37,
+    "protest_opposition": 36,
     "infrastructure": 24,
     "education": 24,
-    "crime_violence": 21,
-    "economy": 19,
+    "economy": 20,
+    "crime_violence": 19,
     "farmer_agriculture": 11,
     "health": 5,
     "corruption_scam": 4,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61690,
+      "title": "India orders migrant detention centres in West Bengal, sparking arbitrary explusion fears - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2002999/india-orders-migrant-detention-centres-in-west-bengal-sparking-arbitrary-explusion-fears",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/25131904ae58849.webp",
+      "scraped_at": "2026-05-25 17:54:19.369974",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India’s ruling Bharatiya Janata Party (BJP)** has ordered the establishment of detention centers for undocumented Bangladeshis and Rohingyas in West Bengal state, sparking fear among minorities. The directive comes after the BJP won power in the eastern state for the first time since independence.  The government defends its \"detect, delete, deport\" principle, arguing that those targeted are illegal migrants. Critics argue the policy reflects a hardline stance on immigration and disproportionately impacts Muslims, while rights activists raise concerns about potential human rights violations.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 61625,
       "title": "60 armoured units among 477 new vehicles added to Manipur police fleet - The Hindu",
@@ -2863,6 +2892,47 @@
         "crime_violence",
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 51607,
+      "title": "Muslims the target? Fury as millions lose voting rights in India’s Bengal | Elections News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2011-08-29T120000Z_206437593_GM1E78T1JPK01_RTRMADP_3_INDIA-1776242739.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-16 08:17:01.336964",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Election Commission of India (ECI)** revised its electoral rolls in West Bengal, resulting in the deletion of voter names from over nine million people. The process, called a special intensive revision (SIR), has been controversial and is accused by opposition parties and Muslim groups of targeting voters unlikely to vote for Prime Minister Narendra Modi's Bharatiya Janata Party (BJP).  The ECI claims the SIR aims to remove duplicate or deceased voters but critics argue it disproportionately affects Muslims. The process has faced legal challenges, with the Supreme Court allowing those whose cases are pending before tribunals to vote in the upcoming election. Muslim families across West Bengal report difficulties proving their voting rights, citing discrepancies in spellings, changes of surnames after marriage, and issues with residency status.  The ECI maintains that the SIR is a routine activity but critics argue it lacks transparency and places an excessive burden on female voters who often lack required documents.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "SAD"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Kerala",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
       ]
     }
   ]

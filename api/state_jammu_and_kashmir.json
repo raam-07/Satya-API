@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 22:17:55.696572",
+  "generated_at": "2026-05-26 19:29:58.210680",
   "state": "Jammu and Kashmir",
   "capital": "Srinagar / Jammu",
   "ruling_party": "National Conference",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 34,
-    "articles_last_30d": 25
+    "total_articles": 37,
+    "articles_last_30d": 26
   },
   "top_cities_30d": {
     "Srinagar": 6,
@@ -17,16 +17,40 @@
     "Bengaluru": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 24,
+    "foreign_policy": 25,
     "protest_opposition": 13,
     "education": 9,
-    "crime_violence": 6,
+    "crime_violence": 7,
     "economy": 5,
     "infrastructure": 5,
     "health": 3,
     "farmer_agriculture": 2
   },
   "recent_articles": [
+    {
+      "id": 61676,
+      "title": "Over 300 tourists stranded in Gulmarg’s high-altitude cable cars rescued - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/over-200-tourists-stranded-in-gulmargs-high-altitude-cable-cars-rescued/article71022123.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/eu489p/article71022499.ece/alternates/LANDSCAPE_1200/36-Technical%20Issue%20Halts%20Gulmarg%20Gondola-SGR-25-05-2026.jpeg",
+      "scraped_at": "2026-05-25 17:50:34.733613",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "J&K Government",
+      "rephrased_article": "Over 320 tourists were rescued from suspended cabins on the **Asia’s highest cable car** in Gulmarg, Kashmir after a technical malfunction. The incident occurred on Monday afternoon when a cable car developed a snag, leaving the cabins dangling mid-air.  The rescue operation lasted over six hours and involved multiple teams of the **State Disaster Response Force (SDRF)**, the **Indian Army**, and additional ATVs from the Gulmarg ATV Association. **J&K Chief Minister Omar Abdullah** and **Lieutenant Governor Manoj Sinha** monitored the situation and assured the public that all tourists are safe. The cable car is expected to remain closed for maintenance on May 26th and 27th, with ticket refunds issued for those dates.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61520,
       "title": "Disambiguating a year of flux: expert panels at The Hindu Huddle, 2026 - The Hindu",
@@ -996,6 +1020,54 @@
         "crime_violence",
         "protest_opposition"
       ]
+    },
+    {
+      "id": 51749,
+      "title": "J&K Police file chargesheet against 10 accused part of ‘doctors’ terror module’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-police-file-chargesheet-against-10-accused-part-of-doctors-terror-module/article70870167.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ux6trq/article70870960.ece/alternates/LANDSCAPE_1200/20260401401L.jpg",
+      "scraped_at": "2026-04-16 19:52:52.703110",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "doctors' terror module",
+      "rephrased_article": "The **Jammu and Kashmir Police**’s special cell, the State Investigation Agency (SIA), filed a chargesheet against 10 individuals accused of being part of a “doctors’ terror module” in Srinagar. The group, which included five doctors including Umar Un Nabi, was found to have been actively involved in radicalization, recruitment, and operational preparations for terrorist attacks across the country.  The investigation revealed that the group had identified TATP, a highly sensitive explosive used in global terror incidents, and had amassed significant quantities of precursor materials. The SIA successfully dismantled the entire network, uncovering evidence including digital forensics, scientific analysis, and witness accounts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 51594,
+      "title": "In 2025 verdict, Supreme Court had warned of delimitation ‘destabilising uniform electoral framework’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/in-2025-verdict-supreme-court-had-warned-of-delimitation-destabilising-uniform-electoral-framework/article70867652.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xhkhq1/article70867799.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
+      "scraped_at": "2026-04-16 06:08:20.406158",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** ruled in 2025 that delimitation exercises must not disrupt the established electoral framework. This decision came after a petition from K. Purushottam Reddy, who argued for parity in constituency adjustments between Andhra Pradesh and Telangana and Jammu and Kashmir. The court's ruling emphasized maintaining clear boundaries between constitutional mandates and political discretion.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     }
   ]
 }
