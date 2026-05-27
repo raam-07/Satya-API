@@ -706,6 +706,7 @@ def build_promises_summary(promises):
             "made_on": p.get('made_on', ''),
             "deadline": p.get('deadline', ''),
             "evidence_count": len(p.get('evidence_articles', [])),
+            "evidence_articles": p.get('evidence_articles', []),  # <-- Injected: Sends the actual articles to the frontend!
             "gemma_suggestion": p.get('gemma_suggestion'),
             "gemma_reasoning": p.get('gemma_reasoning')
         }
