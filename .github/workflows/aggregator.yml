@@ -3,7 +3,7 @@ name: Satya Aggregator
 on:
   schedule:
     # Runs every 5 minutes
-    - cron: '0/5 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
 
 concurrency:
