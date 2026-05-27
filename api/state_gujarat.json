@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26 23:44:20.621680",
+  "generated_at": "2026-05-27 12:03:51.600737",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 357,
-    "articles_last_30d": 241
+    "total_articles": 372,
+    "articles_last_30d": 239
   },
   "top_cities_30d": {
-    "Delhi": 45,
+    "Delhi": 44,
     "Mumbai": 16,
     "Bengaluru": 15,
-    "Kolkata": 14,
     "Hyderabad": 14,
+    "Kolkata": 13,
     "Ahmedabad": 10,
     "Chennai": 7,
     "Patna": 6,
@@ -24,18 +24,63 @@
     "Jaipur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 219,
+    "foreign_policy": 218,
     "infrastructure": 79,
-    "economy": 76,
-    "protest_opposition": 69,
-    "education": 55,
-    "crime_violence": 49,
+    "economy": 75,
+    "protest_opposition": 68,
+    "education": 53,
+    "crime_violence": 50,
     "farmer_agriculture": 31,
     "health": 19,
     "corruption_scam": 16,
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 61940,
+      "title": "Indian-origin woman killed at supermarket in Virginia; shooter had no connection with her, was later found dead - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-origin-woman-killed-at-supermarket-in-virginia-shooter-had-no-connection-with-her-was-later-found-dead/articleshow/131329901.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131329984,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-26 22:29:16.920533",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Meghnaben Patel",
+      "rephrased_article": "A 45-year-old Indian woman, **Meghnaben Patel**, was fatally shot at a convenience store in Virginia on May 23rd. Surveillance footage shows the attacker approaching the counter where she worked and shooting her multiple times before fleeing.  The shooter died from a self-inflicted gunshot wound after being found by police who were responding to reports of a domestic dispute that occurred earlier. Police have not identified any additional suspects in connection with the incident.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61899,
+      "title": "India’s energy strategy needs price correction - The Hindu",
+      "url": "https://www.thehindu.com/opinion/lead/indias-energy-strategy-needs-price-correction/article71026084.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/q5lk0m/article71026087.ece/alternates/LANDSCAPE_1200/PTI05_25_2026_000230A.jpg",
+      "scraped_at": "2026-05-26 20:59:29.170288",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The Strait of Hormuz crisis has exposed the interconnectedness of energy security and geopolitics, impacting global crude markets and transportation costs. **India**, heavily reliant on imported oil, has implemented a combination of state intervention, supply diversification, and financial absorption to mitigate the impact on consumers. While petrol and diesel prices have remained relatively stable in India compared to other advanced economies, the country's reliance on fossil fuels remains a structural vulnerability. The government is facing pressure to implement a more sustainable approach to fuel pricing, balancing economic realities with consumer needs.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61853,
       "title": "CM Vijay to fly to New Delhi on Wednesday, to call on PM Modi - The Hindu",
@@ -5774,60 +5819,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 56074,
-      "title": "INDIA bloc likely to meet after poll results to discuss strategy on delimitation, women’s quota - The Hindu",
-      "url": "https://www.thehindu.com/news/national/india-bloc-likely-to-meet-after-poll-results-to-discuss-strategy-on-delimitation-womens-quota/article70932063.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/puwlpx/article70932331.ece/alternates/LANDSCAPE_1200/PTI04_17_2026_000495B.jpg",
-      "scraped_at": "2026-05-02 16:16:40.477494",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Narenda Modi",
-      "rephrased_article": "The **INDIA** bloc is expected to meet in mid-May to discuss the way forward on women's reservation, which was tied up with delimitation. The government proposed increasing Lok Sabha seats and offering 33% of them to women, but this was not included in the Constitution (131st Amendment) Bill. **Narenda Modi** is unlikely to abandon his plan for the expansion of the Lok Sabha.  The bloc will likely not discuss the Assembly elections as constituents fought separately in Kerala and West Bengal.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Modi"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56025,
-      "title": "Two killed, 15 injured as bus carrying pilgrims overturns in Gujarat - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/several-injured-killed-bus-accident-gujarat-junagadh-latest-update/article70931910.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-02 13:28:01.764959",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "nilgai",
-      "rephrased_article": "A **bus** carrying pilgrims from Bhavnagar to Dwarka and Somnath overturned in Junagadh district on Saturday, killing two women and injuring at least 15 passengers. The accident occurred when a **nilgai** darted across the road, causing the driver to lose control of the vehicle near Rahij village.  Local residents assisted the injured while authorities used an excavator to rescue trapped passengers.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "health"
       ]
     }
   ]

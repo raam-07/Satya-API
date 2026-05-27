@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26 23:44:20.569613",
+  "generated_at": "2026-05-27 12:03:51.550738",
   "party": "AAP",
   "full_name": "Aam Aadmi Party",
   "ideology": "Anti-corruption, Populism",
@@ -10,11 +10,11 @@
   ],
   "color": "#0066FF",
   "stats": {
-    "total_articles": 48,
-    "articles_last_30d": 31,
+    "total_articles": 50,
+    "articles_last_30d": 30,
     "sentiment_breakdown_30d": {
       "neutral": 8,
-      "negative": 19,
+      "negative": 18,
       "positive": 4
     }
   },
@@ -51,6 +51,31 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 61906,
+      "title": "Rajya Sabha defections, constitutional questions - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/rajya-sabha-defections-constitutional-questions/article71026199.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/opinion/op-ed/hmyw4h/article71026218.ece/alternates/LANDSCAPE_1200/iStock-518927129.jpg",
+      "scraped_at": "2026-05-26 21:00:57.917741",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Seven **Aam Aadmi Party** (AAP) MPs announced on April 24, 2026, that over two-thirds of their party's members had merged with the **Bharatiya Janata Party** (BJP), invoking the 10th Schedule of the Constitution. This move has drawn attention to constitutional questions regarding the interpretation of anti-defection laws and the scope of the \"merger\" exception.  This event, occurring at the national level in the Rajya Sabha, carries significant political consequences.",
+      "party_mentioned": [
+        "BJP",
+        "AAP",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Eknath Shinde"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
     {
       "id": 61266,
       "title": "I don’t think the ruling party has the stomach for sarcasm, says Cockroach Janta Party founder Abhijeet Dipke - The Hindu",
@@ -1477,6 +1502,28 @@
       "topic_tags": [
         "foreign_policy",
         "corruption_scam"
+      ]
+    },
+    {
+      "id": 51208,
+      "title": "Australia news live: thousands feel ‘large’ earthquake in central-west NSW; Albanese arrives in Brunei for fuel supply talks | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/e052ad8fb2aaaaa12e66bdb951c3ed8aecf77331/7_0_816_653/master/816.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=37642aeec792e82d751d395322807fa5",
+      "scraped_at": "2026-04-14 21:27:19.860097",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Australian Government",
+      "rephrased_article": "A 4.5-magnitude earthquake struck central-west NSW last night, causing tremors felt hundreds of kilometers away. The quake, which hit near the Cadia gold mine, was the largest in the region's history and prompted Geoscience Australia to receive over 2,000 reports.  The Australian government is working with international partners to address the global economic impact of the ongoing war in Iran.  Prime Minister Anthony Albanese met with the Sultan of Brunei yesterday to discuss fuel supply concerns. Treasurer Jim Chalmers will attend the G20 finance ministers' summit in Washington DC today.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
       ]
     }
   ]
