@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 12:03:51.905989",
+  "generated_at": "2026-05-27 19:42:07.575424",
   "stats": {
     "total_promises": 20,
     "kept": 2,
@@ -18,6 +18,7 @@
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
@@ -31,6 +32,7 @@
         "made_on": "2014-03-15",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
       },
@@ -44,6 +46,7 @@
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -57,6 +60,7 @@
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
@@ -70,6 +74,7 @@
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not directly addressed in the provided articles."
       },
@@ -83,6 +88,7 @@
         "made_on": "2017-02-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
       },
@@ -96,6 +102,7 @@
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
       },
@@ -109,6 +116,7 @@
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
       },
@@ -122,6 +130,7 @@
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       },
@@ -135,6 +144,7 @@
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
       }
@@ -150,6 +160,7 @@
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -163,6 +174,7 @@
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
@@ -176,8 +188,19 @@
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/assam/ucc-implementation-in-assam-muslim-organisations-seek-consultations-with-government/article71017321.ece",
+            "title": "UCC implementation in Assam: Muslim organisations seek consultations with government - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-24 15:50:48.926292",
+            "relevance_score": 77,
+            "gemma_validated": true,
+            "rephrased": "**Muslim religious and social organizations** in Assam have urged the **Assam government** to consult with them before implementing the Uniform Civil Code (UCC). The organizations, including factions "
+          }
+        ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "UCC implementation is being discussed and debated."
+        "gemma_reasoning": "Discussions and consultations regarding UCC implementation are ongoing."
       },
       {
         "id": "p010",
@@ -189,6 +212,7 @@
         "made_on": "2019-06-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
       },
@@ -202,6 +226,7 @@
         "made_on": "2018-09-17",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       },
@@ -215,6 +240,7 @@
         "made_on": "2017-03-19",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
       },
@@ -228,6 +254,7 @@
         "made_on": "2011-05-20",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not directly related to the provided news articles."
       },
@@ -241,8 +268,19 @@
         "made_on": "2023-08-15",
         "deadline": "2047-08-15",
         "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/telangana/centre-to-support-telangana-more-vigorously-pm-modi-in-hyderabad/article70962140.ece",
+            "title": "PM Modi assures more support to Telangana, asks CM Revanth to collaborate with him - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-10 12:02:18.299435",
+            "relevance_score": 95,
+            "gemma_validated": true,
+            "rephrased": "**Prime Minister Narendra Modi** assured **Telangana Chief Minister A. Revanth Reddy** that the **Central government** would continue to support its development, emphasizing the importance of state-le"
+          }
+        ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is for 2047 and is still many years away."
+        "gemma_reasoning": "The promise is for 2047 and the current date is 2026."
       }
     ],
     "kept": [
@@ -256,6 +294,7 @@
         "made_on": "2015-02-14",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
@@ -269,6 +308,7 @@
         "made_on": "2015-02-14",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
       }
@@ -286,6 +326,7 @@
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
@@ -299,6 +340,7 @@
         "made_on": "2014-03-15",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
       },
@@ -312,6 +354,7 @@
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -325,6 +368,7 @@
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -338,6 +382,7 @@
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
@@ -351,6 +396,7 @@
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not directly addressed in the provided articles."
       },
@@ -364,6 +410,7 @@
         "made_on": "2017-02-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
       },
@@ -377,6 +424,7 @@
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
@@ -390,8 +438,19 @@
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/assam/ucc-implementation-in-assam-muslim-organisations-seek-consultations-with-government/article71017321.ece",
+            "title": "UCC implementation in Assam: Muslim organisations seek consultations with government - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-24 15:50:48.926292",
+            "relevance_score": 77,
+            "gemma_validated": true,
+            "rephrased": "**Muslim religious and social organizations** in Assam have urged the **Assam government** to consult with them before implementing the Uniform Civil Code (UCC). The organizations, including factions "
+          }
+        ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "UCC implementation is being discussed and debated."
+        "gemma_reasoning": "Discussions and consultations regarding UCC implementation are ongoing."
       },
       {
         "id": "p010",
@@ -403,6 +462,7 @@
         "made_on": "2019-06-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
       },
@@ -416,6 +476,7 @@
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
       },
@@ -429,6 +490,7 @@
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
       },
@@ -442,8 +504,19 @@
         "made_on": "2023-08-15",
         "deadline": "2047-08-15",
         "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/telangana/centre-to-support-telangana-more-vigorously-pm-modi-in-hyderabad/article70962140.ece",
+            "title": "PM Modi assures more support to Telangana, asks CM Revanth to collaborate with him - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-10 12:02:18.299435",
+            "relevance_score": 95,
+            "gemma_validated": true,
+            "rephrased": "**Prime Minister Narendra Modi** assured **Telangana Chief Minister A. Revanth Reddy** that the **Central government** would continue to support its development, emphasizing the importance of state-le"
+          }
+        ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is for 2047 and is still many years away."
+        "gemma_reasoning": "The promise is for 2047 and the current date is 2026."
       }
     ],
     "Amit Shah": [
@@ -457,6 +530,7 @@
         "made_on": "2018-09-17",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       }
@@ -472,6 +546,7 @@
         "made_on": "2015-02-14",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
@@ -485,6 +560,7 @@
         "made_on": "2015-02-14",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
       },
@@ -498,6 +574,7 @@
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       }
@@ -513,6 +590,7 @@
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
       }
@@ -528,6 +606,7 @@
         "made_on": "2017-03-19",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
       }
@@ -543,6 +622,7 @@
         "made_on": "2011-05-20",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not directly related to the provided news articles."
       }
@@ -560,6 +640,7 @@
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
@@ -573,6 +654,7 @@
         "made_on": "2014-03-15",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
       },
@@ -586,6 +668,7 @@
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -599,6 +682,7 @@
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -612,6 +696,7 @@
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
@@ -625,6 +710,7 @@
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not directly addressed in the provided articles."
       },
@@ -638,6 +724,7 @@
         "made_on": "2017-02-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
       },
@@ -651,6 +738,7 @@
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
@@ -664,8 +752,19 @@
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/assam/ucc-implementation-in-assam-muslim-organisations-seek-consultations-with-government/article71017321.ece",
+            "title": "UCC implementation in Assam: Muslim organisations seek consultations with government - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-24 15:50:48.926292",
+            "relevance_score": 77,
+            "gemma_validated": true,
+            "rephrased": "**Muslim religious and social organizations** in Assam have urged the **Assam government** to consult with them before implementing the Uniform Civil Code (UCC). The organizations, including factions "
+          }
+        ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "UCC implementation is being discussed and debated."
+        "gemma_reasoning": "Discussions and consultations regarding UCC implementation are ongoing."
       },
       {
         "id": "p010",
@@ -677,6 +776,7 @@
         "made_on": "2019-06-01",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
       },
@@ -690,6 +790,7 @@
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
       },
@@ -703,6 +804,7 @@
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
       },
@@ -716,6 +818,7 @@
         "made_on": "2018-09-17",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       },
@@ -729,6 +832,7 @@
         "made_on": "2017-03-19",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
       },
@@ -742,8 +846,19 @@
         "made_on": "2023-08-15",
         "deadline": "2047-08-15",
         "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/telangana/centre-to-support-telangana-more-vigorously-pm-modi-in-hyderabad/article70962140.ece",
+            "title": "PM Modi assures more support to Telangana, asks CM Revanth to collaborate with him - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-10 12:02:18.299435",
+            "relevance_score": 95,
+            "gemma_validated": true,
+            "rephrased": "**Prime Minister Narendra Modi** assured **Telangana Chief Minister A. Revanth Reddy** that the **Central government** would continue to support its development, emphasizing the importance of state-le"
+          }
+        ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is for 2047 and is still many years away."
+        "gemma_reasoning": "The promise is for 2047 and the current date is 2026."
       }
     ],
     "AAP": [
@@ -757,6 +872,7 @@
         "made_on": "2015-02-14",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
@@ -770,6 +886,7 @@
         "made_on": "2015-02-14",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
       },
@@ -783,6 +900,7 @@
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       }
@@ -798,6 +916,7 @@
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
       }
@@ -813,6 +932,7 @@
         "made_on": "2011-05-20",
         "deadline": "ongoing",
         "evidence_count": 0,
+        "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not directly related to the provided news articles."
       }

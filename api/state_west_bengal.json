@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 12:03:51.670920",
+  "generated_at": "2026-05-27 19:42:07.305621",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,31 +8,124 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 249,
-    "articles_last_30d": 164
+    "total_articles": 259,
+    "articles_last_30d": 166
   },
   "top_cities_30d": {
-    "Kolkata": 39,
+    "Kolkata": 40,
     "Delhi": 21,
-    "Chennai": 4,
-    "Bengaluru": 4,
-    "Hyderabad": 3,
-    "Mumbai": 2,
-    "Prayagraj": 1
+    "Chennai": 5,
+    "Bengaluru": 5,
+    "Hyderabad": 4,
+    "Mumbai": 3,
+    "Prayagraj": 1,
+    "Jaipur": 1,
+    "Bhopal": 1,
+    "Patna": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 148,
-    "education": 85,
+    "foreign_policy": 149,
+    "education": 87,
     "protest_opposition": 75,
     "infrastructure": 42,
     "crime_violence": 40,
-    "economy": 38,
+    "economy": 39,
     "farmer_agriculture": 19,
-    "corruption_scam": 16,
+    "corruption_scam": 15,
     "health": 10,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 62002,
+      "title": "Supreme Court hearing on Bihar SIR LIVE: SC to pronounce verdict - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar-sir-verdict-supreme-court-hearing-election-commission-live-updates-wednesday-may-27-2026/article71027586.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yg7h6t/article71027596.ece/alternates/LANDSCAPE_1200/26th-KDR-ShouldGBUF7N759.4.jpg.jpg",
+      "scraped_at": "2026-05-27 04:15:25.173879",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** will rule on Wednesday, May 27, 2026, regarding the constitutionality of the Special Intensive Revision (SIR) exercise in Bihar.  Petitions challenging the **Election Commission's** authority to conduct SIR on such a large scale have been filed. The ruling could impact future rounds of SIR, which have already taken place in several states including West Bengal, Tamil Nadu, and Assam.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 61967,
+      "title": "Fuel shortage hits pumps amid panic buying; OMCs call for calm, say supply is steady - The Hindu",
+      "url": "https://www.thehindu.com/news/national/fuel-shortage-hits-pumps-amid-panic-buying-omcs-call-for-calm-say-supply-is-steady/article71026429.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/r7ag3t/article71026554.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20HIKE%20DELHI%202026_26_05_14.jpg",
+      "scraped_at": "2026-05-26 23:45:43.067710",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Farmers** across several states in India are facing fuel shortages due to the recent hike in fuel prices.  The **Centre** has implemented price hikes to mitigate losses for its oil marketing companies (OMCs), but this has led to supply disruptions and long queues at petrol stations.  In Maharashtra, **farmers** are struggling to procure diesel for their tractors, while in Punjab, the **Punjab Petrol Pump Dealers Association** reports short supplies of both petrol and diesel. The situation is impacting agricultural activities and transportation, with some fuel stations even running dry.  The **Petroleum Ministry** has assured the public that there is no shortage of fuel but urged people to avoid panic buying.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai",
+        "Kolkata",
+        "Jaipur",
+        "Bhopal",
+        "Patna"
+      ],
+      "topic_tags": [
+        "education",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61963,
+      "title": "CBSE refutes claim that its marking portal was compromised - The Hindu",
+      "url": "https://www.thehindu.com/education/cbse-refutes-claim-that-its-marking-portal-was-compromised/article71025885.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8sp4ta/article71026578.ece/alternates/LANDSCAPE_1200/CBSE_10_RESULTS.jpg",
+      "scraped_at": "2026-05-26 23:44:54.977579",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "CBSE",
+      "rephrased_article": "The **Central Board of Secondary Education (CBSE)** has rejected claims that its Onscreen Marking System (OSM) portal was compromised.  **Nisarga Adhikary**, a West Bengal-based ethical hacker, alleged vulnerabilities in the portal and claimed to have hacked into it, but the **CBSE** stated that the URL mentioned by Mr. Adhikary was only for internal testing purposes and did not hold any actual evaluation data. The **CBSE** is investigating whether the OSM portal suffered a security breach and has received over 11 lakh applications from students requesting scanned copies of answer books.  The **CBSE** plans to fulfill pending requests by May 27th and launch a new portal for verification and re-evaluation on May 29th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 61938,
       "title": "Leadership tussle in Karnataka: Congress high command wants Siddaramaiah to move to Rajya Sabha, sources say, even as party officially denies - The Hindu",
@@ -6061,113 +6154,6 @@
         "foreign_policy",
         "corruption_scam",
         "crime_violence"
-      ]
-    },
-    {
-      "id": 53509,
-      "title": "West Bengal: Chief Minister walking into an ongoing ED raid is not a Centre-State dispute, Supreme Court says - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/chief-minister-walking-into-an-ongoing-ed-raid-is-not-a-centre-state-dispute-supreme-court-says/article70892645.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ypvjic/article70892682.ece/alternates/LANDSCAPE_1200/19th-krishnadasGV4FK2F5P.3.jpg.jpg",
-      "scraped_at": "2026-04-23 04:02:23.406404",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Mamata Banerjee",
-      "rephrased_article": "The **Supreme Court** ruled that **Mamata Banerjee**, the West Bengal Chief Minister, cannot be considered to have initiated a dispute between the State and the Centre. The court stated that her actions during an ongoing ED raid were not a matter of state versus federal jurisdiction but rather an individual's conduct.  The court will reserve its decision after the ED presents its rejoinder arguments on April 23rd.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 53506,
-      "title": "Poll-related seizures cross ₹1,000 crore in Tamil Nadu and West Bengal - The Hindu",
-      "url": "https://www.thehindu.com/news/national/poll-seizures-in-tamil-nadu-west-bengal-cross-1000-crore-mark/article70892888.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2pprjd/article70892970.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202026_22_04_6.jpg",
-      "scraped_at": "2026-04-23 04:01:19.501683",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "The **Election Commission of India (ECI)** reported that seizures exceeding ₹1,000 crore have been made in Tamil Nadu and West Bengal ahead of the Assembly elections.  **Freebies**, cash, drugs, precious metals, and liquor worth a combined total of ₹1,072.13 crore have been recovered since February 26th. The ECI has deployed over 5,000 Flying Squad Teams and Static Surveillance Teams to ensure violence-free elections in the two states.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 53502,
-      "title": "Election Commission, and not the BJP, seems to be fighting Trinamool in West Bengal, says Kapil Sibal - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/election-commission-and-not-the-bjp-seems-to-be-fighting-trinamool-in-west-bengal-says-kapil-sibal/article70893109.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/frh9a6/article70893548.ece/alternates/LANDSCAPE_1200/20260416260L.jpg",
-      "scraped_at": "2026-04-23 04:00:02.845367",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Kapil Sibal**, a senior Supreme Court lawyer and Rajya Sabha MP, criticized the **Election Commission of India (ECI)**'s actions in West Bengal ahead of the upcoming elections. He accused the **EC** and the **BJP** of working together to suppress the Trinamool Congress (TMC), alleging an \"unconstitutional Emergency\" and a disproportionate deployment of Central Armed Police Forces (CAPF).  Other opposition leaders, including **Arvind Kejriwal**, have also expressed concern over the situation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "TMC",
-        "Trinamool",
-        "Samajwadi Party",
-        "SP",
-        "RJD",
-        "Janata Dal"
-      ],
-      "ministers_mentioned": [
-        "Modi",
-        "Arvind Kejriwal",
-        "Kejriwal",
-        "Mamata Banerjee",
-        "Mamata",
-        "Hemant Soren",
-        "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Jharkhand",
-        "Manipur",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy",
-        "protest_opposition"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 12:03:51.669423",
+  "generated_at": "2026-05-27 19:42:07.303950",
   "state": "Uttarakhand",
   "capital": "Dehradun",
   "ruling_party": "BJP",
@@ -8,29 +8,58 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 21,
+    "total_articles": 23,
     "articles_last_30d": 16
   },
   "top_cities_30d": {
     "Delhi": 8,
     "Pune": 1,
     "Kanpur": 1,
-    "Allahabad": 1,
-    "Prayagraj": 1
+    "Indore": 1,
+    "Bhopal": 1
   },
   "top_topics_30d": {
     "foreign_policy": 16,
     "education": 7,
     "protest_opposition": 6,
+    "crime_violence": 5,
     "infrastructure": 5,
-    "crime_violence": 4,
-    "economy": 3,
+    "rape_sexual_crime": 2,
     "farmer_agriculture": 2,
-    "rape_sexual_crime": 1,
+    "economy": 2,
     "health": 1,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 61972,
+      "title": "Twisha Sharma death: Madhya Pradesh DGP defends Bhopal Police as CBI takes over case, launches probe - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-madhya-pradesh-dgp-defends-bhopal-police-as-cbi-takes-over-case-launches-probe/article71026019.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hfs6te/article71026530.ece/alternates/LANDSCAPE_1200/20260526101L.jpg",
+      "scraped_at": "2026-05-26 23:47:00.861802",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Bhopal Police",
+      "rephrased_article": "**Madhya Pradesh** Director General of Police (DGP) Kailash Makwana stated that the **Bhopal Police** followed established procedures in the Twisha Sharma death case, which was subsequently taken over by the **Central Bureau of Investigation (CBI)**.  The family has alleged institutional bias and procedural lapses by local police, including accusations against retired district judge Giribala Singh, who is an accused in the dowry death and harassment case. The CBI team visited Ms. Singh's residence and questioned her while also meeting with the victim’s family members. The **High Court** will hear petitions challenging Ms. Singh’s anticipatory bail on May 27th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Indore",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 60823,
       "title": "Indigenous Vayu Astra-1 completes high-altitude trials in Uttarakhand, Pokhran - The Hindu",
@@ -676,6 +705,38 @@
       "sentiment": "positive",
       "sentiment_target": "Narendra Modi",
       "rephrased_article": "**Prime Minister Narendra Modi** inaugurated a six-lane Delhi-Dehradun expressway, a ₹12,000-crore project that is expected to reduce travel time between the two cities. The 213-km corridor will connect key towns in Uttar Pradesh and integrate with major national corridors. **Mr. Modi** highlighted the project's transformative impact on regional connectivity, trade, industry, and tourism.  The project also includes wildlife corridors and amenities for improved safety and access to markets. **Nitin Gadkari**, Union Minister for Road Transport and Highways, emphasized ongoing infrastructure development in Uttarakhand, including projects aimed at improving access to pilgrimage centers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Meerut"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 51132,
+      "title": "PM inaugurates Delhi-Dehradun expressway - The Hindu",
+      "url": "https://www.thehindu.com/news/national/modi-dehradun-delhi-expressway-roadshow-april-14-2026/article70860593.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/q28hza/article70860611.ece/alternates/LANDSCAPE_1200/PTI04_14_2026_000089B.jpg",
+      "scraped_at": "2026-04-14 15:55:06.027179",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prime Minister Narendra Modi** inaugurated a six-lane Delhi-Dehradun expressway, a ₹12,000-crore project that aims to reduce travel time between the two cities. The 213-km corridor will significantly improve regional connectivity and integrate with major national corridors. **Mr. Modi** highlighted the government's focus on infrastructure development and its impact on tourism in Uttarakhand, noting a surge in visitor numbers to pilgrimage sites like Adi Kailash and Om Parvat.  Union Minister for Road Transport and Highways **Nitin Gadkari** announced several connectivity projects slated for completion or launch over the next two years, including a four-lane bypass at Rudraprayag and Kashipur, as well as a greenfield corridor between Delhi and Haridwar.",
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",

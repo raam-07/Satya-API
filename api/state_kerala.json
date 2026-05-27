@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 12:03:51.620993",
+  "generated_at": "2026-05-27 19:42:07.250025",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 374,
-    "articles_last_30d": 244
+    "total_articles": 379,
+    "articles_last_30d": 245
   },
   "top_cities_30d": {
-    "Delhi": 28,
+    "Delhi": 29,
     "Bengaluru": 13,
     "Chennai": 12,
     "Kolkata": 8,
@@ -24,7 +24,7 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 210,
+    "foreign_policy": 211,
     "protest_opposition": 94,
     "education": 65,
     "infrastructure": 51,
@@ -32,10 +32,39 @@
     "crime_violence": 32,
     "health": 24,
     "farmer_agriculture": 23,
-    "corruption_scam": 17,
+    "corruption_scam": 18,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 61989,
+      "title": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/ed-raids-former-kerala-cm-pinarayi-vijayans-house-in-cmrl-pay-off-case/article71027597.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/6nhx3k/article71027600.ece/alternates/LANDSCAPE_1200/Pinarayi%20house%20raid.jpg",
+      "scraped_at": "2026-05-27 04:12:25.958544",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**The Enforcement Directorate (ED)** conducted raids on the homes of former Kerala Chief Minister Pinarayi Vijayan and his family, along with other locations across the state, in connection with an investigation into alleged political payoffs. The ED's action followed a High Court order allowing them to investigate **Exalogic**, a firm owned by Vijayan's daughter, T. Veena, which allegedly received monthly retainers from **Cochin Minerals and Rutile Limited (CMRL)** during the 2017-2021 period without providing tangible services. The ED is investigating whether these payments constituted money laundering.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61938,
       "title": "Leadership tussle in Karnataka: Congress high command wants Siddaramaiah to move to Rajya Sabha, sources say, even as party officially denies - The Hindu",
@@ -5542,27 +5571,6 @@
         "infrastructure",
         "health",
         "education"
-      ]
-    },
-    {
-      "id": 56262,
-      "title": "Kerala Assembly Polls: Official declaration of results likely by 5 p.m. on May 4 - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-official-declaration-of-results-likely-by-5-pm-on-may-4/article70934812.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/5fpyfe/article70934903.ece/alternates/LANDSCAPE_1200/TH24-REVISED-SrG1NFG1A8U.3.jpg.jpg",
-      "scraped_at": "2026-05-03 11:00:52.739321",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Kerala Assembly",
-      "rephrased_article": "**Election Commission of India (EC)** officials are overseeing the counting of votes from the April 9 Kerala Assembly elections, with results expected by 5 p.m. on Monday. **Chief Electoral Officer Kerala (CEO Kerala) Rathan U. Kelkar** emphasized accuracy over speed in the vote count process, noting that lapses could lead to disciplinary action.  The voter turnout has been updated to 79.7% and postal ballots will be counted first. The Model Code of Conduct remains in effect until May 6 or until the EC decides otherwise.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

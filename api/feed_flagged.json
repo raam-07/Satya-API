@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-27 12:03:51.495601",
-  "total": 118,
+  "generated_at": "2026-05-27 19:42:07.092988",
+  "total": 130,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 92,
-    "institutional_failure": 14,
+    "power_abuse": 102,
+    "institutional_failure": 16,
     "scale_of_harm": 8,
     "suppression": 4
   },
@@ -1047,6 +1047,161 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Multiple allegations of sexual misconduct against a public figure warrant urgent attention."
+    },
+    {
+      "id": 51167,
+      "title": "Modi asks BJP workers in Bengal to list Trinamool’s ‘crimes’ - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/modi-asks-bjp-workers-in-bengal-to-list-trinamools-crimes/article70862154.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/76yq65/article70859825.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG24FRM1QQ.3.jpg.jpg",
+      "scraped_at": "2026-04-14 18:47:57.259861",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "Prime Minister Narendra Modi urged BJP workers in West Bengal to compile a list of \"crimes\" and \"failures\" committed by the Trinamool Congress government, claiming that fear and unease are prevalent across the state.  He emphasized the importance of booth-level victories for overall success, urging workers to address women's concerns and remind voters about past incidents of violence perpetrated by the ruling party. The West Bengal elections will take place in two phases on April 23 and 29 with results announced on May 4th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "It encourages political targeting and potentially incites violence."
+    },
+    {
+      "id": 51028,
+      "title": "Greek police using masked 'mercenaries' to push migrants back across border",
+      "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/92bc/live/98703620-3753-11f1-8606-05fe34b06e1b.jpg",
+      "scraped_at": "2026-04-14 05:29:44.273156",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Greek Government",
+      "rephrased_article": "Greek police are using masked migrants to forcibly push other migrants back across the border with Turkey.  Internal documents and witness accounts reveal allegations of brutality, including sexual assault, beatings, and theft. The Greek government denies any knowledge of these practices while Frontex, the EU border agency, claims it helps ensure borders are managed lawfully.  The BBC has gathered evidence from migrants, former mercenaries, police sources, official documents, and leaked transcripts, suggesting a system of forced returns involving third-country nationals who have been recruited by Greek authorities. The Fundamental Rights Office, an independent investigator within Frontex, has documented numerous incidents of alleged pushbacks, with victims reporting physical and verbal abuse, including death threats and rape.  The Greek government has not responded to requests for comment on the allegations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "corruption_scam",
+        "rape_sexual_crime",
+        "economy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of brutality and abuse of power by Greek police against migrants are deeply concerning."
+    },
+    {
+      "id": 51017,
+      "title": "Pakistan hospital at centre of child HIV outbreak caught reusing syringes in BBC film",
+      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/96a9/live/d0bea210-3423-11f1-879d-1b2f5c3919b8.jpg",
+      "scraped_at": "2026-04-14 02:57:48.608196",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "THQ Taunsa",
+      "rephrased_article": "THQ Taunsa, a government hospital in Pakistan, has been found to be reusing syringes and violating safe injection practices.  A BBC Eye investigation revealed that the hospital reused syringes on multiple occasions, potentially contaminating medicine vials and posing a risk of HIV transmission. Despite warnings from medical experts, the hospital's leadership has denied these allegations and claimed the outbreak was not caused by their facility. The investigation also found evidence of unsafe injection practices at other hospitals in Pakistan, including Kulsoom Bai Valika Hospital in Karachi, where contaminated syringes were used on multiple children.  The government has promised to investigate the issue but families affected by the outbreak are struggling with stigma and fear for their children's health.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "protest_opposition",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Reusing syringes poses a severe risk of HIV transmission, indicating a dangerous public health crisis."
+    },
+    {
+      "id": 61989,
+      "title": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/ed-raids-former-kerala-cm-pinarayi-vijayans-house-in-cmrl-pay-off-case/article71027597.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/6nhx3k/article71027600.ece/alternates/LANDSCAPE_1200/Pinarayi%20house%20raid.jpg",
+      "scraped_at": "2026-05-27 04:12:25.958544",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "The Enforcement Directorate (ED) conducted raids on the homes of former Kerala Chief Minister Pinarayi Vijayan and his family, along with other locations across the state, in connection with an investigation into alleged political payoffs. The ED's action followed a High Court order allowing them to investigate Exalogic, a firm owned by Vijayan's daughter, T. Veena, which allegedly received monthly retainers from Cochin Minerals and Rutile Limited (CMRL) during the 2017-2021 period without providing tangible services. The ED is investigating whether these payments constituted money laundering.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Raids on a former CM's home raise concerns about potential abuse of power."
+    },
+    {
+      "id": 61971,
+      "title": "Fast-track court frames charges against seven accused in Zubeen Garg death case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/fast-track-court-frames-charges-against-seven-accused-in-zubeen-garg-death-case/article71025511.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i8iiwd/article71026542.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000406B.jpg",
+      "scraped_at": "2026-05-26 23:46:44.085767",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Shyamkanu Mahanta",
+      "rephrased_article": "Zubeen Garg, the renowned cultural icon, was found dead in Singapore in September 2025. Assam Chief Minister Himanta Biswa Sarma stated that Garg’s death was a result of a conspiracy, while a Singapore coroner's inquiry concluded it was an accidental drowning.  A special fast-track court on Tuesday (May 26, 2026) framed charges against seven accused, including Shyamkanu Mahanta, the event organizer, and Siddharth Sharma, Garg’s manager, for murder. The trial is scheduled to begin on June 8th.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article suggests a potential cover-up of a celebrity's death by powerful figures."
     },
     {
       "id": 61827,
@@ -3071,6 +3226,202 @@
       "civic_flag_reason": "Families of apartheid victims are still denied justice, highlighting institutional failure."
     },
     {
+      "id": 51071,
+      "title": "Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live | World news | The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/4994af07ec4ad151a13a12befd796ec525625803/231_0_2218_1775/master/2218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b9fc959da307847d263f8d2a93c6886c",
+      "scraped_at": "2026-04-14 09:11:18.701321",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Viktor Orbán",
+      "rephrased_article": "Péter Magyar, the newly elected Hungarian prime minister, will meet with Tamás Sulyok, the president, to discuss forming a government following his victory over Viktor Orbán.  JD Vance, US vice-president, defended his decision to travel to Budapest last week to interfere in the election, stating it was not about Russia or Europe but a sign of appreciation for Orbán's defense of American interests.  Tineke Strik, a Dutch Green MEP and lead coordinator on Hungary's rule of law, expressed hope that Péter Magyar's government can restore the rule of law thanks to its sweeping parliamentary majority. She also highlighted the importance of EU cooperation in addressing concerns about corruption and frozen funds.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "US interference in a foreign election is a serious concern."
+    },
+    {
+      "id": 50986,
+      "title": "ED arrests I-PAC director in West Bengal coal 'scam' case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/ed-arrests-i-pac-director-in-west-bengal-coal-scam-case/article70859049.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/efjfgv/article70415709.ece/alternates/LANDSCAPE_1200/vbk-stock-enforcement%20directorate-ed1-reuters.jpg",
+      "scraped_at": "2026-04-13 23:00:52.230670",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "Enforcement Directorate (ED) arrested Vinesh Chandel, a director of political consultancy firm I-PAC, in Delhi on Monday, April 13, 2026, for money laundering in connection with an alleged coal scam in West Bengal.  The arrest was made under the Prevention of Money Laundering Act (PMLA) and Mr. Chandel is expected to be produced before a special court tonight. ED raids were conducted at various locations including Delhi, Bengaluru, Mumbai, and Kolkata as part of the investigation. The agency has requested a CBI probe into this alleged \"gross abuse of power\" by West Bengal Chief Minister Mamata Banerjee.",
+      "party_mentioned": [
+        "AAP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "corruption_scam",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Arrest for money laundering in a coal scam raises concerns about corruption and abuse of power."
+    },
+    {
+      "id": 50985,
+      "title": "Locals block highway in J&K after man ‘attacked by cow vigilantes’ goes missing - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/locals-block-highway-in-jk-after-man-attacked-by-cow-vigilantesgoes-missing/article70858418.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-13 23:00:18.749884",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Jammu and Kashmir Police",
+      "rephrased_article": "Following the alleged attack on Tanveer Ahmad Chopan, a man who was reportedly attacked by two car-borne individuals while transporting his milch cow and calves, protests erupted in Jammu and Kashmir.  Locals blocked the Jammu-Srinagar National Highway near Ramsoo demanding the authorities locate him. The incident has drawn sharp criticism from political parties and leaders, with some calling the alleged attackers \"terrorists\" due to the severity of the attack. The Jammu and Kashmir Police have registered an FIR and detained four suspects while a special investigation team has been formed to investigate.",
+      "party_mentioned": [
+        "PDP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Alleged cow vigilante attack and disappearance raise concerns about mob violence and justice."
+    },
+    {
+      "id": 50971,
+      "title": "Two-cornered contest at the drought-prone Bargur constituency - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/two-cornered-contest-at-the-drought-prone-bargur-constituency/article70858094.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/whjfst/article70859001.ece/alternates/LANDSCAPE_1200/50CP_bargur-01.jpg",
+      "scraped_at": "2026-04-13 22:05:16.284841",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "The Bargur Assembly constituency in Tamil Nadu is facing a two-cornered contest between the DMK's D. Mathiazhagan and the AIADMK's E.C. Govinddarasan.  Mathiazhagan, who switched from the Rajini Makkal Mandram to the DMK, has been accused of exploiting his business interests in the pulp industry and granite quarrying to gain political power. Govinddarasan, formerly a DMK member, is facing accusations of forming an industry consortium that denied fair prices for mango growers. The constituency's history is marked by strong AIADMK support, but recent factionalism within the party has cast doubt on its traditional loyalty.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "protest_opposition",
+        "corruption_scam",
+        "infrastructure"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article alleges abuse of power through business interests for political gain."
+    },
+    {
+      "id": 50961,
+      "title": "Three held for murder of forest guard who tried to stop sand mafia tractor; two linked to BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/three-held-for-murder-of-forest-guard-who-tried-to-stop-sand-mafia-tractor-two-linked-to-bjp/article70858269.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/axe4ip/article70859140.ece/alternates/LANDSCAPE_1200/IMG_TH_-_10217_12-2-2019_2_1_KBC1POON.jpg",
+      "scraped_at": "2026-04-13 22:02:27.876647",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Harkesh Gurjar, a forest guard, was fatally run over by a tractor belonging to the local sand mafia in Madhya Pradesh's Morena district on April 8.  The prime accused, Vinod Kori, was apprehended from Ahmedabad and has been brought to Morena. The other two accused, Sonu Chouhan and Pawan Tomar, were arrested from the district on April 10 and 12 respectively. Kamlesh Kushwaha, the Morena district BJP president, confirmed that both Chouhan and Tomar are linked to the party and have been issued notices for their involvement in the case. The Supreme Court has recently criticized the governments of Madhya Pradesh and Rajasthan over illegal sand mining in the National Chambal Gharial Sanctuary.",
+      "party_mentioned": [
+        "BJP",
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ahmedabad",
+        "Agra"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Abuse of power by sand mafia resulting in murder of a public servant."
+    },
+    {
+      "id": 62031,
+      "title": "HDFC Bank shares fall 2% on reports of internal probe over Rs 45 cr interest payments - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-2-amid-reports-of-internal-probe-into-rs-45-crore-interest-payments/articleshow/131342352.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131342339,width-1200,height-630,imgsize-38692,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-27 08:33:18.200475",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "HDFC Bank",
+      "rephrased_article": "HDFC Bank allegedly routed differential interest payments to the Maharashtra State Road Development Corporation (MSRDC), a state government agency, through its marketing department disguised as road safety awareness campaign sponsorship. This practice violated RBI regulations and the bank's own anti-bribery policy. The bank’s former chairman, Atanu Chakraborty, resigned on March 18th citing ethical concerns related to these practices.  The bank's share prices have declined significantly since the resignation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "corruption_scam",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Alleged abuse of power and violation of regulations by a major bank raises serious concerns."
+    },
+    {
       "id": 61772,
       "title": "Bengaluru digital arrest scam: Accused linked to ₹15 crore Belagavi cyber fraud too - The Hindu",
       "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-digital-arrest-scam-accused-linked-to-15-crore-belagavi-cyber-fraud-too/article71022093.ece",
@@ -3528,6 +3879,31 @@
       "civic_flag_score": 8,
       "civic_flag_category": "scale_of_harm",
       "civic_flag_reason": "The article raises concerns about potential manipulation of electoral boundaries for political gain."
+    },
+    {
+      "id": 51009,
+      "title": "Axis Bank manager arrested for embezzling ₹6.5 crore from NRI account - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/axis-bank-manager-arrested-for-embezzling-65-crore-from-nri-account/article70858770.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-13 23:57:49.182197",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Axis Bank",
+      "rephrased_article": "Axis Bank manager Venkataramana was arrested on April 13th in connection with the alleged embezzlement of ₹6.5 crore from an NRI customer's account at its Begumpet branch.  The complainant, Paritosh Upadhyay, based in Australia, discovered unauthorized withdrawals of funds and alleges that bank staff forged his signature to issue multiple cheques. Mr. Upadhyay reported the matter to senior officials including CEO Amitabh Chaudhary, but received no response. Police are investigating further.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Abuse of power by a bank employee resulting in significant financial harm to a citizen."
     }
   ]
 }
