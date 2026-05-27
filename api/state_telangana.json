@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 19:42:07.290243",
+  "generated_at": "2026-05-27 23:41:29.206099",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 183,
-    "articles_last_30d": 110
+    "total_articles": 187,
+    "articles_last_30d": 111
   },
   "top_cities_30d": {
-    "Hyderabad": 39,
+    "Hyderabad": 40,
     "Delhi": 8,
     "Mumbai": 5,
     "Bengaluru": 3,
@@ -24,18 +24,88 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 97,
+    "foreign_policy": 98,
     "infrastructure": 37,
-    "education": 34,
-    "economy": 24,
+    "education": 33,
+    "economy": 25,
     "farmer_agriculture": 16,
-    "protest_opposition": 14,
+    "protest_opposition": 15,
     "health": 9,
+    "crime_violence": 8,
     "rape_sexual_crime": 7,
-    "crime_violence": 7,
     "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 62182,
+      "title": "Excise crackdown: Over 1,200 cases booked; large quantities of illicit liquor, ganja and drugs seized across Telangana - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/excise-crackdown-over-1200-cases-booked-large-quantities-of-illicit-liquor-ganja-and-drugs-seized-across-telangana/article71029312.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wxarp2/article71029307.ece/alternates/LANDSCAPE_1200/excise%20crackdown%20copy%20.jpeg",
+      "scraped_at": "2026-05-27 20:43:33.723345",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Excise officials",
+      "rephrased_article": "**Excise officials** in **Telangana** have conducted a statewide crackdown on illicit liquor, resulting in the booking of 1,218 individuals. The operation, involving joint efforts from the **Excise Department**, **State Task Force (STF)**, **District Task Force (DTF)**, **Enforcement teams**, and the **Drugs Control Administration (DCA)**, has led to the seizure of significant quantities of illicit liquor, ganja, and other narcotics.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62119,
+      "title": "Funds sanctioned to three corporations towards property tax dues - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/funds-sanctioned-to-three-corporations-towards-property-tax-dues/article71030431.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-27 18:35:17.461520",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana government",
+      "rephrased_article": "**The Telangana government** has approved a ₹1,686.39 crore One Time Settlement (OTS) scheme for settling long-pending property tax arrears on government properties in **Greater Hyderabad Municipal Corporation**, **Cyberabad Municipal Corporation**, and **Malkajgiri Municipal Corporation**. The scheme offers a 100% waiver on accumulated interest and penalties, with the government clearing the arrears through installments within one year.  The Finance Department released budget orders for the amount on May 26th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 62092,
+      "title": "Heatwave eases briefly in Andhra Pradesh, severe conditions likely to return on May 28 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/heatwave-eases-briefly-in-andhra-pradesh-severe-conditions-likely-to-return-on-may-28/article71030108.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qht8m8/article71030530.ece/alternates/LANDSCAPE_1200/9604_27_5_2026_16_45_29_2_IMG_20260527_WA0004.JPG",
+      "scraped_at": "2026-05-27 16:01:17.139995",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**Andhra Pradesh** experienced a brief respite from the relentless heatwave that gripped the state for nearly a week, with temperatures dropping below 44°C on Wednesday. The highest temperature recorded was 41.8°C at Salur. However, the **India Meteorological Department (IMD)** and the **A.P. State Disaster Management Authority (APSDMA)** warned that severe heatwave conditions are expected to return in over 100 mandals across several districts on Thursday and Friday. The weather activity is influenced by a trough extending from north Bihar to south Telangana, along with an upper air cyclonic circulation persisting over the north Tamil Nadu coast.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
     {
       "id": 61982,
       "title": "CM for enabling panchayats to credit their own source revenue in bank accounts - The Hindu",
@@ -4715,6 +4785,25 @@
       "topic_tags": [
         "infrastructure"
       ]
+    },
+    {
+      "id": 50895,
+      "title": "RTC employees to on strike from April 22 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/rtc-employees-to-on-strike-from-april-22/article70858878.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-13 18:11:42.927585",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**The Road Transport Corporation Joint Action Committee (JAC)** announced plans for a statewide strike beginning April 22nd, citing unresolved demands including wage revisions, job security, and the merger of the corporation with the state government. The **Telangana Mazdoor Union**, which serves as the JAC's chairman, issued a strike notice in March, demanding immediate action on outstanding issues such as salary revisions for 2021 and 2025, provident fund and CCS dues, and safeguards for conductors and drivers.  The JAC also requested that the government directly procure electric buses for the corporation. The proposed strike is expected to be \"indefinite and intense.\"",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     }
   ]
 }

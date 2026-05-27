@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 19:42:07.278505",
+  "generated_at": "2026-05-27 23:41:29.195609",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 74,
-    "articles_last_30d": 46
+    "total_articles": 76,
+    "articles_last_30d": 48
   },
   "top_cities_30d": {
-    "Delhi": 16,
+    "Delhi": 18,
     "Mumbai": 6,
     "Jaipur": 5,
     "Pune": 3,
@@ -24,17 +24,73 @@
     "Bangalore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 42,
+    "foreign_policy": 44,
     "education": 17,
     "protest_opposition": 15,
     "infrastructure": 10,
+    "crime_violence": 10,
     "economy": 10,
     "farmer_agriculture": 9,
-    "crime_violence": 9,
     "corruption_scam": 8,
     "health": 8
   },
   "recent_articles": [
+    {
+      "id": 62171,
+      "title": "India orders demolition drive along border as Pakistan tensions simmer | India-Pakistan Tensions News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/05/epa_683827b8f171-1748510649.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-27 20:39:05.390304",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "India-Pakistan relations",
+      "rephrased_article": "**India's** interior minister, Amit Shah, ordered the demolition of buildings within 15km of the border with **Pakistan**, citing the need to address \"trans-border crimes\" including infiltration and narcotics smuggling.  Shah also directed officials to enforce a zero-tolerance policy against illegal constructions along the border. This action comes amid heightened tensions between the two South Asian neighbors, following last year's deadly conflict in Kashmir.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62108,
+      "title": "India orders demolition drive along Pakistan border - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003500/india-orders-demolition-drive-along-pakistan-border",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/27231938809464b.webp",
+      "scraped_at": "2026-05-27 18:33:01.392913",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Amit Shah**, India's interior minister, ordered the demolition of illegal buildings within 15 kilometers of the Pakistan border.  He emphasized a zero-tolerance policy against such constructions and directed authorities to demolish all unauthorized structures. **Shah** also urged increased efforts to address infiltration, narcotics smuggling, encroachment, terror financing, and other trans-border crimes. This order was issued during a visit to Rajasthan, which borders Pakistan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61990,
       "title": "Senco Gold shares fall 3% despite 151% jump in Q4 net profit; firm tops FY26 guidance - The Economic Times",

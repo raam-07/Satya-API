@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 19:42:07.266890",
+  "generated_at": "2026-05-27 23:41:29.185043",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 95,
-    "articles_last_30d": 64
+    "total_articles": 97,
+    "articles_last_30d": 66
   },
   "top_cities_30d": {
     "Delhi": 14,
@@ -17,24 +17,82 @@
     "Chennai": 4,
     "Mumbai": 4,
     "Visakhapatnam": 4,
-    "Kolkata": 3,
+    "Kolkata": 4,
     "Jaipur": 2,
     "Hyderabad": 2,
     "Srinagar": 2,
     "Kanpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 56,
+    "foreign_policy": 58,
     "education": 32,
     "infrastructure": 21,
+    "protest_opposition": 16,
     "economy": 16,
-    "protest_opposition": 14,
     "health": 10,
-    "crime_violence": 7,
-    "corruption_scam": 7,
+    "crime_violence": 8,
+    "corruption_scam": 8,
     "farmer_agriculture": 7
   },
   "recent_articles": [
+    {
+      "id": 62130,
+      "title": "TDP leverages technology in organising hybrid Mahanadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leverages-technology-in-organising-hybrid-mahanadu/article71030084.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9huicx/article71030401.ece/alternates/LANDSCAPE_1200/VSP28_Mahanadu%203.JPG",
+      "scraped_at": "2026-05-27 19:28:08.979584",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "TDP",
+      "rephrased_article": "**The Telugu Desam Party (TDP)** held its virtual Mahanadu 2026, a hybrid event with over seven lakh cadres participating. The two-day conclave featured a timer for speeches and utilized technology to manage the organization. **Chief Minister N. Chandrababu Naidu** delivered his presidential message to participants across the state, utilizing a GPS-enabled digital invitation system and a central command-and-control center.  The event aimed to be cost-efficient and inclusive by leveraging technology.",
+      "party_mentioned": [
+        "TDP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62109,
+      "title": "Trinamool MLA arrested, several leaders quit party post - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-mla-arrested-several-leaders-quit-party-post/article71030200.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/biy7fa/article71030846.ece/alternates/LANDSCAPE_1200/Screenshot%201879.png",
+      "scraped_at": "2026-05-27 18:33:12.733256",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Dilip Mondal**, a Trinamool Congress MLA from Bishnupur, was arrested by **West Bengal police** in Odisha on Wednesday (May 27, 2026) after days of evading arrest. The arrest follows an investigation into alleged threats against **BJP** workers during the West Bengal Assembly elections and a previous complaint filed against him.  The arrest marks the first time a sitting MLA has been apprehended by **West Bengal police**. This comes amidst a wave of arrests targeting local Trinamool Congress workers, including former Minister **Sujit Bose**, for their alleged involvement in corruption and post-poll violence. The situation is further complicated by mass resignations from Trinamool leaders, including senior leader **Kakoli Ghosh Dastidar** and several councillors.  The party's leadership is also facing criticism for the lack of a designated space for the Leader of Opposition, **Sovandeb Chattopadhyay**, in the West Bengal Assembly premises.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
     {
       "id": 61980,
       "title": "Raichur MP raises concern over proposed Information Technology Act amendments - The Hindu",

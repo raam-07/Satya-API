@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 19:42:07.240102",
+  "generated_at": "2026-05-27 23:41:29.160435",
   "state": "Jharkhand",
   "capital": "Ranchi",
   "ruling_party": "JMM",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 30,
+    "total_articles": 31,
     "articles_last_30d": 18
   },
   "top_cities_30d": {
     "Ranchi": 5,
     "Delhi": 3,
-    "Bengaluru": 2,
+    "Bengaluru": 1,
     "Hyderabad": 1,
     "Visakhapatnam": 1,
     "Srinagar": 1,
@@ -25,16 +25,40 @@
   },
   "top_topics_30d": {
     "foreign_policy": 15,
-    "economy": 5,
     "protest_opposition": 5,
+    "economy": 4,
     "education": 4,
     "infrastructure": 3,
-    "crime_violence": 2,
     "farmer_agriculture": 2,
     "corruption_scam": 1,
-    "health": 1
+    "health": 1,
+    "crime_violence": 1
   },
   "recent_articles": [
+    {
+      "id": 62092,
+      "title": "Heatwave eases briefly in Andhra Pradesh, severe conditions likely to return on May 28 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/heatwave-eases-briefly-in-andhra-pradesh-severe-conditions-likely-to-return-on-may-28/article71030108.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qht8m8/article71030530.ece/alternates/LANDSCAPE_1200/9604_27_5_2026_16_45_29_2_IMG_20260527_WA0004.JPG",
+      "scraped_at": "2026-05-27 16:01:17.139995",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**Andhra Pradesh** experienced a brief respite from the relentless heatwave that gripped the state for nearly a week, with temperatures dropping below 44°C on Wednesday. The highest temperature recorded was 41.8°C at Salur. However, the **India Meteorological Department (IMD)** and the **A.P. State Disaster Management Authority (APSDMA)** warned that severe heatwave conditions are expected to return in over 100 mandals across several districts on Thursday and Friday. The weather activity is influenced by a trough extending from north Bihar to south Telangana, along with an upper air cyclonic circulation persisting over the north Tamil Nadu coast.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
     {
       "id": 61837,
       "title": "‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger | Education News | Al Jazeera",

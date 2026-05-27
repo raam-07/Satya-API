@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 19:42:07.271042",
+  "generated_at": "2026-05-27 23:41:29.188868",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 204,
+    "total_articles": 207,
     "articles_last_30d": 142
   },
   "top_cities_30d": {
@@ -16,26 +16,70 @@
     "Amritsar": 3,
     "Ludhiana": 3,
     "Hyderabad": 2,
-    "Bhopal": 2,
     "Mumbai": 2,
     "Faridabad": 1,
     "Surat": 1,
     "Rajkot": 1,
-    "Ghaziabad": 1
+    "Ghaziabad": 1,
+    "Bengaluru": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 136,
-    "infrastructure": 48,
-    "economy": 47,
+    "foreign_policy": 137,
+    "economy": 49,
+    "infrastructure": 47,
     "education": 47,
     "protest_opposition": 45,
-    "crime_violence": 42,
+    "crime_violence": 41,
     "health": 23,
-    "farmer_agriculture": 20,
+    "farmer_agriculture": 19,
     "corruption_scam": 15,
     "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 62139,
+      "title": "Supreme Court upholds spouse’s right to joint posting - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003360/supreme-court-upholds-spouses-right-to-joint-posting",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/270733078e8ea88.webp",
+      "scraped_at": "2026-05-27 19:30:36.672792",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Supreme Court of Pakistan",
+      "rephrased_article": "The **Supreme Court** of Pakistan ruled that government employees covered under the wedlock policy have a legitimate expectation to be considered for joint postings unless compelling public interest dictates otherwise. The court overturned a lower tribunal's rejection of Naheeda Aziz's transfer request, citing federal and provincial governments' policies aimed at mitigating socio-economic hardships faced by married couples in government service due to different duty stations.  The court ordered the relevant authorities to reconsider her application within 15 days and emphasized that such beneficial policies should not be frustrated on technical grounds.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 62123,
+      "title": "Tomato, onion and flour rates surge - Newspaper - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003380/tomato-onion-and-flour-rates-surge",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/2708032707318bd.webp",
+      "scraped_at": "2026-05-27 18:36:14.552169",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "economy",
+      "rephrased_article": "**Consumers** are facing rising prices for essential items like onions, tomatoes, and flour ahead of Eidul Azha. **Haji Shahjahan**, President of the **Falahi Anjuman Wholesale Vegetable Market**, attributes the price hikes to low onion and tomato arrivals from Sindh and Balochistan, as well as increased demand.  **Waheed Ahmed**, Patron-in-Chief of the All Pakistan Fruit and Vegetable Exporters, Importers and Merchants Association, reports a sharp decline in vegetable exports due to the closure of the Afghan border and the US-Israel war on Iran. **Flour prices** have also risen due to higher wheat prices in the open market.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 61967,
       "title": "Fuel shortage hits pumps amid panic buying; OMCs call for calm, say supply is steady - The Hindu",
@@ -4982,50 +5026,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "crime_violence"
-      ]
-    },
-    {
-      "id": 51426,
-      "title": "Meet Indian-American Randeep Dhillon who wants to 'Make Affordable California Again' but MAGA does not like his English - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-indian-american-randeep-dhillon-who-wants-to-make-affordable-california-again-but-maga-does-not-like-his-english/articleshow/130286662.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130286936,width-1280,height-720,imgsize-48854,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-04-15 15:51:51.479804",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Randeep Dhillon",
-      "rephrased_article": "**Dr. Randeep S Dhillon**, an Indian-origin economist, farmer, and sociologist, is a Republican candidate for the California Governor election primary.  Dhillon's campaign has been met with criticism online, particularly regarding his English fluency in his campaign videos. While some social media users have expressed concern about his ability to effectively communicate policy ideas, others have defended him, emphasizing his focus on addressing issues like literacy and economic opportunity for families and small businesses.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 51385,
-      "title": "Hiv Outbreak Pakistan: Probe uncovers syringe reuse at Pakistan hospital as 331 children test HIV-positive - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/probe-uncovers-syringe-reuse-at-pakistan-hospital-as-331-children-test-hiv-positive/articleshow/130275978.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130276100,width-1280,height-720,imgsize-486487,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-04-15 11:17:29.045208",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "Tehsil Headquarters (THQ) Hospital",
-      "rephrased_article": "**At least 331 children in Pakistan's Punjab province contracted HIV between November 2024 and October 2025**, raising concerns about unsafe injection practices at the **Tehsil Headquarters (THQ) Hospital** in Taunsa.  Evidence from a BBC investigation revealed that syringes were repeatedly reused on medicine vials, potentially contaminating them and exposing multiple patients to the virus. While hospital authorities dispute the findings, health data indicates that \"contaminated needles\" were listed as the likely mode of transmission for more than half of the cases. Experts warn that high reliance on injections, coupled with supply shortages and poor training, may be driving unsafe practices in Pakistan.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "health"
       ]
     }
   ]
