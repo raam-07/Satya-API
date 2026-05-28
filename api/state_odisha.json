@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.650944",
+  "generated_at": "2026-05-28 21:04:02.164984",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,26 +8,26 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 108,
-    "articles_last_30d": 63
+    "total_articles": 120,
+    "articles_last_30d": 66
   },
   "top_cities_30d": {
     "Delhi": 14,
     "Bengaluru": 6,
     "Kolkata": 4,
+    "Mumbai": 3,
     "Chennai": 2,
     "Jaipur": 2,
-    "Mumbai": 2,
     "Hyderabad": 2,
     "Visakhapatnam": 2,
     "Srinagar": 2,
     "Kanpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 56,
-    "education": 29,
-    "infrastructure": 21,
-    "protest_opposition": 16,
+    "foreign_policy": 57,
+    "education": 30,
+    "infrastructure": 22,
+    "protest_opposition": 17,
     "economy": 14,
     "health": 10,
     "crime_violence": 8,
@@ -35,6 +35,90 @@
     "farmer_agriculture": 7
   },
   "recent_articles": [
+    {
+      "id": 62310,
+      "title": "16 students died in overnight fire at girls' school in Kenya - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/several-feared-dead-in-kenya-school-fire-local-media-says/articleshow/131364500.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131364579,width-1200,height-630,imgsize-104298,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-28 17:02:52.539225",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Kenyan Government",
+      "rephrased_article": "**Julius Ogamba**, the **Education Minister of Kenya**, confirmed that a fire at the Utumishi Girls School in Gilgil, Kenya, resulted in the deaths of 16 students and injuries to 79 others. The cause of the fire is still under investigation, but school fires are common in Kenyan boarding schools, often attributed to arson or electrical faults.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 62278,
+      "title": "Tamil Nadu’s rights of utmost importance, never said will surrender that: Higher Education Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/states-rights-of-utmost-importance-never-said-will-surrender-that-higher-education-minister/article71032052.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x21zbr/article71032505.ece/alternates/LANDSCAPE_1200/DSC_1256.JPG",
+      "scraped_at": "2026-05-28 12:34:32.449822",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**P. Viswanathan**, Tamil Nadu Higher Education Minister, defended his statement that the new government would not follow previous policies regarding university governance, particularly concerning the Chief Minister's role as Chancellor. He clarified that he made a general comment and emphasized the state's commitment to protecting its citizens' rights. The **DMK** and other political parties criticized his remarks, accusing him of surrendering state rights.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Madurai"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 62130,
       "title": "TDP leverages technology in organising hybrid Mahanadu - The Hindu",
@@ -2907,8 +2991,7 @@
       "rephrased_article": "**Railway Minister Ashwini Vaishnaw** has approved the introduction of a **Vande Bharat sleeper train service** between KSR Bengaluru and Chhatrapati Shivaji Maharaj Terminus in Mumbai. The **South Western Railway (SWR)** will run and maintain the semi-high-speed train, which is expected to enhance overnight travel between the two cities. This will be the second Vande Bharat sleeper train in India, following the first service launched in January 2026 between Howrah and Kamakhya.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [
@@ -3008,6 +3091,241 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 49855,
+      "title": "Root canal treatment included in Ayushman Bharat-Arogya Karnataka scheme - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-includes-root-canal-treatment-under-ayushman-bharat-arogya-karnataka-scheme/article70842972.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h2e83z/article70843465.ece/alternates/LANDSCAPE_1200/28EPBS_TOOTH_JOB_1.jpg",
+      "scraped_at": "2026-04-10 06:07:19.644551",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka government",
+      "rephrased_article": "The **Karnataka** government has approved the inclusion of root canal treatment (RCT) under its Ayushman Bharat–Pradhan Mantri Jan Arogya Yojana-Chief Minister’s Arogya Karnataka (AB PMJAY-CM’s ArK) scheme. The decision aims to improve access to dental care and reduce tooth loss, particularly among low-income groups who often opt for extraction due to the high cost of RCT.  The **Suvarna Arogya Suraksha Trust** (SAST), the nodal agency for the scheme, has been directed to adopt Central Government Health Scheme (CGHS) Tier-3 rates for the procedure, with a capped benefit at 50,000 cases or ₹5 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 49834,
+      "title": "Census 2027: Self-enumeration facility availed by 5.72 lakh households so far in first phase - The Hindu",
+      "url": "https://www.thehindu.com/news/national/census-2027-self-enumeration-facility-availed-by-572-lakh-households-so-far-in-first-phase/article70845841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iti3pf/article70845855.ece/alternates/LANDSCAPE_1200/India_Census_12854.jpg",
+      "scraped_at": "2026-04-10 03:53:43.295808",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Registrar General of India (RGI)** announced that over 5.72 lakh households have utilized the self-enumeration facility during the first phase of the Census 2027. This digital initiative reflects growing participation in the census, with a special portal available for citizens in specific areas including Andaman and Nicobar Islands, Goa, Karnataka, Sikkim, Odisha, Lakshadweep, Mizoram, and Delhi's NDMC and Cantonment Board. The self-enumeration facility allows citizens to provide their details online, facilitating a faster and more convenient contribution to nation-building.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 49805,
+      "title": "Reports on relocation of Tadepalli IOCL plant trigger anxiety among workers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/reports-on-relocation-of-tadepalli-iocl-plant-trigger-anxiety-among-workers/article70843432.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/aq5d6z/article70844023.ece/alternates/LANDSCAPE_1200/10745_9_4_2026_19_48_29_1_IMG_20260409_WA0061.JPG",
+      "scraped_at": "2026-04-09 23:17:08.388158",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Oil Corporation Limited (IOCL)",
+      "rephrased_article": "**Indian Oil Corporation Limited (IOCL)**'s small can-filling plant in Tadepalli, Andhra Pradesh is facing uncertainty regarding its future.  Workers have expressed shock and concern over reports of relocation to Chennai, potentially impacting nearly 200 families. **Kolanukonda Shivaji**, APCC vice-president, has appealed to the Centre for intervention, while **Lok Sabha MP M. Gurumoorthy** has written to the Union Minister of Petroleum and Natural Gas urging him to consider retaining the facility. The plant, established in 1995, plays a crucial role in supplying lube demand across Andhra Pradesh, Chhattisgarh, Odisha, and Karnataka.  Despite these concerns, an IOCL representative denied any plans for relocation.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Karnataka",
+        "Odisha"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49732,
+      "title": "The Simple living in Kurma Gramam village - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-simple-living-in-kurma-gramam-village/article70844349.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kffyfj/article70844344.ece/alternates/LANDSCAPE_1200/DSC_4534.JPG",
+      "scraped_at": "2026-04-09 20:17:23.095507",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Kurma Gramam village",
+      "rephrased_article": "**Kurma Gramam**, a village in Andhra Pradesh, is an isolated community that has embraced a traditional lifestyle. Residents live without electricity, mobile phones, or internet access, relying on simple practices like hand-woven clothing and traditional food.  The village follows a disciplined routine with daily prayers and discourses on the Bhagavad Gita and Bhagavatam. **Srikanth**, a B. Tech graduate who moved to the village in 2019, teaches Vedic knowledge to children. Visitors are welcomed but encouraged to leave no plastic behind. The village thrives on simplicity and spiritual discipline.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49654,
+      "title": "Sharan Prakash Patil takes umbrage at remarks by BJP leaders against Mallikarjun Kharge - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/sharan-prakash-patil-takes-umbrage-at-remarks-by-bjp-leaders-against-mallikarjun-kharge/article70842679.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9p5nga/article70843467.ece/alternates/LANDSCAPE_1200/10258_9_4_2026_17_17_17_1_KLB_SHARAN_PRAKASH_PATIL_1.JPG",
+      "scraped_at": "2026-04-09 14:25:17.787841",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Dr. Sharan Prakash Patil**, **Medical Education Minister**, criticized **BJP leaders** for making \"irresponsible\" and \"disrespectful\" remarks against **AICC president Mallikarjun Kharge**.  Patil condemned the comments, arguing that they are being blown out of proportion and comparing them to past instances of similar attacks by **Prime Minister Narendra Modi** on Congress leaders. He also questioned the basis for comparisons made by **Union Home Minister Amit Shah** against **Jawaharlal Nehru**, emphasizing the Congress's commitment to non-alignment and condemnation of aggression without supporting war.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 49516,
+      "title": "National politics yet regional sentiment - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/national-politics-yet-regional-sentiment/article70839816.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4z0lhd/article70806091.ece/alternates/LANDSCAPE_1200/HG_4487-002.jpg",
+      "scraped_at": "2026-04-08 23:48:09.632233",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi**'s letter to **Chief Minister Mohan Charan Majhi** on the occasion of Utkal Dibas (Odisha Day) sparked political debate.  Modi praised the late socialist leader **Biju Patnaik**, highlighting his dedication to nation-building and inspiring qualities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 49503,
+      "title": "Odisha Law Commission recommends a new law on hate speech, hate crime - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-law-commission-recommends-a-new-law-on-hate-speech-hate-crime/article70838905.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kqte4q/article70840203.ece/alternates/LANDSCAPE_1200/iStock-545571320.jpg",
+      "scraped_at": "2026-04-08 23:43:55.821209",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Odisha State Law Commission",
+      "rephrased_article": "**The Odisha State Law Commission** has recommended the creation of a new law to combat hate speech and crimes.  The commission, led by retired **Justice Biswanath Rath**, took suo motu cognizance of the need for such legislation after observing an increase in hate speech on social media and other public platforms. The matter was referred to a sub-committee in January 2026.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 49494,
+      "title": "Sasmit Patra offers to quit as BJD Parliamentary Party leader in Rajya Sabha - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/sasmit-patra-offers-to-quit-as-bjd-parliamentary-party-leader-in-rajya-sabha/article70839400.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/3pbl8h/article70840036.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+      "scraped_at": "2026-04-08 22:49:22.043064",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Biju Janata Dal (BJD)",
+      "rephrased_article": "**Sasmit Patra**, a two-time Rajya Sabha member, has submitted his resignation as leader of the **Biju Janata Dal (BJD)** in the Upper House to **Naveen Patnaik**. The move is expected to pave the way for another MP to take over the leadership position.  Patra's decision comes after **Santrupt Misra**, a political advisor to **Patnaik**, took oath as a Rajya Sabha member on Monday following his election victory. The BJD currently has six members in the Rajya Sabha and faces challenges with no representation in the Lok Sabha after losing seats in the 2024 general election.",
+      "party_mentioned": [
+        "Congress",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 49461,
+      "title": "States to be pushed for ‘utility led aggregation’ to meet PM Surya Ghar targets - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/states-to-be-pushed-for-utility-led-aggregation-to-meet-pm-surya-ghar-targets/article70838602.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/peui8k/article70839353.ece/alternates/LANDSCAPE_1200/2026-03-16T230431Z_1282920369_RC2GXHAR2HH3_RTRMADP_3_INDIA-COALMINE-CLOSURE.JPG",
+      "scraped_at": "2026-04-08 21:02:39.271860",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "PM Surya Ghar program",
+      "rephrased_article": "The **Ministry of New and Renewable Energy (MNRE)** is seeking to boost the adoption of its **PM Surya Ghar** program, which aims to provide solar energy access to one crore households by March 2027. The MNRE is encouraging states to adopt a “utility-led aggregation (ULA)” model where electricity distribution companies will pay for rooftop solar installations in eligible households.  The program has seen limited uptake but the MNRE is proposing incentives to increase participation. Despite this, India's renewable energy growth was significant in 2025-26, adding 55.3 gigawatts of non-fossil capacity, with solar power accounting for 44.6 GW.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Kerala",
+        "Odisha",
+        "Telangana",
+        "Tripura",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Andaman"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
       ]
     }
   ]

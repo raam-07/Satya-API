@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.609541",
+  "generated_at": "2026-05-28 21:04:02.120223",
   "state": "Goa",
   "capital": "Panaji",
   "ruling_party": "BJP",
@@ -8,21 +8,21 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 24,
-    "articles_last_30d": 14
+    "total_articles": 28,
+    "articles_last_30d": 15
   },
   "top_cities_30d": {
     "Delhi": 5,
     "Bengaluru": 3,
     "Hyderabad": 2,
-    "Mumbai": 1,
+    "Mumbai": 2,
     "Ahmedabad": 1,
     "Surat": 1,
     "Coimbatore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 13,
-    "infrastructure": 7,
+    "foreign_policy": 14,
+    "infrastructure": 8,
     "education": 5,
     "protest_opposition": 5,
     "economy": 4,
@@ -32,6 +32,44 @@
     "farmer_agriculture": 1
   },
   "recent_articles": [
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 61470,
       "title": "Congress asks its rank and file to be alert against deletion of voters ahead of SIR exercise in Karnataka - The Hindu",
@@ -859,6 +897,104 @@
       ],
       "topic_tags": [
         "economy"
+      ]
+    },
+    {
+      "id": 49834,
+      "title": "Census 2027: Self-enumeration facility availed by 5.72 lakh households so far in first phase - The Hindu",
+      "url": "https://www.thehindu.com/news/national/census-2027-self-enumeration-facility-availed-by-572-lakh-households-so-far-in-first-phase/article70845841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iti3pf/article70845855.ece/alternates/LANDSCAPE_1200/India_Census_12854.jpg",
+      "scraped_at": "2026-04-10 03:53:43.295808",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Registrar General of India (RGI)** announced that over 5.72 lakh households have utilized the self-enumeration facility during the first phase of the Census 2027. This digital initiative reflects growing participation in the census, with a special portal available for citizens in specific areas including Andaman and Nicobar Islands, Goa, Karnataka, Sikkim, Odisha, Lakshadweep, Mizoram, and Delhi's NDMC and Cantonment Board. The self-enumeration facility allows citizens to provide their details online, facilitating a faster and more convenient contribution to nation-building.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 49532,
+      "title": "Assembly elections 2026 LIVE updates: Voting begins in a single phase today in Assam, Kerala and Puducherry - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-election-2026-live-updates-kerala-puducherry-pondicherry-assam-bypolls-april-9-2026-voter-turnout-currently/article70838209.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5xfdy2/article70839916.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000421A.jpg",
+      "scraped_at": "2026-04-09 02:46:34.460686",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Kerala**, **Assam**, and **Puducherry** held single-phase elections on April 9, 2026, with voting concluding at 5 p.m.  The results will be announced on May 4. The high-stakes elections in **Assam** are expected to see the BJP vying for a third consecutive term. In **Kerala**, three fronts – the CPI(M)-led LDF, the Congress-led UDF and the BJP-led NDA – are contesting across 140 constituencies.  The bypolls also took place in several states including Gujarat, Karnataka, Maharashtra, Nagaland and Tripura.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Nagaland",
+        "Tripura",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49529,
+      "title": "BJP, the known unknown in Kerala 2026 - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-the-known-unknown-in-kerala-2026/article70840965.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nj685l/article70840969.ece/alternates/LANDSCAPE_1200/PTI04_07_2026_000348B.jpg",
+      "scraped_at": "2026-04-09 02:45:26.929277",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The BJP's emergence in Kerala has significantly altered the political landscape, with traditional rivals, the Congress-led UDF and CPI-M-led LDF, aligning their campaigns against each other. The BJP claims a false fight between the two parties while emphasizing its stance on the Sabarimala issue.  While the BJP seeks to capitalize on Hindu sentiment in Kerala, the UDF faces challenges from internal divisions within its Christian and Muslim communities.  The LDF has abandoned its previous stance on women's entry into the Sabarimala shrine, aligning with the BJP's position. The outcome of these elections remains uncertain due to a complex interplay of religious affiliations, demographic shifts, and political maneuvering.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Yogi Adityanath",
+        "Yogi",
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Goa",
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
       ]
     }
   ]

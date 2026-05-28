@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.625043",
+  "generated_at": "2026-05-28 21:04:02.137153",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 307,
-    "articles_last_30d": 177
+    "total_articles": 330,
+    "articles_last_30d": 178
   },
   "top_cities_30d": {
     "Bengaluru": 55,
     "Delhi": 22,
     "Hyderabad": 9,
-    "Mumbai": 7,
+    "Mumbai": 8,
     "Chennai": 7,
     "Bangalore": 5,
     "Ahmedabad": 4,
@@ -24,10 +24,10 @@
     "Jaipur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 141,
+    "foreign_policy": 142,
     "education": 54,
     "protest_opposition": 50,
-    "infrastructure": 45,
+    "infrastructure": 46,
     "economy": 35,
     "farmer_agriculture": 32,
     "health": 29,
@@ -36,6 +36,44 @@
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 62271,
       "title": "Karnataka politics LIVE: Karnataka Chief Minister Siddaramaiah announces decision to step down at breakfast meeting with Ministers - The Hindu",
@@ -79,7 +117,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Siddaramaiah"
       ],
       "states_mentioned": [
@@ -5280,30 +5317,6 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 53724,
-      "title": "Bengaluru garbage tender: Contractor moves Karnataka High Court for probe alleging 9-15% bribe demand by two IAS officers - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-garbage-tender-contractor-moves-karnataka-high-court-for-probe-alleging-9-15-bribe-demand-by-two-ias-officers/article70898273.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/c9e8sk/article70899023.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_C7FSTGRV.jpg",
-      "scraped_at": "2026-04-23 22:58:57.657768",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "two senior State officials",
-      "rephrased_article": "A private contractor, S.N. Balasubramaniam, has filed a petition in the High Court of Karnataka alleging that **two senior State officials** demanded illegal gratification ranging from 9% to 15% of the annual bid amount for awarding a Solid Waste Management (SWM) tender package in Bengaluru city. The petition was filed by the contractor's company, Nelaanjanaa Enterprises, and its representative organization, the Bangalore Mahanagara Swachahte Matthu Lorry Malikara Hagoo Guthigedarara Sangha.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "corruption_scam"
       ]
     }
   ]

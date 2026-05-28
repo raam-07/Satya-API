@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-28 12:49:12.667666",
+  "generated_at": "2026-05-28 21:04:02.182490",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
   "cm": "M.K. Stalin",
   "region": "South",
   "cm_confidence": null,
-  "party_confidence": null,
+  "party_confidence": 1.0,
   "stats": {
-    "total_articles": 594,
-    "articles_last_30d": 258
+    "total_articles": 631,
+    "articles_last_30d": 268
   },
   "top_cities_30d": {
-    "Chennai": 61,
+    "Chennai": 62,
     "Delhi": 23,
-    "Madurai": 14,
+    "Madurai": 15,
     "Coimbatore": 12,
+    "Bengaluru": 8,
     "Kolkata": 7,
-    "Bengaluru": 7,
-    "Mumbai": 5,
+    "Mumbai": 6,
     "Hyderabad": 3,
     "Allahabad": 2,
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 223,
+    "foreign_policy": 229,
     "education": 69,
-    "protest_opposition": 54,
+    "protest_opposition": 59,
     "economy": 45,
-    "infrastructure": 40,
+    "infrastructure": 41,
     "crime_violence": 30,
     "farmer_agriculture": 29,
     "corruption_scam": 20,
@@ -36,6 +36,94 @@
     "rape_sexual_crime": 9
   },
   "recent_articles": [
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 62294,
+      "title": "Session to focus on the rise of the TVK at The Hindu Huddle - The Hindu",
+      "url": "https://www.thehindu.com/news/national/session-to-focus-on-the-rise-of-the-tvk-at-the-hindu-huddle/article71034133.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/vpesu8/article71034536.ece/alternates/LANDSCAPE_1200/Logo%20Unit%20ILU%201%201.pdf.jpg",
+      "scraped_at": "2026-05-28 16:58:25.631669",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamilaga Vettri Kazhagam (TVK)",
+      "rephrased_article": "In Tamil Nadu, the **Tamilaga Vettri Kazhagam (TVK)** secured an unexpected victory in the Assembly elections on May 4th, winning nearly 35% of the vote and securing 108 seats. This unprecedented result marks a significant shift from traditional Dravidian politics, with the TVK utilizing online campaigns and targeted messaging to reach younger demographics like Gen Z. The party's success is attributed in part to K.G. Arunraj, a former civil servant who joined the party in June 2025 and played a key role in its campaign strategy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62278,
+      "title": "Tamil Nadu’s rights of utmost importance, never said will surrender that: Higher Education Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/states-rights-of-utmost-importance-never-said-will-surrender-that-higher-education-minister/article71032052.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x21zbr/article71032505.ece/alternates/LANDSCAPE_1200/DSC_1256.JPG",
+      "scraped_at": "2026-05-28 12:34:32.449822",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**P. Viswanathan**, Tamil Nadu Higher Education Minister, defended his statement that the new government would not follow previous policies regarding university governance, particularly concerning the Chief Minister's role as Chancellor. He clarified that he made a general comment and emphasized the state's commitment to protecting its citizens' rights. The **DMK** and other political parties criticized his remarks, accusing him of surrendering state rights.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Madurai"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 62251,
       "title": "CM Vijay’s signature suit: Has Tamil Nadu’s new Chief Minister sparked a blazer trend? - The Hindu",
@@ -773,6 +861,28 @@
       ]
     },
     {
+      "id": 61717,
+      "title": "Ex-VCK MLA threatens to leave party over its support for TVK - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ex-vck-mla-threatens-to-leave-party-over-its-support-for-tvk/article71022041.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-25 19:52:01.369677",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "VCK",
+      "rephrased_article": "**VCK** leader **Thol. Thirumavalavan** is facing criticism from former MLA **Panaiyur Babu**, who has expressed his desire to leave the party due to perceived ideological inconsistencies and leadership style.  **Sinthanai Selvan**, VCK general secretary, urged Mr. Babu to reconsider his decision, emphasizing the leader's dedication to social equality.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 61713,
       "title": "Mekedatu dam issue: CM tells officials to pursue legal action - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/mekedatu-dam-issue-cm-tells-officials-to-pursue-legal-action/article71022075.ece",
@@ -1351,6 +1461,47 @@
       ]
     },
     {
+      "id": 61071,
+      "title": "Ponraj gets anticipatory bail over remarks on TVK women supporters - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ponraj-gets-anticipatory-bail-in-two-cases-over-derogatory-remarks-against-tvk-women-supporters/article71013444.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/b088vs/article71013822.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-23%20at%2010.56.22.jpeg",
+      "scraped_at": "2026-05-23 07:18:36.616202",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**V. Ponraj**, a political commentator, has been granted anticipatory bail by the **Madras High Court** in two criminal cases related to derogatory remarks against women supporters of **Chief Minister C. Joseph Vijay** and the **Tamilaga Vettri Kazhagam (TVK)**. The court imposed conditions requiring him to appear before police twice a week and once a week, as well as refrain from threatening witnesses or tampering with evidence.  The judge acknowledged the intent behind Ponraj's statements but granted bail due to his strong ties to society and low risk of absconding.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61027,
+      "title": "Jana Nayagan leak case: Madras High Court denies bail to six accused - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-leak-case-madras-high-court-denies-bail-to-six-accused/article71011183.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kfj4fd/article71012155.ece/alternates/LANDSCAPE_1200/IMG_IMG_IMG_High_Court_B_2_1_M2EUIB8G.jpg",
+      "scraped_at": "2026-05-23 00:17:07.155509",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Jana Nayagan",
+      "rephrased_article": "The **Madras High Court** denied bail to six individuals who shared and watched the leaked film \"Jana Nayagan\" before its official release.  **Justice R. Sakthivel** dismissed all bail petitions after the prosecution argued that the illegal viewing of the movie by millions constituted a serious offense.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 61026,
       "title": "Seven MLAs from Chennai find place in Tamil Nadu cabinet: highest in recent years - The Hindu",
       "url": "https://www.thehindu.com/news/cities/chennai/seven-mlas-from-chennai-find-place-in-tamil-nadu-cabinet-highest-in-recent-years/article71007771.ece",
@@ -1502,6 +1653,28 @@
       ]
     },
     {
+      "id": 60818,
+      "title": "DMK faces a challenge as allies set to join TVK government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-faces-a-challenge-as-allies-set-to-join-tvk-government/article71007679.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ho5iu7/article71007688.ece/alternates/LANDSCAPE_1200/DMK.jpg",
+      "scraped_at": "2026-05-22 01:37:05.509526",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**DMK**, the Secular Progressive Alliance's leader since 2017, has lost most of its pre-poll allies.  The party is now left with only **MDMK** and **Manithaneya Makkal Katchi**, who contested on its Rising Sun symbol. Additionally, the DMDK remains loyal to the TVK government. The Congress abandoned the DMK after the Assembly polls and joined Chief Minister C. Joseph Vijay's Cabinet on Thursday, while the IUML and VCK are expected to join the Ministry on Friday.",
+      "party_mentioned": [
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 60797,
       "title": "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/historic-shift-vijays-cabinet-marks-tamil-nadus-best-sc-representation-till-date/article71007377.ece",
@@ -1629,6 +1802,48 @@
       "states_mentioned": [
         "Tamil Nadu"
       ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 60593,
+      "title": "Ponraj seeks anticipatory bail in two cases booked for derogatory speech against TVK women wing members - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-irular-families-rescued-from-brick-kiln-in-arani/article71002545.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nz440r/article70997803.ece/alternates/LANDSCAPE_1200/Madras%20High%20Court%20Building_1.jpg",
+      "scraped_at": "2026-05-21 00:17:42.494324",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**V. Ponraj**, a distinguished scientist and former advisor to the President, has filed two anticipatory bail petitions in the Madras High Court, fearing arrest by **Chennai** and **Cuddalore** police for alleged derogatory speech against women supporting **C. Joseph Vijay** and his party, **Tamilaga Vettri Kazhagam (TVK)**.  He claims the allegations are false and politically motivated, arguing that he is a senior scientist with no flight risk and willing to cooperate with any investigation. The petitions will be heard by Justice R. Sakthivel on Thursday (May 21, 2026).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 60590,
+      "title": "Ponraj seeks anticipatory bail in two cases booked for derogatory speech against TVK women wing members - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ponraj-seeks-anticipatory-bail-in-two-cases-booked-for-derogatory-speech-against-tvk-women-wing-members/article71002766.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nz440r/article70997803.ece/alternates/LANDSCAPE_1200/Madras%20High%20Court%20Building_1.jpg",
+      "scraped_at": "2026-05-21 00:16:53.283242",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**V. Ponraj**, a distinguished scientist and former advisor to the President, has filed two anticipatory bail petitions in the Madras High Court against arrest by **Chennai** and **Cuddalore** police for alleged derogatory speech against women supporting **C. Joseph Vijay** and his party, **Tamilaga Vettri Kazhagam (TVK)**.  He claims the allegations are false and politically motivated, asserting that he is a senior scientist with no intention of interfering with the investigation. The petitions will be heard by Justice R. Sakthivel on Thursday (May 21, 2026).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
       "cities_mentioned": [
         "Chennai"
       ],
@@ -2063,6 +2278,28 @@
       ],
       "topic_tags": [
         "infrastructure"
+      ]
+    },
+    {
+      "id": 59040,
+      "title": "Nainar Nagenthran questions Vijay’s statement on minority government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-questions-vijays-statement-on-minority-government/article70978684.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fkftxk/article70978783.ece/alternates/LANDSCAPE_1200/Nainar%20Nagenthran.jpg",
+      "scraped_at": "2026-05-14 13:04:20.522714",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**Nainar Nagenthran**, BJP State president, criticized **C. Joseph Vijay's** statement characterizing his government as \"a government for minorities,\" questioning if it aims to suppress the majority. He accused the **DMK** of insulting Hindu sentiments while in power and demanded action against a Tamilaga Vettri Kazhagam MLA who allegedly made derogatory remarks about Sanatana Dharma.  Nagenthran urged the party to prevent such statements from being made in the future.",
+      "party_mentioned": [
+        "BJP",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
       ]
     },
     {
@@ -4540,6 +4777,23 @@
       ]
     },
     {
+      "id": 57330,
+      "title": "Behind the insistence on 'majority support' looms the shadow of President's Rule - The Hindu",
+      "url": "https://www.thehindu.com/elections/behind-the-insistence-on-majority-support-looms-the-shadow-of-presidents-rule/article70950894.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2gk9ap/article70951124.ece/alternates/LANDSCAPE_1200/20260506153L.jpg",
+      "scraped_at": "2026-05-07 12:23:09.084494",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "**The Supreme Court** has established a legal principle that a Governor's primary duty is to form a stable government, preventing constitutional breakdown.  This principle dictates that the Governor cannot refuse to allow the formation of a government once a majority is established, with the exception being when the Governor believes a stable government cannot be formed by the claimants. The **Tamil Nadu** government is currently facing challenges as the **Tamilaga Vettri Kazhagam (TVK)** president C. Joseph Vijay demands proof of majority support in the Legislative Assembly.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
       "id": 57308,
       "title": "Left parties, VCK hold the key as DMK discusses idea of an AIADMK coalition - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-vck-hold-the-key-as-dmk-discusses-idea-of-an-aiadmk-coalition/article70950650.ece",
@@ -5038,334 +5292,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56804,
-      "title": "What Modi’s big win in Indian state elections could mean for its democracy | Elections News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/5/what-modis-big-win-in-indian-state-elections-could-mean-for-its-democracy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T190651Z_938720960_RC2A2LA27NT0_RTRMADP_3_INDIA-ELECTIONS-RESULTS-1777975872.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-05 12:10:02.447872",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The Bharatiya Janata Party (BJP) won the West Bengal state assembly elections, marking a significant victory for the party and raising concerns about potential authoritarianism. The BJP's win comes after a history of religious cleavages in the state, but also amidst accusations of voter suppression targeting Muslims.  Actor Joseph Vijay won the Tamil Nadu Assembly election, breaking a long-standing duopoly by the Dravidian parties. In Kerala, the Communist party lost to an alliance led by the Congress. The BJP's consolidation of power has grown with its victories in 21 out of 28 states, raising questions about India's future political landscape and democratic processes.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee",
-        "M.K. Stalin",
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi",
-        "Kashmir",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56769,
-      "title": "Vijay, Tamil Nadu election results 2026: How a film star won in the Indian state",
-      "url": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e212/live/09ebcad0-47d5-11f1-906e-5bd3c4d4c16e.jpg",
-      "scraped_at": "2026-05-05 08:39:32.254247",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Vijay",
-      "rephrased_article": "**C Joseph Vijay**, a film star turned politician, has led his party, Tamilaga Vettri Kazhagam (TVK), to victory in the Tamil Nadu state election.  While Vijay's party won 108 seats, short of a majority needed for government, he faces hurdles in forming a coalition and securing power. His rise is reminiscent of **MG Ramachandran**, who broke away from the DMK to form his own party and become chief minister. The victory marks a shift in Tamil Nadu's political landscape, potentially challenging the established duopoly of the DMK and AIADMK. Vijay's appeal lies in his charisma and promise of change, particularly among younger voters and women.  However, some analysts question the depth of his policies and whether his success will translate into lasting political authority.",
-      "party_mentioned": [
-        "BJP",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56758,
-      "title": "Vijay holds key meeting as TVK eyes government formation in Tamil Nadu - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-holds-key-meeting-as-tvk-eyes-government-formation-in-tamil-nadu/article70942001.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2duff/article70942007.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_000052A.jpg",
-      "scraped_at": "2026-05-05 08:36:15.864727",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "TVK",
-      "rephrased_article": "**TVK**, the largest party in the Tamil Nadu Assembly with 108 seats, is considering its next steps after falling short of a majority to form a government.  Party president **C. Joseph Vijay** met with designated MLAs at the party headquarters on Tuesday morning.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 56728,
-      "title": "TVK chief Vijay makes stunning debut, disrupts T.N.’s bipolar politics but falls short of magic figure - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-results-tvk-chief-vijay-makes-stunning-debut-disrupts-state-bipolar-politics/article70939583.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/425dd2/article70940005.ece/alternates/LANDSCAPE_1200/Ragu%20DSC_7518A.JPG",
-      "scraped_at": "2026-05-05 03:47:10.617649",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**C. Joseph Vijay's** Tamilaga Vettri Kazhagam (TVK) emerged as the single largest party in the 17th Tamil Nadu Assembly election, securing 108 seats and disrupting a long-standing bipolar political landscape dominated by **Dravida Munnetra Kazhagam (DMK)** and **All India Anna Dravida Munnetra Kazhagam (AIADMK)**.  The TVK, with its strong focus on Mr. Vijay's charisma, achieved a 35% vote share and secured over 1.6 crore votes across various communities and religions.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56725,
-      "title": "‘Thalapathy’ Vijay: A commander leads the charge - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-commander-leads-the-charge/article70940176.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2j4uzk/article70940406.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000568A.jpg",
-      "scraped_at": "2026-05-05 03:46:20.705092",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Vijay",
-      "rephrased_article": "**C. Joseph Vijay**, a renowned Tamil actor, made history on May 4, 2026, by leading his political party, the Tamilaga Vettri Kazhagam (TVK), to victory in the Tamil Nadu state elections.  His rise from child actor to box office star and subsequent foray into politics was marked by both personal controversies and a dedicated fan base. **Vijay**, who had previously been inspired by MGR's political success, successfully campaigned on an anti-establishment platform, appealing to voters weary of the traditional Dravidian parties.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56717,
-      "title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
-      "url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/z5sdj5/article70941225.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000385A.jpg",
-      "scraped_at": "2026-05-05 03:44:09.432326",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective elections, paving the way for new governments in **Tamil Nadu**, **West Bengal**, and **Kerala**. The BJP secured a landslide victory in West Bengal, while **Vijay**'s TVK party emerged as the single-largest party in Tamil Nadu.  The saffron party also retained Assam and will be part of the incumbent NDA government in Puducherry.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "M.K. Stalin",
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 56712,
-      "title": "Tamil Nadu election results 2026: Full list of winners - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-results-full-list-of-winners/article70908112.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/9p7l1m/article70938547.ece/alternates/LANDSCAPE_1200/sengottaiyan%20kn%20nehru.jpg",
-      "scraped_at": "2026-05-05 03:42:45.462729",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Tamilaga Vettri Kazhagam (TVK)",
-      "rephrased_article": "The Tamil Nadu Assembly elections held on April 23, 2026, saw the **Tamilaga Vettri Kazhagam (TVK)** emerge as the single largest party.  **Joseph C. Vijay**, leader of the TVK, secured victory in the election. The highest voter turnout was recorded at 84.69%.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "S. Jaishankar",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 56706,
-      "title": "Not all is lost for the Congress - The Hindu",
-      "url": "https://www.thehindu.com/news/national/not-all-is-lost-for-the-congress/article70939225.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/emsc2v/article70939802.ece/alternates/LANDSCAPE_1200/20260504438L.jpg",
-      "scraped_at": "2026-05-05 00:04:49.008024",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Rahul Gandhi** congratulated **Joseph C. Vijay**, leader of the Tamilaga Vettri Kazhagam (TVK), on his victory in the Tamil Nadu Assembly elections, highlighting the rising youth voice and its significance for the Congress party. The Congress currently leads by five seats in Tamil Nadu, with the TVK short of a majority.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56699,
-      "title": "Watch: BJP takes Bengal, TVK ahead in Tamil Nadu, and UDF back in Kerala | Above the Fold | 04.05.2026 - The Hindu",
-      "url": "https://www.thehindu.com/videos/watch-bjp-takes-bengal-tvk-ahead-in-tamil-nadu-and-udf-back-in-kerala/article70940218.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/xpgg44/article70940211.ece/alternates/LANDSCAPE_1200/THUMB%202%201.png",
-      "scraped_at": "2026-05-05 00:02:31.517803",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The 2026 Indian state assembly elections have resulted in significant political shifts. **BJP** secured victory in Bengal, while **TVK** led the Tamil Nadu results. The United Democratic Front (UDF) regained power in Kerala.  These outcomes reshape the political landscape of India.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56698,
-      "title": "In northern districts, the Dravidian majors fight the TVK wave - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/in-northern-districts-the-dravidian-majors-fight-the-tvk-wave/article70939832.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-05 00:02:16.830630",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**DMK** and **AIADMK**, the dominant parties in Tamil Nadu, secured significant victories in the northern districts of the state. However, the **TVK**, a smaller party known for its strong performance, saw a decrease in seat numbers compared to previous elections.  Senior Minister and DMK general secretary Duraimurugan was surprisingly placed third in Katpadi Assembly constituency behind **TVK** candidate Dr. M. Sudhakar and **AIADMK**'s V. Ramu.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56694,
-      "title": "A new gen campaign and faith of youngsters that paid off for TVK - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/a-new-gen-campaign-and-faith-of-youngsters-that-paid-off-for-tvk/article70939749.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/glv56r/article70940401.ece/alternates/LANDSCAPE_1200/9217_4_5_2026_14_3_36_2_DSC_8765.JPG",
-      "scraped_at": "2026-05-05 00:01:01.346187",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Vijay",
-      "rephrased_article": "**Vijay**, a newcomer to Tamil Nadu politics, won the recent election despite polling third in many pre-election surveys.  His campaign was largely driven by social media and young voters who were energized by his anti-establishment message. **Stalin**, the incumbent Chief Minister of Tamil Nadu, and the DMK party largely ignored **Vijay**'s candidacy, focusing instead on their traditional rivals, the AIADMK and the BJP. This strategy proved costly for the DMK as **Vijay** successfully targeted them with social media attacks and a youthful appeal that resonated with voters.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "economy",
         "foreign_policy",
         "education",
         "protest_opposition"

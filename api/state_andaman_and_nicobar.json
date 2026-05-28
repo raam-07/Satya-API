@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.712743",
+  "generated_at": "2026-05-28 21:04:02.230216",
   "state": "Andaman and Nicobar",
   "capital": "Port Blair",
   "ruling_party": "Central Govt",
@@ -8,17 +8,18 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 17,
-    "articles_last_30d": 8
+    "total_articles": 20,
+    "articles_last_30d": 9
   },
   "top_cities_30d": {
     "Delhi": 1,
-    "Bengaluru": 1
+    "Bengaluru": 1,
+    "Mumbai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 8,
+    "foreign_policy": 9,
     "protest_opposition": 5,
-    "infrastructure": 3,
+    "infrastructure": 4,
     "farmer_agriculture": 2,
     "crime_violence": 1,
     "economy": 1,
@@ -26,6 +27,44 @@
     "education": 1
   },
   "recent_articles": [
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 59388,
       "title": "Monsoon to reach Kerala on May 26, says IMD - The Hindu",
@@ -548,6 +587,66 @@
         "Puducherry",
         "Andaman",
         "Lakshadweep"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 49834,
+      "title": "Census 2027: Self-enumeration facility availed by 5.72 lakh households so far in first phase - The Hindu",
+      "url": "https://www.thehindu.com/news/national/census-2027-self-enumeration-facility-availed-by-572-lakh-households-so-far-in-first-phase/article70845841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iti3pf/article70845855.ece/alternates/LANDSCAPE_1200/India_Census_12854.jpg",
+      "scraped_at": "2026-04-10 03:53:43.295808",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Registrar General of India (RGI)** announced that over 5.72 lakh households have utilized the self-enumeration facility during the first phase of the Census 2027. This digital initiative reflects growing participation in the census, with a special portal available for citizens in specific areas including Andaman and Nicobar Islands, Goa, Karnataka, Sikkim, Odisha, Lakshadweep, Mizoram, and Delhi's NDMC and Cantonment Board. The self-enumeration facility allows citizens to provide their details online, facilitating a faster and more convenient contribution to nation-building.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 49461,
+      "title": "States to be pushed for ‘utility led aggregation’ to meet PM Surya Ghar targets - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/states-to-be-pushed-for-utility-led-aggregation-to-meet-pm-surya-ghar-targets/article70838602.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/peui8k/article70839353.ece/alternates/LANDSCAPE_1200/2026-03-16T230431Z_1282920369_RC2GXHAR2HH3_RTRMADP_3_INDIA-COALMINE-CLOSURE.JPG",
+      "scraped_at": "2026-04-08 21:02:39.271860",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "PM Surya Ghar program",
+      "rephrased_article": "The **Ministry of New and Renewable Energy (MNRE)** is seeking to boost the adoption of its **PM Surya Ghar** program, which aims to provide solar energy access to one crore households by March 2027. The MNRE is encouraging states to adopt a “utility-led aggregation (ULA)” model where electricity distribution companies will pay for rooftop solar installations in eligible households.  The program has seen limited uptake but the MNRE is proposing incentives to increase participation. Despite this, India's renewable energy growth was significant in 2025-26, adding 55.3 gigawatts of non-fossil capacity, with solar power accounting for 44.6 GW.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Kerala",
+        "Odisha",
+        "Telangana",
+        "Tripura",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Andaman"
       ],
       "cities_mentioned": [],
       "topic_tags": [

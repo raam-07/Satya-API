@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.565059",
+  "generated_at": "2026-05-28 21:04:02.071058",
   "party": "DMK",
   "full_name": "Dravida Munnetra Kazhagam",
   "ideology": "Dravidian politics, Secularism",
@@ -10,12 +10,12 @@
   ],
   "color": "#FF0000",
   "stats": {
-    "total_articles": 322,
-    "articles_last_30d": 108,
+    "total_articles": 396,
+    "articles_last_30d": 156,
     "sentiment_breakdown_30d": {
-      "negative": 30,
-      "neutral": 48,
-      "positive": 30
+      "negative": 37,
+      "neutral": 75,
+      "positive": 44
     }
   },
   "ministers": [
@@ -25,10 +25,67 @@
       "state": "Tamil Nadu",
       "criminal_cases": 0,
       "criminal_cases_in_news": 0
+    },
+    {
+      "name": "C. Joseph Vijay",
+      "role": "Chief Minister of Tamil Nadu",
+      "state": "Tamil Nadu",
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 0
     }
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 62294,
+      "title": "Session to focus on the rise of the TVK at The Hindu Huddle - The Hindu",
+      "url": "https://www.thehindu.com/news/national/session-to-focus-on-the-rise-of-the-tvk-at-the-hindu-huddle/article71034133.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/vpesu8/article71034536.ece/alternates/LANDSCAPE_1200/Logo%20Unit%20ILU%201%201.pdf.jpg",
+      "scraped_at": "2026-05-28 16:58:25.631669",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamilaga Vettri Kazhagam (TVK)",
+      "rephrased_article": "In Tamil Nadu, the **Tamilaga Vettri Kazhagam (TVK)** secured an unexpected victory in the Assembly elections on May 4th, winning nearly 35% of the vote and securing 108 seats. This unprecedented result marks a significant shift from traditional Dravidian politics, with the TVK utilizing online campaigns and targeted messaging to reach younger demographics like Gen Z. The party's success is attributed in part to K.G. Arunraj, a former civil servant who joined the party in June 2025 and played a key role in its campaign strategy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62278,
+      "title": "Tamil Nadu’s rights of utmost importance, never said will surrender that: Higher Education Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/states-rights-of-utmost-importance-never-said-will-surrender-that-higher-education-minister/article71032052.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x21zbr/article71032505.ece/alternates/LANDSCAPE_1200/DSC_1256.JPG",
+      "scraped_at": "2026-05-28 12:34:32.449822",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**P. Viswanathan**, Tamil Nadu Higher Education Minister, defended his statement that the new government would not follow previous policies regarding university governance, particularly concerning the Chief Minister's role as Chancellor. He clarified that he made a general comment and emphasized the state's commitment to protecting its citizens' rights. The **DMK** and other political parties criticized his remarks, accusing him of surrendering state rights.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Madurai"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 62231,
       "title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
@@ -134,6 +191,37 @@
       ]
     },
     {
+      "id": 61853,
+      "title": "CM Vijay to fly to New Delhi on Wednesday, to call on PM Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cmvijayto-fly-to-new-delhi-on-wednesday-to-call-on-pm-modi/article71025857.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-26 16:30:00.240557",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, will travel to New Delhi on Wednesday to meet **Prime Minister Narendra Modi**.  He plans to discuss issues including financial matters and the **Mekedatu** reservoir project with **Modi**.  **Vijay** is also expected to meet with Union Ministers and may meet with **Rahul Gandhi**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "economy"
+      ]
+    },
+    {
       "id": 61788,
       "title": "Opposition parties criticise CM Vijay over a spate of crimes across Tamil Nadu - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/opposition-parties-criticise-cmvijayover-a-spate-of-crimes-acrosstamil-nadu/article71020533.ece",
@@ -220,6 +308,50 @@
       ]
     },
     {
+      "id": 61717,
+      "title": "Ex-VCK MLA threatens to leave party over its support for TVK - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ex-vck-mla-threatens-to-leave-party-over-its-support-for-tvk/article71022041.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-25 19:52:01.369677",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "VCK",
+      "rephrased_article": "**VCK** leader **Thol. Thirumavalavan** is facing criticism from former MLA **Panaiyur Babu**, who has expressed his desire to leave the party due to perceived ideological inconsistencies and leadership style.  **Sinthanai Selvan**, VCK general secretary, urged Mr. Babu to reconsider his decision, emphasizing the leader's dedication to social equality.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61713,
+      "title": "Mekedatu dam issue: CM tells officials to pursue legal action - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/mekedatu-dam-issue-cm-tells-officials-to-pursue-legal-action/article71022075.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-25 19:51:19.154540",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "CM C. Joseph Vijay",
+      "rephrased_article": "**Chief Minister C. Joseph Vijay** instructed officials to pursue legal action regarding the Mekedatu dam issue after a meeting with experts and legal luminaries on Monday. The meeting, attended by **Ministers N. Anand**, **Aadhav Arjuna**, and **R. Nirmalkumar**, and senior officials, considered the Supreme Court's November 2025 ruling that only the Central Water Commission could determine if the project complied with previous judgments.  The review petition against this verdict was dismissed in December 2025, prompting **Vijay** to direct expedited legal action.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
       "id": 61496,
       "title": "National president Nabin asks BJP State unit not to be complacent while citing T.N. example of Opposition not benefitting from DMK’s failure - The Hindu",
       "url": "https://www.thehindu.com/news/national/karnataka/national-president-nabin-asks-bjp-state-unit-not-to-be-complacent-while-citing-tn-example-of-opposition-not-benefitting-from-dmks-failure/article71018535.ece",
@@ -273,6 +405,28 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 61494,
+      "title": "Vijay should strongly oppose Mekedatu dam plan: Seeman - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-should-strongly-oppose-mekedatu-dam-plan-seeman/article71017971.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-24 18:46:19.014493",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Karnataka",
+      "rephrased_article": "**Seeman**, chief co-ordinator of **Naam Tamilar Katchi**, criticized **D.K. Shivakumar**, Karnataka's deputy Chief Minister, for his statement that Tamil Nadu does not have the right to oppose the Karnataka government's plan to build a dam at Mekedatu across the Cauvery river.  **Seeman** called the statement arrogant and said it indicated an attempt by **Karnataka** to claim exclusive ownership over the Cauvery river water rights. He urged **Chief Minister C. Joseph Vijay** to register strong opposition to the project.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture"
       ]
     },
     {
@@ -423,6 +577,70 @@
       ]
     },
     {
+      "id": 61071,
+      "title": "Ponraj gets anticipatory bail over remarks on TVK women supporters - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ponraj-gets-anticipatory-bail-in-two-cases-over-derogatory-remarks-against-tvk-women-supporters/article71013444.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/b088vs/article71013822.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-23%20at%2010.56.22.jpeg",
+      "scraped_at": "2026-05-23 07:18:36.616202",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**V. Ponraj**, a political commentator, has been granted anticipatory bail by the **Madras High Court** in two criminal cases related to derogatory remarks against women supporters of **Chief Minister C. Joseph Vijay** and the **Tamilaga Vettri Kazhagam (TVK)**. The court imposed conditions requiring him to appear before police twice a week and once a week, as well as refrain from threatening witnesses or tampering with evidence.  The judge acknowledged the intent behind Ponraj's statements but granted bail due to his strong ties to society and low risk of absconding.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 61027,
+      "title": "Jana Nayagan leak case: Madras High Court denies bail to six accused - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-leak-case-madras-high-court-denies-bail-to-six-accused/article71011183.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kfj4fd/article71012155.ece/alternates/LANDSCAPE_1200/IMG_IMG_IMG_High_Court_B_2_1_M2EUIB8G.jpg",
+      "scraped_at": "2026-05-23 00:17:07.155509",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Jana Nayagan",
+      "rephrased_article": "The **Madras High Court** denied bail to six individuals who shared and watched the leaked film \"Jana Nayagan\" before its official release.  **Justice R. Sakthivel** dismissed all bail petitions after the prosecution argued that the illegal viewing of the movie by millions constituted a serious offense.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 61026,
+      "title": "Seven MLAs from Chennai find place in Tamil Nadu cabinet: highest in recent years - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/seven-mlas-from-chennai-find-place-in-tamil-nadu-cabinet-highest-in-recent-years/article71007771.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-23 00:16:47.611060",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "**Tamil Nadu Chief Minister C. Joseph Vijay** and seven other ministers from Chennai constituencies were sworn in on Thursday, marking a significant representation for the city in the new cabinet.  This is one of the highest contributions to the current cabinet from **Chennai**, with many top leaders from the Tamil Nadu Vettri Kazhagam (TVK) contesting from the city and becoming ministers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 60857,
       "title": "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
       "url": "https://www.thehindu.com/news/cities/chennai/after-cm-vijays-order-to-revive-amma-canteens-aiadmk-hopes-for-comeback-of-other-legacy-schemes/article70963057.ece",
@@ -531,6 +749,29 @@
       ]
     },
     {
+      "id": 60711,
+      "title": "‘Barring elected representatives, TVK members not to go for inspections’: Minister Arunraj - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/barring-elected-representatives-tvk-members-not-to-go-for-inspections-minister-arunraj/article71007006.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bo2gqt/article71007226.ece/alternates/LANDSCAPE_1200/SAT_4043.JPG.jpeg",
+      "scraped_at": "2026-05-21 18:13:00.472814",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "TVK",
+      "rephrased_article": "**Tamilaga Vettri Kazhagam (TVK)** general secretary **K.G. Arunraj**, Minister for Health and Family Welfare, clarified that only elected representatives are authorized to conduct inspections.  His statement followed criticism of a woman claiming to be from the party's medical wing inspecting the Government Hospital in Sankarankovil, as instructed by **TVK** president **C. Joseph Vijay** and general secretary **N. Anand**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "farmer_agriculture"
+      ]
+    },
+    {
       "id": 60650,
       "title": "CM’s appeal to kids for votes: Plea in Madras High Court seeks an inquiry by Election Commission - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/cms-appeal-to-kids-for-votes-plea-in-madras-high-court-seeks-an-inquiry-by-election-commission/article71005892.ece",
@@ -586,6 +827,48 @@
       ]
     },
     {
+      "id": 60593,
+      "title": "Ponraj seeks anticipatory bail in two cases booked for derogatory speech against TVK women wing members - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-irular-families-rescued-from-brick-kiln-in-arani/article71002545.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nz440r/article70997803.ece/alternates/LANDSCAPE_1200/Madras%20High%20Court%20Building_1.jpg",
+      "scraped_at": "2026-05-21 00:17:42.494324",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**V. Ponraj**, a distinguished scientist and former advisor to the President, has filed two anticipatory bail petitions in the Madras High Court, fearing arrest by **Chennai** and **Cuddalore** police for alleged derogatory speech against women supporting **C. Joseph Vijay** and his party, **Tamilaga Vettri Kazhagam (TVK)**.  He claims the allegations are false and politically motivated, arguing that he is a senior scientist with no flight risk and willing to cooperate with any investigation. The petitions will be heard by Justice R. Sakthivel on Thursday (May 21, 2026).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 60590,
+      "title": "Ponraj seeks anticipatory bail in two cases booked for derogatory speech against TVK women wing members - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ponraj-seeks-anticipatory-bail-in-two-cases-booked-for-derogatory-speech-against-tvk-women-wing-members/article71002766.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nz440r/article70997803.ece/alternates/LANDSCAPE_1200/Madras%20High%20Court%20Building_1.jpg",
+      "scraped_at": "2026-05-21 00:16:53.283242",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**V. Ponraj**, a distinguished scientist and former advisor to the President, has filed two anticipatory bail petitions in the Madras High Court against arrest by **Chennai** and **Cuddalore** police for alleged derogatory speech against women supporting **C. Joseph Vijay** and his party, **Tamilaga Vettri Kazhagam (TVK)**.  He claims the allegations are false and politically motivated, asserting that he is a senior scientist with no intention of interfering with the investigation. The petitions will be heard by Justice R. Sakthivel on Thursday (May 21, 2026).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 60586,
       "title": "PIL plea filed against deposit of temple funds in State-owned non banking finance corporations - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/pil-plea-filed-against-deposit-of-temple-funds-in-state-owned-non-banking-finance-corporations/article71002504.ece",
@@ -599,6 +882,77 @@
       "party_mentioned": [
         "DMK"
       ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 59565,
+      "title": "Kamal meets Vijay, submits 6 demands Tamil film industry’s development - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/kamal-meets-vijay-submits-6-demands-tamil-film-industrys-development/article70987257.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/uedz2p/article70987368.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-16%20at%206.19.45%20PM.jpeg",
+      "scraped_at": "2026-05-16 14:26:14.805576",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Kamal Haasan",
+      "rephrased_article": "**Kamal Haasan**, founder of **Makkal Needhi Maiam**, met with **Tamil Nadu Chief Minister C. Joseph Vijay** to discuss the development of the Tamil film industry.  Haasan presented six demands, including eliminating manual scavenging through technology and establishing village libraries and skill development centers. He also requested the abolition of local body entertain taxes on movie tickets, a strong anti-piracy team, and a state-owned OTT platform for Tamil cinema.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 59545,
+      "title": "T.N. Cabinet portfolios: CM Vijay to hold Home; Finance for Sengottaiyan; Aadhav Arjuna gets PWD - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cabinet-portfolios-cm-vijay-to-hold-home-finance-for-sengottaiyan-aadhav-arjuna-gets-pwd/article70986871.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/scocck/article70986912.ece/alternates/LANDSCAPE_1200/20260512105L.jpg",
+      "scraped_at": "2026-05-16 12:40:10.397242",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "N. Anand",
+      "rephrased_article": "**C. Joseph Vijay**, the Tamil Nadu Chief Minister, has announced the portfolios for his cabinet members. **Vijay** will oversee key departments including Home, Police, and IAS/IPS officers.  **N. Anand**, the deputy chief minister, will handle Rural Development and Water Resources. Other ministers have been assigned specific responsibilities in areas such as health, education, finance, and energy. The Governor has approved the recommendations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "infrastructure",
+        "health",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 59470,
+      "title": "Vijay opposes hike in fuel prices; seeks immediate rollback - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-opposes-hike-in-fuel-prices-seeks-immediate-rollback/article70983390.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wgnfiy/article70983882.ece/alternates/LANDSCAPE_1200/20260513072L.jpg",
+      "scraped_at": "2026-05-16 06:31:03.650084",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "fuel price hike",
+      "rephrased_article": "**Tamil Nadu Chief Minister C. Joseph Vijay** criticized the recent fuel price hike, arguing that it disproportionately impacts low-income individuals and businesses.  He called for an immediate rollback of the increase, citing its negative effects on vehicle rentals, inflation, and manufacturing costs in the MSME sector. **Vijay** emphasized the hardship this will cause for those reliant on two-wheelers and mini buses, as well as those with loans tied to vehicle operation.",
+      "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [
         "Tamil Nadu"
@@ -635,6 +989,30 @@
       ]
     },
     {
+      "id": 59197,
+      "title": "Remove import duty on cotton to ensure supply, CM Vijay urges Modi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/remove-import-duty-on-cotton-to-ensure-supply-cm-vijay-urges-modi/article70979198.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rjro6e/article70980275.ece/alternates/LANDSCAPE_1200/20260512105L.jpg",
+      "scraped_at": "2026-05-14 23:37:02.208188",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, urged **Prime Minister Narendra Modi** to remove the 11% import duty on cotton to ensure raw material availability for the textile and apparel industry.  He cited the increase in cotton prices and yarn prices as a result of reduced production and increased trading activity, arguing that duty-free imports would help meet export commitments and protect jobs. The textile and apparel sector is a major employment generator, with **Vijay** emphasizing the government's responsibility to safeguard this sector.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
       "id": 59194,
       "title": "Udhayanidhi clarifies stand on Sanatana - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-clarifies-stand-on-sanatana/article70980168.ece",
@@ -655,6 +1033,87 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 59133,
+      "title": "Sri Lanka’s Fisheries Minister urges CM Vijay to ban bottom trawling - The Hindu",
+      "url": "https://www.thehindu.com/news/international/sri-lankas-fisheries-minister-urges-cm-vijay-to-ban-bottom-trawling/article70979174.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/otjbii/article70980299.ece/alternates/LANDSCAPE_1200/IMG_Ramalingam_Chandrase_2_1_AODN89BL.jpg",
+      "scraped_at": "2026-05-14 21:01:21.073696",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu",
+      "rephrased_article": "**Sri Lanka’s** Fisheries Minister Ramalingam Chandrasekar urged **Tamil Nadu Chief Minister C. Joseph Vijay** to ban bottom trawling fishing, a practice prohibited in Sri Lanka since 2017, as he believes it is the root cause of ongoing conflict between the two states.  Chandrasekar expressed hope for diplomatic resolution and a meeting with Vijay, congratulating him on his recent election win. He praised Vijay's letter to **External Affairs Minister S. Jaishankar** seeking intervention in the release of six Tamil Nadu fishermen arrested by the Sri Lankan Navy for fishing illegally in Sri Lankan waters. Chandrasekar stated that arrests are made because bottom trawling destroys marine resources and threatens livelihoods, emphasizing the need for a ban on this practice in Tamil Nadu to prevent future conflicts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 59092,
+      "title": "Tasmac shuts 150 outlets in three days; salesmen face challenges from customers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-shuts-150-outlets-in-three-days-salesmen-face-challenges-from-customers/article70979751.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dgpw15/article70979793.ece/alternates/LANDSCAPE_1200/9712_14_5_2026_16_41_14_2__DSC5078.JPG",
+      "scraped_at": "2026-05-14 19:22:46.344677",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu State Marketing Corporation Limited",
+      "rephrased_article": "**Chief Minister C. Joseph Vijay** has ordered the closure of over 150 liquor outlets in Tamil Nadu, citing proximity to educational institutions and places of worship. The **Tamil Nadu State Marketing Corporation Limited** (Tasmac) is responsible for identifying and closing these shops based on multiple criteria, including distance from public spaces and average sales figures.  The government has also issued a circular warning against selling liquor above the Maximum Retail Price (MRP), with officials instructed to conduct surprise inspections across the state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
+    {
+      "id": 59076,
+      "title": "Jayalalithaa’s picture still remains in my pocket: Sengottaiyan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/jayalalithaas-picture-still-remains-in-my-pocket-sengottaiyan/article70980028.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-14 17:26:03.575863",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "J. Jayalalithaa",
+      "rephrased_article": "**K.A. Sengottaiyan**, Minister and TVK chief coordinator, stated that he still carries a photo of former Chief Minister **J. Jayalalithaa** in his pocket despite the AIADMK's general secretary **Edappadi K. Palaniswami** claiming that photos were unnecessary for success.  He praised **C. Joseph Vijay**, Tamil Nadu's current Chief Minister, for eliminating cash-for-votes practices and creating history with TVK's victory.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "infrastructure"
       ]
     },
     {
@@ -728,6 +1187,30 @@
       ]
     },
     {
+      "id": 58938,
+      "title": "Scrap NEET-based admissions, allow States to fill up medical seats, Vijay appeals to Centre - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/scrap-neet-based-admissions-allow-states-to-fill-up-medical-seats-vijay-appeals-to-centre/article70974418.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-13 23:14:50.269678",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Union government",
+      "rephrased_article": "**Tamil Nadu Chief Minister C. Joseph Vijay** urged the **Union government** to cancel the NEET-based admissions in medical courses and allow states to fill seats based on Class 12 marks.  Vijay cited multiple instances of NEET paper leaks, including a recent cancellation following investigations by law enforcement agencies, as evidence of the exam's flaws. He emphasized that the introduction of NEET has disadvantaged students from rural areas and socio-economically disadvantaged backgrounds. The **NEET-UG 2026** was conducted on May 3, 2026, with over 22 million candidates appearing nationwide, including 140,000 from Tamil Nadu.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
+    {
       "id": 58862,
       "title": "Behind TVK Vijay’s rise is a generation drawn to “cinematic politics” amid a growing crisis of purpose - The Hindu",
       "url": "https://www.thehindu.com/opinion/op-ed/tvk-vijay-tamizhaga-vettri-kazhagam-tamil-nadu-elections-cinematic-politics-crisis-of-purpose/article70956218.ece",
@@ -752,6 +1235,32 @@
         "foreign_policy",
         "education",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 58780,
+      "title": "AIADMK legislature party splits vertically during trust vote in Tamil Nadu Assembly - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-legislature-party-splits-vertically-during-trust-vote-in-tn-assembly-25-voted-in-favour-of-tvk-govt-22-voted-against/article70973315.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wz4dak/article70973681.ece/alternates/LANDSCAPE_1200/20260513079L.jpg",
+      "scraped_at": "2026-05-13 10:36:49.625040",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "AIADMK",
+      "rephrased_article": "The **All India Anna Dravida Munnetra Kazhagam (AIADMK)** legislature party in Tamil Nadu experienced a significant split during a trust vote.  **25 MLAs**, led by rebel leader S.P. Velumani, voted in favor of the motion moved by Chief Minister C. Joseph Vijay while 22 MLAs, led by AIADMK general secretary Edappadi K. Palaniswami, voted against it. The division within the party highlights a growing rift between factions within the AIADMK.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "S. Jaishankar"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
       ]
     },
     {
@@ -782,6 +1291,54 @@
       "topic_tags": [
         "foreign_policy",
         "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 58731,
+      "title": "Tamil Nadu Assembly session LIVE: CM Vijay moves resolution seeking confidence vote - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-floor-test-vote-tvk-alliance-aiadmk-chief-minister-vijay-live-updates-may-13-2026/article70972403.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ycbps3/article70972572.ece/alternates/LANDSCAPE_1200/Screenshot%201833.png",
+      "scraped_at": "2026-05-13 04:33:06.989019",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Edappadi K. Palaniswami",
+      "rephrased_article": "**C. Joseph Vijay**, the Chief Minister of Tamil Nadu, faces a floor test in the state assembly on May 13, 2026.  The test will require him to prove his alliance's majority after rebel AIADMK leaders led by former Ministers **S.P. Velumani** and **C.Ve. Shanmugam** announced support for his ruling **Tamilaga Vettri Kazhagam (TVK)**. The floor test comes as AIADMK MLAs from the faction supporting **Edappadi K. Palaniswami** have declared their intention to vote against the confidence motion.",
+      "party_mentioned": [
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58720,
+      "title": "Vijay urges Union Minister to secure the release of six T.N. fisherfolk arrested by Lankan Navy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-urges-union-minister-to-secure-the-release-of-six-tn-fisherfolk-arrested-by-lankan-navy/article70969455.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h9ipg8/article70971503.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000130B.jpg",
+      "scraped_at": "2026-05-13 00:08:16.374631",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Sri Lankan Navy",
+      "rephrased_article": "**Tamil Nadu** Chief Minister C. Joseph Vijay requested the **Union Minister for External Affairs S. Jaishankar** to use diplomatic channels to secure the early release and safe repatriation of six Tamil Nadu fishermen arrested by the **Sri Lankan Navy** on May 10th for allegedly crossing the International Maritime Boundary Line while fishing. The fishermen, identified as Alex, Anthoni Rajan, Santhana Alocias, Arul They Britto, Albert, and Sahaya Selvashanu, were apprehended along with their fishing boat.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "S. Jaishankar"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
         "protest_opposition"
       ]
     },
@@ -846,6 +1403,28 @@
       ]
     },
     {
+      "id": 58705,
+      "title": "Quantum jump in followers of T.N. CMO’s social media handles after Vijay’s swearing-in - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/quantum-jump-in-followers-of-tn-cmos-social-media-handlesafter-vijays-swearing-in/article70970727.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/8i4p68/article70971275.ece/alternates/LANDSCAPE_1200/vijay%20social%20media.JPG",
+      "scraped_at": "2026-05-12 22:49:15.725651",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, the new **Tamil Nadu Chief Minister**, saw a significant increase in followers on his official social media accounts, particularly Instagram, following his swearing-in ceremony. The number of followers jumped from 4.56 lakh to 1.9 million within just two days.  The surge is attributed to the strong presence of the **Tamizhaga Vettri Kazhagam (TVK)** across social media platforms and the popularity of Mr. Vijay himself, a celebrated actor. Officials attribute the increase to the active engagement of young followers, particularly those associated with the TVK's youth wing or IT team in various districts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
       "id": 58704,
       "title": "​Split wide open: On the AIADMK, Tamil Nadu politics - The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/split-wide-open-on-the-aiadmk-tamil-nadu-politics/article70970929.ece",
@@ -898,6 +1477,55 @@
       "topic_tags": [
         "foreign_policy",
         "health"
+      ]
+    },
+    {
+      "id": 58692,
+      "title": "Over 25 TASMAC outlets identified in Vellore and nearby districts for permanent closure - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/over-25-tasmac-outlets-identified-in-vellore-and-nearby-districts-for-permanent-closure/article70970102.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/uj2chb/article70970288.ece/alternates/LANDSCAPE_1200/outlet.jpeg",
+      "scraped_at": "2026-05-12 22:46:35.233305",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Tasmac",
+      "rephrased_article": "**Tasmac**, the **Tamil Nadu State Marketing Corporation Limited**, is permanently closing 25 liquor outlets in Vellore, Ranipet, Tirupattur, and Tiruvannamalai districts. The move follows a directive from Chief Minister C. Joseph Vijay to shut down 717 Tasmac outlets within 500 meters of places of worship, educational institutions, and bus stands across the state.  The process involves identifying outlets near sensitive public spaces, with stocks being transferred to godowns and staff redeployed to other locations. The decision aims to address public concerns about proximity to these areas.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
+    {
+      "id": 58665,
+      "title": "Tamil Nadu’s political transition, growth story faultlines - The Hindu",
+      "url": "https://www.thehindu.com/opinion/lead/tamil-nadus-political-transition-growth-story-faultlines/article70970784.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/90uy1x/article70970826.ece/alternates/LANDSCAPE_1200/DSC_6461.JPG",
+      "scraped_at": "2026-05-12 21:31:36.002475",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu",
+      "rephrased_article": "The **Tamilaga Vettri Kazhagam (TVK)**, led by C. Joseph Vijay, won the Tamil Nadu elections, raising questions about whether its victory signifies a departure from the Dravidian Model of development or simply an extension of it.  **TVK's** election manifesto suggests continuity with existing economic policies despite the challenges facing Tamil Nadu, including internal issues and external factors like shifts in federal relations and global economic changes. The state has historically demonstrated that inclusive economic growth can be achieved alongside social progress through investments in infrastructure, healthcare, and education.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "education"
       ]
     },
     {
@@ -1179,6 +1807,58 @@
       ]
     },
     {
+      "id": 58269,
+      "title": "Congress’ wait to join the Tamil Nadu Cabinet continues - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/congress-wait-to-join-the-tamil-nadu-cabinet-continues/article70962912.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5ehn2w/article70963621.ece/alternates/LANDSCAPE_1200/DSC_5948.JPG",
+      "scraped_at": "2026-05-11 00:03:28.200236",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Rahul Gandhi** attended the swearing-in ceremony of **C. Joseph Vijay**, the new Chief Minister of Tamil Nadu, on Sunday (May 10, 2026). However, despite the Congress's request for both of its MLAs to be sworn in as Cabinet Ministers at the same time, the **Tamil Nadu Vettri Kazhagam** (TVK) opted to delay the swearing-in. The TVK is planning to include members from other coalition partners like the AIADMK in the cabinet expansion.  The decision not to immediately swear in the Congress MLAs was seen as a missed opportunity by some party leaders who felt it would have sent a strong message of unity.",
+      "party_mentioned": [
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58267,
+      "title": "CREDAI Tamil Nadu calls for transparent governance, faster urban development - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/credai-tamil-nadu-calls-for-transparent-governance-faster-urban-development/article70962555.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-10 23:02:05.396192",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "CREDAI Tamil Nadu",
+      "rephrased_article": "**CREDAI Tamil Nadu** congratulated **C. Joseph Vijay** on becoming Chief Minister and urged for systems that promote transparency, eliminate corruption, and improve governance. The organization's president, **Habib W.S.**, emphasized the need for urban development, infrastructure expansion, and ease of doing business to sustain Tamil Nadu's economic growth.  **CREDAI Chennai** president, **Mehul H. Doshi**, also congratulated **R. Kumar**, a member of their organization, on his victory in the Velachery constituency.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 58259,
       "title": "​No detours: On the Tamil Nadu elections, post-poll outcome - The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/no-detours-on-the-tamil-nadu-elections-post-poll-outcome/article70962657.ece",
@@ -1208,6 +1888,27 @@
       ]
     },
     {
+      "id": 58250,
+      "title": "Chief Minister C. Joseph Vijay chairs meeting to take stock of law and order - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-c-joseph-vijay-chairs-meeting-to-take-stock-of-law-and-order/article70962449.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/koxt7q/article70963431.ece/alternates/LANDSCAPE_1200/20260510341L.jpg",
+      "scraped_at": "2026-05-10 21:06:45.624093",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, the newly sworn-in Chief Minister of Tamil Nadu, began his tenure by reviewing law and order with senior officials including **Chief Secretary M. Sai Kumar** and **Director-General of Police Sandeep Rai Rathore**. The meeting focused on safety measures for women and combating illegal drugs and psychotropic substances.  Vijay also paid respects to social reformer 'Periyar' E.V. Ramasamy at Periyar Thidal and met with Dravidar Kazhagam president K. Veeramani.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 58245,
       "title": "Tamil Nadu Minister K.G. Arunraj interview | 'Dravidian parties got trapped in vicious cycle of cash-for-votes and corruption' - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/dravidian-parties-got-trapped-in-vicious-cycle-of-cash-for-votes-and-corruptiontamil-nadu-minister-arunraj/article70963286.ece",
@@ -1229,6 +1930,58 @@
       "cities_mentioned": [],
       "topic_tags": [
         "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58231,
+      "title": "Governor’s role in government formation | Explained - The Hindu",
+      "url": "https://www.thehindu.com/news/national/governors-role-in-government-formation-explained/article70962222.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cjtah2/article70963246.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000207B.jpg",
+      "scraped_at": "2026-05-10 20:06:32.072709",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "The **Tamilaga Vettri Kazhagam (TVK)** secured a majority in the recent Tamil Nadu Assembly elections, but the Governor invited the party's chief to form the government.  **C. Joseph Vijay**, the TVK leader, was sworn in as Chief Minister after securing letters of support from 120 members. The Governor's discretion in appointing the Chief Minister is based on constitutional provisions and previous recommendations by commissions, but there have been instances where Governors have appointed a Chief Minister without following these guidelines.  The Supreme Court has emphasized that the \"floor of the House\" is the appropriate forum to determine majority support for a government.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Maharashtra",
+        "Manipur",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 58209,
+      "title": "Tradition of singing Tamil Thaai Vazhthu at beginning, National Anthem at end will continue, says Minister Aadhav Arjuna - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tradition-of-singing-tamil-thaai-vazhthu-at-beginning-national-anthem-at-end-will-continue-says-minister-aadhav-arjuna/article70963167.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h0vn4g/article70963316.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000043B.jpg",
+      "scraped_at": "2026-05-10 18:39:00.991764",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Thai Vazhthu",
+      "rephrased_article": "**Tamil Nadu Minister Aadhav Arjuna** stated that the new government will continue the tradition of singing **Tamil Thai Vazhthu** (invocation of Mother Tamil) and the National Anthem at the beginning and end of official functions, respectively. This follows criticism from allies of the ruling TVK party, including **CPI**, **CPI-M**, and **VCK**, who had previously objected to the order of hymns at the swearing-in ceremony for the new Chief Minister C. Joseph Vijay's Cabinet.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
         "foreign_policy"
       ]
     },
@@ -1292,6 +2045,27 @@
       ]
     },
     {
+      "id": 58083,
+      "title": "Vijay resigns from Tiruchi East Assembly seat - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-resigns-from-tiruchi-east-assembly-seat/article70962020.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5tl3f4/article70962055.ece/alternates/LANDSCAPE_1200/DSC_6091.JPG",
+      "scraped_at": "2026-05-10 10:49:46.547966",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, resigned as a member of the **Tamil Nadu Legislative Assembly** from both Perambur and Tiruchi East constituencies on Sunday (May 10, 2026). He submitted his resignation to **Principal Secretary of the Legislative Assembly K. Srinivasan**. The move will trigger a by-election for the Tiruchi East constituency.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 58070,
       "title": "Stalin reacts to Tamil Nadu CM Vijay speech: ‘Money is there; what is required is efficient administration’ - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/mk-stalin-reacts-to-tamil-nadu-cm-vijay-speech-money-is-there-what-is-required-is-efficient-administration/article70961861.ece",
@@ -1348,6 +2122,38 @@
         "infrastructure",
         "health",
         "education"
+      ]
+    },
+    {
+      "id": 58018,
+      "title": "TVK-led Tamil Nadu Government | Full list of Ministers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-tvk-vijay-full-list-of-ministers/article70961413.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ml36qr/article70961443.ece/alternates/LANDSCAPE_1200/1693_20_4_2026_19_0_14_3_BVR_7132.JPG",
+      "scraped_at": "2026-05-10 04:38:32.303847",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Bussy** N. Anand, a close aide of **C. Joseph Vijay**, won the T. Nagar seat in the Tamil Nadu Assembly elections.  **Aadhav Arjuna**, general secretary of the Tamilaga Vettri Kazhagam (TVK), also won from the Villivakkam seat. **K.G. Arunraaj**, a former IRS officer, was elected from Tiruchengodu. **K.A. Sengottaiyan**, who previously held ministerial positions for the AIADMK, won the Gobichettipalayam constituency.  **P. Venkataramanan**, treasurer of the TVK, and **C.T.R. Nirmal Kumar**, a former BJP IT wing joint secretary, also won their respective seats.  A. Rajmohan, a YouTuber and media personality, and Dr. T.K. Prabhu, a dentist, were elected from Egmore and Karaikudiconstituency respectively. S.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health"
       ]
     },
     {
@@ -1411,6 +2217,50 @@
       ]
     },
     {
+      "id": 57989,
+      "title": "Tamil Nadu heading for a coalition government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-heading-for-a-coalition-government/article70959951.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/e23ph3/article70960170.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%208.25.42%20PM.jpeg",
+      "scraped_at": "2026-05-09 22:13:10.717564",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress party",
+      "rephrased_article": "**Tamil Nadu** is poised to form its first coalition government in decades, with the **Congress party** joining forces with **Tamilaga Vetri Kazhagam**. The alliance will be led by **C. Joseph Vijay**, who is expected to assume the role of Chief Minister.  The decision was reached after a proposal from the **Congress** was accepted by **TVK** leadership.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57980,
+      "title": "Tamilaga Vettri Kazhagam | The star who stormed into politics - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/p6oebd/article70960023.ece/alternates/LANDSCAPE_1200/Vijay_CM_Artxx.jpg",
+      "scraped_at": "2026-05-09 21:18:46.633332",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamilaga Vettri Kazhagam",
+      "rephrased_article": "**C. Joseph Vijay**, the founder of the **Tamilaga Vettri Kazhagam (TVK)**, has achieved significant political success in Tamil Nadu with his party securing 108 seats in the state assembly during its first election. The TVK, formed in February 2024, leverages a strong fan base and presents itself as a secular organization focused on social justice and equality.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 57979,
       "title": "DMK’s Periyakaruppan moves Madras HC to prevent TVK MLA from participating in vote of confidence - The Hindu",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmks-periyakaruppan-moves-madras-hc-to-prevent-tvk-mla-from-participating-in-vote-of-confidence/article70960156.ece",
@@ -1429,6 +2279,29 @@
         "Tamil Nadu"
       ],
       "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57946,
+      "title": "Aadhav Arjuna, ‘Bussy’ Anand, Sengottaiyan among 9 TVK Ministers to be sworn in with Vijay on May 10 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-aadhav-arjuna-bussy-anand-sengottaiyan-swearing-in-with-vijay-as-ministers-on-may-10-2026/article70960273.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6amejg/article70960304.ece/alternates/LANDSCAPE_1200/Jothi_DSC_9163.JPG",
+      "scraped_at": "2026-05-09 19:14:22.493966",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**Nine** members of the **Tamilaga Vettri Kazhagam (TVK)** are expected to be sworn in as ministers on Sunday, May 10, 2026. The party president and Chief Minister-designate, **C. Joseph Vijay**, will also take his oath.  The list submitted to Governor Rajendra Vishwanath Arlekar includes representatives from various constituencies across Tamil Nadu, with Chennai receiving five ministerial positions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
       "topic_tags": [
         "foreign_policy"
       ]
@@ -1510,6 +2383,61 @@
       ]
     },
     {
+      "id": 57849,
+      "title": "Which party governs which State/UT: In maps - The Hindu",
+      "url": "https://www.thehindu.com/news/which-party-governs-which-state-in-maps/article70955247.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pbjvvu/article70949412.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000286B.jpg",
+      "scraped_at": "2026-05-09 12:15:25.231378",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**The Bharatiya Janata Party (BJP)** and its allies secured victories in Assam, Puducherry, and West Bengal, while the Congress-led UDF won in Tamil Nadu. **Suvendu Adhikari**, a BJP leader, is set to become the first BJP Chief Minister of West Bengal. The results mark a shift in the political landscape with the BJP or the NDA now governing 20 states and 2 Union Territories.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Sikkim",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 57840,
+      "title": "Second plea filed in Supreme Court challenging Governor's delay in inviting Vijay to form govt. in Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/second-plea-filed-in-supreme-court-challenging-governors-delay-in-inviting-vijay-to-form-govt-in-tamil-nadu/article70958675.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fuf6u4/article70958769.ece/alternates/LANDSCAPE_1200/DSC_4388.JPG",
+      "scraped_at": "2026-05-09 11:34:21.765727",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Rajendra Arlekar",
+      "rephrased_article": "A writ petition was filed in the Supreme Court on Saturday, May 9, 2026, challenging **Rajendra Arlekar**, the Tamil Nadu Governor's press release denying **C. Joseph Vijay**, the president of the Tamilaga Vettri Kazhagam (TVK), the right to form the government. The petition argues that the Governor's refusal to invite Mr. Vijay and his insistence on demonstrating \"requisite majority support\" is unconstitutional and arbitrary, contradicting established constitutional conventions for government formation in a hung Assembly.  The petition was filed by retired IPS officer M. Ramasubramani through advocate G. Siva Bala Murugan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 57816,
       "title": "126 MLAs-elect in T.N. have criminal cases pending against them; TVK tops list with 41 - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/126-mlas-elect-in-tn-have-criminal-cases-pending-against-them-tvk-tops-list-with-41/article70958452.ece",
@@ -1538,6 +2466,27 @@
         "crime_violence",
         "foreign_policy",
         "education"
+      ]
+    },
+    {
+      "id": 57750,
+      "title": "Tamil Nadu government formation LIVE: VCK to support TVK, announcement soon - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-live-updates-cpi-cpim-vck-dmk-aiadmk-ammk-tvk-alliance-parties-may-9-2026/article70958001.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/n2zwyh/article70958002.ece/alternates/LANDSCAPE_1200/PTI05_07_2026_000158A.jpg",
+      "scraped_at": "2026-05-09 04:11:31.759182",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "TVK",
+      "rephrased_article": "**The Viduthalai Chiruthaigal Katchi (VCK)** is expected to announce its support for **C. Joseph Vijay** and the formation of a government led by his **Tamilaga Vettri Kazhagam (TVK)** on Saturday, May 9th, 2026.  However, the TVK and the **Amma Makkal Munnetra Kazhagam (AMMK)** are locked in a dispute over the latter's MLA purportedly extending support to Vijay. The AMMK claims the support is forged, while the TVK counters with video evidence of their MLA-elect Kamaraj writing his letter supporting the TVK.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     },
     {
@@ -1626,6 +2575,31 @@
       ]
     },
     {
+      "id": 57632,
+      "title": "Plea in Supreme Court says Governor is ‘duty-bound’ to invite TVK to form government in Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/plea-in-supreme-court-says-governor-is-duty-bound-to-invite-tvk-to-form-government-in-tamil-nadu/article70956540.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/f96kir/article70956817.ece/alternates/LANDSCAPE_1200/SC-asks-UP-to-cG80FS1C6O.4.jpg.jpg",
+      "scraped_at": "2026-05-08 17:28:22.834570",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Governor Rajendra Arlekar",
+      "rephrased_article": "A writ petition was filed in the Supreme Court on May 8, 2026, arguing that **Tamil Nadu Governor Rajendra Arlekar** should invite **C. Joseph Vijay**, leader of the Tamil Nadu Vettri Kazhagam (TVK) party, to form the government as the single largest party. The petition claims this action would violate the mandate of the electorate and the constitutional sequence established by the Supreme Court.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 57607,
       "title": "Class 12 State Board exams: Tamil Nadu registers 95.2% pass rate - The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/class-12-tamil-nadu-state-board-results/article70953942.ece",
@@ -1677,6 +2651,30 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 57537,
+      "title": "Tamil Nadu government formation: Lone TVK cadre stages protest outside Lok Bhavan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-lone-tvk-cadre-stages-protest-outside-lok-bhavan/article70954301.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/q5vfi8/article70954514.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-08%20at%201.29.37%20PM.jpeg",
+      "scraped_at": "2026-05-08 08:28:23.508504",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "A **Tamilaga Vettri Kazhagam** (TVK) party cadre, identified as Suresh, was apprehended by police near Lok Bhavan in Chennai on Friday after staging a protest demanding the Tamil Nadu Governor invite party leader C. Joseph Vijay to form the government.  Suresh is an assistant of film director S.A. Chandrasekar, father of Mr. Vijay. Police warned him against future protests in the prohibited area and advised him to obtain permission before doing so.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
       ]
     },
     {
@@ -1735,6 +2733,27 @@
       ]
     },
     {
+      "id": 57366,
+      "title": "Governor’s remit is to invite TVK chief Vijay and ask for a floor test: former Law Minister Ashwani Kumar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/governors-remit-is-to-invite-tvk-chief-vijay-and-ask-for-a-floor-test-former-law-minister-ashwani-kumar/article70952179.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ekdj2e/article70952458.ece/alternates/LANDSCAPE_1200/PTI01_05_2026_000068B.jpg",
+      "scraped_at": "2026-05-07 17:20:33.838162",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Governor",
+      "rephrased_article": "**Ashwani Kumar**, former Union Law Minister, urged **Tamil Nadu Governor** to invite **C. Joseph Vijay** and his **Tamilaga Vettri Kazhagam (TVK)** party to form the government and demonstrate their majority on the floor of the State Assembly.  Kumar argued that constitutional conventions require this process when a party claims majority support, dismissing arguments about delaying the swearing-in as a \"political outrage\" and a \"constitutional heresy.\"",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 57360,
       "title": "Palaniswami saddened over Stalin’s loss from Kolathur constituency, says AIADMK - The Hindu",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-saddened-over-stalins-loss-from-kolathur-constituency-says-aiadmk/article70950815.ece",
@@ -1762,6 +2781,23 @@
       "topic_tags": [
         "foreign_policy"
       ]
+    },
+    {
+      "id": 57330,
+      "title": "Behind the insistence on 'majority support' looms the shadow of President's Rule - The Hindu",
+      "url": "https://www.thehindu.com/elections/behind-the-insistence-on-majority-support-looms-the-shadow-of-presidents-rule/article70950894.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2gk9ap/article70951124.ece/alternates/LANDSCAPE_1200/20260506153L.jpg",
+      "scraped_at": "2026-05-07 12:23:09.084494",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "**The Supreme Court** has established a legal principle that a Governor's primary duty is to form a stable government, preventing constitutional breakdown.  This principle dictates that the Governor cannot refuse to allow the formation of a government once a majority is established, with the exception being when the Governor believes a stable government cannot be formed by the claimants. The **Tamil Nadu** government is currently facing challenges as the **Tamilaga Vettri Kazhagam (TVK)** president C. Joseph Vijay demands proof of majority support in the Legislative Assembly.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": []
     },
     {
       "id": 57308,
@@ -1814,6 +2850,27 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 57208,
+      "title": "Enhanced security cover given to Vijay withdrawn - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/enhanced-security-cover-given-to-vijay-withdrawn/article70948454.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nm3l4g/article70948495.ece/alternates/LANDSCAPE_1200/20260506220L.jpg",
+      "scraped_at": "2026-05-06 23:34:24.459123",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**Tamil Nadu police** withdrew the security protocol given to **C. Joseph Vijay**, leader of the Tamilaga Vettri Kazhagam, after he requested it. The security scale previously matched that of the Tamil Nadu Chief Minister was reduced to minimal levels following early election results indicating a significant victory for the TVK party.  The police had increased security at Mr. Vijay's residence and office in anticipation of large crowds, but these measures were subsequently withdrawn.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     },
     {
@@ -2005,6 +3062,27 @@
         "foreign_policy",
         "education",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 56963,
+      "title": "Vijay thanks Tamil Nadu voters, hails poll outcome as victory for people-driven democracy - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-thanks-tamil-nadu-voters-hails-poll-outcome-as-victory-for-people-driven-democracy/article70944262.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pxb5ew/article70944580.ece/alternates/LANDSCAPE_1200/DSC_7521.JPG",
+      "scraped_at": "2026-05-05 23:57:00.335614",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "TVK",
+      "rephrased_article": "**Tamilaga Vettri Kazhagam (TVK)** president C. Joseph Vijay expressed gratitude to the people of Tamil Nadu for their support in securing a political victory for change, despite facing ridicule and insults from critics. He attributed the party's success to its courage, unwavering trust in the people, and the influence of young voters who guided their families with conviction.  This election marked a significant shift in Indian politics by dismantling the culture of money-driven politics that had long dominated Tamil Nadu.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     },
     {
@@ -2233,6 +3311,27 @@
         "education",
         "protest_opposition"
       ]
+    },
+    {
+      "id": 56758,
+      "title": "Vijay holds key meeting as TVK eyes government formation in Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-holds-key-meeting-as-tvk-eyes-government-formation-in-tamil-nadu/article70942001.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2duff/article70942007.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_000052A.jpg",
+      "scraped_at": "2026-05-05 08:36:15.864727",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "TVK",
+      "rephrased_article": "**TVK**, the largest party in the Tamil Nadu Assembly with 108 seats, is considering its next steps after falling short of a majority to form a government.  Party president **C. Joseph Vijay** met with designated MLAs at the party headquarters on Tuesday morning.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": []
     },
     {
       "id": 56728,
@@ -2480,6 +3579,30 @@
         "Chennai"
       ],
       "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 56679,
+      "title": "A commander leads the charge - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/a-commander-leads-the-charge/article70940176.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2j4uzk/article70940406.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000568A.jpg",
+      "scraped_at": "2026-05-04 22:40:20.208506",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Thalapathy",
+      "rephrased_article": "**C. Joseph Vijay**, a Tamil actor known as \"Thalapathy\" (commander), led a historic political debut in India, and his film career saw him defeat the Dravidian duopoly in 2026. Born in 1974 to a family deeply rooted in the Tamil film industry, **Vijay** began acting as a child and starred in over 70 films during a nearly 30-year career.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "economy",
         "foreign_policy"
       ]
     },
@@ -3050,6 +4173,27 @@
       ]
     },
     {
+      "id": 56046,
+      "title": "T.N. election: Vijay to emerge as decisive leader; 2026 verdict will be historic, says Sengottaiyan - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-vijay-to-emerge-as-decisive-leader-2026-verdict-will-be-historic-says-sengottaiyan/article70930893.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1keqfk/article70931343.ece/alternates/LANDSCAPE_1200/9870_2_5_2026_11_31_47_1_IMG_20260502_WA0022.JPG",
+      "scraped_at": "2026-05-02 14:37:50.343261",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**Tamilaga Vettri Kazhagam (TVK)** chief coordinator K.A. Sengottaiyan expressed confidence in **C. Joseph Vijay**, the party's president, to lead Tamil Nadu to a \"historic victory\" in the upcoming 2026 Assembly elections.  Sengottaiyan highlighted the party's commitment to grassroots work and its \"sacrifice and humanism.\" He praised **Vijay** for navigating numerous challenges and working tirelessly against opposition.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
       "id": 55314,
       "title": "Assembly election 2026 LIVE: Exit polls predict close contest in West Bengal, DMK+ lead in Tamil Nadu, - The Hindu",
       "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
@@ -3227,6 +4371,25 @@
         "economy",
         "corruption_scam"
       ]
+    },
+    {
+      "id": 54248,
+      "title": "T.N. Assembly elections: Over 50 lakh more voters exercise their franchise this time compared to 2024 Lok Sabha polls - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iau526/article70905741.ece/alternates/LANDSCAPE_1200/DSC_1343.JPG",
+      "scraped_at": "2026-04-25 19:06:28.063217",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Assembly election",
+      "rephrased_article": "Over 50 lakh more electors participated in the 2026 Tamil Nadu Assembly election compared to the 2024 Lok Sabha election. This trend reflects a long-standing tradition of higher voter turnout during Assembly elections, likely due to voters' direct impact from government actions and intense political mobilization. The presence of the Tamilaga Vettri Kazhagam, along with cash distribution, has also contributed to increased participation.  The Election Commission of India (EC) reported seizures of significant amounts of cash, liquor, drugs, precious metals, and freebies during the election.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     },
     {
       "id": 54031,
@@ -3728,6 +4891,27 @@
       ]
     },
     {
+      "id": 53461,
+      "title": "Party support for Independent candidate, an election strategy in which Jayalalithaa succeeded and MGR failed - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/party-support-for-independent-candidate-an-election-strategy-in-which-jayalalithaa-succeeded-and-mgr-failed/article70888918.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5edxj/article70889322.ece/alternates/LANDSCAPE_1200/941492.II2",
+      "scraped_at": "2026-04-22 23:31:21.056299",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamilaga Vettri Kazhagam (TVK)",
+      "rephrased_article": "**C. Joseph Vijay's** fledgling party, **Tamilaga Vettri Kazhagam (TVK)**, has faced rejection of its nomination papers in the Edappadi constituency due to technical reasons. The party's candidate and substitute were unable to secure a place on the ballot because of this issue.  **Vijay** now supports an Independent candidate, **K. Premkumar**, who is running under the \"Television\" symbol.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
       "id": 53441,
       "title": "Tamil Nadu election 2026: Uthangarai constituency braces for a two-cornered contest - The Hindu",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/uthangarai-constituency-braces-for-a-two-cornered-contest/article70889329.ece",
@@ -3860,6 +5044,26 @@
         "crime_violence",
         "corruption_scam",
         "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 53274,
+      "title": "NTK, TVK cadres clash over Vijay song being played in Ooty store - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntk-tvk-cadres-clash-over-vijay-songs-being-played-in-ooty-store/article70889767.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-22 07:18:46.247066",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Naam Tamilar Katchi (NTK)",
+      "rephrased_article": "A dispute erupted in Udhagamandalam on Tuesday between members of the **Naam Tamilar Katchi (NTK)** and the **Tamilaga Vettri Kazhagam (TVK)** after employees playing songs from a movie featuring TVK president C. Joseph Vijay at an electronics store were accused of disrespecting an NTK candidate campaigning nearby. The incident escalated when supporters of the TVK intervened, leading to police intervention and a case being filed against both parties.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     },
     {
@@ -4165,6 +5369,25 @@
       ]
     },
     {
+      "id": 53128,
+      "title": "With limited campaigning by Vijay, TVK faces a litmus test in debut election - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/with-limited-campaigning-by-vijay-tvk-faces-a-litmus-test-in-debut-election/article70888964.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wwfnto/article70889157.ece/alternates/LANDSCAPE_1200/DSC_6919.JPG",
+      "scraped_at": "2026-04-21 19:48:01.686474",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamilaga Vettri Kazhagam (TVK)",
+      "rephrased_article": "The **Tamilaga Vettri Kazhagam (TVK)**, founded by actor-turned-politician C. Joseph Vijay, concluded its high-profile campaigning for the 2026 Tamil Nadu Assembly election.  Vijay's popularity as a Kollywood star is expected to be a key factor in the party's success, drawing large crowds to his freewheeling roadshows that attracted significant numbers of women and youth.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
       "id": 53100,
       "title": "Tamil Nadu election 2026: Government college, fair price for betel leaves prominent demands in Paramathi Velur constituency - The Hindu",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/government-college-fair-price-for-betel-leaves-are-prominent-demands-in-paramathi-velur-constituency/article70857755.ece",
@@ -4185,1475 +5408,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 53095,
-      "title": "Tamil Nadu election 2026: Powerloom weavers caught in a web of woes in Aruppukottai constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-powerloom-weavers-caught-in-a-web-of-woes-in-aruppukottai-constituency/article70857816.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mx7u90/article70889942.ece/alternates/LANDSCAPE_1200/woman%20weaver-04.jpg",
-      "scraped_at": "2026-04-21 16:43:06.915743",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "DMK",
-      "rephrased_article": "The **DMK** candidate, K.K.S.S.R. Ramachandran, is facing a challenge in the Aruppukottai Assembly constituency from AIADMK's S. Sethupathy and other candidates like K. Manimaran (Naam Tamilar Katchi), K. Raghupathi (Puthiya Tamilagam) K. Karthik Kumar (TVK) and Dharmaraj (AIPTMMK).  The traditional weaving industry in the region is facing issues such as a lack of effluent treatment plants, frequent raids under the Handlooms Act, and limited marketing opportunities. The town's infrastructure has seen improvements with new roads and drainage facilities, but farmers are concerned about shrinking agricultural land due to pollution from nearby towns.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 53069,
-      "title": "Candidates wrap up last-minute efforts to woo voters as campaigning draws to a close in northern districts of T.N. - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/campaigning-ends-in-northern-districts/article70888691.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-21 15:22:21.656223",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Assembly Elections",
-      "rephrased_article": "**Candidates** from various political parties across **Tamil Nadu** concluded intense campaigning for the April 23 Assembly elections in Cuddalore, Villupuram, and Kallakurichi districts.  **Chief Minister M.K. Stalin** and **AIADMK general secretary Edappadi K. Palaniswami** addressed rallies in the three districts.  **Sitting Ministers M.R.K. Panneerselvam** and **C.V. Ganesan**, along with former minister **C.Ve. Shanmugam** and **DMDK general secretary Premallatha Vijayakant**, are among those vying for political positions. The Election Commission (EC) has instructed all outsiders, including party workers and functionaries, to leave the constituencies immediately.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 52983,
-      "title": "DMK, Congress have betrayed women and the country: A.P. CM - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kejriwal-asks-people-of-tn-not-to-vote-for-nda-says-bjp-has-captured-aiadmk/article70884413.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/r4zgvw/article70886149.ece/alternates/LANDSCAPE_1200/2085_20_4_2026_15_55_24_2_2.JPG",
-      "scraped_at": "2026-04-21 00:09:53.400758",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**N. Chandrababu Naidu**, the leader of the **Telugu Desam Party** and Andhra Pradesh Chief Minister, criticized the **DMK** and **Congress** for opposing a bill that would have included a 33% reservation for women in Parliament. He claimed that these parties had betrayed women and the nation by not supporting the bill, which he said was intended to increase the number of seats allocated to South India.  Naidu also criticized the DMK's opposition to delimitation, arguing it would negatively impact women's representation.",
-      "party_mentioned": [
-        "Congress",
-        "TDP",
-        "Telugu Desam",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai",
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52982,
-      "title": "DMK candidate outlines civic plans for Mylapore constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmk-candidate-outlines-civic-plans-for-mylapore-constituency/article70878324.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-21 00:09:30.485477",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Dha Velu",
-      "rephrased_article": "**Dha Velu**, DMK candidate for the Mylapore Assembly constituency, stated that he has been working on land title issues for fishing communities and has initiated 50% of planned relocation projects. He emphasized his focus on expediting infrastructure projects like Metro Rail construction and creating a \"food street\" to alleviate traffic congestion in high-density areas. **Velu** also highlighted his efforts to reduce TASMAC outlets, propose surveillance networks, and revive underutilized gyms.  He acknowledged ongoing issues with vendors at the Loop Road fish market and proposed forming a committee to address them.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52981,
-      "title": "Kejriwal asks people of Tamil Nadu not to vote for NDA, says BJP has captured AIADMK - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kejriwal-asks-people-of-tamil-nadu-not-to-vote-for-nda-says-bjp-has-captured-aiadmk/article70885168.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pt1kdd/article70885926.ece/alternates/LANDSCAPE_1200/Ragu_DSC_6815.JPG",
-      "scraped_at": "2026-04-21 00:09:07.575049",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Arvind Kejriwal**, leader of the **Aam Aadmi Party**, criticized the **AIADMK** for bringing the **BJP** to Tamil Nadu, claiming it would lead to the dismantling of the party and a loss of progress. He warned voters against supporting the BJP or the AIADMK, stating that their policies would halt the good work being done by the **DMK** government in Tamil Nadu.  Kejriwal praised **M.K. Stalin**, the Chief Minister of Tamil Nadu, for his initiatives like the \"Chief Minister's Breakfast Scheme\" and monthly stipends for women and girls.",
-      "party_mentioned": [
-        "BJP",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Nitish Kumar",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52975,
-      "title": "Tamil Nadu Election 2026: At least 404 candidates in T.N. have serious criminal cases against them: Report - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/at-least-404-candidates-in-tamil-nadu-have-serious-criminal-cases-against-them-report/article70880314.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/l6olt8/article70880422.ece/alternates/LANDSCAPE_1200/9712_15_4_2026_15_52_55_3__DSC0109.JPG",
-      "scraped_at": "2026-04-20 23:17:09.142574",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "political parties in Tamil Nadu",
-      "rephrased_article": "At least 404 candidates in the Tamil Nadu Assembly elections have declared serious criminal cases against them, according to a report released by **the Association for Democratic Reforms (ADR)** and **Tamil Nadu Election Watch (TNEW)**.  The report found that 60 out of 170 candidates from the AIADMK, 43 out of 231 candidates from the TVK, and 32 out of 175 candidates from the DMK have declared serious criminal cases against themselves. **Jayaram Venkatesan**, State Coordinator of Arappor Iyakkam, stated that the Supreme Court's directions had no impact on political parties selecting candidates with criminal records.  The report also analyzed financial details and gender representation among the candidates.",
-      "party_mentioned": [
-        "BJP",
-        "INC",
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 52974,
-      "title": "Linking women’s reservation with delimitation is unconstitutional, contends G. Ramakrishnan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/linking-womens-reservation-with-delimitation-is-unconstitutional-contends-g-ramakrishnan/article70881247.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rnp33a/article70881317.ece/alternates/LANDSCAPE_1200/2085_8_12_2025_18_2_27_2_DSC_2072.JPG",
-      "scraped_at": "2026-04-20 23:16:46.537140",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**G. Ramakrishnan**, Chairperson of the **CPI(M)** Control Commission, criticized the government's linking of women’s reservation and delimitation in the Constitution (131st Amendment) Bill, 2026. He argued that this linkage was undemocratic and a tactic to campaign against opposition parties in Bengal and Tamil Nadu. Ramakrishnan also questioned the timing of the special Lok Sabha session on April 16-18, citing the lack of transparency and the absence of an all-party meeting.  He further stated that the delay in implementing women’s reservation before the 2024 elections was due to a non-conducted census and lack of delimitation after 2023.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52972,
-      "title": "G.K. Vasan campaigns in Chennai seeking votes for NDA nominees - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/gk-vasan-campaigns-in-chennai-seeking-votes-for-nda-nominees/article70881669.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nqym3y/article70881731.ece/alternates/LANDSCAPE_1200/9127_19_4_2026_19_39_45_1_DSC_9910.JPG",
-      "scraped_at": "2026-04-20 23:15:58.410528",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "NDA",
-      "rephrased_article": "**Tamil Maanila Congress (Moopanar)** president G. K. Vasan campaigned for **NDA** nominee M. Thilagabama in the Perambur Assembly segment, emphasizing that voters should consider a candidate's ability to address their concerns rather than popularity. Vasan highlighted issues like road encroachment and garbage disposal problems in the area, urging residents to support Thilagabama's efforts to resolve them. He also canvassed for NDA nominees in Thiru. Vi. Ka Nagar and Saidapet.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 52971,
-      "title": "AIADMK looks to defend Melur and Usilampatti, its southern strongholds - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/aiadmk-looks-to-defend-melur-and-usilampatti-its-southern-strongholds/article70881192.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/aqapdi/article70882130.ece/alternates/LANDSCAPE_1200/9864_19_4_2026_21_57_59_2__DSC0365.JPG",
-      "scraped_at": "2026-04-20 23:15:30.047648",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "Despite internal conflicts within the AIADMK, the party appears to be favored in Melur and Usilampatti constituencies.  Incumbent MLA Periyapullan (AIADMK) faces a challenge from former Congress MP P. Viswanathan in Melur, where caste consciousness is prominent. The Tamilaga Vettri Kazhagam (TVK) and the Naam Tamilar Katchi (NTK) are expected to impact the outcome. In Usilampatti, I. Mahendran (AIADMK) faces off against P. Ayyappan (AIPTMMK) and T. Saravanakumar (Congress).  The election is likely to be influenced by caste dynamics and local political alliances.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "Sonia Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52951,
-      "title": "Thirupparankundram, where hillock, temple are in the thick of controversy - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/thirupparankundram-where-hillock-temple-are-in-the-thick-of-controversy/article70877875.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/d3jqhc/article70878510.ece/alternates/LANDSCAPE_1200/19MA_Thirupparankundram.jpg",
-      "scraped_at": "2026-04-20 22:14:56.928801",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "The Thirupparankundram constituency in Madurai is facing a series of controversies surrounding the Subramaniyaswamy Temple and its hilltop location.  **DMK** and **BJP** candidates are vying for votes, with each party promising to address issues like traffic congestion, lack of basic amenities, and development projects. The controversy over lighting the Karthigai deepam on the hilltop has drawn political attention, while concerns about communal tension persist.",
-      "party_mentioned": [
-        "BJP",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "infrastructure",
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52947,
-      "title": "DMK regime has created respect for women, says Stalin - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmk-regime-has-created-respect-for-women-says-stalin/article70878664.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6b6fuc/article70878746.ece/alternates/LANDSCAPE_1200/2085_18_4_2026_21_40_43_1_CM1.JPG",
-      "scraped_at": "2026-04-20 22:13:19.980436",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**Tamil Nadu Chief Minister M. K. Stalin** asserted that his government has prioritized women's empowerment through measures like mobility, financial support, education and healthcare, while criticizing the **BJP** and **AIADMK** for rejecting key infrastructure projects in Coimbatore.  He also accused former minister S. P. Velumani of corruption during his tenure, and highlighted the DMK’s commitment to social justice by including Kongu Vellalar communities in the Backward Classes list. **Tejashwi Yadav**, Leader of Opposition in the Bihar Legislative Assembly and national working president of the Rashtriya Janata Dal, praised Stalin's leadership and emphasized the importance of a \"philosophy\" when voting for the DMK-led alliance.",
-      "party_mentioned": [
-        "BJP",
-        "Janata Dal",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52943,
-      "title": "Sholinganallur candidates promise piped water supply, infrastructure development - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/sholinganallur-candidates-promise-piped-water-supply-infrastructure-development/article70878740.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1em5eh/article70880971.ece/alternates/LANDSCAPE_1200/9217_18_4_2026_19_37_19_1_DSC_8157.JPG",
-      "scraped_at": "2026-04-20 22:12:03.662998",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Aravind Ramesh, K.P. Kandan, Jayalakshmi Raman, ECR P. Saravamamoorthy",
-      "rephrased_article": "On Saturday, candidates vying for the Sholinganallur Assembly seat in Tamil Nadu met with residents of OMR at an event organized by the **Federation of OMR Residents Associations (FOMRRA)**.  **Aravind Ramesh**, the incumbent DMK candidate; **K.P. Kandan**, the former AIADMK candidate; **Jayalakshmi Raman** of the NTK, and **ECR P. Saravamamoorthy** of the TVK participated in the event to discuss their campaign promises and proposals for the constituency.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52940,
-      "title": "Delimitation, women’s reservation Bills were clubbed together to create confusion, says N. Ram - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/delimitation-womens-reservation-bills-were-clubbed-together-to-create-confusion-says-n-ram/article70886088.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/et80qh/article70886097.ece/alternates/LANDSCAPE_1200/DSC_0029.JPG",
-      "scraped_at": "2026-04-20 21:19:58.366719",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP-led Union government",
-      "rephrased_article": "**The Hindu Group's** N. Ram criticized the **BJP-led Union government** for combining delimitation and women’s reservation in a bill, claiming it was intended to confuse opposition parties. He argued that the two issues had no correlation and were used as a cover for the BJP's political maneuvering.  Ram praised Tamil Nadu Chief Minister M.K. Stalin for understanding the government's intentions and highlighting the bill's flaws. **DMK MP A. Raja** emphasized that delimitation was a statutory provision requiring debate in Parliament before any Constitutional Amendment could be introduced. He also cited Dr. Ambedkar's warnings about potential imbalances between Hindi-speaking and non-Hindi-speaking regions, suggesting the bill could exacerbate existing tensions.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rahul Gandhi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52933,
-      "title": "BJP wants to have a puppet AIADMK Chief Minister, says Rahul Gandhi - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/bjp-wants-to-have-a-puppet-aiadmk-cm-says-rahul-gandhi/article70877914.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/59kzlb/article70878774.ece/alternates/LANDSCAPE_1200/4861_18_4_2026_17_52_39_2_DSC_1104.JPG",
-      "scraped_at": "2026-04-20 21:18:31.861773",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Rahul Gandhi** addressed a rally in Thuraiyur, criticizing the **BJP** for attempting to replace **Tamil Nadu's Chief Minister**, **M.K. Stalin**, with a puppet from the AIADMK and control over India's trade deals through its relationship with **Donald Trump**. He accused the **BJP** of using intimidation tactics like the Enforcement Directorate and Income Tax to force compromises from the AIADMK, but asserted that the opposition parties had thwarted their attempts to manipulate the electoral map.  Gandhi pledged his support for the DMK and its allies in their fight against the BJP's influence in Tamil Nadu.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rahul Gandhi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52928,
-      "title": "Tamil Nadu election 2026: People firm in desire for change in government, says AIADMK’s Gokula Indira - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-people-firm-in-desire-for-change-in-govt-aiadmks-gokula-indira/article70877176.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pww8ae/article70877686.ece/alternates/LANDSCAPE_1200/DSC_7364.jpg",
-      "scraped_at": "2026-04-20 21:17:31.930813",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "**S. Gokula Indira**, an AIADMK candidate for the Anna Nagar constituency, believes that the people of Tamil Nadu desire a change in governance and are dissatisfied with the current DMK-led government's performance. She argues that her party's strength, leadership, and election manifesto focusing on people's welfare will lead to victory. **Edappadi K. Palaniswami**, the AIADMK general secretary, is also credited for his good governance and commitment to women's safety. Indira plans to address issues like patta distribution, river desilting, and public space safety for women after dark if elected.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52913,
-      "title": "Lack of infrastructure development plagues Tirumangalam constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/lack-of-infrastructure-development-plagues-tirumangalam-constituency/article70877483.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-20 21:14:08.095970",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Tirumangalam constituency",
-      "rephrased_article": "The Tirumangalam Assembly segment in Tamil Nadu is set to elect a new representative after 16 years of the \"Tirumangalam formula\" - a system of voter bribery that has become commonplace in state elections.  **Left** and **BJP** parties previously raised concerns about this practice, but now both the **DMK** and **AIADMK** are facing similar accusations. Despite its potential as an industrial corridor with infrastructure like a railway station and industrial estate, Tirumangalam lags behind in developing logistics hubs.",
-      "party_mentioned": [
-        "BJP",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52901,
-      "title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-20 20:05:45.187031",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Directorate of Enforcement (ED)",
-      "rephrased_article": "The **Madras High Court** dismissed nine writ petitions filed by DMK Rajya Sabha member R. Girirajan seeking to compel the **Directorate of Enforcement (ED)** to register money laundering cases against AIADMK leaders. The court ruled that the petitions lacked maintainability and that Mr. Girirajan, as a petitioner, did not have legal standing to file them.  The Special Public Prosecutor for the ED argued that the petitions were politically motivated and that the ED had no obligation to disclose its investigation proceedings.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52853,
-      "title": "SOP issued for verification of assets declared by candidates during elections, Income-Tax departments tells Madras High Court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/sop-issued-for-verification-of-assets-declared-by-candidates-during-elections-income-tax-departments-tells-madras-high-court/article70885327.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-20 17:12:47.459651",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Income Tax department",
-      "rephrased_article": "The **Income Tax department** presented a Standard Operating Procedure (SOP) to the Madras High Court for verifying assets declared by candidates in Lok Sabha and Legislative Assembly elections.  The department requested additional time for a detailed inquiry into discrepancies found between Deputy Chief Minister Udhayanidhi Stalin's election affidavits and his income tax returns, citing \"temporal incongruity.\" The court adjourned hearings on several petitions alleging discrepancies in assets disclosed by various candidates until June 17, 2026.",
-      "party_mentioned": [
-        "BJP",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 52758,
-      "title": "Tamil Nadu election 2026: Unkept promises to the fore again in Pollachi constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/unkept-promises-to-the-fore-once-again-ahead-of-election-in-pollachi/article70829464.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/yt40qy/article70884164.ece/alternates/LANDSCAPE_1200/coconut%20necta%206.jpg",
-      "scraped_at": "2026-04-20 10:57:26.451035",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "In Pollachi, Tamil Nadu, the upcoming election is dominated by long-standing demands for improved infrastructure and economic development.  **KMDK**, **NTK**, **TVK**, and the incumbent **AIADMK** candidate are vying for the seat, with issues like merging the Pollachi railway station with the Salem Railway Division, establishment of cold storage facilities, and addressing challenges faced by industries in coir and coconut continuing to be central campaign points.  Farmers and residents point out that promises made in previous elections have yet to materialize, including water supply improvements, animal husbandry facilities, and a government college.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy",
-        "infrastructure",
-        "economy"
-      ]
-    },
-    {
-      "id": 52704,
-      "title": "Modi’s televised address an act of desperation, says Stalin - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/modis-televised-address-an-act-of-desperation-says-stalin/article70881601.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/571cgt/article70881882.ece/alternates/LANDSCAPE_1200/10213_19_4_2026_19_12_6_1_KA20ELECTIONCAMPAIGNINHOSUR.JPG",
-      "scraped_at": "2026-04-20 00:06:39.435526",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Narendra Modi**'s televised address to the nation was criticized by **DMK leader and Chief Minister M.K. Stalin**.  Stalin called the speech a \"political speech\" filled with insinuations against the opposition, arguing it violated the Election Code. He also stated that the use of the Delimitation Bill as a tool for women's reservation during elections had backfired on **Modi** and his **NDA**.",
-      "party_mentioned": [
-        "DMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52702,
-      "title": "Women’s reservation was Modi’s ruse to bring in delimitation to defeat DMK: Kharge - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/womens-reservation-was-modis-ruse-to-bring-in-delimitation-to-defeat-dmk-kharge/article70881720.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/e5z571/article70881887.ece/alternates/LANDSCAPE_1200/PTI04_19_2026_000562B.jpg",
-      "scraped_at": "2026-04-20 00:06:01.181070",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Congress president Mallikarjun Kharge** accused **Prime Minister Narendra Modi** of using the Women’s Reservation Bill as a tactic to defeat the DMK in Tamil Nadu.  He stated that the bill was passed jointly by all parties in 2023 and criticized Modi for not implementing it despite having the power to do so. Kharge also claimed that the Delimitation Bill was unrelated to women's reservation and accused Modi of following Manusmriti, which denies power to Shudras and women.  He emphasized that the opposition alliance is for democracy, justice, and equality.",
-      "party_mentioned": [
-        "Congress",
-        "INC",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam",
-        "economy"
-      ]
-    },
-    {
-      "id": 52700,
-      "title": "Sholinganallur candidates promise piped water supply, infrastructure development - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/sholinganallur-candidates-promise-piped-water-supply-infrastructure-development/article70878740.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1em5eh/article70880971.ece/alternates/LANDSCAPE_1200/9217_18_4_2026_19_37_19_1_DSC_8157.JPG",
-      "scraped_at": "2026-04-20 00:05:22.595620",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Sholinganallur candidates",
-      "rephrased_article": "**Aravind Ramesh**, **K.P. Kandan**, **Jayalakshmi Raman**, and **ECR P. Saravamamoorthy** met with residents of OMR on Saturday as part of a \"meet your candidate\" event organized by the Federation of OMR Residents Associations (FOMRRA).  They discussed their proposed plans for infrastructure, water supply, garbage management, and other local issues.  Harsha Koda, co-founder of FOMRRA, stated that these meetings help voters make informed decisions.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52693,
-      "title": "Tamil Nadu election 2026: Fishermen in Colachel constituency seek fair representation - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/fishermen-seek-fair-representation-in-colachel-constituency/article70823698.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ob9j17/article70882128.ece/alternates/LANDSCAPE_1200/9865_12_2_2022_18_24_39_1_12_02_2022_TUT_05STORYPIX.JPG",
-      "scraped_at": "2026-04-19 23:06:34.571347",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Government",
-      "rephrased_article": "The Colachel assembly constituency in Kanniyakumari district faces ongoing challenges despite a significant fishing population. **Johnson**, a resident, highlights the reduction in representation for fishermen after the last local body delimitation exercise.  **Joseph Stalin**, president of the Tamil Nadu Fishermen Welfare Board, points to infrastructure projects initiated by the current government, including new harbours and an extension of the Colachel fishing harbour. However, residents continue to express concerns about inadequate road conditions, poor irrigation system maintenance, and representation in local bodies. **J.G.Prince** of the India National Congress has been representing the constituency since 2011, while **Tharahai Cuthbert**, a candidate for the upcoming election, is expected to benefit from the community's support due to her background in the fishing community.",
-      "party_mentioned": [
-        "Congress",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52688,
-      "title": "Stalin does not want women to become MPs and MLAs except his sister: Anbumani Ramadoss - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-does-not-want-women-to-become-mps-and-mlas-except-his-sister-dranbumani-ramadoss-in-pennagaram/article70874050.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9250d9/article70874866.ece/alternates/LANDSCAPE_1200/10213_17_4_2026_17_50_1_1_KA18PMKANBUMANIRAMINPENNAGARAM.JPG",
-      "scraped_at": "2026-04-19 22:08:19.835363",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "M.K. Stalin",
-      "rephrased_article": "**Dr. Anbumani Ramadoss**, president of the **PMK**, accused **G.K. Mani** and his son, **Tamil Kumaran**, of betraying the party by contesting on a Congress ticket.  He criticized **Mr. Mani** for conspiring with the DMK to alienate the party founder from his own son, while also accusing **Chief Minister M.K. Stalin** of being complicit in this betrayal. **Dr. Ramadoss** campaigned against **Tamil Kumaran**, calling him a \"traitor\" and claiming that all parties recognize him as such.",
-      "party_mentioned": [
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52686,
-      "title": "Tamil Nadu election 2026: Our organisational strength is intact and we will return to power, says DMK Minister T.M. Anbarasan - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/our-organisational-strength-is-intact-we-will-return-to-power-says-msme-minister/article70874176.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mwciss/article70874910.ece/alternates/LANDSCAPE_1200/DSC_6499.JPG",
-      "scraped_at": "2026-04-19 22:07:31.743491",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**T.M. Anbarasan**, Minister for Micro, Small, and Medium Enterprises (MSME), running for the Alandur constituency in the upcoming Assembly elections, believes the **DMK** will return to power due to its record of governance. He highlights significant infrastructure projects completed during his tenure, including the extension of the MRTS network and flood mitigation efforts. Anbarasan acknowledges actor C. Joseph Vijay's entry into the race with his Tamilaga Vettri Kazhagam (TVK) party, but believes the **DMK** will benefit from anti-incumbency votes directed towards the AIADMK.  The government has implemented measures to revive MSMEs during the pandemic and promote start-ups through grants and regional hubs.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52684,
-      "title": "Will pendulum effect hold true for Krishnagiri constituency this election? - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-pendulum-effect-hold-true-for-krishnagiri-constituency-this-election/article70874463.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qhp1dc/article70875242.ece/alternates/LANDSCAPE_1200/51CP_krishnagiri-01.jpg",
-      "scraped_at": "2026-04-19 22:06:52.659320",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Krishnagiri constituency",
-      "rephrased_article": "**Krishnagiri**, a district without direct rail connectivity to the state capital, faces ongoing issues including a lack of infrastructure and a controversial toll plaza. The constituency is predominantly known for its mango cultivation but farmers are unhappy with fixed pulp prices set by industry consortiums. This year's election pits the AIADMK against the Congress under the DMK-led alliance, with incumbent MLA K. Ashok Kumar from the AIADMK facing off against former MP A. Chellakumar of the Congress. The contest is expected to be closely contested due to factors like the Muslim vote and a potential transfer of votes from the MNM and AIMIM in previous elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK",
-        "AIMIM",
-        "Owaisi"
-      ],
-      "ministers_mentioned": [
-        "Asaduddin Owaisi"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy",
-        "infrastructure",
-        "economy"
-      ]
-    },
-    {
-      "id": 52682,
-      "title": "Edappadi Palaniswami interview: We know how to bring debt under control and implement all welfare schemes, says AIADMK leader - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/edappadi-palaniswami-interview-we-know-how-to-bring-debt-under-control-and-implement-all-welfare-schemes/article70875181.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6f1695/article70875200.ece/alternates/LANDSCAPE_1200/9868_17_4_2026_12_25_49_5_EPS_INTERVIEW_5.JPG",
-      "scraped_at": "2026-04-19 22:06:14.861505",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Edappadi Palaniswami",
-      "rephrased_article": "**Edappadi K. Palaniswami**, leader of the AIADMK, spoke to The Hindu about the upcoming Tamil Nadu Assembly elections and his party's alliance with the BJP. He addressed criticism from **M.K. Stalin**, Chief Minister of Tamil Nadu, regarding the delimitation bill and the 33% quota for women in Parliament and Legislative Assemblies. Palaniswami emphasized that the AIADMK will form a government and provide good governance. He also discussed his party's campaign strategy and its alliance with the BJP, stating they are united in their goal of ousting the DMK.  The article highlights Palaniswami's stance on youth empowerment and his party's efforts to attract young voters.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Samajwadi Party",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Nitish Kumar",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 52673,
-      "title": "Southern States’ combined representation will increase from 23.76% to 23.90% in LS after delimitation, says Anurag Thakur - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/southern-states-combined-representation-will-increase-from-2376-to-2390-in-ls-after-delimitation-says-anurag-thakur/article70881709.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8k7xal/article70882213.ece/alternates/LANDSCAPE_1200/DSC_8880.JPG",
-      "scraped_at": "2026-04-19 22:03:19.377518",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Anurag Thakur**, BJP leader and former Minister, refuted **DMK** and **Congress** accusations that delimitation would harm southern states. He argued that the Narendra Modi government's proposed \"50% formula\" would actually increase the number of seats for each state in the region compared to even 2011 Census projections.  He cited examples like Tamil Nadu gaining ten more seats, Kerala gaining ten more seats, and Karnataka gaining twenty more seats.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Karnataka",
-        "Kerala",
-        "Tamil Nadu",
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52670,
-      "title": "Tamil Nadu election 2026: Karur constituency, a hub of export-oriented textile units and bus building facilities - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/karur-constituency-a-hub-of-export-oriented-textile-units-and-bus-building-facilities/article70820369.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/k3q18u/article70882024.ece/alternates/LANDSCAPE_1200/DSC_6735.JPG",
-      "scraped_at": "2026-04-19 21:11:14.220913",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "The Karur constituency in Tamil Nadu is experiencing heightened political tension due to intense rivalries and shifting caste dynamics, particularly among the dominant Kongu Vellala Gounder community.  **DMK** has nominated **R. Thyagarajan**, a textile manufacturer, while the AIADMK's candidate is **M.R. Vijayabhaskar**. The constituency's economy relies heavily on textiles, bus body building, and agriculture, with an annual manufacturing value of ₹9,000 crore. Environmental concerns, including untreated effluent discharge from dyeing units, are also prominent issues in the race for power.  The upcoming election is expected to be a close contest between the DMK and AIADMK.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 52669,
-      "title": "DMK and its allies shattered women’s dreams, says Edappadi K. Palaniswami - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmk-and-its-allies-shattered-womens-dreams-says-edappadi-k-palaniswami/article70880447.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/alx70q/article70880546.ece/alternates/LANDSCAPE_1200/9868_19_4_2026_13_8_18_5_T_CODE_ADMK_10.JPEG",
-      "scraped_at": "2026-04-19 21:10:50.837030",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**Edappadi K. Palaniswami**, former Chief Minister of Tamil Nadu and AIADMK general secretary, criticized the **DMK** government's defeat of the Delimitation Bill and Women’s Reservation Bill, claiming it has shattered women's dreams.  He accused the DMK of prioritizing its alliance partners over the people of Tamil Nadu, citing issues such as lawlessness, drug abuse, and skyrocketing prices for essential commodities. Palaniswami also criticized the DMK-led front for being weak and lacking direction due to discriminatory seat-sharing practices.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam",
-        "rape_sexual_crime",
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52663,
-      "title": "Linking women’s reservation with delimitation is unconstitutional, contends G. Ramakrishnan - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/linking-womens-reservation-with-delimitation-is-unconstitutional-contends-g-ramakrishnan/article70881247.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rnp33a/article70881317.ece/alternates/LANDSCAPE_1200/2085_8_12_2025_18_2_27_2_DSC_2072.JPG",
-      "scraped_at": "2026-04-19 21:08:19.029763",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**G. Ramakrishnan**, Control Commission Chairperson of the **CPI(M)**, criticized the government's linking of women’s reservation and delimitation in the Constitution (131st Amendment) Bill, 2026. He argued that this linkage was undemocratic and intended to undermine opposition parties by campaigning against them based on the issue.  **Ramakrishnan** also questioned the timing of the special Lok Sabha session, citing a lack of transparency and the absence of an all-party meeting despite the unanimous enactment of the Women’s Reservation Act in 2023. He further highlighted the delay in implementing women's reservation before the 2024 Lok Sabha elections.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52661,
-      "title": "Tamil Nadu election 2026: Thiruvadanai constituency faces water scarcity, administrative limbo - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/thiruvadanai-constituency-faces-water-scarcity-administrative-limbo/article70823054.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ahitcv/article70882120.ece/alternates/LANDSCAPE_1200/10217_25_11_2025_21_9_57_1_DSC_7790.JPG",
-      "scraped_at": "2026-04-19 21:07:32.879995",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "R.M. Karumanickam",
-      "rephrased_article": "The Thiruvadanai Assembly Constituency, known as the \"Rice Bowl of Ramanathapuram,\" faces challenges with infrastructure and resource availability. **Farmers** in the constituency have called for more Direct Procurement Centres (DPCs) to streamline produce sales and a reliable Vaigai river water supply to ensure agricultural productivity. **K. Balasubramanian**, a farmer, highlighted the need for an exclusive DPC for the taluk due to the long distances involved in accessing existing ones.  **N. Madhavan**, an advocate, pointed out administrative confusion regarding government headquarters located within Thiruvadanai's boundaries despite serving Ramanathapuram. He suggested expanding the municipality and widening the Ramanathapuram constituency to include these hubs. **R.M. Karumanickam**, the incumbent MLA of Congress, has been criticized for failing to address critical issues like water scarcity and procurement hurdles.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "infrastructure",
-        "farmer_agriculture",
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52651,
-      "title": "No woman will be happy with DMK, Congress: Piyush Goyal - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/no-woman-will-be-happy-with-dmk-congress-piyush-goyal/article70881631.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/tko08b/article70881677.ece/alternates/LANDSCAPE_1200/DSC_6430.JPG",
-      "scraped_at": "2026-04-19 20:07:51.521084",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "DMK-Congress",
-      "rephrased_article": "**Piyush Goyal**, Union Minister for Commerce and Industries, criticized the **DMK-Congress** decision to defeat the women's reservation Bill, calling it a divisive move that further divides India.  He praised **Amit Shah**, Union Home Minister, who offered to increase seats in the state by 50% during Parliament discussions. Goyal emphasized Prime Minister Narendra Modi's commitment to inclusive development across all states and regions of India.",
-      "party_mentioned": [
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52650,
-      "title": "G.K. Vasan campaigns in Chennai seeking votes for NDA nominees - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/gk-vasan-campaigns-in-chennai-seeking-votes-for-nda-nominees/article70881669.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nqym3y/article70881731.ece/alternates/LANDSCAPE_1200/9127_19_4_2026_19_39_45_1_DSC_9910.JPG",
-      "scraped_at": "2026-04-19 20:07:34.035027",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "NDA",
-      "rephrased_article": "**Tamil Maanila Congress (Moopanar)** president G. K. Vasan campaigned for **NDA** nominee M. Thilagabama in the Perambur Assembly segment, emphasizing that voters should consider a candidate's ability to address their concerns rather than popularity.  Vasan highlighted issues like road encroachment and garbage dump problems in the area, urging support for Ms. Thilagabama who he said would champion these issues in the assembly. He also canvassed votes for NDA nominees in Thiru. Vi. Ka Nagar and Saidapet.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 52648,
-      "title": "Tamil Nadu election 2026: Alangulam constituency lacks job opportunities, vegetable storage facilities - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/sitting-mla-takes-on-former-mp-in-alangulam/article70823330.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/z47aac/article70882144.ece/alternates/LANDSCAPE_1200/2315_4_4_2026_21_5_22_1_BEEDI.JPG",
-      "scraped_at": "2026-04-19 20:06:59.238842",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "In the Alangulam constituency of Tamil Nadu, a fierce battle is brewing between candidates from the ruling **DMK** and the AIADMK ahead of the April 23rd elections.  The contest pits incumbent MLA against a former MP, with the DMK fielding P.H. Manoj Pandian, who recently defected from the opposition party.  Other contenders include Prabhakaran of the AIADMK and candidates from the NTK and TVK parties. The constituency has faced challenges such as groundwater depletion due to illegal stone mining, and a lack of adequate storage facilities for agricultural produce.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy",
-        "infrastructure",
-        "economy"
-      ]
-    },
-    {
-      "id": 52645,
-      "title": "Tamil Nadu election 2026: Coimbatore North constituency voters look for wider roads, support for MSMEs - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/coimbatore-north-voters-look-for-wider-roads-and-support-for-msmes/article70823481.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9zask6/article70882155.ece/alternates/LANDSCAPE_1200/Saravanampatti%20on%20Sathyamangalam%20Road%205.jpg",
-      "scraped_at": "2026-04-19 20:06:03.420826",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu election 2026",
-      "rephrased_article": "**Coimbatore North**, a constituency encompassing areas added to the **Coimbatore Corporation** in 2007, will see a four-pronged contest in the 2026 Assembly elections. Candidates from the BJP, DMK, NTK, and TVK are vying for votes, promising solutions to issues such as road congestion, MSMEs revival, and civic amenities improvement. Residents like Arumugam and Ashok highlight concerns about Saravanampatti road widening delays, irregular water supply, and poor road conditions in their areas. Consumer activist K. Kathirmathiyon criticizes the lack of progress on the western bypass road's second phase and calls for an assurance against toll collection. Political analyst Ajjay Marshal emphasizes the constituency's growing IT sector workforce and micro-industry base, urging candidates to address their specific needs.",
-      "party_mentioned": [
-        "BJP",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52643,
-      "title": "Tamil Nadu election 2026: Two-cornered contest in Vepanahalli constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/two-cornered-contest-at-the-geographically-fragmented-vepanahalli-constituency/article70823709.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/wt61ki/article70882175.ece/alternates/LANDSCAPE_1200/10213_14_5_2025_14_21_49_2_KA15TOMATOPRICELOWINKRISHNAGIRI0001.JPG",
-      "scraped_at": "2026-04-19 20:05:19.167604",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu election 2026",
-      "rephrased_article": "The Vepanahalli constituency in Tamil Nadu faces diverse challenges due to its fragmented geography and proximity to industrial areas.  **Farmers** are protesting against land acquisition for industrial estates, while **wild animals**, particularly elephants, pose a threat to crops in certain areas. The constituency also seeks two irrigation projects from the government to address water management issues.  The upcoming election is a two-cornered contest between the AIADMK's K.P. Munusamy and the DMK's P.S. Srinivasan, with the latter benefiting from potential vote transfer from the DMDK.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52632,
-      "title": "Tamil Nadu election 2026: Effluent discharge a major issue in Veerapandi constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/effluent-discharge-into-river-thirumanimutharu-a-major-issue-in-veerapandi/article70822972.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1ntljw/article70882152.ece/alternates/LANDSCAPE_1200/9868_3_4_2026_13_9_45_3_THIRUMANIMUTHARU_3JPG.JPEG",
-      "scraped_at": "2026-04-19 19:31:33.920201",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "The Veerapandi constituency in Tamil Nadu has a long history of political competition between the **AIADMK** and the **DMK**, with the AIADMK holding the seat eight times since 1977.  Farmers face challenges due to pollution from illegal dyeing units impacting their water sources, while encroachments on Panamarathupatti lake have left it dry for years. Residents also demand a railway underpass in Malankadu and improvements to existing infrastructure. The AIADMK's S. Sri Balaji Sukumar, the DMK's A.K. Tharun, M.S. Palanivel of TVK, and Rajeshkumar of NTK are contesting the upcoming election.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy",
-        "infrastructure",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 52605,
-      "title": "Tamil Nadu election 2026: Tiruchi East constituency is grappling with civic issues for long - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-star-constituency-is-grappling-with-civic-issues-for-long/article70819795.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/q82n9i/article70881945.ece/alternates/LANDSCAPE_1200/DSC_7307.JPG",
-      "scraped_at": "2026-04-19 17:14:01.059614",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu election 2026",
-      "rephrased_article": "**C. Joseph Vijay**, a former actor turned politician, has chosen Tiruchi East as one of his electoral debut constituencies in Tamil Nadu.  The constituency is known for its dense population and diverse mix of communities, including Christians and Muslims. The DMK-led coalition has historically dominated the region, with **M. Karunanidhi** holding the seat in 2011 and 2016.  **V. Krishnasamy**, a NTK candidate, argues that Vijay's decision to contest from two constituencies is insensitive to local concerns. The constituency faces challenges such as traffic congestion, inadequate civic amenities, and unrestrained commercial development, prompting calls for a Metro Rail system.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52591,
-      "title": "Tamil Nadu election 2026: Regular drinking water, bifurcation of taluk prominent demands in Mettur constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/regular-drinking-water-supply-streetlights-on-state-highway-and-bifurcating-mettur-taluk-are-prominent-demands-in-this-constituency/article70815378.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/86e22h/article70881686.ece/alternates/LANDSCAPE_1200/9868_2_4_2026_10_44_9_1_WATCH_DAM_1.JPEG",
-      "scraped_at": "2026-04-19 16:10:14.872945",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Government",
-      "rephrased_article": "The Mettur constituency in Tamil Nadu faces issues such as traffic congestion, inadequate streetlights on a state highway, and inconsistent water supply to its municipalities. Residents have raised concerns about the location of a Tasmac outlet near the Kolathur bus stand, lack of proper lighting on a stretch between Mettur, Kullarampatti, Masilapalayam, Viralikadu, Perumal Kovil, Moolakadu, and Kolathur Junction, and inadequate drinking water supply.  **R. Sakthivel**, a resident of Mettur Municipality, has also highlighted the need for a lift irrigation scheme to address water scarcity in the area. **C. Sekar**, a resident of Mecheri, demands the creation of a new taluk for Mecheri due to its distance from the existing Mettur taluk and the delay in widening roads.  **G.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy",
-        "infrastructure",
-        "health"
-      ]
-    },
-    {
-      "id": 52588,
-      "title": "Tamil Nadu election 2026: Andipatti constituency people’s woes remain unresolved - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/andipatti-peoples-woes-remain-unresolved/article70822610.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/q1o2dg/article70881722.ece/alternates/LANDSCAPE_1200/10216_4_4_2026_17_52_19_2_04_04_2026_VAIGAI_DAM_1.JPG",
-      "scraped_at": "2026-04-19 16:08:54.959411",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "The Andipatti Assembly Constituency in Theni district of Tamil Nadu is facing a fierce contest between the incumbent DMK MLA A. Maharajan and the AIADMK candidate A. Logirajan. While Maharajan has implemented welfare programs and infrastructure development, an AIADMK functionary argues that corruption within the DMK has alienated voters. The election is expected to be a close one, with both parties relying on their legacy of MGR and Jayalalithaa's work in the region.  The outcome will likely hinge on voter sentiment towards the two Dravidian parties and their performance on local issues such as tourism and crime prevention.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 52585,
-      "title": "Tamil Nadu election 2026: Rapidly growing Singanallur constituency needs focus on civic amenities - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-rapidly-growing-urban-spread-in-coimbatore-needs-focus-on-civic-amenities/article70820811.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/252lmc/article70881749.ece/alternates/LANDSCAPE_1200/Singanallur%20Junction%205.jpg",
-      "scraped_at": "2026-04-19 16:07:44.782097",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Singanallur Assembly constituency",
-      "rephrased_article": "**Residents** of the Singanallur Assembly constituency in Coimbatore city are expressing concerns about inadequate civic infrastructure and rising property taxes.  They point to issues such as lack of proper drainage systems, water supply problems, and insufficient road maintenance. **Elected representatives** from various political parties have represented the constituency over the past five decades, with the 2026 Assembly elections expected to see a contest between several parties including the AIADMK, Congress, NTK, and TVK.  The constituency faces challenges in providing adequate infrastructure for its growing population, particularly in areas like Peelamedu and Ramanathapuram.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52574,
-      "title": "Tamil Nadu election 2026: Mailam constituency residents demand higher education institutions, better civic amenities - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-demand-institutions-for-higher-education-better-civic-amenities-in-mailam/article70818972.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-19 15:14:35.472779",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu election 2026",
-      "rephrased_article": "A fierce contest is brewing in the Mailam Assembly Constituency of Villupuram district, with **C.Ve. Shanmugam** of the AIADMK and **L. Venkatesan** of the DMDK vying for victory.  Shanmugam, a former Minister and MP who has relocated from Villupuram, faces off against Venkatesan, who previously served as MLA for Tirukkoyilur in 2011. The ruling DMK has assigned the Tirukkoyilur seat to Goutham Sigamani, son of former Minister K. Ponmudy.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52571,
-      "title": "At least 23 workers killed in fireworks accident near Virudhunagar district - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/virudhunagar-fireworks-factory-explosion-tamil-nadu-death-toll-updates/article70880724.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/n404w3/article70880716.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-19%20at%2017.06.25.jpeg",
-      "scraped_at": "2026-04-19 15:13:17.214112",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Vanaja fireworks unit",
-      "rephrased_article": "A devastating fire at a **Vanaja** fireworks unit near Virudhunagar district in Tamil Nadu resulted in the deaths of at least 23 workers and injuries to six others.  The **Tamil Nadu** Chief Minister, **M.K. Stalin**, dispatched two ministers to oversee relief efforts and ensure necessary support for the affected families. The fire was extinguished after a lengthy struggle with remaining chemicals and unfinished goods continuing to explode.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 52568,
-      "title": "Tamil Nadu election 2026: Uthiramerur constituency plagued by unfair trade practices at DPCs - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/an-agricultural-belt-plagued-by-unfair-trade-practices-at-dpcs-lack-of-storage-facilities/article70815662.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/l1ek5o/article70817334.ece/alternates/LANDSCAPE_1200/BVR_2248.JPG",
-      "scraped_at": "2026-04-19 15:11:59.277397",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**Farmers** in Uthiramerur, Tamil Nadu are facing challenges including unfair trade practices at direct procurement centers and a lack of adequate storage facilities for their produce.  They also highlight the need for improved infrastructure, such as desilting water channels and building permanent warehouses. **DMK** MLA K. Sundar acknowledges these concerns and promises to address them by providing pattas to residents who have been waiting for years and taking steps to improve infrastructure in the constituency.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52549,
-      "title": "Tamil Nadu election 2026: Nanguneri constituency, a dry agrarian region with no dearth of caste issues - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/heated-tri-corner-contest-anticipated-in-nanguneri-a-dry-agrarian-region-with-no-dearth-of-caste-issues/article70812015.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/yv77w5/article70881237.ece/alternates/LANDSCAPE_1200/2315_19_4_2026_12_17_43_1_NANGUNERI_1.JPG",
-      "scraped_at": "2026-04-19 14:14:10.402023",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian National Congress",
-      "rephrased_article": "A tri-corner contest is expected in the Nanguneri Assembly segment of Tamil Nadu, where **Congress**, **Amma Makkal Munnetra Kazhagam** and the newly formed **Tamilaga Vetri Kazhagam** are vying for victory.  The constituency has historically been a stronghold of the **Indian National Congress** until 1971 when the **DMK** took control, with subsequent wins by the **AIADMK**.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 52523,
-      "title": "Tamil Nadu election 2026: Omalur constituency residents seek cold storage facility for marigold - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cold-storage-facility-for-marigold-market-price-for-land-given-for-airport-expansion-prominentdemands-in-omalur-constituency/article70806999.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pofkkr/article70818993.ece/alternates/LANDSCAPE_1200/9868_31_3_2026_15_9_14_3_MARIGOLD_3.JPG",
-      "scraped_at": "2026-04-19 11:44:57.410842",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "**Omalur** constituency, located 15 km from Salem, has been a stronghold for the **AIADMK**, winning eight elections since 1977.  The DMK has won twice, while other parties like the Congress and PMK have also secured victories in the past. Agriculture is a major industry in Omalur, with marigold cultivation prevalent in certain areas.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 52487,
-      "title": "Tamil Nadu Election 2026: At least 404 candidates in T.N. have serious criminal cases against them: Report - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/at-least-404-candidates-in-tamil-nadu-have-serious-criminal-cases-against-them-report/article70880314.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/l6olt8/article70880422.ece/alternates/LANDSCAPE_1200/9712_15_4_2026_15_52_55_3__DSC0109.JPG",
-      "scraped_at": "2026-04-19 09:55:50.894280",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "political parties",
-      "rephrased_article": "At least 404 candidates in the Tamil Nadu Assembly elections have declared serious criminal cases against them, according to a report released by **the Association for Democratic Reforms (ADR)** and **Tamil Nadu Election Watch (TNEW)**.  The report analyzed affidavits of 3,992 candidates, revealing that 118 out of 170 from the AIADMK, 92 out of 231 from the TVK, and 70 out of 175 from the DMK have declared such cases.  **Jayaram Venkatesan**, State Coordinator of **Arappor Iyakkam**, stated that despite Supreme Court directives, political parties continue to nominate candidates with criminal records.",
-      "party_mentioned": [
-        "BJP",
-        "INC",
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "rape_sexual_crime",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 52422,
-      "title": "T.N. Assembly election: flames of DMK’s black flag protest burnt down BJP’s saffron flag, asserts Stalin - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-flames-of-dmks-black-flag-protest-burnt-down-bjps-saffron-flag-asserts-stalin/article70878320.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/vid6a7/article70878808.ece/alternates/LANDSCAPE_1200/9869_18_4_2026_20_56_53_1_IMG_20260418_WA0204.JPG",
-      "scraped_at": "2026-04-19 03:26:57.672978",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**M.K. Stalin**, president of the DMK, compared his burning of a copy of the Constitution Amendment Bill to its defeat in Parliament on April 17th, stating that the flames of the protest had extinguished **BJP's** saffron flag.  While campaigning for candidates in Tiruppur district, he sang a song from Rajnikanth's film \"Rajadhi Raja,\" emphasizing Tamil Nadu's strength and resilience.",
-      "party_mentioned": [
-        "BJP",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52392,
-      "title": "Tamil Nadu election 2026: Manamadurai constituency voters seek tangible changes - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/manamadurai-voters-seek-tangible-changes-beyond-politics-and-empty-promises/article70784124.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/14s19y/article70787929.ece/alternates/LANDSCAPE_1200/10217_17_10_2025_19_44_31_1_DSC_0807.JPG",
-      "scraped_at": "2026-04-18 21:47:29.779704",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "DMK",
-      "rephrased_article": "The Manamadurai Assembly constituency in Sivaganga district, known for its caste-based conflicts and police-inflicted torture incidents, has seen no significant development despite a DMK legislator. The constituency's residents expressed dissatisfaction over the lack of infrastructure improvements, including a new bridge to alleviate traffic congestion, as well as inadequate educational facilities and industrial support.  They also highlighted concerns about environmental safety issues related to a private medical waste disposal unit operating on the SIPCOT campus. **L. Pandi**, coordinator of Social Education for Rural Development (SERD), called for improved public infrastructure and a new bridge over the Vaigai river, while **K. Balasubramaniam**, former Union Councillor and member of Communist Party of India (Marxist), emphasized the need for industrial development and support for local businesses.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52391,
-      "title": "Tamil Nadu election 2026: Bhavani constituency faces infrastructure gaps, livelihood concerns - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/bhavani-constituency-faces-infrastructure-gaps-livelihood-concerns/article70787442.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6191r/article70787966.ece/alternates/LANDSCAPE_1200/9870_26_3_2026_12_1_32_2__DSC1535.JPG",
-      "scraped_at": "2026-04-18 21:47:05.023139",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Bhavani constituency",
-      "rephrased_article": "**Bhavani**, a town known for its handwoven jamakkalams and the Sangameswarar Temple, faces challenges in infrastructure development and declining traditional livelihoods.  The town's religious tourism is hampered by inadequate facilities and sanitation concerns, while civic infrastructure remains underdeveloped. **Farmers** struggle with water scarcity, low soil fertility, and drought vulnerability, leading to a decline in agricultural profitability. The **GI-tagged Kavindhapadi nattu sakkarai**, however, has boosted sugarcane farmers' income, while the Jamakkalams sector faces competition from cheaper powerloom products. Despite these challenges, residents advocate for tourism development and improved urban mobility.",
-      "party_mentioned": [
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "farmer_agriculture",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52386,
-      "title": "Tamil Nadu election 2026: Long-pending demand of Chengalpattu constituency residents for better infrastructure remain unfulfilled - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/long-pending-demand-of-chengalpattu-constituency-residents-for-better-infrastructure-remain-unfulfilled/article70796999.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/m65sd5/article70808804.ece/alternates/LANDSCAPE_1200/chengalpattu%20pic.jpeg",
-      "scraped_at": "2026-04-18 21:44:58.225541",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Tamil Nadu Government",
-      "rephrased_article": "**Residents** of the Chengalpattu Assembly Constituency in Tamil Nadu are expressing frustration over unfulfilled demands for infrastructure improvements, water resources management, and agricultural support.  They cite issues such as incomplete sewer line projects, lack of Palar River water access to all areas, and a delayed check dam construction at Udayanpakkam. Concerns also include traffic congestion, inadequate bus facilities, and the need for improved healthcare services. **Residents** have been calling on the government to address these concerns and prioritize their needs.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
         "farmer_agriculture",
         "foreign_policy"
       ]

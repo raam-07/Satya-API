@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.544930",
+  "generated_at": "2026-05-28 21:04:02.049613",
   "party": "INC",
   "full_name": "Indian National Congress",
   "ideology": "Centrist, Social liberalism",
@@ -12,12 +12,12 @@
   ],
   "color": "#00BFFF",
   "stats": {
-    "total_articles": 654,
-    "articles_last_30d": 370,
+    "total_articles": 701,
+    "articles_last_30d": 374,
     "sentiment_breakdown_30d": {
-      "neutral": 131,
+      "neutral": 132,
       "negative": 157,
-      "positive": 82
+      "positive": 85
     }
   },
   "ministers": [
@@ -47,6 +47,13 @@
       "role": "Former Chief Minister",
       "state": "Chhattisgarh",
       "criminal_cases": 1,
+      "criminal_cases_in_news": 0
+    },
+    {
+      "name": "V.D. Satheesan",
+      "role": "Chief Minister of Kerala",
+      "state": "Kerala",
+      "criminal_cases": 0,
       "criminal_cases_in_news": 0
     },
     {
@@ -91,6 +98,29 @@
   ],
   "recent_articles": [
     {
+      "id": 62284,
+      "title": "Telangana CM moots unified card to extend benefits of welfare schemes - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-moots-unified-card-to-extend-benefits-of-welfare-schemes/article71033365.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yx1jg5/article71033465.ece/alternates/LANDSCAPE_1200/DSC4039.jpg",
+      "scraped_at": "2026-05-28 12:36:33.366367",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**A. Revanth Reddy**, **Telangana** Chief Minister, directed officials to develop a unified card for welfare scheme benefits. The card will encompass details of individual beneficiaries from various departments and utilize artificial intelligence to analyze data and identify ineligible recipients. Officials are tasked with gathering information from different departments through a special drive, incorporating details of schemes like Aarogyasri Health Scheme, fee reimbursement, insurance coverage, and the upcoming insurance scheme.  The Chief Minister also instructed officials to study the Kerala government's approach for migrant workers in the Middle East.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "economy"
+      ]
+    },
+    {
       "id": 62271,
       "title": "Karnataka politics LIVE: Karnataka Chief Minister Siddaramaiah announces decision to step down at breakfast meeting with Ministers - The Hindu",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-news-leadership-change-live-updates-dk-shivakumar-siddaramaiah-congress-meet-rajya-sabha-seat-may-28-2026/article71029253.ece",
@@ -133,7 +163,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Siddaramaiah"
       ],
       "states_mentioned": [
@@ -527,6 +556,28 @@
       "topic_tags": []
     },
     {
+      "id": 61933,
+      "title": "Mundamveli residents lay day-long siege to GCDA headquarters - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/mundamveli-residents-lay-day-long-siege-to-gcda-office/article71025302.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-26 22:27:53.001972",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "GCDA",
+      "rephrased_article": "Residents of the P&T Apartment Complex in Mundamveli protested at the **Greater Cochin Development Authority (GCDA)** headquarters on Tuesday, demanding a probe into alleged violations of distance norms from an 110 kV EHT line. The residents, who moved into the twin towers built by the GCDA in January 2024, have been facing electrical problems and leakage issues since moving in. **Kochi MLA Mohammed Shiyas** visited the protest site and promised to petition the Chief Minister for a Vigilance probe.  The GCDA maintains that the apartments were constructed with all necessary permissions but acknowledged the need to address the residents' concerns about the safety of the structures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence"
+      ]
+    },
+    {
       "id": 61928,
       "title": "Himachal panchayat polls: 78.53% polling in first phase, women voters outnumber men - The Hindu",
       "url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-pradesh-panchayat-polls-first-phase/article71026678.ece",
@@ -707,6 +758,25 @@
         "education",
         "economy"
       ]
+    },
+    {
+      "id": 61774,
+      "title": "UDF government will scrutinise steps taken by previous LDF government in MSC Elsa 3 disaster, says V.D. Satheesan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/udf-government-will-scrutinise-steps-taken-by-previous-ldf-government-in-msc-elsa-3-disaster-says-vd-satheesan/article71021894.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-25 22:43:08.967781",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "UDF government",
+      "rephrased_article": "**Kerala Chief Minister V.D. Satheesan** stated that the government would scrutinize the measures taken by the previous LDF government regarding the environmental damage caused by the MSC Elsa 3 shipping disaster and may amend the admiralty suit filed for compensation. The cabinet also approved a policy speech for the Governor in the Kerala Legislative Assembly on May 29th, appointed Apu John Joseph as Government Chief Whip, and K.C. Vincent as the new Additional Advocate General.  The government will convene a high-level meeting at 10 a.m. on Wednesday to prepare for the monsoon season.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     },
     {
       "id": 61769,
@@ -1188,6 +1258,25 @@
       ]
     },
     {
+      "id": 61531,
+      "title": "Kerala Chief Minister V.D. Satheesan offers Tulabharam at Guruvayur temple - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-chief-minister-vd-satheesan-offers-tulabharam-at-guruvayur-temple/article71018235.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rl6xtq/article71018503.ece/alternates/LANDSCAPE_1200/80688_24_5_2026_20_42_25_1_CHIEFMINISTEVD_KKN1.JPG",
+      "scraped_at": "2026-05-24 21:37:51.477278",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**Chief Minister V. D. Satheesan** visited the **Guruvayur Sreekrishna Temple** on Sunday morning, offering prayers and performing the traditional Tulabharam ritual using 71 kg of butter. He was received by **devaswom chairperson A. V. Gopinath** and administrator **O. B. Arun Kumar**.  After the ceremony, **Satheesan** attended the wedding ceremony of **Revenue Minister A. P. Anilkumar’s** son.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
       "id": 61530,
       "title": "KTR accuses Congress govt. of conspiring to install meters to farm power connections - The Hindu",
       "url": "https://www.thehindu.com/news/national/telangana/ktr-accuses-congress-govt-of-conspiring-to-install-meters-to-farm-power-connections/article71018563.ece",
@@ -1290,6 +1379,27 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 61510,
+      "title": "Master plan to transform Kochi into model city to come up in six months, says Satheesan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/master-plan-to-transform-kochi-into-model-city-to-come-up-in-six-months-says-satheesan/article71017722.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/14bb63/article71018638.ece/alternates/LANDSCAPE_1200/Satheesan14.JPG",
+      "scraped_at": "2026-05-24 20:15:17.286499",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**Chief Minister V.D. Satheesan** announced a plan to transform **Kochi** into a model city with seamless transport and world-class infrastructure through a \"twin city\" expansion.  He emphasized the government's commitment to improving people's quality of life, boosting Kerala's economy, and addressing issues like brain drain.  The Chief Minister also pledged to distribute wealth fairly among all sections of society and prevent communalism. **Actor Mammootty** and **Actor Mohanlal** expressed their support for his vision.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
       ]
     },
     {
@@ -1782,6 +1892,27 @@
       "topic_tags": [
         "infrastructure",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 61273,
+      "title": "KSRTC driver suspended over defamatory post against Kerala Chief Minister V.D. Satheesan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/ksrtc-driver-suspended-over-defamatory-post-against-kerala-chief-minister-vd-satheesan/article71015474.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-23 21:33:19.411467",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**KSRTC** driver S. Sunilkumar has been suspended for posting defamatory content about **Chief Minister V.D. Satheesan** on Facebook and circulating his picture in a defamatory manner. The corporation initiated disciplinary action against him, while the police are considering filing an IT Act case.  Further investigation is underway with the assistance of the cyber cell.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
       ]
     },
     {
@@ -2742,6 +2873,33 @@
       ],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 59525,
+      "title": "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/ashas-meet-kerala-cm-designate-vd-satheesan-urge-him-to-honour-pre-poll-promises/article70986603.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/k6jxjm/article70986813.ece/alternates/LANDSCAPE_1200/NH01VD05.JPG",
+      "scraped_at": "2026-05-16 11:11:28.750645",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "V.D. Satheesan",
+      "rephrased_article": "**Kerala ASHA Health Workers’ Association (KAHWA)** met with **V.D. Satheesan**, the new Chief Minister-designate, to reiterate their demands for an increase in honorarium and retirement benefits. They expressed hope that the new government would prioritize addressing their concerns.  **Satheesan** assured them that he would not forget his pre-election promise of resolving their grievances.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "protest_opposition"
       ]
     },
     {
@@ -5313,207 +5471,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 57884,
-      "title": "SC order on Mysuru heritage structures: MP seeks immediate restoration works - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/sc-order-on-mysuru-heritage-structures-mp-seeks-immediate-restoration-works/article70959528.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/cm45as/article70959780.ece/alternates/LANDSCAPE_1200/Yaduveer-criticGI4FH1G4L.3.jpg.jpg",
-      "scraped_at": "2026-05-09 15:08:01.907260",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Mysuru MP",
-      "rephrased_article": "**Yaduveer Krishnadatta Chamaraja Wadiyar**, **Mysuru MP**, urged **Chief Minister Siddaramaiah** to release funds and begin restoration work on the historic Devaraja Market and Lansdowne Building following a Supreme Court ruling that ordered their conservation instead of demolition. The court's decision, based on an IIT Roorkee assessment, found nearly 70% of the structures could be repaired and restored while retaining the existing foundation. **Wadiyar** emphasized the importance of preserving Mysuru’s historic architecture and urged the State government to use allocated funds exclusively for conservation efforts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 57875,
-      "title": "Bidar: Take informed decisions about career paths, IAS officer tells students at The Hindu EducationPlus Career Counselling 2026 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bidar-take-informed-decisions-about-career-paths-ias-officer-tells-students-at-the-hindu-educationplus-career-counselling-2026/article70958805.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/yaz50a/article70959256.ece/alternates/LANDSCAPE_1200/9727_9_5_2026_16_43_41_1_10BGMRAHULSHINDHETHEPCC1.JPG",
-      "scraped_at": "2026-05-09 14:06:59.678212",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "other",
-      "rephrased_article": "**Rahul Shinde**, a senior IAS officer and Belagavi Zilla Panchayat CEO, advised students to choose rewarding careers while developing resilience. He emphasized focusing on personal interests and aptitude rather than fleeting trends or job market demands. **Dayananda J.**, CET nodal officer, provided details about the KEA CET examination and counselling.  **Sachin Gudge**, associate professor at Bidar Institute of Medical Sciences, spoke about medicine as a career path. Other speakers included **Vinita Balbhim Patil**, principal of Lingaraj Appa Engineering College, and **Parvat Bijaspur**, CA, who discussed careers in commerce.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "health",
-        "education"
-      ]
-    },
-    {
-      "id": 57855,
-      "title": "Kerala CM debate: Kharge to hold crucial talks with senior leaders today evening - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-debate-kharge-to-hold-crucial-talks-with-senior-leaders-today-evening/article70958477.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nebpof/article70958548.ece/alternates/LANDSCAPE_1200/10258_22_4_2026_16_50_36_1_KLB_AICC_MALLIKARJUN_KHARGE_3.JPEG",
-      "scraped_at": "2026-05-09 12:18:14.449576",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Kerala Congress",
-      "rephrased_article": "**Mallikarjun Kharge**, **AICC president**, will meet with key figures in the Kerala Congress leadership, including **K.C. Venugopal**, **V.D. Satheesan**, and **Ramesh Chennithala**, on Saturday (May 9, 2026) to discuss the selection of a new Chief Minister.  **Rahul Gandhi** is expected to meet with the Kerala leaders after a consensus emerges from the meeting chaired by **Kharge**.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57850,
-      "title": "Tamil Nadu government formation: VCK, IUML extend unconditional support to Vijay’s TVK - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-vck-iuml-extend-unconditional-support-to-vijays-tvk/article70958929.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/8qigd/article70958946.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-09%20at%2016.33.33.jpeg",
-      "scraped_at": "2026-05-09 12:15:46.736003",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "TVK",
-      "rephrased_article": "**Thol. Thirumavalavan**, president of the **Viduthalai Chiruthaigal Katchi (VCK)**, and **K.M. Kader Mohideen**, national president of the **Indian Union Muslim League (IUML)**, extended unconditional support to the **Tamilaga Vettri Kazhagam (TVK)** to form the government in Tamil Nadu. The letters were sent to the Governor and expressed support for TVK leader C. Joseph Vijay's leadership. With this support, the TVK now has 120 MLAs-elect, exceeding the majority mark needed to form a government.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57849,
-      "title": "Which party governs which State/UT: In maps - The Hindu",
-      "url": "https://www.thehindu.com/news/which-party-governs-which-state-in-maps/article70955247.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pbjvvu/article70949412.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000286B.jpg",
-      "scraped_at": "2026-05-09 12:15:25.231378",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**The Bharatiya Janata Party (BJP)** and its allies secured victories in Assam, Puducherry, and West Bengal, while the Congress-led UDF won in Tamil Nadu. **Suvendu Adhikari**, a BJP leader, is set to become the first BJP Chief Minister of West Bengal. The results mark a shift in the political landscape with the BJP or the NDA now governing 20 states and 2 Union Territories.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "NDA"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Sikkim",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57834,
-      "title": "Congress seeks discussion in Parliament on China's 'support' to Pakistan in Operation Sindoor - The Hindu",
-      "url": "https://www.thehindu.com/news/national/congress-seeks-discussion-in-parliament-on-chinas-support-to-pakistan-in-operation-sindoor/article70958763.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9rv86y/article70958786.ece/alternates/LANDSCAPE_1200/CONGRESS%20KHERA%20PC%20DELHI%202026_01_05_23.jpg",
-      "scraped_at": "2026-05-09 11:32:30.193773",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "China",
-      "rephrased_article": "**Congress** general secretary (communications) Jairam Ramesh demanded a discussion in Parliament on **China's** claims of providing on-site technical support to Pakistan during Operation Sindoor last year.  Ramesh questioned the government's loosening of investment and trade curbs on China, its deepening industrial dependency, and why Prime Minister Narendra Modi gave a clean chit to China in 2020 after the conflict. He cited **Lt. Gen. Rahul Singh**, Deputy Chief of Army Staff, who had previously revealed details about **China's** involvement.  Ramesh emphasized the need for these issues to be discussed in Parliament.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Ladakh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 57829,
-      "title": "West Bengal Cabinet 2026: From Dilip Ghosh to Agnimitra Paul, Ministers who were sworn in along with Suvendu Adhikari - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal-2026-cabinet-ministers-bjp-government-suvendu-adhikari-cm-agnimitra-paul-dilip-ghosh/article70958634.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/urg6b1/article70958478.ece/alternates/LANDSCAPE_1200/20260509049L.jpg",
-      "scraped_at": "2026-05-09 11:31:00.829294",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Suvendu Adhikari**, newly sworn in as the Chief Minister of West Bengal, inducted five new ministers into his cabinet on Saturday. The swearing-in ceremony was attended by **Prime Minister Narendra Modi**, **Union Ministers Amit Shah, Rajnath Singh, J. P. Nadda, and Dharmendra Pradhan**, among other BJP leaders.  **Dilip Ghosh**, a senior BJP leader who secured victory in the Kharagpur seat, **Agnimitra Paul**, a fashion designer-turned-legislator who won Asansol Dakshin, **Ashok Kirtania**, a BJP stalwart who gained victory in Bangaon Uttar, and **Kshudiram Tudu**, a former school teacher from Ranibandh (ST) constituency, were among the newly appointed ministers.  **Nisith Pramanik**, a key face of BJP from North Bengal, was also inducted into the cabinet.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Yogi Adityanath",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Tripura",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "farmer_agriculture",
-        "protest_opposition"
       ]
     }
   ]

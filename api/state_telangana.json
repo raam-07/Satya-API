@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.674992",
+  "generated_at": "2026-05-28 21:04:02.190127",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 208,
+    "total_articles": 224,
     "articles_last_30d": 111
   },
   "top_cities_30d": {
-    "Hyderabad": 40,
+    "Hyderabad": 39,
     "Delhi": 8,
     "Mumbai": 5,
     "Bengaluru": 3,
@@ -24,18 +24,41 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 99,
-    "infrastructure": 36,
+    "foreign_policy": 98,
+    "infrastructure": 35,
     "education": 34,
-    "economy": 25,
-    "farmer_agriculture": 16,
-    "protest_opposition": 15,
-    "health": 9,
+    "economy": 26,
+    "farmer_agriculture": 15,
+    "protest_opposition": 14,
+    "health": 10,
     "crime_violence": 8,
     "rape_sexual_crime": 7,
     "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 62284,
+      "title": "Telangana CM moots unified card to extend benefits of welfare schemes - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-moots-unified-card-to-extend-benefits-of-welfare-schemes/article71033365.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yx1jg5/article71033465.ece/alternates/LANDSCAPE_1200/DSC4039.jpg",
+      "scraped_at": "2026-05-28 12:36:33.366367",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**A. Revanth Reddy**, **Telangana** Chief Minister, directed officials to develop a unified card for welfare scheme benefits. The card will encompass details of individual beneficiaries from various departments and utilize artificial intelligence to analyze data and identify ineligible recipients. Officials are tasked with gathering information from different departments through a special drive, incorporating details of schemes like Aarogyasri Health Scheme, fee reimbursement, insurance coverage, and the upcoming insurance scheme.  The Chief Minister also instructed officials to study the Kerala government's approach for migrant workers in the Middle East.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "economy"
+      ]
+    },
     {
       "id": 62230,
       "title": "Order an independent security audit of CBSE’s OSM portal, activists tell Education Ministry - The Hindu",
@@ -5107,8 +5130,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Telangana",
@@ -5121,35 +5143,6 @@
       "topic_tags": [
         "protest_opposition",
         "crime_violence"
-      ]
-    },
-    {
-      "id": 50323,
-      "title": "Prominent candidates in Chennai file nomination papers, set out to canvass votes - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/prominent-candidates-file-nomination-papers-set-out-to-canvass-votes/article70830561.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-11 17:39:39.583287",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Assembly election",
-      "rephrased_article": "Several candidates filed their nomination papers for the Tamil Nadu Assembly election on Monday, April 6, 2026. **Piyush Goyal**, accompanied by members of the BJP and AIADMK, supported **Tamilisai Soundararajan**'s bid for the Mylapore Taluk office.  **B. Valarmathi**, former Minister and AIADMK candidate for Thousand Lights, highlighted civic grievances in the constituency. **Aassan Maulaana**, Congress candidate for Velachery, will face off against M.K. Ashok of the AIADMK. **Ma. Subramanian**, Health Minister and DMK candidate for Saidapet, conducted door-to-door campaigns.  **Kanimozhi**, DMK deputy general secretary and MP, campaigned in various constituencies.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

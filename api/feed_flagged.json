@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-28 12:49:12.488744",
-  "total": 165,
+  "generated_at": "2026-05-28 21:04:01.982644",
+  "total": 180,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 131,
-    "institutional_failure": 17,
-    "scale_of_harm": 11,
-    "suppression": 6
+    "power_abuse": 141,
+    "institutional_failure": 18,
+    "scale_of_harm": 14,
+    "suppression": 7
   },
   "articles": [
     {
@@ -1409,6 +1409,88 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Settlers celebrating ethnic cleansing is a grave human rights violation."
+    },
+    {
+      "id": 49863,
+      "title": "‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse | Technology | The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/09/google-meta-snap-microsoft-eu-child-sexual-abuse",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/c26e9c02fac62382c5e6a75c15356be34df5a02b/148_0_4389_3514/master/4389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6bea6e4b74d32e10d9ea952f52d926e4",
+      "scraped_at": "2026-04-10 08:00:06.698352",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "European Parliament",
+      "rephrased_article": "The European Parliament blocked the extension of a law that allowed big tech companies to scan their platforms for child sexual exploitation. This lapse in legislation, which was put in place as a temporary measure in 2021, has created uncertainty for companies and raised concerns about potential increases in child abuse crimes. While some companies will continue voluntarily scanning their platforms for child sexual abuse material, experts warn that the lack of a permanent legal framework could lead to a decline in reports of such material and allow predators to exploit children more easily.  The EU parliament is currently negotiating a permanent legal framework to address this issue.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "A lapse in child protection legislation raises serious concerns about increased child abuse."
+    },
+    {
+      "id": 49836,
+      "title": "Afrika Bambaataa, hip-hop music pioneer, dies aged 68",
+      "url": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7483/live/0aeb9580-3477-11f1-a27c-25e679607533.jpg",
+      "scraped_at": "2026-04-10 03:54:38.473800",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Afrika Bambaataa",
+      "rephrased_article": "Afrika Bambaataa, a hip-hop pioneer and co-founder of the Universal Zulu Nation, died at age 68 in Pennsylvania from complications related to cancer.  The Hip Hop Alliance praised his role in shaping hip-hop as both a musical genre and a cultural force, noting his contributions to peace, unity, and creativity. Bambaataa's legacy was complicated by allegations of child sexual abuse and trafficking, which he denied.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article mentions allegations of child sexual abuse against Bambaataa."
+    },
+    {
+      "id": 49758,
+      "title": "Double murder in Bihar, but BJP, JD(U) vying for CM seat: Tejashwi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/double-murder-in-bihar-but-bjp-jdu-vying-for-cm-seat-tejashwi/article70842942.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/y0ibix/article70844674.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+      "scraped_at": "2026-04-09 21:15:15.281789",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Tejashwi Yadav, leader of the Rashtriya Janata Dal (RJD), criticized the ruling BJP and Janata Dal (United) for their focus on a Chief Minister seat while lawlessness prevails in Bihar.  He condemned a double murder in Araria, alleging police inaction and highlighting rising crime rates under the current government. Yadav urged the government to prioritize youth aspirations and fulfill teacher recruitment promises.",
+      "party_mentioned": [
+        "BJP",
+        "RJD",
+        "Janata Dal",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights rising crime and alleged police inaction, raising concerns about public safety."
     },
     {
       "id": 62231,
@@ -4055,8 +4137,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Telangana",
@@ -4089,7 +4170,7 @@
       "rephrased_article": "A new web series called \"Chiraiya\" has sparked conversations about marital rape in India, a country where it is not currently illegal. The show follows two women, Kamlesh and Pooja, whose lives intersect when Pooja's husband rapes her on their wedding night.  Divy Nidhi Sharma, the show's scriptwriter, says the series aims to raise awareness of consent within marriage, highlighting the societal pressures that can silence victims. While the Indian government has resisted calls to criminalize marital rape, \"Chiraiya\" has garnered significant attention and praise for its portrayal of a taboo topic.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -4252,6 +4333,289 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Mass arrests of striking workers, including women, raise concerns about worker rights."
+    },
+    {
+      "id": 49801,
+      "title": "Christian bodies urge A.P. govt. to restore peace in Akiveedu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/christian-bodies-urge-ap-govt-to-restore-peace-in-akiveedu/article70842751.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-09 23:15:55.144479",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Andhra Pradesh government",
+      "rephrased_article": "Members of the Federation of Churches and All Christian Associations United Forum have appealed to the Andhra Pradesh government to restore peace in Pedapeta, Akiveedu mandal, after clashes during Ram Navami celebrations. The group expressed concern over tensions and urged the government to form peace committees with all communities in the area.  The police have registered cases against 57 villages and some individuals remain in jail due to lack of sureties.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "Clashes during religious celebrations signal potential for communal unrest."
+    },
+    {
+      "id": 49771,
+      "title": "Rajasthan ACB arrests retired IAS officer Subodh Agarwal in Jal Jeevan Mission scam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-acb-arrests-retired-ias-officer-subodh-agarwal-in-jal-jeevan-mission-scam/article70843959.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jrpric/article70844688.ece/alternates/LANDSCAPE_1200/iStock-1905024012.jpg",
+      "scraped_at": "2026-04-09 22:09:20.172190",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Subodh Agarwal",
+      "rephrased_article": "Rajasthan’s Anti-Corruption Bureau (ACB) arrested retired IAS officer Subodh Agarwal in Delhi for his alleged role in a ₹960 crore scam within the Jal Jeevan Mission (JJM) tender process.  Mr. Agarwal was on the run since an arrest warrant was issued against him and is currently being interrogated by ACB officers. The investigation, which began in 2024, has led to the arrest of 10 individuals, with three others still absconding.  The ACB had formed 40 teams to locate Mr. Agarwal, who was Additional Chief Secretary, Public Health Engineering Department (PHED) during the alleged irregularities. The ACB's investigation revealed forged completion certificates and financial irregularities in the JJM tender process.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "corruption_scam",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Large-scale financial corruption in a vital public service program is a serious concern."
+    },
+    {
+      "id": 49750,
+      "title": "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel | Israel-Palestine conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/873A9762-1775753716.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-09 21:12:34.732539",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Al Jazeera correspondent Mohammed Wishah was killed by an Israeli drone strike in Gaza, marking the latest tragedy for journalists covering the ongoing conflict.  Wishah's death comes as a shock to his colleagues and family, who gathered for his funeral following his assassination while driving home from work. Al Jazeera journalists have been targeted repeatedly by Israel since the start of the war in October 2023, with Wishah being the 12th journalist killed by Israeli forces.  Fellow journalists expressed grief over Wishah's loss and called for international accountability for the targeting of Palestinian journalists.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Targeted killing of a journalist raises serious concerns about press freedom and potential war crimes."
+    },
+    {
+      "id": 49671,
+      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
+      "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cc0a/live/36f35b50-3412-11f1-a058-4f0eff2075b9.png",
+      "scraped_at": "2026-04-09 16:07:25.232305",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Israel's military conducted a 10-minute aerial attack on Lebanon, killing at least 203 people and wounding over 1,000. The attack occurred despite a ceasefire agreement brokered by Pakistan's Prime Minister Shehbaz Sharif, who had announced the truce between warring parties.  The US has not condemned Israel's actions, while Iran called it a \"grave violation\" of the ceasefire deal and demanded an end to Israeli aggression. The attack is seen as a setback in efforts to achieve peace in the region.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Large-scale civilian casualties from an attack violating a ceasefire are a serious concern."
+    },
+    {
+      "id": 49643,
+      "title": "Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’ | Prison News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/three-life-terms-for-kashmirs-aasiya-andrabi-fit-indias-broader-pattern?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2008-12-31T120000Z_1660655994_GM1E4CV1M7901_RTRMADP_3_KASHMIR-1775652626.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-09 12:17:19.111661",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Aasiya Andrabi, founder of the banned all-women's organization Dukhtaran-e-Millat (DeM), was sentenced to three life terms by an Indian court.  Andrabi and two associates were convicted on charges of provoking hostility between communities, undermining national integration, and instigating public disorder. The court found no evidence related to terrorism charges but convicted Andrabi based on offensive speech. Legal experts criticize the verdict as a move that raises questions about India's tolerance of dissenting voices.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "crime_violence",
+        "economy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article suggests a pattern of suppressing dissent in Kashmir."
+    },
+    {
+      "id": 49622,
+      "title": "Delhi HC rejects Sanjay Bhandari's plea against 'fugitive offender' tag - The Hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-hc-rejects-sanjay-bhandaris-plea-against-fugitive-offender-tag/article70842364.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/skh9hr/article70842424.ece/alternates/LANDSCAPE_1200/Sanjay%20Bhandari.jpeg",
+      "scraped_at": "2026-04-09 11:09:46.368641",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Sanjay Bhandari",
+      "rephrased_article": "The Delhi High Court upheld a trial court's order declaring Sanjay Bhandari, a U.K.-based arms consultant, a \"fugitive economic offender\" in connection with a money laundering case.  Bhandari fled to London in 2016 after an I-T department raid and the Enforcement Directorate (ED) has been pursuing charges against him since 2020. The court rejected his legal team's argument that his stay in the U.K. is not illegal, stating that he cannot escape prosecution for violating Indian laws.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "crime_violence",
+        "economy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "A citizen fleeing justice and being labeled a fugitive economic offender raises concerns."
+    },
+    {
+      "id": 49571,
+      "title": "M. Sai Kumar to be Tamil Nadu Chief Secretary; Sandeep Mittal to head Armed Police, DVAC - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/m-sai-kumar-to-be-tamil-nadu-chief-secretary-sandeep-mittal-to-head-armed-police-dvac/article70837981.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/tnj4tp/article70841411.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-08%20at%2022.27.29.jpeg",
+      "scraped_at": "2026-04-09 07:04:22.204067",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission (EC)",
+      "rephrased_article": "Election Commission (EC) of India transferred Tamil Nadu Chief Secretary N. Muruganandam and appointed his successor, M. Sai Kumar.  The EC also appointed senior IPS officer Sandeep Mittal as the Director-General of Police (DGP), Armed Police, and Director (in-charge), Vigilance and Anti-Corruption. DMK President M.K. Stalin criticized the transfers, calling them \"arbitrary\" and a \"political act\" and accusing the EC of acting in favor of the BJP. He also stated that these actions reflect the abuse of power by the government and are detrimental to fair elections.",
+      "party_mentioned": [
+        "BJP",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam",
+        "economy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "EC transferring top officials based on political pressure raises concerns."
+    },
+    {
+      "id": 49528,
+      "title": "Ben Roberts-Smith: Why decorated soldier's war crime case is so historic for Australia",
+      "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9842/live/b3744770-336d-11f1-879d-1b2f5c3919b8.jpg",
+      "scraped_at": "2026-04-09 02:45:05.727591",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Ben Roberts-Smith",
+      "rephrased_article": "Ben Roberts-Smith, Australia's most decorated soldier, was charged with five counts of war crimes following a high-profile civil defamation case. The charges stem from allegations of unlawful killings and misconduct during his time in the SAS, which led to a landmark investigation by the Office of the Special Investigator (OSI).  The OSI has been tasked with investigating dozens of alleged murders committed during the Afghanistan conflict, but progress has been slow due to limited physical evidence and challenges coordinating witnesses. The case is unprecedented in Australian legal history and will likely be years away from trial.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of war crimes by a decorated soldier raise serious concerns about military accountability."
+    },
+    {
+      "id": 62288,
+      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people | Conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260528__B4996WK__v2__HighRes__TopshotLebanonIsraelIranWar-1779957246.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-28 12:37:52.792920",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Israel intensified its attacks on southern Lebanon, killing at least 16 people and wounding 58 in a series of airstrikes targeting residential areas, roads, and civilian infrastructure. Hezbollah has been designated as the target of these strikes, but Israeli forces have also hit populated areas, forcing thousands to flee under threat of attack. The International Committee of the Red Cross warned that the escalating violence is deepening a humanitarian crisis, with fears that conditions will worsen.  These attacks came despite a US-brokered ceasefire that took effect last month and are casting doubt on the prospects for diplomacy between Israel and Lebanon.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "Civilian casualties and displacement are reported as routine in the conflict."
     },
     {
       "id": 62121,
@@ -4917,6 +5281,85 @@
       "civic_flag_score": 8,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "The government obstructed a CBI probe into a major financial scam."
+    },
+    {
+      "id": 49804,
+      "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks | Israel attacks Lebanon News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26099290333918-1775751747.jpg?resize=1200%2C675",
+      "scraped_at": "2026-04-09 23:16:50.616159",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israeli forces",
+      "rephrased_article": "Israeli forces carried out a series of attacks on Lebanon, resulting in over 300 casualties and injuring 1,150. Hospitals across the country are struggling to cope with the influx of patients, many of whom were civilians, including children. The World Health Organization warns that some hospitals could run out of vital medical supplies within days.  The attacks have exacerbated Lebanon's existing economic crisis and strained its already depleted healthcare system. Despite the devastation, Lebanese people have rallied together to donate blood and support those affected by the conflict.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "Large-scale civilian harm is being reported as routine."
+    },
+    {
+      "id": 49762,
+      "title": "₹550-cr. bank ‘scam’: CBI registers FIR; Haryana govt. suspends 2 IAS officers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/550-cr-bank-scam-cbi-registers-fir-haryana-govt-suspends-2-ias-officers/article70843883.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/91w9gi/article70844672.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+      "scraped_at": "2026-04-09 21:16:30.925799",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Haryana government",
+      "rephrased_article": "The Central Bureau of Investigation (CBI) has registered an FIR in connection with the alleged siphoning off of over ₹550 crore from the Haryana government using shell entities. The case involves fraudulent banking operations and fictitious transactions, with two suspended IAS officers suspected of involvement.  IDFC First Bank and AU Small Finance Bank are also implicated in the alleged unauthorized payments.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Large-scale financial fraud involving government officials raises serious concerns."
+    },
+    {
+      "id": 49511,
+      "title": "LA teen loses eye after being shot by US agent at No Kings march, lawyer says | Los Angeles | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/db8ce6429e9da63a862532499478b262cf7c9cb3/0_28_4314_3450/master/4314.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=00c525f0d1e96dffb3db9f270b172531",
+      "scraped_at": "2026-04-08 23:46:14.499295",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Department of Homeland Security (DHS)",
+      "rephrased_article": "Tucker Collins, an 18-year-old USC freshman, lost his right eye after being shot by a Department of Homeland Security (DHS) agent during a No Kings march in Los Angeles on March 28th.  Collins was photographing protesters when he was struck by a projectile intended for crowd control. His attorney, V James DeSimone, claims the DHS violated a federal injunction prohibiting firing these weapons at people's heads and that Collins posed no threat. The DHS maintains its officers followed training and used minimal force to protect themselves, the public, and property.  DeSimone plans to file a federal tort claim against the DHS.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "crime_violence",
+        "economy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "suppression",
+      "civic_flag_reason": "Use of excessive force by DHS against a civilian raises serious concerns."
     }
   ]
 }

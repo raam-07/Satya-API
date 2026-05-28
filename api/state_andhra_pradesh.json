@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.591403",
+  "generated_at": "2026-05-28 21:04:02.100321",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 208,
+    "total_articles": 219,
     "articles_last_30d": 89
   },
   "top_cities_30d": {
@@ -16,26 +16,64 @@
     "Delhi": 7,
     "Hyderabad": 6,
     "Chennai": 5,
-    "Bengaluru": 4,
+    "Bengaluru": 3,
     "Madurai": 3,
+    "Mumbai": 3,
     "Kolkata": 2,
-    "Mumbai": 2,
     "Varanasi": 1,
     "Allahabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 73,
+    "foreign_policy": 74,
     "education": 23,
+    "infrastructure": 17,
     "farmer_agriculture": 17,
-    "infrastructure": 16,
     "economy": 15,
-    "crime_violence": 13,
     "health": 12,
     "protest_opposition": 12,
-    "rape_sexual_crime": 6,
+    "crime_violence": 12,
+    "rape_sexual_crime": 5,
     "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 62130,
       "title": "TDP leverages technology in organising hybrid Mahanadu - The Hindu",
@@ -5199,30 +5237,6 @@
       ],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 50395,
-      "title": "Tamil Nadu voter deleted from electoral roll reminds Supreme Court of promise to protect in case of ‘mass exclusion’ - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-voter-deleted-from-electoral-roll-reminds-supreme-court-of-promise-to-protect-in-case-of-mass-exclusion/article70847428.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xu8s3l/article70848763.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-      "scraped_at": "2026-04-11 22:40:30.743560",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "The **Supreme Court** refused to intervene in a case where a woman's name was deleted from the Tamil Nadu electoral roll during the Special Intensive Revision (SIR) process.  The petitioner, C. Geetha, argued that she had not received any notice about the deletion and was denied a hearing. Senior advocate Gopal Sankaranarayanan representing Ms. Geetha stated that her name has been on the electoral roll for years and presented extensive documentation to prove her citizenship. The **Election Commission of India** countered by stating that the process was already underway and Ms. Geetha's claim was too late.  The court declined to intervene, with Justice Bagchi reminding the court of its promise to protect against mass exclusions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Naidu"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "protest_opposition"
       ]
     }
   ]

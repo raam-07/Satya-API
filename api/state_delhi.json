@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.698529",
+  "generated_at": "2026-05-28 21:04:02.215163",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 388,
+    "total_articles": 407,
     "articles_last_30d": 244
   },
   "top_cities_30d": {
     "Delhi": 241,
-    "Mumbai": 21,
+    "Mumbai": 20,
     "Kolkata": 18,
     "Chennai": 15,
     "Hyderabad": 14,
@@ -25,17 +25,51 @@
   },
   "top_topics_30d": {
     "foreign_policy": 224,
-    "protest_opposition": 86,
-    "crime_violence": 71,
-    "economy": 65,
-    "education": 65,
+    "protest_opposition": 87,
+    "crime_violence": 70,
+    "economy": 66,
+    "education": 66,
     "infrastructure": 61,
     "farmer_agriculture": 29,
-    "corruption_scam": 27,
+    "corruption_scam": 28,
     "health": 20,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 62338,
+      "title": "India's Gen-Z Cockroach Janta Party channels youth anger but faces offline hurdles - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003599/indias-gen-z-cockroach-janta-party-channels-youth-anger-but-faces-offline-hurdles",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/29000505fa00f76.webp",
+      "scraped_at": "2026-05-28 19:44:52.539811",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The popularity of **Abhijeet Dipke**'s online satirical group, Cockroach Janta Party (CJP), has grown rapidly in India, fueled by concerns over youth unemployment and dissatisfaction with the government.  Dipke's movement, which gained traction after a comment by India's Chief Justice comparing unemployed youth to cockroaches, has attracted millions of followers, surpassing the 9.3 million followers of **Narendra Modi**'s Bharatiya Janata Party. Despite its rapid growth, CJP faces challenges in organizing and mobilizing for protests due to concerns over government crackdowns on dissent.  Analysts warn that while CJP represents a significant shift in public sentiment, it remains unclear if the group can translate online frustration into tangible political action.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition",
+        "corruption_scam",
+        "economy"
+      ]
+    },
     {
       "id": 62257,
       "title": "Art in conflict zones: Nicky Chandam’s visual documentation of Manipur and the politics of performance - The Hindu",
@@ -49,7 +83,7 @@
       "rephrased_article": "**Nicky Chandam**, a photographer from the Northeast, presents her exhibition \"Manipur & Archives: A Visual Documentation of Live Art Over a Decade\" in Chennai. The exhibition showcases 58 photographs capturing Manipuri performance cultures across Delhi and Imphal from 2011 to 2025.  The exhibition features works by renowned artists like **Astad Deboo**, **Mamata Shankar**, and **Ratan Thiyam**, alongside emerging talents, and highlights the impact of conflict on artistic expression in Manipur. The exhibition runs through May 31st at Alliance Française Madras.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Manipur",
@@ -5678,38 +5712,6 @@
         "foreign_policy",
         "farmer_agriculture",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 56940,
-      "title": "Bihar Cabinet expansion on May 7, Modi, Shah and Nabin to attend event - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-govts-cabinet-expansion-on-may-7-pm-modi-amit-shah-to-attend-state-bjp-chief/article70941742.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/95su5x/article70941770.ece/alternates/LANDSCAPE_1200/Sanjay%20Saraogi%20BJP3.jpg",
-      "scraped_at": "2026-05-05 22:34:54.705963",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Prime Minister Narendra Modi**, **Union Home Minister Amit Shah**, and **BJP president Nitin Nabin** will be present for the expansion of the **Bihar Cabinet** in Patna on Thursday, May 7, 2026.  The event is expected to feature most members from the previous Nitish Kumar-led NDA government retained, with a few new faces added to fill all 36 berths. The **BJP** aims for a \"gala event\" and preparations are underway at Gandhi Maidan. **Jitan Ram Manjhi**, leader of the HAM (S), has stated he will not demand a Cabinet berth and is content with whatever is offered.  The expansion is expected to include some new faces, potentially more women Ministers, and may see the return of several existing ministers from both the JD(U) and BJP.",
-      "party_mentioned": [
-        "BJP",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Patna"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

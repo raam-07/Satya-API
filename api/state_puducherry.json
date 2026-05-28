@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.709098",
+  "generated_at": "2026-05-28 21:04:02.226164",
   "state": "Puducherry",
   "capital": "Puducherry",
   "ruling_party": "INC",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 60,
-    "articles_last_30d": 40
+    "total_articles": 70,
+    "articles_last_30d": 41
   },
   "top_cities_30d": {
     "Chennai": 11,
@@ -17,13 +17,14 @@
     "Madurai": 4,
     "Kolkata": 4,
     "Bengaluru": 3,
-    "Coimbatore": 3
+    "Coimbatore": 3,
+    "Mumbai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 39,
+    "foreign_policy": 40,
     "education": 12,
     "protest_opposition": 12,
-    "infrastructure": 11,
+    "infrastructure": 12,
     "economy": 9,
     "crime_violence": 6,
     "farmer_agriculture": 6,
@@ -32,6 +33,44 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 62186,
       "title": "Temperatures across T.N. to remain within limits: RMC - The Hindu",
@@ -1849,7 +1888,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -1881,10 +1919,8 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Kerala",
@@ -1971,6 +2007,260 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
+    },
+    {
+      "id": 49906,
+      "title": "High enthusiasm, long queues mark polling as Puducherry shatters record - The Hindu",
+      "url": "https://www.thehindu.com/elections/puducherry-assembly/puducherry-records-highest-ever-polling-per-cent-in-its-history/article70843664.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o25ig2/article70844337.ece/alternates/LANDSCAPE_1200/DSC_5991.JPG",
+      "scraped_at": "2026-04-10 10:42:12.911100",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Puducherry Assembly Election",
+      "rephrased_article": "**Puducherry** registered an unprecedented 89.74% voter turnout in the 2026 Assembly election, surpassing previous records.  Long queues of voters were observed across urban, rural and coastal constituencies as enthusiasm was high from early morning.  Key figures participating in the election included **Lieutenant Governor K. Kailashnathan**, **Chief Minister N. Rangasamy**, former Chief Minister V. Narayanasamy, and several other prominent politicians. While no major complaints arose regarding the polling process, allegations of voter inducement and minor scuffles were reported from two constituencies.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49844,
+      "title": "Assembly Elections LIVE updates: T.N. CM Stalin takes surprise ride in Chennai Metro, interacts with passengers - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-live-updates-tamil-nadu-west-bengal-kerala-assam-puducherry-april-10-2026/article70845819.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/sci-tech/science/ddtce1/article70845974.ece/alternates/LANDSCAPE_1200/Stalin.jpg",
+      "scraped_at": "2026-04-10 06:03:20.214839",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "M. K. Stalin",
+      "rephrased_article": "**M. K. Stalin**, the DMK president and Tamil Nadu Chief Minister, rode the Chennai Metro Rail as part of his election campaign. In West Bengal, a disproportionate number of voters, including Hindus (63%), were removed from the electoral rolls during a special intensive revision process, raising concerns about potential voter suppression. Kerala saw 78.27% turnout in its Assembly elections on Thursday, while Puducherry broke records with 89.74% participation and Assam recorded its highest-ever voter turnout at 85.9%.",
+      "party_mentioned": [
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 49753,
+      "title": "Record turnout in Puducherry, Assam; Kerala near all-time high - The Hindu",
+      "url": "https://www.thehindu.com/elections/record-voter-turnout-in-assam-puducherry-high-polling-rates-in-kerala-too/article70844099.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/liezys/article70844390.ece/alternates/LANDSCAPE_1200/Kerala_election_28.JPG",
+      "scraped_at": "2026-04-09 21:13:39.021620",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**Election Commission of India (ECI)** data shows record voter turnout in several states for the Assembly elections held on April 9, 2026. Assam and Puducherry achieved the highest participation rates ever recorded at 85.9% and 89.87%, respectively. Kerala also saw a high turnout of 78.27%. Final figures are still being compiled, but the turnout could surpass the record of 80.54% registered in 1987.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 49694,
+      "title": "India’s Assam and Kerala states hold legislative assembly elections | Elections News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26097498117748-1775748849.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-09 17:44:57.732399",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Millions of voters cast ballots in legislative elections across **India**, including Assam, Kerala, Puducherry, and Tamil Nadu.  **Prime Minister Narendra Modi** urged citizens to participate in the democratic process, emphasizing the importance of voter turnout. The elections are seen as a test of support for the ruling **BJP** and its right-wing ideology, with the party facing challenges in states like Kerala and West Bengal where opposition parties are expected to win.  The results will be announced on May 4th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49673,
+      "title": "Puducherry election 2026 updates: Polling ends, voter turnout exceeds 89% in the Union Territory in a historic first - The Hindu",
+      "url": "https://www.thehindu.com/elections/puducherry-assembly/puducherry-assembly-election-2026-voter-turnout-live-updates-april-9/article70838921.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bc3hg0/article70844038.ece/alternates/LANDSCAPE_1200/Sealing_07.JPG",
+      "scraped_at": "2026-04-09 16:08:03.204307",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "Polling for the Puducherry Assembly election concluded on Thursday, April 9th, with a voter turnout of 89.87%, the highest in the territory's history. The **Election Commission of India** estimates that 9.5 lakh voters participated in the election across the 30 constituencies.  The **NDA**, led by the **All India N.R. Congress (AINRC)**, and the **INDIA bloc** comprising the **Congress**, **DMK**, and the **VCK** are the two main alliances vying for power. The entry of actor-politician Vijay's TVK has added to the excitement, alongside the presence of actor-director Seeman's **Naam Tamilar Katchi (NTK)**.",
+      "party_mentioned": [
+        "Congress",
+        "DMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49582,
+      "title": "Puducherry Assembly Election 2026 LIVE updates: Smoke from VVPAT machine triggers tension in Karaikal - The Hindu",
+      "url": "https://www.thehindu.com/elections/puducherry-assembly/puducherry-assembly-election-2026-polling-day-voter-turnout/article70841721.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ngecpl/article70841793.ece/alternates/LANDSCAPE_1200/DSC_6126.JPG",
+      "scraped_at": "2026-04-09 08:29:01.097320",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Puducherry Assembly Election 2026",
+      "rephrased_article": "**Voters** in **Puducherry** cast their ballots for a new 30-member Legislative Assembly on Thursday, April 9, 2026.  As of early morning, voter turnout reached 37.06% with the Union Territory aiming for an 82.2% participation rate from its 9.50 lakh electors. **Lieutenant Governor K. Kailashnathan**, **Chief Minister N. Rangasamy**, and other prominent figures cast their votes.  Allegations of voter inducement surfaced in Bahour and Thirukkanur, while minor clashes were reported between BJP and Congress workers.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49564,
+      "title": "Millions vote in Assam, Kerala as India begins series of state elections - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1990043/india-says-it-wont-host-un-climate-talks-in-2028",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/0911405646cd61e.webp",
+      "scraped_at": "2026-04-09 07:02:06.192211",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "Millions of voters in Assam, Kerala, and Puducherry cast their ballots in local elections on Thursday. **Prime Minister Narendra Modi**'s **Bharatiya Janata Party (BJP)** is expected to win in Assam and Kerala, while West Bengal and Tamil Nadu will see tight races.  The Hindu nationalist party has never ruled West Bengal but aims to curb what it calls illegal immigration from Bangladesh. Despite global energy disruptions caused by the war in the Middle East, voters generally praised **Prime Minister Modi**'s handling of energy security.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49559,
+      "title": "Millions vote in Assam, Kerala as India begins series of state elections - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1990157/millions-vote-in-assam-kerala-as-india-begins-series-of-state-elections",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/0911405646cd61e.webp",
+      "scraped_at": "2026-04-09 07:00:24.886973",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "Millions of Indians cast their votes in local elections across Assam, Kerala, Puducherry, and West Bengal. **Prime Minister Narendra Modi**'s **Bharatiya Janata Party (BJP)** is expected to win in Assam and Puducherry, while the opposition is predicted to retain power in Kerala. In West Bengal, a tight race between the ruling regional party and the BJP is anticipated, with the latter citing concerns over illegal immigration from Bangladesh as motivation for its campaign.  Despite global energy disruptions triggered by the Iran war, Indian voters have generally praised the Modi government's handling of energy security.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49532,
+      "title": "Assembly elections 2026 LIVE updates: Voting begins in a single phase today in Assam, Kerala and Puducherry - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-election-2026-live-updates-kerala-puducherry-pondicherry-assam-bypolls-april-9-2026-voter-turnout-currently/article70838209.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5xfdy2/article70839916.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000421A.jpg",
+      "scraped_at": "2026-04-09 02:46:34.460686",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Kerala**, **Assam**, and **Puducherry** held single-phase elections on April 9, 2026, with voting concluding at 5 p.m.  The results will be announced on May 4. The high-stakes elections in **Assam** are expected to see the BJP vying for a third consecutive term. In **Kerala**, three fronts – the CPI(M)-led LDF, the Congress-led UDF and the BJP-led NDA – are contesting across 140 constituencies.  The bypolls also took place in several states including Gujarat, Karnataka, Maharashtra, Nagaland and Tripura.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Nagaland",
+        "Tripura",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
     }
   ]
 }

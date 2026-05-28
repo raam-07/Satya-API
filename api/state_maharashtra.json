@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.642652",
+  "generated_at": "2026-05-28 21:04:02.155882",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 132,
-    "articles_last_30d": 79
+    "total_articles": 140,
+    "articles_last_30d": 80
   },
   "top_cities_30d": {
     "Mumbai": 20,
@@ -24,18 +24,90 @@
     "Chennai": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 67,
-    "protest_opposition": 29,
-    "education": 28,
-    "economy": 25,
-    "infrastructure": 24,
-    "crime_violence": 13,
+    "foreign_policy": 68,
+    "protest_opposition": 30,
+    "education": 29,
+    "economy": 26,
+    "infrastructure": 25,
+    "crime_violence": 12,
     "farmer_agriculture": 8,
+    "corruption_scam": 7,
     "rape_sexual_crime": 7,
-    "corruption_scam": 6,
     "health": 5
   },
   "recent_articles": [
+    {
+      "id": 62338,
+      "title": "India's Gen-Z Cockroach Janta Party channels youth anger but faces offline hurdles - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003599/indias-gen-z-cockroach-janta-party-channels-youth-anger-but-faces-offline-hurdles",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/29000505fa00f76.webp",
+      "scraped_at": "2026-05-28 19:44:52.539811",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The popularity of **Abhijeet Dipke**'s online satirical group, Cockroach Janta Party (CJP), has grown rapidly in India, fueled by concerns over youth unemployment and dissatisfaction with the government.  Dipke's movement, which gained traction after a comment by India's Chief Justice comparing unemployed youth to cockroaches, has attracted millions of followers, surpassing the 9.3 million followers of **Narendra Modi**'s Bharatiya Janata Party. Despite its rapid growth, CJP faces challenges in organizing and mobilizing for protests due to concerns over government crackdowns on dissent.  Analysts warn that while CJP represents a significant shift in public sentiment, it remains unclear if the group can translate online frustration into tangible political action.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition",
+        "corruption_scam",
+        "economy"
+      ]
+    },
+    {
+      "id": 62308,
+      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
+      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
+      "scraped_at": "2026-05-28 17:02:22.073062",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 62181,
       "title": "Priority will be given to river linking project: Deputy Chief Minister Eknath Shinde - The Hindu",
@@ -3819,10 +3891,180 @@
       "rephrased_article": "An earthquake with a magnitude of 4.7 struck parts of Hingoli district in Maharashtra on Saturday morning, April 11, 2026. **Hingoli Collector Rahul Gupta** reported cracks in houses and community halls in Pangra Shinde village.  Tremors were also felt in Nanded city and rural areas, as well as neighboring Parbhani district. While no casualties have been reported, authorities are urging residents to remain calm and follow safety protocols. Emergency response teams are on standby in Nanded and Parbhani.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49894,
+      "title": "149 leopards died in Madhya Pradesh in 14 months; accidents major cause - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/149-leopards-died-in-madhya-pradesh-in-14-months-accidents-major-cause/article70846698.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/etn9zk/article70846727.ece/alternates/LANDSCAPE_1200/BPFAR_3-5-2007_17-11-9_03MAY-3.JPG",
+      "scraped_at": "2026-04-10 10:37:55.984231",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "**Madhya Pradesh** has recorded 149 leopard deaths in the past 14 months, with road accidents accounting for the most fatalities.  The **Forest Department** attributes this to leopards' proximity to human habitats and is implementing measures such as animal passages on new roads and signage to reduce mortality.  However, activist **Ajay Dube** criticizes the state's handling of leopard deaths, claiming it exposes a \"grim reality\" and that the lack of accountability for accidents related to infrastructure or electrocution points to leopards being a secondary priority.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49821,
+      "title": "Woman murdered at petrol bunk in Maharashtra - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/woman-murdered-at-petrol-bunk-in-maharashtra/article70844228.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-10 00:08:08.878995",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Pooja Gavande**, a woman in her 30s, was fatally attacked by an unidentified man at a petrol station on the Chhatrapati Sambhajinagar-Jalna Highway in Maharashtra. The incident occurred around 1:30 p.m. and the attacker fled the scene immediately after the crime. **Samratsingh Rajput**, inspector of the Karmad Police Station, is leading the investigation which includes examining CCTV footage and gathering information from witnesses.  The police are also attempting to identify potential motives for the attack.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49812,
+      "title": "Why did the Congress withdraw its candidate from Baramati at the last minute? - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/why-did-the-congress-withdraw-its-candidate-from-baramati-at-the-last-minute/article70843879.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/z15uf0/article70844692.ece/alternates/LANDSCAPE_1200/PTI04_02_2025_000228B.jpg",
+      "scraped_at": "2026-04-10 00:05:18.780541",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Maharashtra Congress",
+      "rephrased_article": "**NCP** and **NCP(SP)** leaders, including Sunetra Pawar, met with **Maharashtra Congress** president Harshawardhan Sapkal to request the withdrawal of their candidate from the Baramati by-election.  The Pawars argued for a united front against a competing candidate, while **Congress** leaders expressed disappointment over the lack of outreach from the **NCP**. The **Congress** eventually backed down and agreed to withdraw its candidate in response to pressure from allies and the **Pawar family**.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49732,
+      "title": "The Simple living in Kurma Gramam village - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-simple-living-in-kurma-gramam-village/article70844349.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kffyfj/article70844344.ece/alternates/LANDSCAPE_1200/DSC_4534.JPG",
+      "scraped_at": "2026-04-09 20:17:23.095507",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Kurma Gramam village",
+      "rephrased_article": "**Kurma Gramam**, a village in Andhra Pradesh, is an isolated community that has embraced a traditional lifestyle. Residents live without electricity, mobile phones, or internet access, relying on simple practices like hand-woven clothing and traditional food.  The village follows a disciplined routine with daily prayers and discourses on the Bhagavad Gita and Bhagavatam. **Srikanth**, a B. Tech graduate who moved to the village in 2019, teaches Vedic knowledge to children. Visitors are welcomed but encouraged to leave no plastic behind. The village thrives on simplicity and spiritual discipline.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49596,
+      "title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4asfhx/article70842077.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000287B.jpg",
+      "scraped_at": "2026-04-09 09:55:44.844181",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "**Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **Rahul Gandhi** before a special MP/MLA court in Pune. He stated that the title \"Swatantryaveer\" was not granted by any government and was given by writer **Sadashiv Ranade** in his biography.  He also confirmed that **Savarkar** studied in London during British rule, wrote several books under different names to avoid attention from authorities, and some of these works are available in libraries and archives. The cross-examination continues on April 13th.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 49532,
+      "title": "Assembly elections 2026 LIVE updates: Voting begins in a single phase today in Assam, Kerala and Puducherry - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-election-2026-live-updates-kerala-puducherry-pondicherry-assam-bypolls-april-9-2026-voter-turnout-currently/article70838209.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5xfdy2/article70839916.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000421A.jpg",
+      "scraped_at": "2026-04-09 02:46:34.460686",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Kerala**, **Assam**, and **Puducherry** held single-phase elections on April 9, 2026, with voting concluding at 5 p.m.  The results will be announced on May 4. The high-stakes elections in **Assam** are expected to see the BJP vying for a third consecutive term. In **Kerala**, three fronts – the CPI(M)-led LDF, the Congress-led UDF and the BJP-led NDA – are contesting across 140 constituencies.  The bypolls also took place in several states including Gujarat, Karnataka, Maharashtra, Nagaland and Tripura.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Nagaland",
+        "Tripura",
+        "Puducherry"
       ],
       "cities_mentioned": [],
       "topic_tags": [

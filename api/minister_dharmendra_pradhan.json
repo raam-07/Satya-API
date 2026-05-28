@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 12:49:12.745121",
+  "generated_at": "2026-05-28 21:04:02.264897",
   "name": "Dharmendra Pradhan",
   "role": "Education Minister",
   "ministry": "Ministry of Education",
@@ -20,16 +20,62 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Dharmendra_Pradhan",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 35,
-    "articles_last_30d": 26,
+    "total_articles": 39,
+    "articles_last_30d": 28,
     "sentiment_breakdown_30d": {
       "positive": 10,
-      "negative": 15,
-      "neutral": 1
+      "negative": 16,
+      "neutral": 2
     }
   },
   "promises": [],
   "recent_articles": [
+    {
+      "id": 62310,
+      "title": "16 students died in overnight fire at girls' school in Kenya - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/several-feared-dead-in-kenya-school-fire-local-media-says/articleshow/131364500.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131364579,width-1200,height-630,imgsize-104298,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-28 17:02:52.539225",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Kenyan Government",
+      "rephrased_article": "**Julius Ogamba**, the **Education Minister of Kenya**, confirmed that a fire at the Utumishi Girls School in Gilgil, Kenya, resulted in the deaths of 16 students and injuries to 79 others. The cause of the fire is still under investigation, but school fires are common in Kenyan boarding schools, often attributed to arson or electrical faults.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 62278,
+      "title": "Tamil Nadu’s rights of utmost importance, never said will surrender that: Higher Education Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/states-rights-of-utmost-importance-never-said-will-surrender-that-higher-education-minister/article71032052.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/x21zbr/article71032505.ece/alternates/LANDSCAPE_1200/DSC_1256.JPG",
+      "scraped_at": "2026-05-28 12:34:32.449822",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**P. Viswanathan**, Tamil Nadu Higher Education Minister, defended his statement that the new government would not follow previous policies regarding university governance, particularly concerning the Chief Minister's role as Chancellor. He clarified that he made a general comment and emphasized the state's commitment to protecting its citizens' rights. The **DMK** and other political parties criticized his remarks, accusing him of surrendering state rights.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Madurai"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 61769,
       "title": "Glitches in CBSE portal leave Class 12 students seeking re-evaluation hassled - The Hindu",
@@ -916,6 +962,57 @@
       "topic_tags": [
         "infrastructure",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 49855,
+      "title": "Root canal treatment included in Ayushman Bharat-Arogya Karnataka scheme - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-includes-root-canal-treatment-under-ayushman-bharat-arogya-karnataka-scheme/article70842972.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/h2e83z/article70843465.ece/alternates/LANDSCAPE_1200/28EPBS_TOOTH_JOB_1.jpg",
+      "scraped_at": "2026-04-10 06:07:19.644551",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka government",
+      "rephrased_article": "The **Karnataka** government has approved the inclusion of root canal treatment (RCT) under its Ayushman Bharat–Pradhan Mantri Jan Arogya Yojana-Chief Minister’s Arogya Karnataka (AB PMJAY-CM’s ArK) scheme. The decision aims to improve access to dental care and reduce tooth loss, particularly among low-income groups who often opt for extraction due to the high cost of RCT.  The **Suvarna Arogya Suraksha Trust** (SAST), the nodal agency for the scheme, has been directed to adopt Central Government Health Scheme (CGHS) Tier-3 rates for the procedure, with a capped benefit at 50,000 cases or ₹5 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 49654,
+      "title": "Sharan Prakash Patil takes umbrage at remarks by BJP leaders against Mallikarjun Kharge - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/sharan-prakash-patil-takes-umbrage-at-remarks-by-bjp-leaders-against-mallikarjun-kharge/article70842679.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9p5nga/article70843467.ece/alternates/LANDSCAPE_1200/10258_9_4_2026_17_17_17_1_KLB_SHARAN_PRAKASH_PATIL_1.JPG",
+      "scraped_at": "2026-04-09 14:25:17.787841",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Dr. Sharan Prakash Patil**, **Medical Education Minister**, criticized **BJP leaders** for making \"irresponsible\" and \"disrespectful\" remarks against **AICC president Mallikarjun Kharge**.  Patil condemned the comments, arguing that they are being blown out of proportion and comparing them to past instances of similar attacks by **Prime Minister Narendra Modi** on Congress leaders. He also questioned the basis for comparisons made by **Union Home Minister Amit Shah** against **Jawaharlal Nehru**, emphasizing the Congress's commitment to non-alignment and condemnation of aggression without supporting war.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
       ]
     }
   ]
