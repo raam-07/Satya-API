@@ -408,9 +408,10 @@ def build_india_overview(articles, entities, promises):
         },
         "top_stories": top_stories,
         "category_breakdown_30d": dict(category_counts),
-        "top_ministers_30d": dict(minister_counts.most_common(10)),
-        "top_parties_30d": dict(party_counts.most_common(10)),
-        "top_states_30d": dict(state_counts.most_common(10)),
+        # Removed .most_common(10) so we publish counts for all tracked netas/states in sorted order
+        "top_ministers_30d": dict(minister_counts.most_common()),
+        "top_parties_30d": dict(party_counts.most_common()),
+        "top_states_30d": dict(state_counts.most_common()),
         "promise_summary": promise_summary
     }
 
@@ -450,7 +451,7 @@ def build_party_dashboards(articles, entities, promises):
                     "criminal_cases_in_news": m.get('criminal_cases_in_news', 0)
                 })
 
-        # Promises by this party (Enriched with evidence fields)
+        # Promises by this party
         party_promises = []
         if promises:
             for p in promises.get('promises', []):
@@ -462,7 +463,7 @@ def build_party_dashboards(articles, entities, promises):
                         "status": p['status'],
                         "category": p.get('category', ''),
                         "evidence_count": len(p.get('evidence_articles', [])),
-                        "evidence_articles": p.get('evidence_articles', [])  # <-- Added: Sends evidence to party page
+                        "evidence_articles": p.get('evidence_articles', [])
                     })
 
         # Sentiment breakdown
@@ -585,7 +586,7 @@ def build_minister_pages(articles, entities, promises):
         recent = filter_recent(m_articles, RECENT_DAYS)
         sorted_articles = sort_by_date(m_articles)
 
-        # Promises by this person (Enriched with full evidence article list)
+        # Promises by this person
         person_promises = []
         if promises:
             for p in promises.get('promises', []):
@@ -596,7 +597,7 @@ def build_minister_pages(articles, entities, promises):
                         "status": p['status'],
                         "made_on": p.get('made_on', ''),
                         "evidence_count": len(p.get('evidence_articles', [])),
-                        "evidence_articles": p.get('evidence_articles', [])  # <-- Added: Sends evidence to minister page
+                        "evidence_articles": p.get('evidence_articles', [])
                     })
 
         # Sentiment
