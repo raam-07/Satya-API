@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-28 05:41:55.248371",
-  "total": 148,
+  "generated_at": "2026-05-28 12:49:12.488744",
+  "total": 165,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 117,
-    "institutional_failure": 16,
+    "power_abuse": 131,
+    "institutional_failure": 17,
     "scale_of_harm": 11,
-    "suppression": 4
+    "suppression": 6
   },
   "articles": [
     {
@@ -111,8 +111,7 @@
         "NDA"
       ],
       "ministers_mentioned": [
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -361,7 +360,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Naidu"
+        "Chandrababu Naidu"
       ],
       "states_mentioned": [],
       "cities_mentioned": [
@@ -474,9 +473,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -568,11 +565,8 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Yogi Adityanath",
-        "Yogi",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi"
       ],
       "states_mentioned": [
@@ -606,8 +600,7 @@
       "rephrased_article": "Following Russia's invasion of Ukraine in 2022, Essar, an Indian-owned conglomerate with ties to the Russian state bank VTB, shifted billions of dollars in loans from Cyprus to Mauritius, a tax haven.  Despite sanctions imposed on VTB and its chief, Andrey Kostin, Essar claimed it complied with UK sanctions law. However, experts and lawmakers are questioning whether this move circumvented sanctions regulations and call for investigations by the UK authorities. The Cypriot government is also examining the legality of these transactions.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -1096,8 +1089,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -1255,6 +1247,170 @@
       "civic_flag_reason": "Allegations of sexual assault against a high-ranking official warrant urgent attention."
     },
     {
+      "id": 50428,
+      "title": "Israel kills 18 in Lebanon, West Bank and Gaza - World - DAWN.COM",
+      "url": "https://www.dawn.com/news/1990936/israel-kills-18-in-lebanon-west-bank-and-gaza",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/12071904532f721.webp",
+      "scraped_at": "2026-04-12 03:03:14.452972",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Israeli strikes in Lebanon and Gaza killed at least 21 people on Saturday, while an Israeli settler shot dead a Palestinian man in the West Bank. The Lebanese health ministry reported eight deaths in south Lebanon and ten more in Nabatiyeh, with the Islamic Health Committee decrying Israel's targeting of emergency workers.  Hezbollah condemned planned ceasefire talks between Lebanon, Israel, and the United States as a \"blatant violation\" of a pact.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Large-scale civilian casualties are reported as routine in the conflict."
+    },
+    {
+      "id": 50393,
+      "title": "T.N. Assembly election 2026: Scheduled Tribe communities in delta region hope for redemption from poverty under new government - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/st-communities-in-cauvery-delta-hope-for-redemption-from-poverty-under-new-govt/article70847613.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ghlm5x/article70847629.ece/alternates/LANDSCAPE_1200/TH%20TRI-23%202.jpg.jpeg",
+      "scraped_at": "2026-04-11 22:39:34.230642",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "Scheduled Tribes (ST) communities in the Cauvery delta region are facing challenges including high school dropout rates, juvenile marriages, and child labor. Activists advocate for government intervention to address these issues through education and improved living conditions. Community leaders, like Karai R. Subramanian, president of the Tamil Nadu Narikuravar Kootamaippu (TNNK), highlight the need for ST certificates to access land ownership and financial assistance. They also point out inadequate housing conditions as a contributing factor to social problems among ST families.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights systemic issues affecting ST communities, demanding urgent government action."
+    },
+    {
+      "id": 50331,
+      "title": "35-year-old man arrested after sexually assaulting five-year-old girl in Chhattisgarh’s Durg - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/35-year-old-man-arrested-after-sexually-assaulting-five-year-old-girl-in-chhattisgarhs-durg/article70851154.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-11 17:43:40.508877",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Dhaneswar Sahu",
+      "rephrased_article": "Dhaneswar Sahu, 35, was arrested in connection with the alleged abduction and sexual assault of a five-year-old girl in Chhattisgarh's Durg district. The victim is hospitalized in stable condition after being found abandoned in a sack on Friday. Anoop Lakra, Patan area SDOP, confirmed the case has been registered under the POCSO Act, 2012.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Sexual assault of a minor is a serious crime and a grave concern for citizen safety."
+    },
+    {
+      "id": 50122,
+      "title": "Pressure on Swalwell to drop California governor bid amid sexual assault claims | California | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/eric-swalwell-california-sexual-assault-allegations",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/81d87bfd1553930303e2503059aa3b2e5fe7c970/428_0_6599_5278/master/6599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0fe5d14832751a558d4ba02afae6ea5",
+      "scraped_at": "2026-04-11 02:40:52.571867",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Eric Swalwell",
+      "rephrased_article": "Eric Swalwell, a California gubernatorial candidate, is facing mounting pressure to withdraw from the race following allegations of sexual assault and misconduct. The San Francisco Chronicle published an account of a woman who alleged she was sexually assaulted by Swalwell, while CNN reported on accounts from three other women.  Swalwell vehemently denies the allegations, calling them \"lies.\" Several high-profile Democrats, including Gavin Newsom, Adam Schiff, and Ruben Gallego, have rescinded their endorsements in response to the accusations. Swalwell's campaign has been rocked by the controversy, with three employees leaving the campaign.  His Democratic rivals are calling for him to drop out of the race.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of sexual assault against a candidate are serious and require public scrutiny."
+    },
+    {
+      "id": 50109,
+      "title": "Supreme Court terms U.P. child assault, its aftermath ‘appalling’; calls for independent probe - The Hindu",
+      "url": "https://www.thehindu.com/news/national/shocked-sc-summons-police-commissioner-io-on-april-13-in-ghaziabad-rape-murder-case-of-minor/article70846558.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fnac01/article70846588.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_I6FONF9M.jpg",
+      "scraped_at": "2026-04-10 23:44:57.928471",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh Police",
+      "rephrased_article": "The Supreme Court found the brutal assault of a four-year-old child by her neighbor in Uttar Pradesh and subsequent denial of medical treatment, as well as police conduct against the family, to be appalling. The court ordered an immediate, Supreme Court-monitored investigation into the case by a Central independent agency or Special Investigation Team due to the \"diabolic\" nature of the attack.  The court also directed the police to redact identifying details from records and not take coercive action against the child's family.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article reports severe abuse and institutional failure in handling the case."
+    },
+    {
+      "id": 49993,
+      "title": "Israeli settlers turn Passover into celebration of ethnic cleansing | Israel-Palestine conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/10/israeli-settlers-turn-passover-celebration-ethnic-cleansing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69d91cb4ab11-1775836340.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-10 17:58:57.269037",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israeli government",
+      "rephrased_article": "Israeli settlers celebrated Passover by picnicking and praying in areas where Palestinians were recently displaced.  The celebrations were documented on social media, with some videos showing settlers praising the forced expulsions of Palestinians as a form of ethnic cleansing. The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) reports that over 1,700 Palestinians have been displaced from their homes in the West Bank due to settler violence and access restrictions since January 2026.  The Israeli government has provided settlers with ATVs and other resources to carry out these acts of violence. The UN warns that this escalation of violence could lead to further displacement and even mass atrocities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "crime_violence",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Settlers celebrating ethnic cleansing is a grave human rights violation."
+    },
+    {
       "id": 62231,
       "title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
       "url": "https://www.thehindu.com/news/national/kerala/cpim-cadres-stage-protests-after-ed-raids-at-pinarayi-vijayans-residence-in-kannur/article71027721.ece",
@@ -1274,10 +1430,8 @@
       ],
       "ministers_mentioned": [
         "Arvind Kejriwal",
-        "Kejriwal",
         "Rahul Gandhi",
-        "Rahul",
-        "Stalin",
+        "M.K. Stalin",
         "Pinarayi Vijayan"
       ],
       "states_mentioned": [
@@ -1399,8 +1553,7 @@
       "rephrased_article": "India's interior minister, Amit Shah, ordered the demolition of buildings within 15km of the border with Pakistan, citing the need to address \"trans-border crimes\" including infiltration and narcotics smuggling.  Shah also directed officials to enforce a zero-tolerance policy against illegal constructions along the border. This action comes amid heightened tensions between the two South Asian neighbors, following last year's deadly conflict in Kashmir.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Rajasthan",
@@ -1474,7 +1627,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Pinarayi Vijayan"
       ],
       "states_mentioned": [
@@ -1706,8 +1858,7 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -1797,7 +1948,7 @@
       "rephrased_article": "A fierce clash between police, a peace committee, and terrorists in Bannu district resulted in the deaths of at least 25 terrorists, two police officers, and two civilians.  Police sources confirmed that the operation was launched after receiving information about the presence of a large number of terrorists in the area. The Lakki Marwat police peace committee also arrived to support the Bannu police.  The operation led to the deaths of two key terrorist commanders, Zmari Noor and Abdullah.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -1860,7 +2011,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Mehbooba Mufti"
       ],
       "states_mentioned": [
@@ -1949,7 +2099,7 @@
       "rephrased_article": "A judicial magistrate in Karachi ordered the release of five women, including a Baloch Yakjehti Committee (BYC) activist, who were arrested for staging a protest against the alleged enforced disappearance of Fozia Baloch's brother. The women were booked under sections of the Pakistan Penal Code related to sedition and disobedience to orders.  The court discharged them on personal bonds after hearing arguments from both sides and directed the investigating officer to submit an investigation report.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -1982,8 +2132,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -2109,9 +2258,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Arvind Kejriwal",
-        "Kejriwal"
+        "Arvind Kejriwal"
       ],
       "states_mentioned": [
         "Punjab",
@@ -2319,7 +2466,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -2380,9 +2527,7 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -2417,8 +2562,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -2450,7 +2594,7 @@
       "rephrased_article": "The Centre appointed noted lawyer Karambir Singh Nalwa as Special Public Prosecutor to lead the trial in the Pahalgam terror attack case, which claimed 25 tourists and a local pony operator's lives on April 22, 2025. The NIA filed a comprehensive chargesheet against six individuals and two terrorist organizations, Pakistan-based Lashkar-e-Taiba and its shadow outfit TRF, for their role in planning and executing the attack.  The agency traced the conspiracy to Pakistan, which it said has been \"unabatedly sponsoring terrorism against India.\" The NIA named Hafeez Saeed, leader of Lashkar-e-Taiba, and Habibullah Malik alias Sajid Jatt, head of The Resistance Front, as accused in the chargesheet.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Jammu",
@@ -2513,7 +2657,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Pinarayi Vijayan"
       ],
       "states_mentioned": [
@@ -2660,7 +2803,7 @@
       "rephrased_article": "Krishna district police are investigating a child kidnapping and selling ring that was busted on April 17th. The investigation is focusing on potential links to other cases, financial details, contacts with staff at hospitals and maternity homes, and the role of an auto driver involved in the operation.  Police are also monitoring the movements of previously arrested suspects.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Naidu"
+        "Chandrababu Naidu"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -2723,12 +2866,10 @@
         "AIADMK"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Amit Shah",
-        "Shah",
         "Rahul Gandhi",
-        "Rahul",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -2758,7 +2899,7 @@
       "rephrased_article": "Despite official claims of stricter building regulations following the Gul Plaza tragedy, the Sindh Building Control Authority (SBCA) remains under scrutiny for persistent complaints of illegal construction in Karachi.  Residents report that unauthorized structures are being built in violation of approved plans, particularly in areas like North Nazimabad, causing strain on civic infrastructure and threatening residents' quality of life. The SBCA has conducted 396 enforcement actions this year, but residents claim these efforts are ineffective as illegal construction continues.  The Sindh Anti-Corruption Establishment is also investigating allegations of irregular appointments within the SBCA, adding to the agency's challenges in addressing the issue.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -2821,8 +2962,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -2883,7 +3023,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi"
       ],
       "states_mentioned": [
@@ -2918,8 +3057,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -2983,8 +3121,7 @@
       "rephrased_article": "A devastating fire at a Vanaja fireworks unit near Virudhunagar district in Tamil Nadu resulted in the deaths of at least 23 workers and injuries to six others.  The Tamil Nadu Chief Minister, M.K. Stalin, dispatched two ministers to oversee relief efforts and ensure necessary support for the affected families. The fire was extinguished after a lengthy struggle with remaining chemicals and unfinished goods continuing to explode.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -3112,7 +3249,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -3200,7 +3336,7 @@
       "rephrased_article": "Shabir Shah, 72, the chief of the banned Democratic Freedom Party, was granted a 10-day remand by a special court in Jammu after being arrested in Delhi. The NIA sought this extension to question him in a three-decade-old case regarding the funeral of a militant killed in Srinagar in 1996.  Mirwaiz Umar Farooq, Kashmir's chief cleric, criticized the repeated arrests and bail decisions, calling them \"revolving door policy\" that undermines justice.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Delhi",
@@ -3323,7 +3459,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -3374,9 +3510,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Yogi Adityanath",
-        "Yogi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Haryana",
@@ -3415,10 +3549,8 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -3504,7 +3636,7 @@
         "SAD"
       ],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -3533,7 +3665,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -3619,8 +3751,7 @@
         "TMC"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -3759,8 +3890,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Gujarat"
@@ -3862,9 +3992,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Bihar",
@@ -3882,6 +4010,248 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Allegations of political manipulation and state division raise serious concerns about abuse of power."
+    },
+    {
+      "id": 50474,
+      "title": "Minor girl recovered 48 hours after kidnap from bus stop in Sahiwal - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/1990883/minor-girl-recovered-48-hours-after-kidnap-from-bus-stop-in-sahiwal",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/04/1209201757d57af.webp",
+      "scraped_at": "2026-04-12 08:08:42.339587",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Nusrat Bibi",
+      "rephrased_article": "Sahiwal City Police recovered a 11-year-old girl, Faizain Bibi, who had been missing for two days after she was allegedly kidnapped by a woman. The suspect, identified as Nusrat Bibi, a resident of Chichawatni, was arrested and the girl was handed over to her parents.  Police suspect that Nusrat Bibi intended to sell the child.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Child kidnapping and potential trafficking are serious crimes requiring urgent attention."
+    },
+    {
+      "id": 50458,
+      "title": "RSS-BJP's main objective is to finish off Constitution: Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-run-for-ambedkar-run-for-constitution-marathon/article70853382.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/afqiqn/article70853405.ece/alternates/LANDSCAPE_1200/RAHUL%20AMBEDKAR%20RUN%20%20DELHI%202026_12_04_24.jpg",
+      "scraped_at": "2026-04-12 07:00:26.972866",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "RSS-BJP",
+      "rephrased_article": "Rahul Gandhi, leader of the Congress, criticized the RSS-BJP for their alleged aim to dismantle the Indian Constitution, arguing that they oppose equality for all citizens.  Gandhi launched a marathon in Delhi on April 12, 2026, commemorating Ambedkar's birth anniversary and emphasizing the importance of constitutional protection. Former Indian cricket captain Mohammad Azharuddin, also participated in the event, praising the initiative as a symbol of unity and progress.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Accusation of dismantling the Constitution raises serious concerns about institutional integrity."
+    },
+    {
+      "id": 50420,
+      "title": "Web series Chiraiya puts spotlight on marital rape in India",
+      "url": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c4c3/live/31b46c00-3256-11f1-bdf9-bf5479a63eec.jpg",
+      "scraped_at": "2026-04-12 03:00:01.611108",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "A new web series called \"Chiraiya\" has sparked conversations about marital rape in India, a country where it is not currently illegal. The show follows two women, Kamlesh and Pooja, whose lives intersect when Pooja's husband rapes her on their wedding night.  Divy Nidhi Sharma, the show's scriptwriter, says the series aims to raise awareness of consent within marriage, highlighting the societal pressures that can silence victims. While the Indian government has resisted calls to criminalize marital rape, \"Chiraiya\" has garnered significant attention and praise for its portrayal of a taboo topic.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Marital rape being legal is a grave injustice and a serious threat to women's safety."
+    },
+    {
+      "id": 50316,
+      "title": "Farmers across Haryana protest against new rules for crop procurement - The Hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/farmers-across-haryana-protest-against-new-rules-for-crop-procurement/article70851479.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g410ft/article70851868.ece/alternates/LANDSCAPE_1200/20260319300L.jpg",
+      "scraped_at": "2026-04-11 16:55:31.570503",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Haryana Government",
+      "rephrased_article": "Farmers across Haryana protested on Saturday against new rules implemented by the state government for wheat procurement. The protest, organized by the Samyukt Kisan Morcha (SKM), included peaceful sit-ins on national highways and was a response to the government's \"coercive\" measures.  Farmer leaders accused the government of denying Minimum Support Price and imposing stringent conditions that are hindering the procurement process. The SKM urged the government to withdraw the new rules and called for future action if their demands were not met.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "economy",
+        "farmer_agriculture",
+        "foreign_policy",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Farmers protesting against denial of MSP and stringent procurement rules raises concerns about food security and farmer rights."
+    },
+    {
+      "id": 50257,
+      "title": "China's expanding surveillance state and crackdowns draw global scrutiny - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-expanding-surveillance-state-and-crackdowns-draw-global-scrutiny/articleshow/130189422.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-130189492,width-1200,height-630,imgsize-68324,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-04-11 14:14:09.704740",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Chinese Government",
+      "rephrased_article": "The World Uyghur Congress (WUC) has raised concerns about the global reach of Chinese surveillance technology and repression of Uyghurs.  Oliver Stirbock, a member of the Hesse State Parliament, called for clarity on guidelines addressing human rights risks linked to Hikvision and Dahua systems, which have been restricted in countries like the United States. The WUC welcomed this move while commemorating the 1990 Baren Uprising, a pivotal moment of Uyghur resistance against Chinese rule that resulted in widespread killings.  Rushan Abbas, Chair of the WUC Executive Committee, participated in the Global Counterterrorism Forum cybersecurity conference and highlighted how surveillance practices associated with the Chinese Communist Party extend beyond China's borders.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Global surveillance and repression raise serious human rights concerns."
+    },
+    {
+      "id": 50202,
+      "title": "Uttar Pradesh boat tragedy: Punjab town mourns deaths - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-boat-tragedy-punjab-town-mourns-deaths/article70850507.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9lqv8d/article70850513.ece/alternates/LANDSCAPE_1200/20260411086L.jpg",
+      "scraped_at": "2026-04-11 09:53:10.176044",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh Government",
+      "rephrased_article": "Markets in Jagraon town were closed on Saturday as mourners waited for the return of loved ones who perished when their boat capsized in the Yamuna river, leaving 10 dead and five missing. The incident occurred on Friday afternoon while a group of pilgrims from Punjab were traveling to Vrindavan for a four-day trip. Punjab Chief Minister Bhagwant Mann is expected to attend the cremation in Jagraon.  Authorities have set up control rooms in Ludhiana and Jagraon to coordinate efforts.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Ludhiana"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Large-scale loss of life due to a preventable boat tragedy raises serious safety concerns."
+    },
+    {
+      "id": 50108,
+      "title": "Man killed in Ganderbal encounter a PDP worker, return the body to family: Iltija Mufti - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/man-killed-in-ganderbal-encounter-a-pdp-worker-return-the-body-to-family-iltija-mufti/article70848503.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4feyga/article70848791.ece/alternates/LANDSCAPE_1200/20260401176L.jpg",
+      "scraped_at": "2026-04-10 23:44:35.247646",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Peoples Democratic Party (PDP) leader Iltija Mufti demanded the return of the body of Raashid Ahmad Mughal, a 28-year-old post-graduate who was killed in a Ganderbal encounter on March 31-April 1.  Ms. Mufti questioned the Army's version of the incident, stating that Mughal was an orphan and involved in social work. She praised J&K Lieutenant Governor Sinha for ordering an inquiry into the incident and demanded the body be returned to his family. The body was buried at a designated site by security agencies instead of the family's graveyard.",
+      "party_mentioned": [
+        "PDP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article raises concerns about potential extrajudicial killing and lack of transparency."
+    },
+    {
+      "id": 50055,
+      "title": "55 workers, including 20 women, arrested for Manesar violence over wage hike - The Hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/55-workers-including-20-women-arrested-for-manesar-violence-over-wage-hike/article70848029.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-10 20:49:26.839684",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "workers",
+      "rephrased_article": "Fifty-five workers, including twenty women, were arrested by the Gurugram Police in connection with clashes between casual workers and police at Industrial Model Township in Manesar. The arrests follow a strike by garment and automotive export workers who have been demanding higher wages.  The workers are accused of assault and vandalism, while the police claim they acted to prevent further violence. CITU, a trade union organization, condemned the arrests and called for the immediate release of all workers.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Mass arrests of striking workers, including women, raise concerns about worker rights."
     },
     {
       "id": 62121,
@@ -4065,7 +4435,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [],
@@ -4429,8 +4798,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -4469,6 +4837,86 @@
       "civic_flag_score": 8,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "Abuse of power by a bank employee resulting in significant financial harm to a citizen."
+    },
+    {
+      "id": 50437,
+      "title": "Iran war: We spoke to the man making Lego-style AI videos that experts say are powerful propaganda",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
+      "scraped_at": "2026-04-12 05:33:02.320149",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Iranian Government",
+      "rephrased_article": "Viral AI videos, resembling scenes from a Lego movie, are being produced by Explosive Media, a social media company that has confirmed its relationship with the Iranian government.  The videos depict controversial topics like US President Donald Trump and George Floyd in a pro-Iran narrative. Experts warn that these \"slopaganda\" clips effectively amplify Iran's message of resistance against what they perceive as an oppressive global force, particularly among Western audiences. Despite factual inaccuracies and claims of antisemitic tropes, the videos have been widely shared and are considered highly effective tools for Iranian propaganda efforts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "suppression",
+      "civic_flag_reason": "AI-generated propaganda potentially manipulates public opinion and normalizes harmful narratives."
+    },
+    {
+      "id": 50150,
+      "title": "Zebras, wealth and power: Hungary’s election tests Orbán’s grip on power | Viktor Orbán | The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/11/zebras-wealth-and-power-hungarys-election-tests-orbans-grip-on-power",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/c2c9e38a42fa162444f6a7845a7ff32d5e7e0869/0_0_4490_3592/master/4490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7203c24a6b7545acbc9c53296fca6deb",
+      "scraped_at": "2026-04-11 06:09:54.043087",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Viktor Orbán",
+      "rephrased_article": "The Hungarian election on Sunday is seen as a pivotal moment in the country's history, with Viktor Orbán facing potential defeat after 16 years in power.  A surge in opposition support has been fueled by concerns over corruption and the erosion of democratic institutions under his leadership. The campaign has highlighted the stark contrast between the ruling Fidesz party and its opponents, including Péter Magyar, who is challenging Orbán's grip on power.  Lőrinc Mészáros, a close ally of Orbán, has been implicated in the controversy surrounding the zebras seen across Hungary, which have become a symbol of wealth disparity and corruption within the country. The election is expected to shape the future trajectory of Hungary's relationship with both the EU and global far-right movements.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "protest_opposition",
+        "foreign_policy",
+        "corruption_scam"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "suppression",
+      "civic_flag_reason": "Erosion of democratic institutions and corruption are serious threats to a functioning democracy."
+    },
+    {
+      "id": 50114,
+      "title": "Kerala HC quashes government order denying sanction for CBI probe into ₹600 cr. cashew import scam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-government-order-denying-sanction-for-cbi-probe-into-600-cr-cashew-import-scam/article70846762.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kv6qdi/article70846796.ece/alternates/LANDSCAPE_1200/IMG_80968_19_8_2024_20_5_2_1_4HD7UTTI.jpg",
+      "scraped_at": "2026-04-10 23:46:53.386222",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Kerala Government",
+      "rephrased_article": "The Kerala High Court quashed a state government order that denied sanction for a CBI probe into the ₹600-crore cashew import scam. The court found the government's denial arbitrary and against public interest, particularly in violation of its previous findings on the matter.  The court summoned the Principal Secretary of the Industries department to appear before it on May 18th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "The government obstructed a CBI probe into a major financial scam."
     }
   ]
 }

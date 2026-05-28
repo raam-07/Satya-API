@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 05:41:55.396788",
+  "generated_at": "2026-05-28 12:49:12.647534",
   "state": "Manipur",
   "capital": "Imphal",
   "ruling_party": "BJP",
@@ -8,17 +8,17 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 33,
-    "articles_last_30d": 17
+    "total_articles": 35,
+    "articles_last_30d": 18
   },
   "top_cities_30d": {
-    "Delhi": 2,
-    "Chennai": 1
+    "Delhi": 3,
+    "Chennai": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 15,
+    "foreign_policy": 16,
     "crime_violence": 9,
-    "protest_opposition": 5,
+    "protest_opposition": 6,
     "education": 3,
     "health": 2,
     "economy": 2,
@@ -26,6 +26,34 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62257,
+      "title": "Art in conflict zones: Nicky Chandam’s visual documentation of Manipur and the politics of performance - The Hindu",
+      "url": "https://www.thehindu.com/entertainment/art/art-in-conflict-zones-nicky-chandams-visual-documentation-of-manipur-and-the-politics-of-performance/article71031973.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/y36zup/article71032123.ece/alternates/LANDSCAPE_1200/One%20Thousand%20Nights_%20Asia%20Meets%20Asia%202018%20India_Imphal.jpg",
+      "scraped_at": "2026-05-28 08:47:02.805859",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Nicky Chandam",
+      "rephrased_article": "**Nicky Chandam**, a photographer from the Northeast, presents her exhibition \"Manipur & Archives: A Visual Documentation of Live Art Over a Decade\" in Chennai. The exhibition showcases 58 photographs capturing Manipuri performance cultures across Delhi and Imphal from 2011 to 2025.  The exhibition features works by renowned artists like **Astad Deboo**, **Mamata Shankar**, and **Ratan Thiyam**, alongside emerging talents, and highlights the impact of conflict on artistic expression in Manipur. The exhibition runs through May 31st at Alliance Française Madras.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 62164,
       "title": "Rest still a favour, not a right, for retail-staff in Chennai - The Hindu",
@@ -87,9 +115,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Assam",
@@ -185,8 +211,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Manipur"
@@ -239,8 +264,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Andhra Pradesh",
@@ -388,11 +412,8 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Amit Shah",
-        "Shah",
         "Mamata Banerjee",
-        "Mamata",
         "Omar Abdullah"
       ],
       "states_mentioned": [
@@ -620,11 +641,8 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Yogi Adityanath",
-        "Yogi",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi"
       ],
       "states_mentioned": [
@@ -708,15 +726,12 @@
         "Janata Dal"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Arvind Kejriwal",
-        "Kejriwal",
         "Mamata Banerjee",
-        "Mamata",
         "Hemant Soren",
         "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Gujarat",
@@ -987,6 +1002,29 @@
       ],
       "topic_tags": [
         "economy"
+      ]
+    },
+    {
+      "id": 50082,
+      "title": "BSF jawan killed in unprovoked firing in Manipur’s Ukhrul - The Hindu",
+      "url": "https://www.thehindu.com/news/national/manipur/bsf-jawan-killed-in-unprovoked-firing-in-manipurs-ukhrul/article70848785.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6x6boi/article70848806.ece/alternates/LANDSCAPE_1200/IMG_1300.jpeg",
+      "scraped_at": "2026-04-10 22:43:50.377681",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Manipur Police",
+      "rephrased_article": "**Constable Mithun Mandal**, a BSF jawan from West Bengal, was killed in \"unprovoked firing by militants\" during a patrol in Manipur's Ukhrul district.  The incident occurred on April 10, 2026, and **Manipur Police** initiated a search operation to apprehend the attackers. The violence in the Litan area of Ukhrul has been ongoing since February 7th following the installation of the new Chief Minister.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Manipur",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
       ]
     }
   ]
