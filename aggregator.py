@@ -450,7 +450,7 @@ def build_party_dashboards(articles, entities, promises):
                     "criminal_cases_in_news": m.get('criminal_cases_in_news', 0)
                 })
 
-        # Promises by this party
+        # Promises by this party (Enriched with evidence fields)
         party_promises = []
         if promises:
             for p in promises.get('promises', []):
@@ -460,7 +460,9 @@ def build_party_dashboards(articles, entities, promises):
                         "person": p['person'],
                         "promise": p['promise'],
                         "status": p['status'],
-                        "category": p.get('category', '')
+                        "category": p.get('category', ''),
+                        "evidence_count": len(p.get('evidence_articles', [])),
+                        "evidence_articles": p.get('evidence_articles', [])  # <-- Added: Sends evidence to party page
                     })
 
         # Sentiment breakdown
@@ -583,7 +585,7 @@ def build_minister_pages(articles, entities, promises):
         recent = filter_recent(m_articles, RECENT_DAYS)
         sorted_articles = sort_by_date(m_articles)
 
-        # Promises by this person
+        # Promises by this person (Enriched with full evidence article list)
         person_promises = []
         if promises:
             for p in promises.get('promises', []):
@@ -593,7 +595,8 @@ def build_minister_pages(articles, entities, promises):
                         "promise": p['promise'],
                         "status": p['status'],
                         "made_on": p.get('made_on', ''),
-                        "evidence_count": len(p.get('evidence_articles', []))
+                        "evidence_count": len(p.get('evidence_articles', [])),
+                        "evidence_articles": p.get('evidence_articles', [])  # <-- Added: Sends evidence to minister page
                     })
 
         # Sentiment
