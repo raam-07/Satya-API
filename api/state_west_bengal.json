@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 23:41:29.224366",
+  "generated_at": "2026-05-28 05:21:56.704291",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 265,
-    "articles_last_30d": 171
+    "total_articles": 276,
+    "articles_last_30d": 170
   },
   "top_cities_30d": {
     "Kolkata": 43,
@@ -26,8 +26,8 @@
   "top_topics_30d": {
     "foreign_policy": 152,
     "education": 89,
-    "protest_opposition": 78,
-    "economy": 42,
+    "protest_opposition": 77,
+    "economy": 43,
     "crime_violence": 42,
     "infrastructure": 42,
     "farmer_agriculture": 20,
@@ -36,6 +36,30 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 62194,
+      "title": "Supreme Court upholds SIR exercise as an advancement towards free and fair elections - The Hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-upholds-sir-exercise-as-an-advancement-towards-free-and-fair-elections/article71028139.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cwn9jv/article71028223.ece/alternates/LANDSCAPE_1200/BIHAR%20ELECTION%20SPECIAL%20INVESTIGATION%20REVISIONSIR%20%20to%20electoral%20roll%20%205.JPG",
+      "scraped_at": "2026-05-27 22:47:50.137043",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "The **Supreme Court** upheld the Special Intensive Revision (SIR) of electoral rolls conducted by the **Election Commission of India (ECI)**, finding it constitutional and necessary for conducting free and fair elections. The court dismissed claims that the SIR was a backdoor attempt to conduct citizenship screening, stating the ECI has the authority to verify citizenship within the context of electoral roll management.  The court directed the ECI to refer names of electors purged in the Bihar SIR on grounds of non-citizenship to the Centre for adjudication and restore their names if found citizens. The decision ensures the integrity of the electoral rolls by addressing issues arising from population changes, migration, and inaccurate entries over time.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62178,
       "title": "Probe incidents of accused being paraded in underwear: APDR writes to West Bengal Human Rights Commission - The Hindu",
@@ -6132,29 +6156,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 53743,
-      "title": "Watch: Above 92% turnout in Bengal, 85% in Tamil Nadu amid poll violence | Above the Fold | 23.04.2026 - The Hindu",
-      "url": "https://www.thehindu.com/videos/watch-above-92-turnout-in-bengal-85-in-tamil-nadu-amid-poll-violence-above-the-fold-23042026/article70898876.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/vvkkg5/article70898800.ece/alternates/LANDSCAPE_1200/23%20April%20THUMB%20.png",
-      "scraped_at": "2026-04-23 23:58:44.695535",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "West Bengal",
-      "rephrased_article": "**The Hindu** reports on key election trends in Tamil Nadu and West Bengal, highlighting shifts ahead of the polls. The publication also covers political tensions in the United States over birthright citizenship and rising tensions in West Asia around the Strait of Hormuz. Additionally, **West Bengal's** campaign landscape has seen a significant change.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
     }
   ]
 }

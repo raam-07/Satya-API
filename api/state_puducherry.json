@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 23:41:29.241965",
+  "generated_at": "2026-05-28 05:21:56.723030",
   "state": "Puducherry",
   "capital": "Puducherry",
   "ruling_party": "INC",
@@ -8,30 +8,56 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 50,
-    "articles_last_30d": 39
+    "total_articles": 54,
+    "articles_last_30d": 40
   },
   "top_cities_30d": {
-    "Chennai": 10,
+    "Chennai": 11,
     "Delhi": 7,
     "Madurai": 4,
     "Kolkata": 4,
     "Bengaluru": 3,
-    "Coimbatore": 2
+    "Coimbatore": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 38,
+    "foreign_policy": 39,
     "education": 12,
     "protest_opposition": 12,
     "infrastructure": 11,
     "economy": 9,
     "crime_violence": 6,
     "farmer_agriculture": 6,
-    "health": 2,
+    "health": 3,
     "corruption_scam": 2,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62186,
+      "title": "Temperatures across T.N. to remain within limits: RMC - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/temperatures-across-tn-to-remain-within-limits-rmc/article71030339.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/k966be/article71030906.ece/alternates/LANDSCAPE_1200/4871_27_4_2026_15_19_52_1_DSC_7175.JPG",
+      "scraped_at": "2026-05-27 22:45:38.053440",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Regional Meteorological Centre (RMC)",
+      "rephrased_article": "**Regional Meteorological Centre (RMC)** forecasts temperatures across Tamil Nadu will remain within normal limits for the next three days, with only isolated pockets in north interior parts experiencing a slight increase of 2-3 degrees Celsius.  The **Chennai city** and northern districts are expected to have maximum temperatures around 40-41 degrees Celsius on Thursday.  Heavy rain is forecast for several districts including Nilgiris, Coimbatore, Tiruppur, Dindigul, Theni, Virudhunagar, Tenkasi, Tirunelveli, Kanyakumari, Vellore, Tirupattur, Krishnagiri, Dharmapuri, Salem, and Erode.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61487,
       "title": "BJP tried to stitch coalition govt. in Tamil Nadu with DMK and AIADMK on election result day: Congress MP Manickam Tagore - The Hindu",
@@ -1671,6 +1697,143 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 50720,
+      "title": "Consolidated voters’ list of 9 States and 3 UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
+      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-9-states-and-3-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
+      "scraped_at": "2026-04-12 21:46:55.817029",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls in nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by **West Bengal**, with a net deletion of 83.86 lakh. The SIR phase II identified 67 lakh deceased voters and 1.28 crore duplicate voters across these states and UTs.  The consolidated electoral rolls saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 50587,
+      "title": "247 kg of gutkha seized, three held in Villupuram - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/247-kg-of-gutkha-seized-three-held-in-villupuram/article70853425.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-12 14:16:57.592356",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Police** in Villupuram district seized 247 kg of smuggled gutkha and arrested three individuals, Vinodh (30), Parthi (33), and Jayakumar (47), from three cars at Pulichapallam on Saturday. The seizure followed a tip-off during vehicle checks conducted by the police team.  A case has been registered.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 50564,
+      "title": "Consolidated voters’ list of 12 States and UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
+      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-12-states-and-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
+      "scraped_at": "2026-04-12 13:26:11.869691",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls, which saw a significant reduction in voter numbers across nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by West Bengal with 83.86 lakh.  The revision identified 67 lakh deceased voters and 1.28 crore duplicate voters for removal. The consolidated electoral rolls across these regions saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy"
       ]
     }
   ]

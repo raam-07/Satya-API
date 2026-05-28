@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 23:41:29.232048",
+  "generated_at": "2026-05-28 05:21:56.712390",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 360,
-    "articles_last_30d": 241
+    "total_articles": 374,
+    "articles_last_30d": 244
   },
   "top_cities_30d": {
-    "Delhi": 239,
+    "Delhi": 241,
     "Mumbai": 21,
     "Kolkata": 18,
     "Chennai": 14,
@@ -24,18 +24,102 @@
     "Ahmedabad": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 221,
-    "protest_opposition": 85,
+    "foreign_policy": 224,
+    "protest_opposition": 86,
     "crime_violence": 72,
+    "economy": 65,
     "education": 65,
-    "economy": 64,
-    "infrastructure": 60,
+    "infrastructure": 61,
     "farmer_agriculture": 29,
-    "corruption_scam": 26,
+    "corruption_scam": 27,
     "health": 20,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 62231,
+      "title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/cpim-cadres-stage-protests-after-ed-raids-at-pinarayi-vijayans-residence-in-kannur/article71027721.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/ls1gfd/article71027773.ece/alternates/LANDSCAPE_1200/Pinarayi%20protest.jpg",
+      "scraped_at": "2026-05-28 00:10:22.645050",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**The Enforcement Directorate (ED)** conducted raids on the residences of former Kerala Chief Minister Pinarayi Vijayan and his daughter, T. Veena, in Kannur and Thiruvananthapuram, alleging that her defunct firm received substantial monthly retainers from **Cochin Minerals and Rutile Limited (CMRL)** between 2017 and 2021 without rendering any tangible service. The raids triggered protests across the state, with CPI(M) activists allegedly vandalizing vehicles carrying ED officials.  The ED is verifying bank transactions of Ms. Veena while stating no incriminating documents were found at Mr. Vijayan's residence.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Rahul Gandhi",
+        "Rahul",
+        "Stalin",
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62215,
+      "title": "No specific port project identified, says Fiji’s Foreign Minister, day after Quad Foreign Ministers pledge assistance - The Hindu",
+      "url": "https://www.thehindu.com/news/national/fiji-port-project-infrastructure-quad-foreign-ministers-declare-assistance/article71030889.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p74gzo/article71031095.ece/alternates/LANDSCAPE_1200/1000462677.jpg",
+      "scraped_at": "2026-05-28 00:05:49.864165",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Quad",
+      "rephrased_article": "**Fiji's** Foreign Minister Sakiasi Ditoka stated that no specific port project has been agreed upon, despite a declaration by the **Quad** foreign ministers at their meeting in New Delhi.  The **MCC** Compact of the United States is being considered for funding feasibility studies on infrastructure development in Fiji. The announcement was made following discussions between the **Quad** countries and the Fijian government, which has been strengthening ties with China, particularly regarding infrastructure projects.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62214,
+      "title": "Can the US and India repair ties over trade and China? | US-Israel war on Iran | Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779912828.jpg?resize=1920%2C1080&quality=80",
+      "scraped_at": "2026-05-28 00:05:34.618756",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "US-India relations",
+      "rephrased_article": "**US Secretary of State Marco Rubio** visited India to repair strained ties following trade disputes and energy politics.  The trip comes amid a global energy crisis that has forced **India** to reconsider its oil and gas purchases, with **Washington** seeking to increase energy sales to the country. Both sides aim for a broader trade deal, but **India**'s reliance on Russian crude and China's growing influence complicate the situation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62171,
       "title": "India orders demolition drive along border as Pakistan tensions simmer | India-Pakistan Tensions News | Al Jazeera",
@@ -5726,125 +5810,6 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56804,
-      "title": "What Modi’s big win in Indian state elections could mean for its democracy | Elections News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/5/what-modis-big-win-in-indian-state-elections-could-mean-for-its-democracy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T190651Z_938720960_RC2A2LA27NT0_RTRMADP_3_INDIA-ELECTIONS-RESULTS-1777975872.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-05 12:10:02.447872",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The Bharatiya Janata Party (BJP) won the West Bengal state assembly elections, marking a significant victory for the party and raising concerns about potential authoritarianism. The BJP's win comes after a history of religious cleavages in the state, but also amidst accusations of voter suppression targeting Muslims.  Actor Joseph Vijay won the Tamil Nadu Assembly election, breaking a long-standing duopoly by the Dravidian parties. In Kerala, the Communist party lost to an alliance led by the Congress. The BJP's consolidation of power has grown with its victories in 21 out of 28 states, raising questions about India's future political landscape and democratic processes.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi",
-        "Mamata Banerjee",
-        "Mamata",
-        "Stalin",
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi",
-        "Kashmir",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56784,
-      "title": "India may discuss BrahMos missile sale to Vietnam during presidential visit, sources say - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/1997712/india-may-discuss-brahmos-missile-sale-to-vietnam-during-presidential-visit-sources-say",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/0513274481d4cea.webp",
-      "scraped_at": "2026-05-05 10:53:52.739615",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "India",
-      "rephrased_article": "**Vietnamese President To Lam** is visiting New Delhi this week to discuss expanding defense ties with **India**, potentially including the purchase of BrahMos missiles.  The supersonic cruise missiles, jointly developed by **India** and **Russia**, have already been sold to the Philippines and Indonesia. A deal with Vietnam could be worth approximately $629 million, according to sources, as **India** seeks to bolster its presence in the Indo-Pacific region amidst China's growing influence.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56751,
-      "title": "Requiem for Stalin’s spirit - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/1997642/requiem-for-stalins-spirit",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/05074611b13b7b5.webp",
-      "scraped_at": "2026-05-05 06:27:20.871073",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Stalin",
-      "rephrased_article": "**Joseph Stalin's** spirit appears to be perplexed and saddened by recent events in India, where his former followers have aligned with Hindu nationalism. The Communist Party of India-Marxist (CPI-M) has seen a decline in its influence, with the Bharatiya Janata Party (BJP) gaining significant ground in West Bengal elections.  The CPI-M's support for Hindu nationalist forces is a surprise to Stalin's spirit, who would have preferred a more socialist approach. The writer notes that this shift reflects a broader trend of Indian communists aligning with Hindutva forces, a development that Stalin likely did not anticipate.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi",
-        "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul",
-        "Stalin"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "Telangana",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Hyderabad",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture",
         "protest_opposition"
       ]
     }

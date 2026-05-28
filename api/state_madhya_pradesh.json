@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 23:41:29.176449",
+  "generated_at": "2026-05-28 05:21:56.653624",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 63,
+    "total_articles": 67,
     "articles_last_30d": 44
   },
   "top_cities_30d": {
     "Delhi": 14,
-    "Bhopal": 13,
+    "Bhopal": 14,
     "Indore": 5,
     "Mumbai": 3,
     "Agra": 3,
@@ -27,15 +27,40 @@
     "foreign_policy": 41,
     "education": 14,
     "infrastructure": 12,
-    "protest_opposition": 12,
     "crime_violence": 12,
-    "health": 10,
+    "protest_opposition": 11,
+    "health": 11,
     "farmer_agriculture": 8,
     "economy": 7,
-    "rape_sexual_crime": 3,
+    "rape_sexual_crime": 4,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 62218,
+      "title": "Twisha Sharma death case: Madhya Pradesh HC quashes anticipatory bail of retired judge Giribala Singh - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-madhya-pradesh-hc-quashes-anticipatory-bail-giribala-singh/article71030927.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/gamrmr/article71030945.ece/alternates/LANDSCAPE_1200/20260526092L.jpg",
+      "scraped_at": "2026-05-28 00:06:33.738135",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Giribala Singh",
+      "rephrased_article": "The **Madhya Pradesh High Court** has quashed the anticipatory bail granted to retired Bhopal district judge Giribala Singh in the Twisha Sharma dowry harassment and death case. The court, citing inconsistencies in the evidence and lack of remorse from Ms. Singh, ruled that the trial court did not adequately consider the prosecution's claims.  The **CBI**, which took over the investigation, is expected to arrest Ms. Singh soon for custodial interrogation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "health",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62173,
       "title": "Twisha Singh death case: Madhya Pradesh HC quashes anticipatory bail of retired judge Giribala Singh - The Hindu",
@@ -1907,6 +1932,157 @@
       "topic_tags": [
         "foreign_policy",
         "crime_violence"
+      ]
+    },
+    {
+      "id": 50767,
+      "title": "SIR in West Bengal: How exclusion of nine million voters could shape state politics",
+      "url": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3d67/live/a1a47d30-3309-11f1-adde-cd036dc687f9.jpg",
+      "scraped_at": "2026-04-13 06:08:12.799855",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Political turmoil in West Bengal, India, has erupted over a Special Intensive Revision (SIR) exercise that removed nine million voters from the electoral rolls.  **Muhammad Daud Ali**, a former Indian army technician, is among those whose names were struck off despite valid documents. The exercise, aimed at weeding out duplicate or outdated entries and adding genuine voters, has been controversial since it began in Bihar last year. **Mamata Banerjee**, the Chief Minister of West Bengal, alleges that the revision is being used to disenfranchise Muslims to benefit the Bharatiya Janata Party (BJP).  The Election Commission maintains that the exercise aims for a \"pure electoral roll\" and denies any political bias. The fate of 2.7 million voters remains undecided as legal challenges continue. With elections scheduled for April 23rd and 29th, many are concerned about the impact on democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Madhya Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 50720,
+      "title": "Consolidated voters’ list of 9 States and 3 UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
+      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-9-states-and-3-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
+      "scraped_at": "2026-04-12 21:46:55.817029",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls in nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by **West Bengal**, with a net deletion of 83.86 lakh. The SIR phase II identified 67 lakh deceased voters and 1.28 crore duplicate voters across these states and UTs.  The consolidated electoral rolls saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 50564,
+      "title": "Consolidated voters’ list of 12 States and UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
+      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-12-states-and-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
+      "scraped_at": "2026-04-12 13:26:11.869691",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls, which saw a significant reduction in voter numbers across nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by West Bengal with 83.86 lakh.  The revision identified 67 lakh deceased voters and 1.28 crore duplicate voters for removal. The consolidated electoral rolls across these regions saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy"
       ]
     }
   ]
