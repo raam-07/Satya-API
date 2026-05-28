@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 05:21:56.552001",
+  "generated_at": "2026-05-28 05:37:18.015539",
   "party": "BJP",
   "full_name": "Bharatiya Janata Party",
   "ideology": "Hindu nationalism, right-wing",
@@ -25,7 +25,7 @@
   ],
   "color": "#FF9933",
   "stats": {
-    "total_articles": 849,
+    "total_articles": 850,
     "articles_last_30d": 514,
     "sentiment_breakdown_30d": {
       "positive": 174,
@@ -174,105 +174,155 @@
       "person": "Narendra Modi",
       "promise": "Double farmer income by 2022",
       "status": "broken",
-      "category": "farmer_agriculture"
+      "category": "farmer_agriculture",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p002",
       "person": "Narendra Modi",
       "promise": "Create 2 crore jobs every year",
       "status": "broken",
-      "category": "economy"
+      "category": "economy",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p003",
       "person": "Narendra Modi",
       "promise": "Bring back black money from Swiss banks and deposit Rs 15 lakh in every Indian's account",
       "status": "broken",
-      "category": "economy"
+      "category": "economy",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p004",
       "person": "Narendra Modi",
       "promise": "Build 2 crore pucca houses for the poor by 2022 (PM Awas Yojana)",
       "status": "ongoing",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p005",
       "person": "Narendra Modi",
       "promise": "Make India a $5 trillion economy by 2024-25",
       "status": "broken",
-      "category": "economy"
+      "category": "economy",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p006",
       "person": "Narendra Modi",
       "promise": "End corruption completely — 'Na khaunga, na khane dunga'",
       "status": "broken",
-      "category": "corruption_scam"
+      "category": "corruption_scam",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p007",
       "person": "Narendra Modi",
       "promise": "Electoral bonds will bring transparency to political funding",
       "status": "broken",
-      "category": "politics"
+      "category": "politics",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p008",
       "person": "Narendra Modi",
       "promise": "Har ghar nal se jal — piped water to every household by 2024",
       "status": "ongoing",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p009",
       "person": "Narendra Modi",
       "promise": "Uniform Civil Code implementation",
       "status": "ongoing",
-      "category": "politics"
+      "category": "politics",
+      "evidence_count": 1,
+      "evidence_articles": [
+        {
+          "url": "https://www.thehindu.com/news/national/assam/ucc-implementation-in-assam-muslim-organisations-seek-consultations-with-government/article71017321.ece",
+          "title": "UCC implementation in Assam: Muslim organisations seek consultations with government - The Hindu",
+          "source": "The Hindu",
+          "scraped_at": "2026-05-24 15:50:48.926292",
+          "relevance_score": 77,
+          "gemma_validated": true,
+          "rephrased": "**Muslim religious and social organizations** in Assam have urged the **Assam government** to consult with them before implementing the Uniform Civil Code (UCC). The organizations, including factions "
+        }
+      ]
     },
     {
       "id": "p010",
       "person": "Narendra Modi",
       "promise": "One nation one election",
       "status": "ongoing",
-      "category": "politics"
+      "category": "politics",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p011",
       "person": "Narendra Modi",
       "promise": "Demonetization will end black money and terrorism funding",
       "status": "broken",
-      "category": "economy"
+      "category": "economy",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p012",
       "person": "Narendra Modi",
       "promise": "Bullet train between Mumbai and Ahmedabad by 2023",
       "status": "broken",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p013",
       "person": "Amit Shah",
       "promise": "Remove Rohingyas from India completely",
       "status": "ongoing",
-      "category": "politics"
+      "category": "politics",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p018",
       "person": "Yogi Adityanath",
       "promise": "End mafia raj and crime completely in Uttar Pradesh",
       "status": "ongoing",
-      "category": "crime_violence"
+      "category": "crime_violence",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p020",
       "person": "Narendra Modi",
       "promise": "Viksit Bharat by 2047 — developed India by centenary of independence",
       "status": "ongoing",
-      "category": "economy"
+      "category": "economy",
+      "evidence_count": 1,
+      "evidence_articles": [
+        {
+          "url": "https://www.thehindu.com/news/national/telangana/centre-to-support-telangana-more-vigorously-pm-modi-in-hyderabad/article70962140.ece",
+          "title": "PM Modi assures more support to Telangana, asks CM Revanth to collaborate with him - The Hindu",
+          "source": "The Hindu",
+          "scraped_at": "2026-05-10 12:02:18.299435",
+          "relevance_score": 95,
+          "gemma_validated": true,
+          "rephrased": "**Prime Minister Narendra Modi** assured **Telangana Chief Minister A. Revanth Reddy** that the **Central government** would continue to support its development, emphasizing the importance of state-le"
+        }
+      ]
     }
   ],
   "recent_articles": [

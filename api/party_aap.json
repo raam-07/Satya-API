@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 05:21:56.567036",
+  "generated_at": "2026-05-28 05:37:18.030912",
   "party": "AAP",
   "full_name": "Aam Aadmi Party",
   "ideology": "Anti-corruption, Populism",
@@ -10,10 +10,10 @@
   ],
   "color": "#0066FF",
   "stats": {
-    "total_articles": 56,
-    "articles_last_30d": 27,
+    "total_articles": 57,
+    "articles_last_30d": 28,
     "sentiment_breakdown_30d": {
-      "neutral": 7,
+      "neutral": 8,
       "negative": 17,
       "positive": 3
     }
@@ -33,24 +33,51 @@
       "person": "Arvind Kejriwal",
       "promise": "Free and world class government schools in Delhi",
       "status": "kept",
-      "category": "education"
+      "category": "education",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p015",
       "person": "Arvind Kejriwal",
       "promise": "Free electricity up to 200 units in Delhi",
       "status": "kept",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "evidence_count": 0,
+      "evidence_articles": []
     },
     {
       "id": "p016",
       "person": "Arvind Kejriwal",
       "promise": "Clean Yamuna river by 2025",
       "status": "broken",
-      "category": "infrastructure"
+      "category": "infrastructure",
+      "evidence_count": 0,
+      "evidence_articles": []
     }
   ],
   "recent_articles": [
+    {
+      "id": 62246,
+      "title": "Flooding rains expected across three Australian states as parched interior receives drenching | Australia weather | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/28/australia-weather-rain-flooding-expected-queensland-nsw-tasmania-bom-severe-weather-warning",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/dae2cf67ab0a93d24eb2d49907cf4ffa416e3682/565_0_6461_5169/master/6461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c798bc34efdc27d2b1f19ebad96fc1a1",
+      "scraped_at": "2026-05-28 04:57:00.804879",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Australian weather",
+      "rephrased_article": "**Multiple states** in eastern Australia are facing severe weather warnings for flash flooding due to a low-pressure trough bringing tropical moisture.  Heavy rainfall is expected across parts of **New South Wales**, the **Hunter Valley**, and southern Queensland, with potential minor flooding in some areas. **NRMA roadside assistance employees** in Canberra, Sydney, Newcastle, and Wollongong are on strike over pay and conditions. The low-pressure system is also expected to bring severe thunderstorms, damaging winds, and large hail to parts of **Queensland** and **New South Wales**.  Rainfall totals have been significant across the region, with some areas experiencing over 100mm in just 24 hours.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62231,
       "title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
