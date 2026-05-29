@@ -112,10 +112,56 @@ def load_json_from_url(url, fallback_path=None):
 # --- ENRICHMENT — Implicit linking via entities.json ---
 # ==============================================================================
 
-def verify_surname_context(match, text_lower, canonical_name):
+def generate_context_keywords(minister_entity):
+    """
+    Dynamically generates contextual anchoring keywords from a minister's
+    properties in entities.json to avoid codebase hardcoding.
+    """
+    keywords = set()
+
+    # 1. Parse individual parts of full name (e.g. "narendra" and "modi")
+    name_parts = minister_entity.get('name', '').lower().split()
+    for part in name_parts:
+        if len(part) > 2:
+            keywords.add(part)
+
+    # 2. Extract constituency (e.g. "varanasi")
+    constituency = minister_entity.get('constituency')
+    if constituency:
+        keywords.add(constituency.lower())
+
+    # 3. Extract party affiliation (e.g. "bjp", "inc", "aap")
+    party = minister_entity.get('party')
+    if party:
+        keywords.add(party.lower())
+
+    # 4. Extract state region (e.g. "uttar pradesh")
+    state = minister_entity.get('state')
+    if state:
+        keywords.add(state.lower())
+
+    # 5. Extract role descriptions and generate common abbreviations
+    role = minister_entity.get('role', '').lower()
+    if role:
+        keywords.add(role)
+        if "prime minister" in role:
+            keywords.add("pm")
+        if "chief minister" in role:
+            keywords.add("cm")
+
+    # 6. Extract ministry details
+    ministry = minister_entity.get('ministry', '').lower()
+    if ministry:
+        keywords.add(ministry)
+        if "ministry of" in ministry:
+            keywords.add(ministry.replace("ministry of", "").strip())
+
+    return keywords
+
+def verify_surname_context(match, text_lower, keywords):
     """
     Scans a 200-character window surrounding a matched generic surname
-    to verify if it refers to the intended canonical politician.
+    to verify if it refers to the intended canonical politician using dynamic keywords.
     """
     alias_matched = match.group(0).lower()
 
@@ -127,21 +173,6 @@ def verify_surname_context(match, text_lower, canonical_name):
     start_idx = max(0, match.start() - 100)
     end_idx = min(len(text_lower), match.end() + 100)
     context_window = text_lower[start_idx:end_idx]
-
-    # Keyword lists for common regional surnames in Indian politics
-    disambiguation_rules = {
-        "Narendra Modi": {"pm", "prime minister", "narendra", "varanasi", "namo", "central government", "modi cabinet"},
-        "Amit Shah": {"home minister", "amit", "gandhinagar", "cooperation", "shah cabinet"},
-        "Rahul Gandhi": {"congress", "rahul", "wayanad", "rae bareli", "opposition leader", "gandhi scion"},
-        "Mamata Banerjee": {"cm", "chief minister", "didi", "mamata", "west bengal", "trinamool", "tmc"},
-        "Arvind Kejriwal": {"aap", "arvind", "delhi", "chief minister", "cm", "convenor", "tihar"},
-        "Akhilesh Yadav": {"sp", "samajwadi", "akhilesh", "up", "uttar pradesh", "karhal"},
-        "Tejashwi Yadav": {"rjd", "tejashwi", "bihar", "patna", "rashtriya janata"}
-    }
-
-    keywords = disambiguation_rules.get(canonical_name)
-    if not keywords:
-        return True  # Default to true for non-ambiguous entities
 
     # Check for context match
     for keyword in keywords:
@@ -173,11 +204,17 @@ def enrich_articles(articles, entities):
     # Build lookup maps
     minister_to_party = {}
     minister_to_state = {}
-    minister_aliases = {}  # alias -> canonical
+    minister_aliases = {}   # alias -> canonical
+    minister_keywords = {}  # canonical -> set of dynamic keywords
+    
     for m in all_ministers:
         canonical = m['name']
         minister_to_party[canonical] = m.get('party', '')
         minister_to_state[canonical] = m.get('state', '')
+        
+        # On-the-fly keyword extraction from entities database properties
+        minister_keywords[canonical] = generate_context_keywords(m)
+        
         minister_aliases[canonical.lower()] = canonical
         for alias in m.get('aliases', []):
             minister_aliases[alias.lower()] = canonical
@@ -234,7 +271,8 @@ def enrich_articles(articles, entities):
                 for match in re.finditer(pattern, text_lower):
                     # Ambiguity check for common surnames
                     if alias_lower in {"modi", "shah", "yadav", "gandhi", "banerjee", "kejriwal"}:
-                        if verify_surname_context(match, text_lower, canonical):
+                        keywords = minister_keywords.get(canonical, set())
+                        if verify_surname_context(match, text_lower, keywords):
                             all_ministers_canonical.add(canonical)
                     else:
                         all_ministers_canonical.add(canonical)
