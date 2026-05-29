@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 10:55:56.584912",
+  "generated_at": "2026-05-29 19:56:21.723422",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": 0.89,
   "stats": {
-    "total_articles": 327,
+    "total_articles": 343,
     "articles_last_30d": 169
   },
   "top_cities_30d": {
-    "Kolkata": 42,
+    "Kolkata": 41,
     "Delhi": 23,
     "Chennai": 5,
     "Bengaluru": 5,
@@ -24,18 +24,37 @@
     "Kanpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 151,
-    "education": 88,
-    "protest_opposition": 77,
+    "foreign_policy": 150,
+    "education": 87,
+    "protest_opposition": 76,
     "economy": 43,
-    "crime_violence": 43,
-    "infrastructure": 43,
+    "crime_violence": 42,
+    "infrastructure": 42,
     "farmer_agriculture": 20,
     "corruption_scam": 17,
     "health": 10,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 62502,
+      "title": "Census in West Bengal to start from August 1: CM Suvendu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/census-in-bengal-to-be-held-from-august-1-to-february-end-next-year-cm/article71036958.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p6eswr/article71036998.ece/alternates/LANDSCAPE_1200/20260520353L.jpg",
+      "scraped_at": "2026-05-29 17:38:38.295279",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "West Bengal Government",
+      "rephrased_article": "**Suvendu Adhikari**, West Bengal Chief Minister, announced the commencement of the **West Bengal Census 2027** between August 1 and February 2028. He emphasized that the census is a constitutional obligation and urged citizens to participate.  Adhikari attributed demographic changes in parts of the state to cross-border infiltration due to an unfenced border with Bangladesh, stating that accurate data will be crucial for governance and planning. The **Census Director of West Bengal**, Rashmi Kamal, IAS officer of the 2006 batch, is overseeing the digital census, which allows for self-enumeration.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
     {
       "id": 62437,
       "title": "Internal bickering, resignations and public anger, Trinamool battling on multiple fronts - The Hindu",
@@ -53,8 +72,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -6002,25 +6020,6 @@
         "crime_violence",
         "protest_opposition"
       ]
-    },
-    {
-      "id": 53835,
-      "title": "Supreme Court refuses to entertain pleas of those on election duty in Bengal, asks them to move tribunal - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/supreme-court-refuses-to-entertain-pleas-of-those-on-election-duty-in-bengal-asks-them-to-move-tribunal/article70901149.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/22867j/article70901164.ece/alternates/LANDSCAPE_1200/2022-11-11T124527Z_1206273449_RC2NJX9WZ3WI_RTRMADP_3_INDIA-COURT.JPG",
-      "scraped_at": "2026-04-24 11:45:35.244959",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Supreme Court",
-      "rephrased_article": "The **Supreme Court** on Friday refused to hear appeals from individuals in West Bengal seeking the reinstatement of their names on the voter list following a Special Intensive Revision. The court instructed the petitioners to address their concerns before appellate tribunals responsible for reviewing electoral roll changes.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
     }
   ]
 }

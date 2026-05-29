@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 10:55:56.592919",
+  "generated_at": "2026-05-29 19:56:21.731538",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,26 +8,26 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 448,
-    "articles_last_30d": 248
+    "total_articles": 482,
+    "articles_last_30d": 249
   },
   "top_cities_30d": {
-    "Delhi": 245,
+    "Delhi": 246,
     "Mumbai": 21,
     "Kolkata": 18,
     "Chennai": 16,
     "Hyderabad": 15,
     "Bengaluru": 13,
     "Jaipur": 10,
-    "Agra": 9,
+    "Agra": 10,
     "Bhopal": 6,
     "Ahmedabad": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 226,
+    "foreign_policy": 227,
     "protest_opposition": 86,
-    "crime_violence": 70,
-    "education": 68,
+    "crime_violence": 71,
+    "education": 69,
     "economy": 66,
     "infrastructure": 60,
     "farmer_agriculture": 29,
@@ -36,6 +36,34 @@
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 62457,
+      "title": "Two killed, 35 injured as sleeper bus rams truck on Agra-Lucknow Expressway - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/two-killed-35-injured-as-sleeper-bus-rams-truck-on-agra-lucknow-expressway/article71036819.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-29 10:34:03.693493",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "A **sleeper bus** carrying 70 passengers collided with a rice-laden truck on the Agra-Lucknow Expressway in Uttar Pradesh, resulting in the deaths of driver Ram Jeevan (43) and passenger Ram Naresh (35). The accident occurred near milestone 83 under Karhal police station limits, leaving 35 passengers injured.  Police are investigating the cause of the crash, which involved the bus rear-ending the truck.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow",
+        "Agra"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 62440,
       "title": "Heatwave: As mercury rises in Delhi, survival comes before safety for informal workers",
@@ -49,8 +77,7 @@
       "rephrased_article": "In Delhi, India, extreme heat has become a daily struggle for millions of informal workers who rely on outdoor jobs.  **Harish Chandra**, a 52-year-old cycle-rickshaw driver, explains that the intense summer temperatures make it difficult to work and earn money. **Mohammad Umar**, a 50-year-old tuk-tuk driver, also struggles with heat exhaustion, losing income when he has to stay home.  **Dr Satish Koul**, a principal director of internal medicine at Fortis Hospital Gurgaon, warns that prolonged exposure to extreme heat can lead to dehydration and other health problems. The **World Health Organization's** former chief scientist, **Dr Soumya Swaminathan**, highlights the threat of heatwaves to both lives and livelihoods as temperatures approach \"human tolerability.\"  Experts emphasize the need for better cooling centers, public advisories, and awareness campaigns to address the impact of extreme heat on India's informal workforce.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Bihar",
@@ -5671,38 +5698,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 57197,
-      "title": "Rise in cybercrime but overall crime rate dropped in 2024, says latest NCRB report - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rise-in-cybercrime-but-overall-crime-rate-dropped-in-2024-says-latest-ncrb-report/article70948292.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rh4za6/article70948563.ece/alternates/LANDSCAPE_1200/2024-02-21T140030Z_702616538_RC2176ARDFCQ_RTRMADP_3_APPLE-IMESSAGE-SPYWARE.JPG",
-      "scraped_at": "2026-05-06 23:30:32.374022",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "The **National Crime Records Bureau (NCRB)** reported a 6% decline in overall crime in India for 2024, but cybercrime cases surged by over 17%.  **NCRB** data revealed that fraud constituted the majority of cybercrime cases, followed by sexual exploitation and extortion. The report also highlighted a rise in crimes against the state, with **The Prevention of Damage to Public Property Act** being the most frequently cited law. Suicide rates increased significantly in 2024, particularly among agricultural workers, unemployed individuals, daily wage laborers, and students.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Madhya Pradesh",
-        "Mizoram",
-        "Punjab",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 10:55:56.498959",
+  "generated_at": "2026-05-29 19:56:21.633530",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 513,
+    "total_articles": 553,
     "articles_last_30d": 237
   },
   "top_cities_30d": {
     "Delhi": 46,
     "Hyderabad": 17,
     "Bengaluru": 16,
-    "Kolkata": 14,
     "Mumbai": 14,
+    "Kolkata": 13,
     "Ahmedabad": 10,
     "Patna": 7,
     "Chennai": 6,
@@ -25,17 +25,40 @@
   },
   "top_topics_30d": {
     "foreign_policy": 218,
-    "infrastructure": 82,
+    "infrastructure": 81,
     "economy": 74,
-    "protest_opposition": 68,
-    "education": 54,
+    "protest_opposition": 67,
+    "education": 53,
     "crime_violence": 46,
     "farmer_agriculture": 31,
     "health": 19,
     "corruption_scam": 16,
-    "rape_sexual_crime": 6
+    "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 62480,
+      "title": "Indian man Kavankumar Patel jailed for 10 years after paying human traffickers to abuse minor girls at Nebraska hotel - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-man-kavankumar-patel-jailed-for-10-years-after-paying-human-traffickers-to-abuse-minor-girls-at-nebraska-hotel/articleshow/131389850.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131391771,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-29 13:50:29.883201",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Kavankumar Patel",
+      "rephrased_article": "**Kavankumar Patel**, a 27-year-old Indian national living in the US illegally, was sentenced to ten years in prison for sex trafficking two underage girls. The **Homeland Security Task Force** and local police rescued the victims after responding to a theft complaint at an Omaha hotel.  Patel admitted to stealing money from the hotel's cash register to pay traffickers who forced the girls into commercial sex acts, with hotel staff actively enabling the abuse. United States Attorney Lesley A. Woods commended the multi-agency rescue operation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 62404,
       "title": "Gujarat’s Banni grasslands: A heap of broken images, where the sun beats - The Hindu",
@@ -75,8 +98,7 @@
       "rephrased_article": "**Prime Minister Narendra Modi** urged **State** governments to resolve inter-state water disputes through cooperation and technology-based monitoring, citing the Ken-Betwa project as a model.  During a PRAGATI meeting reviewing seven infrastructure projects across various sectors in nine states, **Modi** emphasized that timely clearances and efficient implementation are crucial for public projects, preventing cost escalation and ensuring access to essential services for citizens.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -5532,36 +5554,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 56928,
-      "title": "Bombay High Court directs Maharashtra government to ease travel curbs on Sangram Patil, U.K.-based doctor booked for posts on PM Modi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-directs-maharashtra-to-ease-travel-curbs-on-uk-based-doctor-booked-for-posts-on-pm-modi/article70943727.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ottnub/article70944592.ece/alternates/LANDSCAPE_1200/IMG_Bombay-HC-strik_G59D_2_1_NUELFO0R.jpg",
-      "scraped_at": "2026-05-05 21:12:32.038590",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Sangram Patil",
-      "rephrased_article": "The **Bombay High Court** ordered the Maharashtra government to modify a lookout circular (LOC) against **Sangram Patil**, a UK-based doctor and YouTuber, so he can return to the United Kingdom by May 11th.  **Patil**, who is named in an FIR for alleged posts critical of Prime Minister Narendra Modi and BJP leaders, was prevented from returning to the UK after immigration authorities cited the LOC. The court heard arguments from **Patil's** legal team and the state government, with the main petition seeking quashing of the FIR still pending after the summer vacation.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health",
-        "protest_opposition"
       ]
     }
   ]
