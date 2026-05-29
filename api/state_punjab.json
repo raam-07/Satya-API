@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 21:04:02.169927",
+  "generated_at": "2026-05-29 10:55:56.547947",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 241,
-    "articles_last_30d": 140
+    "total_articles": 263,
+    "articles_last_30d": 142
   },
   "top_cities_30d": {
     "Delhi": 18,
     "Amritsar": 3,
     "Ludhiana": 3,
-    "Hyderabad": 2,
+    "Hyderabad": 3,
     "Mumbai": 2,
     "Faridabad": 1,
     "Surat": 1,
@@ -25,17 +25,107 @@
   },
   "top_topics_30d": {
     "foreign_policy": 135,
-    "economy": 48,
-    "education": 47,
-    "infrastructure": 45,
-    "protest_opposition": 43,
-    "crime_violence": 40,
-    "health": 23,
-    "farmer_agriculture": 19,
+    "economy": 49,
+    "education": 46,
+    "protest_opposition": 44,
+    "infrastructure": 43,
+    "crime_violence": 39,
+    "health": 21,
+    "farmer_agriculture": 20,
     "corruption_scam": 15,
-    "rape_sexual_crime": 2
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62448,
+      "title": "Drying ponds force Cholistanis to opt for ‘seasonal migration’ - Newspaper - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003331/drying-ponds-force-cholistanis-to-opt-for-seasonal-migration",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/29085716193c7da.webp",
+      "scraped_at": "2026-05-29 06:24:59.820491",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "CDA",
+      "rephrased_article": "The scorching heat in the Cholistan desert has led to a severe water shortage, with one-third of the area's 2,000 open ponds drying up.  **CDA** head **Shahid Hassan Kalyani** states that the authority is supplying drinking water through its underground network and bowzers, but residents complain about inadequate supply and leakages in the system. The situation has forced many Cholistan residents to migrate with their livestock in search of water and fodder, leaving abandoned settlements behind.  These seasonal migrations are a routine for the residents who rely on these ponds for drinking water and livestock needs during the hot months.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 62441,
+      "title": "Khuhro resents Irsa move to drastically slash Sindh’s water share - Newspaper - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003344/khuhro-resents-irsa-move-to-drastically-slash-sindhs-water-share",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/290849296b4d4fb.webp",
+      "scraped_at": "2026-05-29 06:23:15.586420",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Irsa",
+      "rephrased_article": "**Nisar Ahmed Khuhro**, **PPP Sindh President**, lodged a protest with the federal government over the **Indus River System Authority’s (Irsa)** decision to impose a 27% water shortage on **Sindh** during the Kharif season.  Khuhro criticized Irsa for maintaining zero cuts for **Punjab**, diverting water from the Indus River to other zones, and failing to release sufficient water to meet **Sindh's** agricultural needs as outlined in the 1991 Water Apportionment Accord. He argued that this decision is an \"economic massacre\" of the province and called on the federal government to intervene immediately and ensure **Sindh** receives its legal water share.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 62328,
+      "title": "NCCIA Punjab arrests 11 for 'anti-state propaganda' and 'inciting unrest' online - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003578/nccia-punjab-arrests-11-for-anti-state-propaganda-and-inciting-unrest-online",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/282052376d5f44e.webp",
+      "scraped_at": "2026-05-28 19:42:26.391365",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "NCCIA",
+      "rephrased_article": "**The National Cyber Crime Investigation Agency (NCCIA)** in Punjab, Pakistan arrested 11 individuals accused of spreading anti-state propaganda and inciting unrest through social media.  The arrests were made across multiple cities, including Lahore, Faisalabad, Multan, and Gujranwala. **NCCIA Director Muhammad Ali Waseem** stated that the suspects will be prosecuted under the Prevention of Electronic Crimes Act (Peca), 2016, with no leniency shown towards those involved in such activities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62323,
+      "title": "Dadu sets new maximum temperature record as mercury climbs to 51.5C - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003568/dadu-sets-new-maximum-temperature-record-as-mercury-climbs-to-515c",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/2819023886d74c0.webp",
+      "scraped_at": "2026-05-28 19:41:15.690113",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "global temperatures",
+      "rephrased_article": "The **Pakistan Meteorological Department (PMD)** announced a new maximum temperature record of 51.5 Celsius in Dadu, Sindh, exceeding the normal temperature by 4.5C.  **The PMD** forecast temperatures to remain 4-6C above normal across most of Pakistan for the next few days, with potential for heat waves and thunderstorms in some areas. The **United Nations** warned that global average temperatures are likely to continue at record levels this year and the next four years. They also noted a 75% chance that the 2026-2030 five-year mean temperature will surpass the key threshold of 1.5C above pre-industrial averages.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62262,
       "title": "CM Maryam underwent 'major surgery' at Lahore hospital: Punjab minister - Pakistan - DAWN.COM",
@@ -4910,97 +5000,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 51563,
-      "title": "ED searches AAP MP’s premises, linked educational institutions under FEMA - The Hindu",
-      "url": "https://www.thehindu.com/news/national/ed-raids-at-business-entities-linked-to-aap-mp-ashok-mittal-in-punjab/article70863944.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/4w7jof/article70865973.ece/alternates/LANDSCAPE_1200/PTI04_15_2026_000238B.jpg",
-      "scraped_at": "2026-04-16 00:12:24.255661",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Ashok Kumar Mittal",
-      "rephrased_article": "**The Enforcement Directorate (ED)** conducted searches on the premises of **Ashok Kumar Mittal**, an AAP Rajya Sabha MP, and educational institutions he and his family promote in Haryana and Punjab. The searches were carried out under the Foreign Exchange Management Act and targeted 10 locations in Gurugram and Jalandhar.",
-      "party_mentioned": [
-        "AAP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 51531,
-      "title": "PSX gains nearly 2,900 points amid hopes of US-Iran talks reviving - Business - DAWN.COM",
-      "url": "https://www.dawn.com/news/1991947/north-korea-boosting-ability-to-make-nuclear-arms-un-watchdog",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/04/1511352201e04c1.webp",
-      "scraped_at": "2026-04-15 22:19:13.814268",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Pakistan Stock Exchange",
-      "rephrased_article": "The **Pakistan Stock Exchange’s** (PSX) benchmark KSE-100 index surged by almost 2,900 points on Wednesday, driven by optimism surrounding the potential resumption of US-Iran peace talks.  **Donald Trump**, US President, stated that a second round of negotiations is more likely to take place in **Islamabad**. The index reached an intraday high of 170,640.26 points before fluctuating and closing at 168,519.94 points. Topline Securities Ltd noted that the index surged to an “impressive intraday high of 5,005 points”, while investor participation remained subdued with total traded volume reaching 1,205 million shares.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51526,
-      "title": "PSX gains nearly 2,900 points amid hopes of US-Iran talks reviving - Business - DAWN.COM",
-      "url": "https://www.dawn.com/news/1991981/ecp-moves-to-hold-local-govt-polls-in-42-cantonment-boards-across-the-country",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/04/1511352201e04c1.webp",
-      "scraped_at": "2026-04-15 22:17:38.819302",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Pakistan Stock Exchange",
-      "rephrased_article": "The **Pakistan Stock Exchange’s** (PSX) benchmark KSE-100 index surged by almost 2,900 points on Wednesday, marking a second consecutive day of bullish momentum. The positive trend was fueled by hopes for continued peace talks between the **United States** and **Iran**, with **US President Donald Trump** stating they are more likely to proceed in Islamabad.  The index reached an intraday high of 170,640.26 points before fluctuating to close at 168,519.94 points, surpassing its pre-war level.  Investor participation remained subdued with total traded volume at 1,205 million shares and market turnover at Rs. 59.4 billion.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51521,
-      "title": "PSX gains nearly 2,900 points amid hopes of US-Iran talks reviving - Business - DAWN.COM",
-      "url": "https://www.dawn.com/news/1991921/psx-gains-nearly-2900-points-amid-hopes-of-us-iran-talks-reviving",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/04/1511352201e04c1.webp",
-      "scraped_at": "2026-04-15 22:16:03.373153",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Pakistan Stock Exchange",
-      "rephrased_article": "The **Pakistan Stock Exchange** (PSX) benchmark KSE-100 index surged by almost 2,900 points on Wednesday, marking a second consecutive day of gains. The positive trend was fueled by hopes for the resumption of US-Iran peace talks and optimism surrounding oil prices.  **Donald Trump**, US President, stated that a second round of negotiations is more likely to be held in **Islamabad**. Topline Securities Ltd noted that the index reached an intraday high of 5,005 points before fluctuating to an intraday low of 2,548 points. Despite intermittent fluctuations, the market remained resilient and surpassed its pre-war level.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 21:04:02.113668",
+  "generated_at": "2026-05-29 10:55:56.490258",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "JDU",
@@ -8,11 +8,11 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 111,
-    "articles_last_30d": 55
+    "total_articles": 123,
+    "articles_last_30d": 56
   },
   "top_cities_30d": {
-    "Delhi": 15,
+    "Delhi": 16,
     "Patna": 12,
     "Kolkata": 4,
     "Mumbai": 4,
@@ -24,18 +24,47 @@
     "Srinagar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 45,
-    "education": 17,
+    "foreign_policy": 46,
+    "education": 18,
     "infrastructure": 15,
     "crime_violence": 12,
     "economy": 12,
-    "health": 9,
+    "health": 10,
     "farmer_agriculture": 9,
     "protest_opposition": 9,
     "corruption_scam": 6,
     "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 62440,
+      "title": "Heatwave: As mercury rises in Delhi, survival comes before safety for informal workers",
+      "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f915/live/41c99840-5a6a-11f1-b296-afc06a328c73.jpg",
+      "scraped_at": "2026-05-29 06:23:02.983826",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "extreme heat",
+      "rephrased_article": "In Delhi, India, extreme heat has become a daily struggle for millions of informal workers who rely on outdoor jobs.  **Harish Chandra**, a 52-year-old cycle-rickshaw driver, explains that the intense summer temperatures make it difficult to work and earn money. **Mohammad Umar**, a 50-year-old tuk-tuk driver, also struggles with heat exhaustion, losing income when he has to stay home.  **Dr Satish Koul**, a principal director of internal medicine at Fortis Hospital Gurgaon, warns that prolonged exposure to extreme heat can lead to dehydration and other health problems. The **World Health Organization's** former chief scientist, **Dr Soumya Swaminathan**, highlights the threat of heatwaves to both lives and livelihoods as temperatures approach \"human tolerability.\"  Experts emphasize the need for better cooling centers, public advisories, and awareness campaigns to address the impact of extreme heat on India's informal workforce.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
     {
       "id": 62194,
       "title": "Supreme Court upholds SIR exercise as an advancement towards free and fair elections - The Hindu",
@@ -3278,8 +3307,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Bihar",
@@ -3310,8 +3338,7 @@
         "NDA"
       ],
       "ministers_mentioned": [
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Assam",
@@ -3355,6 +3382,379 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
+      ]
+    },
+    {
+      "id": 49221,
+      "title": "Kerala Assembly polls 2026: LDF set for ‘hat-trick’ as governance, welfare and secular credentials shape Kerala’s poll mood, says Subhashini Ali - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-ldf-set-for-hat-trick-as-governance-welfare-and-secular-credentials-shape-keralas-poll-mood-says-subhashini-ali/article70826620.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p4oz9a/article70834405.ece/alternates/LANDSCAPE_1200/subhashini_03.jpg",
+      "scraped_at": "2026-04-07 22:49:16.276398",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "LDF",
+      "rephrased_article": "**Subhashini Ali**, a member of the **CPI(M)** Polit Bureau, believes the **LDF** is poised for an unprecedented electoral hat-trick in Kerala due to strong public approval of the government's performance and welfare initiatives. She attributes the LDF's success to its governance model, contrasting it with the perceived failures of the UDF during their tenure.  Ali highlights the positive response from ordinary people across various sectors, including migrant workers, who express satisfaction with living conditions in Kerala. The CPI(M) leader also criticizes the BJP and Congress for their national and state-level policies, emphasizing the LDF's commitment to secularism and welfare. She argues that Kerala's development model distinguishes it from other states, creating a favorable environment for the LDF's re-election.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 49208,
+      "title": "Iran war: Indian migrant workers hit by cooking gas cylinder shortages leave cities",
+      "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8f41/live/fac9bfc0-3259-11f1-bdf9-bf5479a63eec.jpg",
+      "scraped_at": "2026-04-07 22:45:37.805003",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Indian** migrant workers are facing difficulties accessing cooking gas due to global shipping disruptions caused by the war in the Middle East.  The shortage has forced many to return to their villages, citing concerns about running out of gas and struggling to afford alternative fuels like firewood. **Shakuntala Devi**, a domestic worker in Delhi, and others like her are worried about the long-term impact on their livelihoods as they face uncertainty about when cooking gas supplies will improve. The government has assured that there is no shortage but has urged people to stop panic ordering.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 49157,
+      "title": "Class 4 student comes home drunk; 23 liquor cartons seized from Bihar govt. school toilet - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/class-4-student-comes-home-drunk-23-liquor-cartons-seized-from-bihargovt-school-toilet/article70834342.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nla6nn/article70835040.ece/alternates/LANDSCAPE_1200/PTI04_05_2026_000501B.jpg",
+      "scraped_at": "2026-04-07 20:00:50.107604",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Bihar Government",
+      "rephrased_article": "A **Class 4** student in Begusarai, Bihar was found intoxicated and consuming illicit liquor from a dilapidated school toilet.  Police seized 23 cartons containing 204 liters of the illegal alcohol after the student's family reported his disorientation. The incident comes amid ongoing concerns about the continued smuggling of illicit liquor into the state despite a decade-long prohibition policy. **Tejashwi Yadav**, leader of the opposition in the Bihar Assembly, has criticized the government's handling of the issue, alleging institutional corruption and ineffective enforcement.",
+      "party_mentioned": [
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [
+        "Patna"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 49077,
+      "title": "Assembly elections 2026: ECI may roll out SIR in remaining 17 States, 5 UTs post polls - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-may-roll-out-sir-in-remaining-17-states-5-uts-post-assembly-polls/article70834100.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9wocac/article70834156.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202025_13_08_9.jpg",
+      "scraped_at": "2026-04-07 12:15:40.083203",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "The **Election Commission** is considering rolling out the third and final phase of Special Intensive Revision (SIR) for voters' lists in 22 states and Union territories after the Assembly elections this month. The exercise, which aims to clean up electoral rolls, could begin after the polls conclude on April 29th or after the declaration of results.  The **Election Commission** has already conducted SIR in 10 states and three Union Territories, covering nearly 60 crore voters.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48945,
+      "title": "Tamil Nadu CM, Congress in tacit understanding with BJP: Mamata - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/tamil-nadu-cm-congress-in-tacit-understanding-with-bjp-mamata/article70831415.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zbkzqz/article70831621.ece/alternates/LANDSCAPE_1200/PTI04_06_2026_000254B.jpg",
+      "scraped_at": "2026-04-06 22:08:04.979274",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Mamata Banerjee**, the chief minister of West Bengal, accused the **BJP** and its allies of colluding with the **Congress** and **Tamil Nadu Chief Minister MK Stalin** to manipulate the election process in her state. She alleged that many West Bengal-cadre officers were sent as poll observers to Tamil Nadu, hindering development work.  Banerjee also criticized the Election Commission's handling of voter lists and accused the BJP of attempting to divide voters based on religion. She vowed to tour the country forging opposition unity against the saffron party and pledged to fight for the rights of West Bengal citizens.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK",
+        "AIADMK",
+        "AIMIM",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 48926,
+      "title": "In Bihar, the prohibition law has become a joke, says Tejashwi Yadav - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/in-bihar-the-prohibition-law-has-become-a-joke-says-tejashwi-yadav/article70830799.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/u5tzpj/article70831860.ece/alternates/LANDSCAPE_1200/20260316575L.jpg",
+      "scraped_at": "2026-04-06 21:12:34.743101",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bihar state government",
+      "rephrased_article": "**Tejashwi Yadav**, leader of the **opposition** in Bihar, criticized the state government's 10-year prohibition policy, accusing it of being \"institutional corruption\" and enabling a multi-billion rupee illegal liquor market. He cited data showing an increase in seizures and consumption despite the law's implementation, alleging that the government has failed to curb illicit liquor trade and instead is promoting corruption. **Yadav** also pointed out that the prohibition policy has disproportionately targeted poor communities and led to deaths from spurious liquor.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 48921,
+      "title": "Bihar BJP president Sanjay Saraogi hints party will get the top post soon - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-bjp-president-sanjay-saraogi-hints-party-will-get-the-top-post-soon/article70830436.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pumszj/article70831867.ece/alternates/LANDSCAPE_1200/20260406140L.jpg",
+      "scraped_at": "2026-04-06 21:10:46.943682",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Sanjay Saraogi**, **President of the Bharatiya Janata Party (BJP)** in Bihar, indicated that the BJP is poised to take control of the state's top political position.  He stated this during the party's 47th foundation day celebrations, where **Deputy Chief Minister Samrat Choudhary**, considered a frontrunner for the next chief minister role, also spoke. The current chief minister, **Nitish Kumar**, is expected to step down on April 12 and be replaced by a BJP candidate, potentially taking oath on April 14.  **Mr. Saraogi** praised the party's growth and emphasized its commitment to national development.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [
+        "Patna"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 48864,
+      "title": "ECI to deploy 3,000 more armed personnel for Bengal polls - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/eci-to-deploy-3000-more-armed-personnel-for-bengal-polls/article70831336.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3dpn3r/article70831726.ece/alternates/LANDSCAPE_1200/20260406429L.jpg",
+      "scraped_at": "2026-04-06 17:56:45.356068",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Election Commission of India (ECI)** has deployed 3,000 armed police personnel from Uttar Pradesh, Bihar, and Madhya Pradesh to supplement existing central forces for the first phase of elections in West Bengal on April 23.  **Mr. Supratim Sarkar**, former Kolkata Police Commissioner, was ordered by the ECI to assume his role as a police observer in Tamil Nadu despite a request for medical reasons. The additional personnel are expected to arrive in West Bengal starting April 13th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 48833,
+      "title": "Pakistani handler was planning ‘Jihadi activities’, say police - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pakistani-handler-accused-of-planning-jihadi-activities-in-india/article70829807.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-06 16:58:02.690821",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Al-Hakim-Sukoor",
+      "rephrased_article": "**Al-Hakim-Sukoor**, an alleged handler from Pakistan, was arrested for his online communication with terror suspects. The **West Zone police** of Vijayawada Commissionerate in Andhra Pradesh arrested 12 individuals suspected of links to ISIS and AQIS.  The accused allegedly planned to create a Caliphate in India, recruit members, spread their ideology, and receive weapons from **Sukoor**.  The investigation is ongoing with the CI Cell and other agencies planning to question the remaining suspects once they are granted police custody.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48601,
+      "title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/53fybb/article70826923.ece/alternates/LANDSCAPE_1200/More-money-was-GG9FPTPPO.3.jpg.jpg",
+      "scraped_at": "2026-04-05 19:41:36.196712",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Prime Minister Modi",
+      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, criticized **Prime Minister Modi's** statement regarding southern states' Lok Sabha seat distribution. He argued that while all states would gain seats, the scale of increase appears to favor BJP-dominated states, disproportionately benefiting them over southern states.  He claimed that this could widen regional imbalances and penalize states with successful population control and governance. **Siddaramaiah** vowed to oppose any attempt to weaken Karnataka's voice in the matter.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48593,
+      "title": "Tejashwi challenges Bihar CM, deputy CMs for a public debate over State’s progress - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/tejashwi-challenges-bihar-cm-deputy-cms-for-a-public-debate-over-states-progress/article70827059.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/msss92/article70827736.ece/alternates/LANDSCAPE_1200/PTI03_05_2026_000122A.jpg",
+      "scraped_at": "2026-04-05 18:59:22.171965",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Nitish Kumar-led NDA government",
+      "rephrased_article": "**Tejashwi Yadav**, leader of the **Rashtriya Janata Dal (RJD)**, criticized the **Nitish Kumar-led NDA government** in Bihar, claiming it has failed to improve various sectors.  He cited statistics showing low literacy rates, income levels, and investment compared to other states. He also pointed out high crime rates, poverty, unemployment, and pollution levels. The **BJP** and **JD(U)** defended the government's record, arguing that Bihar has flourished under their leadership.",
+      "party_mentioned": [
+        "BJP",
+        "RJD",
+        "Janata Dal",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "economy",
+        "corruption_scam"
       ]
     }
   ]

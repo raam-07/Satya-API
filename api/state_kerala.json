@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 21:04:02.145140",
+  "generated_at": "2026-05-29 10:55:56.521223",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 466,
-    "articles_last_30d": 249
+    "total_articles": 530,
+    "articles_last_30d": 247
   },
   "top_cities_30d": {
-    "Delhi": 30,
+    "Delhi": 29,
     "Bengaluru": 15,
     "Chennai": 12,
     "Kolkata": 8,
@@ -24,18 +24,39 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 211,
-    "protest_opposition": 92,
-    "education": 66,
+    "foreign_policy": 209,
+    "protest_opposition": 90,
+    "education": 64,
     "infrastructure": 51,
     "economy": 42,
     "crime_violence": 35,
     "health": 24,
     "farmer_agriculture": 23,
-    "corruption_scam": 21,
+    "corruption_scam": 20,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62451,
+      "title": "Kerala private bus industry ignored in policy address, say operators - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-private-bus-industry-ignored-in-policy-address-say-operators/article71036053.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ilh3ot/article71036108.ece/alternates/LANDSCAPE_1200/10018_12_2_2026_16_35_9_1_GENERAL_STRIKE_03.JPG",
+      "scraped_at": "2026-05-29 06:25:43.806412",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Kerala Government",
+      "rephrased_article": "**Kerala Governor Rajendra Arlekar's** policy address disappointed the private bus industry in the state. While the address announced the implementation of the Indira Guarantee scheme for free travel on **KSRTC** buses, it made no mention of supporting the private sector, which is expected to suffer losses due to increased competition from KSRTC buses. The federation representing private bus operators expressed disappointment over the lack of support for their industry.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
     {
       "id": 62308,
       "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
@@ -49,8 +70,7 @@
       "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Andhra Pradesh",
@@ -5478,33 +5498,6 @@
         "economy",
         "foreign_policy",
         "infrastructure"
-      ]
-    },
-    {
-      "id": 56444,
-      "title": "Karnataka leadership talks in Delhi unlikely in next few weeks - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-leadership-talks-in-delhi-unlikely-in-next-few-weeks/article70935119.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/x56i0c/article70935698.ece/alternates/LANDSCAPE_1200/DSC_4198_1A.JPG",
-      "scraped_at": "2026-05-03 21:54:27.232022",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Congress** leaders are planning to meet with **Mallikarjun Kharge**, the party president, in Delhi next week to discuss Cabinet expansion. However, the leadership issue in Karnataka is unlikely to be resolved soon due to upcoming Rajya Sabha elections and a lack of timeline from **Kharge**.  With several seats falling vacant in the Legislative Council, the party is prioritizing these elections before discussing leadership changes.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Kerala",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

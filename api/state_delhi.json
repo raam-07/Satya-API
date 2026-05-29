@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 21:04:02.215163",
+  "generated_at": "2026-05-29 10:55:56.592919",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 407,
-    "articles_last_30d": 244
+    "total_articles": 448,
+    "articles_last_30d": 248
   },
   "top_cities_30d": {
-    "Delhi": 241,
-    "Mumbai": 20,
+    "Delhi": 245,
+    "Mumbai": 21,
     "Kolkata": 18,
-    "Chennai": 15,
-    "Hyderabad": 14,
+    "Chennai": 16,
+    "Hyderabad": 15,
     "Bengaluru": 13,
     "Jaipur": 10,
     "Agra": 9,
@@ -24,18 +24,154 @@
     "Ahmedabad": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 224,
-    "protest_opposition": 87,
+    "foreign_policy": 226,
+    "protest_opposition": 86,
     "crime_violence": 70,
+    "education": 68,
     "economy": 66,
-    "education": 66,
-    "infrastructure": 61,
+    "infrastructure": 60,
     "farmer_agriculture": 29,
     "corruption_scam": 28,
-    "health": 20,
+    "health": 21,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 62440,
+      "title": "Heatwave: As mercury rises in Delhi, survival comes before safety for informal workers",
+      "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f915/live/41c99840-5a6a-11f1-b296-afc06a328c73.jpg",
+      "scraped_at": "2026-05-29 06:23:02.983826",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "extreme heat",
+      "rephrased_article": "In Delhi, India, extreme heat has become a daily struggle for millions of informal workers who rely on outdoor jobs.  **Harish Chandra**, a 52-year-old cycle-rickshaw driver, explains that the intense summer temperatures make it difficult to work and earn money. **Mohammad Umar**, a 50-year-old tuk-tuk driver, also struggles with heat exhaustion, losing income when he has to stay home.  **Dr Satish Koul**, a principal director of internal medicine at Fortis Hospital Gurgaon, warns that prolonged exposure to extreme heat can lead to dehydration and other health problems. The **World Health Organization's** former chief scientist, **Dr Soumya Swaminathan**, highlights the threat of heatwaves to both lives and livelihoods as temperatures approach \"human tolerability.\"  Experts emphasize the need for better cooling centers, public advisories, and awareness campaigns to address the impact of extreme heat on India's informal workforce.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 62431,
+      "title": "Silver drops Rs 1,500/kg, gold at Rs 1.56 lakh/10 gms as Iran war tensions weigh. Key levels to watch - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-drops-rs-1500/kg-gold-at-rs-1-56-lakh/10-gms-as-iran-war-tensions-weigh-key-levels-to-watch/articleshow/131381934.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131381944,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-29 06:20:57.378312",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Federal Reserve",
+      "rephrased_article": "**MCX** silver futures for July 2026 delivery fell by Rs 1,518 to Rs 2,68,018 per kg, while gold futures for June 2026 delivery dropped by Rs 609 to Rs 1,56,316 per 10 grams. **U.S.** inflation accelerated in April, prompting economists to expect the Federal Reserve to keep interest rates unchanged for a prolonged period.  **John Williams**, President of the **Federal Reserve Bank of New York**, stated that monetary policy remains appropriately positioned given the current economic outlook and predicted elevated inflation in the near term before easing later this year.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 62430,
+      "title": "Delhi HC refuses to immediately restore Cockroach Janta Party’s X account in India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-hc-refuses-to-immediately-restore-cockroach-janta-partys-x-account-in-india/article71036143.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rc2g70/article71036140.ece/alternates/LANDSCAPE_1200/TH18-AMARJOT-WhGC0G0F7S7.3.jpg.jpg",
+      "scraped_at": "2026-05-29 06:20:42.546977",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Delhi High Court** declined immediate relief to **Abhijeet Dipke**, founder of the satirical group **Cockroach Janta Party (CJP)**, whose X handle was blocked on national security grounds.  **Dipke** has been directed to approach a review committee under the IT Rule after the original handle was withheld on May 21. The court issued notice to the **Centre**.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62409,
+      "title": "Indian Air Force likely to oversee transport of NEET-UG re-test papers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/indian-air-force-likely-to-oversee-transport-of-neet-ug-papers/article71034345.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iusn09/article71034523.ece/alternates/LANDSCAPE_1200/32-%20NEET-UG%20exam-SGR-03-05-2026.JPG",
+      "scraped_at": "2026-05-29 01:36:18.707732",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The government** is considering using the **Indian Air Force (IAF)** to manage logistics and transportation for the NEET-UG 2026 re-test, scheduled for June 21.  A high-level meeting was held at the residence of **Defence Minister Rajnath Singh**, attended by **Education Minister Dharmendra Pradhan** and **Communications Minister Jyotiraditya Scindia**. The IAF will provide transportation and logistics support to secure question papers from printing presses to examination centers across the country, aiming to minimize leak risks.  The final decision is pending consultations with the Prime Minister's Office.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 62394,
+      "title": "Down the Rabbit Hole: Bangladeshi buffalo 'Donald Trump' pardoned – a brief history of animal sacrifices | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/down-the-rabbit-hole-bangladeshi-buffalo-donald-trump-pardoned-a-brief-history-of-animal-sacrifices/articleshow/131372349.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131372845,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-28 23:31:41.435183",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "A buffalo in Bangladesh, resembling Donald Trump, became an overnight sensation after being purchased for a large sum. The animal was spared from being sacrificed during Eid and will be sent to Dhaka's national zoo. This event echoes ancient practices where animals were often used as symbols of gods or sacrifices, demonstrating humanity's enduring fascination with the connection between nature and divinity.  The article explores how this tradition has evolved through various religions and cultures, highlighting the ongoing human tendency to find meaning in both sacrifice and pardon.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62338,
       "title": "India's Gen-Z Cockroach Janta Party channels youth anger but faces offline hurdles - World - DAWN.COM",
@@ -51,8 +187,7 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Maharashtra",
@@ -69,6 +204,31 @@
         "corruption_scam",
         "economy"
       ]
+    },
+    {
+      "id": 62319,
+      "title": "Siddaramaiah and D.K. Shivakumar: A public bonhomie that never let up - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-and-dk-shivakumar-a-public-bonhomie-that-never-let-up/article71034382.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6sc1ht/article71034625.ece/alternates/LANDSCAPE_1200/20260528011L.jpg",
+      "scraped_at": "2026-05-28 19:40:18.769043",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Despite internal tensions within the **Congress** in Karnataka, **Siddaramaiah** and **Shivakumar**, leaders of opposing factions, maintained a cordial public image.  They were seen discussing power transfer in Delhi and even embraced after **Siddaramaiah's** resignation. Their unity was evident throughout their tenure, with frequent appearances together and gestures of support for each other. The transition of power from **Siddaramaiah** to **Shivakumar**, though initially feared to be messy, unfolded smoothly.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
     },
     {
       "id": 62257,
@@ -5543,175 +5703,6 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 57179,
-      "title": "Delhi to host 2026 Commonwealth Table Tennis Championship - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-to-host-2026-commonwealth-table-tennis-championship/article70948524.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/4dban0/article70948543.ece/alternates/LANDSCAPE_1200/20260506296L.jpg",
-      "scraped_at": "2026-05-06 22:29:24.955764",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Commonwealth Table Tennis Championship",
-      "rephrased_article": "**Delhi** will host the 22nd Commonwealth Table Tennis Championship in July and August of 2026, with over 35 countries expected to participate. **Chief Minister Rekha Gupta** announced the event at the Delhi Secretariat, stating that the city has a strong history of hosting international sporting events. The seven-day championship will be held at the Thyagraj Stadium and feature competitions across multiple categories, culminating in finals on August 2nd.  The tournament is being organized jointly by the **Delhi government** and the **Table Tennis Federation of India**, with officials anticipating participation from countries like England, Australia, and Canada.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 57151,
-      "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/19b639/article70948553.ece/alternates/LANDSCAPE_1200/AP05_06_2026_000002A.jpg",
-      "scraped_at": "2026-05-06 21:16:35.053629",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Quad",
-      "rephrased_article": "**U.S.** Secretary of State **Marco Rubio** is set to visit India from May 24 to 26, his first since taking office last January.  He will meet with Indian officials including External Affairs Minister S. Jaishankar and National Security Adviser Ajit Doval, as well as Prime Minister Narendra Modi. The visit aims to strengthen ties between the two countries following recent ups and downs related to tariffs and sanctions. **Rubio** will also attend the Australia-India-Japan-U.S. Quad Foreign Ministers’ Meeting (FMM) on May 26 with counterparts from Australia, Japan, and India.  The meeting is expected to discuss a potential date for the Quad Summit later this year. The visit follows a visit to Beijing by U.S. President **Donald Trump** tentatively scheduled for May 14-15.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 57150,
-      "title": "West Bengal CM refuses to resign after poll defeat - Newspaper - DAWN.COM",
-      "url": "https://www.dawn.com/news/1997948/west-bengal-cm-refuses-to-resign-after-poll-defeat",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/0608091773c5371.webp",
-      "scraped_at": "2026-05-06 21:16:21.197295",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Mamata Banerjee",
-      "rephrased_article": "**Mamata Banerjee**, the chief minister of West Bengal, refused to resign after her party lost power in state elections to the **BJP**.  The BJP secured over two-thirds of the seats, marking a significant political milestone for the party. **Banerjee** claimed that 100 seats were \"forcibly taken\" from her party and accused the **Election Commission** of bias. The **Chief Electoral Officer**, **Manoj Kumar Agarwal**, dismissed these allegations as baseless.  The state's governor can demand Banerjee's resignation or wait until her term ends, at which point a new government will be formed.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 57129,
-      "title": "In topsy-turvy Haryana politics, Sonipat latest amphitheatre for BJP-Cong. fight - The Hindu",
-      "url": "https://www.thehindu.com/news/national/haryana/in-topsy-turvy-haryana-politics-sonipat-latest-amphitheatre-for-bjp-cong-fight/article70948527.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/njgg24/article70948525.ece/alternates/LANDSCAPE_1200/Congress.jpg",
-      "scraped_at": "2026-05-06 19:53:25.970072",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Rajiv Jain**, the **BJP** nominee for the Sonipat Municipal Corporation mayoral election, visited a religious gathering at **Nirankari Bhawan** before beginning his campaign.  He is facing off against **Congress's Kamal Dewan**, who claims he has the support of sanitation workers and fire brigade employees.  **Deepender Hooda**, the Congress MP from Rohtak, has been canvassing in the area while **Manoj Tiwari** is campaigning among Purvanchali voters. The election will be decided by the votes of Punjabis, according to realtor Praveen Arora.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 57044,
-      "title": "Telangana CM Revanth directs police to minimise public inconvenience during VIP movement - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-directs-police-to-minimise-public-inconvenience-during-vip-movement/article70946716.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xc5xnq/article70946926.ece/alternates/LANDSCAPE_1200/04hyngg_Massive%20traffic%20jam%20%2002.jpg",
-      "scraped_at": "2026-05-06 11:30:37.493082",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Telangana CM Revanth Reddy",
-      "rephrased_article": "**A. Revanth Reddy**, Chief Minister of **Telangana**, directed the **DGP C.V. Anand** to ensure smooth traffic flow during convoy movements and the movement of other dignitaries across the state.  Following a traffic congestion incident near the airport, Reddy instructed officials to avoid prolonged road waits due to convoy arrangements and stressed action against responsible personnel. The DGP convened a video conference with police officers from various commissionerates, emphasizing the need for streamlined traffic regulation and the establishment of a dedicated Traffic Bureau.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 56982,
-      "title": "Next India-Pakistan conflict may be ‘more dangerous’, analysts warn - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/1997929/next-india-pakistan-conflict-may-be-more-dangerous-analysts-warn",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/06071607946e12d.webp",
-      "scraped_at": "2026-05-06 03:36:30.077291",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "India-Pakistan conflict",
-      "rephrased_article": "**US** and international analysts warn that the next India-Pakistan conflict could be more dangerous, with fewer opportunities for outside powers to contain it. The **Washington Post**, citing shifting diplomatic dynamics under President Trump, highlights Indian concerns over his claims of brokering a ceasefire.  The Congressional Research Service (CRS) points to water tensions as another potential flashpoint, while the Centre for Strategic and Contemporary Research (CSCR) warns of environmental risks from nuclear conflict.  **Elizabeth Threlkeld**, a US scholar, argues that escalation dynamics are shifting from deliberate to inadvertent miscalculation, increasing the risk of unintentional escalation. The International Institute for Strategic Studies (IISS) notes that US-Pakistan ties have strengthened since the conflict, further fueling Indian concerns about perceived US policy shifts.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "farmer_agriculture",
-        "protest_opposition"
       ]
     }
   ]

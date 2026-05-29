@@ -1,41 +1,74 @@
 {
-  "generated_at": "2026-05-28 21:04:02.207025",
+  "generated_at": "2026-05-29 10:55:56.584912",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
   "cm": "Mamata Banerjee",
   "region": "East",
   "cm_confidence": null,
-  "party_confidence": 0.88,
+  "party_confidence": 0.89,
   "stats": {
-    "total_articles": 299,
-    "articles_last_30d": 171
+    "total_articles": 327,
+    "articles_last_30d": 169
   },
   "top_cities_30d": {
-    "Kolkata": 43,
+    "Kolkata": 42,
     "Delhi": 23,
     "Chennai": 5,
     "Bengaluru": 5,
     "Mumbai": 4,
     "Hyderabad": 4,
-    "Prayagraj": 1,
     "Jaipur": 1,
     "Bhopal": 1,
-    "Patna": 1
+    "Patna": 1,
+    "Kanpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 153,
-    "education": 89,
+    "foreign_policy": 151,
+    "education": 88,
     "protest_opposition": 77,
     "economy": 43,
+    "crime_violence": 43,
     "infrastructure": 43,
-    "crime_violence": 42,
     "farmer_agriculture": 20,
     "corruption_scam": 17,
     "health": 10,
-    "rape_sexual_crime": 4
+    "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 62437,
+      "title": "Internal bickering, resignations and public anger, Trinamool battling on multiple fronts - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/internal-bickering-resignations-and-public-anger-trinamool-battling-on-multiple-fronts/article71034091.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8j4o5g/article71036081.ece/alternates/LANDSCAPE_1200/PTI05_27_2026_000152B.jpg",
+      "scraped_at": "2026-05-29 06:22:19.614741",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** continues to face internal turmoil following its electoral defeat in West Bengal.  Senior MPs **Kakoli Ghosh Dastidar** and **Kalyan Banerjee** engaged in a public dispute, while senior MP **Sougata Roy** faced protests and alleged attacks from BJP supporters.  The party also saw the arrest of **Baduria municipality chairperson Dipankar Bhattacharya**, who was allegedly found with over ₹2.24 crore hidden in a jute field.  Former Rajya Sabha MP **Santanu Sen** resigned, criticizing the party's handling of the RG Kar rape and murder case.  **Mamata Banerjee** shared a cryptic poem on social media, while **Kunal Ghosh** urged party leaders to focus on internal solutions.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "protest_opposition",
+        "foreign_policy",
+        "corruption_scam",
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 62308,
       "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
@@ -49,8 +82,7 @@
       "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Andhra Pradesh",
@@ -89,9 +121,8 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Narendra Modi",
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Gujarat",
@@ -5990,29 +6021,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 53797,
-      "title": "Japan builds up its ‘southern shield’ as faith in US security cover falters | Military News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/japan-builds-up-its-southern-shield-as-faith-in-us-security-cover-falters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP25301364841273-1776925513.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-04-24 08:15:38.455684",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Japan",
-      "rephrased_article": "**Japan** is significantly increasing its military capabilities, deploying long-range missiles to the southern island of Kyushu as a response to growing security concerns. The deployment reflects **Japan's** heightened focus on China as its top national security threat and aims to strengthen deterrence against potential Chinese aggression in the East China Sea and Taiwan Strait. This shift is part of a broader strategy known as the \"southern shield\" that includes expanding Japan's counterstrike capabilities, acquiring US-made Tomahawk missiles, and bolstering alliances with other countries like Australia and the Philippines.  This move comes amid growing doubts about the United States' commitment to defend its allies, particularly in light of recent shifts in US foreign policy under President Trump.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "crime_violence"
-      ]
     }
   ]
 }

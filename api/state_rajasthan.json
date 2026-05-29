@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 21:04:02.177289",
+  "generated_at": "2026-05-29 10:55:56.555370",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 85,
+    "total_articles": 92,
     "articles_last_30d": 48
   },
   "top_cities_30d": {
-    "Delhi": 18,
+    "Delhi": 19,
     "Mumbai": 6,
     "Jaipur": 5,
     "Pune": 3,
@@ -24,17 +24,46 @@
     "Bangalore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 44,
-    "education": 17,
+    "foreign_policy": 43,
+    "education": 18,
     "protest_opposition": 15,
     "infrastructure": 10,
     "crime_violence": 10,
-    "economy": 10,
     "farmer_agriculture": 9,
+    "economy": 9,
     "corruption_scam": 8,
     "health": 8
   },
   "recent_articles": [
+    {
+      "id": 62409,
+      "title": "Indian Air Force likely to oversee transport of NEET-UG re-test papers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/indian-air-force-likely-to-oversee-transport-of-neet-ug-papers/article71034345.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iusn09/article71034523.ece/alternates/LANDSCAPE_1200/32-%20NEET-UG%20exam-SGR-03-05-2026.JPG",
+      "scraped_at": "2026-05-29 01:36:18.707732",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The government** is considering using the **Indian Air Force (IAF)** to manage logistics and transportation for the NEET-UG 2026 re-test, scheduled for June 21.  A high-level meeting was held at the residence of **Defence Minister Rajnath Singh**, attended by **Education Minister Dharmendra Pradhan** and **Communications Minister Jyotiraditya Scindia**. The IAF will provide transportation and logistics support to secure question papers from printing presses to examination centers across the country, aiming to minimize leak risks.  The final decision is pending consultations with the Prime Minister's Office.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 62171,
       "title": "India orders demolition drive along border as Pakistan tensions simmer | India-Pakistan Tensions News | Al Jazeera",
@@ -2550,9 +2579,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Amit Shah",
-        "Shah",
         "Sonia Gandhi"
       ],
       "states_mentioned": [
@@ -2561,6 +2588,201 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 49315,
+      "title": "Mallikarjun Kharge expresses regret over 'illiterate' remark, says he has highest of respect for Gujaratis - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kharge-expresses-regret-over-illiterate-remark-says-he-has-highest-of-respect-for-gujaratis/article70837829.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/25onto/article69018582.ece/alternates/LANDSCAPE_1200/vbk-stock-mallikarjun%20kharge-ani-20241219342L.jpg",
+      "scraped_at": "2026-04-08 09:52:47.481816",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mallikarjun Kharge",
+      "rephrased_article": "**Congress president Mallikarjun Kharge** issued a statement expressing regret for his controversial remarks about the people of Gujarat during an election speech in Kerala. He clarified that he never intended to offend the people of Gujarat and maintains respect for them. The **BJP** demanded an apology from **Kharge**, accusing him of making \"shameless, demeaning and utterly despicable\" statements.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Priyanka Gandhi",
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 49116,
+      "title": "LeT module busted, 5, including 2 Pakistani terrorists, held by J&K Police - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-kashmir-police-bust-interstate-lashkar-e-taiba-racket/article70833251.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ywgqxp/article70833282.ece/alternates/LANDSCAPE_1200/20260401403L.jpg",
+      "scraped_at": "2026-04-07 17:08:25.678773",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Lashkar-e-Taiba (LeT)",
+      "rephrased_article": "**Jammu and Kashmir Police** conducted raids across multiple states, arresting five individuals suspected of involvement in an inter-state terror module linked to the **Lashkar-e-Taiba (LeT)**. The investigation followed a suspected escape of a Pakistani terrorist from Rajasthan, with authorities focusing on identifying how he obtained a passport and uncovering the support network for the terrorists in Kashmir.  The arrests were made in raids across Haryana, Punjab, Rajasthan, and Srinagar, resulting in the recovery of weapons and ammunition.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab",
+        "Rajasthan",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49069,
+      "title": "Once BJP comes to power in West Bengal, all infiltrators will be sent back: Amit Shah - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/once-bjp-comes-to-power-in-bengal-all-infiltrators-will-be-sent-back-shah/article70833865.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ue6n62/article70834122.ece/alternates/LANDSCAPE_1200/20260407142L.jpg",
+      "scraped_at": "2026-04-07 12:12:50.536828",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Amit Shah**, **Union Home Minister**, asserted that a change is inevitable in West Bengal and that all infiltrators from Assam, Tripura, and Bengal will be sent back to their countries if the BJP comes to power. He accused the **Congress** of supporting illegal immigrants and claimed that the party opposes the Citizenship Amendment Act (CAA) because it knows the law will prevent infiltrators from remaining in the state.  He also criticized the **Congress**, accusing them of building madrasas for Muslim students and calling the RSS and BJP snakes.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tripura",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48833,
+      "title": "Pakistani handler was planning ‘Jihadi activities’, say police - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pakistani-handler-accused-of-planning-jihadi-activities-in-india/article70829807.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-06 16:58:02.690821",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Al-Hakim-Sukoor",
+      "rephrased_article": "**Al-Hakim-Sukoor**, an alleged handler from Pakistan, was arrested for his online communication with terror suspects. The **West Zone police** of Vijayawada Commissionerate in Andhra Pradesh arrested 12 individuals suspected of links to ISIS and AQIS.  The accused allegedly planned to create a Caliphate in India, recruit members, spread their ideology, and receive weapons from **Sukoor**.  The investigation is ongoing with the CI Cell and other agencies planning to question the remaining suspects once they are granted police custody.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48753,
+      "title": "Who is Dr Ashok Jain? Indian-origin paediatrician, who built a $750,000 school in his Rajasthan village | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/who-is-dr-ashok-jain-indian-origin-paediatrician-who-built-a-750000-school-in-his-rajasthan-village/articleshow/130057824.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-130059394,width-1280,height-720,imgsize-683050,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-04-06 12:12:49.561511",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Dr Ashok Jain",
+      "rephrased_article": "**Dr Ashok Jain**, a US-based doctor, returned to his native village in Rajasthan and found the school he attended as a child still lacking basic facilities.  He committed funds to repair the computer lab but ultimately decided to build a new school campus for hundreds of students. The project, spearheaded by the Shree Chatrashanti Charitable Trust, now includes upgraded classrooms, an improved infrastructure, a playground, and a skill development center. **Dr Jain**, who earned his medical degree in the United States and built a successful career in healthcare entrepreneurship, has invested significantly in his village's education system.",
+      "party_mentioned": [
+        "INC",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "health",
+        "education"
+      ]
+    },
+    {
+      "id": 48601,
+      "title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/53fybb/article70826923.ece/alternates/LANDSCAPE_1200/More-money-was-GG9FPTPPO.3.jpg.jpg",
+      "scraped_at": "2026-04-05 19:41:36.196712",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Prime Minister Modi",
+      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, criticized **Prime Minister Modi's** statement regarding southern states' Lok Sabha seat distribution. He argued that while all states would gain seats, the scale of increase appears to favor BJP-dominated states, disproportionately benefiting them over southern states.  He claimed that this could widen regional imbalances and penalize states with successful population control and governance. **Siddaramaiah** vowed to oppose any attempt to weaken Karnataka's voice in the matter.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28 21:04:02.155882",
+  "generated_at": "2026-05-29 10:55:56.531712",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 140,
+    "total_articles": 167,
     "articles_last_30d": 80
   },
   "top_cities_30d": {
     "Mumbai": 20,
     "Pune": 16,
-    "Delhi": 11,
-    "Nashik": 9,
+    "Delhi": 12,
+    "Nashik": 8,
     "Hyderabad": 5,
     "Bengaluru": 4,
     "Thane": 3,
@@ -24,18 +24,68 @@
     "Chennai": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 68,
-    "protest_opposition": 30,
-    "education": 29,
+    "foreign_policy": 66,
+    "education": 30,
+    "protest_opposition": 29,
     "economy": 26,
     "infrastructure": 25,
     "crime_violence": 12,
     "farmer_agriculture": 8,
     "corruption_scam": 7,
-    "rape_sexual_crime": 7,
+    "rape_sexual_crime": 6,
     "health": 5
   },
   "recent_articles": [
+    {
+      "id": 62438,
+      "title": "HDFC Bank shares fall 5% in two sessions; lender responds to recent Rs 45 crore differential payment report - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-5-in-two-sessions-lender-responds-to-recent-rs-45-crore-differential-payment-report/articleshow/131382476.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131382457,width-1200,height-630,imgsize-49690,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-05-29 06:22:33.934215",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "HDFC Bank",
+      "rephrased_article": "**HDFC Bank** issued a statement clarifying that its internal audit function routinely reviews practices and addresses any observations. The bank maintains sound financial practices and robust internal controls, stating it remains committed to corporate governance and regulatory compliance.  The report in **The Indian Express** stated that an internal audit flagged payments made to the Maharashtra State Road Development Corporation (MSRDC) just days before former chairman Atanu Chakraborty resigned on March 18th. The bank's Chief Marketing Officer, Ravi Santhanam, acknowledged the marketing department facilitated a \"camouflage\" of interest reimbursement as marketing spend during senior-level discussions.  The Vigilance probe report was sent to two top committees: the Audit Committee and the Nomination and Remuneration Committee.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 62409,
+      "title": "Indian Air Force likely to oversee transport of NEET-UG re-test papers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/indian-air-force-likely-to-oversee-transport-of-neet-ug-papers/article71034345.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iusn09/article71034523.ece/alternates/LANDSCAPE_1200/32-%20NEET-UG%20exam-SGR-03-05-2026.JPG",
+      "scraped_at": "2026-05-29 01:36:18.707732",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The government** is considering using the **Indian Air Force (IAF)** to manage logistics and transportation for the NEET-UG 2026 re-test, scheduled for June 21.  A high-level meeting was held at the residence of **Defence Minister Rajnath Singh**, attended by **Education Minister Dharmendra Pradhan** and **Communications Minister Jyotiraditya Scindia**. The IAF will provide transportation and logistics support to secure question papers from printing presses to examination centers across the country, aiming to minimize leak risks.  The final decision is pending consultations with the Prime Minister's Office.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 62338,
       "title": "India's Gen-Z Cockroach Janta Party channels youth anger but faces offline hurdles - World - DAWN.COM",
@@ -51,8 +101,7 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Maharashtra",
@@ -83,8 +132,7 @@
       "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Andhra Pradesh",
@@ -4026,8 +4074,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [
@@ -4068,6 +4115,764 @@
       ],
       "cities_mentioned": [],
       "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49310,
+      "title": "Rediscovering Vaanam: How a contemporary festival in Tamil Nadu celebrates Dalit History Month - The Hindu",
+      "url": "https://www.thehindu.com/entertainment/rediscovering-vaanam-how-a-contemporary-festival-in-tamil-nadu-celebrates-dalit-history-month/article70837397.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/life-and-style/j2o7fv/article70837392.ece/alternates/LANDSCAPE_1200/_C1A8777.JPG",
+      "scraped_at": "2026-04-08 09:51:03.237730",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "PK Rosy Film Festival",
+      "rephrased_article": "**Prasad Lab**, in Chennai, is hosting the **PK Rosy Film Festival**, a celebration of world cinema, particularly focusing on films with political and marginalized themes. The festival, part of the **Vanam** initiative by **Neelam Cultural Centre**, will feature films from India and across the globe, including works by renowned directors like Cheryl Dunye, Ava DuVernay, Ken Loach, Julie Dash, and Ryan Coogler.  The festival's curator, Arun Karthick, highlights a growing trend in cinema that addresses issues of gender sensitivity, queerness, and political activism.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 49238,
+      "title": "Improve Transport dept. revenue without inconveniencing people: Ponnam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/improve-transport-dept-revenue-without-inconveniencing-people-ponnam/article70835177.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-07 23:45:05.585158",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Ponnam Prabhakar",
+      "rephrased_article": "**Transport Minister Ponnam Prabhakar** directed officials to increase revenue collection while ensuring public convenience.  He commended officers for meeting targets, particularly in Life Tax and Quarterly Tax collections, but urged improvement from others. **Prabhakar** also emphasized citizen-centric service delivery, including clearing pending licenses at Regional Transport Offices without delay. He highlighted ongoing reforms aimed at transparency and data integration on the VAHAN portal, while directing completion of the Sarathi system and the \"Arrive Alive\" campaign.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 49227,
+      "title": "Battleground Baramati: Ajit Pawar’s son faces criticism over ‘immature’ comments against Congress - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/battleground-baramati-ajit-pawars-son-faces-criticism-over-immature-comments-against-congress/article70835382.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1092uv/article70835904.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG7DFL456L.3.jpg.jpg",
+      "scraped_at": "2026-04-07 22:50:57.951967",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Parth Pawar",
+      "rephrased_article": "**Parth Pawar**, son of **Sunetra Pawar** and late **Ajit Pawar**, has faced criticism from the **Congress** for his comments against the party. The **Congress** accused him of being ungrateful, a bad orator, and politically convenient.  The party also reminded him that the Karnataka government had registered an FIR in his father's death investigation. **Sharad Pawar**, his grandfather, and other family members have taken a contradictory stance, while allies of the **Congress** urged for an unopposed election in Baramati.",
+      "party_mentioned": [
+        "Congress",
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 49218,
+      "title": "Kerala polls ignore a Gulf lifeline at risk - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/kerala-polls-ignore-a-gulf-lifeline-at-risk/article70834211.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/d9bv48/article70835926.ece/alternates/LANDSCAPE_1200/NORKA.jpg",
+      "scraped_at": "2026-04-07 22:48:28.603421",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Kerala",
+      "rephrased_article": "As Kerala prepares for its election on April 9, 2026, the escalating Iran-U.S.-Israel conflict has threatened the Gulf remittance economy that sustains nearly one-fifth of the state's GDP. **Indian workers** in the Gulf are facing wage cuts, food price increases, and visa restrictions due to the crisis, with many forced to stop work without clarity on leave policies.  The political class has largely ignored this issue, despite its profound impact on Kerala's economy. The conflict is a \"life-and-death\" crisis for **Kerala** that could have severe consequences if it continues.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 49093,
+      "title": "Assam Assembly election 2026: Curtains down on high-voltage campaign - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-2026-curtains-down-on-high-voltage-campaign/article70834669.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/sg97nj/article70834762.ece/alternates/LANDSCAPE_1200/20260407255L.jpg",
+      "scraped_at": "2026-04-07 14:15:37.682570",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The Assam Assembly elections concluded on April 7, with voters casting their ballots for the state's 126 seats. **Prime Minister Narendra Modi**, **Union Home Minister Amit Shah**, and other BJP leaders campaigned against the opposition Congress, accusing it of promoting infiltrators and failing to address development issues. The Congress countered by highlighting corruption allegations against the ruling party and promising justice for singer Zubeen Garg if elected. Prominent candidates include Chief Minister Himanta Biswa Sarma, Gaurav Gogoi (Congress), Badruddin Ajmal (AIUDF), and Debabrata Saikia (opposition).  The elections will be held in a single phase on April 9th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "TMC",
+        "CPI",
+        "AIMIM",
+        "Owaisi",
+        "JMM",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Rajnath Singh",
+        "Nirmala Sitharaman",
+        "Yogi Adityanath",
+        "Yogi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Hemant Soren",
+        "Nitin Gadkari",
+        "Asaduddin Owaisi",
+        "Owaisi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Jharkhand",
+        "Odisha",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 49077,
+      "title": "Assembly elections 2026: ECI may roll out SIR in remaining 17 States, 5 UTs post polls - The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-may-roll-out-sir-in-remaining-17-states-5-uts-post-assembly-polls/article70834100.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9wocac/article70834156.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202025_13_08_9.jpg",
+      "scraped_at": "2026-04-07 12:15:40.083203",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "The **Election Commission** is considering rolling out the third and final phase of Special Intensive Revision (SIR) for voters' lists in 22 states and Union territories after the Assembly elections this month. The exercise, which aims to clean up electoral rolls, could begin after the polls conclude on April 29th or after the declaration of results.  The **Election Commission** has already conducted SIR in 10 states and three Union Territories, covering nearly 60 crore voters.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 49060,
+      "title": "Maharashtra government inaugurates Metro 9 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-inaugurates-metro-9/article70833542.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ix8g8m/article70833962.ece/alternates/LANDSCAPE_1200/11908_22_9_2025_14_52_27_1_DSC_4281.JPEG",
+      "scraped_at": "2026-04-07 11:07:56.538595",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "**Maharashtra Chief Minister Devendra Fadnavis** inaugurated the first phase of Metro Line 9, marking a significant milestone in Mumbai's metro expansion. The 4.97 km line connects Dahisar and Kashigaon with an interchange at Dahisar (E), linking to existing lines like Line 7 and Line 3. **Deputy CM Eknath Shinde** highlighted the project's benefits for commuters, including reduced traffic congestion and faster travel times.  The MMRDA has also released revised timetables for the metro corridors, aiming for seamless passenger movement and enhanced network efficiency.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Eknath Shinde",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Thane"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 48959,
+      "title": "Prominent candidates file nomination papers, set out to canvass votes - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/prominent-candidates-file-nomination-papers-set-out-to-canvass-votes/article70830561.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-07 00:03:56.632134",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu Assembly election",
+      "rephrased_article": "Several candidates filed their nomination papers for the Tamil Nadu Assembly election on Monday. **Tamilisai Soundararajan**, former **Telangana Governor** and **BJP leader**, submitted her papers in Mylapore, accompanied by **Piyush Goyal**.  **B. Valarmathi**, AIADMK Women's Wing Secretary and former Minister, filed for the Thousand Lights constituency. **Aassan Maulaana**, Congress candidate for Velachery, was re-nominated to contest against **M.K. Ashok** of the AIADMK. **Ma. Subramanian**, **Health Minister** and DMK candidate, campaigned door-to-door in Saidapet.  **D. Jayakumar**, former Minister and AIADMK candidate for Royapuram, also canvassed for votes.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48932,
+      "title": "T.N. Assembly election: Why aren’t you implementing the Centre’s schemes, Piyush Goyal questions M.K. Stalin - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-election-why-arent-you-implementing-the-centres-schemes-piyush-goyal-questions-mk-stalin/article70830952.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8zi313/article70831070.ece/alternates/LANDSCAPE_1200/20260406058L.jpg",
+      "scraped_at": "2026-04-06 22:03:29.624005",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "M.K. Stalin",
+      "rephrased_article": "**Piyush Goyal**, **Union Minister for Commerce and Industry**, criticized **Chief Minister M.K. Stalin** during a press conference in Chennai, alleging corruption in sand mining, Tasmac, and drug proliferation in Tamil Nadu. He questioned why the state government was not implementing central government schemes and claimed that over 70% of DMK's promises remained unfulfilled.  Goyal also accused the DMK of hindering development by refusing to collaborate with the **Prime Minister Modi**-led government.",
+      "party_mentioned": [
+        "BJP",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 48894,
+      "title": "Battle for Baramati: Sunetra Pawar files nomination, Sharad Pawar’s photo displayed during NCP rally - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/battle-for-baramati-sunetra-pawar-files-nomination-sharad-pawars-photo-displayed-during-ncp-rally/article70831178.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mhbhmw/article70831833.ece/alternates/LANDSCAPE_1200/20260406383L.jpg",
+      "scraped_at": "2026-04-06 20:08:11.432981",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Sharad Pawar",
+      "rephrased_article": "**Sunetra Pawar**, daughter of **Sharad Pawar**, filed her nomination as the Nationalist Congress Party candidate for the upcoming Baramati by-election.  She was accompanied by Deputy Chief Minister **Eknath Shinde** and BJP cabinet minister **Chandrashekhar Bawankule**. **Sharad Pawar** expressed disapproval of his photo being displayed alongside **Narendra Modi** and **Amit Shah**, stating that it was wrong to do so. While senior NCP leaders, **Praful Patel** and **Sunil Tatkare**, suggested speaking with the Congress leadership for an unopposed election, Sunetra Pawar's son, **Parth**, indicated he would not engage in such negotiations.  **Sanjay Raut** of Shiv Sena UBT expressed that it was acceptable to field a candidate in elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Eknath Shinde",
+        "Devendra Fadnavis",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48881,
+      "title": "Bagalkot bypoll campaign focussed on attacks on individual leaders, leaving out real issues - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bagalkot-bypoll-campaign-focussed-on-attacks-on-individual-leaders-leaving-out-real-issues/article70830935.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jw0b89/article70831509.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-06%20at%2020.53.42.JPEG",
+      "scraped_at": "2026-04-06 19:11:41.304681",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The by-elections in **Karnataka** saw a focus on personal attacks rather than addressing key issues like drought and farm labor migration.  **Chief Minister Siddaramaiah**, **Deputy Chief Minister D.K. Shivakumar**, and **Law and Parliamentary Affairs Minister H.K. Patil** criticized the BJP candidate, **Viranna Charantimath**, for his perceived arrogance and lack of accessibility to rural voters. **Basanagouda R. Patil Yatnal**, a close friend of **Charantimath**, also targeted minority groups and accused him of behaving inappropriately with people.  While both parties engaged in meetings with various caste groups, the campaign was dominated by personal attacks rather than substantive policy discussions.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 48833,
+      "title": "Pakistani handler was planning ‘Jihadi activities’, say police - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pakistani-handler-accused-of-planning-jihadi-activities-in-india/article70829807.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-06 16:58:02.690821",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Al-Hakim-Sukoor",
+      "rephrased_article": "**Al-Hakim-Sukoor**, an alleged handler from Pakistan, was arrested for his online communication with terror suspects. The **West Zone police** of Vijayawada Commissionerate in Andhra Pradesh arrested 12 individuals suspected of links to ISIS and AQIS.  The accused allegedly planned to create a Caliphate in India, recruit members, spread their ideology, and receive weapons from **Sukoor**.  The investigation is ongoing with the CI Cell and other agencies planning to question the remaining suspects once they are granted police custody.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48789,
+      "title": "Bengaluru Central RTO tops in Karnataka, ranks 3rd in India in revenue collection - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-central-rto-tops-in-karnataka-ranks-3rd-in-india-in-revenue-collection/article70830724.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/w6kmrg/article70831078.ece/alternates/LANDSCAPE_1200/DSC_7773.JPG",
+      "scraped_at": "2026-04-06 14:55:47.184945",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Bengaluru Central Regional Transport Office",
+      "rephrased_article": "The **Bengaluru Central Regional Transport Office (KA-01, HSR Layout)** has achieved the highest revenue collection in Karnataka and third place nationally for the 2025–26 fiscal year, generating ₹1,273.8 crore. This success is attributed to stricter enforcement activities targeting vehicles with pending taxes, operating without valid licenses, or lacking fitness certificates. The office collected ₹6.2 crore through enforcement drives, exceeding all other RTOs in the state. Despite this achievement, the **Karnataka Transport Department** fell short of its revenue target by 14%, collecting ₹12,829.64 crore compared to a target of ₹15,000 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Pune"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48692,
+      "title": "New Rajya Sabha members take oath - The Hindu",
+      "url": "https://www.thehindu.com/news/national/new-rajya-sabha-members-take-oath/article70829279.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kkfray/article70829293.ece/alternates/LANDSCAPE_1200/PTI01_31_2026_000041B.jpg",
+      "scraped_at": "2026-04-06 08:56:19.230369",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Sharad Pawar**, **Ramdas Athawale**, and 17 other new members were sworn in as Rajya Sabha members on Monday, April 6, 2026. The ceremony took place in the Rajya Sabha chamber with **C.P. Radhakrishnan** presiding.  The newly elected members represented various states including Maharashtra, Tamil Nadu, West Bengal, and Odisha.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NCP",
+        "DMK",
+        "AIADMK",
+        "BJD"
+      ],
+      "ministers_mentioned": [
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 48664,
+      "title": "Kerala likely to see 20% drop in remittances as West Asia war drags on - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-likely-to-see-20-drop-in-remittances-as-west-asia-war-drags-on/article70812146.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hez8kf/article70812358.ece/alternates/LANDSCAPE_1200/IMG_bl18_paying_2_1_SLA1THBO.jpg",
+      "scraped_at": "2026-04-06 05:33:23.477950",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Kerala's economy",
+      "rephrased_article": "**Kerala** is bracing for a significant economic impact from the ongoing crisis in West Asia, with experts predicting a 20% drop in remittances.  The state receives around ₹2.16 lakh crore annually from expatriates, primarily residing in GCC countries. **S. Irudaya Rajan**, Chair of the International Institute of Migration and Development (IIMAD), warns that this could increase further if the war escalates. While currency depreciation may cushion short-term impacts, the long-term consequences are expected to be substantial.  **Kerala's** economy is heavily reliant on these remittances, which make up a significant portion of its GDP.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 48627,
+      "title": "Maharashtra Congress set to overhaul organisation in ‘Sangathan Srujan Abhiyan’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-congress-set-to-overhaul-organisation-in-sangathan-srujan-abhiyan/article70827387.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jofjyu/article70827880.ece/alternates/LANDSCAPE_1200/2col_with_pictuG59FCUSU1.3.jpg.jpg",
+      "scraped_at": "2026-04-05 21:38:41.415317",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Maharashtra Congress",
+      "rephrased_article": "The **Maharashtra Congress** is launching a grassroots organizational overhaul, the \"Sangathan Srujan Abhiyan,\" aimed at addressing concerns about lack of party organization and dominance by repeat faces. The initiative includes the first-ever selection of taluka presidents, with 72 district presidents being finalized and appointments made for heads of ten frontal organizations and departments at each taluka level. State observers will recommend names for these positions, which will be decided by the party leadership. The program aims to provide organizational responsibilities to over 7,000 party workers, including new faces, with a target of appointing around 8,000 new office bearers within two months.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 48612,
+      "title": "Akash Vishwanath More of Congress to contest Baramati Bypoll - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/akash-vishwanath-more-of-congress-to-contest-baramati-bypoll/article70827469.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-05 20:40:48.542528",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** has selected **Advocate Akash Vishwanath More** as its candidate for the Baramati assembly by-election. The party's decision was made after the seat became vacant following the death of incumbent MLA and Deputy Chief Minister, **Ajit Pawar**.  **Sunetra Pawar**, wife of **Ajit Pawar**, will be filing her nomination from the Mahayuti.",
+      "party_mentioned": [
+        "Congress",
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 48606,
+      "title": "Conversion politics, the challenge to secularism - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/conversion-politics-the-challenge-to-secularism/article70826585.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g2gy6p/article70827822.ece/alternates/LANDSCAPE_1200/IMG_Anti-Conversion_bill_2_1_GK9ANRIF.jpg",
+      "scraped_at": "2026-04-05 19:43:40.404653",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Reports** of arrests of Muslims from various backgrounds in North India for alleged involvement in organized networks facilitating religious conversion from Hinduism to Islam have emerged. These cases, predominantly in Uttar Pradesh and Uttarakhand, are under investigation.  Concerns about religious conversion, particularly from Hinduism to Islam, have been a contentious issue in India for decades. The debate has led to the enactment of anti-conversion laws across various states, with some being tightened by BJP-ruled governments. However, these laws have also been criticized for potentially encouraging vigilantism and violence.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [
+        "Patna"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48604,
+      "title": "Transforming India’s nuclear power landscape - The Hindu",
+      "url": "https://www.thehindu.com/opinion/lead/transforming-indias-nuclear-power-landscape/article70827256.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/j0czbx/article70827257.ece/alternates/LANDSCAPE_1200/IMG_KKNPP3_2_1_2HDVIIE2.jpg",
+      "scraped_at": "2026-04-05 19:42:51.079567",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Nirmala Sitharaman**, the Indian Finance Minister, announced plans to increase India's installed nuclear power generation capacity to 100 GW by 2047. The **Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act**, passed in December 2025, aims to bring private companies into the nuclear energy sector. This move is part of a larger strategy to achieve \"Viksit Bharat\" by 2047 and net-zero emissions by 2070.  India currently generates electricity from thermal power plants (coal-based), renewables like solar and wind, and nuclear power, with the latter providing a steady baseload. To reach the 100 GW target, India will need to overcome challenges such as cost reduction for new designs, research into indigenous Small Modular Reactors (SMRs), and addressing issues related to financing, waste management, and liability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Nirmala Sitharaman"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 48601,
+      "title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/53fybb/article70826923.ece/alternates/LANDSCAPE_1200/More-money-was-GG9FPTPPO.3.jpg.jpg",
+      "scraped_at": "2026-04-05 19:41:36.196712",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Prime Minister Modi",
+      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, criticized **Prime Minister Modi's** statement regarding southern states' Lok Sabha seat distribution. He argued that while all states would gain seats, the scale of increase appears to favor BJP-dominated states, disproportionately benefiting them over southern states.  He claimed that this could widen regional imbalances and penalize states with successful population control and governance. **Siddaramaiah** vowed to oppose any attempt to weaken Karnataka's voice in the matter.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48567,
+      "title": "Kiran Mazumdar-Shaw flags poor condition of Hosur Road; NHAI responds - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/kiran-mazumdar-shaw-flags-poor-condition-of-hosur-road-nhai-responds/article70827614.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/a4n3qn/article70827639.ece/alternates/LANDSCAPE_1200/449876648.jpg",
+      "scraped_at": "2026-04-05 17:40:58.795993",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "NHAI",
+      "rephrased_article": "**Kiran Mazumdar-Shaw**, executive chairperson of **Biocon Limited**, criticized the poor condition of Hosur Road, a key IT corridor in India, on social media. The **National Highways Authority of India (NHAI)** responded, explaining that the road was completed in 2010 and faces challenges due to high traffic volumes and ongoing infrastructure projects.  The NHAI stated that work is underway to address issues such as median crash barriers, asphalting, and utility works impacting the stretch.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 48560,
+      "title": "Sabala food festival draws 50,000 visitors in Visakhapatnam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sabala-food-festival-draws-50000-visitors-in-visakhapatnam/article70827413.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ssx2uy/article70827654.ece/alternates/LANDSCAPE_1200/9604_5_4_2026_22_17_31_4_IMG_20260405_WA0015.JPG",
+      "scraped_at": "2026-04-05 17:38:31.615874",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Sabala Bhojanala Panduga",
+      "rephrased_article": "**Vijay Ram**, an advocate of natural farming, launched the second edition of the **Sabala Bhojanala Panduga**, a community-led food festival in Visakhapatnam. The event, running from April 1 to 5, drew an estimated 50,000 visitors and featured over 50 varieties of traditional seeds and rice, along with diverse dishes made using indigenous ingredients. Farmers from the region showcased their organic produce at stalls while experts discussed seed conservation and sustainable living practices. Visitors praised the festival for its educational value and cultural experiences.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 48557,
+      "title": "ED to investigate into assets of self-styled godman Kharat; call record leaks will be probed: Fadnavis - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/godman-kharat-case-govt-to-probe-cdr-leak-and-ed-will-investigate-his-assets-says-fadnavis/article70826742.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dfno53/article70827549.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-04%20at%2020.16.03.jpeg",
+      "scraped_at": "2026-04-05 16:53:38.245409",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Ashok Kharat",
+      "rephrased_article": "**Maharashtra Chief Minister Devendra Fadnavis** announced that the **Enforcement Directorate (ED)** will investigate the assets of self-styled godman Ashok Kharat, who is facing multiple rape and fraud accusations.  Mr. Fadnavis also stated that the leak of call detail records in the case will be investigated and that action would be taken against those responsible. He emphasized that evidence-based action would be taken in sensitive cases like this, adding that more individuals are coming forward with information about Kharat's alleged wrongdoing.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Eknath Shinde",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 48484,
+      "title": "As U.S. sanctions deadlines expire this month, exporters urge government to revive oil-rice barter trade mechanism with Iran - The Hindu",
+      "url": "https://www.thehindu.com/news/national/as-us-sanctions-deadlines-expire-this-month-exporters-urge-government-to-revive-oil-rice-barter-trade-mechanism-with-iran/article70826451.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5stp6a/article70826553.ece/alternates/LANDSCAPE_1200/AFP_A6EQ3N7.jpg",
+      "scraped_at": "2026-04-05 13:12:44.703448",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Indian** government's decision to resume oil and LNG imports from **Iran** after a seven-year hiatus has sparked hopes for restoring trade with the country, including its interest in the Chabahar port.  While U.S. sanctions deadlines loom, the government remains engaged with all parties on the issue of Chabahar and is exploring barter agreements with Iran to ease India's oil crisis. The **Punjab Rice Millers Exporters Association** has urged the government to utilize a Rupee payment mechanism for commodity trade to facilitate this exchange.  The future of these imports remains uncertain, as U.S. sanctions could be reimposed in April.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 48478,
+      "title": "Unseasonal rains in Maharashtra: Govt will provide farmers all assistance, promises CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/unseasonal-rains-in-maharashtra-govt-will-provide-farmers-all-assistance-promises-cm/article70826670.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/q33yuz/article70826682.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000333B.jpg",
+      "scraped_at": "2026-04-05 13:10:34.739347",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Devendra Fadnavis",
+      "rephrased_article": "**Maharashtra** Chief Minister Devendra Fadnavis announced that his government will provide assistance to farmers who have suffered crop damage and financial losses due to unseasonal rains. The rains, accompanied by hailstorms and gusty winds, have affected over 1.22 lakh hectares of land in several districts of the state, particularly north Maharashtra, western Maharashtra, Marathwada, and Vidarbha.  **Fadnavis** stated that the government will conduct surveys and provide compensation as it has done in previous instances of unseasonal rain or hailstorms.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "farmer_agriculture",
         "foreign_policy"
       ]
     }
