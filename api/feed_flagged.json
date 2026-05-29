@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29 19:56:21.492785",
-  "total": 237,
+  "generated_at": "2026-05-29 20:19:36.199201",
+  "total": 238,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
     "power_abuse": 183,
     "institutional_failure": 28,
-    "scale_of_harm": 15,
+    "scale_of_harm": 16,
     "suppression": 11
   },
   "articles": [
@@ -7078,6 +7078,31 @@
       "civic_flag_score": 8,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "The article highlights ongoing global tax evasion and abuse of power by the wealthy."
+    },
+    {
+      "id": 47768,
+      "title": "Iran war: What is happening on day 35 of US-Israeli attacks? | US-Israel war on Iran News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-31T124243Z_59550404_RC2OFKAUZ47P_RTRMADP_3_IRAN-CRISIS-1775189244.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-03 08:11:04.261705",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "US",
+      "rephrased_article": "The United States and Israel are escalating their attacks on Iran, targeting infrastructure including a century-old medical research center and a bridge near Tehran. The US Defense Secretary, Pete Hegseth, has abruptly fired the Army’s top general and two other senior officers, prompting speculation about a wartime leadership shake-up.  Iran insists the bridge was civilian infrastructure, potentially violating international law. Casualties continue to rise in Iran with at least 2,076 killed and 26,500 wounded since the start of the conflict. The US is also facing criticism for its escalating rhetoric against Tehran, as a majority of Iranian Americans oppose the war on their homeland.  Meanwhile, Pakistan continues to push for peace talks between the US and Iran, while the UK seeks to reopen the Strait of Hormuz after Iran's blockade halted most shipping.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "Escalating attacks on civilian infrastructure raise serious concerns about potential large-scale harm."
     }
   ]
 }

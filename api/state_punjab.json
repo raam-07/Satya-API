@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 19:56:21.685091",
+  "generated_at": "2026-05-29 20:19:36.407946",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 285,
-    "articles_last_30d": 140
+    "total_articles": 290,
+    "articles_last_30d": 141
   },
   "top_cities_30d": {
     "Delhi": 18,
@@ -17,22 +17,22 @@
     "Ludhiana": 3,
     "Hyderabad": 3,
     "Mumbai": 2,
+    "Kolkata": 2,
     "Faridabad": 1,
     "Surat": 1,
     "Rajkot": 1,
-    "Ghaziabad": 1,
-    "Bengaluru": 1
+    "Ghaziabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 133,
+    "foreign_policy": 134,
     "economy": 48,
     "education": 46,
-    "protest_opposition": 44,
+    "protest_opposition": 45,
     "infrastructure": 41,
-    "crime_violence": 39,
+    "crime_violence": 40,
     "health": 21,
     "farmer_agriculture": 19,
-    "corruption_scam": 15,
+    "corruption_scam": 16,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
@@ -189,6 +189,37 @@
       "topic_tags": [
         "foreign_policy",
         "economy"
+      ]
+    },
+    {
+      "id": 62109,
+      "title": "Trinamool MLA arrested, several leaders quit party post - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-mla-arrested-several-leaders-quit-party-post/article71030200.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/biy7fa/article71030846.ece/alternates/LANDSCAPE_1200/Screenshot%201879.png",
+      "scraped_at": "2026-05-27 18:33:12.733256",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Dilip Mondal**, a Trinamool Congress MLA from Bishnupur, was arrested by **West Bengal police** in Odisha on Wednesday (May 27, 2026) after days of evading arrest. The arrest follows an investigation into alleged threats against **BJP** workers during the West Bengal Assembly elections and a previous complaint filed against him.  The arrest marks the first time a sitting MLA has been apprehended by **West Bengal police**. This comes amidst a wave of arrests targeting local Trinamool Congress workers, including former Minister **Sujit Bose**, for their alleged involvement in corruption and post-poll violence. The situation is further complicated by mass resignations from Trinamool leaders, including senior leader **Kakoli Ghosh Dastidar** and several councillors.  The party's leadership is also facing criticism for the lack of a designated space for the Leader of Opposition, **Sovandeb Chattopadhyay**, in the West Bengal Assembly premises.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "protest_opposition",
+        "crime_violence"
       ]
     },
     {
@@ -4968,38 +4999,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 51625,
-      "title": "What are the costs of population decline? The Hindu Explains - The Hindu",
-      "url": "https://www.thehindu.com/news/national/what-are-the-costs-of-population-decline/article68850152.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pn9rxu/article68850442.ece/alternates/LANDSCAPE_1200/shelter_02.jpg",
-      "scraped_at": "2026-04-16 10:01:10.455404",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Andhra Pradesh** and **Tamil Nadu** Chief Ministers have expressed concerns about the low fertility rates in their states.  **Chandrababu Naidu**, of Andhra Pradesh, plans to introduce legislation to incentivize more children per family. The decline in total fertility rates across India has been particularly pronounced in southern and some northern states, with **Andhra Pradesh**, **Telangana**, **Kerala**, **Punjab**, and **Himachal Pradesh** recording rates of 1.5 or lower.  This trend contrasts with states like Bihar, Uttar Pradesh, and Madhya Pradesh which have higher fertility rates.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Himachal Pradesh",
-        "Kerala",
-        "Madhya Pradesh",
-        "Punjab",
-        "Tamil Nadu",
-        "Telangana",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]
