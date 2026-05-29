@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29 20:19:36.199201",
-  "total": 238,
+  "generated_at": "2026-05-29 20:22:38.166257",
+  "total": 239,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
     "power_abuse": 183,
     "institutional_failure": 28,
-    "scale_of_harm": 16,
+    "scale_of_harm": 17,
     "suppression": 11
   },
   "articles": [
@@ -7103,6 +7103,32 @@
       "civic_flag_score": 8,
       "civic_flag_category": "scale_of_harm",
       "civic_flag_reason": "Escalating attacks on civilian infrastructure raise serious concerns about potential large-scale harm."
+    },
+    {
+      "id": 47751,
+      "title": "How Israel is destroying healthcare infrastructure in southern Lebanon | Israel attacks Lebanon News | Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/getty_69c3175694-1774393174.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-04-03 08:05:45.906883",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Israel's intensified attacks on Lebanon have severely strained the country's healthcare system, leading to displacement and a health crisis.  The Israeli military has targeted hospitals, medical centers, ambulances, and civil defense centers, killing 53 medical workers and forcing five hospitals to evacuate. The destruction of healthcare infrastructure has also fueled mass displacement, with over 1.2 million people displaced from their homes. Experts and analysts believe these attacks are part of a wider strategy by Israel to make southern Lebanon uninhabitable.  The World Health Organization (WHO) and human rights organizations have documented the pattern of deliberate attacks on medical workers and healthcare facilities, calling for accountability and protection under international law.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "Intentional targeting of healthcare infrastructure constitutes a grave humanitarian crisis."
     }
   ]
 }
