@@ -112,6 +112,44 @@ def load_json_from_url(url, fallback_path=None):
 # --- ENRICHMENT — Implicit linking via entities.json ---
 # ==============================================================================
 
+def verify_surname_context(match, text_lower, canonical_name):
+    """
+    Scans a 200-character window surrounding a matched generic surname
+    to verify if it refers to the intended canonical politician.
+    """
+    alias_matched = match.group(0).lower()
+
+    # If the match already contains a space, it represents a full name and is inherently unambiguous
+    if len(alias_matched.split()) > 1:
+        return True
+
+    # Define context window boundaries
+    start_idx = max(0, match.start() - 100)
+    end_idx = min(len(text_lower), match.end() + 100)
+    context_window = text_lower[start_idx:end_idx]
+
+    # Keyword lists for common regional surnames in Indian politics
+    disambiguation_rules = {
+        "Narendra Modi": {"pm", "prime minister", "narendra", "varanasi", "namo", "central government", "modi cabinet"},
+        "Amit Shah": {"home minister", "amit", "gandhinagar", "cooperation", "shah cabinet"},
+        "Rahul Gandhi": {"congress", "rahul", "wayanad", "rae bareli", "opposition leader", "gandhi scion"},
+        "Mamata Banerjee": {"cm", "chief minister", "didi", "mamata", "west bengal", "trinamool", "tmc"},
+        "Arvind Kejriwal": {"aap", "arvind", "delhi", "chief minister", "cm", "convenor", "tihar"},
+        "Akhilesh Yadav": {"sp", "samajwadi", "akhilesh", "up", "uttar pradesh", "karhal"},
+        "Tejashwi Yadav": {"rjd", "tejashwi", "bihar", "patna", "rashtriya janata"}
+    }
+
+    keywords = disambiguation_rules.get(canonical_name)
+    if not keywords:
+        return True  # Default to true for non-ambiguous entities
+
+    # Check for context match
+    for keyword in keywords:
+        if keyword in context_window:
+            return True
+
+    return False
+
 def enrich_articles(articles, entities):
     """
     Adds implicit fields to each article:
@@ -188,13 +226,18 @@ def enrich_articles(articles, entities):
         implicit_states = set()
         all_ministers_canonical = set()
 
-        # --- Scan text for any minister mentions (catches missed ones) ---
+        # --- Scan text for any minister mentions with context checks ---
         for alias_lower, canonical in minister_aliases.items():
-            # Need to be careful — match whole word, not substring
-            if len(alias_lower) > 4:
+            # Length threshold decreased to >= 3 to catch common 4-letter surnames
+            if len(alias_lower) >= 3:
                 pattern = r'\b' + re.escape(alias_lower) + r'\b'
-                if re.search(pattern, text_lower):
-                    all_ministers_canonical.add(canonical)
+                for match in re.finditer(pattern, text_lower):
+                    # Ambiguity check for common surnames
+                    if alias_lower in {"modi", "shah", "yadav", "gandhi", "banerjee", "kejriwal"}:
+                        if verify_surname_context(match, text_lower, canonical):
+                            all_ministers_canonical.add(canonical)
+                    else:
+                        all_ministers_canonical.add(canonical)
 
         # Add already-mentioned ministers
         for m_name in explicit_ministers:
