@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:24.977723",
+  "generated_at": "2026-05-30 20:34:52.157769",
   "party": "BJP",
   "full_name": "Bharatiya Janata Party",
   "ideology": "Hindu nationalism, right-wing",
@@ -25,12 +25,12 @@
   ],
   "color": "#FF9933",
   "stats": {
-    "total_articles": 1316,
+    "total_articles": 1340,
     "articles_last_30d": 522,
     "sentiment_breakdown_30d": {
-      "positive": 168,
-      "neutral": 136,
-      "negative": 218
+      "positive": 166,
+      "neutral": 137,
+      "negative": 219
     }
   },
   "ministers": [
@@ -233,7 +233,7 @@
       "id": "p004",
       "person": "Narendra Modi",
       "promise": "Build 2 crore pucca houses for the poor by 2022 (PM Awas Yojana)",
-      "status": "ongoing",
+      "status": "broken",
       "category": "infrastructure",
       "evidence_count": 1,
       "evidence_articles": [
@@ -313,7 +313,7 @@
       "id": "p008",
       "person": "Narendra Modi",
       "promise": "Har ghar nal se jal — piped water to every household by 2024",
-      "status": "ongoing",
+      "status": "broken",
       "category": "infrastructure",
       "evidence_count": 1,
       "evidence_articles": [
@@ -479,6 +479,119 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 62786,
+      "title": "Mob attacks Trinamool leader Abhishek Banerjee; Mamata blames it on BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/tmc-abhishek-banerjee-manhandled-eggs-stones-thrown-bengal-post-poll-violence-visit/article71041375.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1e0w9p/article71041551.ece/alternates/LANDSCAPE_1200/20260530251L.jpg",
+      "scraped_at": "2026-05-30 17:19:07.366087",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was attacked by a mob in Sonarpur, West Bengal on Saturday. The attack occurred during his visit to the residence of a party worker allegedly killed in post-poll violence.  The mob threw eggs and shoes at **Banerjee** as security personnel attempted to shield him from the crowd chanting \"chor chor\" (thief thief).",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62784,
+      "title": "West Bengal Cabinet expansion on June 1 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-expansion-on-june-1/article71042329.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/z7rsqj/article71042490.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000232A.jpg",
+      "scraped_at": "2026-05-30 17:18:14.296598",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Suvendu Adhikari**, the West Bengal Chief Minister, is expected to expand his Cabinet on June 1st and allocate key portfolios to senior **BJP** leaders. The first **BJP** Cabinet in the state will likely have over 30 members, with names announced after approval from the party's central leadership.  The selection criteria for the new ministers will consider seniority, regional representation, and experience, aiming to ensure inclusion of Scheduled Castes, Scheduled Tribes, women, and representatives from northern and south western Bengal. The Cabinet expansion follows **Adhikari**'s recent swearing-in as a Minister and his oversight of 42 state departments.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62782,
+      "title": "Defence Minister inaugurates ‘Nausena Shaurya Vatika’ in Lucknow - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/indian-navy-confined-entire-pakistan-navy-to-its-ports-during-operation-sindoor-defence-minister-rajnath-singh/article71040901.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/480z10/article71040906.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000342A.jpg",
+      "scraped_at": "2026-05-30 17:17:28.732302",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Navy",
+      "rephrased_article": "**Rajnath Singh**, **Yogi Adityanath**, and others jointly inaugurated the ‘Nausena Shaurya Vatika’, an open-air naval museum in Lucknow, Uttar Pradesh.  The museum is a second phase of the Nausena Shaurya Sangrahalaya, showcasing the Indian Navy's history and valor. **Singh** praised the Navy's role in Operation Sindoor, highlighting its pressure on Pakistan during the operation. He also commended the progress of Uttar Pradesh under **Adityanath**, attributing it to strong law and order and a shift from \"goonda raj\" to a focus on development and investment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62774,
+      "title": "NEET paper leak: Court extends Hawaldar's CBI custody by two days; remands Mandhare to judicial custody - The Hindu",
+      "url": "https://www.thehindu.com/news/national/neet-paper-leak-court-extends-hawaldars-cbi-custody-by-two-days-remands-mandhare-to-judicial-custody/article71042296.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ynxiah/article71042532.ece/alternates/LANDSCAPE_1200/20260530157L.jpg",
+      "scraped_at": "2026-05-30 17:14:29.339224",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "CBI",
+      "rephrased_article": "**The CBI** extended the custody of accused **Manisha Sanjay Hawaldar** by two more days and remanded another accused, **Manisha Mandhare**, to judicial custody in the alleged NEET-UG 2026 paper leak case.  Special Judge Ajay Gupta heard arguments from both sides before making his decision. The court also issued notice to the CBI on the bail application filed by another accused, **Manisha Waghmare**. The case is part of a wider investigation into alleged irregularities in the NEET-UG examination and a paper leak network.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Pune",
+        "Jaipur",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
     {
       "id": 62747,
       "title": "‘Super corruption government’ is coming to exist: Chalavadi Narayanaswamy - The Hindu",
@@ -5690,114 +5803,6 @@
         "Mumbai"
       ],
       "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59166,
-      "title": "West Bengal government mandates singing Vande Mataram in all State-run schools during morning assembly - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-directs-schools-to-mandatorily-include-singing-of-vande-mataram-in-morning-assemblies/article70977313.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/opinion/editorial/r055a0/article29789711.ece/alternates/LANDSCAPE_1200/TH25-PARLEY-PRAYER1",
-      "scraped_at": "2026-05-14 23:30:54.551636",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Trinamool Congress government",
-      "rephrased_article": "**Suvendu Adhikari**, West Bengal Chief Minister, issued an order mandating the singing of **Vande Mataram** in all state-run schools during school assembly prayers. This order overrides a previous directive requiring schools to sing the state song, **Banglar Mati, Banglar Jol**. The move comes amidst political tensions surrounding the national song's recognition and follows a BJP campaign highlighting alleged neglect by the Trinamool Congress government.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 59158,
-      "title": "Efforts on to release Kuki, Naga people held hostage in Manipur, say Ministers - The Hindu",
-      "url": "https://www.thehindu.com/news/national/manipur/manipur-home-minister-on-manipur-violence/article70978148.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/57k1vx/article70978248.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000207B.jpg",
-      "scraped_at": "2026-05-14 22:20:39.167558",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Kuki, Naga people",
-      "rephrased_article": "Following the killings of four church leaders in separate ambushes, **Govindas Konthoujam**, **Losii Dikho** and other officials confirmed that at least 38 people from the Kuki and Naga communities are being held hostage by various groups.  The attacks occurred in the Kuki-dominated Kangpokpi district and the Naga-majority Noney district. The Deputy Chief Minister stated that talks were ongoing with both Kuki and Naga groups, but no resolution was reached. **Angomcha Bimol Akoijam**, a Manipur Congress MP, criticized the government's handling of the situation.  The United Naga Council (UNC) issued an ultimatum to the state government demanding the release of 20 hostages held by Kuki groups.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Manipur"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "health",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59140,
-      "title": "U.S. to drop graft charges against Gautam Adani: NY Times - The Hindu",
-      "url": "https://www.thehindu.com/business/Industry/us-authorities-move-to-resolve-fraud-cases-against-gautam-adani-says-report/article70980105.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/px8v5i/article70980117.ece/alternates/LANDSCAPE_1200/20260501131L_iCCmw2g.jpg",
-      "scraped_at": "2026-05-14 22:16:22.868611",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Gautam Adani",
-      "rephrased_article": "**U.S.** prosecutors are dropping charges against **Gautam Adani**, the chairman of the **Adani Group**, who was accused of bribing Indian officials for solar energy contracts.  The move, brought under the **Biden** administration, followed a meeting between **Adani’s** lawyers and prosecutors at the Department of Justice where **Giuffra**, one of **President Donald Trump's** personal lawyers, presented proposals for an investment in the American economy.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 59133,
-      "title": "Sri Lanka’s Fisheries Minister urges CM Vijay to ban bottom trawling - The Hindu",
-      "url": "https://www.thehindu.com/news/international/sri-lankas-fisheries-minister-urges-cm-vijay-to-ban-bottom-trawling/article70979174.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/otjbii/article70980299.ece/alternates/LANDSCAPE_1200/IMG_Ramalingam_Chandrase_2_1_AODN89BL.jpg",
-      "scraped_at": "2026-05-14 21:01:21.073696",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu",
-      "rephrased_article": "**Sri Lanka’s** Fisheries Minister Ramalingam Chandrasekar urged **Tamil Nadu Chief Minister C. Joseph Vijay** to ban bottom trawling fishing, a practice prohibited in Sri Lanka since 2017, as he believes it is the root cause of ongoing conflict between the two states.  Chandrasekar expressed hope for diplomatic resolution and a meeting with Vijay, congratulating him on his recent election win. He praised Vijay's letter to **External Affairs Minister S. Jaishankar** seeking intervention in the release of six Tamil Nadu fishermen arrested by the Sri Lankan Navy for fishing illegally in Sri Lankan waters. Chandrasekar stated that arrests are made because bottom trawling destroys marine resources and threatens livelihoods, emphasizing the need for a ban on this practice in Tamil Nadu to prevent future conflicts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
         "foreign_policy",
         "protest_opposition"
       ]

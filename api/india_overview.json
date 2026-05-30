@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:24.966485",
+  "generated_at": "2026-05-30 20:34:52.143489",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,17 +7,17 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 15591,
-    "articles_last_7_days": 1529,
-    "articles_last_30_days": 6343,
-    "civic_flags_last_30_days": 46,
-    "civic_flags_today": 3
+    "total_articles_classified": 15763,
+    "articles_last_7_days": 1526,
+    "articles_last_30_days": 6340,
+    "civic_flags_last_30_days": 48,
+    "civic_flags_today": 4
   },
   "civic_alert": {
-    "flagged_count_30d": 46,
-    "flagged_today": 3,
+    "flagged_count_30d": 48,
+    "flagged_today": 4,
     "top_flag_categories": {
-      "power_abuse": 34,
+      "power_abuse": 36,
       "scale_of_harm": 8,
       "institutional_failure": 3,
       "suppression": 1
@@ -25,38 +25,194 @@
   },
   "top_stories": [
     {
-      "id": 62747,
-      "title": "‘Super corruption government’ is coming to exist: Chalavadi Narayanaswamy - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/super-corruption-government-is-coming-to-exist-chalavadi-narayanaswamy/article71041618.ece",
+      "id": 62787,
+      "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
+      "url": "https://www.thehindu.com/news/national/fair-electoral-rolls-lead-to-fair-polls-cec/article71042152.ece",
       "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-30 14:22:16.066227",
+      "image_url": "https://th-i.thgim.com/public/incoming/utu797/article71030106.ece/alternates/LANDSCAPE_1200/Gyanesh_kumar_07.JPG",
+      "scraped_at": "2026-05-30 17:19:33.524972",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**Chief Election Commissioner (CEC) Gyanesh Kumar** stated that fair electoral rolls are essential for fair elections, highlighting India's current state in this regard. **Kumar** praised the role of Booth Level Officers and Booth Level Agents in electoral roll management during his inaugural speech at the second National Conference of Counsels representing the **Election Commission of India**. He also congratulated electors from Assam, Kerala, Puducherry, Tamil Nadu, and West Bengal for their historic participation in recent Assembly elections.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 62786,
+      "title": "Mob attacks Trinamool leader Abhishek Banerjee; Mamata blames it on BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/tmc-abhishek-banerjee-manhandled-eggs-stones-thrown-bengal-post-poll-violence-visit/article71041375.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1e0w9p/article71041551.ece/alternates/LANDSCAPE_1200/20260530251L.jpg",
+      "scraped_at": "2026-05-30 17:19:07.366087",
       "category": "politics",
       "sentiment": "negative",
       "sentiment_target": "BJP",
-      "rephrased_article": "**Chalavadi Narayanaswamy**, leader of the Opposition in the Legislative Council, criticized the **BJP** for its handling of the dissolved government, alleging that corruption persists despite the change. He stated that officers continue to engage in corrupt practices and development projects remain stalled, emphasizing the need for systemic changes rather than superficial leadership shifts.  Narayanaswamy also accused the Congress of neglecting Dalits and failing to nominate a Dalit as Chief Minister.",
+      "rephrased_article": "**Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was attacked by a mob in Sonarpur, West Bengal on Saturday. The attack occurred during his visit to the residence of a party worker allegedly killed in post-poll violence.  The mob threw eggs and shoes at **Banerjee** as security personnel attempted to shield him from the crowd chanting \"chor chor\" (thief thief).",
       "party_mentioned": [
         "BJP",
-        "Congress"
+        "Congress",
+        "Trinamool"
       ],
+      "ministers_mentioned": [
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62784,
+      "title": "West Bengal Cabinet expansion on June 1 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-expansion-on-june-1/article71042329.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/z7rsqj/article71042490.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000232A.jpg",
+      "scraped_at": "2026-05-30 17:18:14.296598",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Suvendu Adhikari**, the West Bengal Chief Minister, is expected to expand his Cabinet on June 1st and allocate key portfolios to senior **BJP** leaders. The first **BJP** Cabinet in the state will likely have over 30 members, with names announced after approval from the party's central leadership.  The selection criteria for the new ministers will consider seniority, regional representation, and experience, aiming to ensure inclusion of Scheduled Castes, Scheduled Tribes, women, and representatives from northern and south western Bengal. The Cabinet expansion follows **Adhikari**'s recent swearing-in as a Minister and his oversight of 42 state departments.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62783,
+      "title": "Senior Sri Lankan monk suspended over child sex abuse allegation | Crime News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260509__B2BV2NQ__v1__HighRes__FilesSriLankaBuddhismChildrenArrest-1778323721.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-30 17:17:50.395898",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Pallegama Hemarathana",
+      "rephrased_article": "**Pallegama Hemarathana**, a senior Sri Lankan monk, has been suspended from his duties after being accused of sexually abusing an 11-year-old girl in 2022. The **Council of Monks of the Malwatte Chapter** took this rare disciplinary action following police arrest on May 9th. Hemarathana was detained at a private hospital in Colombo while awaiting legal proceedings.  The temple, where the alleged abuse occurred, draws thousands of visitors daily and is considered sacred to Buddhists.",
+      "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62782,
+      "title": "Defence Minister inaugurates ‘Nausena Shaurya Vatika’ in Lucknow - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/indian-navy-confined-entire-pakistan-navy-to-its-ports-during-operation-sindoor-defence-minister-rajnath-singh/article71040901.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/480z10/article71040906.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000342A.jpg",
+      "scraped_at": "2026-05-30 17:17:28.732302",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Navy",
+      "rephrased_article": "**Rajnath Singh**, **Yogi Adityanath**, and others jointly inaugurated the ‘Nausena Shaurya Vatika’, an open-air naval museum in Lucknow, Uttar Pradesh.  The museum is a second phase of the Nausena Shaurya Sangrahalaya, showcasing the Indian Navy's history and valor. **Singh** praised the Navy's role in Operation Sindoor, highlighting its pressure on Pakistan during the operation. He also commended the progress of Uttar Pradesh under **Adityanath**, attributing it to strong law and order and a shift from \"goonda raj\" to a focus on development and investment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62780,
+      "title": "‘Opposite visions’: What to know about Colombia’s presidential election | Elections News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a1737cdf06a-1779906510.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-30 17:16:47.389678",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Colombia's presidential election",
+      "rephrased_article": "The upcoming presidential election in Colombia is shaping up to be a contest between two opposing visions for the country's future. **Senator Ivan Cepeda**, leading the left-wing candidates, has emerged as the frontrunner, promising continuity with President Gustavo Petro’s policies while advocating for a \"Total Peace\" approach to resolving the country's internal conflict.  The right wing is facing a fractured field of candidates, including Abelardo de la Espriella and Paloma Valencia, who offer contrasting approaches to security and economic issues. De la Espriella advocates for a hardline security model, while Valencia proposes a more moderate approach with increased police presence and pro-business policies. The election will be crucial as it marks the first time Colombia has held a presidential election since its first leftist president took office.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "economy",
         "corruption_scam"
       ]
     },
     {
-      "id": 62744,
-      "title": "Europe airport chaos: UK travellers asked to arrive 3 hours early as border checks cause delays - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/uk/europe-airport-chaos-uk-travellers-asked-to-arrive-3-hours-early-as-border-checks-cause-delays/articleshow/131406555.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131406813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-30 14:21:19.598775",
+      "id": 62779,
+      "title": "D.K. Shivakumar meets Governor Gehlot, stakes claim to form new govt in Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-elected-leader-of-congress-legislative-party-in-karnataka/article71041528.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/oyz4d3/article71041898.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-30%20at%207.09.57%20PM.jpeg",
+      "scraped_at": "2026-05-30 17:16:25.430380",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**D.K. Shivakumar**, the newly elected leader of the **Karnataka Pradesh Congress Committee**, will be sworn in as Chief Minister on Wednesday, June 3rd at Lok Bhavan. The event is expected to be attended by the central leadership of the party and Governor Thaawarchand Gehlot has invited him to take the oath at 4:05 p.m.  The power transition was overseen by **Mallikarjun Kharge**, **Rahul Gandhi**, and **Sonia Gandhi**.  With Cabinet formation still under discussion, speculation remains about whether a full Cabinet will be sworn in and if there will be deputy Chief Ministers.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62778,
+      "title": "Romania: Residents shaken after Russian drone strike",
+      "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/38ea/live/569278c0-5c43-11f1-b682-cf91850925ea.jpg",
+      "scraped_at": "2026-05-30 17:16:05.176561",
       "category": "international",
       "sentiment": "negative",
-      "sentiment_target": "European Union",
-      "rephrased_article": "**Passengers** travelling between the UK and several European destinations are facing delays due to the **European Union's Entry Exit System (EES)**, a new border management scheme requiring biometric data from non-EU travellers.  The system, which has recorded nearly 80 million entries and exits, is causing significant congestion at airports, particularly in Spain, Portugal, and France. **Airlines**, including **Wizz Air**, are advising passengers to arrive at least three hours before departure, while **Airports Council International (ACI Europe)** has called for improvements to border staffing levels and technical systems. Despite the challenges, the **European Commission** maintains that the system is largely functioning as intended.",
+      "sentiment_target": "Russia",
+      "rephrased_article": "A Russian drone strike injured two people in a building near the Romanian-Ukrainian border, prompting fear among residents. **Romanian President Nicușor Dan** stated that the drone was likely intercepted by Ukrainian air defenses over Kyiv's territory, while **Moscow** disputed this claim.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
@@ -66,200 +222,82 @@
       ]
     },
     {
-      "id": 62743,
-      "title": "WHO chief visits epicentre of Ebola outbreak in DR Congo - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/3017481635b35e7.webp",
-      "scraped_at": "2026-05-30 14:21:01.029215",
+      "id": 62776,
+      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo | Ebola News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-30T141742Z_392713542_RC2NJLAAEV9W_RTRMADP_3_HEALTH-EBOLA-WHO-1780155069.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-05-30 17:15:24.296295",
       "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "World Health Organization",
-      "rephrased_article": "**Tedros Adhanom Ghebreyesus**, **World Health Organization’s** director general, visited the eastern Democratic Republic of Congo (DRC) to assess the Ebola outbreak response. The highly contagious haemorrhagic fever has already spread to three provinces in DRC and neighboring Uganda, with at least 1,077 suspected cases reported.  The WHO is working with the **DRC government** to address challenges and ensure community ownership of the response.  While a patient recovered from the outbreak on Wednesday, marking the first case discharged after two negative tests, medical experts are still insufficiently deployed to the region. The outbreak is occurring in an unstable area with limited laboratory capacity and ongoing conflict, raising concerns about its spread within displacement camps.",
+      "sentiment": "negative",
+      "sentiment_target": "Ebola outbreak",
+      "rephrased_article": "**WHO** director-general Tedros Adhanom Ghebreyesus visited the epicenter of a deadly Ebola outbreak in eastern Democratic Republic of Congo (DRC), urging community involvement in combating the disease. Confirmed cases nearly doubled in two days, reaching 225 on Friday, and the outbreak is spreading rapidly through conflict-hit regions. The **Africa CDC** reports global funding for the response has significantly decreased, while **Doctors Without Borders** warns that the response has not kept pace with the outbreak's severity.  The WHO is working to assess experimental drugs and a candidate vaccine, and regional countries are on alert, closing borders with DRC.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "crime_violence",
         "health",
         "foreign_policy"
       ]
     },
     {
-      "id": 62742,
-      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire | Gaza News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2024/04/AP24115662419651-1714021031.jpg?resize=1200%2C675",
-      "scraped_at": "2026-05-30 14:20:38.294979",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Israel",
-      "rephrased_article": "**Egypt** has launched an urgent diplomatic intervention to salvage a fragile Gaza ceasefire agreement that is on the brink of collapse. **Israel**'s recent military attacks and statements threatening to unravel months of diplomacy have pushed the deal to the edge.  The Egyptian government warned **Israel** against expanding its occupation in Gaza, while also inviting a senior Hamas delegation led by chief negotiator Khalil al-Hayya for urgent talks. The diplomatic moves come amid a surge in deadly air strikes that have killed at least 141 Palestinians in the last two weeks and an Israeli directive to expand control from 53% to 70%.  **Egypt** is coordinating with mediators in Qatar, Turkey, and the US to return the process to a negotiating track.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62739,
-      "title": "UK urges Hajj pilgrims to leave Saudi Arabia before visa expiry, warns overstaying can lead to heavy fines | World News - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/uk/uk-urges-hajj-pilgrims-to-leave-saudi-arabia-before-visa-expiry-warns-overstaying-can-lead-to-heavy-fines/articleshow/131406243.cms",
+      "id": 62775,
+      "title": "Is Melania Trump an 'alien'? Indian-origin attorney says White House's immigrant-bashing crosses line - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/is-melania-trump-an-alien-indian-origin-attorney-says-white-houses-immigrant-bashing-crosses-line/articleshow/131412130.cms",
       "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131406294,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-30 14:19:39.487315",
+      "image_url": "https://static.toiimg.com/thumb/msid-131412152,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-30 17:15:03.586885",
       "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "UK Government",
-      "rephrased_article": "**TOI World Desk**, a team of seasoned journalists, provides global news and diverse perspectives to its readers. The organization is committed to accuracy, depth, and timeliness in delivering international affairs information.  **TOI World Desk** does not sell or share personal information for advertising purposes.",
+      "sentiment": "negative",
+      "sentiment_target": "White House",
+      "rephrased_article": "**Rahul Reddy**, an Indian-origin immigration attorney, criticized the use of the word \"alien\" by **the White House**, arguing that it is dehumanizing and fuels negative perceptions.  He pointed out that while the term is legal in immigration law, its usage by the White House creates a narrative that paints lawful immigrants as outsiders. Reddy questioned if **Melania Trump**, who was born in Slovenia, is also an alien, highlighting the hypocrisy of using such language when the President's own family has a history of immigration.",
       "party_mentioned": [],
-      "ministers_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 62738,
-      "title": "KP CM Afridi urges GB chief justice to ensure transparency amid 'alarming' electoral environment - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/30170028c59b3e0.webp",
-      "scraped_at": "2026-05-30 14:19:21.135411",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Gilgit-Baltistan elections",
-      "rephrased_article": "**Khyber Pakhtunkhwa Chief Minister Sohail Afridi** urged the **Chief Justice of the Supreme Appellate Court of Gilgit-Baltistan** to intervene in upcoming elections due to reported incidents of harassment and restrictions on political activities.  Afridi cited the expulsion of PTI MNA Junaid Akbar and his team, as well as the alleged prevention of **Asad Qaiser**, a senior PTI leader, from reaching Islamabad airport, all during the campaign period. The CM emphasized constitutional guarantees for free and fair elections and called for swift action against any violations to ensure credible and transparent elections in Gilgit-Baltistan.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62737,
-      "title": "The Iran war is dividing Muslims in the Philippines | US-Israel war on Iran | Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP23328306552026-1780141553.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-30 14:19:02.369625",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Iran",
-      "rephrased_article": "The US-Israeli war on Iran and the closure of the Strait of Hormuz have had a significant impact on Muslim communities in the Philippines, particularly in the Bangsamoro Autonomous Region.  **Islamic scholars** are divided over the conflict, with some supporting Iran's retaliation against the United States and others opposing it due to its Shia nature. This division has deepened existing tensions between scholars and fueled polarizing narratives about Palestine and the Israeli-Palestinian conflict. The entanglement of politics and religion in this context is further complicated by external influences from Arab countries and a lack of unity among Muslim communities.  This situation poses challenges for community cohesion, critical thinking, and the pursuit of self-determination.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62736,
-      "title": "Sajid Javid says backing Liz Truss to lead Tories was his ‘biggest political mistake’ | Sajid Javid | The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/30/sajid-javid-says-backing-liz-truss-to-lead-tories-was-his-biggest-political-mistake",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/c7e74f1c1a6da62abcba8761e4bd1bd607caa370/491_0_4910_3928/master/4910.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=545f5eaa64c2bb5082820fcc9364c14b",
-      "scraped_at": "2026-05-30 14:18:44.064678",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Liz Truss",
-      "rephrased_article": "**Sajid Javid**, former chancellor, admitted his support for **Liz Truss** in the 2022 Conservative leadership contest was a \"biggest mistake\" in his political career. He stated that he no longer speaks with **Truss** and believes the quality of British politics has declined. He also argued for increased MP pay to attract high-caliber individuals, suggesting halving the number of MPs and doubling their salaries. Javid served as home secretary, chancellor, and health secretary under various prime ministers before resigning in 2022.  He is now a partner at Centricus, a private equity firm, and chair of the Holocaust Memorial Day Trust.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62735,
-      "title": "Jupiter Wagons Q4 Results: Cons PAT tumbles 72% to Rs 29 crore, revenue falls 25% YoY - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jupiter-wagons-q4-results-cons-pat-tumbles-72-to-rs-29-crore-revenue-falls-25-yoy/articleshow/131409045.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131409035,width-1200,height-630,imgsize-11396,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-30 14:18:25.434359",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Jupiter Wagons",
-      "rephrased_article": "**Jupiter Wagons'** revenue from operations declined 25% year-over-year to Rs 780 crore in the latest quarter, while EBITDA dropped by 46% to Rs 83 crore. The company's expenses also decreased by 20%, but its profit after tax fell significantly to Rs 166 crore, down from Rs 380 crore in the previous year. **Jefferies** initiated coverage on Jupiter Wagons with an 'Underperform' rating and a target price of Rs 200, citing concerns about growth moderation due to dependence on the freight wagon segment.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 62733,
-      "title": "Meet ICE agent Christian Castro, arrested in Texas for shooting at a Venezuelan in Minneapolis and lying about it - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-ice-agent-christian-castro-arrested-in-texas-for-shooting-a-venezuelan-in-minneapolis-and-lying-about-it/articleshow/131409331.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131409344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-30 14:17:42.326273",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Christian Castro",
-      "rephrased_article": "**ICE agent Christian Castro** has been arrested for shooting Julio Cesar Sosa-Celis, a Venezuelan migrant, during an incident in Minneapolis on January 14th. **Castro** initially claimed self-defense after a confrontation with Alfredo Aljorna, but surveillance footage contradicted his account.  The charges against both **Aljorna** and Sosa-Celis were dropped, and **ICE** officials are not supporting the state charges against **Castro**. The case is currently being handled at the federal level, with potential extradition proceedings to be determined by the states of Texas and Minnesota.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "crime_violence"
       ]
     }
   ],
   "category_breakdown_30d": {
-    "other": 166,
-    "international": 598,
-    "sports": 40,
-    "environment": 57,
-    "crime": 122,
-    "politics": 188,
+    "international": 602,
+    "crime": 121,
+    "politics": 190,
+    "environment": 58,
     "economy": 184,
     "health": 42,
-    "regional": 95,
-    "education": 37
+    "regional": 93,
+    "education": 37,
+    "sports": 37,
+    "other": 162
   },
   "top_ministers_30d": {
-    "Narendra Modi": 219,
+    "Narendra Modi": 218,
     "Amit Shah": 116,
     "C. Joseph Vijay": 101,
-    "Rahul Gandhi": 80,
-    "Mamata Banerjee": 63,
+    "Rahul Gandhi": 81,
+    "Mamata Banerjee": 64,
     "M.K. Stalin": 50,
     "S. Jaishankar": 35,
-    "Dharmendra Pradhan": 31,
-    "Mallikarjun Kharge": 31,
-    "Siddaramaiah": 30,
+    "Mallikarjun Kharge": 32,
+    "Siddaramaiah": 31,
+    "Dharmendra Pradhan": 30,
     "V.D. Satheesan": 29,
     "Chandrababu Naidu": 29,
     "Pinarayi Vijayan": 28,
-    "Revanth Reddy": 23,
+    "Revanth Reddy": 24,
     "JP Nadda": 23,
-    "Yogi Adityanath": 16,
+    "Yogi Adityanath": 17,
     "Omar Abdullah": 15,
     "Devendra Fadnavis": 13,
     "Nitish Kumar": 13,
-    "Rajnath Singh": 10,
+    "Rajnath Singh": 11,
+    "Hemant Soren": 9,
     "Akhilesh Yadav": 9,
-    "Hemant Soren": 8,
     "Eknath Shinde": 8,
     "Nirmala Sitharaman": 7,
     "Mohan Yadav": 6,
@@ -270,28 +308,28 @@
     "Ashwini Vaishnaw": 5,
     "Piyush Goyal": 4,
     "Mehbooba Mufti": 4,
+    "Sonia Gandhi": 4,
     "Nitin Gadkari": 4,
     "Uddhav Thackeray": 3,
     "Tejashwi Yadav": 3,
-    "Sonia Gandhi": 3,
     "Didi": 3,
     "PM Modi": 2,
     "Sukhvinder Singh Sukhu": 2,
     "Mayawati": 2,
-    "Kiren Rijiju": 2,
     "Hardeep Singh Puri": 2,
     "Bhajanlal Sharma": 1,
     "Bhupesh Baghel": 1,
+    "Kiren Rijiju": 1,
     "Asaduddin Owaisi": 1,
     "Smriti Irani": 1
   },
   "top_parties_30d": {
-    "Congress": 533,
+    "Congress": 532,
     "BJP": 522,
-    "INC": 375,
+    "INC": 377,
     "DMK": 159,
-    "TMC": 104,
-    "Trinamool": 83,
+    "TMC": 105,
+    "Trinamool": 85,
     "CPI": 78,
     "AIADMK": 71,
     "CPM": 50,
@@ -300,15 +338,15 @@
     "TDP": 37,
     "NDA": 34,
     "AAP": 29,
-    "National Conference": 26,
+    "National Conference": 27,
     "JDU": 13,
-    "JMM": 10,
+    "JMM": 11,
     "Samajwadi Party": 10,
     "NCP": 10,
     "Shiv Sena": 10,
-    "Janata Dal": 9,
     "Telugu Desam": 9,
     "PDP": 8,
+    "Janata Dal": 8,
     "UPA": 5,
     "BSP": 4,
     "RJD": 4,
@@ -319,38 +357,36 @@
     "AIMIM": 2,
     "Akali Dal": 2,
     "Jharkhand Mukti Morcha": 2,
-    "Owaisi": 1,
-    "Biju Janata Dal": 1,
-    "BJD": 1
+    "Owaisi": 1
   },
   "top_states_30d": {
-    "Tamil Nadu": 272,
-    "Delhi": 255,
-    "Kerala": 252,
+    "Tamil Nadu": 273,
+    "Delhi": 256,
+    "Kerala": 254,
     "Gujarat": 237,
-    "Karnataka": 186,
-    "West Bengal": 164,
+    "Karnataka": 185,
+    "West Bengal": 168,
     "Punjab": 142,
-    "Telangana": 111,
+    "Telangana": 113,
     "Andhra Pradesh": 97,
     "Kashmir": 93,
-    "Uttar Pradesh": 80,
-    "Maharashtra": 80,
-    "Assam": 72,
-    "Odisha": 64,
+    "Uttar Pradesh": 81,
+    "Maharashtra": 81,
+    "Assam": 74,
+    "Odisha": 62,
     "Bihar": 53,
-    "Rajasthan": 50,
+    "Rajasthan": 51,
     "Madhya Pradesh": 44,
     "Jammu": 39,
-    "Puducherry": 38,
+    "Puducherry": 39,
     "Himachal Pradesh": 35,
     "Haryana": 31,
     "Jammu and Kashmir": 25,
-    "Jharkhand": 19,
-    "Manipur": 19,
-    "Chhattisgarh": 16,
+    "Jharkhand": 20,
+    "Manipur": 20,
     "Goa": 16,
     "Uttarakhand": 15,
+    "Chhattisgarh": 15,
     "Andaman": 15,
     "Chandigarh": 15,
     "Tripura": 14,
@@ -360,14 +396,14 @@
     "Sikkim": 9,
     "Lakshadweep": 8,
     "Mizoram": 7,
-    "Arunachal Pradesh": 7,
-    "Nagaland": 6,
+    "Nagaland": 7,
+    "Arunachal Pradesh": 6,
     "UP": 1
   },
   "promise_summary": {
     "total": 20,
     "kept": 2,
-    "broken": 9,
-    "ongoing": 9
+    "broken": 11,
+    "ongoing": 7
   }
 }

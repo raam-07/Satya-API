@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:25.168084",
+  "generated_at": "2026-05-30 20:34:52.358139",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,17 +8,17 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 547,
-    "articles_last_30d": 255
+    "total_articles": 553,
+    "articles_last_30d": 256
   },
   "top_cities_30d": {
-    "Delhi": 252,
+    "Delhi": 253,
     "Mumbai": 22,
     "Kolkata": 19,
     "Chennai": 17,
     "Hyderabad": 16,
     "Bengaluru": 15,
-    "Jaipur": 10,
+    "Jaipur": 11,
     "Agra": 10,
     "Bhopal": 6,
     "Ahmedabad": 6
@@ -26,8 +26,8 @@
   "top_topics_30d": {
     "foreign_policy": 229,
     "protest_opposition": 84,
-    "crime_violence": 69,
-    "education": 69,
+    "crime_violence": 70,
+    "education": 70,
     "economy": 67,
     "infrastructure": 58,
     "corruption_scam": 29,
@@ -36,6 +36,36 @@
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 62774,
+      "title": "NEET paper leak: Court extends Hawaldar's CBI custody by two days; remands Mandhare to judicial custody - The Hindu",
+      "url": "https://www.thehindu.com/news/national/neet-paper-leak-court-extends-hawaldars-cbi-custody-by-two-days-remands-mandhare-to-judicial-custody/article71042296.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ynxiah/article71042532.ece/alternates/LANDSCAPE_1200/20260530157L.jpg",
+      "scraped_at": "2026-05-30 17:14:29.339224",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "CBI",
+      "rephrased_article": "**The CBI** extended the custody of accused **Manisha Sanjay Hawaldar** by two more days and remanded another accused, **Manisha Mandhare**, to judicial custody in the alleged NEET-UG 2026 paper leak case.  Special Judge Ajay Gupta heard arguments from both sides before making his decision. The court also issued notice to the CBI on the bail application filed by another accused, **Manisha Waghmare**. The case is part of a wider investigation into alleged irregularities in the NEET-UG examination and a paper leak network.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Pune",
+        "Jaipur",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
     {
       "id": 62732,
       "title": "'US, Pakistan developing true friendship': Hegseth hails Islamabad's role in US-Iran negotiations - World - DAWN.COM",
@@ -5629,36 +5659,6 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 57457,
-      "title": "Faced harassment from a group of men onboard Delhi-bound flight, alleges MP Mahua Moitra - The Hindu",
-      "url": "https://www.thehindu.com/news/national/faced-harassment-from-a-group-of-men-onboard-delhi-bound-flight-alleges-mp-mahua-moitra/article70952604.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/p6njy5/article70952875.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000231B.jpg",
-      "scraped_at": "2026-05-07 23:33:47.757569",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "IndiGo",
-      "rephrased_article": "**Mahua Moitra**, a Trinamool Congress MP, alleged she was harassed by a group of men on an **IndiGo** flight to Delhi.  She shared video evidence of the incident and tagged **Civil Aviation Minister Ram Mohan Naidu Kinjarapu** and **IndiGo** requesting action against those involved.  Moitra stated that she ignored the incident but later saw the video going viral and decided to publicly denounce it, adding she would file a formal complaint with the airline.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

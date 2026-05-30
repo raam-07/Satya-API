@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:25.067993",
+  "generated_at": "2026-05-30 20:34:52.255883",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,64 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 655,
+    "total_articles": 665,
     "articles_last_30d": 237
   },
   "top_cities_30d": {
-    "Delhi": 48,
+    "Delhi": 49,
     "Hyderabad": 17,
     "Bengaluru": 16,
     "Mumbai": 14,
     "Kolkata": 13,
     "Ahmedabad": 9,
     "Patna": 7,
+    "Jaipur": 6,
     "Chennai": 6,
-    "Jaipur": 5,
     "Agra": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 215,
+    "foreign_policy": 214,
     "infrastructure": 75,
     "economy": 72,
-    "protest_opposition": 64,
-    "education": 52,
-    "crime_violence": 44,
+    "protest_opposition": 63,
+    "education": 53,
+    "crime_violence": 45,
     "farmer_agriculture": 29,
     "health": 18,
     "corruption_scam": 17,
     "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 62774,
+      "title": "NEET paper leak: Court extends Hawaldar's CBI custody by two days; remands Mandhare to judicial custody - The Hindu",
+      "url": "https://www.thehindu.com/news/national/neet-paper-leak-court-extends-hawaldars-cbi-custody-by-two-days-remands-mandhare-to-judicial-custody/article71042296.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ynxiah/article71042532.ece/alternates/LANDSCAPE_1200/20260530157L.jpg",
+      "scraped_at": "2026-05-30 17:14:29.339224",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "CBI",
+      "rephrased_article": "**The CBI** extended the custody of accused **Manisha Sanjay Hawaldar** by two more days and remanded another accused, **Manisha Mandhare**, to judicial custody in the alleged NEET-UG 2026 paper leak case.  Special Judge Ajay Gupta heard arguments from both sides before making his decision. The court also issued notice to the CBI on the bail application filed by another accused, **Manisha Waghmare**. The case is part of a wider investigation into alleged irregularities in the NEET-UG examination and a paper leak network.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Pune",
+        "Jaipur",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
     {
       "id": 62713,
       "title": "F&O Talk: Nifty may stay range-bound; Sudeep Shah sees opportunities in banks, IT, picks 7 stocks - The Economic Times",
@@ -5506,33 +5536,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 57054,
-      "title": "India, Vietnam elevate ties to enhanced comprehensive strategic partnership; set $25 billion trade target - The Hindu",
-      "url": "https://www.thehindu.com/news/national/india-vietnam-elevate-ties-to-enhanced-comprehensive-strategic-partnership-set-25-billion-trade-target/article70946765.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/a7h1hp/article70946771.ece/alternates/LANDSCAPE_1200/20260506144L.jpg",
-      "scraped_at": "2026-05-06 11:33:18.864900",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "India",
-      "rephrased_article": "**Prime Minister Narendra Modi** and **Vietnamese President To Lam** elevated their bilateral ties to an enhanced comprehensive strategic partnership, setting a $25 billion annual trade target by 2030. The two leaders signed 13 agreements covering areas such as digital payments, rare earth minerals, pharmaceuticals, education, banking, and culture.  They also discussed the Indo-Pacific region amid China's growing assertiveness in the South China Sea, agreeing to continue contributing to peace, stability, and prosperity. **Modi** highlighted India's gratitude for Vietnam's condemnation of the Pahalgam terrorist attack and its support in combating terrorism.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "health",
-        "education",
-        "farmer_agriculture"
       ]
     }
   ]

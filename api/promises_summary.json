@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-30 17:59:25.451383",
+  "generated_at": "2026-05-30 20:34:52.661396",
   "stats": {
     "total_promises": 20,
     "kept": 2,
-    "broken": 9,
-    "ongoing": 9
+    "broken": 11,
+    "ongoing": 7
   },
   "by_status": {
     "broken": [
@@ -31,7 +31,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
+        "gemma_reasoning": "The deadline of 2022 has passed and evidence suggests the promise was not kept."
       },
       {
         "id": "p002",
@@ -55,8 +55,8 @@
             "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The evidence shows ongoing debate about the promise, not confirmation of completion."
       },
       {
         "id": "p003",
@@ -81,7 +81,32 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is not mentioned in the provided articles."
+        "gemma_reasoning": "The promise was not kept as no evidence suggests Rs 15 lakh was deposited in every Indian's account."
+      },
+      {
+        "id": "p004",
+        "person": "Narendra Modi",
+        "party": "BJP",
+        "promise": "Build 2 crore pucca houses for the poor by 2022 (PM Awas Yojana)",
+        "category": "infrastructure",
+        "status": "broken",
+        "made_on": "2015-06-25",
+        "deadline": "2022-12-31",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/305-cities-and-towns-identified-for-building-homes-under-housing-for-all-by-2022-mission/articleshow/48740523.cms",
+            "title": "305 cities and towns identified for building homes under 'Housing for All by 2022' mission",
+            "source": "Economic Times",
+            "scraped_at": "2015-08-31",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers the initial implementation phase of the Pradhan Mantri Awas Yojana, identifying 305 cities across nine states to kickstart the government's ambitious goal of constructing 2 crore affordable homes for the urban poor by 2022.",
+            "content": "Under the 'Housing for All by 2022' mission, the government has identified 305 cities and towns across nine states to start building houses for the urban poor. The housing ministry has also finalised reforms that need to be implemented by state governments to facilitate the construction of 2 crore houses."
+          }
+        ],
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The target deadline year of 2022 has passed."
       },
       {
         "id": "p005",
@@ -106,7 +131,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
+        "gemma_reasoning": "The target deadline of 2024-25 has passed and the promise was not met."
       },
       {
         "id": "p007",
@@ -130,8 +155,33 @@
             "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
           }
         ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The evidence shows the scheme is in operation and being defended."
+      },
+      {
+        "id": "p008",
+        "person": "Narendra Modi",
+        "party": "BJP",
+        "promise": "Har ghar nal se jal — piped water to every household by 2024",
+        "category": "infrastructure",
+        "status": "broken",
+        "made_on": "2019-08-15",
+        "deadline": "2024-12-31",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/centres-potable-water-mission-may-miss-2024-target/article67029584.ece",
+            "title": "Centre's potable water mission may miss 2024 target",
+            "source": "The Hindu",
+            "scraped_at": "2023-07-02",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports that the Union government's Jal Jeevan Mission, which aims to provide piped drinking water to every rural household by 2024, is likely to miss its target due to disruptions like the COVID-19 pandemic and materials shortages.",
+            "content": "The Union government’s ambitious initiative to provide tap water connections to all rural households by 2024 is likely to miss its target. The Union Jal Shakti Ministry reported that the COVID-19 pandemic, along with subsequent disruptions like the Russia-Ukraine war, has severely delayed the progress of the Jal Jeevan Mission."
+          }
+        ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
+        "gemma_reasoning": "The target deadline of 2024 has passed and the project is likely to miss its goal."
       },
       {
         "id": "p011",
@@ -155,8 +205,8 @@
             "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The government is defending demonetization in court, indicating ongoing efforts."
       },
       {
         "id": "p012",
@@ -180,8 +230,8 @@
             "content": "The ambitious Mumbai-Ahmedabad bullet train project, which was scheduled to be completed by December 2023, is likely to miss its deadline due to delays in land acquisition, especially in Maharashtra, and the COVID-19 pandemic."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The deadline of 2023 has passed and the project is facing delays."
       },
       {
         "id": "p016",
@@ -206,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
+        "gemma_reasoning": "The target deadline year of 2025 has passed."
       },
       {
         "id": "p017",
@@ -231,35 +281,10 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
+        "gemma_reasoning": "The article describes the announcement of the scheme, not its implementation."
       }
     ],
     "ongoing": [
-      {
-        "id": "p004",
-        "person": "Narendra Modi",
-        "party": "BJP",
-        "promise": "Build 2 crore pucca houses for the poor by 2022 (PM Awas Yojana)",
-        "category": "infrastructure",
-        "status": "ongoing",
-        "made_on": "2015-06-25",
-        "deadline": "2022-12-31",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/305-cities-and-towns-identified-for-building-homes-under-housing-for-all-by-2022-mission/articleshow/48740523.cms",
-            "title": "305 cities and towns identified for building homes under 'Housing for All by 2022' mission",
-            "source": "Economic Times",
-            "scraped_at": "2015-08-31",
-            "relevance_score": 100,
-            "gemma_validated": true,
-            "rephrased": "The article covers the initial implementation phase of the Pradhan Mantri Awas Yojana, identifying 305 cities across nine states to kickstart the government's ambitious goal of constructing 2 crore affordable homes for the urban poor by 2022.",
-            "content": "Under the 'Housing for All by 2022' mission, the government has identified 305 cities and towns across nine states to start building houses for the urban poor. The housing ministry has also finalised reforms that need to be implemented by state governments to facilitate the construction of 2 crore houses."
-          }
-        ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
-      },
       {
         "id": "p006",
         "person": "Narendra Modi",
@@ -284,31 +309,6 @@
         ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Ongoing investigations suggest corruption persists."
-      },
-      {
-        "id": "p008",
-        "person": "Narendra Modi",
-        "party": "BJP",
-        "promise": "Har ghar nal se jal — piped water to every household by 2024",
-        "category": "infrastructure",
-        "status": "ongoing",
-        "made_on": "2019-08-15",
-        "deadline": "2024-12-31",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://www.thehindu.com/news/national/centres-potable-water-mission-may-miss-2024-target/article67029584.ece",
-            "title": "Centre's potable water mission may miss 2024 target",
-            "source": "The Hindu",
-            "scraped_at": "2023-07-02",
-            "relevance_score": 100,
-            "gemma_validated": true,
-            "rephrased": "The article reports that the Union government's Jal Jeevan Mission, which aims to provide piped drinking water to every rural household by 2024, is likely to miss its target due to disruptions like the COVID-19 pandemic and materials shortages.",
-            "content": "The Union government’s ambitious initiative to provide tap water connections to all rural households by 2024 is likely to miss its target. The Union Jal Shakti Ministry reported that the COVID-19 pandemic, along with subsequent disruptions like the Russia-Ukraine war, has severely delayed the progress of the Jal Jeevan Mission."
-          }
-        ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
       {
         "id": "p009",
@@ -366,8 +366,8 @@
             "content": "A high-level committee on 'One Nation, One Election' headed by former President Ram Nath Kovind submitted its report to President Droupadi Murmu on Thursday, recommending a two-step approach to hold simultaneous elections for the Lok Sabha, State Legislative Assemblies and local bodies."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The committee has proposed a transition plan, but implementation is not complete."
       },
       {
         "id": "p013",
@@ -391,8 +391,8 @@
             "content": "Union Home Minister Amit Shah on Friday directed the Delhi Police to take strict action against networks facilitating the entry and stay of illegal Bangladeshi and Rohingya immigrants. Mr. Shah, who chaired a high-level meeting to review the law and order situation in Delhi, said that the presence of 'illegal intruders' is a matter of national security and directed that they should be identified and deported."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article reports ongoing efforts to identify and deport Rohingya immigrants."
       },
       {
         "id": "p018",
@@ -416,8 +416,8 @@
             "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article states ongoing work towards a zero-tolerance policy."
       },
       {
         "id": "p019",
@@ -493,7 +493,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
+        "gemma_reasoning": "Evidence shows ongoing work on school infrastructure upgrades."
       },
       {
         "id": "p015",
@@ -517,8 +517,8 @@
             "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article discusses ongoing work to resolve issues with the prepaid meter scheme."
       }
     ]
   },
@@ -547,7 +547,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
+        "gemma_reasoning": "The deadline of 2022 has passed and evidence suggests the promise was not kept."
       },
       {
         "id": "p002",
@@ -571,8 +571,8 @@
             "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The evidence shows ongoing debate about the promise, not confirmation of completion."
       },
       {
         "id": "p003",
@@ -597,7 +597,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is not mentioned in the provided articles."
+        "gemma_reasoning": "The promise was not kept as no evidence suggests Rs 15 lakh was deposited in every Indian's account."
       },
       {
         "id": "p004",
@@ -605,7 +605,7 @@
         "party": "BJP",
         "promise": "Build 2 crore pucca houses for the poor by 2022 (PM Awas Yojana)",
         "category": "infrastructure",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
         "evidence_count": 1,
@@ -622,7 +622,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
+        "gemma_reasoning": "The target deadline year of 2022 has passed."
       },
       {
         "id": "p005",
@@ -647,7 +647,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
+        "gemma_reasoning": "The target deadline of 2024-25 has passed and the promise was not met."
       },
       {
         "id": "p006",
@@ -696,8 +696,8 @@
             "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The evidence shows the scheme is in operation and being defended."
       },
       {
         "id": "p008",
@@ -705,7 +705,7 @@
         "party": "BJP",
         "promise": "Har ghar nal se jal — piped water to every household by 2024",
         "category": "infrastructure",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
         "evidence_count": 1,
@@ -721,8 +721,8 @@
             "content": "The Union government’s ambitious initiative to provide tap water connections to all rural households by 2024 is likely to miss its target. The Union Jal Shakti Ministry reported that the COVID-19 pandemic, along with subsequent disruptions like the Russia-Ukraine war, has severely delayed the progress of the Jal Jeevan Mission."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The target deadline of 2024 has passed and the project is likely to miss its goal."
       },
       {
         "id": "p009",
@@ -780,8 +780,8 @@
             "content": "A high-level committee on 'One Nation, One Election' headed by former President Ram Nath Kovind submitted its report to President Droupadi Murmu on Thursday, recommending a two-step approach to hold simultaneous elections for the Lok Sabha, State Legislative Assemblies and local bodies."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The committee has proposed a transition plan, but implementation is not complete."
       },
       {
         "id": "p011",
@@ -805,8 +805,8 @@
             "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The government is defending demonetization in court, indicating ongoing efforts."
       },
       {
         "id": "p012",
@@ -830,8 +830,8 @@
             "content": "The ambitious Mumbai-Ahmedabad bullet train project, which was scheduled to be completed by December 2023, is likely to miss its deadline due to delays in land acquisition, especially in Maharashtra, and the COVID-19 pandemic."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The deadline of 2023 has passed and the project is facing delays."
       },
       {
         "id": "p020",
@@ -881,8 +881,8 @@
             "content": "Union Home Minister Amit Shah on Friday directed the Delhi Police to take strict action against networks facilitating the entry and stay of illegal Bangladeshi and Rohingya immigrants. Mr. Shah, who chaired a high-level meeting to review the law and order situation in Delhi, said that the presence of 'illegal intruders' is a matter of national security and directed that they should be identified and deported."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article reports ongoing efforts to identify and deport Rohingya immigrants."
       }
     ],
     "Arvind Kejriwal": [
@@ -909,7 +909,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
+        "gemma_reasoning": "Evidence shows ongoing work on school infrastructure upgrades."
       },
       {
         "id": "p015",
@@ -933,8 +933,8 @@
             "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article discusses ongoing work to resolve issues with the prepaid meter scheme."
       },
       {
         "id": "p016",
@@ -959,7 +959,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
+        "gemma_reasoning": "The target deadline year of 2025 has passed."
       }
     ],
     "Rahul Gandhi": [
@@ -986,7 +986,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
+        "gemma_reasoning": "The article describes the announcement of the scheme, not its implementation."
       }
     ],
     "Yogi Adityanath": [
@@ -1012,8 +1012,8 @@
             "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article states ongoing work towards a zero-tolerance policy."
       }
     ],
     "Mamata Banerjee": [
@@ -1069,7 +1069,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
+        "gemma_reasoning": "The deadline of 2022 has passed and evidence suggests the promise was not kept."
       },
       {
         "id": "p002",
@@ -1093,8 +1093,8 @@
             "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The evidence shows ongoing debate about the promise, not confirmation of completion."
       },
       {
         "id": "p003",
@@ -1119,7 +1119,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is not mentioned in the provided articles."
+        "gemma_reasoning": "The promise was not kept as no evidence suggests Rs 15 lakh was deposited in every Indian's account."
       },
       {
         "id": "p004",
@@ -1127,7 +1127,7 @@
         "party": "BJP",
         "promise": "Build 2 crore pucca houses for the poor by 2022 (PM Awas Yojana)",
         "category": "infrastructure",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
         "evidence_count": 1,
@@ -1144,7 +1144,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
+        "gemma_reasoning": "The target deadline year of 2022 has passed."
       },
       {
         "id": "p005",
@@ -1169,7 +1169,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
+        "gemma_reasoning": "The target deadline of 2024-25 has passed and the promise was not met."
       },
       {
         "id": "p006",
@@ -1218,8 +1218,8 @@
             "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The evidence shows the scheme is in operation and being defended."
       },
       {
         "id": "p008",
@@ -1227,7 +1227,7 @@
         "party": "BJP",
         "promise": "Har ghar nal se jal — piped water to every household by 2024",
         "category": "infrastructure",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
         "evidence_count": 1,
@@ -1243,8 +1243,8 @@
             "content": "The Union government’s ambitious initiative to provide tap water connections to all rural households by 2024 is likely to miss its target. The Union Jal Shakti Ministry reported that the COVID-19 pandemic, along with subsequent disruptions like the Russia-Ukraine war, has severely delayed the progress of the Jal Jeevan Mission."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The target deadline of 2024 has passed and the project is likely to miss its goal."
       },
       {
         "id": "p009",
@@ -1302,8 +1302,8 @@
             "content": "A high-level committee on 'One Nation, One Election' headed by former President Ram Nath Kovind submitted its report to President Droupadi Murmu on Thursday, recommending a two-step approach to hold simultaneous elections for the Lok Sabha, State Legislative Assemblies and local bodies."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The committee has proposed a transition plan, but implementation is not complete."
       },
       {
         "id": "p011",
@@ -1327,8 +1327,8 @@
             "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The government is defending demonetization in court, indicating ongoing efforts."
       },
       {
         "id": "p012",
@@ -1352,8 +1352,8 @@
             "content": "The ambitious Mumbai-Ahmedabad bullet train project, which was scheduled to be completed by December 2023, is likely to miss its deadline due to delays in land acquisition, especially in Maharashtra, and the COVID-19 pandemic."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "The deadline of 2023 has passed and the project is facing delays."
       },
       {
         "id": "p013",
@@ -1377,8 +1377,8 @@
             "content": "Union Home Minister Amit Shah on Friday directed the Delhi Police to take strict action against networks facilitating the entry and stay of illegal Bangladeshi and Rohingya immigrants. Mr. Shah, who chaired a high-level meeting to review the law and order situation in Delhi, said that the presence of 'illegal intruders' is a matter of national security and directed that they should be identified and deported."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article reports ongoing efforts to identify and deport Rohingya immigrants."
       },
       {
         "id": "p018",
@@ -1402,8 +1402,8 @@
             "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article states ongoing work towards a zero-tolerance policy."
       },
       {
         "id": "p020",
@@ -1454,7 +1454,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
+        "gemma_reasoning": "Evidence shows ongoing work on school infrastructure upgrades."
       },
       {
         "id": "p015",
@@ -1478,8 +1478,8 @@
             "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
           }
         ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The article discusses ongoing work to resolve issues with the prepaid meter scheme."
       },
       {
         "id": "p016",
@@ -1504,7 +1504,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
+        "gemma_reasoning": "The target deadline year of 2025 has passed."
       }
     ],
     "INC": [
@@ -1531,7 +1531,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
+        "gemma_reasoning": "The article describes the announcement of the scheme, not its implementation."
       }
     ],
     "TMC": [

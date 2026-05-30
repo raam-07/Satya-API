@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:25.150936",
+  "generated_at": "2026-05-30 20:34:52.340468",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 214,
-    "articles_last_30d": 80
+    "total_articles": 220,
+    "articles_last_30d": 81
   },
   "top_cities_30d": {
     "Delhi": 18,
-    "Lucknow": 12,
+    "Lucknow": 13,
     "Kolkata": 7,
     "Kanpur": 7,
     "Agra": 4,
@@ -24,9 +24,9 @@
     "Meerut": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 67,
+    "foreign_policy": 68,
     "protest_opposition": 27,
-    "crime_violence": 24,
+    "crime_violence": 25,
     "education": 22,
     "infrastructure": 20,
     "farmer_agriculture": 14,
@@ -36,6 +36,34 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62782,
+      "title": "Defence Minister inaugurates ‘Nausena Shaurya Vatika’ in Lucknow - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/indian-navy-confined-entire-pakistan-navy-to-its-ports-during-operation-sindoor-defence-minister-rajnath-singh/article71040901.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/480z10/article71040906.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000342A.jpg",
+      "scraped_at": "2026-05-30 17:17:28.732302",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Navy",
+      "rephrased_article": "**Rajnath Singh**, **Yogi Adityanath**, and others jointly inaugurated the ‘Nausena Shaurya Vatika’, an open-air naval museum in Lucknow, Uttar Pradesh.  The museum is a second phase of the Nausena Shaurya Sangrahalaya, showcasing the Indian Navy's history and valor. **Singh** praised the Navy's role in Operation Sindoor, highlighting its pressure on Pakistan during the operation. He also commended the progress of Uttar Pradesh under **Adityanath**, attributing it to strong law and order and a shift from \"goonda raj\" to a focus on development and investment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62657,
       "title": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu",
@@ -5882,41 +5910,6 @@
         "infrastructure",
         "foreign_policy",
         "economy"
-      ]
-    },
-    {
-      "id": 47043,
-      "title": "Violence erupts outside Kolkata CEO office after Trinamool alleges bulk submissions of Form 6 by BJP - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/violence-erupts-outside-kolkata-ceo-officeafter-tmc-allegesbulk-submissions-of-form-6-by-bjp/article70807671.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6kngr6/article70808354.ece/alternates/LANDSCAPE_1200/20260331461L.jpg",
-      "scraped_at": "2026-03-31 21:11:41.704821",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "Violence erupted outside the **Chief Electoral Officer’s** office in Kolkata on Tuesday (March 31, 2026) as clashes broke out between **Trinamool Congress** and **BJP** workers over allegations of fraudulent Form 6 applications being submitted to include non-residents in West Bengal's electoral rolls. **Mamata Banerjee**, the Chief Minister of West Bengal, accused the **BJP** of attempting voter hijacking, while **CEO Manoj Kumar Agarwal** refuted these claims, stating that he cannot control who brings what into his office.  The situation escalated after a complaint from **TMC** general secretary Abhishek Banerjee alleging demographic manipulation by the **EC**. The **BJP** MP Sukanta Majumdar denied any involvement in the alleged submissions of Form 6 applications, while the leader of opposition Suvendu Adhikari accused **Banerjee** of provoking voters against central forces.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "education",
-        "protest_opposition",
-        "foreign_policy",
-        "crime_violence"
       ]
     }
   ]

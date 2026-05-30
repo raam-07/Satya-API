@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:25.049909",
+  "generated_at": "2026-05-30 20:34:52.236871",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 194,
-    "articles_last_30d": 72
+    "total_articles": 197,
+    "articles_last_30d": 74
   },
   "top_cities_30d": {
     "Delhi": 10,
@@ -21,18 +21,68 @@
     "Meerut": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 61,
+    "foreign_policy": 62,
     "protest_opposition": 33,
     "education": 22,
     "infrastructure": 21,
     "economy": 19,
-    "crime_violence": 16,
+    "crime_violence": 17,
     "farmer_agriculture": 11,
     "health": 4,
     "corruption_scam": 3,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62787,
+      "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
+      "url": "https://www.thehindu.com/news/national/fair-electoral-rolls-lead-to-fair-polls-cec/article71042152.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/utu797/article71030106.ece/alternates/LANDSCAPE_1200/Gyanesh_kumar_07.JPG",
+      "scraped_at": "2026-05-30 17:19:33.524972",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**Chief Election Commissioner (CEC) Gyanesh Kumar** stated that fair electoral rolls are essential for fair elections, highlighting India's current state in this regard. **Kumar** praised the role of Booth Level Officers and Booth Level Agents in electoral roll management during his inaugural speech at the second National Conference of Counsels representing the **Election Commission of India**. He also congratulated electors from Assam, Kerala, Puducherry, Tamil Nadu, and West Bengal for their historic participation in recent Assembly elections.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 62759,
+      "title": "Transporters pause operations in Manipur in protest against trucker’s killing - The Hindu",
+      "url": "https://www.thehindu.com/news/national/manipur/transporters-pause-operations-in-manipur-in-protest-against-truckers-killing/article71042021.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xajwds/article71042267.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000185A.jpg",
+      "scraped_at": "2026-05-30 15:52:25.904372",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Kuki militants",
+      "rephrased_article": "**Transporters** in Manipur suspended operations on Saturday, May 30, 2026, protesting the killing of a trucker from West Bengal's Hooghly. The attack on a convoy of food trucks and oil tankers by **Kuki militants** on National Highway 202 disrupted essential supplies to Imphal and beyond.  The drivers demanded increased security measures and action against the attackers, while **Chief Minister Yumnam Khemchand Singh** assured the families of the slain driver that their safety is a priority.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Manipur",
+        "Nagaland",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62002,
       "title": "Supreme Court hearing on Bihar SIR LIVE: SC to pronounce verdict - The Hindu",
@@ -5881,6 +5931,33 @@
         "education",
         "economy"
       ]
+    },
+    {
+      "id": 46141,
+      "title": "NDA will retain power in Assam with more than 90 seats, says Amit Shah - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/nda-will-retain-power-in-assam-with-more-than-90-seats-says-amit-shah/article70796807.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7xc1vo/article70797325.ece/alternates/LANDSCAPE_1200/20260328310L.jpg",
+      "scraped_at": "2026-03-28 17:41:13.560270",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Amit Shah**, Union Home Minister and leader of the **Bharatiya Janata Party (BJP)**, stated that the BJP-led National Democratic Alliance (NDA) is expected to win over 90 seats in the upcoming Assam Assembly election. The NDA comprises the BJP, Asom Gana Parishad (AGP), and Bodoland People’s Front, with the BJP contesting all 126 constituencies. Shah attributed the NDA's strong prospects to improved law-and-order, infrastructure development under Prime Minister **Narendra Modi**, and a peaceful environment free of insurgency or extremism.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
     }
   ]
 }

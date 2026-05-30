@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:25.113951",
+  "generated_at": "2026-05-30 20:34:52.302751",
   "state": "Nagaland",
   "capital": "Kohima",
   "ruling_party": "NDPP",
@@ -8,23 +8,49 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 19,
-    "articles_last_30d": 6
+    "total_articles": 21,
+    "articles_last_30d": 7
   },
   "top_cities_30d": {
     "Delhi": 2,
     "Hyderabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 6,
+    "foreign_policy": 7,
     "education": 3,
     "farmer_agriculture": 3,
     "protest_opposition": 2,
     "infrastructure": 2,
     "economy": 1,
-    "health": 1
+    "health": 1,
+    "crime_violence": 1
   },
   "recent_articles": [
+    {
+      "id": 62759,
+      "title": "Transporters pause operations in Manipur in protest against trucker’s killing - The Hindu",
+      "url": "https://www.thehindu.com/news/national/manipur/transporters-pause-operations-in-manipur-in-protest-against-truckers-killing/article71042021.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xajwds/article71042267.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000185A.jpg",
+      "scraped_at": "2026-05-30 15:52:25.904372",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Kuki militants",
+      "rephrased_article": "**Transporters** in Manipur suspended operations on Saturday, May 30, 2026, protesting the killing of a trucker from West Bengal's Hooghly. The attack on a convoy of food trucks and oil tankers by **Kuki militants** on National Highway 202 disrupted essential supplies to Imphal and beyond.  The drivers demanded increased security measures and action against the attackers, while **Chief Minister Yumnam Khemchand Singh** assured the families of the slain driver that their safety is a priority.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Manipur",
+        "Nagaland",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61089,
       "title": "Nagaland intensifies ASF containment measures; pork sale banned in several districts - The Hindu",
@@ -733,6 +759,31 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
+    },
+    {
+      "id": 46180,
+      "title": "What did the Supreme Court rule on Scheduled Castes and religion? - The Hindu",
+      "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-rule-on-scheduled-castes-and-religion/article70797335.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ooa5u8/article70797493.ece/alternates/LANDSCAPE_1200/vbk-stock-SClatest_supreme%20court_lat_PTI10_14_2024_000209B.jpg",
+      "scraped_at": "2026-03-28 20:39:10.697351",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The Supreme Court ruled that a person cannot be considered a member of the Scheduled Caste (SC) if they profess a religion different from Hinduism, Sikhism, or Buddhism. The Court upheld this decision based on the Constitution (Scheduled Castes) Order, 1950, which states that individuals who \"profess\" a religion other than these faiths are not SCs.  The Court emphasized that conversion to any faith not listed in the order results in immediate loss of SC status and associated benefits. The ruling also addressed the question of reconversion to Hinduism, Sikhism, or Buddhism, stating that claimants must provide strong evidence for \"reconversion\" including renunciation of their previous religion, complete assimilation into the original caste, and acceptance by the community.  The Court acknowledged the complexities surrounding conversion and its impact on Scheduled Tribe (ST) status, emphasizing that ST status is determined by tribal attributes rather than solely based on religious affiliation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
     }
   ]
 }

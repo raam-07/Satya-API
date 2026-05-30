@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:24.996289",
+  "generated_at": "2026-05-30 20:34:52.176952",
   "party": "TMC",
   "full_name": "All India Trinamool Congress",
   "ideology": "Populism, Secularism",
@@ -10,10 +10,10 @@
   ],
   "color": "#00FF00",
   "stats": {
-    "total_articles": 255,
-    "articles_last_30d": 104,
+    "total_articles": 256,
+    "articles_last_30d": 105,
     "sentiment_breakdown_30d": {
-      "negative": 52,
+      "negative": 53,
       "neutral": 28,
       "positive": 24
     }
@@ -57,6 +57,36 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 62786,
+      "title": "Mob attacks Trinamool leader Abhishek Banerjee; Mamata blames it on BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/tmc-abhishek-banerjee-manhandled-eggs-stones-thrown-bengal-post-poll-violence-visit/article71041375.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1e0w9p/article71041551.ece/alternates/LANDSCAPE_1200/20260530251L.jpg",
+      "scraped_at": "2026-05-30 17:19:07.366087",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was attacked by a mob in Sonarpur, West Bengal on Saturday. The attack occurred during his visit to the residence of a party worker allegedly killed in post-poll violence.  The mob threw eggs and shoes at **Banerjee** as security personnel attempted to shield him from the crowd chanting \"chor chor\" (thief thief).",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62437,
       "title": "Internal bickering, resignations and public anger, Trinamool battling on multiple fronts - The Hindu",
@@ -6309,28 +6339,6 @@
         "education",
         "corruption_scam",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 49512,
-      "title": "Election Commission-Trinamool Congress meeting ends on an acrimonious note - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/election-commission-trinamool-congress-tmc-meeting-gyanesh-kumar-west-bengal-elections-april-8-2026/article70837559.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/7328l3/article70837590.ece/alternates/LANDSCAPE_1200/20260408057L.jpg",
-      "scraped_at": "2026-04-08 23:46:31.361509",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "A contentious meeting between the **Trinamool Congress** and the **Election Commission of India**'s full bench ended with accusations of inappropriate behavior. The **Trinamool Congress** delegation, led by Rajya Sabha leader Derek O’Brien, alleged that Chief Election Commissioner Gyanesh Kumar told them to \"get lost,\" while poll body sources said the Commission had asked Mr. O’Brien not to raise his voice.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
       ]
     }
   ]

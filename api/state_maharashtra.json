@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 17:59:25.102566",
+  "generated_at": "2026-05-30 20:34:52.291385",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,34 +8,64 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 209,
-    "articles_last_30d": 80
+    "total_articles": 213,
+    "articles_last_30d": 81
   },
   "top_cities_30d": {
     "Mumbai": 21,
-    "Pune": 17,
-    "Delhi": 12,
-    "Nashik": 8,
+    "Pune": 18,
+    "Delhi": 13,
+    "Nashik": 9,
     "Hyderabad": 5,
     "Bengaluru": 4,
+    "Jaipur": 3,
     "Thane": 3,
     "Nagpur": 3,
-    "Jaipur": 2,
     "Chennai": 2
   },
   "top_topics_30d": {
     "foreign_policy": 67,
-    "education": 30,
+    "education": 31,
     "protest_opposition": 29,
     "economy": 25,
     "infrastructure": 24,
-    "crime_violence": 13,
+    "crime_violence": 14,
     "farmer_agriculture": 8,
     "corruption_scam": 7,
     "health": 6,
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 62774,
+      "title": "NEET paper leak: Court extends Hawaldar's CBI custody by two days; remands Mandhare to judicial custody - The Hindu",
+      "url": "https://www.thehindu.com/news/national/neet-paper-leak-court-extends-hawaldars-cbi-custody-by-two-days-remands-mandhare-to-judicial-custody/article71042296.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ynxiah/article71042532.ece/alternates/LANDSCAPE_1200/20260530157L.jpg",
+      "scraped_at": "2026-05-30 17:14:29.339224",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "CBI",
+      "rephrased_article": "**The CBI** extended the custody of accused **Manisha Sanjay Hawaldar** by two more days and remanded another accused, **Manisha Mandhare**, to judicial custody in the alleged NEET-UG 2026 paper leak case.  Special Judge Ajay Gupta heard arguments from both sides before making his decision. The court also issued notice to the CBI on the bail application filed by another accused, **Manisha Waghmare**. The case is part of a wider investigation into alleged irregularities in the NEET-UG examination and a paper leak network.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Pune",
+        "Jaipur",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
     {
       "id": 62625,
       "title": "Spurious liquor kills 15 in Pune, Pimpri-Chinchwad; 8 held, probe ordered - The Hindu",
@@ -5729,28 +5759,6 @@
       ],
       "ministers_mentioned": [],
       "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 47287,
-      "title": "GST collection in Karnataka grows by 11.6% - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/gst-collection-in-karnataka-grows-by-116/article70812533.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9m43qi/article70812870.ece/alternates/LANDSCAPE_1200/iStock-1125725942%201.jpg",
-      "scraped_at": "2026-04-01 18:00:56.687988",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka Government",
-      "rephrased_article": "**Karnataka** collected ₹1.58 lakh crore in GST revenue during 2025-2026, a 11.6% increase from the previous year. The state's SGST portion of the IGST settlement was ₹50,245 crore, exceeding the 2024-2025 collection by 5%.  **Karnataka** ranks second in the country for GST collection after **Maharashtra**, with a revenue loss estimated at ₹15,000 crore due to GST rate rationalization.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Maharashtra"
-      ],
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
