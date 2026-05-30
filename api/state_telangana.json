@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 12:55:23.915372",
+  "generated_at": "2026-05-30 14:49:59.568225",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 302,
+    "total_articles": 304,
     "articles_last_30d": 113
   },
   "top_cities_30d": {
-    "Hyderabad": 39,
+    "Hyderabad": 40,
     "Delhi": 9,
     "Mumbai": 5,
     "Bengaluru": 3,
@@ -24,18 +24,43 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 96,
+    "foreign_policy": 95,
     "infrastructure": 37,
     "education": 33,
     "economy": 28,
     "farmer_agriculture": 18,
     "protest_opposition": 14,
+    "crime_violence": 9,
     "health": 9,
-    "crime_violence": 8,
     "rape_sexual_crime": 7,
     "corruption_scam": 3
   },
   "recent_articles": [
+    {
+      "id": 62691,
+      "title": "Police arrests former MLA Balka Suman from Telangana Bhavan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/former-mla-balka-suman-arrested-by-police-from-telangana-bhavan/article71040971.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9n6g7s/article71041158.ece/alternates/LANDSCAPE_1200/IMG_6773_17-9-2018_16-32_3_1_HQ9L4S59.jpg",
+      "scraped_at": "2026-05-30 11:00:59.403139",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Balka Suman",
+      "rephrased_article": "**Balka Suman**, a former MLA of **Bharat Rashtra Samithi (BRS)**, was arrested by **Hyderabad police** from Telangana Bhavan on Saturday. Police had registered a case against him after he allegedly made remarks during a meeting at the party headquarters on May 26.  Suman accused the Congress government of targeting Opposition leaders through criminal cases before his arrest and an anticipatory bail petition was filed on his behalf. The police have not yet issued a detailed statement regarding the arrest, but further legal proceedings are expected in the case.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 62612,
       "title": "Government defends Farmer Discom proposal - The Hindu",
@@ -5061,31 +5086,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 50838,
-      "title": "Revanth sees ‘political motive’ in linking Women’s Bill with delimitation - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/cm-sees-political-motive-in-linking-womens-bill-with-delimitation/article70857734.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/telangana/vamov5/article70857912.ece/alternates/LANDSCAPE_1200/CM%20Revanth%20.jpeg",
-      "scraped_at": "2026-04-13 13:54:35.162326",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Union Government",
-      "rephrased_article": "**Chief Minister Revanth Reddy** accused the **Union Government** of misleadingly linking the Women’s Reservation Bill with constituency delimitation to create a narrative that opposition parties are obstructing reforms. He argued that these issues should be discussed and implemented independently, highlighting the Congress party's long history of supporting women's empowerment.  He criticized the BJP for its lack of support for the bill and pointed out the absence of female leadership within the party since its inception in 1980.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Sonia Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
     }
   ]
 }

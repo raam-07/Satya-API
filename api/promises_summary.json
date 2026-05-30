@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-30 12:55:24.235527",
+  "generated_at": "2026-05-30 14:49:59.847184",
   "stats": {
-    "total_promises": 23,
+    "total_promises": 26,
     "kept": 2,
     "broken": 9,
-    "ongoing": 12
+    "ongoing": 15
   },
   "by_status": {
     "broken": [
@@ -173,7 +173,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing investigations into corruption suggest the promise is not yet fulfilled."
+        "gemma_reasoning": "Ongoing investigations suggest corruption persists."
       },
       {
         "id": "p008",
@@ -288,7 +288,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The provided evidence focuses on voter roll issues, not the overall fulfillment of the promise."
+        "gemma_reasoning": "The promise is ongoing as the evidence shows active work."
       },
       {
         "id": "p020",
@@ -312,7 +312,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is for 2047 and the current date is 2026."
+        "gemma_reasoning": "The target year is 2047 and active work is mentioned."
       },
       {
         "id": "promise_1780107759_0",
@@ -337,7 +337,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The announcement was made, but no concrete evidence of restructuring completion exists."
+        "gemma_reasoning": "The announcement mentions plans for restructuring, indicating ongoing work."
       },
       {
         "id": "promise_1780122872_0",
@@ -376,7 +376,49 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The news article states Vijay called for a rollback but does not indicate if it occurred."
+        "gemma_reasoning": "The evidence shows the promise is being discussed but not implemented."
+      },
+      {
+        "id": "promise_1780147805_0",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "The Cabinet approved a ₹20,667 crore Ahmedabad (Sarkhej)-Dholera semi-high-speed double rail line project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780147893_1",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Promised a thorough investigation into the firecracker factory explosion.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780148359_2",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Ramakrishnapur Opencast (RKP OC) Phase-2 project will create 5,000 jobs.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "kept": [
@@ -505,7 +547,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing investigations into corruption suggest the promise is not yet fulfilled."
+        "gemma_reasoning": "Ongoing investigations suggest corruption persists."
       },
       {
         "id": "p007",
@@ -633,7 +675,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is for 2047 and the current date is 2026."
+        "gemma_reasoning": "The target year is 2047 and active work is mentioned."
       }
     ],
     "Amit Shah": [
@@ -650,6 +692,20 @@
         "evidence_articles": [],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
+      },
+      {
+        "id": "promise_1780147805_0",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "The Cabinet approved a ₹20,667 crore Ahmedabad (Sarkhej)-Dholera semi-high-speed double rail line project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Arvind Kejriwal": [
@@ -752,7 +808,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The provided evidence focuses on voter roll issues, not the overall fulfillment of the promise."
+        "gemma_reasoning": "The promise is ongoing as the evidence shows active work."
       }
     ],
     "Nirmala Sitharaman": [
@@ -779,7 +835,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The announcement was made, but no concrete evidence of restructuring completion exists."
+        "gemma_reasoning": "The announcement mentions plans for restructuring, indicating ongoing work."
       }
     ],
     "V.D. Satheesan": [
@@ -822,7 +878,39 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The news article states Vijay called for a rollback but does not indicate if it occurred."
+        "gemma_reasoning": "The evidence shows the promise is being discussed but not implemented."
+      }
+    ],
+    "Mohan Yadav": [
+      {
+        "id": "promise_1780147893_1",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Promised a thorough investigation into the firecracker factory explosion.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Revanth Reddy": [
+      {
+        "id": "promise_1780148359_2",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Ramakrishnapur Opencast (RKP OC) Phase-2 project will create 5,000 jobs.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ]
   },
@@ -921,7 +1009,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing investigations into corruption suggest the promise is not yet fulfilled."
+        "gemma_reasoning": "Ongoing investigations suggest corruption persists."
       },
       {
         "id": "p007",
@@ -1077,7 +1165,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is for 2047 and the current date is 2026."
+        "gemma_reasoning": "The target year is 2047 and active work is mentioned."
       }
     ],
     "AAP": [
@@ -1164,7 +1252,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The provided evidence focuses on voter roll issues, not the overall fulfillment of the promise."
+        "gemma_reasoning": "The promise is ongoing as the evidence shows active work."
       }
     ]
   }

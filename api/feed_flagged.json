@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-30 12:55:23.682221",
-  "total": 276,
+  "generated_at": "2026-05-30 14:49:59.368254",
+  "total": 279,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 211,
+    "power_abuse": 214,
     "institutional_failure": 32,
     "scale_of_harm": 20,
     "suppression": 13
@@ -2200,6 +2200,58 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "A candidate was disqualified for a child sexual assault reference, highlighting a flawed vetting process."
+    },
+    {
+      "id": 46520,
+      "title": "Dezi Freeman shot dead by police after seven-month-long manhunt | Porepunkah shooting | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/30/dezi-freeman-shot-dead-police-shooting-victoria-porepunkah-ntwnfb",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/79fd8383d2ea697783592ff827fdf3554385df7f/259_0_1121_897/master/1121.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f0e8359974a384325f5cb054e2ca8d9",
+      "scraped_at": "2026-03-29 23:40:03.635278",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Dezi Freeman",
+      "rephrased_article": "Dezi Freeman, a 56-year-old man suspected of killing two Victoria Police officers, was fatally shot by police during a seven-month long manhunt in rural Victoria. The incident occurred on Monday morning at a property in north east Victoria as part of the operation to locate Freeman.  The State Coroner will investigate the shooting and Professional Standards Command will oversee the investigation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Police killing after a seven-month manhunt raises concerns about excessive force."
+    },
+    {
+      "id": 62747,
+      "title": "‘Super corruption government’ is coming to exist: Chalavadi Narayanaswamy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/super-corruption-government-is-coming-to-exist-chalavadi-narayanaswamy/article71041618.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 14:22:16.066227",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Chalavadi Narayanaswamy, leader of the Opposition in the Legislative Council, criticized the BJP for its handling of the dissolved government, alleging that corruption persists despite the change. He stated that officers continue to engage in corrupt practices and development projects remain stalled, emphasizing the need for systemic changes rather than superficial leadership shifts.  Narayanaswamy also accused the Congress of neglecting Dalits and failing to nominate a Dalit as Chief Minister.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of persistent corruption and stalled development raise serious concerns."
     },
     {
       "id": 62377,
@@ -6873,6 +6925,47 @@
       "civic_flag_score": 9,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "Police seeking self-incrimination in death of Indigenous man raises serious concerns."
+    },
+    {
+      "id": 46508,
+      "title": "31 arrested for Ram Navami clashes in Bengal district - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/situationpeacefultwo-daysafter-ram-navami-clashes-in-murshidabaddistrictsjangipur/article70799607.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fz1q2w/article70799960.ece/alternates/LANDSCAPE_1200/20260328055L.jpg",
+      "scraped_at": "2026-03-29 21:39:02.452306",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Two days after clashes during Ram Navami processions in Jangipur, West Bengal's Murshidabad district, the situation is now peaceful.  Police have imposed prohibitory orders under Section 163 of the Bharatiya Nyay Sanhita and arrested 31 people while 21 others were injured during the violence. Trinamool Congress (TMC) chief Mamata Banerjee accused the BJP of orchestrating the riots, while Union Home Minister Amit Shah countered that the transfer of officers under her government had reduced such incidents. The Election Commission of India (ECI) has transferred multiple top police and administrative officers in West Bengal following the declaration of elections on March 15th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition",
+        "education"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Clashes during religious processions and arrests raise concerns about communal tensions and potential abuse of power."
     },
     {
       "id": 62288,
