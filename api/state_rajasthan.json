@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 09:07:06.293956",
+  "generated_at": "2026-05-30 12:55:23.901780",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 111,
-    "articles_last_30d": 49
+    "total_articles": 116,
+    "articles_last_30d": 50
   },
   "top_cities_30d": {
     "Delhi": 19,
+    "Jaipur": 6,
     "Mumbai": 6,
-    "Jaipur": 5,
     "Pune": 3,
     "Hyderabad": 3,
     "Bengaluru": 2,
@@ -24,7 +24,7 @@
     "Bangalore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 43,
+    "foreign_policy": 44,
     "education": 18,
     "protest_opposition": 15,
     "infrastructure": 10,
@@ -35,6 +35,29 @@
     "health": 8
   },
   "recent_articles": [
+    {
+      "id": 62668,
+      "title": "Thunderstorms, rain likely to continue in Rajasthan for next 4-5 days - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/thunderstorms-rain-likely-to-continue-in-rajasthan-for-next-4-5-days/article71040730.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nf1nt2/article71040811.ece/alternates/LANDSCAPE_1200/PTI05_29_2026_000327A.jpg",
+      "scraped_at": "2026-05-30 09:23:54.607252",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "weather",
+      "rephrased_article": "**The India Meteorological Department (IMD)** predicts continued thunderstorms, dust storms, and rain in parts of **Rajasthan** over the next few days due to a western disturbance.  Areas like Bikaner, Jaipur, Ajmer, Bharatpur, Kota, Jodhpur, and Udaipur are expected to experience strong winds and isolated light to moderate rainfall. The weather office also warned of hailstorms and lightning in some areas. Maximum temperatures are predicted to remain below 44°C, offering relief from the ongoing heatwave.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62464,
       "title": "Karnataka government formation LIVE: Congress to convene crucial CLP meeting at 4 p.m. on May 30 - The Hindu",
@@ -3181,9 +3204,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
         "Priyanka Gandhi",
         "Pinarayi Vijayan"
@@ -3295,8 +3316,7 @@
         "TMC"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Bihar",
@@ -3336,6 +3356,118 @@
         "Ahmedabad"
       ],
       "topic_tags": []
+    },
+    {
+      "id": 46805,
+      "title": "1.22 lakh Anganwadi workers in Rajasthan get ₹1,000 each through DBT - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/122-lakh-anganwadi-workers-in-rajasthan-get-1000-each-through-dbt/article70803509.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xhlbch/article70804770.ece/alternates/LANDSCAPE_1200/20260330260L.jpg",
+      "scraped_at": "2026-03-31 00:03:12.396128",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Bhajan Lal Sharma",
+      "rephrased_article": "**Rajasthan** Chief Minister Bhajan Lal Sharma transferred ₹1,000 each to 1.22 lakh Anganwadi workers through direct benefit transfer (DBT) to cover the cost of two uniforms. He also announced a 10% increase in honorarium for Anganwadi workers, helpers, and midday meal cooks-cum-helpers, effective April 1st.  Sharma highlighted the crucial role of Anganwadi workers in nation-building and emphasized steps taken to strengthen these centers. The Chief Minister also encouraged Anganwadi workers' participation in his \"developed village-ward\" campaign.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 46787,
+      "title": "Putting trans people under OBC quota gives no real benefit, says Rajasthan High Court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/putting-trans-people-under-obc-quota-gives-no-real-benefit-says-rajasthan-high-court/article70802823.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-otherstates/hokzs6/article69986777.ece/alternates/LANDSCAPE_1200/Rajasthan-High-GBREQT0GD.3.jpg.jpg",
+      "scraped_at": "2026-03-30 22:09:36.475142",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Rajasthan High Court",
+      "rephrased_article": "The **Rajasthan High Court** ruled that the state's classification of transgender people as part of the OBC category for reservations is ineffective and discriminatory. The court criticized the Transgender Persons (Protection of Rights) Amendment Bill, 2026, which removes the right to self-identification.  The court ordered the formation of a committee to assess the compounded marginalization of transgender individuals from all socio-economic categories. The court also directed that transgender individuals be given a 3% additional weightage in selection and appointment for state educational institutions or government posts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 46605,
+      "title": "NDA, Opposition spar in LS over efforts to free country of Maoism - The Hindu",
+      "url": "https://www.thehindu.com/news/national/nda-opposition-spar-in-ls-over-efforts-to-free-country-of-maoism/article70802599.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/baxlxd/article70802700.ece/alternates/LANDSCAPE_1200/PTI10_26_2025_000342B.jpg",
+      "scraped_at": "2026-03-30 11:37:19.393350",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**BJP** and **NDA** members in the Lok Sabha criticized the previous **UPA** government for its handling of Maoism, accusing it of failing to contain the threat.  They highlighted significant reductions in the \"red corridor\" under the current administration and emphasized the success of policies like Operation Green Hunt and the creation of CoBRA. The Congress countered by pointing to efforts made during their tenure, including the establishment of the Commando Battalion for Resolute Action (CoBRA) and emphasizing a balanced approach that prioritized both security and welfare.  The debate highlighted contrasting approaches to combating Maoism between the two governments.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Shiv Sena",
+        "TDP",
+        "NDA",
+        "UPA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Amit Shah",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 46589,
+      "title": "Sonia Gandhi shows 'excellent progress', discharge expected soon, say doctors - The Hindu",
+      "url": "https://www.thehindu.com/news/national/sonia-gandhi-shows-excellent-progress-discharge-expected-soon-say-doctors/article70802312.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/udqbs/article70802430.ece/alternates/LANDSCAPE_1200/vbk-sonia%20gandhi-PTI.jpg",
+      "scraped_at": "2026-03-30 10:24:27.369190",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Sonia Gandhi",
+      "rephrased_article": "**Sonia Gandhi**, a senior Congress leader, has made excellent progress and is now \"absolutely normal\" after being admitted to **Sir Ganga Ram Hospital** on March 24th with a fever. Doctors confirmed that she remains on IV antibiotics for the next few days but all her parameters are within normal limits. A decision regarding her discharge will be made jointly by doctors and the patient, who is currently stable and under observation briefly as a precaution.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
     }
   ]
 }

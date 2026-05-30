@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 09:07:06.280923",
+  "generated_at": "2026-05-30 12:55:23.888453",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 153,
-    "articles_last_30d": 65
+    "total_articles": 160,
+    "articles_last_30d": 66
   },
   "top_cities_30d": {
-    "Delhi": 16,
+    "Delhi": 17,
     "Bengaluru": 6,
     "Kolkata": 4,
     "Mumbai": 3,
@@ -24,17 +24,64 @@
     "Kanpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 54,
-    "education": 31,
+    "foreign_policy": 53,
+    "education": 32,
     "infrastructure": 20,
     "protest_opposition": 17,
-    "economy": 13,
+    "economy": 12,
     "health": 10,
     "corruption_scam": 9,
     "crime_violence": 8,
-    "farmer_agriculture": 5
+    "farmer_agriculture": 4
   },
   "recent_articles": [
+    {
+      "id": 62686,
+      "title": "Claims of being vishwaguru but can't conduct single exam: Rahul's dig at PM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/claims-of-being-vishwaguru-but-cant-conduct-single-exam-rahuls-dig-at-pm/article71040780.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2mo71x/article71040798.ece/alternates/LANDSCAPE_1200/PTI05_25_2026_000293B.jpg",
+      "scraped_at": "2026-05-30 09:28:58.538816",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Rahul Gandhi**, leader of the **Congress**, criticized **Prime Minister Narendra Modi** for the delayed CUET-UG 2026 examination, alleging that the government has destroyed the education system.  He accused **Modi** of being unable to conduct even a single examination properly despite claiming to be a \"vishwaguru.\" **Gandhi** stated that this failure is impacting millions of students and will hold **Modi** accountable for his actions.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 62674,
+      "title": "‘Technical glitch’ delays CUET-UG 2026 exam at some centres - The Hindu",
+      "url": "https://www.thehindu.com/education/cuet-ug-exam-delayed-technical-glitch-may-30-2026/article71040604.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9nuf52/article71040601.ece/alternates/LANDSCAPE_1200/20250526328L.jpg",
+      "scraped_at": "2026-05-30 09:25:43.365619",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "NTA",
+      "rephrased_article": "**The National Testing Agency (NTA)** announced a delay of over two hours for the first shift of the Common University Entrance Test-Undergraduate (CUET-UG) on Saturday, May 30, 2026, due to technical glitches at some examination centres. **Tata Consultancy Services (TCS)** was blamed for the delay, which affected candidates across different states. The NTA stated that the issue has been resolved and compensatory time will be provided to all candidates.  The second shift of the exam was also revised with entry starting at 1 p.m. and the examination beginning at 4 p.m.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 62522,
       "title": "PM’s silence on CBSE OSM controversy shows he cares more about his govt’s survival than students’ future: Rahul Gandhi - The Hindu",
@@ -4119,9 +4166,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Goa",
@@ -4242,8 +4287,7 @@
         "Biju Janata Dal"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Odisha",
@@ -4307,6 +4351,168 @@
       "topic_tags": [
         "foreign_policy",
         "corruption_scam",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 46811,
+      "title": "Top Maoist leader Narayana Rao surrenders before A.P. police, regrets violence - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/top-maoist-leader-narayana-rao-surrenders-before-ap-police-regret-killings/article70802752.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1tks9u/article70803465.ece/alternates/LANDSCAPE_1200/DSC_0871.JPG",
+      "scraped_at": "2026-03-31 00:05:09.962846",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "CPI-Maoist",
+      "rephrased_article": "**Chelluri Narayana Rao**, a former member of the **CPI-Maoist** Central Committee, surrendered to Andhra Pradesh DGP Harish Kumar Gupta on Monday.  He expressed regret for his past actions, including the killings of several police personnel and MLAs, stating that he had been involved in violence under the party's ideology. He also acknowledged the decline in public support for the movement due to its outdated ideology. **Narayana Rao** joined the **CPI-Maoist** party 36 years ago but decided to surrender after witnessing changes within the organization and a shift in public sentiment.",
+      "party_mentioned": [
+        "CPI",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 46774,
+      "title": "BJP puts up united front as Suvendu Adhikari files nomination for Nandigram - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/bjp-puts-up-united-front-as-suvendu-adhikari-files-nomination-for-nandigram/article70803755.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/huu6o2/article70804765.ece/alternates/LANDSCAPE_1200/PTI03_30_2026_000439B.jpg",
+      "scraped_at": "2026-03-30 22:05:57.005170",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "**Suvendu Adhikari**, former BJP state president, filed his nomination for the upcoming West Bengal Assembly elections on March 30th. He is contesting from Nandigram and Bhawanipur, challenging incumbent Chief Minister **Mamata Banerjee**.  He was accompanied by **Dilip Ghosh**, former BJP state president, and Union minister **Dharmendra Pradhan**. The BJP has accused **Mamata Banerjee** of threatening voters and violating the Model Code of Conduct. A delegation of senior BJP leaders met with the Election Commission to complain about her actions.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "education"
+      ]
+    },
+    {
+      "id": 46725,
+      "title": "Barring one, entire top leadership of Maoists wiped out, Amit Shah tells Lok Sabha - The Hindu",
+      "url": "https://www.thehindu.com/news/national/barring-one-entire-top-leadership-of-maoists-wiped-out-amit-shah-tells-lok-sabha/article70804368.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/esqwc6/article70804487.ece/alternates/LANDSCAPE_1200/20260330468L.jpg",
+      "scraped_at": "2026-03-30 19:11:50.428792",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Union Home Minister Amit Shah** announced that the **Communist Party of India (Maoists)** leadership has been largely dismantled, with only one member remaining.  He attributed this success to a shift in policy and strong political will following the 2014 election. The government has achieved significant progress against Maoist violence, including the surrender of over 4,800 cadres, arrests of 2,218 members, and the deaths of 706 Maoists.  **Mr. Shah** highlighted the use of technology like drone surveillance and phone tracking in this effort. The government aims to declare India Naxal-free by March 31, 2026.",
+      "party_mentioned": [
+        "Congress",
+        "UPA"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Maharashtra",
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 46650,
+      "title": "DGP appeals to Maoists to surrender and join mainstream - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/dgp-appeals-to-maoists-to-surrender-and-join-mainstream/article70802578.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3bznz0/article70803252.ece/alternates/LANDSCAPE_1200/1002026_%20B%20Shivadhar%20Reddy%2006.jpg",
+      "scraped_at": "2026-03-30 15:11:40.900323",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "CPI (Maoist)",
+      "rephrased_article": "**B. Shivadhar Reddy**, **Telangana** Director General of Police, appealed to **CPI (Maoist)** leaders and cadres operating underground to abandon violence, surrender their weapons, and join the democratic mainstream. He highlighted that over 721 individuals have surrendered in the past two years due to police efforts, receiving benefits like financial assistance under the Comprehensive Rehabilitation Scheme.  **Reddy** urged those currently hiding to return to society and live peacefully with their families, emphasizing security, dignity, and livelihood support for those who surrender. This appeal comes as the Union government's deadline to eliminate Left Wing Extremism approaches on March 31, 2026.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Odisha",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 46605,
+      "title": "NDA, Opposition spar in LS over efforts to free country of Maoism - The Hindu",
+      "url": "https://www.thehindu.com/news/national/nda-opposition-spar-in-ls-over-efforts-to-free-country-of-maoism/article70802599.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/baxlxd/article70802700.ece/alternates/LANDSCAPE_1200/PTI10_26_2025_000342B.jpg",
+      "scraped_at": "2026-03-30 11:37:19.393350",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**BJP** and **NDA** members in the Lok Sabha criticized the previous **UPA** government for its handling of Maoism, accusing it of failing to contain the threat.  They highlighted significant reductions in the \"red corridor\" under the current administration and emphasized the success of policies like Operation Green Hunt and the creation of CoBRA. The Congress countered by pointing to efforts made during their tenure, including the establishment of the Commando Battalion for Resolute Action (CoBRA) and emphasizing a balanced approach that prioritized both security and welfare.  The debate highlighted contrasting approaches to combating Maoism between the two governments.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Shiv Sena",
+        "TDP",
+        "NDA",
+        "UPA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Amit Shah",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
         "crime_violence",
         "protest_opposition"
       ]
