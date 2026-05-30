@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 20:22:38.215275",
+  "generated_at": "2026-05-30 00:17:17.972608",
   "party": "BJP",
   "full_name": "Bharatiya Janata Party",
   "ideology": "Hindu nationalism, right-wing",
@@ -25,7 +25,7 @@
   ],
   "color": "#FF9933",
   "stats": {
-    "total_articles": 1147,
+    "total_articles": 1171,
     "articles_last_30d": 520,
     "sentiment_breakdown_30d": {
       "positive": 170,
@@ -218,7 +218,7 @@
       "id": "p006",
       "person": "Narendra Modi",
       "promise": "End corruption completely — 'Na khaunga, na khane dunga'",
-      "status": "broken",
+      "status": "ongoing",
       "category": "corruption_scam",
       "evidence_count": 1,
       "evidence_articles": [
@@ -347,6 +347,91 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 62555,
+      "title": "Congress holds talks with Hemant Soren on fielding party nominee from one of 2 Rajya Sabha seats going to polls in Jharkhand - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/congress-holds-talks-with-hemant-soren-on-fielding-party-nominee-from-one-of-2-rajya-sabha-seats-going-to-polls-in-jharkhand/article71037888.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/v5pbb9/article71039076.ece/alternates/LANDSCAPE_1200/29_BM_Soren.jpg",
+      "scraped_at": "2026-05-29 22:17:39.665885",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**K. Raju**, **Hemant Soren**, and **Mallu Bhatti Vikramarka** met to discuss fielding a Congress candidate for the upcoming Rajya Sabha elections in Jharkhand.  The decision on who will represent the party is pending approval from the high command, with former State Congress president Rajesh Thakur and former Union Minister Subodh Kant Sahay considered frontrunners. The election will take place on June 18th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal",
+        "JMM",
+        "Jharkhand Mukti Morcha"
+      ],
+      "ministers_mentioned": [
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Jharkhand",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Ranchi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62530,
+      "title": "India, Canada launch trade & investment forum - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-launch-trade-investment-forum/articleshow/131397012.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131396997,width-1200,height-630,imgsize-93440,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-29 20:34:10.412574",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "India, Canada",
+      "rephrased_article": "**Goyal**, during his recent trade missions to Canada and the United States, emphasized the importance of enhancing connectivity and fostering business partnerships. He met with **Canadian International Trade Minister Maninder Sidhu**, business leaders in both countries, and prominent figures like **Ted Pick** (Morgan Stanley) and **Chip Kaye** (Warburg Pincus).  These engagements focused on expanding trade, investment, innovation, and supply chain collaborations to drive shared prosperity between the nations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62522,
+      "title": "PM’s silence on CBSE OSM controversy shows he cares more about his govt’s survival than students’ future: Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pms-silence-on-cbse-osm-controversy-shows-he-cares-more-about-his-govts-survival-than-students-future-rahul-gandhi/article71036716.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t12rxi/article71037004.ece/alternates/LANDSCAPE_1200/20260525276L.jpg",
+      "scraped_at": "2026-05-29 20:32:27.141701",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Rahul Gandhi**, Leader of the Opposition in the Lok Sabha, criticized **COEMPT Edutek's** win of the Central Board of Secondary Education’s (CBSE) on-screen marking contract, alleging that tender norms were manipulated to favor the company.  He questioned Prime Minister Narendra Modi's silence on the controversy and claimed that the contract was awarded despite technical requirements being relaxed for COEMPT. **Gandhi** also highlighted concerns about the evaluation system's flaws and urged an independent judicial probe into all contracts awarded to **COEMPT**.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
     {
       "id": 62443,
       "title": "Italy Heatwave: Italy on red alert as France, Portugal beat hottest May day record - The Times of India",
@@ -5605,89 +5690,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 58945,
-      "title": "NSUI holds protest outside Education Minister’s residence over NEET paper leak - The Hindu",
-      "url": "https://www.thehindu.com/news/national/nsui-holds-protest-outside-education-ministers-residence-over-neet-paper-leak/article70974117.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6ekhnp/article70976787.ece/alternates/LANDSCAPE_1200/Hit-the-streetGF5FVLBHV.3.jpg.jpg",
-      "scraped_at": "2026-05-14 01:29:12.404719",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "Dharmendra Pradhan",
-      "rephrased_article": "**Members of the National Students’ Union of India (NSUI)** protested outside **Dharmendra Pradhan's** residence in Delhi, demanding his resignation following allegations of a paper leak in the NEET-UG 2026 examination. The protesters accused the Education Minister of failing to protect students and demanded a Supreme Court-monitored investigation into the incident, along with action against those involved. **The National Testing Agency (NTA)** cancelled the exam and announced it would be retaken at a later date.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "health",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58934,
-      "title": "Odisha CM reduces number of vehicles in his convoy by half - The Hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-reduces-number-of-vehicles-in-his-convoy-by-half/article70974940.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/k20590/article70976002.ece/alternates/LANDSCAPE_1200/90092_7_8_2025_21_34_0_1_ODISHA_HANDLOOMS_MADHURI_DIXIT_4.JPG",
-      "scraped_at": "2026-05-13 23:13:49.733431",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Odisha Chief Minister Mohan Charan Majhi** has ordered a reduction of half the vehicles in his personal security convoy, following **Prime Minister Narendra Modi's** appeal for citizens to adopt cost-cutting measures due to global oil crisis.  Majhi also urged the public to minimize private vehicle use and prioritize public transport, advising against unnecessary travel and gold purchases.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Odisha"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58919,
-      "title": "Kashmir MLA ‘boycotts’ L-G’s drug campaign after demolition drive in his constituency - The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-mla-boycotts-l-gs-drug-campaign-after-demolition-drive-in-his-constituency/article70975369.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/bq8c08/article70976023.ece/alternates/LANDSCAPE_1200/20260513041L.jpg",
-      "scraped_at": "2026-05-13 23:10:03.926085",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Lieutenant Governor Manoj Sinha",
-      "rephrased_article": "**Sheikh Khursheed**, an MLA from north Kashmir, boycotted a campaign led by **Lieutenant Governor Manoj Sinha** after the police demolished a house in Langate.  Khursheed criticized the demolition as arbitrary and violating Supreme Court directives, arguing it targeted innocent families based on past accusations. He also questioned the government's focus on drug eradication while ignoring other issues like liquor ban. The **LG Sinha**, meanwhile, launched a campaign to curb drug use in the region, highlighting its connection with terrorism.  The police conducted a demolition drive targeting properties linked to alleged drug traffickers.",
-      "party_mentioned": [
-        "BJP",
-        "SP"
-      ],
-      "ministers_mentioned": [
-        "Omar Abdullah"
-      ],
-      "states_mentioned": [
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Srinagar"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "protest_opposition"
       ]
     }
   ]

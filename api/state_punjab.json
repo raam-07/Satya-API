@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 20:22:38.347926",
+  "generated_at": "2026-05-30 00:17:18.112437",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 290,
-    "articles_last_30d": 141
+    "total_articles": 294,
+    "articles_last_30d": 142
   },
   "top_cities_30d": {
     "Delhi": 18,
@@ -24,18 +24,41 @@
     "Ghaziabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 134,
-    "economy": 48,
+    "foreign_policy": 135,
+    "economy": 49,
     "education": 46,
     "protest_opposition": 45,
     "infrastructure": 41,
     "crime_violence": 40,
-    "health": 21,
+    "health": 22,
     "farmer_agriculture": 19,
     "corruption_scam": 16,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62569,
+      "title": "The shrinkage of Pakistan’s aid chart - Pakistan - DAWN.COM",
+      "url": "https://www.dawn.com/news/2003642/the-shrinkage-of-pakistans-aid-chart",
+      "source": "The Dawn",
+      "image_url": "https://i.dawn.com/large/2026/05/2914134561b0513.webp",
+      "scraped_at": "2026-05-29 22:20:45.545541",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan's Government",
+      "rephrased_article": "Pakistan's health system is facing severe challenges due to reduced overseas development assistance (ODA).  **USAID**, **The Global Fund**, and other donors have cut funding for programs like TB, HIV/AIDS, maternal and child health, family planning, and immunization. This has led to program closures, staff layoffs, stock shortages, increased out-of-pocket costs for patients, and a rise in disease outbreaks.  **Pakistan's Ministry of National Health Services**, **Global Fund**, and other organizations are struggling to address the crisis. The government needs to take ownership of the health system and develop sustainable funding mechanisms to ensure long-term resilience.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62448,
       "title": "Drying ponds force Cholistanis to opt for ‘seasonal migration’ - Newspaper - DAWN.COM",
@@ -4973,32 +4996,6 @@
         "crime_violence",
         "foreign_policy",
         "corruption_scam"
-      ]
-    },
-    {
-      "id": 51635,
-      "title": "AJK police arrest suspected RAW agent in Rawalakot - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1992279/ajk-police-arrest-suspected-raw-agent-in-rawalakot",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/04/16135629825c52e.webp",
-      "scraped_at": "2026-04-16 10:04:01.054096",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "India",
-      "rephrased_article": "**AJK** police arrested a suspected **RAW** agent in Rawalakot, who was blackmailed into working for the agency. The suspect's handler used a fake Facebook account to lure him, assigning increasingly sensitive tasks that escalated to gathering information on military sites and civilian institutions.  The **IGP Liaqat Ali Malik** commended the police for exposing the network, which he said \"trapped\" innocent people and caused damage to life and property. The arrest comes amid ongoing tensions between **India** and **Pakistan**, with **Prime Minister Shehbaz Sharif** accusing India of using proxies to revive terrorism in Pakistan.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

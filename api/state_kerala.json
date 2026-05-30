@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 20:22:38.320607",
+  "generated_at": "2026-05-30 00:17:18.084450",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 585,
-    "articles_last_30d": 251
+    "total_articles": 598,
+    "articles_last_30d": 250
   },
   "top_cities_30d": {
-    "Delhi": 29,
-    "Bengaluru": 15,
+    "Delhi": 30,
+    "Bengaluru": 14,
     "Chennai": 12,
     "Kolkata": 8,
     "Hyderabad": 6,
@@ -24,18 +24,51 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 212,
+    "foreign_policy": 210,
     "protest_opposition": 91,
     "education": 65,
-    "infrastructure": 52,
+    "infrastructure": 51,
     "economy": 42,
-    "crime_violence": 36,
-    "health": 25,
+    "crime_violence": 35,
+    "health": 24,
     "farmer_agriculture": 23,
-    "corruption_scam": 20,
+    "corruption_scam": 21,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62522,
+      "title": "PM’s silence on CBSE OSM controversy shows he cares more about his govt’s survival than students’ future: Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pms-silence-on-cbse-osm-controversy-shows-he-cares-more-about-his-govts-survival-than-students-future-rahul-gandhi/article71036716.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t12rxi/article71037004.ece/alternates/LANDSCAPE_1200/20260525276L.jpg",
+      "scraped_at": "2026-05-29 20:32:27.141701",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Rahul Gandhi**, Leader of the Opposition in the Lok Sabha, criticized **COEMPT Edutek's** win of the Central Board of Secondary Education’s (CBSE) on-screen marking contract, alleging that tender norms were manipulated to favor the company.  He questioned Prime Minister Narendra Modi's silence on the controversy and claimed that the contract was awarded despite technical requirements being relaxed for COEMPT. **Gandhi** also highlighted concerns about the evaluation system's flaws and urged an independent judicial probe into all contracts awarded to **COEMPT**.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
     {
       "id": 62464,
       "title": "Karnataka government formation LIVE: Congress to convene crucial CLP meeting at 4 p.m. on May 30 - The Hindu",
@@ -52,7 +85,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
         "Siddaramaiah"
       ],
@@ -5450,30 +5482,6 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 56507,
-      "title": "Kerala Assembly election results: Congress’ Chandy Oommen wins in Puthuppally with huge margin - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-election-results-congress-chandy-oommen-wins-in-puthuppally-with-a-margin-of-52907-votes/article70938070.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/j99i80/article70938084.ece/alternates/LANDSCAPE_1200/IMG_UDF_MLA_Chandy_Oomme_2_1_NTBO4BDF.jpg",
-      "scraped_at": "2026-05-04 09:28:09.726473",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Chandy Oommen",
-      "rephrased_article": "**Chandy Oommen**, son of former Kerala Chief Minister **Oommen Chandy**, won the Puthuppally by-election with a significant margin, securing 84,031 votes. His victory came after a campaign focused on environmental sustainability and door-to-door canvassing using bicycles.  The Communist Party of India (Marxist)'s K. M. Radhakrishnan received 31,124 votes. The Kerala Assembly elections were held on April 9th.",
-      "party_mentioned": [
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]
