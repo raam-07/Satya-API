@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 16:40:01.068657",
+  "generated_at": "2026-05-30 17:44:29.849857",
   "party": "INC",
   "full_name": "Indian National Congress",
   "ideology": "Centrist, Social liberalism",
@@ -12,11 +12,11 @@
   ],
   "color": "#00BFFF",
   "stats": {
-    "total_articles": 979,
-    "articles_last_30d": 377,
+    "total_articles": 986,
+    "articles_last_30d": 375,
     "sentiment_breakdown_30d": {
       "neutral": 129,
-      "negative": 160,
+      "negative": 158,
       "positive": 88
     }
   },
@@ -92,8 +92,19 @@
       "promise": "Guarantee minimum income of Rs 72,000 per year to poorest families (NYAY scheme)",
       "status": "broken",
       "category": "economy",
-      "evidence_count": 0,
-      "evidence_articles": []
+      "evidence_count": 1,
+      "evidence_articles": [
+        {
+          "url": "https://www.thehindu.com/news/national/congress-promises-72000-per-annum-to-poorest-people/article26633658.ece",
+          "title": "Congress promises ₹72,000 per annum to poorest people",
+          "source": "The Hindu",
+          "scraped_at": "2019-03-25",
+          "relevance_score": 100,
+          "gemma_validated": true,
+          "rephrased": "The article covers Rahul Gandhi's announcement of the NYAY minimum income guarantee scheme, which promises to directly transfer ₹72,000 per year to the bank accounts of India's poorest 20% families.",
+          "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
+        }
+      ]
     }
   ],
   "recent_articles": [

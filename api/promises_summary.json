@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-30 16:40:01.569401",
+  "generated_at": "2026-05-30 17:44:30.330803",
   "stats": {
-    "total_promises": 28,
+    "total_promises": 20,
     "kept": 2,
     "broken": 9,
-    "ongoing": 17
+    "ongoing": 9
   },
   "by_status": {
     "broken": [
@@ -17,8 +17,19 @@
         "status": "broken",
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/modi-government-promised-to-double-farm-income-by-2022-but-it-has-only-come-down-congress/article66318536.ece",
+            "title": "Modi government promised to double farm income by 2022 but it has only come down: Congress",
+            "source": "The Hindu",
+            "scraped_at": "2022-12-29",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports on criticisms from the Congress party regarding the Modi government's unfulfilled 2016 promise to double farmers' income by 2022, alleging that real farm incomes have instead decreased.",
+            "content": "The Congress on Thursday claimed that the Modi government had promised to double the income of farmers by 2022 but instead their income had decreased, and accused the BJP of 'betraying' the farmers."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
@@ -31,8 +42,19 @@
         "status": "broken",
         "made_on": "2014-03-15",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://indianexpress.com/article/india/pm-modi-promised-two-crore-jobs-but-one-crore-people-lost-employment-rahul-gandhi-6238612/",
+            "title": "PM Modi promised two crore jobs, but one crore people lost employment: Rahul Gandhi",
+            "source": "The Indian Express",
+            "scraped_at": "2020-01-28",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article details a youth rally where Rahul Gandhi targeted Prime Minister Modi on his promise to create two crore jobs annually, claiming that instead one crore jobs were lost due to economic policies.",
+            "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
       },
@@ -45,8 +67,19 @@
         "status": "broken",
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://timesofindia.indiatimes.com/india/fm-defends-modis-rs-15l-for-all-claim/articleshow/46522502.cms",
+            "title": "FM defends Modi's 'Rs 15L for all' claim",
+            "source": "Times of India",
+            "scraped_at": "2015-03-11",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Finance Minister Arun Jaitley defending PM Modi's 2014 campaign statement in the Sabha, explaining that the Rs 15 lakh figure was merely an illustrative calculation of the volume of stashed black money rather than a literal promise.",
+            "content": "Finance Minister Arun Jaitley on Wednesday defended Prime Minister Narendra Modi's election campaign statement that if all black money stashed abroad were brought back it could amount to Rs 15 lakh for each citizen. Jaitley told Rajya Sabha that the PM's remark was an 'illustrative statement' based on various versions of estimates of black money."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -59,8 +92,19 @@
         "status": "broken",
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-delayed-5-trillion-dream-what-imfs-new-timeline-means-for-your-wallet/articleshow/106103444.cms",
+            "title": "India's delayed $5-trillion dream: What IMF's new timeline means for your wallet",
+            "source": "Economic Times",
+            "scraped_at": "2023-12-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article discusses the shifting timeline for India to reach a $5 trillion economy, highlighting that the IMF's revised projections push the milestone to 2028-29, delayed from the government's initial target of 2024-25, primarily due to exchange rate fluctuations.",
+            "content": "According to the IMF's latest World Economic Outlook database, India is now expected to become a $5-trillion economy by 2028-29, delayed by four years from the government's initial target of 2024-25. The delay in achieving the target in dollar terms is primarily due to the depreciation of the rupee against the US dollar."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
@@ -73,8 +117,19 @@
         "status": "broken",
         "made_on": "2017-02-01",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/electoral-bonds-pm-modi-rejects-corruption-charge-says-scheme-was-aimed-at-curbing-black-money/articleshow/108316209.cms",
+            "title": "Electoral bonds: PM Modi rejects corruption charge, says scheme was aimed at curbing black money",
+            "source": "Economic Times",
+            "scraped_at": "2024-04-15",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "In an interview, Prime Minister Modi defended the electoral bonds scheme, arguing that it brought transparency by creating a clear money trail for political funding and aimed to eliminate black money in election campaigns.",
+            "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
       },
@@ -87,8 +142,19 @@
         "status": "broken",
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/india/demonetisation-a-well-considered-decision-to-combat-black-money-terror-financing-centre-tells-sc/articleshow/95556277.cms",
+            "title": "Demonetisation a 'well-considered' decision to combat black money, terror financing: Centre tells SC",
+            "source": "Economic Times",
+            "scraped_at": "2022-11-16",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers the Union government filing an affidavit in the Supreme Court, defending the 2016 demonetization of high-value notes as a well-considered decision that successfully targeted tax evasion, counterfeit currency, black money, and terror funding.",
+            "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
       },
@@ -101,8 +167,19 @@
         "status": "broken",
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/covid-snag-in-bullet-train-project-may-fail-to-meet-2023-deadline/article32525164.ece",
+            "title": "COVID snag in bullet train project, may fail to meet 2023 deadline",
+            "source": "The Hindu",
+            "scraped_at": "2020-09-05",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports that the Mumbai-Ahmedabad bullet train project is likely to miss its December 2023 deadline due to delays in land acquisition in Maharashtra and disruptions caused by the COVID-19 pandemic.",
+            "content": "The ambitious Mumbai-Ahmedabad bullet train project, which was scheduled to be completed by December 2023, is likely to miss its deadline due to delays in land acquisition, especially in Maharashtra, and the COVID-19 pandemic."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
       },
@@ -115,8 +192,19 @@
         "status": "broken",
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-govt-working-on-war-footing-to-clean-yamuna-by-february-2025-arvind-kejriwal/articleshow/87768579.cms",
+            "title": "Delhi govt working on war footing to clean Yamuna by February 2025: Arvind Kejriwal",
+            "source": "Times of India",
+            "scraped_at": "2021-11-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Arvind Kejriwal's announcement of a six-point action plan to clean the heavily polluted Yamuna river to bathing standards by February 2025, which includes increasing sewage treatment capacity and connecting all slums to the sewer network.",
+            "content": "Delhi Chief Minister Arvind Kejriwal on Thursday announced a six-point action plan to clean the Yamuna river to 'bathing standards' by February 2025. He said the government is working on a war footing and he is personally monitoring the progress of the projects."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       },
@@ -129,8 +217,19 @@
         "status": "broken",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/congress-promises-72000-per-annum-to-poorest-people/article26633658.ece",
+            "title": "Congress promises ₹72,000 per annum to poorest people",
+            "source": "The Hindu",
+            "scraped_at": "2019-03-25",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Rahul Gandhi's announcement of the NYAY minimum income guarantee scheme, which promises to directly transfer ₹72,000 per year to the bank accounts of India's poorest 20% families.",
+            "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
       }
@@ -145,8 +244,19 @@
         "status": "ongoing",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/305-cities-and-towns-identified-for-building-homes-under-housing-for-all-by-2022-mission/articleshow/48740523.cms",
+            "title": "305 cities and towns identified for building homes under 'Housing for All by 2022' mission",
+            "source": "Economic Times",
+            "scraped_at": "2015-08-31",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers the initial implementation phase of the Pradhan Mantri Awas Yojana, identifying 305 cities across nine states to kickstart the government's ambitious goal of constructing 2 crore affordable homes for the urban poor by 2022.",
+            "content": "Under the 'Housing for All by 2022' mission, the government has identified 305 cities and towns across nine states to start building houses for the urban poor. The housing ministry has also finalised reforms that need to be implemented by state governments to facilitate the construction of 2 crore houses."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -184,8 +294,19 @@
         "status": "ongoing",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/centres-potable-water-mission-may-miss-2024-target/article67029584.ece",
+            "title": "Centre's potable water mission may miss 2024 target",
+            "source": "The Hindu",
+            "scraped_at": "2023-07-02",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports that the Union government's Jal Jeevan Mission, which aims to provide piped drinking water to every rural household by 2024, is likely to miss its target due to disruptions like the COVID-19 pandemic and materials shortages.",
+            "content": "The Union government’s ambitious initiative to provide tap water connections to all rural households by 2024 is likely to miss its target. The Union Jal Shakti Ministry reported that the COVID-19 pandemic, along with subsequent disruptions like the Russia-Ukraine war, has severely delayed the progress of the Jal Jeevan Mission."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
@@ -221,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Evidence shows ongoing discussion and consultation regarding UCC implementation."
+        "gemma_reasoning": "Ongoing discussions and consultations regarding UCC implementation."
       },
       {
         "id": "p010",
@@ -232,8 +353,19 @@
         "status": "ongoing",
         "made_on": "2019-06-01",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/simultaneous-polls-top-10-recommendations-made-by-ram-nath-kovind-panel/article68984920.ece",
+            "title": "Simultaneous polls: Top 10 recommendations made by Ram Nath Kovind panel",
+            "source": "The Hindu",
+            "scraped_at": "2024-03-14",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article outlines the key recommendations of the Ram Nath Kovind-led committee on 'One Nation, One Election,' which proposed a two-step transition to simultaneous polls for the Lok Sabha, state assemblies, and local bodies.",
+            "content": "A high-level committee on 'One Nation, One Election' headed by former President Ram Nath Kovind submitted its report to President Droupadi Murmu on Thursday, recommending a two-step approach to hold simultaneous elections for the Lok Sabha, State Legislative Assemblies and local bodies."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
       },
@@ -246,8 +378,19 @@
         "status": "ongoing",
         "made_on": "2018-09-17",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/shah-asks-delhi-police-to-take-action-against-networks-helping-illegal-bangladeshis-rohingyas/article69219356.ece",
+            "title": "Shah asks Delhi Police to take action against networks helping illegal Bangladeshis, Rohingyas",
+            "source": "The Hindu",
+            "scraped_at": "2025-02-28",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Union Home Minister Amit Shah's directive to the Delhi Police during a review meeting, ordering them to take strict action to identify and deport illegal Bangladeshi and Rohingya immigrants, calling their presence a national security issue.",
+            "content": "Union Home Minister Amit Shah on Friday directed the Delhi Police to take strict action against networks facilitating the entry and stay of illegal Bangladeshi and Rohingya immigrants. Mr. Shah, who chaired a high-level meeting to review the law and order situation in Delhi, said that the presence of 'illegal intruders' is a matter of national security and directed that they should be identified and deported."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       },
@@ -260,8 +403,19 @@
         "status": "ongoing",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/other-states/with-zero-tolerance-for-crime-and-criminals-up-has-created-sense-of-security-for-industry-yogi-adityanath/article66167817.ece",
+            "title": "With zero tolerance for crime and criminals, U.P. has created sense of security for industry: Yogi Adityanath",
+            "source": "The Hindu",
+            "scraped_at": "2022-11-22",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Chief Minister Yogi Adityanath highlighting the state's zero-tolerance policy toward crime and criminals, claiming it has restored law and order and established a safe environment that attracts industrial investment.",
+            "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
       },
@@ -288,7 +442,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as the evidence shows active work by the government."
+        "gemma_reasoning": "The evidence shows ongoing work related to the promise."
       },
       {
         "id": "p020",
@@ -313,140 +467,6 @@
         ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The target year is 2047 and active work is mentioned."
-      },
-      {
-        "id": "promise_1780107759_0",
-        "person": "Nirmala Sitharaman",
-        "party": "",
-        "promise": "The government will restructure Power Finance Corporation (PFC) and Rural Electrification Corporation (REC) for streamlined operations.",
-        "category": "infrastructure",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/mega-merger-incoming-should-you-buy-pfc-rec-shares-ahead-of-merger-heres-what-analysts-say/articleshow/131239710.cms",
-            "title": "Mega merger incoming: Should you buy PFC, REC shares ahead of merger? Here's what analysts say - The Economic Times",
-            "source": "Economic Times",
-            "scraped_at": "2026-05-21 08:37:33.591765",
-            "relevance_score": 100,
-            "gemma_validated": true,
-            "rephrased": "**Nirmala Sitharaman**, the **Union Finance Minister**, announced plans to restructure **Power Finance Corporation (PFC)** and **Rural Electrification Corporation (REC)** for streamlined operations. T",
-            "content": "Earlier in February this year, Union Finance Minister Nirmala Sitharaman after presenting the Union Budget, said that the government will restructure Power Finance Corporation (PFC) and Rural Electrification Corporation (REC) in order to streamline operations. The shares of the two companies had sharply jumped following the announcement. The Cabinet Committee on Economic Affairs earlier cleared a proposal under which PFC acquired 52.63% of the government's holding in REC. With this acquisition, PFC and REC are currently operating in a holding subsidiary structure. The proposed merger would consolidate the two entities into a single balance sheet, subject to statutory approvals and detailed structuring. What should investors do? Fresh exposure in PFC and REC will be better if staggered than chased after the merger headline, said Harshal Dasani, Business Head at INVasset PMS. He highlighted that the boards of the two companies have cleared the merger proposal, while completion may still depend on regulatory and structural approvals. “That means the trade is no longer only about power financing fundamentals. It is also about swap ratio, timing and execution clarity,” the analyst said.Between the two, PFC offers cleaner visibility because it is the parent entity and is better placed as the consolidation anchor, Dasani said, adding that REC’s underperformance may create a catch-up trade if the swap ratio is favourable, but that is not the same as fundamental comfort. “The core business remains structurally supported by power capex, transmission, renewable financing and improving state utility discipline, but valuations have already priced in a fair amount of that cycle,” he said. “For fresh money, the prudent approach is to wait for the swap ratio or accumulate only in tranches. PFC looks better suited for conservative exposure. REC is more of a merger-arbitrage call and carries higher event risk. The one thing to avoid is treating the merger as guaranteed upside. In PSU financials, structure can matter as much as earnings,” the analyst further said. PFC and REC share prices PFC shares have fallen more than 3% in one week and 9% in one month to close at Rs 429.35 apiece on Wednesday. The stock is overall up nearly 19% in 2026 so far. In the longer term, the shares of the company delivered 6% returns over one year, 226% returns over three years and 362% in five years. The company currently has a market capitalisation of nearly Rs 1.43 lakh crore.REC shares meanwhile declined over 3% in one week and 12% in one month, closing at Rs 333 apiece on Wednesday. The stock has declined 9% in 2026 so far and 15% in one year. In the longer term, the shares of the company jumped 158% in three years and 217% in five years. The company currently has a market capitalisation of more than Rs 88,210 crore. (Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times) (What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .) Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today. Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price"
-          }
-        ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The announcement indicates plans for restructuring, but no completion is confirmed."
-      },
-      {
-        "id": "promise_1780122872_0",
-        "person": "V.D. Satheesan",
-        "party": "",
-        "promise": "Satheesan assured them that he would resolve their grievances.",
-        "category": "politics",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      },
-      {
-        "id": "promise_1780132738_0",
-        "person": "C. Joseph Vijay",
-        "party": "",
-        "promise": "Seeks an immediate rollback of the fuel price hike.",
-        "category": "economy",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-opposes-hike-in-fuel-prices-seeks-immediate-rollback/article70983390.ece",
-            "title": "Vijay opposes hike in fuel prices; seeks immediate rollback - The Hindu",
-            "source": "The Hindu",
-            "scraped_at": "2026-05-16 06:31:03.650084",
-            "relevance_score": 93,
-            "gemma_validated": true,
-            "rephrased": "**Tamil Nadu Chief Minister C. Joseph Vijay** criticized the recent fuel price hike, arguing that it disproportionately impacts low-income individuals and businesses.  He called for an immediate rollb",
-            "content": "Tamil Nadu Chief Minister C. Joseph Vijay on Friday opposed the fuel price hike and urged the Union government to roll back the hike immediately. In a statement, Mr. Vijay said that it was unacceptable, contending that it would severely affect the buying capacity of the poor and the downtrodden. He pointed that the oil marketing companies do not decrease the prices of fuel when the crude oil prices fall and instead realised the profits. The hike in fuel prices especially after the Assembly election in some States and Union territory was unacceptable. “The monthly income of the poor, the downtrodden and the middle class, who use two-wheelers and mini buses would be affected,” Mr. Vijay said. Those who obtained loans to operate vehicles would be forced to incur additional expenditure and their economy would be affected too,” the CM said. Due to the rise in the prices of fuel, the vehicle rentals are also set to increase, the CM said. “It would increase inflation and it would affect the purchasing power of the poor and the downtrodden.” Mr. Vijay further said that the manufacturing cost in the MSME sector would go up and it would lead to stagnation in the market and affect the export of goods. Published - May 15, 2026 07:46 pm IST"
-          }
-        ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows the promise is being discussed but not implemented."
-      },
-      {
-        "id": "promise_1780147805_0",
-        "person": "Amit Shah",
-        "party": "",
-        "promise": "The Cabinet approved a ₹20,667 crore Ahmedabad (Sarkhej)-Dholera semi-high-speed double rail line project.",
-        "category": "infrastructure",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      },
-      {
-        "id": "promise_1780147893_1",
-        "person": "Mohan Yadav",
-        "party": "",
-        "promise": "Promised a thorough investigation into the firecracker factory explosion.",
-        "category": "crime_violence",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      },
-      {
-        "id": "promise_1780148359_2",
-        "person": "Revanth Reddy",
-        "party": "",
-        "promise": "The Ramakrishnapur Opencast (RKP OC) Phase-2 project will create 5,000 jobs.",
-        "category": "economy",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      },
-      {
-        "id": "promise_1780152434_0",
-        "person": "Nirmala Sitharaman",
-        "party": "",
-        "promise": "The Cabinet Committee on Economic Affairs approved a proposal where PFC acquired 52.63% of the government's holding in REC, consolidating them into a single balance sheet.",
-        "category": "economy",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      },
-      {
-        "id": "promise_1780153152_1",
-        "person": "V.D. Satheesan",
-        "party": "",
-        "promise": "V.D. Satheesan indicated that the full list of Ministers will be presented to Governor Rajendra Vishwanath Arlekar by Sunday evening.",
-        "category": "politics",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
       }
     ],
     "kept": [
@@ -459,8 +479,19 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/cities/Delhi/atishi-turns-spotlight-on-world-class-govt-schools-in-delhi-bjp-dismisses-her-claims/article68503887.ece",
+            "title": "Atishi turns spotlight on 'world-class' govt. schools in Delhi; BJP dismisses her claims",
+            "source": "The Hindu",
+            "scraped_at": "2024-08-09",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Education Minister Atishi showcasing the Delhi government's work since 2015 to build over 22,000 new classrooms and upgrade infrastructure to world-class standards, while the BJP criticized the claims for ignoring high teacher vacancies and declining pass percentages.",
+            "content": "Delhi Education Minister Atishi on Friday claimed that the AAP government has built 22,711 new classrooms in the last nine years, transforming the state of education and providing world-class facilities to students. The BJP dismissed the claims as 'misleading', alleging that the government has failed to fill teacher vacancies and that many schools are functioning without principals."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
@@ -473,8 +504,19 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/cities/Delhi/kejriwal-promises-free-200-units-electricity-for-tenants/article69094723.ece",
+            "title": "Kejriwal promises free 200 units electricity for tenants",
+            "source": "The Hindu",
+            "scraped_at": "2025-01-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Arvind Kejriwal's pre-election announcement promising to resolve execution flaws in the prepaid meter scheme so that tenants in Delhi can easily get free electricity up to 200 units and free water.",
+            "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
       }
@@ -491,8 +533,19 @@
         "status": "broken",
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/modi-government-promised-to-double-farm-income-by-2022-but-it-has-only-come-down-congress/article66318536.ece",
+            "title": "Modi government promised to double farm income by 2022 but it has only come down: Congress",
+            "source": "The Hindu",
+            "scraped_at": "2022-12-29",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports on criticisms from the Congress party regarding the Modi government's unfulfilled 2016 promise to double farmers' income by 2022, alleging that real farm incomes have instead decreased.",
+            "content": "The Congress on Thursday claimed that the Modi government had promised to double the income of farmers by 2022 but instead their income had decreased, and accused the BJP of 'betraying' the farmers."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
@@ -505,8 +558,19 @@
         "status": "broken",
         "made_on": "2014-03-15",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://indianexpress.com/article/india/pm-modi-promised-two-crore-jobs-but-one-crore-people-lost-employment-rahul-gandhi-6238612/",
+            "title": "PM Modi promised two crore jobs, but one crore people lost employment: Rahul Gandhi",
+            "source": "The Indian Express",
+            "scraped_at": "2020-01-28",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article details a youth rally where Rahul Gandhi targeted Prime Minister Modi on his promise to create two crore jobs annually, claiming that instead one crore jobs were lost due to economic policies.",
+            "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
       },
@@ -519,8 +583,19 @@
         "status": "broken",
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://timesofindia.indiatimes.com/india/fm-defends-modis-rs-15l-for-all-claim/articleshow/46522502.cms",
+            "title": "FM defends Modi's 'Rs 15L for all' claim",
+            "source": "Times of India",
+            "scraped_at": "2015-03-11",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Finance Minister Arun Jaitley defending PM Modi's 2014 campaign statement in the Sabha, explaining that the Rs 15 lakh figure was merely an illustrative calculation of the volume of stashed black money rather than a literal promise.",
+            "content": "Finance Minister Arun Jaitley on Wednesday defended Prime Minister Narendra Modi's election campaign statement that if all black money stashed abroad were brought back it could amount to Rs 15 lakh for each citizen. Jaitley told Rajya Sabha that the PM's remark was an 'illustrative statement' based on various versions of estimates of black money."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -533,8 +608,19 @@
         "status": "ongoing",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/305-cities-and-towns-identified-for-building-homes-under-housing-for-all-by-2022-mission/articleshow/48740523.cms",
+            "title": "305 cities and towns identified for building homes under 'Housing for All by 2022' mission",
+            "source": "Economic Times",
+            "scraped_at": "2015-08-31",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers the initial implementation phase of the Pradhan Mantri Awas Yojana, identifying 305 cities across nine states to kickstart the government's ambitious goal of constructing 2 crore affordable homes for the urban poor by 2022.",
+            "content": "Under the 'Housing for All by 2022' mission, the government has identified 305 cities and towns across nine states to start building houses for the urban poor. The housing ministry has also finalised reforms that need to be implemented by state governments to facilitate the construction of 2 crore houses."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -547,8 +633,19 @@
         "status": "broken",
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-delayed-5-trillion-dream-what-imfs-new-timeline-means-for-your-wallet/articleshow/106103444.cms",
+            "title": "India's delayed $5-trillion dream: What IMF's new timeline means for your wallet",
+            "source": "Economic Times",
+            "scraped_at": "2023-12-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article discusses the shifting timeline for India to reach a $5 trillion economy, highlighting that the IMF's revised projections push the milestone to 2028-29, delayed from the government's initial target of 2024-25, primarily due to exchange rate fluctuations.",
+            "content": "According to the IMF's latest World Economic Outlook database, India is now expected to become a $5-trillion economy by 2028-29, delayed by four years from the government's initial target of 2024-25. The delay in achieving the target in dollar terms is primarily due to the depreciation of the rupee against the US dollar."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
@@ -586,8 +683,19 @@
         "status": "broken",
         "made_on": "2017-02-01",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/electoral-bonds-pm-modi-rejects-corruption-charge-says-scheme-was-aimed-at-curbing-black-money/articleshow/108316209.cms",
+            "title": "Electoral bonds: PM Modi rejects corruption charge, says scheme was aimed at curbing black money",
+            "source": "Economic Times",
+            "scraped_at": "2024-04-15",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "In an interview, Prime Minister Modi defended the electoral bonds scheme, arguing that it brought transparency by creating a clear money trail for political funding and aimed to eliminate black money in election campaigns.",
+            "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
       },
@@ -600,8 +708,19 @@
         "status": "ongoing",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/centres-potable-water-mission-may-miss-2024-target/article67029584.ece",
+            "title": "Centre's potable water mission may miss 2024 target",
+            "source": "The Hindu",
+            "scraped_at": "2023-07-02",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports that the Union government's Jal Jeevan Mission, which aims to provide piped drinking water to every rural household by 2024, is likely to miss its target due to disruptions like the COVID-19 pandemic and materials shortages.",
+            "content": "The Union government’s ambitious initiative to provide tap water connections to all rural households by 2024 is likely to miss its target. The Union Jal Shakti Ministry reported that the COVID-19 pandemic, along with subsequent disruptions like the Russia-Ukraine war, has severely delayed the progress of the Jal Jeevan Mission."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
@@ -637,7 +756,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Evidence shows ongoing discussion and consultation regarding UCC implementation."
+        "gemma_reasoning": "Ongoing discussions and consultations regarding UCC implementation."
       },
       {
         "id": "p010",
@@ -648,8 +767,19 @@
         "status": "ongoing",
         "made_on": "2019-06-01",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/simultaneous-polls-top-10-recommendations-made-by-ram-nath-kovind-panel/article68984920.ece",
+            "title": "Simultaneous polls: Top 10 recommendations made by Ram Nath Kovind panel",
+            "source": "The Hindu",
+            "scraped_at": "2024-03-14",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article outlines the key recommendations of the Ram Nath Kovind-led committee on 'One Nation, One Election,' which proposed a two-step transition to simultaneous polls for the Lok Sabha, state assemblies, and local bodies.",
+            "content": "A high-level committee on 'One Nation, One Election' headed by former President Ram Nath Kovind submitted its report to President Droupadi Murmu on Thursday, recommending a two-step approach to hold simultaneous elections for the Lok Sabha, State Legislative Assemblies and local bodies."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
       },
@@ -662,8 +792,19 @@
         "status": "broken",
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/india/demonetisation-a-well-considered-decision-to-combat-black-money-terror-financing-centre-tells-sc/articleshow/95556277.cms",
+            "title": "Demonetisation a 'well-considered' decision to combat black money, terror financing: Centre tells SC",
+            "source": "Economic Times",
+            "scraped_at": "2022-11-16",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers the Union government filing an affidavit in the Supreme Court, defending the 2016 demonetization of high-value notes as a well-considered decision that successfully targeted tax evasion, counterfeit currency, black money, and terror funding.",
+            "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
       },
@@ -676,8 +817,19 @@
         "status": "broken",
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/covid-snag-in-bullet-train-project-may-fail-to-meet-2023-deadline/article32525164.ece",
+            "title": "COVID snag in bullet train project, may fail to meet 2023 deadline",
+            "source": "The Hindu",
+            "scraped_at": "2020-09-05",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports that the Mumbai-Ahmedabad bullet train project is likely to miss its December 2023 deadline due to delays in land acquisition in Maharashtra and disruptions caused by the COVID-19 pandemic.",
+            "content": "The ambitious Mumbai-Ahmedabad bullet train project, which was scheduled to be completed by December 2023, is likely to miss its deadline due to delays in land acquisition, especially in Maharashtra, and the COVID-19 pandemic."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
       },
@@ -716,24 +868,21 @@
         "status": "ongoing",
         "made_on": "2018-09-17",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/shah-asks-delhi-police-to-take-action-against-networks-helping-illegal-bangladeshis-rohingyas/article69219356.ece",
+            "title": "Shah asks Delhi Police to take action against networks helping illegal Bangladeshis, Rohingyas",
+            "source": "The Hindu",
+            "scraped_at": "2025-02-28",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Union Home Minister Amit Shah's directive to the Delhi Police during a review meeting, ordering them to take strict action to identify and deport illegal Bangladeshi and Rohingya immigrants, calling their presence a national security issue.",
+            "content": "Union Home Minister Amit Shah on Friday directed the Delhi Police to take strict action against networks facilitating the entry and stay of illegal Bangladeshi and Rohingya immigrants. Mr. Shah, who chaired a high-level meeting to review the law and order situation in Delhi, said that the presence of 'illegal intruders' is a matter of national security and directed that they should be identified and deported."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
-      },
-      {
-        "id": "promise_1780147805_0",
-        "person": "Amit Shah",
-        "party": "",
-        "promise": "The Cabinet approved a ₹20,667 crore Ahmedabad (Sarkhej)-Dholera semi-high-speed double rail line project.",
-        "category": "infrastructure",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
       }
     ],
     "Arvind Kejriwal": [
@@ -746,8 +895,19 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/cities/Delhi/atishi-turns-spotlight-on-world-class-govt-schools-in-delhi-bjp-dismisses-her-claims/article68503887.ece",
+            "title": "Atishi turns spotlight on 'world-class' govt. schools in Delhi; BJP dismisses her claims",
+            "source": "The Hindu",
+            "scraped_at": "2024-08-09",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Education Minister Atishi showcasing the Delhi government's work since 2015 to build over 22,000 new classrooms and upgrade infrastructure to world-class standards, while the BJP criticized the claims for ignoring high teacher vacancies and declining pass percentages.",
+            "content": "Delhi Education Minister Atishi on Friday claimed that the AAP government has built 22,711 new classrooms in the last nine years, transforming the state of education and providing world-class facilities to students. The BJP dismissed the claims as 'misleading', alleging that the government has failed to fill teacher vacancies and that many schools are functioning without principals."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
@@ -760,8 +920,19 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/cities/Delhi/kejriwal-promises-free-200-units-electricity-for-tenants/article69094723.ece",
+            "title": "Kejriwal promises free 200 units electricity for tenants",
+            "source": "The Hindu",
+            "scraped_at": "2025-01-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Arvind Kejriwal's pre-election announcement promising to resolve execution flaws in the prepaid meter scheme so that tenants in Delhi can easily get free electricity up to 200 units and free water.",
+            "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
       },
@@ -774,8 +945,19 @@
         "status": "broken",
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-govt-working-on-war-footing-to-clean-yamuna-by-february-2025-arvind-kejriwal/articleshow/87768579.cms",
+            "title": "Delhi govt working on war footing to clean Yamuna by February 2025: Arvind Kejriwal",
+            "source": "Times of India",
+            "scraped_at": "2021-11-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Arvind Kejriwal's announcement of a six-point action plan to clean the heavily polluted Yamuna river to bathing standards by February 2025, which includes increasing sewage treatment capacity and connecting all slums to the sewer network.",
+            "content": "Delhi Chief Minister Arvind Kejriwal on Thursday announced a six-point action plan to clean the Yamuna river to 'bathing standards' by February 2025. He said the government is working on a war footing and he is personally monitoring the progress of the projects."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       }
@@ -790,8 +972,19 @@
         "status": "broken",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/congress-promises-72000-per-annum-to-poorest-people/article26633658.ece",
+            "title": "Congress promises ₹72,000 per annum to poorest people",
+            "source": "The Hindu",
+            "scraped_at": "2019-03-25",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Rahul Gandhi's announcement of the NYAY minimum income guarantee scheme, which promises to directly transfer ₹72,000 per year to the bank accounts of India's poorest 20% families.",
+            "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
       }
@@ -806,8 +999,19 @@
         "status": "ongoing",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/other-states/with-zero-tolerance-for-crime-and-criminals-up-has-created-sense-of-security-for-industry-yogi-adityanath/article66167817.ece",
+            "title": "With zero tolerance for crime and criminals, U.P. has created sense of security for industry: Yogi Adityanath",
+            "source": "The Hindu",
+            "scraped_at": "2022-11-22",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Chief Minister Yogi Adityanath highlighting the state's zero-tolerance policy toward crime and criminals, claiming it has restored law and order and established a safe environment that attracts industrial investment.",
+            "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
       }
@@ -836,137 +1040,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as the evidence shows active work by the government."
-      }
-    ],
-    "Nirmala Sitharaman": [
-      {
-        "id": "promise_1780107759_0",
-        "person": "Nirmala Sitharaman",
-        "party": "",
-        "promise": "The government will restructure Power Finance Corporation (PFC) and Rural Electrification Corporation (REC) for streamlined operations.",
-        "category": "infrastructure",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/mega-merger-incoming-should-you-buy-pfc-rec-shares-ahead-of-merger-heres-what-analysts-say/articleshow/131239710.cms",
-            "title": "Mega merger incoming: Should you buy PFC, REC shares ahead of merger? Here's what analysts say - The Economic Times",
-            "source": "Economic Times",
-            "scraped_at": "2026-05-21 08:37:33.591765",
-            "relevance_score": 100,
-            "gemma_validated": true,
-            "rephrased": "**Nirmala Sitharaman**, the **Union Finance Minister**, announced plans to restructure **Power Finance Corporation (PFC)** and **Rural Electrification Corporation (REC)** for streamlined operations. T",
-            "content": "Earlier in February this year, Union Finance Minister Nirmala Sitharaman after presenting the Union Budget, said that the government will restructure Power Finance Corporation (PFC) and Rural Electrification Corporation (REC) in order to streamline operations. The shares of the two companies had sharply jumped following the announcement. The Cabinet Committee on Economic Affairs earlier cleared a proposal under which PFC acquired 52.63% of the government's holding in REC. With this acquisition, PFC and REC are currently operating in a holding subsidiary structure. The proposed merger would consolidate the two entities into a single balance sheet, subject to statutory approvals and detailed structuring. What should investors do? Fresh exposure in PFC and REC will be better if staggered than chased after the merger headline, said Harshal Dasani, Business Head at INVasset PMS. He highlighted that the boards of the two companies have cleared the merger proposal, while completion may still depend on regulatory and structural approvals. “That means the trade is no longer only about power financing fundamentals. It is also about swap ratio, timing and execution clarity,” the analyst said.Between the two, PFC offers cleaner visibility because it is the parent entity and is better placed as the consolidation anchor, Dasani said, adding that REC’s underperformance may create a catch-up trade if the swap ratio is favourable, but that is not the same as fundamental comfort. “The core business remains structurally supported by power capex, transmission, renewable financing and improving state utility discipline, but valuations have already priced in a fair amount of that cycle,” he said. “For fresh money, the prudent approach is to wait for the swap ratio or accumulate only in tranches. PFC looks better suited for conservative exposure. REC is more of a merger-arbitrage call and carries higher event risk. The one thing to avoid is treating the merger as guaranteed upside. In PSU financials, structure can matter as much as earnings,” the analyst further said. PFC and REC share prices PFC shares have fallen more than 3% in one week and 9% in one month to close at Rs 429.35 apiece on Wednesday. The stock is overall up nearly 19% in 2026 so far. In the longer term, the shares of the company delivered 6% returns over one year, 226% returns over three years and 362% in five years. The company currently has a market capitalisation of nearly Rs 1.43 lakh crore.REC shares meanwhile declined over 3% in one week and 12% in one month, closing at Rs 333 apiece on Wednesday. The stock has declined 9% in 2026 so far and 15% in one year. In the longer term, the shares of the company jumped 158% in three years and 217% in five years. The company currently has a market capitalisation of more than Rs 88,210 crore. (Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times) (What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .) Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today. Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price"
-          }
-        ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The announcement indicates plans for restructuring, but no completion is confirmed."
-      },
-      {
-        "id": "promise_1780152434_0",
-        "person": "Nirmala Sitharaman",
-        "party": "",
-        "promise": "The Cabinet Committee on Economic Affairs approved a proposal where PFC acquired 52.63% of the government's holding in REC, consolidating them into a single balance sheet.",
-        "category": "economy",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      }
-    ],
-    "V.D. Satheesan": [
-      {
-        "id": "promise_1780122872_0",
-        "person": "V.D. Satheesan",
-        "party": "",
-        "promise": "Satheesan assured them that he would resolve their grievances.",
-        "category": "politics",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      },
-      {
-        "id": "promise_1780153152_1",
-        "person": "V.D. Satheesan",
-        "party": "",
-        "promise": "V.D. Satheesan indicated that the full list of Ministers will be presented to Governor Rajendra Vishwanath Arlekar by Sunday evening.",
-        "category": "politics",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      }
-    ],
-    "C. Joseph Vijay": [
-      {
-        "id": "promise_1780132738_0",
-        "person": "C. Joseph Vijay",
-        "party": "",
-        "promise": "Seeks an immediate rollback of the fuel price hike.",
-        "category": "economy",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-opposes-hike-in-fuel-prices-seeks-immediate-rollback/article70983390.ece",
-            "title": "Vijay opposes hike in fuel prices; seeks immediate rollback - The Hindu",
-            "source": "The Hindu",
-            "scraped_at": "2026-05-16 06:31:03.650084",
-            "relevance_score": 93,
-            "gemma_validated": true,
-            "rephrased": "**Tamil Nadu Chief Minister C. Joseph Vijay** criticized the recent fuel price hike, arguing that it disproportionately impacts low-income individuals and businesses.  He called for an immediate rollb",
-            "content": "Tamil Nadu Chief Minister C. Joseph Vijay on Friday opposed the fuel price hike and urged the Union government to roll back the hike immediately. In a statement, Mr. Vijay said that it was unacceptable, contending that it would severely affect the buying capacity of the poor and the downtrodden. He pointed that the oil marketing companies do not decrease the prices of fuel when the crude oil prices fall and instead realised the profits. The hike in fuel prices especially after the Assembly election in some States and Union territory was unacceptable. “The monthly income of the poor, the downtrodden and the middle class, who use two-wheelers and mini buses would be affected,” Mr. Vijay said. Those who obtained loans to operate vehicles would be forced to incur additional expenditure and their economy would be affected too,” the CM said. Due to the rise in the prices of fuel, the vehicle rentals are also set to increase, the CM said. “It would increase inflation and it would affect the purchasing power of the poor and the downtrodden.” Mr. Vijay further said that the manufacturing cost in the MSME sector would go up and it would lead to stagnation in the market and affect the export of goods. Published - May 15, 2026 07:46 pm IST"
-          }
-        ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows the promise is being discussed but not implemented."
-      }
-    ],
-    "Mohan Yadav": [
-      {
-        "id": "promise_1780147893_1",
-        "person": "Mohan Yadav",
-        "party": "",
-        "promise": "Promised a thorough investigation into the firecracker factory explosion.",
-        "category": "crime_violence",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
-      }
-    ],
-    "Revanth Reddy": [
-      {
-        "id": "promise_1780148359_2",
-        "person": "Revanth Reddy",
-        "party": "",
-        "promise": "The Ramakrishnapur Opencast (RKP OC) Phase-2 project will create 5,000 jobs.",
-        "category": "economy",
-        "status": "ongoing",
-        "made_on": "",
-        "deadline": "",
-        "evidence_count": 0,
-        "evidence_articles": [],
-        "gemma_suggestion": null,
-        "gemma_reasoning": null
+        "gemma_reasoning": "The evidence shows ongoing work related to the promise."
       }
     ]
   },
@@ -981,8 +1055,19 @@
         "status": "broken",
         "made_on": "2016-02-28",
         "deadline": "2022-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/modi-government-promised-to-double-farm-income-by-2022-but-it-has-only-come-down-congress/article66318536.ece",
+            "title": "Modi government promised to double farm income by 2022 but it has only come down: Congress",
+            "source": "The Hindu",
+            "scraped_at": "2022-12-29",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports on criticisms from the Congress party regarding the Modi government's unfulfilled 2016 promise to double farmers' income by 2022, alleging that real farm incomes have instead decreased.",
+            "content": "The Congress on Thursday claimed that the Modi government had promised to double the income of farmers by 2022 but instead their income had decreased, and accused the BJP of 'betraying' the farmers."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the provided evidence is from 2026."
       },
@@ -995,8 +1080,19 @@
         "status": "broken",
         "made_on": "2014-03-15",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://indianexpress.com/article/india/pm-modi-promised-two-crore-jobs-but-one-crore-people-lost-employment-rahul-gandhi-6238612/",
+            "title": "PM Modi promised two crore jobs, but one crore people lost employment: Rahul Gandhi",
+            "source": "The Indian Express",
+            "scraped_at": "2020-01-28",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article details a youth rally where Rahul Gandhi targeted Prime Minister Modi on his promise to create two crore jobs annually, claiming that instead one crore jobs were lost due to economic policies.",
+            "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the government has not created 2 crore jobs annually."
       },
@@ -1009,8 +1105,19 @@
         "status": "broken",
         "made_on": "2014-04-10",
         "deadline": "2014-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://timesofindia.indiatimes.com/india/fm-defends-modis-rs-15l-for-all-claim/articleshow/46522502.cms",
+            "title": "FM defends Modi's 'Rs 15L for all' claim",
+            "source": "Times of India",
+            "scraped_at": "2015-03-11",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Finance Minister Arun Jaitley defending PM Modi's 2014 campaign statement in the Sabha, explaining that the Rs 15 lakh figure was merely an illustrative calculation of the volume of stashed black money rather than a literal promise.",
+            "content": "Finance Minister Arun Jaitley on Wednesday defended Prime Minister Narendra Modi's election campaign statement that if all black money stashed abroad were brought back it could amount to Rs 15 lakh for each citizen. Jaitley told Rajya Sabha that the PM's remark was an 'illustrative statement' based on various versions of estimates of black money."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is not mentioned in the provided articles."
       },
@@ -1023,8 +1130,19 @@
         "status": "ongoing",
         "made_on": "2015-06-25",
         "deadline": "2022-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/305-cities-and-towns-identified-for-building-homes-under-housing-for-all-by-2022-mission/articleshow/48740523.cms",
+            "title": "305 cities and towns identified for building homes under 'Housing for All by 2022' mission",
+            "source": "Economic Times",
+            "scraped_at": "2015-08-31",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers the initial implementation phase of the Pradhan Mantri Awas Yojana, identifying 305 cities across nine states to kickstart the government's ambitious goal of constructing 2 crore affordable homes for the urban poor by 2022.",
+            "content": "Under the 'Housing for All by 2022' mission, the government has identified 305 cities and towns across nine states to start building houses for the urban poor. The housing ministry has also finalised reforms that need to be implemented by state governments to facilitate the construction of 2 crore houses."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise was made in 2014, and the deadline passed in 2022."
       },
@@ -1037,8 +1155,19 @@
         "status": "broken",
         "made_on": "2019-07-05",
         "deadline": "2025-03-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-delayed-5-trillion-dream-what-imfs-new-timeline-means-for-your-wallet/articleshow/106103444.cms",
+            "title": "India's delayed $5-trillion dream: What IMF's new timeline means for your wallet",
+            "source": "Economic Times",
+            "scraped_at": "2023-12-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article discusses the shifting timeline for India to reach a $5 trillion economy, highlighting that the IMF's revised projections push the milestone to 2028-29, delayed from the government's initial target of 2024-25, primarily due to exchange rate fluctuations.",
+            "content": "According to the IMF's latest World Economic Outlook database, India is now expected to become a $5-trillion economy by 2028-29, delayed by four years from the government's initial target of 2024-25. The delay in achieving the target in dollar terms is primarily due to the depreciation of the rupee against the US dollar."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is broken because the provided evidence focuses on energy prices and economic policies, not the economic growth target."
       },
@@ -1076,8 +1205,19 @@
         "status": "broken",
         "made_on": "2017-02-01",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/electoral-bonds-pm-modi-rejects-corruption-charge-says-scheme-was-aimed-at-curbing-black-money/articleshow/108316209.cms",
+            "title": "Electoral bonds: PM Modi rejects corruption charge, says scheme was aimed at curbing black money",
+            "source": "Economic Times",
+            "scraped_at": "2024-04-15",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "In an interview, Prime Minister Modi defended the electoral bonds scheme, arguing that it brought transparency by creating a clear money trail for political funding and aimed to eliminate black money in election campaigns.",
+            "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The evidence provided does not support the claim that electoral bonds bring transparency to political funding."
       },
@@ -1090,8 +1230,19 @@
         "status": "ongoing",
         "made_on": "2019-08-15",
         "deadline": "2024-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/centres-potable-water-mission-may-miss-2024-target/article67029584.ece",
+            "title": "Centre's potable water mission may miss 2024 target",
+            "source": "The Hindu",
+            "scraped_at": "2023-07-02",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports that the Union government's Jal Jeevan Mission, which aims to provide piped drinking water to every rural household by 2024, is likely to miss its target due to disruptions like the COVID-19 pandemic and materials shortages.",
+            "content": "The Union government’s ambitious initiative to provide tap water connections to all rural households by 2024 is likely to miss its target. The Union Jal Shakti Ministry reported that the COVID-19 pandemic, along with subsequent disruptions like the Russia-Ukraine war, has severely delayed the progress of the Jal Jeevan Mission."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is a long-term goal with no specific timeline provided."
       },
@@ -1127,7 +1278,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Evidence shows ongoing discussion and consultation regarding UCC implementation."
+        "gemma_reasoning": "Ongoing discussions and consultations regarding UCC implementation."
       },
       {
         "id": "p010",
@@ -1138,8 +1289,19 @@
         "status": "ongoing",
         "made_on": "2019-06-01",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/simultaneous-polls-top-10-recommendations-made-by-ram-nath-kovind-panel/article68984920.ece",
+            "title": "Simultaneous polls: Top 10 recommendations made by Ram Nath Kovind panel",
+            "source": "The Hindu",
+            "scraped_at": "2024-03-14",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article outlines the key recommendations of the Ram Nath Kovind-led committee on 'One Nation, One Election,' which proposed a two-step transition to simultaneous polls for the Lok Sabha, state assemblies, and local bodies.",
+            "content": "A high-level committee on 'One Nation, One Election' headed by former President Ram Nath Kovind submitted its report to President Droupadi Murmu on Thursday, recommending a two-step approach to hold simultaneous elections for the Lok Sabha, State Legislative Assemblies and local bodies."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided evidence focuses on political controversies and internal party dynamics, not on the implementation of 'One Nation One Election'."
       },
@@ -1152,8 +1314,19 @@
         "status": "broken",
         "made_on": "2016-11-08",
         "deadline": "2017-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://economictimes.indiatimes.com/news/india/demonetisation-a-well-considered-decision-to-combat-black-money-terror-financing-centre-tells-sc/articleshow/95556277.cms",
+            "title": "Demonetisation a 'well-considered' decision to combat black money, terror financing: Centre tells SC",
+            "source": "Economic Times",
+            "scraped_at": "2022-11-16",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers the Union government filing an affidavit in the Supreme Court, defending the 2016 demonetization of high-value notes as a well-considered decision that successfully targeted tax evasion, counterfeit currency, black money, and terror funding.",
+            "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The promise is contradicted by the evidence of rising inflation and concerns about the impact of demonetization."
       },
@@ -1166,8 +1339,19 @@
         "status": "broken",
         "made_on": "2017-09-14",
         "deadline": "2023-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/covid-snag-in-bullet-train-project-may-fail-to-meet-2023-deadline/article32525164.ece",
+            "title": "COVID snag in bullet train project, may fail to meet 2023 deadline",
+            "source": "The Hindu",
+            "scraped_at": "2020-09-05",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article reports that the Mumbai-Ahmedabad bullet train project is likely to miss its December 2023 deadline due to delays in land acquisition in Maharashtra and disruptions caused by the COVID-19 pandemic.",
+            "content": "The ambitious Mumbai-Ahmedabad bullet train project, which was scheduled to be completed by December 2023, is likely to miss its deadline due to delays in land acquisition, especially in Maharashtra, and the COVID-19 pandemic."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The promise is ongoing as the project is approved, but not yet completed."
       },
@@ -1180,8 +1364,19 @@
         "status": "ongoing",
         "made_on": "2018-09-17",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/shah-asks-delhi-police-to-take-action-against-networks-helping-illegal-bangladeshis-rohingyas/article69219356.ece",
+            "title": "Shah asks Delhi Police to take action against networks helping illegal Bangladeshis, Rohingyas",
+            "source": "The Hindu",
+            "scraped_at": "2025-02-28",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Union Home Minister Amit Shah's directive to the Delhi Police during a review meeting, ordering them to take strict action to identify and deport illegal Bangladeshi and Rohingya immigrants, calling their presence a national security issue.",
+            "content": "Union Home Minister Amit Shah on Friday directed the Delhi Police to take strict action against networks facilitating the entry and stay of illegal Bangladeshi and Rohingya immigrants. Mr. Shah, who chaired a high-level meeting to review the law and order situation in Delhi, said that the presence of 'illegal intruders' is a matter of national security and directed that they should be identified and deported."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not mention Amit Shah's promise to remove Rohingyas from India."
       },
@@ -1194,8 +1389,19 @@
         "status": "ongoing",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/other-states/with-zero-tolerance-for-crime-and-criminals-up-has-created-sense-of-security-for-industry-yogi-adityanath/article66167817.ece",
+            "title": "With zero tolerance for crime and criminals, U.P. has created sense of security for industry: Yogi Adityanath",
+            "source": "The Hindu",
+            "scraped_at": "2022-11-22",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Chief Minister Yogi Adityanath highlighting the state's zero-tolerance policy toward crime and criminals, claiming it has restored law and order and established a safe environment that attracts industrial investment.",
+            "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Yogi Adityanath's promise regarding mafia and crime."
       },
@@ -1234,8 +1440,19 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/cities/Delhi/atishi-turns-spotlight-on-world-class-govt-schools-in-delhi-bjp-dismisses-her-claims/article68503887.ece",
+            "title": "Atishi turns spotlight on 'world-class' govt. schools in Delhi; BJP dismisses her claims",
+            "source": "The Hindu",
+            "scraped_at": "2024-08-09",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Education Minister Atishi showcasing the Delhi government's work since 2015 to build over 22,000 new classrooms and upgrade infrastructure to world-class standards, while the BJP criticized the claims for ignoring high teacher vacancies and declining pass percentages.",
+            "content": "Delhi Education Minister Atishi on Friday claimed that the AAP government has built 22,711 new classrooms in the last nine years, transforming the state of education and providing world-class facilities to students. The BJP dismissed the claims as 'misleading', alleging that the government has failed to fill teacher vacancies and that many schools are functioning without principals."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "No information provided about Arvind Kejriwal's promise regarding free and world-class government schools in Delhi."
       },
@@ -1248,8 +1465,19 @@
         "status": "kept",
         "made_on": "2015-02-14",
         "deadline": "ongoing",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/cities/Delhi/kejriwal-promises-free-200-units-electricity-for-tenants/article69094723.ece",
+            "title": "Kejriwal promises free 200 units electricity for tenants",
+            "source": "The Hindu",
+            "scraped_at": "2025-01-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Arvind Kejriwal's pre-election announcement promising to resolve execution flaws in the prepaid meter scheme so that tenants in Delhi can easily get free electricity up to 200 units and free water.",
+            "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided text does not contain any information about the status of the free electricity promise."
       },
@@ -1262,8 +1490,19 @@
         "status": "broken",
         "made_on": "2020-02-08",
         "deadline": "2025-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-govt-working-on-war-footing-to-clean-yamuna-by-february-2025-arvind-kejriwal/articleshow/87768579.cms",
+            "title": "Delhi govt working on war footing to clean Yamuna by February 2025: Arvind Kejriwal",
+            "source": "Times of India",
+            "scraped_at": "2021-11-18",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Arvind Kejriwal's announcement of a six-point action plan to clean the heavily polluted Yamuna river to bathing standards by February 2025, which includes increasing sewage treatment capacity and connecting all slums to the sewer network.",
+            "content": "Delhi Chief Minister Arvind Kejriwal on Thursday announced a six-point action plan to clean the Yamuna river to 'bathing standards' by February 2025. He said the government is working on a war footing and he is personally monitoring the progress of the projects."
+          }
+        ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "The provided articles do not mention anything about Arvind Kejriwal's promise to clean the Yamuna river."
       }
@@ -1278,8 +1517,19 @@
         "status": "broken",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
-        "evidence_count": 0,
-        "evidence_articles": [],
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/congress-promises-72000-per-annum-to-poorest-people/article26633658.ece",
+            "title": "Congress promises ₹72,000 per annum to poorest people",
+            "source": "The Hindu",
+            "scraped_at": "2019-03-25",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Rahul Gandhi's announcement of the NYAY minimum income guarantee scheme, which promises to directly transfer ₹72,000 per year to the bank accounts of India's poorest 20% families.",
+            "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
+          }
+        ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Rahul Gandhi has proposed a NYAY scheme, but it has not been implemented."
       }
@@ -1308,7 +1558,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as the evidence shows active work by the government."
+        "gemma_reasoning": "The evidence shows ongoing work related to the promise."
       }
     ]
   }

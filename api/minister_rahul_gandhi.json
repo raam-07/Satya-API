@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 16:40:01.364513",
+  "generated_at": "2026-05-30 17:44:30.134224",
   "name": "Rahul Gandhi",
   "role": "Leader of Opposition",
   "ministry": "",
@@ -69,7 +69,7 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 193,
+    "total_articles": 194,
     "articles_last_30d": 80,
     "sentiment_breakdown_30d": {
       "neutral": 29,
@@ -83,8 +83,19 @@
       "promise": "Guarantee minimum income of Rs 72,000 per year to poorest families (NYAY scheme)",
       "status": "broken",
       "made_on": "2019-03-25",
-      "evidence_count": 0,
-      "evidence_articles": []
+      "evidence_count": 1,
+      "evidence_articles": [
+        {
+          "url": "https://www.thehindu.com/news/national/congress-promises-72000-per-annum-to-poorest-people/article26633658.ece",
+          "title": "Congress promises ₹72,000 per annum to poorest people",
+          "source": "The Hindu",
+          "scraped_at": "2019-03-25",
+          "relevance_score": 100,
+          "gemma_validated": true,
+          "rephrased": "The article covers Rahul Gandhi's announcement of the NYAY minimum income guarantee scheme, which promises to directly transfer ₹72,000 per year to the bank accounts of India's poorest 20% families.",
+          "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
+        }
+      ]
     }
   ],
   "recent_articles": [
@@ -5729,8 +5740,8 @@
       "rephrased_article": "**DHARMESH SHAH**, **HEAD OF TECHNICAL RESEARCH, ICICI SECURITIES** and other analysts at various firms have provided insights into the potential direction of the Nifty index. They suggest a possible pullback to 23,800 but warn of a prolonged correction if it fails to establish a \"higher high–higher low\" pattern on weekly charts.  Analysts cite historical data and support levels based on past market trends. **RAHUL SHARMA**, **HEAD - TECHNICAL & DERIVATIVE RESEARCH, JM FINANCIAL SERVICES** suggests investors consider adding Nifty ATM puts near 23,000 for downside targets. **DHUPESH DHAMEJA**, **DERIVATIVES ANALYST, SAMCO SECURITIES** advises a sell-on-rise approach near 22,900–23,000 with a stoploss above 23,100 and suggests a Bear Call Spread strategy for potential upside.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah",
-        "Rahul"
+        "Amit Shah",
+        "Rahul Gandhi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -5753,8 +5764,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Odisha",
@@ -5783,11 +5793,8 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Amit Shah",
-        "Shah",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Assam",
@@ -5816,11 +5823,39 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Pinarayi Vijayan"
       ],
       "states_mentioned": [
         "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 46318,
+      "title": "Amit Shah says curbing ‘infiltration not enough’, every illegal immigrant must be deported from Assam - The Hindu",
+      "url": "https://www.thehindu.com/elections/amit-shah-says-curbing-infiltration-not-enough-every-illegal-immigrant-must-be-deported-from-assam/article70799150.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/330139/article70799154.ece/alternates/LANDSCAPE_1200/India_State_Election_84766.jpg",
+      "scraped_at": "2026-03-29 10:42:19.265538",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Amit Shah**, **Union Home Minister**, stated that the BJP government has stopped \"infiltration\" in Assam over the past ten years, but emphasized that all illegal immigrants must be sent back. He accused **Rahul Gandhi** and the **Congress** of opposing electoral roll revisions to protect infiltrators.  **Shah** also criticized the Congress's handling of national security during its rule, claiming it encouraged terrorists from Pakistan. The upcoming Assam Assembly elections are scheduled for April 9th with counting on May 4th.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Amit Shah",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam"
       ],
       "cities_mentioned": [],
       "topic_tags": [

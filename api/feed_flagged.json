@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-30 16:40:00.993604",
-  "total": 281,
+  "generated_at": "2026-05-30 17:44:29.781540",
+  "total": 284,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 215,
+    "power_abuse": 218,
     "institutional_failure": 33,
     "scale_of_harm": 20,
     "suppression": 13
@@ -2225,6 +2225,31 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Police killing after a seven-month manhunt raises concerns about excessive force."
+    },
+    {
+      "id": 46315,
+      "title": "Modeling industry activist calls for inquiry into how agencies ‘facilitated Epstein’s abuse’ | US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/mar/29/modeling-industry-activist-inquiry-epstein-files-sara-ziff",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/d39bf4c76293fd1d2077961ff4e5726dae0e2213/1135_470_4414_3530/master/4414.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4900f2a85135e67cb6690ee4ba63fae9",
+      "scraped_at": "2026-03-29 10:41:30.862438",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "modeling agencies",
+      "rephrased_article": "Sara Ziff, founder of the Model Alliance, a non-profit advocacy group, has called for investigations into the role modeling agencies may have played in Jeffrey Epstein's sex trafficking scandal. Ziff and over 40 Epstein survivors signed a letter to New York Attorney General Letitia James and Congressmen Ro Khanna and Thomas Massie requesting an inquiry into the issue. The letter argues that modeling agencies facilitated Epstein's abuse by acting as pipelines for vulnerable teenagers, highlighting the power structure within the fashion industry that allowed this exploitation to occur.  Ziff, who has been vocal about the abuse she experienced in the industry, believes further scrutiny is necessary and urges lawmakers to investigate individuals involved with Epstein.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Potential abuse of power and institutional failure in the modeling industry facilitating sex trafficking."
     },
     {
       "id": 62747,
@@ -6945,9 +6970,7 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -6993,6 +7016,64 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Allegations of corruption against the CM and political connections demand urgent scrutiny."
+    },
+    {
+      "id": 46309,
+      "title": "Class four student murdered, grandmother injured in attack - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/class-four-student-murdered-grandmother-injured-in-attack/article70799019.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-29 09:49:36.005611",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "Gandikota Balaji, a 10-year-old boy in fourth grade, was fatally beaten to death by assailants at Nandiwada in Krishna district. His grandmother, G. Lakshmi, (68), sustained critical injuries and is hospitalized in Vijayawada. The attack occurred while the pair were asleep, with no immediate explanation for the motive provided by Krishna district Superintendent of Police V. Vidyasagar Naidu.  The Nandiwada police have launched an investigation into the incident.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Murder of a child and injury to a senior citizen is a serious crime requiring urgent attention."
+    },
+    {
+      "id": 46281,
+      "title": "After Nepal ex-PM Oli, former minister Deepak Khadka arrested in Gen Z protests - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/after-nepal-ex-pm-oli-former-minister-deepak-khadka-arrested-in-gen-z-protests/articleshow/129877253.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-129877481,width-1280,height-720,imgsize-12190,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-03-29 08:49:42.419329",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Deepak Khadka",
+      "rephrased_article": "Deepak Khadka, former energy minister of Nepal, was arrested by the Central Investigation Bureau (CIB) on Sunday in connection with money laundering. The arrest follows a probe into the recovery of cash from his residence during last September's Gen Z protests, which saw at least 76 deaths and led to the downfall of then-Prime Minister KP Sharma Oli.  The Department of Money Laundering Investigation will oversee the case against Khadka, who is a member of the Nepali Congress party. The arrest comes as the new Nepal government under Prime Minister Balendra Shah, leader of the Rastriya Swatantra Party, has pledged to investigate the assets of politicians and senior officials.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Arrest linked to protests with high death toll raises concerns about justice."
     },
     {
       "id": 62288,
