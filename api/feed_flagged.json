@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-30 14:49:59.368254",
-  "total": 279,
+  "generated_at": "2026-05-30 16:40:00.993604",
+  "total": 281,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 214,
-    "institutional_failure": 32,
+    "power_abuse": 215,
+    "institutional_failure": 33,
     "scale_of_harm": 20,
     "suppression": 13
   },
@@ -6968,6 +6968,33 @@
       "civic_flag_reason": "Clashes during religious processions and arrests raise concerns about communal tensions and potential abuse of power."
     },
     {
+      "id": 46427,
+      "title": "Ready for a probe if the same yardstick applies to CM and Ministers: Harish Rao - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/ready-for-a-probe-if-the-same-yardstick-applies-to-cm-and-ministers-harish-rao/article70800328.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nvefo/article70800372.ece/alternates/LANDSCAPE_1200/_DSC8401.JPG",
+      "scraped_at": "2026-03-29 16:46:03.658237",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Revanth Reddy",
+      "rephrased_article": "T. Harish Rao, former Minister and BRS Deputy Floor Leader, called for a fair investigation into allegations of corruption against Revanth Reddy, the Chief Minister, and his associates.  He claimed that the Congress government was responsible for 20 major scams and demanded probes into all of them. Rao alleged financial and political connections between Reddy and Ponguleti Srinivasa Reddy, a Revenue Minister, in land settlements and contract allocations. He accused Revanth Reddy of \"effectively admitting wrongdoing\" by a company named Raghava Constructions.  He demanded the resignation or removal of Ponguleti Srinivasa Reddy from the Cabinet or for an impartial probe by either a House Committee or a sitting High Court judge.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of corruption against the CM and political connections demand urgent scrutiny."
+    },
+    {
       "id": 62288,
       "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people | Conflict News | Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
@@ -8294,6 +8321,35 @@
       "civic_flag_score": 8,
       "civic_flag_category": "scale_of_harm",
       "civic_flag_reason": "Laying off an employee with terminal cancer and ending their life insurance is unethical and harmful."
+    },
+    {
+      "id": 46429,
+      "title": "Belagavi Police arrest two for online job scam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/belagavi-police-arrest-two-for-online-job-scam/article70800255.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-29 16:46:52.800196",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Belagavi Police",
+      "rephrased_article": "Belagavi Police arrested two individuals, Megha Maradolkar and Hyderali Ghulamali Ujjainwala, for running an online fraud scheme that promised \"Work From Home\" opportunities and government loan assistance. The suspects used personal documentation to open bank accounts in the names of unsuspecting citizens, which they then used to transfer stolen funds.  Police Commissioner Borase Bhushan Gulabarao commended officers involved in the investigation, urging citizens to be cautious about sharing personal information online.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Online scams exploiting citizens are a growing problem requiring urgent attention."
     }
   ]
 }
