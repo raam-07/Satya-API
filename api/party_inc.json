@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:17.980682",
+  "generated_at": "2026-05-30 09:07:06.150485",
   "party": "INC",
   "full_name": "Indian National Congress",
   "ideology": "Centrist, Social liberalism",
@@ -12,12 +12,12 @@
   ],
   "color": "#00BFFF",
   "stats": {
-    "total_articles": 895,
-    "articles_last_30d": 374,
+    "total_articles": 931,
+    "articles_last_30d": 373,
     "sentiment_breakdown_30d": {
-      "neutral": 129,
-      "negative": 155,
-      "positive": 90
+      "neutral": 128,
+      "negative": 156,
+      "positive": 89
     }
   },
   "ministers": [
@@ -98,6 +98,40 @@
   ],
   "recent_articles": [
     {
+      "id": 62625,
+      "title": "Spurious liquor kills 15 in Pune, Pimpri-Chinchwad; 8 held, probe ordered - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/several-dead-in-pune-pimpri-chinchwad-after-spurious-liquor/article71036225.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 03:49:27.622986",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "At least 15 people have died in Pune and Pimpri-Chinchwad after consuming spurious liquor, prompting an investigation by **Maharashtra Chief Minister Devendra Fadnavis** and the **Excise Department**.  **Yogesh Wankhede**, who brought ethanol without permission, is suspected of preparing the illicit alcohol at a location in Hadapsar before supplying it to vendors. The deaths occurred over three days, with residents expressing anger towards authorities for allegedly failing to prevent the sale of illegal liquor.  The investigation is ongoing and more arrests are expected.",
+      "party_mentioned": [
+        "Congress",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 62555,
       "title": "Congress holds talks with Hemant Soren on fielding party nominee from one of 2 Rajya Sabha seats going to polls in Jharkhand - The Hindu",
       "url": "https://www.thehindu.com/news/national/bihar/congress-holds-talks-with-hemant-soren-on-fielding-party-nominee-from-one-of-2-rajya-sabha-seats-going-to-polls-in-jharkhand/article71037888.ece",
@@ -165,9 +199,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -5428,27 +5460,6 @@
         "foreign_policy",
         "infrastructure",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 58093,
-      "title": "Great Nicobar project will destroy unique ecosystem; pause, revisit venture: Ramesh to Environment Minister - The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/great-nicobar-project-will-destroy-unique-ecosystem-pause-revisit-venture-ramesh-to-environment-minister/article70961934.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/h80gxd/article70961965.ece/alternates/LANDSCAPE_1200/CONGRESS%20KHERA%20PC%20DELHI%202026_01_05_24.jpg",
-      "scraped_at": "2026-05-10 10:52:41.483018",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "Great Nicobar Island development project",
-      "rephrased_article": "**Congress leader Jairam Ramesh** wrote to **Environment Minister Bhupender Yadav** on Sunday, urging him to halt the Great Nicobar Island development project due to concerns about its impact on the unique ecosystem.  Ramesh argued that the environmental studies supporting the project's approval were inadequate and criticized the process as a mockery of the Environmental Impact Assessment.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

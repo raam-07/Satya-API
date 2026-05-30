@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:18.061093",
+  "generated_at": "2026-05-30 09:07:06.226399",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 573,
-    "articles_last_30d": 240
+    "total_articles": 603,
+    "articles_last_30d": 239
   },
   "top_cities_30d": {
-    "Delhi": 49,
+    "Delhi": 48,
     "Hyderabad": 17,
     "Bengaluru": 16,
     "Mumbai": 14,
@@ -24,11 +24,11 @@
     "Agra": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 220,
-    "infrastructure": 81,
-    "economy": 74,
+    "foreign_policy": 219,
+    "infrastructure": 79,
+    "economy": 73,
     "protest_opposition": 67,
-    "education": 52,
+    "education": 53,
     "crime_violence": 46,
     "farmer_agriculture": 30,
     "health": 18,
@@ -36,6 +36,29 @@
     "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 62609,
+      "title": "Supreme Court says NEET paper leak traumatised entire families; points to ‘ad-hocism’ in NTA - The Hindu",
+      "url": "https://www.thehindu.com/news/national/nta-outlines-corrective-measures-after-neet-ug-paper-leak-in-affidavit-before-sc/article71036504.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p1z48a/article71036503.ece/alternates/LANDSCAPE_1200/21TH_PARLEY_GS8GAIG0S4P0.4.jpg.jpg",
+      "scraped_at": "2026-05-29 23:57:26.007695",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "National Testing Agency (NTA)",
+      "rephrased_article": "The **Supreme Court** expressed concern over the NEET-UG paper leak, stating that years of hard work and emotional investment were wasted. The court directed the Ministry of Human Resource Development to address institutional capacity issues within the **National Testing Agency (NTA)**.  The NTA maintained it is committed to preventing future incidents by implementing a computer-based test mode for the exam starting next year. The agency also outlined several changes, including multiple question paper sets, electronic device prohibition, and enhanced security measures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62522,
       "title": "PM’s silence on CBSE OSM controversy shows he cares more about his govt’s survival than students’ future: Rahul Gandhi - The Hindu",
@@ -53,9 +76,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -5530,33 +5551,6 @@
       "topic_tags": [
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 56964,
-      "title": "Cabinet clears amendment to make insult to Vande Mataram a punishable offence - The Hindu",
-      "url": "https://www.thehindu.com/news/national/cabinet-clears-amendment-to-make-insult-to-vande-mataram-a-punishable-offence/article70944331.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/th7utf/article70944573.ece/alternates/LANDSCAPE_1200/DSC_5502.JPG",
-      "scraped_at": "2026-05-05 23:57:21.384697",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The **Union Cabinet** approved amendments to the Prevention of Insults To National Honour Act, 1971, making any insult or obstruction to the singing of \"Vande Mataram\" a punishable offense.  This decision follows the BJP's victory in West Bengal and comes after the Ministry of Home Affairs (MHA) issued guidelines urging the use of all six stanzas of the song at official events. The 1971 Act currently punishes those who prevent or disrupt the singing of the Indian National Anthem, but this amendment would broaden its scope to include \"Vande Mataram\".",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "INC"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

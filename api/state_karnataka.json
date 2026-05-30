@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:18.076756",
+  "generated_at": "2026-05-30 09:07:06.250987",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 405,
-    "articles_last_30d": 184
+    "total_articles": 424,
+    "articles_last_30d": 185
   },
   "top_cities_30d": {
     "Bengaluru": 54,
     "Delhi": 24,
-    "Hyderabad": 9,
+    "Hyderabad": 10,
     "Mumbai": 8,
     "Chennai": 7,
     "Bangalore": 4,
@@ -28,14 +28,42 @@
     "education": 53,
     "protest_opposition": 51,
     "infrastructure": 46,
-    "economy": 34,
-    "farmer_agriculture": 32,
+    "economy": 35,
+    "farmer_agriculture": 33,
     "health": 30,
     "crime_violence": 28,
     "corruption_scam": 11,
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 62612,
+      "title": "Government defends Farmer Discom proposal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/government-defends-farmerdiscomproposal/article71038738.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-29 23:58:08.733089",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Government",
+      "rephrased_article": "**Telangana Rural Power Distribution Company Limited (TGRPDCL)** Chairman and Managing Director Musharraf Ali Faruqui stated that no metering would be introduced for agricultural consumers under the proposed Farmer Discom model. **The TGRPDCL** argued that existing discoms in Telangana are financially stressed, with accumulated losses reaching ₹69,741 crore by FY 2025, and operational inefficiencies contribute to high AT&C losses of 19.84% in FY 2025. The proposed model aims to improve electricity distribution and reliability for farmers while focusing on improving service quality and reducing technical and commercial losses.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "farmer_agriculture",
+        "economy"
+      ]
+    },
     {
       "id": 62555,
       "title": "Congress holds talks with Hemant Soren on fielding party nominee from one of 2 Rajya Sabha seats going to polls in Jharkhand - The Hindu",
@@ -85,9 +113,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -5297,29 +5323,6 @@
       "topic_tags": [
         "education",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 54272,
-      "title": "Farming is viable only when growers can decide market prices, says Karnataka Minister - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/farming-is-viable-only-when-growers-can-decide-market-prices-says-karnataka-minister/article70906297.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/40sckr/article70906476.ece/alternates/LANDSCAPE_1200/0c758606-401b-41bc-9e35-f582ab8cf613.jpeg",
-      "scraped_at": "2026-04-25 19:57:32.772807",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Farming",
-      "rephrased_article": "**H.K. Patil**, Minister for Law and Parliamentary Affairs, and Tourism, stated that farming will become viable when farmers can set their own market prices instead of selling below production cost. He made this comment at the Global Agri-Tech Summit 2026 in Bengaluru on Saturday. **Patil** emphasized the need for technology and innovative farming practices to enable farmers to earn well and manage their land as profitable enterprises.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "farmer_agriculture"
       ]
     }
   ]

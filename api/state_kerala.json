@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:18.084450",
+  "generated_at": "2026-05-30 09:07:06.258230",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 598,
-    "articles_last_30d": 250
+    "total_articles": 629,
+    "articles_last_30d": 251
   },
   "top_cities_30d": {
     "Delhi": 30,
     "Bengaluru": 14,
     "Chennai": 12,
     "Kolkata": 8,
-    "Hyderabad": 6,
+    "Hyderabad": 7,
     "Mumbai": 6,
     "Ahmedabad": 3,
     "Madurai": 1,
@@ -24,18 +24,67 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 210,
+    "foreign_policy": 209,
     "protest_opposition": 91,
     "education": 65,
     "infrastructure": 51,
-    "economy": 42,
+    "economy": 44,
     "crime_violence": 35,
     "health": 24,
-    "farmer_agriculture": 23,
+    "farmer_agriculture": 24,
     "corruption_scam": 21,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62612,
+      "title": "Government defends Farmer Discom proposal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/government-defends-farmerdiscomproposal/article71038738.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-29 23:58:08.733089",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Government",
+      "rephrased_article": "**Telangana Rural Power Distribution Company Limited (TGRPDCL)** Chairman and Managing Director Musharraf Ali Faruqui stated that no metering would be introduced for agricultural consumers under the proposed Farmer Discom model. **The TGRPDCL** argued that existing discoms in Telangana are financially stressed, with accumulated losses reaching ₹69,741 crore by FY 2025, and operational inefficiencies contribute to high AT&C losses of 19.84% in FY 2025. The proposed model aims to improve electricity distribution and reliability for farmers while focusing on improving service quality and reducing technical and commercial losses.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "farmer_agriculture",
+        "economy"
+      ]
+    },
+    {
+      "id": 62597,
+      "title": "Kerala start-up unveils first AI system-on-chip - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Kochi/kerala-start-up-unveils-first-ai-system-on-chip/article71036794.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dw4tcr/article71038825.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-29%20at%2015.36.39.jpeg",
+      "scraped_at": "2026-05-29 23:54:57.423586",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Netrasemi",
+      "rephrased_article": "**Netrasemi**, a semiconductor start-up based in Thiruvananthapuram, India, announced the successful completion of silicon bring-up for its flagship AI system-on-chip (SoC), A2000. The company plans to begin volume production of the chip at **Taiwan Semiconductor Manufacturing Company** in Taiwan next year and aims to help global platform developers bring advanced AI algorithms to small edge devices.  The A2000, one of India's first AI/ML chips, features proprietary hardware acceleration IPs and a heterogeneous graph-stream parallel processing architecture designed for compact, power- and cost-sensitive edge devices. The company received ₹15 crore in DLI support from the **Central government** and has raised ₹125 crore in funding.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
     {
       "id": 62522,
       "title": "PM’s silence on CBSE OSM controversy shows he cares more about his govt’s survival than students’ future: Rahul Gandhi - The Hindu",
@@ -53,9 +102,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -5432,56 +5479,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 56523,
-      "title": "Supreme Court asks Dubai-based Indian to approach embassy over travel ban - The Hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-asks-dubai-based-indian-to-approach-embassy-over-travel-ban/article70938446.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-04 11:25:51.306503",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Embassy",
-      "rephrased_article": "The **Supreme Court** declined to grant relief to Asif Azad, an Indian engineer who alleged harassment by **Dubai** authorities and a wrongful travel ban.  Mr. Azad appeared via video conferencing from a Dubai mall, claiming he was entrapped and implicated in a case against him in Kerala. The court directed Mr. Azad to seek assistance from the **Indian Embassy** in the UAE.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 56513,
-      "title": "Kerala Election Results 2026 LIVE: UDF leads in the State, CM Pinarayi Vijayan trails in Dharmadam - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-election-results-live-updates-4-may-2026/article70935144.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/kerala/ukauw6/article70937588.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-04%20at%2011.42.31.jpeg",
-      "scraped_at": "2026-05-04 09:29:54.640199",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "UDF",
-      "rephrased_article": "The **Congress-led UDF** is on track to secure a majority in the Kerala Assembly elections, with trends indicating they will surpass their target of 100 seats.  As counting progressed, the UDF held a commanding lead in over 100 constituencies while the **CPI(M)-led LDF** lagged behind in under 40. The **BJP-led NDA** secured only two seats according to early results.  Congress MLA Chandy Oommen won his constituency by a significant margin.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
       ]
     }
   ]

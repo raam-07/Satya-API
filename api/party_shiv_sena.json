@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:18.022889",
+  "generated_at": "2026-05-30 09:07:06.192760",
   "party": "Shiv Sena",
   "full_name": "Shiv Sena (Eknath Shinde)",
   "ideology": "Marathi regionalism, Hindu nationalism",
@@ -10,17 +10,51 @@
   ],
   "color": "#FF8000",
   "stats": {
-    "total_articles": 25,
-    "articles_last_30d": 9,
+    "total_articles": 27,
+    "articles_last_30d": 10,
     "sentiment_breakdown_30d": {
       "neutral": 6,
-      "negative": 2,
+      "negative": 3,
       "positive": 1
     }
   },
   "ministers": [],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 62625,
+      "title": "Spurious liquor kills 15 in Pune, Pimpri-Chinchwad; 8 held, probe ordered - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/several-dead-in-pune-pimpri-chinchwad-after-spurious-liquor/article71036225.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 03:49:27.622986",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "At least 15 people have died in Pune and Pimpri-Chinchwad after consuming spurious liquor, prompting an investigation by **Maharashtra Chief Minister Devendra Fadnavis** and the **Excise Department**.  **Yogesh Wankhede**, who brought ethanol without permission, is suspected of preparing the illicit alcohol at a location in Hadapsar before supplying it to vendors. The deaths occurred over three days, with residents expressing anger towards authorities for allegedly failing to prevent the sale of illegal liquor.  The investigation is ongoing and more arrests are expected.",
+      "party_mentioned": [
+        "Congress",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 61906,
       "title": "Rajya Sabha defections, constitutional questions - The Hindu",
@@ -773,6 +807,30 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 47209,
+      "title": "Shiv Sena slams Kalaburagi City Corporation for resolution on dead Iranian leader - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/shiv-sena-slams-kalaburagi-city-corporation-for-resolution-on-dead-iranian-leader/article70811427.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/gmojgp/article70811652.ece/alternates/LANDSCAPE_1200/10258_25_8_2025_19_38_3_1_KLB_SRI_RAM_SENE_SIDDALINGA_SWAMI_1.JPG",
+      "scraped_at": "2026-04-01 13:47:03.455175",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Kalaburagi City Corporation",
+      "rephrased_article": "**Shiv Sena** state president Siddalinga Swami criticized **Kalaburagi City Corporation** officials for passing a condolence resolution honoring Iran’s deceased supreme leader Ayatollah Ali Khamenei during their budget meeting.  Swami questioned the appropriateness of paying tribute to a foreign leader in a civic body setting, citing concerns about human rights violations in Iran and urging legal action against those who supported the resolution. He also criticized the BJP councillors for not objecting and demanded that the corporation focus on local issues.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     }
   ]

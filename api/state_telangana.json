@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:18.132665",
+  "generated_at": "2026-05-30 09:07:06.306746",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 287,
-    "articles_last_30d": 112
+    "total_articles": 299,
+    "articles_last_30d": 113
   },
   "top_cities_30d": {
-    "Hyderabad": 38,
+    "Hyderabad": 39,
     "Delhi": 9,
     "Mumbai": 5,
     "Bengaluru": 3,
@@ -27,8 +27,8 @@
     "foreign_policy": 96,
     "infrastructure": 37,
     "education": 33,
-    "economy": 27,
-    "farmer_agriculture": 17,
+    "economy": 28,
+    "farmer_agriculture": 18,
     "protest_opposition": 14,
     "health": 9,
     "crime_violence": 8,
@@ -36,6 +36,34 @@
     "corruption_scam": 3
   },
   "recent_articles": [
+    {
+      "id": 62612,
+      "title": "Government defends Farmer Discom proposal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/government-defends-farmerdiscomproposal/article71038738.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-29 23:58:08.733089",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Government",
+      "rephrased_article": "**Telangana Rural Power Distribution Company Limited (TGRPDCL)** Chairman and Managing Director Musharraf Ali Faruqui stated that no metering would be introduced for agricultural consumers under the proposed Farmer Discom model. **The TGRPDCL** argued that existing discoms in Telangana are financially stressed, with accumulated losses reaching ₹69,741 crore by FY 2025, and operational inefficiencies contribute to high AT&C losses of 19.84% in FY 2025. The proposed model aims to improve electricity distribution and reliability for farmers while focusing on improving service quality and reducing technical and commercial losses.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "farmer_agriculture",
+        "economy"
+      ]
+    },
     {
       "id": 62555,
       "title": "Congress holds talks with Hemant Soren on fielding party nominee from one of 2 Rajya Sabha seats going to polls in Jharkhand - The Hindu",
@@ -85,9 +113,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -5059,63 +5085,6 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 50720,
-      "title": "Consolidated voters’ list of 9 States and 3 UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
-      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-9-states-and-3-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
-      "scraped_at": "2026-04-12 21:46:55.817029",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls in nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by **West Bengal**, with a net deletion of 83.86 lakh. The SIR phase II identified 67 lakh deceased voters and 1.28 crore duplicate voters across these states and UTs.  The consolidated electoral rolls saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]

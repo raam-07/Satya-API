@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:18.095185",
+  "generated_at": "2026-05-30 09:07:06.268589",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 192,
-    "articles_last_30d": 79
+    "total_articles": 201,
+    "articles_last_30d": 81
   },
   "top_cities_30d": {
-    "Mumbai": 20,
-    "Pune": 16,
+    "Mumbai": 21,
+    "Pune": 17,
     "Delhi": 12,
     "Nashik": 8,
     "Hyderabad": 5,
@@ -24,18 +24,74 @@
     "Chennai": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 66,
+    "foreign_policy": 68,
     "education": 30,
     "protest_opposition": 29,
     "economy": 26,
     "infrastructure": 24,
-    "crime_violence": 12,
+    "crime_violence": 13,
     "farmer_agriculture": 8,
     "corruption_scam": 7,
-    "rape_sexual_crime": 6,
-    "health": 5
+    "health": 6,
+    "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 62625,
+      "title": "Spurious liquor kills 15 in Pune, Pimpri-Chinchwad; 8 held, probe ordered - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/several-dead-in-pune-pimpri-chinchwad-after-spurious-liquor/article71036225.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 03:49:27.622986",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "At least 15 people have died in Pune and Pimpri-Chinchwad after consuming spurious liquor, prompting an investigation by **Maharashtra Chief Minister Devendra Fadnavis** and the **Excise Department**.  **Yogesh Wankhede**, who brought ethanol without permission, is suspected of preparing the illicit alcohol at a location in Hadapsar before supplying it to vendors. The deaths occurred over three days, with residents expressing anger towards authorities for allegedly failing to prevent the sale of illegal liquor.  The investigation is ongoing and more arrests are expected.",
+      "party_mentioned": [
+        "Congress",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62618,
+      "title": "Kolhapur forms team of 10 transwomen for disaster management and rescue work - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/kolhapur-forms-team-of-10-transwomen-for-disaster-management-and-rescue-work/article71037444.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 03:47:40.185262",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Kolhapur Disaster Management Cell",
+      "rephrased_article": "**Kolhapur Disaster Management Cell** in Maharashtra has formed a ten-member rescue team comprised of transgender women, marking the first such initiative in the state. The training program, conducted by the cell, included practical knowledge on boat operation and lifesaving techniques. **Mayuri Alvekar**, Chief of the Maitri NGO, mobilized transwomen from her community for this role, emphasizing their physical strength and sensitivity as valuable assets in rescue operations.  The team is expected to assist with flood relief efforts during the monsoon season.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62530,
       "title": "India, Canada launch trade & investment forum - The Economic Times",
@@ -5522,6 +5578,184 @@
       ],
       "topic_tags": [
         "infrastructure"
+      ]
+    },
+    {
+      "id": 47501,
+      "title": "Mumbai BMC’s Standing Committee approves Gargai project - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-bmcs-standing-committee-approves-gargai-project/article70814720.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o38n8i/article68893363.ece/alternates/LANDSCAPE_1200/Brihanmumbai%20Municipal%20Corporation.jpg",
+      "scraped_at": "2026-04-02 11:03:14.720629",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Mumbai BMC",
+      "rephrased_article": "The **Brihanmumbai Municipal Corporation’s (BMC)** Standing Committee approved the controversial Gargai dam project in Palghar district, Maharashtra at a revised cost of ₹3,065.68 crore.  Despite objections from opposition members and concerns about environmental impact and cost escalations, the majority voted in favor of the project, citing its importance for meeting Mumbai's water needs. The project will involve building a 972-meter dam on the Gargai river to become the eighth reservoir supplying water to the city.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 47410,
+      "title": "Census 2027 kicks off: How to do self-enumeration: step-by-step guide - The Hindu",
+      "url": "https://www.thehindu.com/news/national/census-2027-step-by-step-guide-how-to-do-self-enumeration-online-check-date-for-your-state/article70810183.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/25n0a7/article70790440.ece/alternates/LANDSCAPE_1200/c%C2%A0TH26-Vijaita-GL6FP64OP.3.jpg.jpg",
+      "scraped_at": "2026-04-02 03:26:36.488889",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Census 2027",
+      "rephrased_article": "**India's** Office of the Registrar General and Census Commissioner will conduct the 2027 census, a massive administrative and statistical exercise that collects demographic data on the entire country. The self-enumeration facility allows citizens to provide their household information online before enumerators visit, offering flexibility in filling out the census schedule.  The dates for self-enumeration vary by state and union territory, with most starting in April 2026. Census data is expected to be published within 2027 due to the digital nature of the process.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 47378,
+      "title": "Cochin Shipyard delivers INS Malwan to Indian Navy - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/cochin-shipyard-delivers-ins-malwan-to-indian-navy/article70812384.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-01 23:13:32.621790",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Navy",
+      "rephrased_article": "**The Indian Navy** received the second of eight Anti-Submarine Warfare Shallow Water Crafts (ASW SWC) built by **Cochin Shipyard Limited**, named INS Malwan. The 80-meter-long vessel is designed and constructed to support underwater surveillance, anti-submarine warfare, low-intensity maritime operations, and mine warfare.  **INS Malwan** features waterjet propulsion, torpedoes, anti-submarine rockets, advanced radar, and sonar systems with over 80% indigenous content.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 47372,
+      "title": "Modi plans FTA push with Europe this summer, fast-tracking implementation on cards - The Hindu",
+      "url": "https://www.thehindu.com/news/national/modi-plans-fta-push-with-europe-this-summer-fast-tracking-implementation-on-cards/article70812425.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qn4t2c/article70812826.ece/alternates/LANDSCAPE_1200/20260401527L_7i6t162.jpg",
+      "scraped_at": "2026-04-01 23:11:18.693237",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prime Minister Narendra Modi** will prioritize European relations this summer, with travel plans including a visit to the **G-7 Summit** in France and meetings with EU officials.  The **EU Parliament** is discussing ratifying the **EU-India Free Trade Agreement**, which aims to boost trade between the two regions. The delegation from the **European Union** met with Indian officials, discussing ways to expedite the agreement's implementation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 47339,
+      "title": "Lok Sabha passes Jan Vishwas amendment Bill - The Hindu",
+      "url": "https://www.thehindu.com/news/national/lok-sabha-passes-jan-vishwas-amendment-bill/article70812931.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/e46bdj/article70804783.ece/alternates/LANDSCAPE_1200/30th-phukan-OppGEPFPKLPK.3.jpg.jpg",
+      "scraped_at": "2026-04-01 21:16:04.859196",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Lok Sabha** passed the Jan Vishwas (Amendment of Provisions) Bill, 2026, which aims to decriminalize and rationalize minor offenses for easier business and living. The bill proposes amendments to 79 Central Acts administered by 23 Ministries, seeking to remove outdated provisions and improve the regulatory environment.  Commerce and Industry Minister **Piyush Goyal** supported the bill, while Congress member **K. Kavya**'s amendments were rejected.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 47287,
+      "title": "GST collection in Karnataka grows by 11.6% - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/gst-collection-in-karnataka-grows-by-116/article70812533.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9m43qi/article70812870.ece/alternates/LANDSCAPE_1200/iStock-1125725942%201.jpg",
+      "scraped_at": "2026-04-01 18:00:56.687988",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka Government",
+      "rephrased_article": "**Karnataka** collected ₹1.58 lakh crore in GST revenue during 2025-2026, a 11.6% increase from the previous year. The state's SGST portion of the IGST settlement was ₹50,245 crore, exceeding the 2024-2025 collection by 5%.  **Karnataka** ranks second in the country for GST collection after **Maharashtra**, with a revenue loss estimated at ₹15,000 crore due to GST rate rationalization.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
       ]
     }
   ]

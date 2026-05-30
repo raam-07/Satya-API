@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 00:17:18.014470",
+  "generated_at": "2026-05-30 09:07:06.184086",
   "party": "NCP",
   "full_name": "Nationalist Congress Party",
   "ideology": "Nationalism, Secularism",
@@ -8,11 +8,11 @@
   "ruling_states": [],
   "color": "#00BFFF",
   "stats": {
-    "total_articles": 32,
-    "articles_last_30d": 9,
+    "total_articles": 34,
+    "articles_last_30d": 10,
     "sentiment_breakdown_30d": {
       "neutral": 4,
-      "negative": 4,
+      "negative": 5,
       "positive": 1
     }
   },
@@ -27,6 +27,40 @@
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 62625,
+      "title": "Spurious liquor kills 15 in Pune, Pimpri-Chinchwad; 8 held, probe ordered - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/several-dead-in-pune-pimpri-chinchwad-after-spurious-liquor/article71036225.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 03:49:27.622986",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "At least 15 people have died in Pune and Pimpri-Chinchwad after consuming spurious liquor, prompting an investigation by **Maharashtra Chief Minister Devendra Fadnavis** and the **Excise Department**.  **Yogesh Wankhede**, who brought ethanol without permission, is suspected of preparing the illicit alcohol at a location in Hadapsar before supplying it to vendors. The deaths occurred over three days, with residents expressing anger towards authorities for allegedly failing to prevent the sale of illegal liquor.  The investigation is ongoing and more arrests are expected.",
+      "party_mentioned": [
+        "Congress",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 59273,
       "title": "Tell your ‘petty politicians’ not to blame the court for delay, CJI tells Thackeray-Shinde factions - The Hindu",
@@ -998,6 +1032,31 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 47353,
+      "title": "Kerala Assembly polls 2026 | There was no young candidate on NCP’s final list to challenge my candidature in Elathur: A.K. Saseendran - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-there-was-no-young-candidate-on-ncps-final-list-to-challenge-my-candidature-in-elathur-ak-saseendran/article70810526.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kfzei7/article70811691.ece/alternates/LANDSCAPE_1200/01tvkz-aks.jpg",
+      "scraped_at": "2026-04-01 22:09:29.786628",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "LDF",
+      "rephrased_article": "**The LDF candidate** for the Elathur Assembly constituency, despite protests from some within the **Nationalist Congress Party**, decided to contest after the party finalized his name for a winnable seat.  A farmer's candidate has emerged in the urban constituency, citing concerns of upland farmers. The candidate believes that the government has taken sufficient measures to prevent human-wildlife conflict and that climate change must be considered when addressing it.  The LDF government has implemented several initiatives such as the appointment of tribal youths as Beat Forest Officers and revised compensation for families of those killed in wildlife attacks, but the candidate also criticizes rival parties for declining commitment to democratic principles.",
+      "party_mentioned": [
+        "Congress",
+        "NCP",
+        "Nationalist Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
       ]
     }
   ]
