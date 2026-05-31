@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 00:16:45.795619",
+  "generated_at": "2026-05-31 10:02:10.592014",
   "state": "Chandigarh",
   "capital": "Chandigarh",
   "ruling_party": "Central Govt",
@@ -8,33 +8,378 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 29,
-    "articles_last_30d": 18
+    "total_articles": 40,
+    "articles_last_30d": 28
   },
   "top_cities_30d": {
-    "Delhi": 7,
-    "Bengaluru": 4,
-    "Ludhiana": 3,
-    "Chennai": 2,
+    "Delhi": 15,
+    "Bengaluru": 6,
+    "Ludhiana": 5,
+    "Chennai": 5,
+    "Mumbai": 3,
+    "Hyderabad": 3,
     "Ahmedabad": 2,
+    "Pune": 2,
     "Srinagar": 1,
-    "Amritsar": 1,
-    "Mumbai": 1,
-    "Hyderabad": 1,
-    "Kolkata": 1
+    "Amritsar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 15,
-    "education": 7,
+    "foreign_policy": 21,
+    "education": 9,
     "infrastructure": 6,
     "protest_opposition": 6,
+    "crime_violence": 6,
+    "economy": 6,
+    "health": 4,
+    "corruption_scam": 3,
     "farmer_agriculture": 3,
-    "corruption_scam": 2,
-    "crime_violence": 2,
-    "economy": 2,
-    "health": 2
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 63189,
+      "title": "In multi-state operation, police say Pakistan-backed terror group busted, 8 held | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/champagne-parties-to-interpol-notice-rise-and-fall-of-a-dehradun-power-couple-10716283/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/delhi-2cols.jpg",
+      "scraped_at": "2026-05-30 23:03:25.336378",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan ISI",
+      "rephrased_article": "The **Delhi Police** arrested eight individuals, including a Nepali national, in a coordinated multi-state operation targeting vital installations and security establishments. The arrests were made following intelligence reports suggesting a potential terror attack in Delhi and Mumbai.  The suspects, linked to the **Pakistan ISI**, underworld operatives, and gangster Shahzad Bhatti, were allegedly planning attacks on bridges, railway stations, and government buildings.  **Vijay 'Shooter'**, a key suspect, was arrested from Pune and confirmed his involvement in recruiting youth for terror activities.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Pune"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 63186,
+      "title": "Why do people in Himachal live longer than Punjabis and Haryanvis? - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTVBOTVaR0QzOUIzQm9TMmx3Ni1tT3NWNmFHUnpyanR0TnRsajZodVQ1RXduVGRjVTRHZ1ptakJER05aZUlVeDNxbnota1pYSHlncnh6cXpqYUpnS1FYakVXNTVRczR4X05CbTl0c0laX3pEZExaOHhNSGxfWmVUcXpxVVNjMUVOS3RYR0VHQVd0cDdMWXN4SGxKU2JadFc4S1cxV3N4UHpJU0k4?oc=5",
+      "source": "The Tribune",
+      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI2ZmZjOWEwLTVjMDctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "scraped_at": "2026-05-30 23:03:04.460983",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Himachal Pradesh Government",
+      "rephrased_article": "**Himachal Pradesh** has the highest life expectancy in the country, at 74.7 years, surpassing even **Kerala**.  This is attributed to factors like better access to healthcare facilities, higher literacy rates, and a strong focus on health by the state government. The data released by the Registrar General of India shows that **Himachal Pradesh** has significantly increased its life expectancy over the past few decades, while **Punjab** and **Haryana** have seen less improvement.  The **Reserve Bank of India** reports that **Himachal Pradesh** allocates a higher percentage of its budget to healthcare than other states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Kerala",
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "health"
+      ]
+    },
+    {
+      "id": 63184,
+      "title": "In multi-state operation, police say Pakistan-backed terror group busted, 8 held | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/in-multi-state-operation-police-say-pakistan-backed-terror-group-busted-8-held-10716284/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/delhi-2cols.jpg",
+      "scraped_at": "2026-05-30 23:03:00.048562",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan ISI",
+      "rephrased_article": "The **Delhi Police** arrested eight individuals, including a Nepali national, in a coordinated multi-state operation targeting vital installations and security establishments. The arrests were made in Maharashtra, Punjab, and Delhi, with the suspects allegedly linked to the Pakistan ISI, underworld operatives, and gangster Shahzad Bhatti.  Police uncovered a conspiracy orchestrated by these groups, with some individuals linked to fugitive gangster Dawood Ibrahim.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 63150,
+      "title": "West Bengal AI adoption lag | Bengal and AI: For a ‘Deep State’ to aid technological innovation - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV1hsbXhZWTBGaTZsQ1hlOHJDNEVXZ1RrS1NFT0lBNTNhRXEzZEM0NUEwLVVNQWhGbDVhVGZyODNBUlp6SmNIM3AwWlBXWFRlM0dZQ0hEMHdOVGdobWtudVVoOHp0UzBoS2lsMmpjWV9vdWhTbklCSFZXcVZKNnNrbU9ZYng2aXRzTUUwT0dkUFNNbkRDdm5mN0dMNDlFdUJqcHN1SDUySWd0WWNIUnFFRG1BSkM2cTVYczN3bVRQMlZqR0NlUndZTXZiU3ZKVnlSNC0wSHFxcjdIMXFQbWdNRNIB5gFBVV95cUxOYmkxak9BWmlGcmVnOTJndDVQZWFLSTg2bm1VakdqVi14Q1RTOENkenJTWWFHUWthVFh0d01pSWIxcUIzdl9ucGxjZThtVHZSNkdVWG1qeUs5SWtvNVUxdnZFZmdKVDIzRENxNTd0VHNqVVFCR01QZnlhTnlHQndSVTdtNUZsbUkyMFhEb1p0ZWF6S3pPSFktYVdtQ1AyaWxUbEphU245LVEyTUx5aG54eU0wOHBsXzU4aGhjdnlNRFd5Szd5ZGhMY0hFNW02NUhnanV5d1M1WWVwV0MxczlBTlZib1R2UQ?oc=5",
+      "source": "The Telegraph",
+      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1777772950_new-project-84.jpg",
+      "scraped_at": "2026-05-30 21:59:23.089606",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "West Bengal Government",
+      "rephrased_article": "A recent report by **OpenAI** reveals that India is a leader in AI adoption, with cities like Bengaluru, Hyderabad, Delhi, and Chennai leading the way. However, West Bengal lags behind, despite having a strong talent pool and intellectual tradition. The state's lack of AI adoption raises concerns about missed opportunities and potential stagnation.  This situation mirrors past hesitation towards technology in the 1980s, highlighting the need for a proactive approach to integrate AI into various sectors. A collaborative think tank, similar to the \"Deep State\" concept, is proposed to drive AI adoption in West Bengal by identifying high-impact use cases and fostering partnerships between government and private entities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Chhattisgarh",
+        "Himachal Pradesh",
+        "Kerala",
+        "Manipur",
+        "Odisha",
+        "Punjab",
+        "Tripura",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 63146,
+      "title": "Extremely Severe Alert on phones: Loud alarm warns of bad weather in Delhi NCR — ‘such alert for basic thunderstorm’ | Today News",
+      "url": "https://www.livemint.com/news/india/extremely-severe-alert-on-phones-loud-alarm-warns-of-bad-weather-in-delhi-ncr-such-alert-for-basic-thunderstorm-11780143829690.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/PTI05-29-2026-000193B-0_1780144516453_1780144535146_52ae62db-2f53-40e3-ba7c-427ae73a19ba.jpg",
+      "scraped_at": "2026-05-30 21:59:13.419835",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**India Meteorological Department (IMD)** issued an \"Extremely Severe Alert\" on Saturday evening warning of severe thunderstorms and rainfall across Delhi-NCR and other parts of India. The alert, which was sent via a cell broadcast system, was intended to warn citizens of imminent, life-threatening disasters such as cyclones and heavy rainfall. While some praised the initiative, others questioned the severity of the alert for what they considered moderate weather conditions.  The IMD also issued district-wise nowcast warnings predicting thunderstorms with gusty winds up to 100 kmph in several states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Haryana",
+        "Jharkhand",
+        "Kerala",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ghaziabad",
+        "Ludhiana",
+        "Meerut"
+      ],
+      "topic_tags": [
+        "economy",
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63136,
+      "title": "West Bengal AI adoption lag | Bengal and AI: For a ‘Deep State’ to aid technological innovation - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0RYcUQ2d0w3Y01pVk9jMGNiWkVYR1ZCalY1dWhHN3pKaGRKcjFiVkxLa25xRHJlaHYxemhuXy1QY3I3NFU4Tm5Pbm01WnQ4TC1LRTdRMG0xYWhIWDJmdGQxWmRzdlNXTktoemZONnByVEZJc2hfWGNFell2aU5PdTJ6MTQyYXdNaXF4dDdKWnVKYlVhME9lU0NfMWJmOUxHOEd2dVAtd2FINmtJcmptb044ektQdUg0ZEHSAb8BQVVfeXFMTjN2cHhTYVlVa0xSQTZBYWRrcEtPVXhyNUluX05vN0xRclFBa3l4R2tTa1hJNnhOUm5hWktWdkQyMmZLd2tIeUIwMUF0elowRVZoMEZMcFRtX1VEYnExSV9WWTBreTNSaWtGQkdvOWtBM2FLUFd0ZmU5S3hmYjF0MlZsTUtuVEdlb1hhQ3VmWXN1M1pNTHNBek5PUzdPdlN0VUNaNFVXYno1M2RCZnAtRFJ3SlE1WkVKMlpvU3RuOGc?oc=5",
+      "source": "The Telegraph",
+      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1777772950_new-project-84.jpg",
+      "scraped_at": "2026-05-30 21:58:50.119553",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "West Bengal Government",
+      "rephrased_article": "**OpenAI's** recent report reveals that India is a major user of Artificial Intelligence, with cities like Bengaluru, Hyderabad, Delhi, and Chennai leading the adoption.  However, West Bengal has not seen significant AI adoption despite having a strong talent pool and intellectual tradition. The report highlights a potential missed opportunity for the state to capitalize on this new technology, raising concerns about lethargy and lack of urgency in adopting AI. Debashis Sen, a retired IAS officer, suggests creating a \"Deep State\" in West Bengal to drive AI adoption through strategic partnerships and pilot projects.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Chhattisgarh",
+        "Himachal Pradesh",
+        "Kerala",
+        "Manipur",
+        "Odisha",
+        "Punjab",
+        "Tripura",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 63114,
+      "title": "Heavy rain, cool breeze turn Chandigarh weather pleasant; max temp drops to 25.3°C - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWklfT241ZnE1Nnh3S0NIVEpScWF4MXZuOWdsSGRSR1QtOEx6OS1wZzAxRUhOVlE0U1RxVGJhQzBRZFJ0OHhEWUQwWHluTXFrdDRhZlJIbWw2MzBaVl83cV9IVmpxU1pIWlU2WW1LY2tDTTRPdGFJRUd0ZzByOHM0R0lLZW91OXdrNjZLNjhiaThSNXNQRmpONmRIV3VWb1BOMkFkeHZ5U3c2Mm5EanNZNWJCNlNHUUVESy1CSWdpZ3E3TnkxYXc?oc=5",
+      "source": "The Tribune",
+      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNjYjVlOTMwLTVjMzItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "scraped_at": "2026-05-30 21:57:37.671962",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "weather",
+      "rephrased_article": "Heavy rain and thunderstorms swept through Chandigarh on Saturday, bringing a dramatic end to a severe heatwave that had plagued the region.  The city experienced a significant drop in temperature, with a maximum of 25.3°C and a minimum of 18°C, both well below normal. The downpour brought relief from the scorching heat, prompting residents to flock to public spaces like Sukhna Lake and Rock Garden. While the IMD predicts below-normal monsoon rainfall for 2026, Saturday's rain provided a welcome respite.  The weather is expected to remain cool and breezy through Sunday and Monday before returning to dry conditions from Tuesday onwards.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Ludhiana",
+        "Faridabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62997,
+      "title": "Make dope tests mandatory for individuals joining govt services: Himachal Pradesh CM Sukhu | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/make-dope-tests-mandatory-for-individuals-joining-govt-services-himachal-pradesh-cm-sukhu-10716117/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/SUKHU-5.jpg",
+      "scraped_at": "2026-05-30 21:41:57.704773",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Sukhvinder Singh Sukhu",
+      "rephrased_article": "**Himachal Pradesh** Chief Minister Sukhvinder Singh Sukhu directed all departments to implement mandatory drug testing for government service applicants.  He also requested details on action taken against employees involved in drug trafficking and sought information regarding vacant posts, pending gratuity payments, and applications for compassionate grounds employment. **Sukhu** emphasized the state's commitment to combatting drug abuse and ensuring timely removal of fallen trees from forest land following recent storms. The meeting was attended by various senior officials including Chief Secretary Sanjay Gupta and Additional Chief Secretaries K K Pant and Onkar Chand Sharma.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 62982,
+      "title": "Punjab and Haryana High Court suspends Kaithal’s Additional District and Sessions Judge, assigns no reason | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/rajeev-goyal-suspension-punjab-haryana-high-court-cbi-court-panchkula-10716152/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/gavel-file-photo-IE-1.jpg",
+      "scraped_at": "2026-05-30 21:41:22.400404",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Punjab and Haryana High Court",
+      "rephrased_article": "**Jagpreet Singh Sandhu**, a Senior Correspondent at **The Indian Express**, based in Chandigarh, has been covering legal, crime, and environmental reporting for over a decade. His recent coverage includes detailed reports on judicial verdicts, financial scams, public health concerns, and the intersection of technology and law enforcement.  Sandhu's work often focuses on victim rights and highlights administrative lapses within various sectors.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 62919,
+      "title": "Rare 'intensive' revision in Bihar four months before polls - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/rare-intensive-revision-in-bihar-four-months-before-polls/articleshow/122167501.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-122167607,width-1200,height-630,imgsize-40380,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-30 21:34:34.148929",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "The **Election Commission of India (ECI)** has ordered a special summary revision of electoral rolls in Bihar, marking a departure from its usual practice.  This revision differs from previous intensive revisions by utilizing the 2002-03 electoral roll as a base and incorporating a new pre-printed enumeration form for house-to-house verification. The ECI's decision to conduct this revision ahead of the assembly elections in October 2025 is unusual, as it has rarely ordered full state-wide intensive revisions so far out from the scheduled polls.  This move follows a pattern of the ECI conducting 'intensive' revision in specific areas of states based on various factors like population changes or electoral irregularities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 62886,
       "title": "IPL 2026 Final: Storm delays Gujarat Titans' arrival in Ahmedabad before RCB clash - India Today",
@@ -1072,6 +1417,33 @@
       "topic_tags": [
         "foreign_policy"
       ]
+    },
+    {
+      "id": 45709,
+      "title": "Vaibhav Suryavanshi: The 15-year-old Indian that cricket can no longer ignore",
+      "url": "https://www.bbc.com/news/articles/ce3dl636ly3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d97f/live/3232a670-28c3-11f1-9516-876fae3988b5.jpg",
+      "scraped_at": "2026-03-27 12:05:56.766591",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Vaibhav Suryavanshi",
+      "rephrased_article": "The 15-year-old Indian batter Vaibhav Suryavanshi is poised to make history as the youngest player in the IPL.  **Suryavanshi**, who turned 15 on March 27th, has already made a name for himself with impressive performances at various youth levels and his recent century in the IPL. The question now is whether he's ready for the world stage.  His talent has been recognized by many former cricketers, including Ravi Shastri, AB de Villiers, Matthew Hayden, WV Raman, and Sachin Tendulkar, who have praised his skills and maturity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Gujarat",
+        "Rajasthan",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Bangalore"
+      ],
+      "topic_tags": []
     }
   ]
 }

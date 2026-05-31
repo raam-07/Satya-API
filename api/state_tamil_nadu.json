@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 00:16:45.747091",
+  "generated_at": "2026-05-31 10:02:10.540062",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 825,
-    "articles_last_30d": 278
+    "total_articles": 846,
+    "articles_last_30d": 288
   },
   "top_cities_30d": {
-    "Chennai": 65,
-    "Delhi": 23,
-    "Madurai": 15,
-    "Coimbatore": 12,
+    "Chennai": 70,
+    "Delhi": 29,
+    "Madurai": 17,
+    "Coimbatore": 13,
     "Bengaluru": 8,
     "Mumbai": 7,
     "Kolkata": 7,
@@ -24,18 +24,371 @@
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 227,
-    "education": 68,
-    "protest_opposition": 61,
-    "economy": 45,
+    "foreign_policy": 232,
+    "education": 69,
+    "protest_opposition": 63,
+    "economy": 46,
     "infrastructure": 42,
-    "crime_violence": 33,
+    "crime_violence": 35,
     "farmer_agriculture": 30,
-    "corruption_scam": 23,
+    "corruption_scam": 25,
     "health": 18,
-    "rape_sexual_crime": 11
+    "rape_sexual_crime": 12
   },
   "recent_articles": [
+    {
+      "id": 63298,
+      "title": "Joseph C Vijay: TN CM attends manager's house-warming, visuals go viral now",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2N4MmJrZmZ5VWxKTmNDVDRpMGZBMTNzamMteUxmQ1ptTDFwMTVxMjR3WGlubmpRVjZjMmNTM21oSzIxYUpwTjFOLXZ0LXcxM05lUmxIT0hTWXVJeGRsS2FGcVJJWk1SeS0za0RHNDg2cHdXTVdMbk5zNXJwTnlCV1NqNDdlb1lrT3JzU2lGSFhYMTBTNnV0U1ZLcHYxVnlCbFA2VDVxaGRYNFhHZl9PZmcyRmJIQlZRVlhYWWRSYk9lWGRGNzVr?oc=5",
+      "source": "Deccan Herald",
+      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fx0xxkm57%2FJoseph-C-Vijay.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "scraped_at": "2026-05-31 01:39:56.089522",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Joseph C Vijay",
+      "rephrased_article": "**Vijay**, the Tamil Nadu chief minister, attended a house-warming ceremony for his manager and co-producer of \"Jana Nayagan,\" Jagadish Palanisamy.  The event drew criticism from the **DMK** who accused him of prioritizing a personal function over state matters by canceling the scheduled Singappen (Lioness) Task Force event. The opposition criticized Vijay's delegation, which included celebrity hairstylist **Jagadish Awasthi**, for appearing unnecessary and inappropriate for official duties.  Despite the controversy, **Vijay** continues to focus on state administration.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 63287,
+      "title": "Akshita Nandagopal",
+      "url": "https://www.indiatoday.in/anchor/akshita-nandagopal?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/author/Akshita-profile_image_one_to_one.png?VersionId=n_h.8.0ryYZVNYu2sa5i29mCzTvO5B1p",
+      "scraped_at": "2026-05-31 01:39:11.290141",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Vijay",
+      "rephrased_article": "**Vijay**, the newly sworn-in Chief Minister of Tamil Nadu, has announced several policy initiatives in his first moves, including a Rs 2,000 monthly allowance for women and a pension hike. He also pledged free electricity to residents.  The **CBI** is currently investigating **Vijay** for allegedly moving his vehicle beyond permitted limits before the Karur stampede. The Tamil Nadu assembly elections have concluded with the DMK securing victory.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 63282,
+      "title": "Ajith Kumar: Mother Mohini Mani dies at 89, actor rushes back to Chennai as",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk9yMWdOcEVMbEtqdElTSXdQdFRkTHN0YlhtVkNzOXBDN2tMSm1rMDlwaDJ5TTR0Tm40bFd4TUlFbUdQa0pEX2hpZk82cS1TYmdLNTVHSGZvOVlIa2RXZEdsQ0l5WmtPMEJnNzNHMXZfTl9vZTluMTdjQjQzUlVRb1JFTEpqNVZoOUZEb2hEU2RKZWUwQ0g4NW5xUDJBdFpKMnNEUU16WEI0Sk5fdnFMSWZwR1Qxb245NzlVLXg1eVRaUXBnVDZWUV9QZkxKdS1LWFp0cldDa2RHdw?oc=5",
+      "source": "Deccan Herald",
+      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fcwi26rk2%2FAjith-Kumar.jpg?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "scraped_at": "2026-05-31 01:38:45.995145",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Ajith Kumar",
+      "rephrased_article": "**Ajith Kumar’s** mother, **Mohini**, passed away at a Chennai hospital due to age-related illnesses. She was 89.  **Ajith Kumar**, who was in Dubai, is returning to Chennai to be with his family. Former Tamil Nadu Chief Minister MK Stalin and Annamalai expressed condolences on social media platforms. The actor has temporarily paused his film commitments to focus on his family.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63243,
+      "title": "AIADMK whip Krishnamoorthy meets Tamil Nadu Governor, seeks action against 'horse-trading' by TVK",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckFEUHFVQlNQdng1aXRnX0FoYUlvdmlQYjFJWGZodlJ6cVJINXhtOWprd2lvVHJJOHZZOWdVamFubVBtUjRGV3ZYenFBNGs2UmlidDBsUEREWWE5TWx4OUNNRFdmVFpxOGVmUWM2bjdGdFhWcmRpZVZxeUItRWZ2SkJEeVJsVWxDNll5T1BuLXVsZ3hGckVHVldsSVk0WVNjLXl4VE8wMWRVbnhLSjlmLVo4ZjdwRFNBQ01vWHVVb1BwZldjVjA2LWVjTnlIN3dveWFqZmdqR2RMbXFTNnhaRXhR?oc=5",
+      "source": "Deccan Herald",
+      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fwgyip4vy%2Finsets-27.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "scraped_at": "2026-05-30 23:05:47.811091",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TVK",
+      "rephrased_article": "**AIADMK** whip Agri S S Krishnamoorthy met with **Tamil Nadu Governor Rajendra Vishwanath Arlekar** to request action against alleged \"horse-trading\" by the ruling **TVK**.  The **AIADMK** claimed that \"huge sums of money were transacted\" to lure party MLAs and sought a CBI investigation. The **AIADMK** legislators who resigned and joined the **TVK**, including K Maragatham Kumaravel, S Jayakumar, P Sathyabama, and Esakki Subaya, are at the center of this controversy.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 63239,
+      "title": "Over 20% of Indian women suffer marital violence despite increased online engagement: Survey",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM015WWtyZzdxd1N5d0htRTJCMTFRUUxtcElFLTZ5YnZxZEdLaUxFWjFRS0JGcVJCVl9NWGdmNHFUSGdGUTcydTVuVEpJSC12VmdUc2cxV0I4RVQ4amhPcEZRcUd6bDlNeWNFdkpBd1hCVkpKOU02akwxSzNZTnJHeHpZTVRORzZJZ0lTWXpLUXBaZ19DOUw2UlFMbXRfM1ZUNGs5ZXJWZlgzUmtqbEotclBnajFLeVFNMEotUTNqRHhPdjl4ZUk3aEJYX1dwZw?oc=5",
+      "source": "Deccan Herald",
+      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fbwan09f0%2Fistockphoto-626589558-640x640.avif?rect=0%2C19%2C768%2C403&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "scraped_at": "2026-05-30 23:05:36.558998",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The sixth edition of the **National Family Health Survey** revealed that despite social progress, 20% of Indian women marry before age 18 and nearly a third lack access to family planning.  Sexual violence against married women by their spouses remains prevalent at 22.3%, though it has decreased from NFHS-5 (29.2%). **Karnataka** saw the most significant drop in sexual violence, while **Kerala** experienced a rise in the prevalence of this abuse. The survey also highlighted increased internet and cell phone usage among women nationwide, as well as higher bank account ownership and employment rates.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 63190,
+      "title": "Rahul Gandhi as PM | Modi’s enablers - The Gandhi family and the BJP’s dominance - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVZyNnFYSmRwaFlRMzJvQjY1RWFxaE5ieV9iSHo1SUdvRndya2o4ZlZkVHo3S3ZxWlJTYnJKaXo1eFNfTmhHaUExRFItX3liVVc2Y3lUUzh3SDlpelBIejhybDd1YVRlT0lWV29fZWFYbGtyRjhDRmZGTTZoWi01WFE0bGRMV2ExTHp1cFhpUVZLN0hnclZ6WS1QWXZiQlVBaWJfNjBST0xQVFZKY2dsadIBtgFBVV95cUxQOUFvNXNvUU5janBfUjg4SUlMd3VNQnRhTDhLNkoyYm4zMGhNTUw3bDVxWG1qZmJhQTRlekdhMWp2LWNranc4RFJ4aGNhMUNQWDkzdWoxU1liLXJkM1BMaHpSV016R09kX3ZZQm1fN1hJZWVQUUdzRXQzRzdLTW9UWG1oeHJZTHJjX2t2M0hyRG5CSkE0ZUxUM2kzOGNaaWduM09kQV9JOUk4TG00SV9vZ21VaUhmUQ?oc=5",
+      "source": "The Telegraph",
+      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1780110135_new-project-2026-05-30t050617-457.jpg",
+      "scraped_at": "2026-05-30 23:03:27.192888",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "A recent article criticizes the leadership of **Rahul Gandhi** and his sister, **Priyanka Gandhi**, within the **Congress Party**.  The author argues that despite the party's gains in the 2024 general elections, their lack of discipline, gravitas, and a clear vision for governance have hindered their progress. The author suggests that the Congress has lost ground to the **Bharatiya Janata Party** in many states, while highlighting the need for a new leader who can inspire voters and address the public's concerns about economic mismanagement and rising inequality.  The article also criticizes the reliance on dynastic politics within the party, comparing it to similar situations in other countries like Hungary where a fresh face emerged as an effective opposition leader.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "UPA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Priyanka Gandhi",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Haryana",
+        "Kerala",
+        "Madhya Pradesh",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "education"
+      ]
+    },
+    {
+      "id": 63084,
+      "title": "Congress move to bring Girish Chodankar back to helm Goa unit sparks discontent | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/goa-congress-leadership-change-girish-chodankar-amit-patkar-replaced-10716093/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Girish-Chodankar-X.jpg",
+      "scraped_at": "2026-05-30 21:56:37.155672",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** appointed **Girish Chodankar** as the new Goa Pradesh Congress Committee (GPCC) president, replacing **Amit Patkar**. This move has sparked discontent among some party leaders who question Chodankar's 2022 performance in Goa and his appointment after a three-year absence from the post.  **Patkar**, who skipped the event where Chodankar took charge, is reportedly planning to form a new political party with his supporters. The **AICC** has also appointed three new state working presidents: **M K Shaikh**, **Altone D’Costa**, and **Carlos Alvares Ferreira**.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Goa",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 63068,
+      "title": "Governors cannot sit indefinitely on Bills, says SC, but stops short of fixing timeline",
+      "url": "https://www.onmanorama.com/news/india/2025/11/20/supreme-court-governor-powers-assent.html",
+      "source": "Onmanorama",
+      "image_url": "https://img.onmanorama.com/content/dam/mm/en/news/india/images/2024/2/21/sc-onm.jpg",
+      "scraped_at": "2026-05-30 21:54:34.445812",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** ruled that neither the Governor nor the President can be subject to fixed timelines for granting assent to Bills passed by state legislatures. The court emphasized that such delays undermine democratic governance and are against the principles of federalism.  The bench, led by Chief Justice BR Gavai, unanimously rejected the \"deemed assent\" mechanism previously granted in a Tamil Nadu case, stating it encroaches upon the constitutional authority of the Governor or President. While several states argued for specific time limits to address delays, the court emphasized that enforcing such timelines would contradict the Constitution's flexibility and separation of powers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Punjab",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 63059,
+      "title": "Cyclone Ditwah leaves 366 dead in Sri Lanka; rain alert in Tamil Nadu, Puducherry",
+      "url": "https://www.onmanorama.com/news/india/2025/12/01/cyclone-ditwah-sri-lanka-casualties-tamil-nadu-rain.html",
+      "source": "Onmanorama",
+      "image_url": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2025/12/1/cyclone-ditwah.jpg",
+      "scraped_at": "2026-05-30 21:54:10.510607",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Cyclone Ditwah",
+      "rephrased_article": "**Cyclone Ditwah**, which has weakened into a deep depression, continues to hover near the Tamil Nadu and Puducherry coasts. **Tamil Nadu Chief Minister M K Stalin** held a review meeting with district collectors to assess the situation, while the Greater Chennai Corporation deployed 103 boats for rescue operations. The IMD predicts further rainfall in the region, leading to disruptions in normal life and damage to crops. Sri Lanka announced a special public-private fund to support recovery efforts after the devastating floods and landslides caused by **Cyclone Ditwah**, resulting in a death toll of 366 with 367 people still missing. International assistance is pouring in from countries like the UK, China, Australia, and Nepal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62959,
+      "title": "Gen Chauhan wraps up 'very satisfying' tenure as CDS; Lt Gen Subramani to take charge Sunday",
+      "url": "https://www.greaterkashmir.com/national/gen-chauhan-wraps-up-very-satisfying-tenure-as-cds-lt-gen-subramani-to-take-charge-sunday-11889530",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/gen-chauhan-wraps-up-tenure-as-cds-as-lt-gen-subramani-to-take-charge-sunday-2026-05-30-13-15-22.jpeg",
+      "scraped_at": "2026-05-30 21:40:19.335755",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Gen Anil Chauhan",
+      "rephrased_article": "**Gen Anil Chauhan**, the outgoing Chief of Defence Staff, concluded his three-year and eight-month tenure with a ceremonial tri-services guard of honor. He focused on enhancing military synergy among the three services during his time as CDS, playing a key role in Operation Sindoor and the theaterization model. **Lt Gen NS Raja Subramani (retd)** will succeed him as the next Chief of Defence Staff.  Chauhan expressed gratitude for his tenure and bid farewell to colleagues before transitioning to civilian life.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 62919,
+      "title": "Rare 'intensive' revision in Bihar four months before polls - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/rare-intensive-revision-in-bihar-four-months-before-polls/articleshow/122167501.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-122167607,width-1200,height-630,imgsize-40380,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-30 21:34:34.148929",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "The **Election Commission of India (ECI)** has ordered a special summary revision of electoral rolls in Bihar, marking a departure from its usual practice.  This revision differs from previous intensive revisions by utilizing the 2002-03 electoral roll as a base and incorporating a new pre-printed enumeration form for house-to-house verification. The ECI's decision to conduct this revision ahead of the assembly elections in October 2025 is unusual, as it has rarely ordered full state-wide intensive revisions so far out from the scheduled polls.  This move follows a pattern of the ECI conducting 'intensive' revision in specific areas of states based on various factors like population changes or electoral irregularities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 62873,
       "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
@@ -4958,277 +5311,6 @@
         "foreign_policy",
         "education"
       ]
-    },
-    {
-      "id": 57574,
-      "title": "From political defection to murder: Jayakanthan’s story on shifting loyalties - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/from-political-defection-to-murder-jayakanthans-story-on-shifting-loyalties/article70955127.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/5bldf7/article70955162.ece/alternates/LANDSCAPE_1200/Untitled%20design%2021.png",
-      "scraped_at": "2026-05-08 11:59:28.059644",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Jayakanthan's** novella, *Illathavarakal*, explores the volatile political landscape of Tamil Nadu through the story of Tony, a party cadre driven to murder after his leader defects.  Tony, enraged by the change in party flag and fueled by his friends, clashes with rival supporters, resulting in a stabbing that leaves one man dead. **The police** apprehend Tony, highlighting the consequences of shifting loyalties in the wake of political defections.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "health",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 57557,
-      "title": "Smacks of low political opportunism: Mani Shankar Aiyar slams Congress’ TVK tie-up decision - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/smacks-of-low-political-opportunism-mani-shankar-aiyar-slams-congress-tvk-tie-up-decision/article70954577.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/7obw43/article70954606.ece/alternates/LANDSCAPE_1200/ACJ_4.jpg",
-      "scraped_at": "2026-05-08 10:10:39.034645",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "Veteran Congress leader Mani Shankar Aiyar criticized the party's decision to ally with the TVK in Tamil Nadu, calling it \"low political opportunism\" and a betrayal of its longstanding partnership with the DMK.  Aiyar argued that this move would facilitate the entry of a communal BJP into Tamil Nadu's Dravidian ethos, making it the worst own goal in political history. He expressed deep unease with the Congress' decision to abandon a tried and tested ally, citing Mahatma Gandhi's principles of morality and self-sacrifice. The Congress' decision to join forces with the TVK has been met with disapproval from the DMK, who described it as \"backstabbing.\"",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 57537,
-      "title": "Tamil Nadu government formation: Lone TVK cadre stages protest outside Lok Bhavan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-lone-tvk-cadre-stages-protest-outside-lok-bhavan/article70954301.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/q5vfi8/article70954514.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-08%20at%201.29.37%20PM.jpeg",
-      "scraped_at": "2026-05-08 08:28:23.508504",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Tamil Nadu government",
-      "rephrased_article": "A **Tamilaga Vettri Kazhagam** (TVK) party cadre, identified as Suresh, was apprehended by police near Lok Bhavan in Chennai on Friday after staging a protest demanding the Tamil Nadu Governor invite party leader C. Joseph Vijay to form the government.  Suresh is an assistant of film director S.A. Chandrasekar, father of Mr. Vijay. Police warned him against future protests in the prohibited area and advised him to obtain permission before doing so.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 57497,
-      "title": "T.N. Government formation LIVE: CPI, CPI(M), VCK hold the key to any further churn in State politics - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-live-updates-cpi-cpim-vck-key-to-govt-formation-dmk-aiadmk-tvk-politics/article70953684.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6lj4gb/article70953682.ece/alternates/LANDSCAPE_1200/DSC_4347.JPG",
-      "scraped_at": "2026-05-08 04:44:25.387355",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**Rajendra Vishwanath Arlekar**, the **Tamil Nadu Governor**, informed **C. Joseph Vijay**, president of the **Tamilaga Vettri Kazhagam (TVK)**, that the requisite majority support for forming a government has not been achieved in the state assembly.  **Vijay** and senior party leaders have reached out to DMK allies, including the Communist Party of India, CPI(M), and Viduthalai Chiruthaigal Katchi, who hold the key to further political developments. **M.K. Stalin**, the outgoing Chief Minister, reportedly met with these parties to discuss the possibility of supporting an AIADMK-led government.",
-      "party_mentioned": [
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57490,
-      "title": "Tamil Nadu Class 12 board exam results: How to check? - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-plus-2-board-exam-results-2026-how-to-check/article70953829.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/594gy7/article70953836.ece/alternates/LANDSCAPE_1200/image%203.jpg",
-      "scraped_at": "2026-05-08 04:42:02.963743",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Class 12 board exam results",
-      "rephrased_article": "**The Directorate of Government Examinations, Tamil Nadu**, announced the Class 12 examination results on May 8, 2026. Students can access their results online through **tnresults.nic.in** and **dge.tn.gov.in**.  They can also check their results via WhatsApp by saving the number +91-7845252525 and sending a \"Hi\" message with their registration number and date of birth. Additionally, students can download their marksheets through DigiLocker by following specific steps outlined in the article.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 57441,
-      "title": "Seeking a new paradigm for Dravidian exceptionalism - The Hindu",
-      "url": "https://www.thehindu.com/opinion/lead/seeking-a-new-paradigm-for-dravidian-exceptionalism/article70952497.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rh150o/article70952707.ece/alternates/LANDSCAPE_1200/2026-05-05T121118Z_800454545_RC2T2LAOBL23_RTRMADP_3_INDIA-ELECTIONS.JPG",
-      "scraped_at": "2026-05-07 22:10:40.910856",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**C. Joseph Vijay**, a cinema superstar, won the recent Tamil Nadu State Assembly election with his party, the Tamilaga Vettri Kazhagam (TVK), securing 108 seats out of 234. This victory marks a significant shift in political landscape as it reflects dissatisfaction with both the **Dravida Munnetra Kazhagam** (DMK) and the **All India Anna Dravida Munnetra Kazhagam** (AIADMK).  Vijay's win signals a desire for enlightened leadership that prioritizes Tamil exceptionalism and delivers quality governance.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57414,
-      "title": "Residents apprehend vehicle dumping of sludge in open plots in Ranipet - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-apprehend-vehicle-dumping-of-sludge-in-open-plots-in-ranipet/article70951287.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/kxyz55/article70951792.ece/alternates/LANDSCAPE_1200/residents-1.jpeg",
-      "scraped_at": "2026-05-07 20:53:49.116876",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "local civic bodies",
-      "rephrased_article": "Residents of Edakuppam village in Ranipet blocked a tractor carrying sludge, protesting against illegal dumping on open plots near their water bodies. The residents, who rely on groundwater for agriculture and drinking water, expressed concerns about health risks, pollution, and mosquito breeding grounds caused by the waste.  They also alleged that local civic bodies have ignored repeated complaints regarding this issue.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 57391,
-      "title": "Tamil Nadu seeks postponement of DGP empanelment committee meeting - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-seeks-postponement-of-dgp-empanelment-committee-meeting/article70951714.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/jbfeio/article70952363.ece/alternates/LANDSCAPE_1200/3ba5278b-04b8-4535-a1ee-473ca88fb123.JPG",
-      "scraped_at": "2026-05-07 19:19:40.827304",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu government",
-      "rephrased_article": "**The Tamil Nadu government** has requested the **Union Public Service Commission (UPSC)** to postpone the Empanelment Committee Meeting (ECM) for a new Director General of Police, citing ongoing political developments and the need for key officials' presence in the state. The meeting was originally scheduled for May 11th, 2026, but the government requested a postponement to a later date, preferably in the last week of May. **Sandeep Rai Rathore**, the current DGP/HoPF, will continue to lead the force until a new chief is appointed as per Supreme Court guidelines.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 57366,
-      "title": "Governor’s remit is to invite TVK chief Vijay and ask for a floor test: former Law Minister Ashwani Kumar - The Hindu",
-      "url": "https://www.thehindu.com/news/national/governors-remit-is-to-invite-tvk-chief-vijay-and-ask-for-a-floor-test-former-law-minister-ashwani-kumar/article70952179.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ekdj2e/article70952458.ece/alternates/LANDSCAPE_1200/PTI01_05_2026_000068B.jpg",
-      "scraped_at": "2026-05-07 17:20:33.838162",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Governor",
-      "rephrased_article": "**Ashwani Kumar**, former Union Law Minister, urged **Tamil Nadu Governor** to invite **C. Joseph Vijay** and his **Tamilaga Vettri Kazhagam (TVK)** party to form the government and demonstrate their majority on the floor of the State Assembly.  Kumar argued that constitutional conventions require this process when a party claims majority support, dismissing arguments about delaying the swearing-in as a \"political outrage\" and a \"constitutional heresy.\"",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57360,
-      "title": "Palaniswami saddened over Stalin’s loss from Kolathur constituency, says AIADMK - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-saddened-over-stalins-loss-from-kolathur-constituency-says-aiadmk/article70950815.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/tp8s2o/article70952088.ece/alternates/LANDSCAPE_1200/476ef166-9c90-4a35-a5d6-2237011ac9e2.jfif",
-      "scraped_at": "2026-05-07 15:21:16.428443",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Palaniswami",
-      "rephrased_article": "**A. Anbalagan**, secretary of the AIADMK Puducherry unit, stated that **Edappadi K. Palaniswami**, party general secretary, was saddened by former Tamil Nadu Chief Minister M.K. Stalin's defeat in the Kolathur constituency.  Anbalagan confirmed that newly elected legislators from Tamil Nadu are staying at a resort in Puducherry under **Palaniswami's** directions and all members are united under his leadership. The legislators arrived on Wednesday and were moved to the RKN Beach Resort on Thursday due to advance bookings at The Shore Thrishvam.",
-      "party_mentioned": [
-        "AIADMK",
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57330,
-      "title": "Behind the insistence on 'majority support' looms the shadow of President's Rule - The Hindu",
-      "url": "https://www.thehindu.com/elections/behind-the-insistence-on-majority-support-looms-the-shadow-of-presidents-rule/article70950894.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2gk9ap/article70951124.ece/alternates/LANDSCAPE_1200/20260506153L.jpg",
-      "scraped_at": "2026-05-07 12:23:09.084494",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu government",
-      "rephrased_article": "**The Supreme Court** has established a legal principle that a Governor's primary duty is to form a stable government, preventing constitutional breakdown.  This principle dictates that the Governor cannot refuse to allow the formation of a government once a majority is established, with the exception being when the Governor believes a stable government cannot be formed by the claimants. The **Tamil Nadu** government is currently facing challenges as the **Tamilaga Vettri Kazhagam (TVK)** president C. Joseph Vijay demands proof of majority support in the Legislative Assembly.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": []
     }
   ]
 }

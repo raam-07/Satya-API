@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 00:16:45.653733",
+  "generated_at": "2026-05-31 10:02:10.436694",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,34 +8,393 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 332,
-    "articles_last_30d": 103
+    "total_articles": 349,
+    "articles_last_30d": 114
   },
   "top_cities_30d": {
     "Visakhapatnam": 14,
+    "Delhi": 13,
     "Hyderabad": 10,
-    "Delhi": 8,
-    "Chennai": 6,
+    "Chennai": 9,
+    "Madurai": 5,
     "Mumbai": 5,
     "Bengaluru": 4,
-    "Madurai": 3,
-    "Kolkata": 3,
+    "Kolkata": 4,
     "Pune": 2,
-    "Varanasi": 1
+    "Coimbatore": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 81,
-    "education": 23,
-    "infrastructure": 22,
-    "farmer_agriculture": 19,
-    "economy": 18,
-    "health": 13,
+    "foreign_policy": 87,
+    "education": 25,
+    "infrastructure": 23,
+    "economy": 21,
+    "farmer_agriculture": 18,
+    "health": 15,
+    "crime_violence": 15,
     "protest_opposition": 13,
-    "crime_violence": 12,
-    "rape_sexual_crime": 6,
+    "rape_sexual_crime": 7,
     "corruption_scam": 3
   },
   "recent_articles": [
+    {
+      "id": 63287,
+      "title": "Akshita Nandagopal",
+      "url": "https://www.indiatoday.in/anchor/akshita-nandagopal?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/author/Akshita-profile_image_one_to_one.png?VersionId=n_h.8.0ryYZVNYu2sa5i29mCzTvO5B1p",
+      "scraped_at": "2026-05-31 01:39:11.290141",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Vijay",
+      "rephrased_article": "**Vijay**, the newly sworn-in Chief Minister of Tamil Nadu, has announced several policy initiatives in his first moves, including a Rs 2,000 monthly allowance for women and a pension hike. He also pledged free electricity to residents.  The **CBI** is currently investigating **Vijay** for allegedly moving his vehicle beyond permitted limits before the Karur stampede. The Tamil Nadu assembly elections have concluded with the DMK securing victory.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 63239,
+      "title": "Over 20% of Indian women suffer marital violence despite increased online engagement: Survey",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM015WWtyZzdxd1N5d0htRTJCMTFRUUxtcElFLTZ5YnZxZEdLaUxFWjFRS0JGcVJCVl9NWGdmNHFUSGdGUTcydTVuVEpJSC12VmdUc2cxV0I4RVQ4amhPcEZRcUd6bDlNeWNFdkpBd1hCVkpKOU02akwxSzNZTnJHeHpZTVRORzZJZ0lTWXpLUXBaZ19DOUw2UlFMbXRfM1ZUNGs5ZXJWZlgzUmtqbEotclBnajFLeVFNMEotUTNqRHhPdjl4ZUk3aEJYX1dwZw?oc=5",
+      "source": "Deccan Herald",
+      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fbwan09f0%2Fistockphoto-626589558-640x640.avif?rect=0%2C19%2C768%2C403&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "scraped_at": "2026-05-30 23:05:36.558998",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The sixth edition of the **National Family Health Survey** revealed that despite social progress, 20% of Indian women marry before age 18 and nearly a third lack access to family planning.  Sexual violence against married women by their spouses remains prevalent at 22.3%, though it has decreased from NFHS-5 (29.2%). **Karnataka** saw the most significant drop in sexual violence, while **Kerala** experienced a rise in the prevalence of this abuse. The survey also highlighted increased internet and cell phone usage among women nationwide, as well as higher bank account ownership and employment rates.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 63158,
+      "title": "NIMS launches advanced cancer genomics centre, first in Telangana’s government sector - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/nims-launches-advanced-cancer-genomics-centre-first-in-telanganas-government-sector/article71041805.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/55hp9p/article71041817.ece/alternates/LANDSCAPE_1200/IMG_NIMS-Medical-Ge_GK9E_2_1_T6E8CRJS.jpg",
+      "scraped_at": "2026-05-30 21:59:34.101869",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "NIMS",
+      "rephrased_article": "**The Nizam’s Institute of Medical Sciences (NIMS)** has established a Cancer Genomics Centre, becoming the first government sector hospital in Telangana to offer Next Generation Sequencing (NGS)-based cancer diagnostic services. The facility, part of the **Department of Health Research (DHR)-Indian Council of Medical Research (ICMR) Advanced Molecular Oncology Diagnostic Services (DIAMOnDS)** project, will enable more accurate detection of cancer-related genetic changes.  Since 2024, over 1,443 patients have benefited from free molecular oncology diagnostic services at the centre, including a significant number of lung and breast cancer patients.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 63156,
+      "title": "AI data centres India | Now, Wall Street Journal turns spotlight on water dilemma in India’s artificial intelligence data centre rush - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYlFTMXMtaVlZSEpyUnRhaTV6SW10bmdHZERDeUE5cmxpZHZzMmJqOXVYSkRCcm10UzFwRE1ZRzFGbUlteGtWUlNiZFRqd0piNDdvR1JrVnp4U0RLRXFWWHJwSDVwT2pHd1lFWTlNaDkzS3hRRC1tUXczankwSnJYRkQ2XzNnNGUzWUROMm5TSUlLQXpQZDBlOXZNN0M5c3VwX0hoT3hubUk1dVl5UDd2QXVIUlp1bDh6ckgwYUlPVGc5M1Frdmt6Y0RWSWpCNjZQSDNSd3FrSmZic1RHcHNBZ2VxVy1peEZvWm9wVdIB8gFBVV95cUxQT3oyUDFxQWlNS0R1N0Z0aXZ3Tk9ycGVqREE3cmFQV3Y5clI0V0xtYXZEWUlyNGVLbEJnTk5SdzRIMzJySmhXMkhvQ280NnU0Z0Zvd2hUbGgwU0pjei1uN0s4anJBYTNRN0o2Wks4T2xRc3dwa1YtTkx1UURRX2FRTGhCcHd2cmpvVVpGWmpxREd0eGpJeEVkV09DMEY3SXVuZVBMQV9ScXhNNk5pSjBvaV96d0hJYkJYeHVkaGNzeGJTWWN2ZXFRZmNURWl0OHl0aXppRzlYWDE0YmVfQkZVYUh1aUl5cWVEQkNmMHQyZExDQQ?oc=5",
+      "source": "The Telegraph",
+      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1780057356_new-project-2026-05-29t175145-555.jpg",
+      "scraped_at": "2026-05-30 21:59:29.715370",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "AI data center companies",
+      "rephrased_article": "**Google**, **Amazon**, **Microsoft**, and other tech giants are facing growing scrutiny over their data center projects in developing countries, including India.  Concerns about water scarcity and the displacement of local communities are raising questions about the environmental and social impact of these initiatives. The **Andhra Pradesh** government is offering significant subsidies to attract these companies, but residents fear long-term consequences for their livelihoods and agricultural practices. Protests have also emerged in other countries like Malaysia and Indonesia, highlighting the global debate surrounding AI development and its potential effects on water resources and rural communities.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63148,
+      "title": "SIHM will be readied by August in Uppada: Kakinada MP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sihm-will-be-readied-by-august-in-uppada-kakinada-mp/article71041923.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/svths9/article71042326.ece/alternates/LANDSCAPE_1200/10237_30_5_2026_19_44_35_1_MP.JPEG",
+      "scraped_at": "2026-05-30 21:59:22.104924",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "State Institute of Hotel Management (SIHM)",
+      "rephrased_article": "**Jana Sena Party** Kakinada MP Tangella Uday Srinivas announced that the **State Institute of Hotel Management (SIHM)** in Uppada will open for academic activity by August. The construction, which has been delayed due to a lack of funds from the Centre, is reportedly 95% complete with the administrative building, academic blocks, hostel and laboratory facilities being built.  The Ministry of Tourism has released ₹12 crore for the project on a five-acre land in Uppada to offer hotel management courses and address youth unemployment in Andhra Pradesh.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 63146,
+      "title": "Extremely Severe Alert on phones: Loud alarm warns of bad weather in Delhi NCR — ‘such alert for basic thunderstorm’ | Today News",
+      "url": "https://www.livemint.com/news/india/extremely-severe-alert-on-phones-loud-alarm-warns-of-bad-weather-in-delhi-ncr-such-alert-for-basic-thunderstorm-11780143829690.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/PTI05-29-2026-000193B-0_1780144516453_1780144535146_52ae62db-2f53-40e3-ba7c-427ae73a19ba.jpg",
+      "scraped_at": "2026-05-30 21:59:13.419835",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**India Meteorological Department (IMD)** issued an \"Extremely Severe Alert\" on Saturday evening warning of severe thunderstorms and rainfall across Delhi-NCR and other parts of India. The alert, which was sent via a cell broadcast system, was intended to warn citizens of imminent, life-threatening disasters such as cyclones and heavy rainfall. While some praised the initiative, others questioned the severity of the alert for what they considered moderate weather conditions.  The IMD also issued district-wise nowcast warnings predicting thunderstorms with gusty winds up to 100 kmph in several states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Haryana",
+        "Jharkhand",
+        "Kerala",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ghaziabad",
+        "Ludhiana",
+        "Meerut"
+      ],
+      "topic_tags": [
+        "economy",
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63108,
+      "title": "‘Foundation stone very soon for Jindal mega industrial park’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/foundation-stone-very-soon-for-jindal-mega-industrial-park/article71042119.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 21:57:14.541718",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Jindal group",
+      "rephrased_article": "**Andhra Pradesh** Industries and Commerce department secretary N. Yuvaraj directed officials to expedite the foundation stone ceremony for the JSW Industrial Park Limited in S. Kota constituency. **Jindal group** representatives were consulted, with the Collector assuring action after speaking with them. The initiative comes amid farmer protests alleging unfulfilled promises from the company regarding job opportunities and land allocation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 63059,
+      "title": "Cyclone Ditwah leaves 366 dead in Sri Lanka; rain alert in Tamil Nadu, Puducherry",
+      "url": "https://www.onmanorama.com/news/india/2025/12/01/cyclone-ditwah-sri-lanka-casualties-tamil-nadu-rain.html",
+      "source": "Onmanorama",
+      "image_url": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2025/12/1/cyclone-ditwah.jpg",
+      "scraped_at": "2026-05-30 21:54:10.510607",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Cyclone Ditwah",
+      "rephrased_article": "**Cyclone Ditwah**, which has weakened into a deep depression, continues to hover near the Tamil Nadu and Puducherry coasts. **Tamil Nadu Chief Minister M K Stalin** held a review meeting with district collectors to assess the situation, while the Greater Chennai Corporation deployed 103 boats for rescue operations. The IMD predicts further rainfall in the region, leading to disruptions in normal life and damage to crops. Sri Lanka announced a special public-private fund to support recovery efforts after the devastating floods and landslides caused by **Cyclone Ditwah**, resulting in a death toll of 366 with 367 people still missing. International assistance is pouring in from countries like the UK, China, Australia, and Nepal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 63051,
+      "title": "550 cancellations and several delays; IndiGo says operations to be normal by February | Onmanorama | India",
+      "url": "https://www.onmanorama.com/news/india/2025/12/05/indigo-flight-cancellations-ftdl-dgca-scrutinizes-indigo-operations.html",
+      "source": "Onmanorama",
+      "image_url": "https://img.onmanorama.com/content/dam/mm/en/archive/travel/travel-news/images/2025/12/4/indigo-cancellation-delay2.jpg",
+      "scraped_at": "2026-05-30 21:53:55.154024",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "IndiGo",
+      "rephrased_article": "**IndiGo**, the Indian airline, informed the **DGCA** that it would stabilize its operations by February 10, 2026, following over 550 flight cancellations due to implementation gaps of the new Flight Duty Time Limitations (FDTL) norms. The airline acknowledged misjudgments and planning gaps in implementing the rules, leading to disruptions and a fall in on-time performance. **Civil Aviation Minister K Rammohan Naidu** expressed displeasure with the airline's response, while the DGCA will monitor real-time operations and ensure passengers are informed of cancellations well in advance. The airline has sought exemptions from specific FDTL requirements for A320 flights until February 10, 2026, which the DGCA will review.  The **DGCA** also inspected IndiGo's passenger handling at Delhi airport and instructed the airline to increase manpower and strengthen support services.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62990,
+      "title": "Mosque, temple and modernisation: Can Kolkata airport become world-class? - India Today",
+      "url": "https://www.indiatoday.in/india-today-insight/story/mosque-temple-and-modernisation-can-kolkata-airport-become-world-class-2919233-2026-05-29?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/acdsv-292300167-16x9_0.png?VersionId=sAsz.JYlPRITBwoKBcFSoDsKfRU6w8kK",
+      "scraped_at": "2026-05-30 21:41:45.467359",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Sourav Sikdar**, the BJP MLA from Uttar Dum Dum, and **Rammohan Naidu Kinjarapu**, the Union civil aviation minister, have confirmed plans to relocate a mosque and a temple near Kolkata's Netaji Subhas Chandra Bose International Airport for its expansion. The relocation is part of a larger redevelopment project aimed at transforming the airport into a world-class facility with an Aerocity district similar to Delhi's Indira Gandhi International Airport.  The government aims to boost economic benefits for the surrounding region, particularly the Uttar Dum Dum municipality, which currently earns around Rs 86 lakh annually from airport operations. The relocation of the mosque and temple is part of ongoing discussions that have been raised in Parliament since 1998.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 62919,
+      "title": "Rare 'intensive' revision in Bihar four months before polls - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/rare-intensive-revision-in-bihar-four-months-before-polls/articleshow/122167501.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-122167607,width-1200,height-630,imgsize-40380,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-30 21:34:34.148929",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "The **Election Commission of India (ECI)** has ordered a special summary revision of electoral rolls in Bihar, marking a departure from its usual practice.  This revision differs from previous intensive revisions by utilizing the 2002-03 electoral roll as a base and incorporating a new pre-printed enumeration form for house-to-house verification. The ECI's decision to conduct this revision ahead of the assembly elections in October 2025 is unusual, as it has rarely ordered full state-wide intensive revisions so far out from the scheduled polls.  This move follows a pattern of the ECI conducting 'intensive' revision in specific areas of states based on various factors like population changes or electoral irregularities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62894,
+      "title": "A.P. primary teachers body elects new office-bearers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-primary-teachers-body-elects-new-office-bearers/article71042237.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 21:33:24.593584",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "State Government",
+      "rephrased_article": "**Andhra Pradesh Primary Teachers’ Association (APPTA)** State Executive Council elected new office-bearers, including Kaki Prakash Rao as president and M.G. Mehdi as general secretary. The committee resolved to urge the **State Government** to address pending dues, appoint the PRC chairman, and provide interim relief.  The committee also threatened a sustained protest if their demands were not met.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 62873,
       "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
@@ -4932,296 +5291,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 51463,
-      "title": "Lokesh inaugurates cricket stadium built at ₹10-cr. cost in Tirupati - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-inaugurates-cricket-stadium-built-at-10-cr-cost-in-tirupati/article70865738.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/w3kbc3/article70866141.ece/alternates/LANDSCAPE_1200/ccc4ead0-216f-43af-b4eb-bc371e635dd0.jpeg",
-      "scraped_at": "2026-04-15 18:47:49.952175",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Nara Lokesh",
-      "rephrased_article": "**Nara Lokesh**, the Human Resource Development and IT Minister, inaugurated two new sports facilities in Tirupati district. The **Nandamuri Taraka Rama Rao cricket stadium** and **Nara Ramamurthy Naidu Kreeda Vikasa Kendram** were built at a combined cost of ₹13.27 crore and aim to enhance sports infrastructure in the region. Lokesh announced a 90-day action plan to prioritize sports development, including creating fitness facilities for school children and utilizing existing sports quota jobs to improve the sector. He also met with several prominent athletes from various disciplines.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 51433,
-      "title": "IIT to H-1B: JD Vance invokes academic in-laws while red flagging green card without loyalty test - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/iit-to-h-1b-jd-vance-invokes-academic-in-laws-while-red-flagging-green-card-without-loyalty-test/articleshow/130286179.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130286267,width-1280,height-720,imgsize-1126292,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-04-15 15:54:43.631034",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "JD Vance",
-      "rephrased_article": "**Vice President JD Vance**, speaking at a TurningPointUSA townhall, doubled down on the Trump administration's restrictive immigration stance. He expressed skepticism towards the H-1B visa program and framed national loyalty as the ultimate litmus test for immigrants. **Vance** argued that the system is rife with abuse and suggested lowering overall immigration to allow the American social fabric to cohere. His remarks were met with enthusiastic praise from the MAGA wing of the party, but criticized by some who pointed out inconsistencies in his stance on loyalty.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 51425,
-      "title": "YSRCP lodges complaint with A.P. DGP over ‘illegal detention’ of Pudi Srihari - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-lodges-complaints-with-ap-dgp-over-illegal-detention-of-pudi-srihari/article70865597.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-15 15:51:21.432869",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Andhra Pradesh Police",
-      "rephrased_article": "**YSRCP** leaders filed a complaint with **Andhra Pradesh Director General of Police (DGP) Harish Kumar Gupta**, alleging that their general secretary (media wing), **Pudi Srihari**, was detained by police in violation of legal procedures and fundamental rights. The complaint, sent to the DGP, stated that Mr. Srihari was stopped near Rainbow Villas around 8 a.m. while returning from a meeting with **YSRCP president Y. S. Jagan Mohan Reddy** at the latter's residence.",
-      "party_mentioned": [
-        "Congress",
-        "YSRCP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 51389,
-      "title": "ACB takes Andhra Pradesh Endowments official K. Santhi into custody in corruption case - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/acb-takes-andhra-pradesh-endowments-official-k-santhi-into-custody-in-corruption-case/article70864501.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-15 12:14:06.149602",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "K. Santhi",
-      "rephrased_article": "**Anti-Corruption Bureau (ACB)** officials arrested Assistant Commissioner (Endowments) Kalingiri Santhi on April 7, 2026, after raiding her properties in Tadepalli and Visakhapatnam.  The raids uncovered a two-storeyed building, a residential flat, gold ornaments, silver jewellery, and other valuables. The **ACB** took Santhi into custody for questioning and moved her from Vijayawada Jail.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [
-        "Visakhapatnam"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 51296,
-      "title": "Govt. committed to values espoused by Ambedkar, says Minister - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-committed-to-values-espoused-by-ambedkar-says-minister/article70861991.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/gfc6he/article70862401.ece/alternates/LANDSCAPE_1200/DSC_2622.JPG",
-      "scraped_at": "2026-04-15 00:15:37.524459",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Minister for Social Welfare Dola Sree Bala Veeranjaneya Swamy**, speaking at the 135th birth anniversary celebrations of **Dr. B.R. Ambedkar** in Vijayawada, emphasized the importance of upholding Dr. Ambedkar's values of equality and liberty.  The **Chief Minister N. Chandrababu Naidu** is committed to ensuring equal development for all sections, as is reflected by budgetary allocations for SC, ST, BC, and other communities. The government has also allocated ₹143 crore for the development of social welfare hostels and residential schools.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51271,
-      "title": "Stalin warns of massive protests against delimitation; Revanth calls for united southern front - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/will-not-remain-silent-tn-cm-stalin-warns-of-massive-protest-against-delimitation/article70860568.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/m3vifu/article70860573.ece/alternates/LANDSCAPE_1200/9712_13_4_2026_21_43_35_2__DSC9280.JPG",
-      "scraped_at": "2026-04-14 23:29:00.043949",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Union Government",
-      "rephrased_article": "**Chief Ministers** of non-BJP-ruled states, particularly in southern India, are opposing the **Union Government’s** proposal for delimitation ahead of women's reservation.  **Tamil Nadu** CM M.K. Stalin threatened a massive protest if the proposal affects Southern States and urged a united front against the \"pro rata\" formula. **Telangana** CM Revanth Reddy called for a national consensus on seat expansion, proposing a hybrid model that would allocate seats based on population and GSDP.  **Karnataka** CM Siddaramaiah warned that even with percentage increases, delimitation would disproportionately benefit large states controlled by the BJP, diminishing the influence of Southern States.",
-      "party_mentioned": [
-        "BJP",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee",
-        "Siddaramaiah",
-        "M.K. Stalin",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Karnataka",
-        "Tamil Nadu",
-        "Telangana",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51118,
-      "title": "True respect for Ambedkar lies in living by his legacy, says Jagan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/true-respect-for-ambedkar-lies-in-living-by-his-legacy-says-jagan/article70861454.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ox0e6s/article70861626.ece/alternates/LANDSCAPE_1200/IMG_VJ20_JAGAN_2__2_1_0SFRKC4S.jpg",
-      "scraped_at": "2026-04-14 14:11:08.318078",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "current government",
-      "rephrased_article": "**Y. S. Jagan Mohan Reddy**, former Chief Minister of **Andhra Pradesh**, paid tributes to B. R. Ambedkar on his 135th birth anniversary, emphasizing the importance of living up to Ambedkar's ideals rather than simply paying lip service to them.  He highlighted this during a program at the YSR Congress Party headquarters where several leaders and Dalit leaders also participated. **Adimulapu Suresh**, a former Minister, accused the current government of hindering Ambedkar's vision by obstructing Ambedkar statues in villages and reversing housing allocations for Dalits. \n**Jagan Mohan Reddy** is returning as Chief Minister after his party won the recent elections.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51112,
-      "title": "APTA seeks fair pay, allowances for SSC valuation Special Assistants - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/apta-seeks-fair-pay-allowances-for-ssc-valuation-special-assistants/article70860943.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-14 14:08:45.730927",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Special Assistants",
-      "rephrased_article": "**Andhra Pradesh Primary Teachers Association (APTA)** leaders have called for justice for **Special Assistants** involved in the ongoing Class X (SSC) valuation process.  The association's president, K. Prakash Rao and general secretary M.G. Mahdi, stated that the workload has doubled compared to previous years due to increased responsibilities assigned to **SGTs** and **PDs**, who are now tasked with entering marks question-wise into tabs online.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 51007,
-      "title": "Ensure hostels are fully equipped before schools reopen, Naidu directs officials - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-hostels-are-fully-equipped-before-schools-reopen-naidu-directs-officials/article70858457.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-13 23:56:59.408648",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "N. Chandrababu Naidu",
-      "rephrased_article": "**Chief Minister N. Chandrababu Naidu** directed officials to ensure all government welfare hostels are fully equipped and ready before schools reopen in June, emphasizing the importance of student comfort and satisfaction. **Naidu** also reviewed urban governance, prioritizing uninterrupted water supply, improved street lighting, efficient drainage systems, and regular garbage collection. He called for visible improvements in sanitation through initiatives like Swachh Survekshan, particularly citing Tadipatri as a model.  He also stressed the need to strengthen innovation ecosystems and promote early-stage nurturing of talent.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Odisha"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51000,
-      "title": "University faculty recruitment in A.P. to begin soon - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/university-faculty-recruitment-in-ap-to-begin-soon/article70857713.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mo3mas/article70858134.ece/alternates/LANDSCAPE_1200/VSP21_AU%201.JPG",
-      "scraped_at": "2026-04-13 23:54:04.069074",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Andhra Pradesh's government",
-      "rephrased_article": "**Andhra Pradesh's** government is launching a faculty recruitment drive to fill 1,500 vacant positions across state universities. The process is expected to begin in May after resolving legal hurdles and involve screening and interviews. **Vice-Chancellors** from various institutions have highlighted the urgency of filling these vacancies, emphasizing the need for qualified faculty with research experience and innovative ideas to improve academic standards and rankings.  The drive aims to strengthen research output and position Andhra Pradesh's public universities within national and global academic frameworks.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 50875,
-      "title": "IMD forecasts below-normal rainfall for most of A.P. during Southwest Monsoon - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/imd-forecasts-below-normal-rainfall-for-most-of-ap-during-southwest-monsoon/article70858156.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-13 16:49:08.017245",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "IMD",
-      "rephrased_article": "The **India Meteorological Department (IMD)** predicts below-normal rainfall for most of **Andhra Pradesh** during the Southwest Monsoon season from June to September.  While some districts may see normal or slightly above-normal rainfall, the majority of the state is expected to experience below-average precipitation. The IMD attributes this prediction to El Nino conditions and warming in the Central Pacific Ocean.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 50849,
-      "title": "Former YSRCP leader denies charges of sexual harassment against him - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-ysrcp-leader-denies-charges-of-sexual-harassment-against-him/article70857897.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mspvib/article70858332.ece/alternates/LANDSCAPE_1200/10215_13_4_2026_19_49_38_1_WHATSAPPIMAGE2026_04_13AT74041PM.JPEG",
-      "scraped_at": "2026-04-13 15:22:16.118073",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "T.G. Suresh",
-      "rephrased_article": "**T.G. Suresh**, former chairperson of the **Andhra Pradesh State Mudaliyar Development Corporation**, denied allegations of sexually harassing a Dalit woman, claiming they were politically motivated.  He stated that the accusations followed his objections to land encroachment by the **Theosophical Society of India**. **Suresh** alleged theft at his residence and claimed the harassment charge was intended to damage his reputation. He accepted his suspension from the **YSRCP** and urged a fair investigation into both cases.",
-      "party_mentioned": [
-        "Congress",
-        "YSRCP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime"
       ]
     }
   ]

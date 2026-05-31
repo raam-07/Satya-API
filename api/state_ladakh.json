@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 00:16:45.790094",
+  "generated_at": "2026-05-31 10:02:10.585711",
   "state": "Ladakh",
   "capital": "Leh",
   "ruling_party": "Central Govt",
@@ -8,22 +8,74 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 37,
-    "articles_last_30d": 13
+    "total_articles": 40,
+    "articles_last_30d": 15
   },
   "top_cities_30d": {
-    "Delhi": 4
+    "Delhi": 4,
+    "Srinagar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 13,
+    "foreign_policy": 15,
     "infrastructure": 5,
     "protest_opposition": 3,
     "economy": 3,
+    "crime_violence": 2,
     "education": 2,
-    "crime_violence": 1,
     "farmer_agriculture": 1
   },
   "recent_articles": [
+    {
+      "id": 63326,
+      "title": "In travels of Buddha’s sacred relics, India’s soft power outreach | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/in-travels-of-buddhas-sacred-relics-indias-soft-power-outreach-10716334/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Nehru_Meeting_the_Kushok_Bakula__1949-5col.jpg",
+      "scraped_at": "2026-05-31 01:41:19.387178",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**The Piprahwa relics**, a significant collection of Buddhist artifacts, arrived in Leh, Ladakh, drawing large crowds and causing traffic jams. This event is reminiscent of a 1950 exhibition that aimed to boost the morale of the local population after a conflict with Pakistan. **Sonam Wangchuk Shakspo**, a scholar and diplomat, notes that this display was part of a broader strategy by newly independent India to use Buddhist heritage for cultural diplomacy.  The relics have since been exhibited in various countries across Asia, including Sri Lanka, Mongolia, Singapore, South Korea, and Thailand.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62970,
+      "title": "How was FIR lodged 75 minutes before alleged recovery of weapons? J-K High Court seeks answers in terror case",
+      "url": "https://www.greaterkashmir.com/jammu-kashmir/how-was-fir-lodged-75-minutes-before-alleged-recovery-of-weapons-j-k-high-court-seeks-answers-in-terror-case-11889084",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/10/high-court-2026-05-10-11-50-32.jpg",
+      "scraped_at": "2026-05-30 21:40:42.518856",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Jammu & Kashmir and Ladakh High Court",
+      "rephrased_article": "The **Jammu & Kashmir and Ladakh High Court** has raised concerns about the timeline of a 2019 terror case, noting that the FIR was filed 75 minutes before the alleged recovery of arms. The court observed that the original FIR was missing from the trial record and directed the government to inform it whether the investigating officer remains in service.  The court also requested the petitioner's counsel to provide a chronology of prosecution witnesses. **Sabeel Ahmad Baba**, along with two co-accused, remain under arrest as they seek bail in this case.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 62857,
       "title": "LG directs Ladakh Admin to adopt austerity measures as per PM's call",
@@ -1191,6 +1243,30 @@
       "topic_tags": [
         "infrastructure",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 45806,
+      "title": "7 killed as avalanche hits Srinagar-Leh National Highway - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/avalanche-hits-srinagar-leh-national-highway/article70793666.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/iwk8we/article70793807.ece/alternates/LANDSCAPE_1200/20260327332L.jpg",
+      "scraped_at": "2026-03-27 17:09:01.031124",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "An avalanche struck the Zojila Pass in Kashmir, India, on Friday, March 27, 2026, burying several vehicles and leaving at least seven people dead. **Ladakh Lieutenant-Governor Vinai Kumar Saxena** directed relief efforts and deployed disaster relief forces while **Union Minister Jitendra Singh** expressed condolences to the families of those lost. The highway connecting Kashmir and Ladakh was closed for traffic.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "crime_violence"
       ]
     }
   ]

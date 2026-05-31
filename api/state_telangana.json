@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 00:16:45.754125",
+  "generated_at": "2026-05-31 10:02:10.547500",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,34 +8,315 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 334,
-    "articles_last_30d": 119
+    "total_articles": 347,
+    "articles_last_30d": 126
   },
   "top_cities_30d": {
-    "Hyderabad": 42,
-    "Delhi": 9,
-    "Mumbai": 6,
+    "Hyderabad": 44,
+    "Delhi": 12,
+    "Mumbai": 8,
     "Bengaluru": 3,
     "Kolkata": 3,
+    "Chennai": 2,
     "Varanasi": 1,
     "Allahabad": 1,
     "Madurai": 1,
-    "Bangalore": 1,
-    "Pune": 1
+    "Bangalore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 96,
-    "infrastructure": 38,
-    "education": 31,
+    "foreign_policy": 101,
+    "infrastructure": 39,
+    "education": 35,
     "economy": 28,
-    "farmer_agriculture": 20,
-    "protest_opposition": 15,
-    "health": 10,
+    "farmer_agriculture": 21,
+    "protest_opposition": 16,
+    "health": 11,
+    "rape_sexual_crime": 10,
     "crime_violence": 9,
-    "rape_sexual_crime": 8,
-    "corruption_scam": 5
+    "corruption_scam": 7
   },
   "recent_articles": [
+    {
+      "id": 63255,
+      "title": "Government schools in Telangana: Can public education reclaim its lost ground? - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/opinion/government-schools-in-telangana-can-public-education-reclaim-its-lost-ground/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/School-children.jpg",
+      "scraped_at": "2026-05-31 01:36:31.526759",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "**Telangana** boasts one of the largest educational infrastructures in India, with nearly 41,600 schools serving over 66.38 lakh students. However, enrollment trends indicate a steady erosion of public confidence in government schools, as private unaided schools attract more than 43 lakh students. This shift is attributed to factors like rapid urbanization, rising parental aspirations, and perceptions of superior quality in private institutions.  The state government has initiated several reform measures, including teacher recruitment drives and infrastructure upgrades, but the abrupt resignation of **Akunuri Murali**, Chairperson of the Telangana Education Commission, adds uncertainty about the pace of implementation. Reclaiming lost ground will require a concerted effort to address infrastructure deficiencies, improve learning outcomes, and foster community participation.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "education"
+      ]
+    },
+    {
+      "id": 63239,
+      "title": "Over 20% of Indian women suffer marital violence despite increased online engagement: Survey",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM015WWtyZzdxd1N5d0htRTJCMTFRUUxtcElFLTZ5YnZxZEdLaUxFWjFRS0JGcVJCVl9NWGdmNHFUSGdGUTcydTVuVEpJSC12VmdUc2cxV0I4RVQ4amhPcEZRcUd6bDlNeWNFdkpBd1hCVkpKOU02akwxSzNZTnJHeHpZTVRORzZJZ0lTWXpLUXBaZ19DOUw2UlFMbXRfM1ZUNGs5ZXJWZlgzUmtqbEotclBnajFLeVFNMEotUTNqRHhPdjl4ZUk3aEJYX1dwZw?oc=5",
+      "source": "Deccan Herald",
+      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fbwan09f0%2Fistockphoto-626589558-640x640.avif?rect=0%2C19%2C768%2C403&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "scraped_at": "2026-05-30 23:05:36.558998",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The sixth edition of the **National Family Health Survey** revealed that despite social progress, 20% of Indian women marry before age 18 and nearly a third lack access to family planning.  Sexual violence against married women by their spouses remains prevalent at 22.3%, though it has decreased from NFHS-5 (29.2%). **Karnataka** saw the most significant drop in sexual violence, while **Kerala** experienced a rise in the prevalence of this abuse. The survey also highlighted increased internet and cell phone usage among women nationwide, as well as higher bank account ownership and employment rates.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 63172,
+      "title": "If namaz on roads is wrong, all religious street celebrations should also be opposed: AIMIM chief Owaisi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUUFBRGhhY2RrZ3pkaUlqZ0FyZGtKc045ZWk0MVpBTzhnTlhJa3kxUnRHV1Y1WFlYRUhmYmVYbk9LZXcydFVpN0hiRU1ILTJBejlqQm1VNVg3S3BMUHJOb3Jkd2VTdEc0TVA0Y3I1N21JTThZYkNzUFdKUzdiUFI3S3d5aVcwX2J5THVXMHVrbHpQOS1PcnlRcWNONmpfZ2UtUmtWTW9fY0QwblVvTUVRYW1qRTJSd1FQUk1YbndsSm90WHY0aWpFU2ZxYlk5NElmTUs0NXU3LTJ4RXlrNVE?oc=5",
+      "source": "Deccan Herald",
+      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fy56bz904%2Ffile7s41y13wj9cjill331f.jpg?rect=0%2C0%2C756%2C397&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "scraped_at": "2026-05-30 21:59:55.305900",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Asaduddin Owaisi",
+      "rephrased_article": "**Asaduddin Owaisi**, president of the **AIMIM**, criticized the recent alleged attacks against Muslims across India, arguing that restrictions on religious practices like offering namaz on roads should apply equally to all religions. He claimed that festivals of every religion are also unacceptable in public spaces and questioned why certain businesses are allowed to operate during religious holidays while others are not. Owaisi asserted that India belongs to all its citizens and urged for a more balanced approach towards religious freedom and the rights of Muslims.",
+      "party_mentioned": [
+        "AIMIM",
+        "Owaisi"
+      ],
+      "ministers_mentioned": [
+        "Asaduddin Owaisi",
+        "Owaisi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 63158,
+      "title": "NIMS launches advanced cancer genomics centre, first in Telangana’s government sector - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/nims-launches-advanced-cancer-genomics-centre-first-in-telanganas-government-sector/article71041805.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/55hp9p/article71041817.ece/alternates/LANDSCAPE_1200/IMG_NIMS-Medical-Ge_GK9E_2_1_T6E8CRJS.jpg",
+      "scraped_at": "2026-05-30 21:59:34.101869",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "NIMS",
+      "rephrased_article": "**The Nizam’s Institute of Medical Sciences (NIMS)** has established a Cancer Genomics Centre, becoming the first government sector hospital in Telangana to offer Next Generation Sequencing (NGS)-based cancer diagnostic services. The facility, part of the **Department of Health Research (DHR)-Indian Council of Medical Research (ICMR) Advanced Molecular Oncology Diagnostic Services (DIAMOnDS)** project, will enable more accurate detection of cancer-related genetic changes.  Since 2024, over 1,443 patients have benefited from free molecular oncology diagnostic services at the centre, including a significant number of lung and breast cancer patients.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 63133,
+      "title": "Weekly Quiz",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-607-29-05-2026",
+      "source": "India Today",
+      "image_url": "No image available",
+      "scraped_at": "2026-05-30 21:58:30.333568",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "US Secretary of State Marco Rubio",
+      "rephrased_article": "**US Secretary of State Marco Rubio** visited India to attend a meeting of the **G20**.  During his visit, he met with Indian officials and discussed key issues on the global agenda.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Punjab",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Chennai",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63113,
+      "title": "CBSE OSM Coempt TCS row | CBSE on screen marking row: Rahul Gandhi says ‘rules’ bent to favour Coempt, cites TCS loss in auction - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMENGbkhaSm1tRzE5ZXdlQkV6WU5UMVFtdl8zTzZ2QmJJbE96VUZxc1dsazFNX3hfalFZVjB3NE12c2stUjlhRTduMTlvLUZVY1lMRGNscGVucFNnU1pIeXNOY1RfbUZlN3NTNTBkR19SdEVvN3RzdlB5SFVaS1oyNjNWZUplU2E0YzZ6T3kzYmFxVDdGTVB0aHl6VDlaY2dEZnB0cHVMY0o1X1UwRkl6MHg5NlctYlJiamFqSW9ERGZ6Q2s0TzZUTnVONEdBMlJLc1ZYd3dQX3llSnpvWDAxU9IB5gFBVV95cUxOVHlIMjA4OUstVG14VEN1c29BdXFuWFc4ME1PYnFwLUk2d2FTc1l2enBtZFJtX2hWOFFTekg0VHdWbk82T3hhbzFVc3lvblJQUkN3aXZCR2lKOUdvcGZiZVBqbFlDZTQxbmNCLUt1VkZzTW1wV0EtZzRNZUlMS0Vpd3N5emtyeVI1SkozM2YzOHhpTmlGdGloR2h3NXA3YVZDc0VmdXlrWEVDc01hSFF2MGdheF9sNjBONzZ5cHlhTXYzT21kanQ3U01JZGxhY2s2YXVmRlhXeHA3VDBnZDE3b3pva0t0UQ?oc=5",
+      "source": "The Telegraph",
+      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1778054511_rahul-gandhi.gif",
+      "scraped_at": "2026-05-30 21:57:37.274581",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Modi government",
+      "rephrased_article": "**Rahul Gandhi** criticized the **Modi government** over the CBSE exam evaluation controversy, alleging that the board lowered technical requirements to favor **COEMPT Eduteck Private Limited**, a company with a poor track record. He demanded an independent judicial probe into the contract awarding process and accused the government of prioritizing its survival over student well-being.  **Piyush Goyal**, the Union commerce minister, countered Gandhi's claims, accusing him of \"propaganda\" while **Dharmendra Pradhan**, the Union education minister, defended the board's actions. Other prominent figures like **Priyanka Chaturvedi** and **Mohammed Zubair** have also raised concerns about potential manipulation and a coordinated campaign to promote the OSM system.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Karnataka",
+        "Manipur",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "education"
+      ]
+    },
+    {
+      "id": 63083,
+      "title": "CBSE To Make Answer Scripts Available For Students Through DigiLocker | OdishaBytes",
+      "url": "https://odishabytes.com/cbse-to-make-answer-scripts-available-for-students-through-digilocker/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2025/02/cbse.jpg",
+      "scraped_at": "2026-05-30 21:56:33.789100",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "CBSE",
+      "rephrased_article": "The **Union education ministry** is planning a full audit of the **Central Board of Secondary Education's (CBSE)** on-screen marking system (OSM), from tendering to implementation, following concerns about glitches and evaluation issues.  This comes after students raised questions about answer sheet access, discrepancies in scanned copies, and technical glitches during re-evaluation. The company chosen for the OSM work, **Coempt Edu Teck**, is based in Telangana and has faced allegations regarding its previous work in the state.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 62923,
+      "title": "Implementation of 'guarantees', decline of BRS favour Congress in Telangana, BJP aiming for better show - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/implementation-of-guarantees-decline-of-brs-favour-congress-in-telangana-bjp-aiming-for-better-show/articleshow/108548569.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-108548778,width-1200,height-630,imgsize-10742,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-30 21:34:49.049292",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "The Telangana Lok Sabha elections are expected to be a tight race between the **Congress** and the **BJP**, with both parties aiming for victory. The **Congress**, riding high on its recent Assembly election win, is banking on the implementation of its campaign promises and the popularity of CM Revanth Reddy to secure votes. The **BJP**, which saw its vote share double in the 2023 Assembly elections, aims to capitalize on this momentum and secure a significant portion of seats.  The **BRS**, facing a morale slump after its defeat, is expected to struggle against these two major contenders.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "BSP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 62921,
+      "title": "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/lok-sabha-election-2024-maharashtra-get-interesting-after-splits-in-shiv-sena-ncp/articleshow/108559788.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-108559899,width-1200,height-630,imgsize-124818,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-30 21:34:41.703515",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The upcoming Lok Sabha elections in Maharashtra will be influenced by splits within the Shiv Sena and NCP, along with traditional issues like unemployment and farmer suicides. The BJP-Shiv Sena alliance won 41 of the 48 seats in 2019, but the split has shifted the political landscape.  **Eknath Shinde** leads the ruling alliance in Maharashtra, while Ajit Pawar joined the alliance after splitting from the NCP. **Manoj Jarange**, a Maratha quota activist, is gaining traction in Marathwada. The region will be crucial to watch as it has traditionally been a stronghold for the BJP-Shiv Sena.  The elections are scheduled across five phases between April 19 and May 20 with counting on June 4. Over 9.2 crore citizens are eligible to vote, an increase of 34 lakh from 2019.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena",
+        "AIMIM",
+        "Owaisi"
+      ],
+      "ministers_mentioned": [
+        "Eknath Shinde",
+        "Asaduddin Owaisi",
+        "Owaisi",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "economy",
+        "farmer_agriculture",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 62873,
       "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
@@ -4883,218 +5164,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 51615,
-      "title": "Delimitation and Women’s reservation: Key parties’ stance - The Hindu",
-      "url": "https://www.thehindu.com/news/national/women-reservation-bill-2026-delimitation-bjp-nda-congress-dmk-cpim-brs-sp-stance-political-updates/article70864344.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/q6uenp/article70861941.ece/alternates/LANDSCAPE_1200/PTI09_20_2023_000220A.jpg",
-      "scraped_at": "2026-04-16 08:20:23.645830",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India's** government is considering an amendment to the Women’s Reservation Act, proposing a 33% reservation for women in parliament.  The plan to link the amendment with delimitation has sparked political debate, with **Bharatiya Janata Party (BJP)** and **Indian National Congress (INC)** offering contrasting stances. The BJP advocates increasing Lok Sabha seats to ensure 273 reserved seats without reducing men's representation. The INC opposes the delimitation link, demanding a fresh caste census for reservation calculations and criticizing the move as a political tactic. Other parties like the DMK, CPI(M), BRS, and SP have also voiced their opinions on the proposed amendments.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "INC",
-        "Samajwadi Party",
-        "SP",
-        "DMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Telangana",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51608,
-      "title": "Hyderabad 2026 summer temperature tracker - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-2026-summer-temperature-tracker/article70864724.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/yhxib1/article70868335.ece/alternates/LANDSCAPE_1200/DSC8350.jpg",
-      "scraped_at": "2026-04-16 08:17:26.825990",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "Hyderabad",
-      "rephrased_article": "**Hyderabad** and its surrounding districts in **Telangana** have experienced intense summer heat for several days, with urban areas recording maximum temperatures exceeding 40°C.  The **Telangana Development Planning Society** has reported daily temperature data for the past few days, showing that all urban districts are experiencing high temperatures. People are adjusting their schedules to avoid the afternoon sun and those without alternative options are facing the heat's effects.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 51594,
-      "title": "In 2025 verdict, Supreme Court had warned of delimitation ‘destabilising uniform electoral framework’ - The Hindu",
-      "url": "https://www.thehindu.com/news/national/in-2025-verdict-supreme-court-had-warned-of-delimitation-destabilising-uniform-electoral-framework/article70867652.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xhkhq1/article70867799.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-      "scraped_at": "2026-04-16 06:08:20.406158",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Supreme Court",
-      "rephrased_article": "The **Supreme Court** ruled in 2025 that delimitation exercises must not disrupt the established electoral framework. This decision came after a petition from K. Purushottam Reddy, who argued for parity in constituency adjustments between Andhra Pradesh and Telangana and Jammu and Kashmir. The court's ruling emphasized maintaining clear boundaries between constitutional mandates and political discretion.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Telangana",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 51572,
-      "title": "Emergency heatstroke protocols activated across Telangana hospitals amid rising temperatures - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/emergency-heatstroke-protocols-activated-across-telangana-hospitals-amid-rising-temperatures/article70866041.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/yrq32t/article70866048.ece/alternates/LANDSCAPE_1200/IMG-20260415-WA0062.jpg",
-      "scraped_at": "2026-04-16 00:15:24.276674",
-      "category": "health",
-      "sentiment": "positive",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "**C. Damodar Raja Narasimha**, **Health Minister of Telangana**, directed officials to address the rising heat and its potential health risks. He instructed the establishment of emergency response teams in all government hospitals, ensuring readily available treatment for heatstroke cases and adequate drinking water facilities.  He also emphasized public awareness campaigns on heatstroke prevention, targeting vulnerable groups like MNREGS workers and gig workers. **Narasimha** further ordered inspections of electrical systems to prevent fire accidents.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51569,
-      "title": "Vigilance key to preventing fire accidents, says ADGP Mahesh Bhagwat - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/vigilance-key-to-preventing-fire-accidents-says-adgp-mahesh-bhagwat/article70866154.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i9vo6s/article70866150.ece/alternates/LANDSCAPE_1200/Mahesh%20bhagwat%20fire%20.jpeg",
-      "scraped_at": "2026-04-16 00:14:31.119326",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Mahesh Bhagwat",
-      "rephrased_article": "**Additional Director General of Police (Law and Order) Mahesh M. Bhagwat** emphasized the importance of vigilance in preventing fire accidents during a Fire Week awareness program at the **Telangana Police headquarters**. He advised citizens to immediately contact 101 for fire emergencies, evacuate buildings safely without using lifts, and follow safety measures like crawling through smoke and using the \"stop, drop, and roll\" technique.  **IGP (P and L) Gajrao Bhupal**, **RFO Harichandra Reddy**, and other officials attended the event organized by the **Fire department**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health"
-      ]
-    },
-    {
-      "id": 51562,
-      "title": "Christian council flays Centre’s move on FCRA - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/christian-council-flays-centres-move-on-fcra/article70865294.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-16 00:12:02.393008",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Christian leaders** and representatives from various communities have criticized the **BJP-led Centre’s** proposed Foreign Contribution (Regulation) Amendment Bill, 2026.  They argue that the bill is constitutionally flawed, citing concerns about potential takeover of Christian and minority institutions without judicial oversight. The memorandum was addressed to Telangana Chief Minister A. Revanth Reddy and signed by clergy from various Christian denominations under the aegis of the All Indian Christian Council.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 51546,
-      "title": "Telangana SEEEPC survey, IEWG analysis shows SCs/STs three times more backward than others - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-seeepc-survey-iewg-analysis-shows-scssts-three-times-more-backward-than-others/article70866430.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6y7jra/article70866492.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-15%20at%2011.07.06%20PM.jpeg",
-      "scraped_at": "2026-04-15 23:18:23.365790",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "**Transport Minister Ponnam Prabhakar**, **Animal Husbandry and Sports Minister Vakati Srihari**, and **TPCC chief Mahesh Kumar Goud** announced the release of a caste backwardness index (CBI) report from the Social, Educational, Employment, Economic and Political Caste Survey (SEEEPC). The report revealed that Scheduled Castes (SCs), Scheduled Tribes (STs), and Backward Classes (BCs) are significantly more backward than General Castes.  The report also highlighted disparities in education, employment, and living conditions across different caste groups. Despite the existence of a \"casteless\" category with lower scores on the CBI, the report emphasized that the CBI is not intended to recommend caste categorisation but to provide empirical evidence of backwardness.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51490,
-      "title": "Explain interest payment, house site allotment to Kaleshwaram project displaced persons: HC to govt - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/explain-interest-payment-house-site-allotment-to-kaleshwaram-project-displaced-persons-hc-to-govt/article70866097.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-15 20:11:34.017150",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "The **Telangana High Court** declined to close contempt of court cases against **Sandeep Kumar Sultania**, the Principal Secretary of Finance, and others over compensation for displaced persons affected by the Kaleshwaram project. The government counsel informed the court that compensation had been paid to 55 individuals, including those living alone, the previous day.  The judge expressed dissatisfaction with the Finance Secretary's absence and directed authorities to file detailed affidavits regarding interest payments and house site allotments. The case has been adjourned to Friday.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 51446,
-      "title": "TGMREIS to establish degree colleges soon - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/tgmreis-to-establish-degree-colleges-soon/article70864658.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-15 17:16:30.505172",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "TGMREIS",
-      "rephrased_article": "**The Telangana Minorities Residential Educational Institutions Society (TGMREIS)** announced plans to open degree colleges in district headquarters, aiming to provide students with qualifications for success. **Mohammed Faheem Qureshi**, president of the society, highlighted that TGMREIS first-year students achieved an 81% pass percentage in Intermediate examinations and second-year students recorded a 90% pass rate.  **B. Shafiullah**, secretary of the society, praised the achievements of several students who secured high marks. Officials acknowledged some vacant seats but expressed confidence in addressing the issue through focused campaigns to promote awareness about TGMREIS schools and junior colleges.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
       ]
     }
   ]

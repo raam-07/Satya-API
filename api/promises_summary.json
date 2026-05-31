@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-31 00:16:46.076132",
+  "generated_at": "2026-05-31 10:02:10.894569",
   "stats": {
-    "total_promises": 20,
+    "total_promises": 29,
     "kept": 2,
     "broken": 11,
-    "ongoing": 6
+    "ongoing": 15
   },
   "by_status": {
     "broken": [
@@ -256,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed, and construction is less than 30% complete."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p016",
@@ -342,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination."
       },
       {
         "id": "p013",
@@ -367,7 +367,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
+        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
       },
       {
         "id": "p018",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
       },
       {
         "id": "p020",
@@ -442,6 +442,143 @@
         ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Long-term vision, target deadline is 2047."
+      },
+      {
+        "id": "promise_1780198151_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The state government will create 5,000 jobs through the Ramakrishnapur Opencast (RKP OC) Phase-2 project.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780198307_1",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay ordered the closure of over 150 liquor outlets in Tamil Nadu.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780199657_2",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay promised an increase to ₹2,500 per month under the new 'Madhippumigu Magalir Thittam' program for women over 21 years old with family incomes below ₹2.5 lakh.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780200560_3",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu will lay the foundation stone for a ₹1 lakh crore fifth-generation fighter aircraft manufacturing project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780202480_4",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay promised to shut down 717 Tasmac outlets within 500 meters of places of worship, educational institutions, and bus stands across the state.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780204235_5",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy will distribute educational kits containing uniforms, textbooks, notebooks, school bags, sportswear, and other study materials to students.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780205502_6",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Telangana government will allocate 15% of its future budgets to education.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780207073_7",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "The BJP government will promote self-sufficiency in fish production.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/west-bengal-assembly/mamata-created-false-narrative-on-bjp-restricting-consumption-of-fish-dilip-ghosh/article70962430.ece",
+            "title": "Mamata created false narrative on BJP restricting consumption of fish: Dilip Ghosh - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-11 00:04:45.420827",
+            "relevance_score": 50,
+            "gemma_validated": true,
+            "rephrased": "**Dilip Ghosh**, newly sworn-in West Bengal minister, attended a fish festival on Sunday (May 10, 2026) and refuted **Mamata Banerjee's** claims that the BJP would restrict consumption of fish and mea",
+            "content": "Newly sworn-in West Bengal minister Dilip Ghosh on Sunday (May 10, 2026) took part in a ‘Machhli Utsav’ (fish festival) here on Sunday (May 10, 2026), where he accused former chief minister Mamata Banerjee of weaving a false narrative about the BJP restricting consumption of fish and meat if it won the Assembly polls. He attended the event with BJP’s MLA-elect Tapas Roy in Maniktala area of the metropolis in the afternoon. Mr. Ghosh alleged that Ms. Banerjee “spread falsehood to mislead people and tried to create panic” in her campaign speeches in the run-up to the polls in West Bengal. “Didi’s (Mamata Banerjee) entire poll campaign was built on falsehood and misleading propaganda. People of the state did not buy her logic and snubbed her with a resounding verdict,” Mr. Ghosh said, responding to queries by reporters. Echoing him, Mr. Roy, the BJP’s MLA-elect from Maniktala, alleged that the previous TMC regime had failed to develop the pisciculture sector, and Bengal had to rely on other states to fulfil the demand for fish, unlike in the past, when it was self-sufficient in fish production. The BJP Government will make the state self-sufficient in fish production, Mr. Roy asserted. On the claims by Ms. Banerjee and other leaders of the TMC about the BJP imposing a diktat on the dietary habits of people if it came to power, he said, “Have you witnessed any such thing since the poll results were out and afterwards, when the new government took over? Look at the fish markets everywhere.” Mr. Ghosh also said fish and rice are integrated with the culinary habits of Bengal, and assured people that the BJP Government would continue to promote the state’s food culture and traditions. Organisers of the festival claimed that around 2,000 people were invited to the feast on Sunday (May 10, 2026). Published - May 10, 2026 07:08 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The BJP government is in power and actively implementing policies."
+      },
+      {
+        "id": "promise_1780208617_8",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "The new government will continue the tradition of singing Tamil Thai Vazhthu and the National Anthem at the beginning and end of official functions.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "kept": [
@@ -493,7 +630,7 @@
           }
         ],
         "gemma_suggestion": "kept",
-        "gemma_reasoning": "Free electricity up to 200 units is implemented and sustained in Delhi."
+        "gemma_reasoning": "Free electricity up to 200 units has been implemented and sustained in Delhi."
       }
     ],
     "void": [
@@ -520,7 +657,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       }
     ]
   },
@@ -783,7 +920,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination."
       },
       {
         "id": "p011",
@@ -833,7 +970,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed, and construction is less than 30% complete."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p020",
@@ -884,7 +1021,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
+        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
       }
     ],
     "Arvind Kejriwal": [
@@ -936,7 +1073,7 @@
           }
         ],
         "gemma_suggestion": "kept",
-        "gemma_reasoning": "Free electricity up to 200 units is implemented and sustained in Delhi."
+        "gemma_reasoning": "Free electricity up to 200 units has been implemented and sustained in Delhi."
       },
       {
         "id": "p016",
@@ -988,7 +1125,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       }
     ],
     "Yogi Adityanath": [
@@ -1042,7 +1179,150 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+      },
+      {
+        "id": "promise_1780207073_7",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "The BJP government will promote self-sufficiency in fish production.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/west-bengal-assembly/mamata-created-false-narrative-on-bjp-restricting-consumption-of-fish-dilip-ghosh/article70962430.ece",
+            "title": "Mamata created false narrative on BJP restricting consumption of fish: Dilip Ghosh - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-11 00:04:45.420827",
+            "relevance_score": 50,
+            "gemma_validated": true,
+            "rephrased": "**Dilip Ghosh**, newly sworn-in West Bengal minister, attended a fish festival on Sunday (May 10, 2026) and refuted **Mamata Banerjee's** claims that the BJP would restrict consumption of fish and mea",
+            "content": "Newly sworn-in West Bengal minister Dilip Ghosh on Sunday (May 10, 2026) took part in a ‘Machhli Utsav’ (fish festival) here on Sunday (May 10, 2026), where he accused former chief minister Mamata Banerjee of weaving a false narrative about the BJP restricting consumption of fish and meat if it won the Assembly polls. He attended the event with BJP’s MLA-elect Tapas Roy in Maniktala area of the metropolis in the afternoon. Mr. Ghosh alleged that Ms. Banerjee “spread falsehood to mislead people and tried to create panic” in her campaign speeches in the run-up to the polls in West Bengal. “Didi’s (Mamata Banerjee) entire poll campaign was built on falsehood and misleading propaganda. People of the state did not buy her logic and snubbed her with a resounding verdict,” Mr. Ghosh said, responding to queries by reporters. Echoing him, Mr. Roy, the BJP’s MLA-elect from Maniktala, alleged that the previous TMC regime had failed to develop the pisciculture sector, and Bengal had to rely on other states to fulfil the demand for fish, unlike in the past, when it was self-sufficient in fish production. The BJP Government will make the state self-sufficient in fish production, Mr. Roy asserted. On the claims by Ms. Banerjee and other leaders of the TMC about the BJP imposing a diktat on the dietary habits of people if it came to power, he said, “Have you witnessed any such thing since the poll results were out and afterwards, when the new government took over? Look at the fish markets everywhere.” Mr. Ghosh also said fish and rice are integrated with the culinary habits of Bengal, and assured people that the BJP Government would continue to promote the state’s food culture and traditions. Organisers of the festival claimed that around 2,000 people were invited to the feast on Sunday (May 10, 2026). Published - May 10, 2026 07:08 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The BJP government is in power and actively implementing policies."
+      }
+    ],
+    "Revanth Reddy": [
+      {
+        "id": "promise_1780198151_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The state government will create 5,000 jobs through the Ramakrishnapur Opencast (RKP OC) Phase-2 project.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780204235_5",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy will distribute educational kits containing uniforms, textbooks, notebooks, school bags, sportswear, and other study materials to students.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780205502_6",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Telangana government will allocate 15% of its future budgets to education.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "C. Joseph Vijay": [
+      {
+        "id": "promise_1780198307_1",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay ordered the closure of over 150 liquor outlets in Tamil Nadu.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780199657_2",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay promised an increase to ₹2,500 per month under the new 'Madhippumigu Magalir Thittam' program for women over 21 years old with family incomes below ₹2.5 lakh.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780202480_4",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay promised to shut down 717 Tasmac outlets within 500 meters of places of worship, educational institutions, and bus stands across the state.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780208617_8",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "The new government will continue the tradition of singing Tamil Thai Vazhthu and the National Anthem at the beginning and end of official functions.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Chandrababu Naidu": [
+      {
+        "id": "promise_1780200560_3",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu will lay the foundation stone for a ₹1 lakh crore fifth-generation fighter aircraft manufacturing project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ]
   },
@@ -1305,7 +1585,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination."
       },
       {
         "id": "p011",
@@ -1355,7 +1635,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed, and construction is less than 30% complete."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p013",
@@ -1380,7 +1660,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
+        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
       },
       {
         "id": "p018",
@@ -1481,7 +1761,7 @@
           }
         ],
         "gemma_suggestion": "kept",
-        "gemma_reasoning": "Free electricity up to 200 units is implemented and sustained in Delhi."
+        "gemma_reasoning": "Free electricity up to 200 units has been implemented and sustained in Delhi."
       },
       {
         "id": "p016",
@@ -1533,7 +1813,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       }
     ],
     "TMC": [
@@ -1560,7 +1840,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
       }
     ]
   }

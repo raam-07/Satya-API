@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 00:16:45.791838",
+  "generated_at": "2026-05-31 10:02:10.587881",
   "state": "Puducherry",
   "capital": "Puducherry",
   "ruling_party": "INC",
@@ -8,31 +8,107 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 101,
-    "articles_last_30d": 39
+    "total_articles": 105,
+    "articles_last_30d": 40
   },
   "top_cities_30d": {
-    "Chennai": 11,
-    "Delhi": 7,
-    "Madurai": 4,
+    "Chennai": 13,
+    "Delhi": 8,
+    "Madurai": 5,
+    "Coimbatore": 4,
     "Kolkata": 4,
     "Bengaluru": 3,
-    "Coimbatore": 3,
     "Mumbai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 37,
+    "foreign_policy": 38,
     "education": 12,
     "protest_opposition": 12,
     "infrastructure": 11,
     "economy": 8,
+    "crime_violence": 6,
     "farmer_agriculture": 6,
-    "crime_violence": 5,
     "health": 4,
-    "corruption_scam": 2,
-    "rape_sexual_crime": 1
+    "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 63059,
+      "title": "Cyclone Ditwah leaves 366 dead in Sri Lanka; rain alert in Tamil Nadu, Puducherry",
+      "url": "https://www.onmanorama.com/news/india/2025/12/01/cyclone-ditwah-sri-lanka-casualties-tamil-nadu-rain.html",
+      "source": "Onmanorama",
+      "image_url": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2025/12/1/cyclone-ditwah.jpg",
+      "scraped_at": "2026-05-30 21:54:10.510607",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Cyclone Ditwah",
+      "rephrased_article": "**Cyclone Ditwah**, which has weakened into a deep depression, continues to hover near the Tamil Nadu and Puducherry coasts. **Tamil Nadu Chief Minister M K Stalin** held a review meeting with district collectors to assess the situation, while the Greater Chennai Corporation deployed 103 boats for rescue operations. The IMD predicts further rainfall in the region, leading to disruptions in normal life and damage to crops. Sri Lanka announced a special public-private fund to support recovery efforts after the devastating floods and landslides caused by **Cyclone Ditwah**, resulting in a death toll of 366 with 367 people still missing. International assistance is pouring in from countries like the UK, China, Australia, and Nepal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62919,
+      "title": "Rare 'intensive' revision in Bihar four months before polls - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/rare-intensive-revision-in-bihar-four-months-before-polls/articleshow/122167501.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-122167607,width-1200,height-630,imgsize-40380,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-30 21:34:34.148929",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "The **Election Commission of India (ECI)** has ordered a special summary revision of electoral rolls in Bihar, marking a departure from its usual practice.  This revision differs from previous intensive revisions by utilizing the 2002-03 electoral roll as a base and incorporating a new pre-printed enumeration form for house-to-house verification. The ECI's decision to conduct this revision ahead of the assembly elections in October 2025 is unusual, as it has rarely ordered full state-wide intensive revisions so far out from the scheduled polls.  This move follows a pattern of the ECI conducting 'intensive' revision in specific areas of states based on various factors like population changes or electoral irregularities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 62873,
       "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
@@ -3212,6 +3288,71 @@
         "Madurai"
       ],
       "topic_tags": []
+    },
+    {
+      "id": 45674,
+      "title": "Fuel excise cuts pre-election salve, says Congress, flags steady price rise despite fall in crude - The Hindu",
+      "url": "https://www.thehindu.com/news/national/excise-cuts-wont-change-fuel-price-relief-only-in-narrative-congress-claims/article70791490.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yzdjmu/article70791514.ece/alternates/LANDSCAPE_1200/_NGP5699.jpg",
+      "scraped_at": "2026-03-27 09:35:58.926777",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Congress** members criticized the government's excise duty cuts on petrol and diesel, claiming they do not translate to actual price reductions for consumers.  The **Congress** argues that these cuts are a \"narrative\" rather than real relief, pointing out that global crude oil prices have risen significantly since the conflict in West Asia. The **Finance Ministry**, however, announced the excise duty cuts on March 26th to provide some relief to oil companies and reduce the burden of losses they've been absorbing since the outbreak of the conflict.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 45596,
+      "title": "Assembly Elections LIVE: Former BJP T.N. president Annamalai unhappy with constituencies allocated by AIADMK - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-tamil-nadu-west-bengal-puducherry-2026-live/article70790956.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/skzgn8/article70790960.ece/alternates/LANDSCAPE_1200/9712_26_3_2026_13_45_32_3__DSC5612.JPG",
+      "scraped_at": "2026-03-27 02:46:16.425902",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K. Annamalai**, former **BJP** Tamil Nadu president, expressed his dissatisfaction with the assigned constituencies for the April 23 Assembly election by **AIADMK**. He requested the party leadership not to consider him as a candidate and stated he would continue to support other BJP and NDA candidates.  Tensions escalated in Kolkata ahead of the West Bengal Assembly elections, with a Trinamool Congress worker being shot dead and a BJP rally allegedly attacked. The Election Commission reported the seizure of over ₹408.82 crore worth of illicit inducements across four states and one union territory preparing for the upcoming Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
     }
   ]
 }

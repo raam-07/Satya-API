@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 00:16:45.798149",
+  "generated_at": "2026-05-31 10:02:10.595060",
   "state": "Lakshadweep",
   "capital": "Kavaratti",
   "ruling_party": "Central Govt",
@@ -8,22 +8,120 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 20,
-    "articles_last_30d": 10
+    "total_articles": 22,
+    "articles_last_30d": 12
   },
   "top_cities_30d": {
-    "Delhi": 5,
-    "Mumbai": 2
+    "Delhi": 7,
+    "Mumbai": 2,
+    "Ghaziabad": 1,
+    "Ludhiana": 1,
+    "Meerut": 1,
+    "Chennai": 1,
+    "Coimbatore": 1,
+    "Madurai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 8,
+    "foreign_policy": 10,
     "infrastructure": 4,
     "education": 3,
     "protest_opposition": 2,
-    "health": 1,
-    "rape_sexual_crime": 1
+    "health": 2,
+    "rape_sexual_crime": 1,
+    "economy": 1,
+    "crime_violence": 1
   },
   "recent_articles": [
+    {
+      "id": 63146,
+      "title": "Extremely Severe Alert on phones: Loud alarm warns of bad weather in Delhi NCR — ‘such alert for basic thunderstorm’ | Today News",
+      "url": "https://www.livemint.com/news/india/extremely-severe-alert-on-phones-loud-alarm-warns-of-bad-weather-in-delhi-ncr-such-alert-for-basic-thunderstorm-11780143829690.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/PTI05-29-2026-000193B-0_1780144516453_1780144535146_52ae62db-2f53-40e3-ba7c-427ae73a19ba.jpg",
+      "scraped_at": "2026-05-30 21:59:13.419835",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "**India Meteorological Department (IMD)** issued an \"Extremely Severe Alert\" on Saturday evening warning of severe thunderstorms and rainfall across Delhi-NCR and other parts of India. The alert, which was sent via a cell broadcast system, was intended to warn citizens of imminent, life-threatening disasters such as cyclones and heavy rainfall. While some praised the initiative, others questioned the severity of the alert for what they considered moderate weather conditions.  The IMD also issued district-wise nowcast warnings predicting thunderstorms with gusty winds up to 100 kmph in several states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Haryana",
+        "Jharkhand",
+        "Kerala",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ghaziabad",
+        "Ludhiana",
+        "Meerut"
+      ],
+      "topic_tags": [
+        "economy",
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62919,
+      "title": "Rare 'intensive' revision in Bihar four months before polls - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/rare-intensive-revision-in-bihar-four-months-before-polls/articleshow/122167501.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-122167607,width-1200,height-630,imgsize-40380,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-05-30 21:34:34.148929",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "The **Election Commission of India (ECI)** has ordered a special summary revision of electoral rolls in Bihar, marking a departure from its usual practice.  This revision differs from previous intensive revisions by utilizing the 2002-03 electoral roll as a base and incorporating a new pre-printed enumeration form for house-to-house verification. The ECI's decision to conduct this revision ahead of the assembly elections in October 2025 is unusual, as it has rarely ordered full state-wide intensive revisions so far out from the scheduled polls.  This move follows a pattern of the ECI conducting 'intensive' revision in specific areas of states based on various factors like population changes or electoral irregularities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 62873,
       "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
