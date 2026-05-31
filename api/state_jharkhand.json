@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 10:02:10.481966",
+  "generated_at": "2026-05-31 15:06:36.277141",
   "state": "Jharkhand",
   "capital": "Ranchi",
   "ruling_party": "JMM",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 63,
-    "articles_last_30d": 25
+    "total_articles": 64,
+    "articles_last_30d": 26
   },
   "top_cities_30d": {
-    "Delhi": 8,
+    "Delhi": 9,
     "Ranchi": 6,
     "Bengaluru": 3,
     "Ludhiana": 2,
@@ -24,18 +24,60 @@
     "Thane": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 20,
+    "foreign_policy": 21,
     "economy": 7,
-    "protest_opposition": 5,
-    "education": 4,
-    "crime_violence": 3,
+    "protest_opposition": 6,
+    "education": 5,
+    "crime_violence": 4,
     "infrastructure": 3,
     "health": 2,
     "farmer_agriculture": 2,
-    "corruption_scam": 1,
-    "rape_sexual_crime": 1
+    "rape_sexual_crime": 2,
+    "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 63501,
+      "title": "How Pakistan's Social Media Star Shahzad Bhatti Became ISI's New Weapon",
+      "url": "https://www.ndtv.com/world-news/how-pakistans-social-media-star-shahzad-bhatti-became-isis-new-weapon-11571062#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/psr5dl9c_shehzad-bhatti_625x300_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 09:36:59.826790",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Shahzad Bhatti",
+      "rephrased_article": "**Shahzad Bhatti**, a Pakistani social media influencer linked to the **ISI**, is at the center of a major crackdown by Indian security agencies.  Bhatti's network, which recruits vulnerable youth through social media, allegedly involves criminal activity, radicalization, and plans for attacks on police personnel and sensitive locations. The Delhi Police Special Cell arrested eight suspects connected to Bhatti's module, recovering weapons and explosives. Investigations also reveal links to the **Tehreek-e-Taliban Hindustan** and a network of violent crimes in Punjab, including the grenade attack on a YouTuber.  Bhatti faces multiple investigations and threats from rival gangs like the Lawrence Bishnoi gang, highlighting his complex role in India's security landscape.",
+      "party_mentioned": [
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Haryana",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Faridabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime",
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 63245,
       "title": "The political economy of cash transfers",
@@ -118,7 +160,7 @@
       "rephrased_article": "The **Delhi Police** Special Cell have arrested eight individuals, including three from Punjab, in connection with an alleged Pakistan-linked ISI-Mumbai underworld module. The operation uncovered plans for attacks in Delhi and Mumbai, leading to the recovery of four live hand grenades and 25 cartridges manufactured by the **Pakistan Ordnance Factory**.  The suspects allegedly conducted reconnaissance at several locations, including the Dadar railway station area, and used social media platforms for recruitment and coordination. Investigations are ongoing to trace the wider network of this module.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Nitish"
+        "Nitish Kumar"
       ],
       "states_mentioned": [
         "Jharkhand",
@@ -2083,12 +2125,10 @@
         "NDA"
       ],
       "ministers_mentioned": [
-        "Modi",
-        "Shah",
+        "Narendra Modi",
+        "Amit Shah",
         "Rahul Gandhi",
-        "Rahul",
         "M.K. Stalin",
-        "Stalin",
         "Devendra Fadnavis"
       ],
       "states_mentioned": [

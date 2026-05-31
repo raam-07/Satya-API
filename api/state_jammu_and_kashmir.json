@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 10:02:10.582671",
+  "generated_at": "2026-05-31 15:06:36.382102",
   "state": "Jammu and Kashmir",
   "capital": "Srinagar / Jammu",
   "ruling_party": "National Conference",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 78,
-    "articles_last_30d": 40
+    "total_articles": 84,
+    "articles_last_30d": 46
   },
   "top_cities_30d": {
-    "Srinagar": 12,
+    "Srinagar": 15,
     "Delhi": 5,
     "Bengaluru": 2,
     "Ahmedabad": 2,
@@ -22,17 +22,161 @@
     "Vadodara": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 33,
-    "crime_violence": 11,
-    "education": 11,
+    "foreign_policy": 35,
+    "education": 13,
+    "crime_violence": 12,
     "protest_opposition": 11,
     "infrastructure": 6,
     "health": 6,
-    "economy": 4,
-    "corruption_scam": 2,
-    "farmer_agriculture": 2
+    "economy": 5,
+    "farmer_agriculture": 3,
+    "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 63485,
+      "title": "No insurance, no MIS: Kashmir fruit growers count mounting losses",
+      "url": "https://www.greaterkashmir.com/business/no-insurance-no-mis-kashmir-fruit-growers-count-mounting-losses-11891747",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/insurance-fruit-growers-2026-05-31-07-46-32.png",
+      "scraped_at": "2026-05-31 09:35:29.797825",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Kashmir fruit growers",
+      "rephrased_article": "**Fruit growers** in Kashmir's apple belt are facing mounting losses due to repeated hailstorms and erratic weather conditions, prompting concerns about the sector's stability.  The absence of crop insurance and the non-implementation of the Market Intervention Scheme (MIS) leave growers vulnerable to financial distress. **Bashir Ahmad Basheer**, chairman of the **Kashmir Valley Fruit Growers-cum-Dealers Association**, warns that climate-related disruptions could destabilize the rural economy if immediate action is not taken.  **Horticulture**, which supports nearly 35 lakh people in Jammu and Kashmir, faces significant losses due to these weather events, with estimates suggesting economic activity of around Rs 10,000 crore annually.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 63481,
+      "title": "Protect growers from weather shocks: JKPICCA",
+      "url": "https://www.greaterkashmir.com/business/protect-growers-from-weather-shocks-jkpicca-11891757",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/jkpicca-2026-05-31-07-53-50.png",
+      "scraped_at": "2026-05-31 09:35:21.327562",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "J&K administration",
+      "rephrased_article": "**Bashir Ahmad Naik**, president of the **Jammu and Kashmir Fruits and Vegetables Processing and Integrated Cold Chain Association (JKPICCA)**, expressed concern over repeated hailstorms in Pulwama and Shopian, causing damage to crops and orchards. He urged the **J&K administration** to assess the damage and provide financial assistance to affected farmers and orchardists. Naik also called for making crop insurance a practical mechanism to protect growers from recurring losses due to weather events.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 63472,
+      "title": "LoP Sunil Sharma targets Abdullahs, says Omar ready to settle for anything short of statehood",
+      "url": "https://www.greaterkashmir.com/politics/lop-sunil-sharma-targets-abdullahs-says-omar-ready-to-settle-for-anything-short-of-statehood-11892404",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2025/04/JK-LOP-Sunil-Sharma.jpg",
+      "scraped_at": "2026-05-31 09:35:04.629306",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Omar Abdullah",
+      "rephrased_article": "**Sunil Sharma**, leader of the opposition in the Jammu and Kashmir Assembly, criticized **Omar Abdullah**, the Chief Minister, for his stance on restoring statehood to Jammu and Kashmir. **Sharma** alleged that the Abdullah family prioritizes maintaining power and privileges over the interests of the people, accusing them of misleading the public on key political issues. He stated that the BJP remains committed to development, transparency, and strengthening democratic institutions in the region while criticizing the ruling National Conference for creating confusion about constitutional matters.",
+      "party_mentioned": [
+        "BJP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63352,
+      "title": "Centre waives cooling-off period for IPS officer V K Birdi, clears way for fresh central posting",
+      "url": "https://www.greaterkashmir.com/national/centre-waives-cooling-off-period-for-ips-officer-v-k-birdi-clears-way-for-fresh-central-posting-11891970",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2023/11/vK-Birdi-IGP-e1700796901301.jpg",
+      "scraped_at": "2026-05-31 06:25:15.251566",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Appointments Committee of the Cabinet",
+      "rephrased_article": "The **Appointments Committee of the Cabinet** has waived the mandatory cooling-off period for **Vidhi Kumar Birdi**, a senior IPS officer and IGP Kashmir, allowing him to take on a fresh central deputation ahead of schedule. The decision comes after **Birdi** was prematurely repatriated from the Central Reserve Police Force in September 2023 and subsequently posted in Jammu and Kashmir.  This waiver is significant as it removes a three-year requirement for officers before they can be considered for another central assignment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 63348,
+      "title": "J&K High Court upholds dismissal of policeman over militant links, reverses single judge verdict",
+      "url": "https://www.greaterkashmir.com/kashmir/jk-high-court-upholds-dismissal-of-policeman-over-militant-links-reverses-single-judge-verdict-11892206",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/10/high-court-2026-05-10-11-50-32.jpg",
+      "scraped_at": "2026-05-31 06:25:06.596975",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Ghulam Mohammad Tantray",
+      "rephrased_article": "The **High Court of Jammu & Kashmir and Ladakh** upheld the dismissal of a police constable, Ghulam Mohammad Tantray, accused of militant links. The court rejected a 2011 judgment that had quashed his termination from service, finding sufficient grounds for the government's decision to dispense with the departmental inquiry.  The government argued that conducting a regular inquiry would have compromised security interests and exposed witnesses to threats. **Mohsin S. Qadri**, Senior Additional Advocate General represented the government.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 63335,
+      "title": "Thousands of UG aspirants fear missing admissions as deadlines clash with Eid in Kashmir",
+      "url": "https://www.greaterkashmir.com/education/thousands-of-ug-aspirants-fear-missing-admissions-as-deadlines-clash-with-eid-in-kashmir-11892217",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2024/03/Exams.jpeg",
+      "scraped_at": "2026-05-31 06:24:42.889661",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Director Colleges, Jammu and Kashmir",
+      "rephrased_article": "Undergraduate aspirants in Kashmir are facing potential admission deadline issues due to the coinciding of Eid-ul-Adha festivities with online application form submission deadlines. **Srinagar** officials and applicants have expressed concern about internet access limitations hindering submissions, particularly for students from remote areas. The **Director Colleges**, Jammu and Kashmir, has stated that existing deadlines have already been extended but a spot round may provide an alternative opportunity for those who missed earlier rounds.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 63318,
       "title": "Jammu and Kashmir Hajj pilgrims threaten boycott of return flights over ‘discriminatory’ baggage curbs | India News - The Indian Express",
@@ -2049,7 +2193,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Omar Abdullah",
         "Farooq Abdullah"
       ],
@@ -2083,7 +2226,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Omar Abdullah"
       ],
       "states_mentioned": [

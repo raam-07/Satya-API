@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 10:02:10.556706",
+  "generated_at": "2026-05-31 15:06:36.355107",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,34 +8,433 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 254,
-    "articles_last_30d": 109
+    "total_articles": 269,
+    "articles_last_30d": 123
   },
   "top_cities_30d": {
-    "Delhi": 32,
-    "Lucknow": 17,
-    "Kolkata": 10,
+    "Delhi": 40,
+    "Lucknow": 20,
+    "Kolkata": 11,
     "Kanpur": 8,
     "Mumbai": 7,
-    "Bengaluru": 4,
-    "Ghaziabad": 4,
+    "Bengaluru": 6,
+    "Ghaziabad": 6,
     "Agra": 4,
     "Meerut": 4,
-    "Allahabad": 2
+    "Hyderabad": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 89,
-    "crime_violence": 39,
-    "protest_opposition": 35,
-    "education": 32,
+    "foreign_policy": 99,
+    "crime_violence": 45,
+    "protest_opposition": 39,
+    "education": 36,
     "infrastructure": 22,
-    "farmer_agriculture": 14,
-    "economy": 14,
-    "corruption_scam": 12,
-    "health": 10,
-    "rape_sexual_crime": 3
+    "economy": 16,
+    "farmer_agriculture": 15,
+    "corruption_scam": 14,
+    "health": 11,
+    "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 63517,
+      "title": "Assam Chief Minister Himanta Sarma To Expand Cabinet On June 5, 9 MLAs Likely To Be Inducted",
+      "url": "https://www.ndtv.com/india-news/assam-chief-minister-himanta-sarma-to-expand-cabinet-on-june-5-9-likely-to-be-inducted-11570897#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/3u1knmo8_himanta-biswa-sarma-ani_625x300_31_May_26.jpeg",
+      "scraped_at": "2026-05-31 09:37:40.082725",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Himanta Biswa Sarma",
+      "rephrased_article": "**Himanta Biswa Sarma**, the Assam Chief Minister, announced that his cabinet will be expanded on June 5th. The expansion is expected to include eight to nine MLAs as Cabinet Ministers and two Ministers of State.  Political observers anticipate a mix of experienced leaders and new entrants from the BJP and its alliance partners. **Narendra Modi**, the Prime Minister, was among the senior leaders who attended Sarma's swearing-in ceremony on May 12th.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 63511,
+      "title": "Cross-border job scam: 453 Nepali victims repatriated from UP’s Kushinagar after police crackdown | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/sports/chess/divya-deshmukh-norway-chess-women-tournament-koneru-humpy-anna-muzychuk-10716878/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/UP-Police-3-1_20260527193600.jpg",
+      "scraped_at": "2026-05-31 09:37:20.227784",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "suspects",
+      "rephrased_article": "A **Nepal**ian government-led operation rescued 453 migrants from an alleged cross-border job scam in Uttar Pradesh's Kushinagar district. The victims, mostly poor Nepali nationals who spoke only Nepali, were lured to India with promises of skill training and lucrative employment opportunities but were instead cheated out of money and subjected to harassment.  The **Nepal**ian embassy coordinated the operation, which involved police tracing the migrants' rented accommodation and rescuing them from the alleged recruitment network. The suspects are facing criminal charges for cheating and other offenses.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "protest_opposition",
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63501,
+      "title": "How Pakistan's Social Media Star Shahzad Bhatti Became ISI's New Weapon",
+      "url": "https://www.ndtv.com/world-news/how-pakistans-social-media-star-shahzad-bhatti-became-isis-new-weapon-11571062#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/psr5dl9c_shehzad-bhatti_625x300_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 09:36:59.826790",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Shahzad Bhatti",
+      "rephrased_article": "**Shahzad Bhatti**, a Pakistani social media influencer linked to the **ISI**, is at the center of a major crackdown by Indian security agencies.  Bhatti's network, which recruits vulnerable youth through social media, allegedly involves criminal activity, radicalization, and plans for attacks on police personnel and sensitive locations. The Delhi Police Special Cell arrested eight suspects connected to Bhatti's module, recovering weapons and explosives. Investigations also reveal links to the **Tehreek-e-Taliban Hindustan** and a network of violent crimes in Punjab, including the grenade attack on a YouTuber.  Bhatti faces multiple investigations and threats from rival gangs like the Lawrence Bishnoi gang, highlighting his complex role in India's security landscape.",
+      "party_mentioned": [
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Haryana",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Faridabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime",
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 63471,
+      "title": "Cross-border job scam: 453 Nepali victims repatriated from UP’s Kushinagar after police crackdown | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/453-nepali-migrants-deported-in-up-police-crackdown-kushinagar-job-scam-10716875/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/UP-Police-3-1_20260527193600.jpg",
+      "scraped_at": "2026-05-31 09:35:02.753260",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "job scam organizers",
+      "rephrased_article": "**Nepal's** police conducted a large-scale operation in **Kushinagar district**, Uttar Pradesh, to rescue 453 Nepali migrants who were allegedly trapped in a job scam. The migrants claimed they were lured with promises of skill training and lucrative employment but were instead defrauded and confined by organizers.  The operation was prompted by reports from the victims' families and social media posts detailing their ordeal. The police arrested nine suspects, including seven Nepalese nationals, and are investigating the full extent of the network. The migrants were repatriated to Nepal through the Sonauli border crossing with assistance from the **Nepal embassy**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "protest_opposition",
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63455,
+      "title": "Rajnath, Australian Deputy PM to hold second India-Australia Defence Ministers’ Dialogue in New Delhi",
+      "url": "https://www.greaterkashmir.com/national/rajnath-australian-deputy-pm-to-hold-second-india-australia-defence-ministers-dialogue-in-new-delhi-11892792",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/07/operation-sindoor-a-benchmark-for-modern-warfare-rajnath-singh-2026-05-07-10-46-59.jpeg",
+      "scraped_at": "2026-05-31 09:34:36.146045",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India-Australia relations",
+      "rephrased_article": "**Shri Rajnath Singh**, India's Raksha Mantri, and **Mr Richard Marles**, Australia's Deputy Prime Minister and Defence Minister, will co-chair the second India-Australia Defence Ministers’ Dialogue in New Delhi on June 1, 2026. The meeting aims to review progress in bilateral defence cooperation and identify new avenues for collaboration, focusing on strengthening defence & security cooperation, enhancing military interoperability, industry collaboration, and regional & global security developments of mutual interest. This visit follows the inaugural dialogue held in Australia in October 2025 and reflects the growing momentum in the India-Australia Comprehensive Strategic Partnership.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63401,
+      "title": "Government schools | 51,000 government schools closed with a year, says report - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2Z6RTFrWV9heVlEU2hIRzFncU9mQTlLdHg5VTROeGl1V0J6VDAyUTJHdmU3cTBMRXBQbTJ3dmZ1VUloNHgyOElrcUFvS3FuSG1RQ005c3p6MXVscmdVQS02VjY5SFRHM05ROHloMVZUWUhzek9VUHNRU3Y4QkxITnIzRS1BTWstWVdIdW94TDFSenJXY2hZNTRFUnU2bFdyd04wQkpEUmVKWUYzVGNvUGo2Z9IBuAFBVV95cUxQWFNmV1BLbHlwclluaHVXSW5TNkV3NURtYVJrS0VvWnFuLUVFXzMxSkZ2bFdDOU1pUGF5N0M2TWJQYnZoSmhBcE9WU21OQm1fbmlTdXg3eUFFMU8xaUpZajdMYUhWcko0bTV1azJNekhzNXBjUzZNbXotOGpVM3ZfaENUemVhbmlYTUVoc3VQRkwtbjJnZVhwSlQ4R1dValV0RXFaOXUtWWZXd25vT0wxNjRlUzdKT0Fa?oc=5",
+      "source": "The Telegraph",
+      "image_url": "https://assets.telegraphindia.com/telegraph/2022/Apr/1650603449_1646056999_odisha-schools-1-imresizer.jpg",
+      "scraped_at": "2026-05-31 06:27:44.824732",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The number of government schools in India decreased by 4.78% between September 2018 and September 2019, while private school enrollment increased by 3.6%. Education activists argue this trend reflects a push towards privatization due to the government's policy of closing low-enrolment schools through mergers.  The decline is attributed to factors like teacher shortages, inadequate teaching quality, and the lack of focus on learning outcomes in many government schools. This has led parents to opt for private schools, further exacerbating the issue.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Odisha",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 63396,
+      "title": "Abhishek Banerjee attack: Can Mamata Banerjee rebuild INDIA bloc after TMC poll rout? - India Today",
+      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-egg-hurt-injured-hospitalised-attack-mamata-banerjee-india-bloc-tmc-poll-rout-2919776-2026-05-31?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/mamata-312622934-16x9_0.jpg?VersionId=3pGpUqsFxdIznQMwL6h8ew3A9qevcWrr",
+      "scraped_at": "2026-05-31 06:27:32.756831",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "The attack on **Abhishek Banerjee**, nephew of **Mamata Banerjee**, has sparked unexpected support for her from across the Opposition, including **Rahul Gandhi** and **Mallikarjun Kharge**.  This show of solidarity, despite past tensions between the **Trinamool Congress** and other parties like the **Congress**, raises questions about the future of the fractured **INDIA bloc** and its potential to challenge the BJP. The attack has also highlighted the vulnerability of the **Trinamool Congress** after a devastating defeat in the Bengal Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "RJD"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 63390,
+      "title": "IPL 2026 Final Key Stats, RCB vs GT: Can Virat Kohli strike gold? Rashid Khan a big concern - India Today",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-final-rcb-vs-gt-key-stats-ahmedabad-modi-stadium-rajat-patidar-shubman-gill-virat-kohli-2919828-2026-05-31?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/shubman-gill-310607858-16x9_0.jpg?VersionId=twM7LVO7TgsahG9YXs1mwigyUuBfxMsR",
+      "scraped_at": "2026-05-31 06:27:02.170345",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "IPL",
+      "rephrased_article": "The **Gujarat Titans** and **Royal Challengers Bengaluru** will compete in the IPL 2026 final on Sunday, May 31st at the Narendra Modi Stadium in Ahmedabad.  After a thrilling season, both teams have a chance to claim their first-ever IPL title. The final is expected to be a close contest with RCB having a slight edge in head-to-head meetings. **Virat Kohli** has struggled in previous finals, scoring only 139 runs at an average of 34.75.  The match will feature key players like **Rashid Khan**, who has been a concern for the Titans, and **Josh Hazlewood**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Chennai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63389,
+      "title": "UP Para-Athlete Chirag Tyagi Shot Dead Days After Qualifying For Asian Games, Rival Yash Khatik Arrested",
+      "url": "https://www.ndtv.com/india-news/up-para-athlete-chirag-tyagi-shot-dead-days-after-qualifying-for-asian-games-rival-yash-khatik-arrested-11570627#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/1a49d4ks_para-athlete_625x300_31_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 06:27:00.986534",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Yash Khatik",
+      "rephrased_article": "A 25-year-old para athlete, **Chirag Tyagi**, was shot dead in Ghaziabad, Uttar Pradesh.  **Yash Khatik**, also a para athlete and Tyagi's former training partner, has been arrested based on CCTV footage. Police believe that **Khatik** shot Tyagi in the back after a dispute over document verification, which resulted in **Tyagi's** disqualification from competition. The motive was professional revenge, according to police.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 63386,
+      "title": "Ghaziabad murder news, Key Accused Asad In Ghaziabad Teen Surya Pratap Chauhan Murder on bakrid Killed In Encounter With Cops",
+      "url": "https://www.ndtv.com/ghaziabad-news/ghaziabad-murder-news-key-accused-asad-in-ghaziabad-teen-surya-pratap-chauhan-murder-on-bakrid-killed-in-encounter-with-cops-11570557#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/28kpiac4_asad_625x300_31_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 06:26:45.625093",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Asad**, the main accused in the stabbing of 17-year-old Surya Pratap Chauhan, was shot dead during a police encounter on Saturday.  He had been carrying a Rs 50,000 reward for his arrest and sustained gunshot injuries during retaliatory firing after he opened fire on police officers. **Surya Pratap Chauhan** was stabbed in the Khoda area of Ghaziabad on May 28th, the day of Bakrid, triggering outrage and protests.  Police have arrested three of the five individuals named as accused in the case. The incident has prompted calls for similar action against other suspects involved.",
+      "party_mentioned": [
+        "BSP"
+      ],
+      "ministers_mentioned": [
+        "Mayawati"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63384,
+      "title": "Government schools | 51,000 government schools closed with a year, says report - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONkFVMlVJOUprQnhMank1aHpqblU0WmJOZTVfdUFBXzhJeFpLNk9IZmMxMUZQbGlRbGdfYUgwUXVDNC1tcXJJdG85eHBiZ3JXOHAza0ZOWEt4TkFGUU5kNHN4QW05MVYweEkxYlBHem5QcHBIYnhoWFVLeENHT0lkV04ybzNuTmxMSTV4SDQ3UEtsME9US1Z1V2JjOHI1ckw1NlRlTThNMNIBrAFBVV95cUxQb3g0bXdFYVdGRlZOOVJqakFXWnNURGFodDBzUFl3Y0dYR3o0SWxDN3Nac1d1cVROTWpJSnFOS3piaXZrVGpaQjZ5TUVybzNlc3l3d2dYbVBCc1RsdGxpNHRDVGFoNVMtM0hrb091YXRxSWl6d2tnM1F4ZmFPM1c5ckl1Um5JZU5sYTloS25vWjZySjhSYjlzOWR5ZEdyQ3YzalNBcFdZN1dXdHRm?oc=5",
+      "source": "The Telegraph",
+      "image_url": "https://assets.telegraphindia.com/telegraph/2022/Apr/1650603449_1646056999_odisha-schools-1-imresizer.jpg",
+      "scraped_at": "2026-05-31 06:26:39.742503",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The number of government schools in India decreased by 4.78% between September 2018 and September 2019, while private school enrollment rose by 3.6%. Education activists argue this trend reflects a government policy that encourages the closure of low-enrolment schools, citing concerns about teacher availability and quality of education.  The decline in government schools was particularly pronounced in states like Uttar Pradesh and Madhya Pradesh, where closures reached significant numbers.  However, some states saw increases in their government school enrollment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Odisha",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 63366,
+      "title": "Berger Paints looks to strengthen presence in UP",
+      "url": "https://www.greaterkashmir.com/business/berger-paints-looks-to-strengthen-presence-in-up-11891764",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/agency_attachments/2026/04/02/2026-04-02t103638305z-mast-gk-wahid-bukhari-2-1-2026-04-02-16-06-38.png",
+      "scraped_at": "2026-05-31 06:25:43.312628",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Berger Paints",
+      "rephrased_article": "**Berger Paints**, a leading paint manufacturer, plans to expand its presence in smaller towns and rural areas of Uttar Pradesh. The company's Managing Director and CEO, **Abhijit Roy**, stated that the company is focusing on deepening penetration in eastern and western regions of the state, where it currently has limited reach.  With over 6,000 dealers across the state, **Berger Paints** aims to further strengthen its market presence by entering new areas and enhancing its ground-level presence. The company's investment in Uttar Pradesh is significant, with more than Rs 1,200 crore invested in a manufacturing facility near Lucknow and another Rs 200 crore for expansion.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 63351,
+      "title": "Who drinks the most? Arunachal tops national chart, Himachal leads North - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWFONE9GRGZrWmRHUUREVUotTk1Dbm5tdzhVUTdmOHBPTExNQTgyeWNoVFRTWWs0M1FJT3diSGVKTXVwem8tSmxNd29wamtrTzBKRzlDRDBILTd5blVETVdEVlZEdlg0ZDdkaENNNTJSVVQ2RjRJX3NnSmRYV3hCdXkxSkdMT2NoZ3FSNWZycEhodDFuYm90WWlHU1dULVFBOXJFeGFYOVRKWEdqM1FLUQ?oc=5",
+      "source": "The Tribune",
+      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTczZTllMTEwLTVjNWMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "scraped_at": "2026-05-31 06:25:14.414028",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "The **National Family Health Survey (NFHS)-6** revealed that **Arunachal Pradesh** has the highest proportion of men aged 15 and above reporting alcohol consumption, at 50.5 percent.  In northern India, **Himachal Pradesh** leads in alcohol consumption among men with 30.2 percent reporting consumption. The survey also found that **Chandigarh** has the highest overweight or obese population among men, with 48.5 percent of men falling into this category.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Haryana",
+        "Himachal Pradesh",
+        "Mizoram",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Telangana",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Puducherry",
+        "Chandigarh",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 63322,
       "title": "Our naval might confined Pakistan to its ports: Rajnath Singh | India News - The Indian Express",
@@ -50,8 +449,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Rajnath Singh",
-        "Yogi Adityanath",
-        "Yogi"
+        "Yogi Adityanath"
       ],
       "states_mentioned": [
         "Uttar Pradesh"
@@ -108,11 +506,8 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -175,11 +570,8 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -196,6 +588,37 @@
       ]
     },
     {
+      "id": 63236,
+      "title": "TribuneIndia...AgricultureTribune",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlNjY2TkxpcVVlQllZT3VmcjEtNzQ1SzVhVEFSVXNoaks0Yi1xYmd6NUF5N3lvZ0pnX19JSU1BVE5qaHV6SnNMSGZyZWdGR1hHSjhTaVVmY3VxMFF5LWcw?oc=5",
+      "source": "The Tribune",
+      "image_url": "No image available",
+      "scraped_at": "2026-05-30 23:05:29.607048",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "farmers",
+      "rephrased_article": "Factors behind low cotton output in Punjab and Haryana are attributed to the cultivation of Pakistani varieties that are more susceptible to pests like whitefly and cotton leaf curl virus (CLCV). The committee investigating the issue recommends sowing resistant varieties, crop rotation, proper pest management, and a shift away from American cotton in orchards.  The decline in groundwater levels is also a contributing factor, leading to increased electricity consumption and farmer unrest. Haryana must implement artificial recharging methods like digging special wells along drains to capture surplus rainwater and replenish groundwater levels.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Haryana",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Tripura",
+        "Uttar Pradesh",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "farmer_agriculture",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 63200,
       "title": "India, Australia to conduct Defence Ministers' Dialogue in Delhi next week - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZTIxQzlhZ1dWbDRYNW1aOEFYRV81NEphZ29OcmJUYnd3d1B5b2RyM3duc3hQQlNrZEpLUzhIczhpNTB4Qm9qWUhzOXdUYkVFV2hDZDlWdklVX1RKTFFCTjNjTGdVN25oM3dvb0JtdnR4QzByM2c5eGZYbzlVcjRVc0xpbjRTSHVWNnljOS04cXhBSXpNUXlJTTRpaEI3Zl9QZVBGOEtMaUxqZmZWMmN2SkNlQ2toX0VoQVlR?oc=5",
@@ -209,7 +632,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Rajnath Singh"
       ],
       "states_mentioned": [
@@ -267,16 +689,12 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Amit Shah",
-        "Shah",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
         "Priyanka Gandhi",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Assam",
@@ -315,12 +733,9 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
         "Arvind Kejriwal",
-        "Kejriwal",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Uttar Pradesh",
@@ -350,8 +765,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Rajnath Singh",
-        "Yogi Adityanath",
-        "Yogi"
+        "Yogi Adityanath"
       ],
       "states_mentioned": [
         "Uttar Pradesh"
@@ -447,7 +861,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
         "Siddaramaiah"
       ],
@@ -482,11 +895,8 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -524,9 +934,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -637,13 +1045,9 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Arvind Kejriwal",
-        "Kejriwal",
         "Mamata Banerjee",
-        "Mamata",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -748,8 +1152,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Rajnath Singh",
-        "Yogi Adityanath",
-        "Yogi"
+        "Yogi Adityanath"
       ],
       "states_mentioned": [
         "Uttar Pradesh",
@@ -5549,434 +5952,6 @@
         "Prayagraj"
       ],
       "topic_tags": []
-    },
-    {
-      "id": 49843,
-      "title": "Pakistan vs Israel: Khawaja Asif deletes 'curse on humanity' post after sharp response ahead of US-Iran peace talks - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-vs-israel-khwaja-asif-deletes-curse-on-humanity-post-after-sharp-response-ahead-of-us-iran-peace-talks/articleshow/130158934.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130159515,width-1280,height-720,imgsize-629761,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-04-10 06:02:48.796027",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Khawaja Asif",
-      "rephrased_article": "**Israel** and **Pakistan** clashed after **Khawaja Asif**, the country's defense minister, posted controversial remarks about Israel.  Asif deleted his posts following strong backlash, but not before sparking condemnation from **Israel** and international figures like **US Representative Josh Gottheimer**. The controversy emerged at a sensitive time as **Pakistan** is credited with brokering a ceasefire between **Iran** and the **United States**, and preparing to host peace talks in Islamabad.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 49830,
-      "title": "Pakistan, Israel war of words: Khwaja Asif’s 'burn in hell' remark triggers a 'outrageous' response - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-israel-war-of-words-khwaja-asifs-burn-in-hell-remark-triggers-a-outrageous-response/articleshow/130156999.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130157999,width-1280,height-720,imgsize-531910,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-04-10 03:51:20.642219",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Khawaja Asif",
-      "rephrased_article": "**Israel's** Prime Minister Office (PMO) criticized **Khawaja Asif**, Pakistan's Defense Minister, for his remarks on social media calling Israel \"evil\" and advocating for its annihilation.  The PMO condemned the statements as unacceptable from any government, especially one claiming neutrality in peace efforts. The controversy comes at a sensitive time with Pakistan brokering a ceasefire between the US and Iran and preparing to host peace talks over the weekend. **Gideon Sa’ar**, Israel's Foreign Affairs Minister, also condemned Asif's remarks, calling them \"blatant antisemitic blood libels.\"",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 49622,
-      "title": "Delhi HC rejects Sanjay Bhandari's plea against 'fugitive offender' tag - The Hindu",
-      "url": "https://www.thehindu.com/news/national/delhi-hc-rejects-sanjay-bhandaris-plea-against-fugitive-offender-tag/article70842364.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/skh9hr/article70842424.ece/alternates/LANDSCAPE_1200/Sanjay%20Bhandari.jpeg",
-      "scraped_at": "2026-04-09 11:09:46.368641",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Sanjay Bhandari",
-      "rephrased_article": "The **Delhi High Court** upheld a trial court's order declaring **Sanjay Bhandari**, a U.K.-based arms consultant, a \"fugitive economic offender\" in connection with a money laundering case.  **Bhandari** fled to London in 2016 after an I-T department raid and the **Enforcement Directorate** (ED) has been pursuing charges against him since 2020. The court rejected his legal team's argument that his stay in the U.K. is not illegal, stating that he cannot escape prosecution for violating Indian laws.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Priyanka Gandhi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "crime_violence",
-        "economy"
-      ]
-    },
-    {
-      "id": 49529,
-      "title": "BJP, the known unknown in Kerala 2026 - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/bjp-the-known-unknown-in-kerala-2026/article70840965.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nj685l/article70840969.ece/alternates/LANDSCAPE_1200/PTI04_07_2026_000348B.jpg",
-      "scraped_at": "2026-04-09 02:45:26.929277",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The BJP's emergence in Kerala has significantly altered the political landscape, with traditional rivals, the Congress-led UDF and CPI-M-led LDF, aligning their campaigns against each other. The BJP claims a false fight between the two parties while emphasizing its stance on the Sabarimala issue.  While the BJP seeks to capitalize on Hindu sentiment in Kerala, the UDF faces challenges from internal divisions within its Christian and Muslim communities.  The LDF has abandoned its previous stance on women's entry into the Sabarimala shrine, aligning with the BJP's position. The outcome of these elections remains uncertain due to a complex interplay of religious affiliations, demographic shifts, and political maneuvering.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Yogi Adityanath",
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Goa",
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 49525,
-      "title": "Ceasefire calm sparks bargain hunting in beaten-down stocks - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ceasefire-calm-sparks-bargain-hunting-in-beaten-down-stocks/articleshow/130126568.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-130126561,width-1200,height-630,imgsize-24476,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-04-09 02:43:58.242776",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Stock Market",
-      "rephrased_article": "**Helios India's** Dinshaw Irani cautioned against investing in beaten-down stocks hoping for a rebound, as the recent market sell-off was broad-based.  While sectors like oil and gas saw gains following a two-week ceasefire in the **West Asia** conflict, analysts like **Angel One's** Aamar Deo Singh noted that bargain-hunting is concentrated in quality large-caps within banks, pharmaceuticals, and FMCG due to their resilience during the conflict. However, sustained high oil prices may pose headwinds for these sectors unless they fall below $80 a barrel.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 49505,
-      "title": "IGoM reviews preparedness amid West Asia developments, ensures energy, food security - The Hindu",
-      "url": "https://www.thehindu.com/news/national/igom-reviews-preparedness-amid-west-asia-developments-ensures-energy-food-security/article70839614.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/igd9s5/article70840200.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000327B.jpg",
-      "scraped_at": "2026-04-08 23:44:30.541248",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Rajnath Singh**, **Nirmala Sitharaman**, and **S. Jaishankar** attended a meeting of the **Informal Group of Ministers (IGoM)** in New Delhi on April 8, 2026. The meeting focused on India's preparedness for potential disruptions following recent developments in West Asia.  The group was informed that India has facilitated the evacuation of numerous vessels from the Strait of Hormuz and is ensuring uninterrupted supplies of essential commodities like LPG, petrol, diesel, and fertilizers.  **Prime Minister Narendra Modi** is overseeing these efforts to maintain economic stability and public welfare.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rajnath Singh",
-        "Nirmala Sitharaman",
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 49445,
-      "title": "Oppressive weather adds to the election heat this season - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/oppressive-weather-adds-to-the-election-heat-this-season/article70838046.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ehz7uw/article70840003.ece/alternates/LANDSCAPE_1200/TH%20TRI-09%204.jpg.jpeg",
-      "scraped_at": "2026-04-08 20:04:45.583108",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Assembly election",
-      "rephrased_article": "**Dr. Chandrasekaran**, president of the Raja Annamalaipuram Residents’ Association, is encouraging residents to vote in the upcoming Tamil Nadu Assembly election despite the heatwave warnings from **India Meteorological Department**. The Regional Meteorological Centre has issued a heat index advisory for the state, particularly coastal areas, where extreme heat and high humidity can be detrimental to health.  Experts emphasize the importance of awareness about heat-related illnesses, providing shade and cool spaces at polling booths, and ensuring access to water and ORS for vulnerable populations like elderly individuals with chronic illnesses.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy",
-        "health"
-      ]
-    },
-    {
-      "id": 49315,
-      "title": "Mallikarjun Kharge expresses regret over 'illiterate' remark, says he has highest of respect for Gujaratis - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kharge-expresses-regret-over-illiterate-remark-says-he-has-highest-of-respect-for-gujaratis/article70837829.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/25onto/article69018582.ece/alternates/LANDSCAPE_1200/vbk-stock-mallikarjun%20kharge-ani-20241219342L.jpg",
-      "scraped_at": "2026-04-08 09:52:47.481816",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Mallikarjun Kharge",
-      "rephrased_article": "**Congress president Mallikarjun Kharge** issued a statement expressing regret for his controversial remarks about the people of Gujarat during an election speech in Kerala. He clarified that he never intended to offend the people of Gujarat and maintains respect for them. The **BJP** demanded an apology from **Kharge**, accusing him of making \"shameless, demeaning and utterly despicable\" statements.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi",
-        "Sonia Gandhi",
-        "Priyanka Gandhi",
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Kerala",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 49221,
-      "title": "Kerala Assembly polls 2026: LDF set for ‘hat-trick’ as governance, welfare and secular credentials shape Kerala’s poll mood, says Subhashini Ali - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-ldf-set-for-hat-trick-as-governance-welfare-and-secular-credentials-shape-keralas-poll-mood-says-subhashini-ali/article70826620.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/p4oz9a/article70834405.ece/alternates/LANDSCAPE_1200/subhashini_03.jpg",
-      "scraped_at": "2026-04-07 22:49:16.276398",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "LDF",
-      "rephrased_article": "**Subhashini Ali**, a member of the **CPI(M)** Polit Bureau, believes the **LDF** is poised for an unprecedented electoral hat-trick in Kerala due to strong public approval of the government's performance and welfare initiatives. She attributes the LDF's success to its governance model, contrasting it with the perceived failures of the UDF during their tenure.  Ali highlights the positive response from ordinary people across various sectors, including migrant workers, who express satisfaction with living conditions in Kerala. The CPI(M) leader also criticizes the BJP and Congress for their national and state-level policies, emphasizing the LDF's commitment to secularism and welfare. She argues that Kerala's development model distinguishes it from other states, creating a favorable environment for the LDF's re-election.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Kerala",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 49208,
-      "title": "Iran war: Indian migrant workers hit by cooking gas cylinder shortages leave cities",
-      "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8f41/live/fac9bfc0-3259-11f1-bdf9-bf5479a63eec.jpg",
-      "scraped_at": "2026-04-07 22:45:37.805003",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Indian** migrant workers are facing difficulties accessing cooking gas due to global shipping disruptions caused by the war in the Middle East.  The shortage has forced many to return to their villages, citing concerns about running out of gas and struggling to afford alternative fuels like firewood. **Shakuntala Devi**, a domestic worker in Delhi, and others like her are worried about the long-term impact on their livelihoods as they face uncertainty about when cooking gas supplies will improve. The government has assured that there is no shortage but has urged people to stop panic ordering.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Jharkhand",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Bengaluru",
-        "Hyderabad",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 49093,
-      "title": "Assam Assembly election 2026: Curtains down on high-voltage campaign - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-2026-curtains-down-on-high-voltage-campaign/article70834669.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/sg97nj/article70834762.ece/alternates/LANDSCAPE_1200/20260407255L.jpg",
-      "scraped_at": "2026-04-07 14:15:37.682570",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The Assam Assembly elections concluded on April 7, with voters casting their ballots for the state's 126 seats. **Prime Minister Narendra Modi**, **Union Home Minister Amit Shah**, and other BJP leaders campaigned against the opposition Congress, accusing it of promoting infiltrators and failing to address development issues. The Congress countered by highlighting corruption allegations against the ruling party and promising justice for singer Zubeen Garg if elected. Prominent candidates include Chief Minister Himanta Biswa Sarma, Gaurav Gogoi (Congress), Badruddin Ajmal (AIUDF), and Debabrata Saikia (opposition).  The elections will be held in a single phase on April 9th.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "TMC",
-        "CPI",
-        "AIMIM",
-        "Owaisi",
-        "JMM",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Nirmala Sitharaman",
-        "Yogi Adityanath",
-        "Rahul Gandhi",
-        "Priyanka Gandhi",
-        "Hemant Soren",
-        "Nitin Gadkari",
-        "Asaduddin Owaisi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Jharkhand",
-        "Odisha",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 49077,
-      "title": "Assembly elections 2026: ECI may roll out SIR in remaining 17 States, 5 UTs post polls - The Hindu",
-      "url": "https://www.thehindu.com/news/national/eci-may-roll-out-sir-in-remaining-17-states-5-uts-post-assembly-polls/article70834100.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9wocac/article70834156.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202025_13_08_9.jpg",
-      "scraped_at": "2026-04-07 12:15:40.083203",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission",
-      "rephrased_article": "The **Election Commission** is considering rolling out the third and final phase of Special Intensive Revision (SIR) for voters' lists in 22 states and Union territories after the Assembly elections this month. The exercise, which aims to clean up electoral rolls, could begin after the polls conclude on April 29th or after the declaration of results.  The **Election Commission** has already conducted SIR in 10 states and three Union Territories, covering nearly 60 crore voters.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Bihar",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 48995,
-      "title": "Two British nationals jailed for illegal entry into India from Nepal - The Hindu",
-      "url": "https://www.thehindu.com/news/national/two-british-nationals-jailed-for-illegal-entry-into-india-from-nepal/article70833160.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-07 06:56:57.450317",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "British nationals",
-      "rephrased_article": "**Two British nationals**, Hassan Amman Saleem (35) and Sumitra Shakeel Olivia (61), were sentenced to six months' imprisonment in Bahraich, Uttar Pradesh for illegally entering India from Nepal. The court also imposed a fine of ₹50,000 on each convict, with the possibility of additional three months' imprisonment if the fine is not paid. They had traveled to Nepal for a charity program and were found without valid documents upon attempting entry into India.  The duo was granted bail after their arrest in November 2025 but has been attending court hearings regularly since.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 48890,
-      "title": "Kerala Assembly Elections 2026: Close contest likely across Wayanad’s three constituencies - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-close-contest-likely-across-wayanads-three-constituencies/article70830325.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-06 19:14:32.044081",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Kerala Assembly Elections 2026",
-      "rephrased_article": "As Wayanad prepares for the April 9 Assembly elections, local issues are expected to dominate the campaign. **Priyanka Gandhi Vadra**, **Congress** general secretary and representative of the Wayanad Lok Sabha segment, is seeking re-election in a district where voters prioritize local candidates and concerns. The aftermath of the 2024 Mundakkai–Chooralmala landslides has become a key issue in Kalpetta, while tribal land rights and welfare remain central to the contests in Mananthavady and Sulthan Bathery.  The UDF is banking on its traditional support base and anti-incumbency sentiment, while the LDF emphasizes governance, welfare delivery, and crisis response. The BJP is attempting to expand its presence.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI",
-        "RJD",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Priyanka Gandhi"
-      ],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
     }
   ]
 }

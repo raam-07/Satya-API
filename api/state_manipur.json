@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 10:02:10.512073",
+  "generated_at": "2026-05-31 15:06:36.308416",
   "state": "Manipur",
   "capital": "Imphal",
   "ruling_party": "BJP",
@@ -8,27 +8,102 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 48,
-    "articles_last_30d": 22
+    "total_articles": 51,
+    "articles_last_30d": 25
   },
   "top_cities_30d": {
-    "Delhi": 5,
+    "Delhi": 6,
     "Chennai": 4,
     "Bengaluru": 2,
-    "Hyderabad": 2
+    "Hyderabad": 2,
+    "Patna": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 20,
-    "crime_violence": 11,
-    "protest_opposition": 7,
+    "foreign_policy": 22,
+    "crime_violence": 13,
+    "protest_opposition": 8,
+    "economy": 5,
     "education": 4,
-    "economy": 4,
     "health": 2,
     "infrastructure": 2,
     "rape_sexual_crime": 1,
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 63529,
+      "title": "tribuneindia...Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NVWZKeWQzQmdMRjV6YXoxY3hUVmtZQmpiaFNhNnhzNXpFdkpoX1hlclFldGpNWE9HWldOTGo1RlRlNjFab0VvdUtwb0xERVpyZ01ObURpN2tZWm5VbUd5aGVKRlU?oc=5",
+      "source": "The Tribune",
+      "image_url": "No image available",
+      "scraped_at": "2026-05-31 09:38:14.842336",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Dasarat Prasad",
+      "rephrased_article": "**Dasarat Prasad**, the **Manipur Tourism Director**, was shot and killed by two assailants at his office in Imphal. The motive behind the killing remains unclear, but an Assistant Director of the Tourism Department narrowly escaped being harmed.  The Delhi High Court dismissed petitions seeking an independent probe into a 1994 contract awarded to a consortium of companies. The court also ordered the **Central Board of Secondary Education (CBSE)** to make answer sheets available to students if needed, emphasizing transparency in their evaluation policy. President K.R. Narayanan expressed condolences for the death of former Lok Sabha Deputy Speaker G.G. Swell, who died in Shillong today.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Manipur",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Patna"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy"
+      ]
+    },
+    {
+      "id": 63473,
+      "title": "5 houses torched in Manipur’s Kangpokpi; Kuki body demands probe - Telangana Today",
+      "url": "https://telanganatoday.com/5-houses-torched-in-manipurs-kangpokpi-kuki-body-demands-probe",
+      "source": "Telangana Today",
+      "image_url": "https://media.telanganatoday.com/wp-content/uploads/2026/04/Indian-Army-1-1.jpg",
+      "scraped_at": "2026-05-31 09:35:04.984220",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Kuki-Zo tribes",
+      "rephrased_article": "Five kutcha houses were burned in suspected arson at a Kuki-Zo village in Manipur's Kangpokpi district. **KIM**, the apex body of Kuki tribes, condemned the attack and demanded a probe into the incident. Police said no casualties occurred and dismissed allegations against the district SP as false. Clashes between Naga and Kuki-Zo tribes have continued since February 2023, resulting in over 260 deaths and thousands displaced.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Manipur",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63334,
+      "title": "Kuki Inpi Manipur Temporarily Suspends Shutdown After Consultations With Govt | OdishaBytes",
+      "url": "https://odishabytes.com/kuki-inpi-manipur-temporarily-suspends-shutdown-after-consultations-with-govt/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/KIM.webp",
+      "scraped_at": "2026-05-31 06:24:42.254666",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Kuki Inpi Manipur",
+      "rephrased_article": "**Kuki Inpi Manipur (KIM)** announced a temporary suspension of its total shutdown affecting Kuki-Zo-inhabited districts in **Imphal**, following consultations with the state government. The organization, along with **Joint Kuki-Zo Civil Society Organisations**, recognized positive outcomes and assurances during meetings on May 29 and 30, leading to the decision to suspend the shutdown.  **KIM** emphasized that lifting the shutdown was intended to facilitate administrative processes and provide the government an opportunity to address community concerns while talks continue. The organization warned of potential intensification of the shutdown if the government fails to respond with concrete action.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Manipur"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 63150,
       "title": "West Bengal AI adoption lag | Bengal and AI: For a ‘Deep State’ to aid technological innovation - Telegraph India",
@@ -124,10 +199,9 @@
         "Shiv Sena"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "PM Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Arunachal Pradesh",

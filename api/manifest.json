@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 10:02:10.897685",
+  "generated_at": "2026-05-31 15:06:36.716448",
   "endpoints": {
     "feed": "feed.json",
     "feed_flagged": "feed_flagged.json",
@@ -18,6 +18,7 @@
       "AAP": "party_aap.json",
       "TMC": "party_tmc.json",
       "SP": "party_sp.json",
+      "BSP": "party_bsp.json",
       "DMK": "party_dmk.json",
       "CPM": "party_cpm.json",
       "JDU": "party_jdu.json",
@@ -71,6 +72,7 @@
       "Rajnath Singh": "minister_rajnath_singh.json",
       "Nirmala Sitharaman": "minister_nirmala_sitharaman.json",
       "S. Jaishankar": "minister_s_jaishankar.json",
+      "Nitin Gadkari": "minister_nitin_gadkari.json",
       "JP Nadda": "minister_jp_nadda.json",
       "Piyush Goyal": "minister_piyush_goyal.json",
       "Dharmendra Pradhan": "minister_dharmendra_pradhan.json",
@@ -96,7 +98,8 @@
       "Mallikarjun Kharge": "minister_mallikarjun_kharge.json",
       "Arvind Kejriwal": "minister_arvind_kejriwal.json",
       "Akhilesh Yadav": "minister_akhilesh_yadav.json",
-      "Sharad Pawar": "minister_sharad_pawar.json"
+      "Sharad Pawar": "minister_sharad_pawar.json",
+      "Tejashwi Yadav": "minister_tejashwi_yadav.json"
     },
     "topics": {
       "crime_violence": "topic_crime_violence.json",
@@ -122,9 +125,9 @@
     }
   },
   "stats": {
-    "parties_count": 14,
+    "parties_count": 15,
     "states_count": 35,
-    "ministers_count": 32,
+    "ministers_count": 34,
     "topics_count": 20
   }
 }
