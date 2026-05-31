@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.365686",
+  "generated_at": "2026-05-31 00:16:45.787552",
   "state": "Jammu and Kashmir",
   "capital": "Srinagar / Jammu",
   "ruling_party": "National Conference",
@@ -8,26 +8,122 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 60,
-    "articles_last_30d": 25
+    "total_articles": 64,
+    "articles_last_30d": 29
   },
   "top_cities_30d": {
-    "Srinagar": 5,
+    "Srinagar": 8,
     "Delhi": 3,
     "Bengaluru": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 25,
+    "foreign_policy": 26,
+    "education": 11,
     "protest_opposition": 11,
-    "education": 9,
-    "crime_violence": 7,
+    "crime_violence": 8,
     "infrastructure": 5,
-    "health": 4,
+    "health": 5,
     "economy": 3,
-    "corruption_scam": 1,
+    "corruption_scam": 2,
     "farmer_agriculture": 1
   },
   "recent_articles": [
+    {
+      "id": 62878,
+      "title": "No Ambulance Or Doctor In Jammu And Kashmir Village, Pregnant Woman Carried On Shoulders, Baby Dies",
+      "url": "https://www.ndtv.com/india-news/no-ambulance-or-doctor-in-jammu-and-kashmir-village-pregnant-woman-carried-on-shoulders-baby-dies-11569951#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/ltor4ius_pregnant_625x300_30_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-30 21:32:28.631910",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "A pregnant woman, Shaista Begum, lost her baby in the mountainous Kishtwar district of Jammu and Kashmir after a difficult journey to medical care.  Her family carried her for miles due to lack of roads and ambulances before reaching a primary health center with no gynaecologist on duty. The family then embarked on a 120-kilometer journey to the Government Medical College in Anantnag, where the baby died during the journey. Villagers are demanding improved healthcare facilities in Marwah, including a gynaecologist and a 24-hour ambulance.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 62841,
+      "title": "J-K govt to file review petition in Supreme Court for TET review",
+      "url": "https://www.greaterkashmir.com/education/j-k-govt-to-file-review-petition-in-supreme-court-for-tet-review-11891366",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2025/05/NEWS-Flash.00_02_06_17.Still082.jpg",
+      "scraped_at": "2026-05-30 21:31:42.281142",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Jammu and Kashmir government",
+      "rephrased_article": "The **Jammu and Kashmir** government announced it will file a review petition in the Supreme Court regarding the Teacher Eligibility Test (TET) issue. Education Minister Sakina Itoo stated that the government has acted responsibly and proactively to protect teacher interests, and the review petition will be filed before the apex court within the coming week. The decision follows the government's previous order to keep the TET designation in abeyance until further orders.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 62826,
+      "title": "Salary denied for more than 2 years, Olympian judge Bilquis Mir moves CAT",
+      "url": "https://www.greaterkashmir.com/jammu-kashmir/salary-denied-for-more-than-2-years-olympian-judge-bilquis-mir-moves-cat-11891462",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/bilquis-2026-05-30-23-17-42.jpg",
+      "scraped_at": "2026-05-30 21:31:16.819914",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Jammu and Kashmir sports department",
+      "rephrased_article": "**Bilquis Mir**, an Olympian judge and high-profile sports administrator, has filed a contempt case against the **Jammu and Kashmir** sports department for withholding her salary for over two years.  Mir's legal battle stems from a February order by the Central Administrative Tribunal (CAT) directing the release of her salary. Despite this, the J-K government has failed to comply with the court's directive, leading to Mir seeking further action through the CAT and High Court. The case highlights the ongoing financial and professional challenges faced by Mir due to bureaucratic delays and raises concerns about the treatment of talented athletes in the region.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62810,
+      "title": "India’s scientific knowledge predates Persia, brought West out of Stone Age: Jammu and Kashmir Lt. Governor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/indias-scientific-knowledge-predates-persia-brought-west-out-of-stone-age-jammu-and-kashmir-lt-governor/article71042138.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8jjwv8/article71042325.ece/alternates/LANDSCAPE_1200/20260524101L.jpg",
+      "scraped_at": "2026-05-30 18:48:46.855879",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**Jammu & Kashmir Lieutenant Governor Manoj Sinha** stated that India's knowledge in science, medicine, and astronomy predates Persia and Western countries. He emphasized India's historical role as a center of knowledge for centuries, contributing to global civilization and culture.  Sinha highlighted the Vedic period as a foundation for socio-economic advancement across the world.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 61676,
       "title": "Over 300 tourists stranded in Gulmarg’s high-altitude cable cars rescued - The Hindu",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.272508",
+  "generated_at": "2026-05-31 00:16:45.696636",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 464,
-    "articles_last_30d": 185
+    "total_articles": 483,
+    "articles_last_30d": 200
   },
   "top_cities_30d": {
-    "Bengaluru": 52,
-    "Delhi": 25,
+    "Bengaluru": 57,
+    "Delhi": 26,
     "Hyderabad": 9,
-    "Mumbai": 8,
+    "Mumbai": 9,
     "Chennai": 6,
     "Ahmedabad": 4,
     "Pune": 3,
@@ -24,18 +24,413 @@
     "Jaipur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 142,
-    "protest_opposition": 50,
-    "education": 49,
-    "infrastructure": 44,
+    "foreign_policy": 147,
+    "protest_opposition": 54,
+    "education": 51,
+    "infrastructure": 45,
     "economy": 35,
-    "farmer_agriculture": 32,
-    "health": 28,
-    "crime_violence": 26,
+    "farmer_agriculture": 33,
+    "health": 30,
+    "crime_violence": 28,
     "corruption_scam": 13,
-    "rape_sexual_crime": 6
+    "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 62890,
+      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/traffic-constables-act-of-kindness-amid-flooded-road-wins-hearts-online/article71042485.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 21:33:06.304454",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Narasimha Naik**, a former **BJP** MLA, stated that the **Congress** will face a setback in the 2028 Assembly elections without outgoing Chief Minister Siddaramaiah.  He expressed disappointment over Mr. Siddaramaiah's resignation and believes it will be a challenge for the new leader, **D.K. Shivakumar**, to lead the party effectively. Naik compared this situation to former Chief Minister B.S. Yediyurappa's resignation, suggesting that the **Congress** will face similar consequences.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62885,
+      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-will-face-setback-in-2028-assembly-elections-former-bjp-mla-narasimha-naik/article71041874.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 21:32:51.714766",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Narasimha Naik**, former **BJP** MLA, claims that the **Congress** will face a setback in the 2028 Assembly elections without outgoing Chief Minister **Siddaramaiah**.  He argues that **Siddaramaiah's** forced resignation weakens the party and presents challenges for new leader **D.K. Shivakumar**. Naik believes this situation mirrors the impact of former Chief Minister **B.S. Yediyurappa's** resignation, suggesting a potential victory for the **BJP** in 2028.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 62881,
+      "title": "INDIA Bloc Revival In Bengal? Support For Mamata Banerjee Over Nephew's Assault",
+      "url": "https://www.ndtv.com/india-news/india-revival-in-bengal-support-for-mamata-banerjee-over-nephews-assault-11569753#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-01/pc6t8224_mamata-banerjee_160x120_05_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-30 21:32:40.041062",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Despite losing the Bengal election, **Mamata Banerjee**'s stature within the **INDIA** bloc remains strong. Opposition leaders condemned the assault on her nephew, **Abhishek Banerjee**, by a mob in Sonarpur, South 24 Parganas.  **Mallikarjun Kharge**, **Akhilesh Yadav**, and **Arvind Kejriwal** accused the BJP of fostering political violence, while the ruling party denied involvement and blamed the TMC for mischaracterizing public anger. The incident has led to calls for stronger law-and-order measures in West Bengal.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Mamata Banerjee",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62875,
+      "title": "Congress’s message to Siddaramaiah as DKS takes charge: Won’t allow you to rest - Karnataka News | India Today",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-new-chief-minister-dk-shivakumar-kc-venugopal-backs-siddaramaiah-national-level-2919738-2026-05-30?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/outgoing-karnataka-chief-minister-siddaramaiah-and-congress-leader-kc-venugopal-photo-pti-301446421-16x9_0.jpg?VersionId=LaODvILdWdPV8gb6ojhD8VucwZbS8NSl",
+      "scraped_at": "2026-05-30 21:32:22.009994",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**Congress** general secretary **KC Venugopal** declared that the party will not allow former Karnataka Chief Minister Siddaramaiah to rest, urging him to continue playing an active role in both state and national politics.  After Siddaramaiah's resignation, **DK Shivakumar** was unanimously elected as the new CLP leader and formally named Karnataka’s next Chief Minister.  Siddaramaiah congratulated Shivakumar and called for a \"second freedom struggle\" to protect the country's unity and integrity. The Congress leadership expressed confidence that under Shivakumar's leadership, they will return to power in the 2028 elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62873,
+      "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/bold/sf-campaign-andhra-has-more-obese-men-among-large-states-kerala-tops-among-women/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/SouthernKey.jpeg",
+      "scraped_at": "2026-05-30 21:32:19.905721",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "The National Family Health Survey-6 (NFHS-6) revealed that **Andhra Pradesh** has the highest prevalence of overweight or obese men among large Indian states, with 47.9% of men aged 15 to 49 years classified as such.  Kerala leads in female obesity prevalence, with 46.7% of women in that age group classified as overweight or obese. The survey highlights a growing obesity burden across southern states, with rising prevalence in both urban and rural areas, raising concerns over lifestyle-related diseases. Public health experts have warned that obesity is becoming a widespread challenge across rural India as well.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 62871,
+      "title": "DK Shivakumar To Be Sworn In As Karnataka CM On June 3 | OdishaBytes",
+      "url": "https://odishabytes.com/dk-shivakumar-to-be-sworn-in-as-karnataka-cm-on-june-3/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/DK-Shivakumar.webp",
+      "scraped_at": "2026-05-30 21:32:16.583017",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**Siddaramaiah** resigned as chief minister of **Karnataka**, paving the way for **DK Shivakumar** to become the new leader of the **Congress Legislative Party**.  The formal election took place on Saturday with **Shivakumar** being elected by a unanimous vote from the CLP. He will be sworn in as the next **Karnataka** chief minister on June 3rd. The focus now shifts to selecting deputy chief ministers under **Shivakumar**.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 62860,
+      "title": "Reported spousal violence declines across India, but rises sharply in Kerala: NFHS-6 - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/karnataka/reported-spousal-violence-declines-across-india-but-rises-sharply-in-kerala-nfhs-6/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/11/Violence-against-women.-Representative-image.-iStock.jpg",
+      "scraped_at": "2026-05-30 21:32:05.694706",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The National Family Health Survey (NFHS-6) reveals a mixed picture of spousal violence against married women in India. While the national rate declined from 29.2% to 22.3%, Kerala saw a sharp increase, while Telangana remained among the worst-affected states with 30.8% reporting abuse.  **Karnataka** recorded one of the steepest declines, falling from 44.4% to 14.1%. The survey also found a rural-urban divide in domestic violence, with higher rates in rural areas across most states. Despite improvements nationwide, **Telangana**, **Bihar**, and **Uttar Pradesh** continue to have alarmingly high levels of spousal violence.  The survey also examined sexual violence before the age of 18 among young women aged 18-29, revealing a national decline from 1.2% to 0.7%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Goa",
+        "Haryana",
+        "Karnataka",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 62854,
+      "title": "D K Shivakumar elected Cong Legislature Party leader, set to be new Karnataka CM",
+      "url": "https://www.greaterkashmir.com/national/d-k-shivakumar-elected-cong-legislature-party-leader-set-to-be-new-karnataka-cm-11890752",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/d-k-shivakumar-2026-05-30-18-40-22.jpeg",
+      "scraped_at": "2026-05-30 21:31:55.914120",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D K Shivakumar",
+      "rephrased_article": "**D K Shivakumar** was elected leader of the legislature party in **Karnataka**, paving the way for him to become the state's next chief minister.  **Siddaramaiah**, the outgoing chief minister, proposed **Shivakumar's** name and the meeting unanimously endorsed it.  The CLP meeting took a ten-minute break with top leaders including **Siddaramaiah**, **KC Venugopal**, and **Randeep Singh Surjewala** in a separate room.  **Shivakumar** will be sworn in as the new CM on June 3rd.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62842,
+      "title": "DK Shivakumar elected CLP chief, to take charge as Karnataka CM on 3 June - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/karnataka/dk-shivakumar-elected-clp-chief-to-succeed-siddaramaiah-as-karnataka-cm/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/DKS_CLP.jpg",
+      "scraped_at": "2026-05-30 21:31:43.418797",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**DK Shivakumar** was invited by **Governor Thaawarchand Gehlot** to take the oath of office as Karnataka's 18th Chief Minister.  The Congress Legislature Party (CLP) unanimously elected **Shivakumar** as its leader on May 30, after he staked a claim to form the government and moved a resolution thanking former Chief Minister **Siddaramaiah** for his service. **Surjewala** and **Venugopal**, AICC general secretaries, attended the CLP meeting at the Vidhana Soudha.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62824,
+      "title": "Karnataka: Amid hectic discussions, curiosity grows over new Cabinet formation - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-amid-hectic-discussions-curiosity-grows-over-new-cabinet-formation/article71041435.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/81ni43/article71041918.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000284B.jpg",
+      "scraped_at": "2026-05-30 20:18:13.140464",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**D.K. Shivakumar**, the newly elected Chief Minister of Karnataka, is expected to form a Cabinet with 8 to 10 members sworn in on June 3rd. The composition will prioritize representation from major castes and communities within the ruling **Congress**. A full Cabinet is anticipated after elections for four Rajya Sabha seats and seven Legislative Council seats on June 18th.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 62823,
+      "title": "Karnataka: Foundation stone-laying for KPS, mega PTM on school opening day cancelled owing to political climate - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-foundation-stone-laying-for-kps-mega-ptm-on-school-opening-day-cancelled-owing-to-political-climate/article71041169.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3sbjf9/article71041959.ece/alternates/LANDSCAPE_1200/IMG_TH_-_GOVT_SCHOOL_2_1_4KDSHP3N.jpg",
+      "scraped_at": "2026-05-30 20:17:45.139699",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Karnataka Government",
+      "rephrased_article": "**Schools in Karnataka** will reopen on Monday, June 1st. The **Department of School Education and Literacy (DSEL)** has cancelled the foundation stone-laying ceremony for the **Karnataka Public School (KPS)** in Shivamogga due to the Cabinet dissolution following the resignation of the Chief Minister.  The planned mega parents-teachers meeting (PTM) with the outgoing Chief Minister, featuring live interaction with students and parents through video conference in all schools across the state, has also been cancelled.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62822,
+      "title": "From collapse to comeback: Tungabhadra dam in Karnataka gets new lease of life - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/from-collapse-to-comeback-tungabhadra-dam-in-karnataka-gets-new-lease-of-life/article70958961.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/addtol/article70987331.ece/alternates/LANDSCAPE_1200/Irrigation-workGFDFM7TN7.3.jpg.jpg",
+      "scraped_at": "2026-05-30 20:17:17.830160",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Tungabhadra Dam",
+      "rephrased_article": "A catastrophic breach of **Crest Gate No. 19** at the Tungabhadra Dam near Hosapete, Karnataka, on August 10, 2024, caused a massive release of water, threatening irrigation for thousands of farmers in the region. The incident occurred as the reservoir was at its full capacity, with nearly 35,000 cusecs of water gushing uncontrollably through the damaged bay. Engineers worked to open additional gates to alleviate pressure on the structure while concerns grew about potential downstream impacts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 62811,
+      "title": "Four in 10 cancer cases in Karnataka linked to tobacco use, shows Kidwai data - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/four-in-10-cancer-cases-in-karnataka-linked-to-tobacco-use-shows-kidwai-data/article71042109.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/agsnse/article71042458.ece/alternates/LANDSCAPE_1200/_DSC5312.jpg",
+      "scraped_at": "2026-05-30 18:49:04.984607",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "tobacco use",
+      "rephrased_article": "**The State-run Kidwai Memorial Institute of Oncology (KMIO)** in Karnataka estimates that nearly 40% of new cancer cases in the state will be linked to tobacco use by 2025.  This projection, which accounts for 10,004 deaths from cancer in 2025, highlights the significant impact of tobacco on cancer rates and mortality in the state. **World No Tobacco Day** is approaching on Sunday.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 62808,
+      "title": "Ahead of possible Cabinet reshuffle, community representatives back their leaders for top posts - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/ahead-of-possible-cabinet-reshuffle-community-representatives-back-their-leaders-for-top-posts/article71042096.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 18:47:50.443897",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Dashrat Kalgurti**, leader of the **Karnataka Rajya Madiga Samaj**, urged the **Congress** leadership to appoint **K.H. Muniyappa** as Deputy Chief Minister and **R.B. Timmapur** as Home Minister in the upcoming cabinet reshuffle, emphasizing the need for greater representation of **Scheduled Castes** and other backward communities in key positions.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 62804,
+      "title": "Youth must believe in their potential, says Sharanbasappa Pappa - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/youth-must-believe-in-their-potential-says-sharanbasappa-pappa/article71042555.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 18:46:34.443257",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Sharanbasappa Pappa",
+      "rephrased_article": "**Sharanbasappa Pappa**, president of the **Kalyana Karnataka Chamber of Commerce and Industry (KKCCI)**, encouraged youth in the region to cultivate self-confidence and determination for success.  He praised the initiative of **Adhish Wali**, president of the **Rotary Club Bidar Silverstar**, who organized the two-day **Rise Kalyana Karnataka- an Educational Youth Summit 2026**. The summit featured a Mega Job Fair with over 50 companies, attracting more than 1,500 students and job aspirants.  **Tejasvi Surya**, MP for Bengaluru South, delivered a virtual address, alongside entrepreneurs **Karan Javali**, **Swathi Kulkarni**, and **Anilkumar Bidve**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
     {
       "id": 62779,
       "title": "D.K. Shivakumar meets Governor Gehlot, stakes claim to form new govt in Karnataka - The Hindu",
@@ -52,7 +447,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
         "Siddaramaiah"
       ],
@@ -4949,389 +5343,6 @@
         "foreign_policy",
         "farmer_agriculture",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 55494,
-      "title": "Karnataka Cabinet approves Integrated Satellite Township project in Bengaluru South district at a cost of ₹18,133 crore - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-approves-integrated-satellite-township-project-in-bengaluru-south-district-at-a-cost-of-18133-crore/article70926013.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ugutxi/article70926215.ece/alternates/LANDSCAPE_1200/_DSC4637.JPG",
-      "scraped_at": "2026-04-30 18:25:12.720657",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka government",
-      "rephrased_article": "The **Karnataka** government approved a ₹18,133 crore Integrated Satellite Township project in Bengaluru South district, which will involve acquiring 7,404 acres of land from nine villages. The Cabinet also gave its approval to the Hyderabad-Bengaluru High Speed Rail Corridor and provided administrative support for the Chennai-Bengaluru high speed rail corridor. Additionally, the government approved a ₹600 crore project for the redevelopment of slums inhabited by minorities across 11 corporations in the state.",
-      "party_mentioned": [
-        "INC"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru",
-        "Hyderabad",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 55488,
-      "title": "KEERA to be established for structural reforms in engineering education: Minister - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/keera-to-be-established-for-structural-reforms-in-engineering-education-minister/article70925072.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/78cgfo/article70926213.ece/alternates/LANDSCAPE_1200/Dr%20M%20C%20Sudhakar.JPEG",
-      "scraped_at": "2026-04-30 18:23:24.858867",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka government",
-      "rephrased_article": "**The Karnataka government** has decided to establish the **Karnataka Engineering Education Reform Authority (KEERA)**, following recommendations from an Expert Committee on Reforms in Technical Education. The committee, led by former director of **IIIT-B**, S. Sadagopan, proposed structural reforms for engineering education.  The government plans to bring separate legislation to establish KEERA and will discuss the matter soon.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 55474,
-      "title": "Bowring tragedy: CM orders suspension of official, Lokayukta takes up inquiry, police file only UDR - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bowring-tragedy-chief-minister-siddaramaiah-orders-suspension-of-executive-engineer-concerned/article70924466.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/lx2e0o/article70925005.ece/alternates/LANDSCAPE_1200/Internal-quota_GHMFS3FN6.3.jpg.jpg",
-      "scraped_at": "2026-04-30 17:06:02.557768",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "Bowring and Lady Curzon Hospital",
-      "rephrased_article": "Following the tragic collapse of a compound wall at **Bowring and Lady Curzon Hospital**, which killed seven people, **Chief Minister Siddaramaiah** ordered the suspension of the executive engineer involved and directed a notice to be issued to the hospital authorities. The **Lokayukta** has registered a suo motu case and initiated an inquiry into the incident.  The **Bengaluru City Police** filed an Unnatural Death Report (UDR) but have not yet registered an FIR against any authorities for alleged negligence. An investigation is underway to determine the cause of the collapse, with experts from the Public Works Department and the India Meteorological Department consulted.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Karnataka",
-        "Kerala"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "health",
-        "education"
-      ]
-    },
-    {
-      "id": 55427,
-      "title": "Bengaluru weather highlights: Orange alert issued for Bengaluru, south Karnataka districts; traffic police release advisory for commuters - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-bangalore-rains-live-updates-april-30-2026-thursday/article70923159.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/5fh00c/article70923230.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-30%20at%2010.04.01.jpeg",
-      "scraped_at": "2026-04-30 13:10:37.986122",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "IMD",
-      "rephrased_article": "**CM Siddaramaiah** visited injured individuals after a portion of the Bowring and Lady Curzon Hospital compound wall collapsed in Shivajinagar, killing seven people.  The **Medical Education Minister Sharanprakash R. Patil** ordered safety audits for government hospital buildings. The **India Meteorological Department (IMD)** issued an orange alert for Bengaluru, urging caution from motorists due to heavy rainfall.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "health",
-        "education"
-      ]
-    },
-    {
-      "id": 55189,
-      "title": "‘Exporters in Karnataka and other States will benefit from IMEC amid West Asia crisis’ - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/exporters-in-karnataka-and-other-states-will-benefit-from-imec-amid-west-asia-crisis/article70921598.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-29 16:20:45.638117",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "IMEC",
-      "rephrased_article": "**Kotraswamy M.**, Commissioner of Central Tax, Bengaluru North, observed that the **India-Middle East-Europe Economic Corridor (IMEC)** is gaining momentum as an alternative to choke points like the Suez Canal and Strait of Hormuz, benefiting Indian exporters.  He highlighted GST relief measures such as zero-rated supplies and streamlined refund mechanisms, which are boosting export liquidity and easing working capital pressures. Prince Mehra, Deputy Manager at **EXIM Bank**, noted that Karnataka is a top 4 exporter in India, contributing significantly to the country's merchandise exports. He emphasized Karnataka's strong growth potential and its ranking in the NITI Aayog Export Preparedness Index.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 55069,
-      "title": "What you need to know about Karnataka’s Rohith Vemula Bill - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/what-you-need-to-know-about-karnatakas-rohith-vemula-bill/article70916012.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1aq21o/article70919035.ece/alternates/LANDSCAPE_1200/04hyng_Rohith%20Vemula%2009.jpg",
-      "scraped_at": "2026-04-29 04:57:38.164701",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka government",
-      "rephrased_article": "The **Karnataka** government approved the revised **Karnataka Rohith Vemula (Prevention of Discrimination, Exclusion or Injustice) (Right to Education and Dignity) Bill, 2026**, after months of discussions. The bill aims to protect the rights of students, faculty, and staff from scheduled castes and tribes by guaranteeing equal access to education in all higher educational institutions across the state.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 54844,
-      "title": "Internal reservation: Nomadic and micro communities to question latest matrix in Karnataka HIgh Court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/internal-reservation-nomadic-and-micro-communities-to-question-latest-matrix-in-karnataka-high-court/article70913177.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ya0y0x/article70913735.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_ORFTC5M1.jpg",
-      "scraped_at": "2026-04-28 01:24:03.593334",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "None",
-      "rephrased_article": "**Federation of Untouchable Nomadic Communities of Karnataka** members have decided to continue their legal fight for a separate category in internal reservation, challenging the latest Cabinet decision. The group will file additional petitions in the **High Court of Karnataka**, following their loss of an opportunity for a separate category.  The group plans to hold a convention in Bengaluru during the last week of May to present their demands.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54818,
-      "title": "Residents urge BMRCL to include ‘Bilekahalli’ in IIMB metro station name on Bengaluru’s Pink Line metro - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/residents-urge-bmrcl-to-include-bilekahalli-in-iimb-metro-station-name-on-bengalurus-pink-line-metro/article70912092.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/geu1vy/article70913267.ece/alternates/LANDSCAPE_1200/_DSC8572.JPG",
-      "scraped_at": "2026-04-27 23:36:25.480182",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "BMRCL",
-      "rephrased_article": "**Residents** in south Bengaluru have written to **Bangalore Metro Rail Corporation Limited (BMRCL)**, urging them to rename the upcoming “IIMB” metro station on the Pink Line as “IIMB–Bilekahalli” to recognize the locality’s identity.  The residents argue that naming the station solely after an institution risks overlooking the cultural context of the area and propose a name that balances modern infrastructure with local heritage. While **BMRCL** has received the letter, they confirmed that renaming a metro station involves a detailed procedure and requires approval from both state and central governments. This issue reflects a larger trend in Bengaluru where renaming metro stations is becoming increasingly contentious.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah",
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 54813,
-      "title": "Bengaluru to host pan-India IIT summit on May 16 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-host-pan-india-iit-summit-on-may-16/article70913118.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qv8fbz/article70913616.ece/alternates/LANDSCAPE_1200/_KMK9641.JPG",
-      "scraped_at": "2026-04-27 23:35:16.259086",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "IIT",
-      "rephrased_article": "**The Government of Karnataka**, in partnership with the **Pan-IIT Alumni India Association**, will host the Pan-IIT Bangalore Summit 2026 on May 16th. The conference, themed around \"Technology Sovereignty,\" aims to bring together 2,000 participants from across 23 IITs and other stakeholders like policy makers, technology leaders, startup founders, and investors.  The summit will feature high-level plenaries, panels, and tracks on AI, defense, semiconductors, energy, mobility, and healthcare, as well as a pitch-a-thon for startups and a hackathon to tackle real-world challenges. The event is intended to foster collaboration between academia, industry, and government to drive India's technological advancement.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "education",
-        "economy"
-      ]
-    },
-    {
-      "id": 54713,
-      "title": "Citizens, NGOs step in to quench the thirst of urban animals - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/citizens-ngos-step-in-to-quench-the-thirst-of-urban-animals/article70913060.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/x0lob7/article70913415.ece/alternates/LANDSCAPE_1200/1000112621.JPG",
-      "scraped_at": "2026-04-27 16:15:42.443029",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Animal welfare activists",
-      "rephrased_article": "**Animal welfare activists** in **Bengaluru** are taking initiative to address the heatwave's impact on urban animals.  **Sampige Foundation**, **People for Animals (PFA)**, and **Water for Voiceless (WFV)** have distributed thousands of water bowls across the city, partnering with local organizations and educational institutions to raise awareness about animal hydration during the summer months. These NGOs are also working to replenish natural water sources in forests to prevent wildlife from venturing out into human-dominated areas.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health"
-      ]
-    },
-    {
-      "id": 54683,
-      "title": "BJP stages protest against Kharge’s remarks on Modi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bjp-stages-protest-against-kharges-remarks-on-modi/article70912523.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8vnyel/article70912763.ece/alternates/LANDSCAPE_1200/10258_27_4_2026_18_58_48_1_KLB_BJP_PROTEST_1.JPEG",
-      "scraped_at": "2026-04-27 14:07:37.006668",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Mallikarjun Kharge",
-      "rephrased_article": "**BJP Yuva Morcha** members in Kalaburagi protested against **AICC president Mallikarjun Kharge's** remarks calling **Prime Minister Narendra Modi** a \"terrorist.\" The protesters demanded an apology from **Mr. Kharge**, criticizing his derogatory statement and the Congress' opposition to the Women's Reservation Bill (Nari Shakti Bill).  The protest march, led by **Virendra Patil Raikod**, included several prominent BJP leaders including **Basavaraj Mattimod** and **Rajkumar Patil Telkur**.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54603,
-      "title": "AHINDA has brought political benefits to Congress: Minister - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/ahinda-has-brought-political-benefits-to-congress-minister/article70908941.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/gnee5n/article70909528.ece/alternates/LANDSCAPE_1200/9727_26_4_2026_20_9_10_1_27BGMSJAHINDAHUBLI1.JPEG",
-      "scraped_at": "2026-04-26 22:12:03.682180",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Minister Satish Jarkiholi** spoke at a symposium celebrating the 25th anniversary of the **AHINDA** organization, emphasizing its role in strengthening the Congress and advocating for the interests of exploited communities. He stated that AHINDA aims to bring all deprived communities under one umbrella and will hold various programs throughout the year.  Retired High Court judge H.N. Nagamohan Das also spoke at the event, urging members to remain active and ensure their struggles are clear and guided by morality.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54501,
-      "title": "NCB launches ‘Operation WIPE’ to crack down on online drug trafficking networks - The Hindu",
-      "url": "https://www.thehindu.com/news/national/ncb-launches-operation-wipe-to-crack-down-on-online-drug-trafficking-networks/article70908690.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-26 15:54:58.625670",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "NCB",
-      "rephrased_article": "The **Narcotics Control Bureau (NCB)** launched “Operation WIPE” to combat the illegal sale and distribution of pharmaceutical drugs on online platforms. The initiative, which stands for “Web-based Illicit Activities Prevention & Enforcement”, has identified 122 instances involving 62 substances, with a focus on those regulated under the NDPS Act.  **IndiaMART**, **TradeIndia**, and **Dial4Trade** have taken corrective measures following verification of flagged products and suspicious vendors. The NCB is collaborating with international partners like the **International Narcotics Control Board** and the **US Drug Enforcement Administration (DEA)** to proactively monitor online platforms for illicit activities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 54500,
-      "title": "Medical Education Department keen on 15% NRI quota in all government medical colleges - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/medical-education-department-keen-on-15-nri-quota-in-all-government-medical-colleges/article70908566.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9y52hq/article70909300.ece/alternates/LANDSCAPE_1200/_DSC4491.jpg",
-      "scraped_at": "2026-04-26 15:54:34.986099",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "Medical Education Department, Karnataka",
-      "rephrased_article": "**The Medical Education Department, Karnataka**, plans to reserve 15% of all seats in its 24 government medical colleges for NRIs starting in the academic year 2026-27. This move aims to make these colleges self-sufficient and reduce reliance on state grants. The department will submit a proposal to the government soon, with the final decision expected to be made by the Cabinet.  Private colleges currently charge around ₹40 lakh to ₹47 lakh per annum for NRI quota seats, while the government has set a fee of ₹25 lakh per annum for NRI quota seats in 2025-26.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 54484,
-      "title": "Govt. to restore 10th century Siddheswara Swamy temple in Nellore district - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-to-restore-10th-century-siddheswara-swamy-temple-in-nellore-district/article70908765.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2lm64k/article70909058.ece/alternates/LANDSCAPE_1200/10215_26_4_2026_19_0_30_1_WHATSAPPIMAGE2026_04_26AT65520PM.JPEG",
-      "scraped_at": "2026-04-26 14:57:43.329933",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Andhra Pradesh** Minister for Endowments, Anam Ramanarayana Reddy, visited the 10th century **Siddheswara Swamy temple** at Krishnapatnam Port area with officials from various states and the **Archaeological Survey of India (ASI)** to inspect its heritage status and discuss development plans. The visit included representatives from Andhra Pradesh, Karnataka, Tamil Nadu, and Telangana.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Karnataka",
-        "Tamil Nadu",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure"
       ]
     }
   ]

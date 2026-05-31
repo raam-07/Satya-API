@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.236871",
+  "generated_at": "2026-05-31 00:16:45.662464",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,20 +8,20 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 197,
+    "total_articles": 199,
     "articles_last_30d": 74
   },
   "top_cities_30d": {
     "Delhi": 10,
     "Kolkata": 9,
+    "Mumbai": 2,
     "Chennai": 2,
-    "Mumbai": 1,
     "Varanasi": 1,
     "Bengaluru": 1,
     "Meerut": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 62,
+    "foreign_policy": 61,
     "protest_opposition": 33,
     "education": 22,
     "infrastructure": 21,
@@ -30,9 +30,45 @@
     "farmer_agriculture": 11,
     "health": 4,
     "corruption_scam": 3,
-    "rape_sexual_crime": 1
+    "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 62860,
+      "title": "Reported spousal violence declines across India, but rises sharply in Kerala: NFHS-6 - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/karnataka/reported-spousal-violence-declines-across-india-but-rises-sharply-in-kerala-nfhs-6/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/11/Violence-against-women.-Representative-image.-iStock.jpg",
+      "scraped_at": "2026-05-30 21:32:05.694706",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The National Family Health Survey (NFHS-6) reveals a mixed picture of spousal violence against married women in India. While the national rate declined from 29.2% to 22.3%, Kerala saw a sharp increase, while Telangana remained among the worst-affected states with 30.8% reporting abuse.  **Karnataka** recorded one of the steepest declines, falling from 44.4% to 14.1%. The survey also found a rural-urban divide in domestic violence, with higher rates in rural areas across most states. Despite improvements nationwide, **Telangana**, **Bihar**, and **Uttar Pradesh** continue to have alarmingly high levels of spousal violence.  The survey also examined sexual violence before the age of 18 among young women aged 18-29, revealing a national decline from 1.2% to 0.7%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Goa",
+        "Haryana",
+        "Karnataka",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 62787,
       "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
@@ -5880,8 +5916,7 @@
         "NDA"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Assam"
@@ -5912,12 +5947,9 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
         "Mamata Banerjee",
-        "Mamata",
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Assam",
@@ -5949,14 +5981,41 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Assam"
       ],
       "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 45933,
+      "title": "Assembly Elections LIVE: AIADMK releases second list of candidates, retains 30 sitting legislators - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-tamil-nadu-west-bengal-puducherry-2026-live/article70795253.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xejn2i/article70795371.ece/alternates/LANDSCAPE_1200/PTI03_25_2026_000362A.jpg",
+      "scraped_at": "2026-03-28 05:04:26.167344",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "AIADMK",
+      "rephrased_article": "**AIADMK** released its second list of 127 candidates for the upcoming Tamil Nadu Assembly election, bringing their total to 150.  The party's candidate P. Saravanan, who contested in 2021 as a BJP nominee, is running again from the same Madurai (North) seat. **Tamilaga Vettri Kazhagam** president Vijay accused the Greater Chennai Police of obstructing his campaign and termed it a \"fascist attack on democracy.\" The Election Commission published the second supplementary list for West Bengal but did not provide details on deletions or inclusions.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Madurai"
+      ],
       "topic_tags": []
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.143489",
+  "generated_at": "2026-05-31 00:16:45.574895",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,17 +7,17 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 15763,
-    "articles_last_7_days": 1526,
-    "articles_last_30_days": 6340,
-    "civic_flags_last_30_days": 48,
-    "civic_flags_today": 4
+    "total_articles_classified": 16059,
+    "articles_last_7_days": 1582,
+    "articles_last_30_days": 6395,
+    "civic_flags_last_30_days": 53,
+    "civic_flags_today": 9
   },
   "civic_alert": {
-    "flagged_count_30d": 48,
-    "flagged_today": 4,
+    "flagged_count_30d": 53,
+    "flagged_today": 9,
     "top_flag_categories": {
-      "power_abuse": 36,
+      "power_abuse": 41,
       "scale_of_harm": 8,
       "institutional_failure": 3,
       "suppression": 1
@@ -25,285 +25,309 @@
   },
   "top_stories": [
     {
-      "id": 62787,
-      "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
-      "url": "https://www.thehindu.com/news/national/fair-electoral-rolls-lead-to-fair-polls-cec/article71042152.ece",
+      "id": 62890,
+      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/traffic-constables-act-of-kindness-amid-flooded-road-wins-hearts-online/article71042485.ece",
       "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/utu797/article71030106.ece/alternates/LANDSCAPE_1200/Gyanesh_kumar_07.JPG",
-      "scraped_at": "2026-05-30 17:19:33.524972",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 21:33:06.304454",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Narasimha Naik**, a former **BJP** MLA, stated that the **Congress** will face a setback in the 2028 Assembly elections without outgoing Chief Minister Siddaramaiah.  He expressed disappointment over Mr. Siddaramaiah's resignation and believes it will be a challenge for the new leader, **D.K. Shivakumar**, to lead the party effectively. Naik compared this situation to former Chief Minister B.S. Yediyurappa's resignation, suggesting that the **Congress** will face similar consequences.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 62889,
+      "title": "True Gen-Z defined by both its culture and contribution towards nation building: BJP president Nitin Nabin | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/sports/football/psg-crowned-uefa-champions-league-winners-arsenal-crumble-in-penalty-shootout-10716248/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Nitin-3col.jpg",
+      "scraped_at": "2026-05-30 21:33:02.930858",
       "category": "politics",
       "sentiment": "positive",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Chief Election Commissioner (CEC) Gyanesh Kumar** stated that fair electoral rolls are essential for fair elections, highlighting India's current state in this regard. **Kumar** praised the role of Booth Level Officers and Booth Level Agents in electoral roll management during his inaugural speech at the second National Conference of Counsels representing the **Election Commission of India**. He also congratulated electors from Assam, Kerala, Puducherry, Tamil Nadu, and West Bengal for their historic participation in recent Assembly elections.",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**BJP** national president Nitin Nabin addressed concerns about India's Gen Z, calling for an open debate on its definition and contribution to nation building.  He emphasized the need to guide this energy in a positive direction, citing examples of youth-led movements in neighboring countries that have led to instability. Nabin also cautioned against labeling young people as \"anti-establishment\" and highlighted the importance of nurturing their potential for progress. He stressed the role of the government in providing direction and support for India's youth, particularly in areas like employment and education.",
       "party_mentioned": [
-        "National Conference"
+        "BJP",
+        "Samajwadi Party",
+        "BSP"
       ],
-      "ministers_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
       "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry"
+        "Bihar",
+        "Uttarakhand",
+        "Delhi",
+        "Kashmir"
       ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 62885,
+      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-will-face-setback-in-2028-assembly-elections-former-bjp-mla-narasimha-naik/article71041874.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 21:32:51.714766",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Narasimha Naik**, former **BJP** MLA, claims that the **Congress** will face a setback in the 2028 Assembly elections without outgoing Chief Minister **Siddaramaiah**.  He argues that **Siddaramaiah's** forced resignation weakens the party and presents challenges for new leader **D.K. Shivakumar**. Naik believes this situation mirrors the impact of former Chief Minister **B.S. Yediyurappa's** resignation, suggesting a potential victory for the **BJP** in 2028.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": []
     },
     {
-      "id": 62786,
-      "title": "Mob attacks Trinamool leader Abhishek Banerjee; Mamata blames it on BJP - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/tmc-abhishek-banerjee-manhandled-eggs-stones-thrown-bengal-post-poll-violence-visit/article71041375.ece",
+      "id": 62883,
+      "title": "Firing incident indicates deteriorating law and order, says Pralhad Joshi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/firing-incident-indicates-deteriorating-law-and-order-says-pralhad-joshi/article71042217.ece",
       "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1e0w9p/article71041551.ece/alternates/LANDSCAPE_1200/20260530251L.jpg",
-      "scraped_at": "2026-05-30 17:19:07.366087",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was attacked by a mob in Sonarpur, West Bengal on Saturday. The attack occurred during his visit to the residence of a party worker allegedly killed in post-poll violence.  The mob threw eggs and shoes at **Banerjee** as security personnel attempted to shield him from the crowd chanting \"chor chor\" (thief thief).",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "education",
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62784,
-      "title": "West Bengal Cabinet expansion on June 1 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-expansion-on-june-1/article71042329.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/z7rsqj/article71042490.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000232A.jpg",
-      "scraped_at": "2026-05-30 17:18:14.296598",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Suvendu Adhikari**, the West Bengal Chief Minister, is expected to expand his Cabinet on June 1st and allocate key portfolios to senior **BJP** leaders. The first **BJP** Cabinet in the state will likely have over 30 members, with names announced after approval from the party's central leadership.  The selection criteria for the new ministers will consider seniority, regional representation, and experience, aiming to ensure inclusion of Scheduled Castes, Scheduled Tribes, women, and representatives from northern and south western Bengal. The Cabinet expansion follows **Adhikari**'s recent swearing-in as a Minister and his oversight of 42 state departments.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62783,
-      "title": "Senior Sri Lankan monk suspended over child sex abuse allegation | Crime News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260509__B2BV2NQ__v1__HighRes__FilesSriLankaBuddhismChildrenArrest-1778323721.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-30 17:17:50.395898",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 21:32:46.478194",
       "category": "crime",
       "sentiment": "negative",
-      "sentiment_target": "Pallegama Hemarathana",
-      "rephrased_article": "**Pallegama Hemarathana**, a senior Sri Lankan monk, has been suspended from his duties after being accused of sexually abusing an 11-year-old girl in 2022. The **Council of Monks of the Malwatte Chapter** took this rare disciplinary action following police arrest on May 9th. Hemarathana was detained at a private hospital in Colombo while awaiting legal proceedings.  The temple, where the alleged abuse occurred, draws thousands of visitors daily and is considered sacred to Buddhists.",
+      "sentiment_target": "Dharwad Police",
+      "rephrased_article": "**Union Minister Pralhad Joshi** expressed concern over the deteriorating law and order situation in **Dharwad**, citing a recent firing incident as an example. He alleged involvement of high-level officials, including police officers, in the case due to their failure to arrest the prime suspect, **Sundar Pal**.  Joshi also criticized the police for not including the accused's name in the FIR until media reports prompted action.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "rape_sexual_crime",
-        "foreign_policy"
+        "corruption_scam",
+        "crime_violence"
       ]
     },
     {
-      "id": 62782,
-      "title": "Defence Minister inaugurates ‘Nausena Shaurya Vatika’ in Lucknow - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/indian-navy-confined-entire-pakistan-navy-to-its-ports-during-operation-sindoor-defence-minister-rajnath-singh/article71040901.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/480z10/article71040906.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000342A.jpg",
-      "scraped_at": "2026-05-30 17:17:28.732302",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Navy",
-      "rephrased_article": "**Rajnath Singh**, **Yogi Adityanath**, and others jointly inaugurated the ‘Nausena Shaurya Vatika’, an open-air naval museum in Lucknow, Uttar Pradesh.  The museum is a second phase of the Nausena Shaurya Sangrahalaya, showcasing the Indian Navy's history and valor. **Singh** praised the Navy's role in Operation Sindoor, highlighting its pressure on Pakistan during the operation. He also commended the progress of Uttar Pradesh under **Adityanath**, attributing it to strong law and order and a shift from \"goonda raj\" to a focus on development and investment.",
-      "party_mentioned": [],
+      "id": 62881,
+      "title": "INDIA Bloc Revival In Bengal? Support For Mamata Banerjee Over Nephew's Assault",
+      "url": "https://www.ndtv.com/india-news/india-revival-in-bengal-support-for-mamata-banerjee-over-nephews-assault-11569753#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-01/pc6t8224_mamata-banerjee_160x120_05_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-30 21:32:40.041062",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Despite losing the Bengal election, **Mamata Banerjee**'s stature within the **INDIA** bloc remains strong. Opposition leaders condemned the assault on her nephew, **Abhishek Banerjee**, by a mob in Sonarpur, South 24 Parganas.  **Mallikarjun Kharge**, **Akhilesh Yadav**, and **Arvind Kejriwal** accused the BJP of fostering political violence, while the ruling party denied involvement and blamed the TMC for mischaracterizing public anger. The incident has led to calls for stronger law-and-order measures in West Bengal.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party"
+      ],
       "ministers_mentioned": [
-        "Rajnath Singh",
-        "Yogi Adityanath",
-        "Yogi"
+        "Arvind Kejriwal",
+        "Mamata Banerjee",
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
-        "Uttar Pradesh"
+        "West Bengal"
       ],
-      "cities_mentioned": [
-        "Lucknow"
-      ],
+      "cities_mentioned": [],
       "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
+        "protest_opposition",
+        "foreign_policy",
+        "education",
+        "crime_violence"
       ]
     },
     {
-      "id": 62780,
-      "title": "‘Opposite visions’: What to know about Colombia’s presidential election | Elections News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a1737cdf06a-1779906510.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-30 17:16:47.389678",
+      "id": 62877,
+      "title": "Punjab civic polls: Early edge to Congress as counting proceeds amid tight security - India Today",
+      "url": "https://www.indiatoday.in/elections/municipal-corporation/story/punjab-local-body-election-result-2026-who-will-win-congress-bjp-aam-aaadmi-party-shiromani-akali-dal-2918944-2026-05-29?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/punjab-civic-elections-294817348-16x9_0.png?VersionId=I61vHUc1zwU6lXy_p._Bt0yFBGoJ6q2a",
+      "scraped_at": "2026-05-30 21:32:27.012334",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** is surging ahead in the early stages of counting for **Punjab's** civic body elections, with strong performances in several municipal wards.  The counting process began on Friday amidst heavy security deployment at multiple counting centers across the state. The AAP, BJP, and SAD are also contesting the elections, which are being viewed as a key indicator of the political mood ahead of next year's Assembly elections. A total of 7,555 candidates contested the election, with **Congress** leading in several wards.  The outcome is expected to serve as an important indicator of the political mood in Punjab ahead of the 2027 Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "SP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 62876,
+      "title": "'Enhancing Capabilities For China, Pakistan's 2-Front Challenge': Navy Chief",
+      "url": "https://www.ndtv.com/india-news/enhancing-capabilities-for-china-pakistans-2-front-challenge-navy-chief-11569983#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-12/po24amj4_navy-chief-admiral-dinesh-k-tripathi_625x300_02_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-30 21:32:22.362473",
       "category": "international",
       "sentiment": "neutral",
-      "sentiment_target": "Colombia's presidential election",
-      "rephrased_article": "The upcoming presidential election in Colombia is shaping up to be a contest between two opposing visions for the country's future. **Senator Ivan Cepeda**, leading the left-wing candidates, has emerged as the frontrunner, promising continuity with President Gustavo Petro’s policies while advocating for a \"Total Peace\" approach to resolving the country's internal conflict.  The right wing is facing a fractured field of candidates, including Abelardo de la Espriella and Paloma Valencia, who offer contrasting approaches to security and economic issues. De la Espriella advocates for a hardline security model, while Valencia proposes a more moderate approach with increased police presence and pro-business policies. The election will be crucial as it marks the first time Colombia has held a presidential election since its first leftist president took office.",
+      "sentiment_target": "Indian Navy",
+      "rephrased_article": "The **Indian Navy** has enhanced its anti-submarine warfare capabilities, underwater surveillance, and network-centric operations to counter potential threats from China and Pakistan.  **Admiral Dinesh K Tripathi**, the Navy Chief, stated that these efforts are not directed at any specific nation but aim to secure India's maritime interests. The **Indian Navy** is focusing on credible deterrence through technological integration, sustained presence, and operational readiness, including the acquisition of six stealth submarines under Project 75(I).  The **Navy** is also committed to achieving self-reliance in defense by building its own platforms and industrial capabilities.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "economy",
-        "corruption_scam"
+        "foreign_policy"
       ]
     },
     {
-      "id": 62779,
-      "title": "D.K. Shivakumar meets Governor Gehlot, stakes claim to form new govt in Karnataka - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-elected-leader-of-congress-legislative-party-in-karnataka/article71041528.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/oyz4d3/article71041898.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-30%20at%207.09.57%20PM.jpeg",
-      "scraped_at": "2026-05-30 17:16:25.430380",
+      "id": 62875,
+      "title": "Congress’s message to Siddaramaiah as DKS takes charge: Won’t allow you to rest - Karnataka News | India Today",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-new-chief-minister-dk-shivakumar-kc-venugopal-backs-siddaramaiah-national-level-2919738-2026-05-30?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/outgoing-karnataka-chief-minister-siddaramaiah-and-congress-leader-kc-venugopal-photo-pti-301446421-16x9_0.jpg?VersionId=LaODvILdWdPV8gb6ojhD8VucwZbS8NSl",
+      "scraped_at": "2026-05-30 21:32:22.009994",
       "category": "politics",
       "sentiment": "positive",
-      "sentiment_target": "D.K. Shivakumar",
-      "rephrased_article": "**D.K. Shivakumar**, the newly elected leader of the **Karnataka Pradesh Congress Committee**, will be sworn in as Chief Minister on Wednesday, June 3rd at Lok Bhavan. The event is expected to be attended by the central leadership of the party and Governor Thaawarchand Gehlot has invited him to take the oath at 4:05 p.m.  The power transition was overseen by **Mallikarjun Kharge**, **Rahul Gandhi**, and **Sonia Gandhi**.  With Cabinet formation still under discussion, speculation remains about whether a full Cabinet will be sworn in and if there will be deputy Chief Ministers.",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**Congress** general secretary **KC Venugopal** declared that the party will not allow former Karnataka Chief Minister Siddaramaiah to rest, urging him to continue playing an active role in both state and national politics.  After Siddaramaiah's resignation, **DK Shivakumar** was unanimously elected as the new CLP leader and formally named Karnataka’s next Chief Minister.  Siddaramaiah congratulated Shivakumar and called for a \"second freedom struggle\" to protect the country's unity and integrity. The Congress leadership expressed confidence that under Shivakumar's leadership, they will return to power in the 2028 elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62872,
+      "title": "Donald Trump’s daughter visits Taj Mahal",
+      "url": "https://www.greaterkashmir.com/national/donald-trumps-daughter-visits-taj-mahal-11890242",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/donald-trumps-daughter-visits-taj-mahal-2026-05-30-16-19-05.jpeg",
+      "scraped_at": "2026-05-30 21:32:16.974328",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Donald Trump",
+      "rephrased_article": "**Tiffany Trump**, daughter of **Donald Trump**, visited the Taj Mahal with her husband, **Michael Boulos**, on Saturday.  She toured the monument extensively and expressed interest in its history and architecture. Security was heightened for the visit, with a high-security corridor established from the airport to the Taj Mahal. After leaving the monument, she returned to her hotel with **Boulos** and will continue their India trip.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Agra"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62871,
+      "title": "DK Shivakumar To Be Sworn In As Karnataka CM On June 3 | OdishaBytes",
+      "url": "https://odishabytes.com/dk-shivakumar-to-be-sworn-in-as-karnataka-cm-on-june-3/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/DK-Shivakumar.webp",
+      "scraped_at": "2026-05-30 21:32:16.583017",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**Siddaramaiah** resigned as chief minister of **Karnataka**, paving the way for **DK Shivakumar** to become the new leader of the **Congress Legislative Party**.  The formal election took place on Saturday with **Shivakumar** being elected by a unanimous vote from the CLP. He will be sworn in as the next **Karnataka** chief minister on June 3rd. The focus now shifts to selecting deputy chief ministers under **Shivakumar**.",
       "party_mentioned": [
         "Congress"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul",
-        "Sonia Gandhi",
         "Siddaramaiah"
       ],
       "states_mentioned": [
         "Karnataka"
       ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62778,
-      "title": "Romania: Residents shaken after Russian drone strike",
-      "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/38ea/live/569278c0-5c43-11f1-b682-cf91850925ea.jpg",
-      "scraped_at": "2026-05-30 17:16:05.176561",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Russia",
-      "rephrased_article": "A Russian drone strike injured two people in a building near the Romanian-Ukrainian border, prompting fear among residents. **Romanian President Nicușor Dan** stated that the drone was likely intercepted by Ukrainian air defenses over Kyiv's territory, while **Moscow** disputed this claim.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62776,
-      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo | Ebola News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-30T141742Z_392713542_RC2NJLAAEV9W_RTRMADP_3_HEALTH-EBOLA-WHO-1780155069.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-30 17:15:24.296295",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Ebola outbreak",
-      "rephrased_article": "**WHO** director-general Tedros Adhanom Ghebreyesus visited the epicenter of a deadly Ebola outbreak in eastern Democratic Republic of Congo (DRC), urging community involvement in combating the disease. Confirmed cases nearly doubled in two days, reaching 225 on Friday, and the outbreak is spreading rapidly through conflict-hit regions. The **Africa CDC** reports global funding for the response has significantly decreased, while **Doctors Without Borders** warns that the response has not kept pace with the outbreak's severity.  The WHO is working to assess experimental drugs and a candidate vaccine, and regional countries are on alert, closing borders with DRC.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62775,
-      "title": "Is Melania Trump an 'alien'? Indian-origin attorney says White House's immigrant-bashing crosses line - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/is-melania-trump-an-alien-indian-origin-attorney-says-white-houses-immigrant-bashing-crosses-line/articleshow/131412130.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131412152,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-30 17:15:03.586885",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "White House",
-      "rephrased_article": "**Rahul Reddy**, an Indian-origin immigration attorney, criticized the use of the word \"alien\" by **the White House**, arguing that it is dehumanizing and fuels negative perceptions.  He pointed out that while the term is legal in immigration law, its usage by the White House creates a narrative that paints lawful immigrants as outsiders. Reddy questioned if **Melania Trump**, who was born in Slovenia, is also an alien, highlighting the hypocrisy of using such language when the President's own family has a history of immigration.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul"
+      "cities_mentioned": [
+        "Bengaluru"
       ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
+      "topic_tags": []
     }
   ],
   "category_breakdown_30d": {
-    "international": 602,
-    "crime": 121,
-    "politics": 190,
-    "environment": 58,
-    "economy": 184,
-    "health": 42,
-    "regional": 93,
-    "education": 37,
-    "sports": 37,
-    "other": 162
+    "international": 609,
+    "sports": 46,
+    "regional": 97,
+    "health": 47,
+    "politics": 210,
+    "other": 175,
+    "economy": 180,
+    "crime": 120,
+    "environment": 59,
+    "education": 39
   },
   "top_ministers_30d": {
-    "Narendra Modi": 218,
-    "Amit Shah": 116,
+    "Narendra Modi": 222,
+    "Amit Shah": 119,
     "C. Joseph Vijay": 101,
-    "Rahul Gandhi": 81,
-    "Mamata Banerjee": 64,
-    "M.K. Stalin": 50,
+    "Rahul Gandhi": 85,
+    "Mamata Banerjee": 69,
+    "M.K. Stalin": 51,
+    "Siddaramaiah": 39,
     "S. Jaishankar": 35,
-    "Mallikarjun Kharge": 32,
-    "Siddaramaiah": 31,
-    "Dharmendra Pradhan": 30,
-    "V.D. Satheesan": 29,
-    "Chandrababu Naidu": 29,
-    "Pinarayi Vijayan": 28,
-    "Revanth Reddy": 24,
-    "JP Nadda": 23,
-    "Yogi Adityanath": 17,
+    "Mallikarjun Kharge": 34,
+    "Dharmendra Pradhan": 31,
+    "Chandrababu Naidu": 31,
+    "Pinarayi Vijayan": 30,
+    "V.D. Satheesan": 30,
+    "Revanth Reddy": 25,
+    "JP Nadda": 25,
+    "Yogi Adityanath": 18,
     "Omar Abdullah": 15,
     "Devendra Fadnavis": 13,
     "Nitish Kumar": 13,
-    "Rajnath Singh": 11,
+    "Akhilesh Yadav": 11,
+    "Rajnath Singh": 10,
     "Hemant Soren": 9,
-    "Akhilesh Yadav": 9,
     "Eknath Shinde": 8,
     "Nirmala Sitharaman": 7,
+    "Priyanka Gandhi": 7,
+    "Arvind Kejriwal": 7,
     "Mohan Yadav": 6,
     "Sharad Pawar": 6,
-    "Priyanka Gandhi": 6,
-    "Arvind Kejriwal": 6,
     "Farooq Abdullah": 5,
     "Ashwini Vaishnaw": 5,
     "Piyush Goyal": 4,
@@ -316,85 +340,85 @@
     "PM Modi": 2,
     "Sukhvinder Singh Sukhu": 2,
     "Mayawati": 2,
+    "Bhupesh Baghel": 2,
     "Hardeep Singh Puri": 2,
     "Bhajanlal Sharma": 1,
-    "Bhupesh Baghel": 1,
     "Kiren Rijiju": 1,
     "Asaduddin Owaisi": 1,
     "Smriti Irani": 1
   },
   "top_parties_30d": {
-    "Congress": 532,
-    "BJP": 522,
-    "INC": 377,
-    "DMK": 159,
-    "TMC": 105,
-    "Trinamool": 85,
-    "CPI": 78,
-    "AIADMK": 71,
-    "CPM": 50,
-    "SAD": 45,
-    "SP": 44,
-    "TDP": 37,
+    "Congress": 539,
+    "BJP": 536,
+    "INC": 398,
+    "DMK": 160,
+    "TMC": 110,
+    "Trinamool": 89,
+    "CPI": 79,
+    "AIADMK": 73,
+    "CPM": 52,
+    "SP": 49,
+    "SAD": 46,
+    "TDP": 39,
     "NDA": 34,
-    "AAP": 29,
-    "National Conference": 27,
+    "AAP": 32,
+    "National Conference": 29,
+    "Samajwadi Party": 14,
     "JDU": 13,
     "JMM": 11,
-    "Samajwadi Party": 10,
-    "NCP": 10,
     "Shiv Sena": 10,
+    "NCP": 10,
     "Telugu Desam": 9,
     "PDP": 8,
     "Janata Dal": 8,
+    "BSP": 6,
     "UPA": 5,
-    "BSP": 4,
+    "YSRCP": 5,
     "RJD": 4,
     "INDIA Alliance": 4,
-    "YSRCP": 4,
     "Bahujan Samaj Party": 3,
+    "Akali Dal": 3,
     "Nationalist Congress": 3,
     "AIMIM": 2,
-    "Akali Dal": 2,
     "Jharkhand Mukti Morcha": 2,
     "Owaisi": 1
   },
   "top_states_30d": {
-    "Tamil Nadu": 273,
-    "Delhi": 256,
-    "Kerala": 254,
-    "Gujarat": 237,
-    "Karnataka": 185,
-    "West Bengal": 168,
-    "Punjab": 142,
-    "Telangana": 113,
-    "Andhra Pradesh": 97,
-    "Kashmir": 93,
-    "Uttar Pradesh": 81,
+    "Tamil Nadu": 278,
+    "Delhi": 273,
+    "Kerala": 264,
+    "Gujarat": 249,
+    "Karnataka": 200,
+    "West Bengal": 174,
+    "Punjab": 145,
+    "Telangana": 119,
+    "Andhra Pradesh": 103,
+    "Kashmir": 102,
+    "Uttar Pradesh": 85,
     "Maharashtra": 81,
     "Assam": 74,
-    "Odisha": 62,
-    "Bihar": 53,
-    "Rajasthan": 51,
-    "Madhya Pradesh": 44,
-    "Jammu": 39,
+    "Odisha": 65,
+    "Bihar": 56,
+    "Rajasthan": 54,
+    "Madhya Pradesh": 45,
+    "Jammu": 43,
     "Puducherry": 39,
-    "Himachal Pradesh": 35,
-    "Haryana": 31,
-    "Jammu and Kashmir": 25,
+    "Himachal Pradesh": 37,
+    "Haryana": 33,
+    "Jammu and Kashmir": 29,
     "Jharkhand": 20,
-    "Manipur": 20,
-    "Goa": 16,
-    "Uttarakhand": 15,
-    "Chhattisgarh": 15,
+    "Manipur": 19,
+    "Uttarakhand": 18,
+    "Goa": 18,
+    "Chandigarh": 18,
+    "Chhattisgarh": 16,
     "Andaman": 15,
-    "Chandigarh": 15,
     "Tripura": 14,
-    "Ladakh": 12,
+    "Ladakh": 13,
+    "Lakshadweep": 10,
     "Meghalaya": 9,
     "Andaman and Nicobar": 9,
     "Sikkim": 9,
-    "Lakshadweep": 8,
     "Mizoram": 7,
     "Nagaland": 7,
     "Arunachal Pradesh": 6,
@@ -404,6 +428,7 @@
     "total": 20,
     "kept": 2,
     "broken": 11,
-    "ongoing": 7
+    "ongoing": 6,
+    "void": 1
   }
 }

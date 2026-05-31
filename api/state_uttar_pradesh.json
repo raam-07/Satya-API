@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.340468",
+  "generated_at": "2026-05-31 00:16:45.762912",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,34 +8,215 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 220,
-    "articles_last_30d": 81
+    "total_articles": 227,
+    "articles_last_30d": 85
   },
   "top_cities_30d": {
-    "Delhi": 18,
-    "Lucknow": 13,
-    "Kolkata": 7,
+    "Delhi": 19,
+    "Lucknow": 14,
+    "Kolkata": 8,
     "Kanpur": 7,
+    "Mumbai": 5,
     "Agra": 4,
-    "Mumbai": 3,
+    "Meerut": 3,
     "Bengaluru": 2,
     "Ghaziabad": 2,
-    "Allahabad": 2,
-    "Meerut": 2
+    "Allahabad": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 68,
-    "protest_opposition": 27,
-    "crime_violence": 25,
-    "education": 22,
+    "foreign_policy": 69,
+    "protest_opposition": 29,
+    "crime_violence": 26,
+    "education": 24,
     "infrastructure": 20,
     "farmer_agriculture": 14,
     "economy": 10,
     "corruption_scam": 9,
     "health": 8,
-    "rape_sexual_crime": 1
+    "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 62881,
+      "title": "INDIA Bloc Revival In Bengal? Support For Mamata Banerjee Over Nephew's Assault",
+      "url": "https://www.ndtv.com/india-news/india-revival-in-bengal-support-for-mamata-banerjee-over-nephews-assault-11569753#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-01/pc6t8224_mamata-banerjee_160x120_05_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-30 21:32:40.041062",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Despite losing the Bengal election, **Mamata Banerjee**'s stature within the **INDIA** bloc remains strong. Opposition leaders condemned the assault on her nephew, **Abhishek Banerjee**, by a mob in Sonarpur, South 24 Parganas.  **Mallikarjun Kharge**, **Akhilesh Yadav**, and **Arvind Kejriwal** accused the BJP of fostering political violence, while the ruling party denied involvement and blamed the TMC for mischaracterizing public anger. The incident has led to calls for stronger law-and-order measures in West Bengal.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Mamata Banerjee",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62867,
+      "title": "The poet who shaped a filmmaker: Vishal Bhardwaj recalls a lifetime of friendship with Bashir Badr",
+      "url": "https://www.greaterkashmir.com/national/the-poet-who-shaped-a-filmmaker-vishal-bhardwaj-recalls-a-lifetime-of-friendship-with-bashir-badr-11890263",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/bashir-badr-2026-05-30-16-25-46.jpeg",
+      "scraped_at": "2026-05-30 21:32:12.962392",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Bashir Badr",
+      "rephrased_article": "**Vishal Bhardwaj**, a renowned filmmaker, mourns the passing of **Bashir Badr**, a celebrated Urdu poet.  Badr, who died at 91, was known for his profound impact on Bhardwaj's life and career. The two shared a deep bond that began in Meerut, where Bhardwaj was a student and Badr taught. Their friendship spanned decades, during which Bhardwaj learned from Badr's poetry and became a successful filmmaker.  Bhardwaj has honored Badr through his work, including incorporating his poems into films like \"Dedh Ishqiya\" and composing ghazals based on Badr's verses.  The two remained close even as Bhardwaj's career flourished in Mumbai, with Badr visiting him often and offering encouragement.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bhopal",
+        "Meerut"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 62860,
+      "title": "Reported spousal violence declines across India, but rises sharply in Kerala: NFHS-6 - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/karnataka/reported-spousal-violence-declines-across-india-but-rises-sharply-in-kerala-nfhs-6/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/11/Violence-against-women.-Representative-image.-iStock.jpg",
+      "scraped_at": "2026-05-30 21:32:05.694706",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The National Family Health Survey (NFHS-6) reveals a mixed picture of spousal violence against married women in India. While the national rate declined from 29.2% to 22.3%, Kerala saw a sharp increase, while Telangana remained among the worst-affected states with 30.8% reporting abuse.  **Karnataka** recorded one of the steepest declines, falling from 44.4% to 14.1%. The survey also found a rural-urban divide in domestic violence, with higher rates in rural areas across most states. Despite improvements nationwide, **Telangana**, **Bihar**, and **Uttar Pradesh** continue to have alarmingly high levels of spousal violence.  The survey also examined sexual violence before the age of 18 among young women aged 18-29, revealing a national decline from 1.2% to 0.7%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Goa",
+        "Haryana",
+        "Karnataka",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 62846,
+      "title": "Short: Indian Navy confined entire Pak Navy to its ports during Operation Sindoor: Rajnath",
+      "url": "https://www.greaterkashmir.com/national/short-indian-navy-confined-entire-pak-navy-to-its-ports-during-operation-sindoor-rajnath-11891217",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/indian-navy-confined-entire-pak-navy-to-its-ports-during-operation-sindoor-rajnath-2026-05-30-14-49-50.jpeg",
+      "scraped_at": "2026-05-30 21:31:46.373861",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Navy",
+      "rephrased_article": "**Defence Minister Rajnath Singh** inaugurated the 'Nausena Shaurya Vatika', an open-air naval museum in Lucknow, highlighting India's maritime security and advancements in defence manufacturing. The museum showcases the Indian Navy's legacy, operational capabilities, and achievements, including the decommissioned warship INS Gomati. **Singh** emphasized the importance of maritime security for national well-being and praised Uttar Pradesh's economic growth under Chief Minister Yogi Adityanath.  The museum aims to inspire future generations and educate the public about the value of freedom and security.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh",
+        "Yogi Adityanath"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62844,
+      "title": "Assault On Abhishek Banerjee: âPre-Planned Attack By BJP Goonsâ, Alleges Trinamool Congress | OdishaBytes",
+      "url": "https://odishabytes.com/assault-on-abhishek-banerjee-pre-planned-attack-by-bjp-goons-alleges-trinamool-congress/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Abhishek-banerjee-in-hospital.webp",
+      "scraped_at": "2026-05-30 21:31:44.677439",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Opposition parties**, including **Congress president Mallikarjun Kharge** and **Samajwadi Party chief Akhilesh Yadav**, condemned the assault on **TMC leader Abhishek Banerjee** in West Bengal's Sonarpur, blaming the **BJP**.  They accused the ruling party of orchestrating a \"murderous attack\" and using violence to silence opposition voices. The incident prompted calls for increased security for all Opposition leaders and an end to political violence.  The **BJP**, however, denied involvement and claimed the attack was a manifestation of public anger against the ruling Trinamool Congress.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62818,
+      "title": "MLA demands immediate launch of phase II seawall construction in Chellanam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/mla-seeks-immediate-launch-of-second-phase-of-tetrapod-seawall-construction-in-chellanam/article71041629.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-30 20:15:17.773067",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "District Collector G. Priyanka",
+      "rephrased_article": "**Mohammed Shiyas**, MLA, urged the immediate commencement of the second phase of construction for a seawall along Chellanam's unprotected coastline. The meeting at the district collectorate focused on removing obstacles to the project, with **District Collector G. Priyanka** stating that geobags are being deployed to prevent sea incursion.  The Chellanam-Kochi Janakeeya Vedhi escalated its protest demanding immediate construction from Puthenthode, while technical sanction for the project remains pending. The second phase of the project, inaugurated by former Chief Minister Pinarayi Vijayan in March 2026, aims to protect the coastline between Chellanam and Fort Kochi.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 62782,
       "title": "Defence Minister inaugurates ‘Nausena Shaurya Vatika’ in Lucknow - The Hindu",
@@ -50,8 +231,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Rajnath Singh",
-        "Yogi Adityanath",
-        "Yogi"
+        "Yogi Adityanath"
       ],
       "states_mentioned": [
         "Uttar Pradesh"
@@ -5736,180 +5916,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 47380,
-      "title": "Five arrested in Telangana for supplying 600+ SIM cards to Cambodia-based cyber fraud syndicate - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/five-arrested-in-telangana-for-supplying-600-sim-cards-to-cambodia-based-cyber-fraud-syndicate/article70812238.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-01 23:14:20.439523",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "cyber fraud syndicate",
-      "rephrased_article": "**The Telangana Cyber Security Bureau** arrested five individuals from Hyderabad, Warangal, and Uttar Pradesh for supplying Indian SIM cards to a Cambodia-based cyber fraud syndicate. The suspects, identified as Rizvan, Syed Ashraf Ali, Syed Sohail, Ateeq Ahmed, and Nune Ashok, allegedly procured the SIM cards through fake documents and illegally diverted over 600 since 2023.  **Ashraf Ali**, who was intercepted at Rajiv Gandhi International Airport with 198 SIM cards, revealed that **Rizvan** coordinated the procurement process. The bureau is actively pursuing the remaining suspects, including those operating abroad, to apprehend them and prevent further fraudulent activity.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 47370,
-      "title": "Assembly Election highlights: PM Modi speaks in Assam, Rajnath Singh holds campaign in Kerala, and more - The Hindu",
-      "url": "https://www.thehindu.com/elections/assembly-elections-assam-kerala-tamil-nadu-west-bengal-puducherry-highlights-april-1-2026/article70809861.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/eemzsf/article70812292.ece/alternates/LANDSCAPE_1200/20260331478L.jpg",
-      "scraped_at": "2026-04-01 23:10:33.126602",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Rajnath Singh**, **Prime Minister Narendra Modi**, and **M.K. Stalin** engaged in political rhetoric during election campaigns across India on April 1, 2026.  Singh criticized the **LDF** in Kerala for its handling of religious issues, while Modi warned against a Congress-led government's potential impact on Assam's majority community.  Stalin campaigned in Tamil Nadu, introducing DMK candidates for upcoming Assembly elections.  Dr. Sankar Ghosh of the BJP refuted claims by West Bengal CM Mamata Banerjee regarding restrictions on food consumption if the BJP came to power.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Rajnath Singh",
-        "Mamata Banerjee",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 47347,
-      "title": "PM’s policies pushing country deeper into crisis, says Priyanka - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/modi-americas-slave-has-put-country-in-crisis-priyanka-gandhi-vadra/article70812093.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/co76w2/article70812759.ece/alternates/LANDSCAPE_1200/PTI04_01_2026_000457A.jpg",
-      "scraped_at": "2026-04-01 22:07:18.356020",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Prime Minister Narendra Modi",
-      "rephrased_article": "**Priyanka Gandhi Vadra**, Congress leader, criticized **Prime Minister Narendra Modi** and **Chief Minister Himanta Biswa Sarma** for what she called \"double-slavery\" governance in Assam. She accused them of prioritizing personal gain over the well-being of the people and threatened to withhold or cancel beneficiary schemes if they did not attend rallies.  Vadra also promised justice for late singer Zubeen Garg, who died in Singapore, and vowed a Congress government would deliver within its first 100 days. The single-phase election will be held on April 9th with counting scheduled for May 4th.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Priyanka Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 47198,
-      "title": "Tamil Nadu election 2026: CM MK Stalin dares AIADMK's Edappadi Palaniswami to spell out his stance on CAA now - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-cm-stalin-dares-edappadi-palaniswami-to-spell-out-his-stance-on-caa-now/article70810348.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/93ighq/article70811065.ece/alternates/LANDSCAPE_1200/TH%20TRI-10%203.jpg.jpeg",
-      "scraped_at": "2026-04-01 12:01:26.734068",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Edappadi K. Palaniswami",
-      "rephrased_article": "**M.K. Stalin**, DMK president and Tamil Nadu Chief Minister, challenged **Edappadi K. Palaniswami**, AIADMK general secretary, to clarify his stance on the Citizenship Amendment Act (CAA).  Stalin accused the former Chief Minister of betraying minorities by supporting the legislation, while also criticizing his support for the three farm laws. He highlighted the DMK's achievements in Tamil Nadu, including maintaining peace and attracting investments. Stalin urged voters to support the Secular Progressive Alliance (SPA) candidates.",
-      "party_mentioned": [
-        "BJP",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Manipur",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "farmer_agriculture",
-        "protest_opposition",
-        "foreign_policy",
-        "corruption_scam",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 47145,
-      "title": "Oil slides 4% to below $100/bbl as Middle East uncertainty keeps markets on edge - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slides-over-3-as-middle-east-uncertainty-keeps-markets-on-edge/articleshow/129944323.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-129944335,width-1200,height-630,imgsize-13702,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-04-01 07:52:52.714843",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Oil market",
-      "rephrased_article": "**Brent** and **U.S. WTI** crude oil prices fell on Wednesday, driven by uncertainty surrounding the Middle East conflict's resolution.  The decline followed earlier gains as investors locked in profits amid reports that Iran's president might end the war. While a swift de-escalation could ease supply constraints, analysts warn that damage to oil infrastructure and normalization of shipping routes will take time. **OPEC** output dropped significantly due to the closure of the Strait of Hormuz, while **U.S.** crude oil production also fell sharply in January following a severe winter storm.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 47049,
-      "title": "Over 17,000 factories registered in nine years of Yogi rule, shows data - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/over-17000-factories-registered-in-nine-years-of-yogi-rule-shows-data/article70807829.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/etmoqw/article70808981.ece/alternates/LANDSCAPE_1200/6607_18_3_2026_14_57_56_2_18_03_NINEYEARSYOGIGOVERNMENTLUCKNOW_Q.JPG",
-      "scraped_at": "2026-03-31 22:06:44.321921",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Yogi Adityanath",
-      "rephrased_article": "The **Uttar Pradesh** government announced that 17,841 new factories have been registered in the state since April 2017 under the leadership of **Yogi Adityanath**. This represents a significant increase from the previous period and indicates an industrial revolution with over 16 lakh people gaining employment. The government attributes this growth to improved ease of doing business, investor-friendly policies, and strong infrastructure development across all regions.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Yogi Adityanath"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy",
-        "economy"
       ]
     }
   ]

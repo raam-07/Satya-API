@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-30 20:34:52.661396",
+  "generated_at": "2026-05-31 00:16:46.076132",
   "stats": {
     "total_promises": 20,
     "kept": 2,
     "broken": 11,
-    "ongoing": 7
+    "ongoing": 6
   },
   "by_status": {
     "broken": [
@@ -31,7 +31,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The deadline of 2022 has passed and evidence suggests the promise was not kept."
+        "gemma_reasoning": "The target deadline of 2022 has passed and farm income did not double."
       },
       {
         "id": "p002",
@@ -55,8 +55,8 @@
             "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows ongoing debate about the promise, not confirmation of completion."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -81,7 +81,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was not kept as no evidence suggests Rs 15 lakh was deposited in every Indian's account."
+        "gemma_reasoning": "No black money repatriation happened, and the Rs 15 lakh promise was called a 'jumla'."
       },
       {
         "id": "p004",
@@ -106,7 +106,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline year of 2022 has passed."
+        "gemma_reasoning": "Target deadline of 2022 passed, and the target was not met."
       },
       {
         "id": "p005",
@@ -131,7 +131,32 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024-25 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
+      },
+      {
+        "id": "p006",
+        "person": "Narendra Modi",
+        "party": "BJP",
+        "promise": "End corruption completely — 'Na khaunga, na khane dunga'",
+        "category": "corruption_scam",
+        "status": "broken",
+        "made_on": "2014-04-01",
+        "deadline": "ongoing",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/na-khaunga-na-khane-doonga-a-complete-hoax-congress-dig-at-pm-on-arunachal-cms-kin-matter-in-sc/article70829720.ece",
+            "title": "‘Na khaunga na khane doonga’’ a complete hoax: Congress’ dig at PM on Arunachal CM’s kin matter in SC - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-04-06 10:20:23.758142",
+            "relevance_score": 79,
+            "gemma_validated": true,
+            "rephrased": "The **Supreme Court** directed the **CBI** to investigate contracts awarded to firms allegedly owned by family members of Arunachal Pradesh Chief Minister Pema Khandu.  **Congress** general secretary ",
+            "content": "The Congress on Monday (April 6, 2026) took a swipe at Prime Minister Narendra Modi after the Supreme Court directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to Arunachal Pradesh Chief Minister Pema Khandu's family members, saying 'na khaunga na khane doonga' has been a \"complete hoax\" which is unravelling now. The Opposition party said this is just the beginning and a number of other BJP CMs are in the same category, \"including at least one soon-to-be former CM from the Northeast\". The Congress' attack came after the Supreme Court directed the CBI to register a preliminary enquiry within two weeks into the award of contracts for public works in Arunachal Pradesh to firms allegedly owned by family members of the chief minister. A bench headed by Justice Vikram Nath said the enquiry and consequential investigation, if any, shall cover the award and execution of public works, contracts and work orders in the state for the period from January 1, 2015 to December 31, 2025. Reacting to the development, Congress general secretary in-charge communications Jairam Ramesh said, \"The Supreme Court has just directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to family members of the Arunachal Pradesh CM.\" \"This is just the beginning. A number of other BJP CMs are in the same category - including at least one soon-to-be former CM from the Northeast. 'Na khaunga na khane doonga' has been a complete hoax -- one that is unravelling now,\" Mr. Ramesh said on X. The Opposition has often referred to PM Modi's pledge to wipe out corruption — \"Na khaunga na khane doonga\" — and attacked him, alleging that it was mere rhetoric. The Supreme Court bench has directed the CBI to file a status report before it in the matter within 16 weeks. \"The CBI shall register a PE within two weeks from the date of the judgement and will proceed in accordance with law,\" Justice Nath said while pronouncing the order. The top court had on February 17 reserved its order in the matter. During the hearing in the matter, the Supreme Court was told that government contracts and work orders worth around ₹1,270 crore were awarded in the last 10 years in Arunachal Pradesh to four firms related to the family members of Mr. Khandu. Published - April 06, 2026 03:22 pm IST"
+          }
+        ],
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -155,8 +180,8 @@
             "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows the scheme is in operation and being defended."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Electoral bonds were struck down as unconstitutional in February 2024."
       },
       {
         "id": "p008",
@@ -181,7 +206,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the project is likely to miss its goal."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p011",
@@ -205,8 +230,8 @@
             "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The government is defending demonetization in court, indicating ongoing efforts."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Demonetization failed to end black money and terrorism funding."
       },
       {
         "id": "p012",
@@ -231,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The deadline of 2023 has passed and the project is facing delays."
+        "gemma_reasoning": "The target deadline of 2023 has passed, and construction is less than 30% complete."
       },
       {
         "id": "p016",
@@ -256,60 +281,10 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline year of 2025 has passed."
-      },
-      {
-        "id": "p017",
-        "person": "Rahul Gandhi",
-        "party": "INC",
-        "promise": "Guarantee minimum income of Rs 72,000 per year to poorest families (NYAY scheme)",
-        "category": "economy",
-        "status": "broken",
-        "made_on": "2019-03-25",
-        "deadline": "2019-12-31",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://www.thehindu.com/elections/lok-sabha-2019/congress-promises-72000-per-annum-to-poorest-people/article26632638.ece",
-            "title": "Congress promises ₹72,000 per annum to poorest people",
-            "source": "The Hindu",
-            "scraped_at": "2019-03-25",
-            "relevance_score": 100,
-            "gemma_validated": true,
-            "rephrased": "The article covers Rahul Gandhi's announcement of the NYAY minimum income guarantee scheme, which promises to directly transfer ₹72,000 per year to the bank accounts of India's poorest 20% families.",
-            "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
-          }
-        ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article describes the announcement of the scheme, not its implementation."
+        "gemma_reasoning": "The target deadline of 2025 has passed and the Yamuna river remains polluted."
       }
     ],
     "ongoing": [
-      {
-        "id": "p006",
-        "person": "Narendra Modi",
-        "party": "BJP",
-        "promise": "End corruption completely — 'Na khaunga, na khane dunga'",
-        "category": "corruption_scam",
-        "status": "ongoing",
-        "made_on": "2014-04-01",
-        "deadline": "ongoing",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://www.thehindu.com/news/national/na-khaunga-na-khane-doonga-a-complete-hoax-congress-dig-at-pm-on-arunachal-cms-kin-matter-in-sc/article70829720.ece",
-            "title": "‘Na khaunga na khane doonga’’ a complete hoax: Congress’ dig at PM on Arunachal CM’s kin matter in SC - The Hindu",
-            "source": "The Hindu",
-            "scraped_at": "2026-04-06 10:20:23.758142",
-            "relevance_score": 79,
-            "gemma_validated": true,
-            "rephrased": "The **Supreme Court** directed the **CBI** to investigate contracts awarded to firms allegedly owned by family members of Arunachal Pradesh Chief Minister Pema Khandu.  **Congress** general secretary ",
-            "content": "The Congress on Monday (April 6, 2026) took a swipe at Prime Minister Narendra Modi after the Supreme Court directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to Arunachal Pradesh Chief Minister Pema Khandu's family members, saying 'na khaunga na khane doonga' has been a \"complete hoax\" which is unravelling now. The Opposition party said this is just the beginning and a number of other BJP CMs are in the same category, \"including at least one soon-to-be former CM from the Northeast\". The Congress' attack came after the Supreme Court directed the CBI to register a preliminary enquiry within two weeks into the award of contracts for public works in Arunachal Pradesh to firms allegedly owned by family members of the chief minister. A bench headed by Justice Vikram Nath said the enquiry and consequential investigation, if any, shall cover the award and execution of public works, contracts and work orders in the state for the period from January 1, 2015 to December 31, 2025. Reacting to the development, Congress general secretary in-charge communications Jairam Ramesh said, \"The Supreme Court has just directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to family members of the Arunachal Pradesh CM.\" \"This is just the beginning. A number of other BJP CMs are in the same category - including at least one soon-to-be former CM from the Northeast. 'Na khaunga na khane doonga' has been a complete hoax -- one that is unravelling now,\" Mr. Ramesh said on X. The Opposition has often referred to PM Modi's pledge to wipe out corruption — \"Na khaunga na khane doonga\" — and attacked him, alleging that it was mere rhetoric. The Supreme Court bench has directed the CBI to file a status report before it in the matter within 16 weeks. \"The CBI shall register a PE within two weeks from the date of the judgement and will proceed in accordance with law,\" Justice Nath said while pronouncing the order. The top court had on February 17 reserved its order in the matter. During the hearing in the matter, the Supreme Court was told that government contracts and work orders worth around ₹1,270 crore were awarded in the last 10 years in Arunachal Pradesh to four firms related to the family members of Mr. Khandu. Published - April 06, 2026 03:22 pm IST"
-          }
-        ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing investigations suggest corruption persists."
-      },
       {
         "id": "p009",
         "person": "Narendra Modi",
@@ -342,7 +317,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing discussions and consultations regarding UCC implementation."
+        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
       },
       {
         "id": "p010",
@@ -367,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The committee has proposed a transition plan, but implementation is not complete."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p013",
@@ -392,7 +367,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article reports ongoing efforts to identify and deport Rohingya immigrants."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "p018",
@@ -416,8 +391,8 @@
             "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article states ongoing work towards a zero-tolerance policy."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Crime stats show mixed results and encounter killings rose significantly."
       },
       {
         "id": "p019",
@@ -442,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows ongoing work related to the promise."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       },
       {
         "id": "p020",
@@ -466,7 +441,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target year is 2047 and active work is mentioned."
+        "gemma_reasoning": "Long-term vision, target deadline is 2047."
       }
     ],
     "kept": [
@@ -492,8 +467,8 @@
             "content": "Delhi Education Minister Atishi on Friday claimed that the AAP government has built 22,711 new classrooms in the last nine years, transforming the state of education and providing world-class facilities to students. The BJP dismissed the claims as 'misleading', alleging that the government has failed to fill teacher vacancies and that many schools are functioning without principals."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Evidence shows ongoing work on school infrastructure upgrades."
+        "gemma_suggestion": "kept",
+        "gemma_reasoning": "Delhi government school results improved significantly, fulfilling the promise."
       },
       {
         "id": "p015",
@@ -517,8 +492,35 @@
             "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article discusses ongoing work to resolve issues with the prepaid meter scheme."
+        "gemma_suggestion": "kept",
+        "gemma_reasoning": "Free electricity up to 200 units is implemented and sustained in Delhi."
+      }
+    ],
+    "void": [
+      {
+        "id": "p017",
+        "person": "Rahul Gandhi",
+        "party": "INC",
+        "promise": "Guarantee minimum income of Rs 72,000 per year to poorest families (NYAY scheme)",
+        "category": "economy",
+        "status": "void",
+        "made_on": "2019-03-25",
+        "deadline": "2019-12-31",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/lok-sabha-2019/congress-promises-72000-per-annum-to-poorest-people/article26632638.ece",
+            "title": "Congress promises ₹72,000 per annum to poorest people",
+            "source": "The Hindu",
+            "scraped_at": "2019-03-25",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Rahul Gandhi's announcement of the NYAY minimum income guarantee scheme, which promises to directly transfer ₹72,000 per year to the bank accounts of India's poorest 20% families.",
+            "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
+          }
+        ],
+        "gemma_suggestion": "void",
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
       }
     ]
   },
@@ -547,7 +549,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The deadline of 2022 has passed and evidence suggests the promise was not kept."
+        "gemma_reasoning": "The target deadline of 2022 has passed and farm income did not double."
       },
       {
         "id": "p002",
@@ -571,8 +573,8 @@
             "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows ongoing debate about the promise, not confirmation of completion."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -597,7 +599,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was not kept as no evidence suggests Rs 15 lakh was deposited in every Indian's account."
+        "gemma_reasoning": "No black money repatriation happened, and the Rs 15 lakh promise was called a 'jumla'."
       },
       {
         "id": "p004",
@@ -622,7 +624,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline year of 2022 has passed."
+        "gemma_reasoning": "Target deadline of 2022 passed, and the target was not met."
       },
       {
         "id": "p005",
@@ -647,7 +649,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024-25 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -655,7 +657,7 @@
         "party": "BJP",
         "promise": "End corruption completely — 'Na khaunga, na khane dunga'",
         "category": "corruption_scam",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 1,
@@ -671,8 +673,8 @@
             "content": "The Congress on Monday (April 6, 2026) took a swipe at Prime Minister Narendra Modi after the Supreme Court directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to Arunachal Pradesh Chief Minister Pema Khandu's family members, saying 'na khaunga na khane doonga' has been a \"complete hoax\" which is unravelling now. The Opposition party said this is just the beginning and a number of other BJP CMs are in the same category, \"including at least one soon-to-be former CM from the Northeast\". The Congress' attack came after the Supreme Court directed the CBI to register a preliminary enquiry within two weeks into the award of contracts for public works in Arunachal Pradesh to firms allegedly owned by family members of the chief minister. A bench headed by Justice Vikram Nath said the enquiry and consequential investigation, if any, shall cover the award and execution of public works, contracts and work orders in the state for the period from January 1, 2015 to December 31, 2025. Reacting to the development, Congress general secretary in-charge communications Jairam Ramesh said, \"The Supreme Court has just directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to family members of the Arunachal Pradesh CM.\" \"This is just the beginning. A number of other BJP CMs are in the same category - including at least one soon-to-be former CM from the Northeast. 'Na khaunga na khane doonga' has been a complete hoax -- one that is unravelling now,\" Mr. Ramesh said on X. The Opposition has often referred to PM Modi's pledge to wipe out corruption — \"Na khaunga na khane doonga\" — and attacked him, alleging that it was mere rhetoric. The Supreme Court bench has directed the CBI to file a status report before it in the matter within 16 weeks. \"The CBI shall register a PE within two weeks from the date of the judgement and will proceed in accordance with law,\" Justice Nath said while pronouncing the order. The top court had on February 17 reserved its order in the matter. During the hearing in the matter, the Supreme Court was told that government contracts and work orders worth around ₹1,270 crore were awarded in the last 10 years in Arunachal Pradesh to four firms related to the family members of Mr. Khandu. Published - April 06, 2026 03:22 pm IST"
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing investigations suggest corruption persists."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -696,8 +698,8 @@
             "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows the scheme is in operation and being defended."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Electoral bonds were struck down as unconstitutional in February 2024."
       },
       {
         "id": "p008",
@@ -722,7 +724,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the project is likely to miss its goal."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -756,7 +758,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing discussions and consultations regarding UCC implementation."
+        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
       },
       {
         "id": "p010",
@@ -781,7 +783,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The committee has proposed a transition plan, but implementation is not complete."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -805,8 +807,8 @@
             "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The government is defending demonetization in court, indicating ongoing efforts."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Demonetization failed to end black money and terrorism funding."
       },
       {
         "id": "p012",
@@ -831,7 +833,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The deadline of 2023 has passed and the project is facing delays."
+        "gemma_reasoning": "The target deadline of 2023 has passed, and construction is less than 30% complete."
       },
       {
         "id": "p020",
@@ -855,7 +857,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target year is 2047 and active work is mentioned."
+        "gemma_reasoning": "Long-term vision, target deadline is 2047."
       }
     ],
     "Amit Shah": [
@@ -882,7 +884,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article reports ongoing efforts to identify and deport Rohingya immigrants."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       }
     ],
     "Arvind Kejriwal": [
@@ -908,8 +910,8 @@
             "content": "Delhi Education Minister Atishi on Friday claimed that the AAP government has built 22,711 new classrooms in the last nine years, transforming the state of education and providing world-class facilities to students. The BJP dismissed the claims as 'misleading', alleging that the government has failed to fill teacher vacancies and that many schools are functioning without principals."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Evidence shows ongoing work on school infrastructure upgrades."
+        "gemma_suggestion": "kept",
+        "gemma_reasoning": "Delhi government school results improved significantly, fulfilling the promise."
       },
       {
         "id": "p015",
@@ -933,8 +935,8 @@
             "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article discusses ongoing work to resolve issues with the prepaid meter scheme."
+        "gemma_suggestion": "kept",
+        "gemma_reasoning": "Free electricity up to 200 units is implemented and sustained in Delhi."
       },
       {
         "id": "p016",
@@ -959,7 +961,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline year of 2025 has passed."
+        "gemma_reasoning": "The target deadline of 2025 has passed and the Yamuna river remains polluted."
       }
     ],
     "Rahul Gandhi": [
@@ -969,7 +971,7 @@
         "party": "INC",
         "promise": "Guarantee minimum income of Rs 72,000 per year to poorest families (NYAY scheme)",
         "category": "economy",
-        "status": "broken",
+        "status": "void",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
         "evidence_count": 1,
@@ -985,8 +987,8 @@
             "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article describes the announcement of the scheme, not its implementation."
+        "gemma_suggestion": "void",
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
       }
     ],
     "Yogi Adityanath": [
@@ -1012,8 +1014,8 @@
             "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article states ongoing work towards a zero-tolerance policy."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Crime stats show mixed results and encounter killings rose significantly."
       }
     ],
     "Mamata Banerjee": [
@@ -1040,7 +1042,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows ongoing work related to the promise."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       }
     ]
   },
@@ -1069,7 +1071,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The deadline of 2022 has passed and evidence suggests the promise was not kept."
+        "gemma_reasoning": "The target deadline of 2022 has passed and farm income did not double."
       },
       {
         "id": "p002",
@@ -1093,8 +1095,8 @@
             "content": "Addressing the 'Yuva Aakrosh Rally' in Jaipur, Congress leader Rahul Gandhi said while the Prime Minister had promised to provide two crore jobs to the youth every year, his government's policies had instead destroyed one crore jobs."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows ongoing debate about the promise, not confirmation of completion."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -1119,7 +1121,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The promise was not kept as no evidence suggests Rs 15 lakh was deposited in every Indian's account."
+        "gemma_reasoning": "No black money repatriation happened, and the Rs 15 lakh promise was called a 'jumla'."
       },
       {
         "id": "p004",
@@ -1144,7 +1146,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline year of 2022 has passed."
+        "gemma_reasoning": "Target deadline of 2022 passed, and the target was not met."
       },
       {
         "id": "p005",
@@ -1169,7 +1171,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024-25 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -1177,7 +1179,7 @@
         "party": "BJP",
         "promise": "End corruption completely — 'Na khaunga, na khane dunga'",
         "category": "corruption_scam",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2014-04-01",
         "deadline": "ongoing",
         "evidence_count": 1,
@@ -1193,8 +1195,8 @@
             "content": "The Congress on Monday (April 6, 2026) took a swipe at Prime Minister Narendra Modi after the Supreme Court directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to Arunachal Pradesh Chief Minister Pema Khandu's family members, saying 'na khaunga na khane doonga' has been a \"complete hoax\" which is unravelling now. The Opposition party said this is just the beginning and a number of other BJP CMs are in the same category, \"including at least one soon-to-be former CM from the Northeast\". The Congress' attack came after the Supreme Court directed the CBI to register a preliminary enquiry within two weeks into the award of contracts for public works in Arunachal Pradesh to firms allegedly owned by family members of the chief minister. A bench headed by Justice Vikram Nath said the enquiry and consequential investigation, if any, shall cover the award and execution of public works, contracts and work orders in the state for the period from January 1, 2015 to December 31, 2025. Reacting to the development, Congress general secretary in-charge communications Jairam Ramesh said, \"The Supreme Court has just directed the CBI to launch a preliminary inquiry into contracts allegedly awarded to family members of the Arunachal Pradesh CM.\" \"This is just the beginning. A number of other BJP CMs are in the same category - including at least one soon-to-be former CM from the Northeast. 'Na khaunga na khane doonga' has been a complete hoax -- one that is unravelling now,\" Mr. Ramesh said on X. The Opposition has often referred to PM Modi's pledge to wipe out corruption — \"Na khaunga na khane doonga\" — and attacked him, alleging that it was mere rhetoric. The Supreme Court bench has directed the CBI to file a status report before it in the matter within 16 weeks. \"The CBI shall register a PE within two weeks from the date of the judgement and will proceed in accordance with law,\" Justice Nath said while pronouncing the order. The top court had on February 17 reserved its order in the matter. During the hearing in the matter, the Supreme Court was told that government contracts and work orders worth around ₹1,270 crore were awarded in the last 10 years in Arunachal Pradesh to four firms related to the family members of Mr. Khandu. Published - April 06, 2026 03:22 pm IST"
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing investigations suggest corruption persists."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -1218,8 +1220,8 @@
             "content": "Prime Minister Narendra Modi on Monday rejected allegations of corruption over the electoral bonds scheme, saying the initiative was aimed at curbing black money in elections and bringing transparency. He said that prior to electoral bonds, there was no way of knowing where political parties got their funds from."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows the scheme is in operation and being defended."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Electoral bonds were struck down as unconstitutional in February 2024."
       },
       {
         "id": "p008",
@@ -1244,7 +1246,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the project is likely to miss its goal."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -1278,7 +1280,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Ongoing discussions and consultations regarding UCC implementation."
+        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
       },
       {
         "id": "p010",
@@ -1303,7 +1305,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The committee has proposed a transition plan, but implementation is not complete."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -1327,8 +1329,8 @@
             "content": "Defending its November 2016 decision to demonetise high-value currency notes, the Union government has told the Supreme Court that the step was a 'well-considered' decision and was part of a larger strategy to combat the menace of fake currency, terror financing, black money and tax evasion."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The government is defending demonetization in court, indicating ongoing efforts."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Demonetization failed to end black money and terrorism funding."
       },
       {
         "id": "p012",
@@ -1353,7 +1355,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The deadline of 2023 has passed and the project is facing delays."
+        "gemma_reasoning": "The target deadline of 2023 has passed, and construction is less than 30% complete."
       },
       {
         "id": "p013",
@@ -1378,7 +1380,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article reports ongoing efforts to identify and deport Rohingya immigrants."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "p018",
@@ -1402,8 +1404,8 @@
             "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article states ongoing work towards a zero-tolerance policy."
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Crime stats show mixed results and encounter killings rose significantly."
       },
       {
         "id": "p020",
@@ -1427,7 +1429,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target year is 2047 and active work is mentioned."
+        "gemma_reasoning": "Long-term vision, target deadline is 2047."
       }
     ],
     "AAP": [
@@ -1453,8 +1455,8 @@
             "content": "Delhi Education Minister Atishi on Friday claimed that the AAP government has built 22,711 new classrooms in the last nine years, transforming the state of education and providing world-class facilities to students. The BJP dismissed the claims as 'misleading', alleging that the government has failed to fill teacher vacancies and that many schools are functioning without principals."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Evidence shows ongoing work on school infrastructure upgrades."
+        "gemma_suggestion": "kept",
+        "gemma_reasoning": "Delhi government school results improved significantly, fulfilling the promise."
       },
       {
         "id": "p015",
@@ -1478,8 +1480,8 @@
             "content": "AAP national convener Arvind Kejriwal on Saturday said that if re-elected, his government will resolve issues regarding the prepaid meter system so that all tenants in Delhi can easily avail themselves of free electricity up to 200 units and water up to 20,000 litres."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article discusses ongoing work to resolve issues with the prepaid meter scheme."
+        "gemma_suggestion": "kept",
+        "gemma_reasoning": "Free electricity up to 200 units is implemented and sustained in Delhi."
       },
       {
         "id": "p016",
@@ -1504,7 +1506,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline year of 2025 has passed."
+        "gemma_reasoning": "The target deadline of 2025 has passed and the Yamuna river remains polluted."
       }
     ],
     "INC": [
@@ -1514,7 +1516,7 @@
         "party": "INC",
         "promise": "Guarantee minimum income of Rs 72,000 per year to poorest families (NYAY scheme)",
         "category": "economy",
-        "status": "broken",
+        "status": "void",
         "made_on": "2019-03-25",
         "deadline": "2019-12-31",
         "evidence_count": 1,
@@ -1530,8 +1532,8 @@
             "content": "Congress president Rahul Gandhi on Monday announced a minimum income guarantee scheme, Nyuntam Aay Yojana (NYAY), under which ₹72,000 a year will be transferred to the bank accounts of 20% of the poorest families in the country if his party is voted to power."
           }
         ],
-        "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The article describes the announcement of the scheme, not its implementation."
+        "gemma_suggestion": "void",
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
       }
     ],
     "TMC": [
@@ -1558,7 +1560,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The evidence shows ongoing work related to the promise."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       }
     ]
   }

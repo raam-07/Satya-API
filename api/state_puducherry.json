@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.369884",
+  "generated_at": "2026-05-31 00:16:45.791838",
   "state": "Puducherry",
   "capital": "Puducherry",
   "ruling_party": "INC",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 99,
+    "total_articles": 101,
     "articles_last_30d": 39
   },
   "top_cities_30d": {
@@ -28,11 +28,43 @@
     "economy": 8,
     "farmer_agriculture": 6,
     "crime_violence": 5,
-    "health": 3,
+    "health": 4,
     "corruption_scam": 2,
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62873,
+      "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/bold/sf-campaign-andhra-has-more-obese-men-among-large-states-kerala-tops-among-women/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/SouthernKey.jpeg",
+      "scraped_at": "2026-05-30 21:32:19.905721",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "The National Family Health Survey-6 (NFHS-6) revealed that **Andhra Pradesh** has the highest prevalence of overweight or obese men among large Indian states, with 47.9% of men aged 15 to 49 years classified as such.  Kerala leads in female obesity prevalence, with 46.7% of women in that age group classified as overweight or obese. The survey highlights a growing obesity burden across southern states, with rising prevalence in both urban and rural areas, raising concerns over lifestyle-related diseases. Public health experts have warned that obesity is becoming a widespread challenge across rural India as well.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
     {
       "id": 62787,
       "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
@@ -3135,12 +3167,9 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
         "Mamata Banerjee",
-        "Mamata",
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Assam",
@@ -3154,6 +3183,35 @@
         "education",
         "economy"
       ]
+    },
+    {
+      "id": 45933,
+      "title": "Assembly Elections LIVE: AIADMK releases second list of candidates, retains 30 sitting legislators - The Hindu",
+      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-tamil-nadu-west-bengal-puducherry-2026-live/article70795253.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xejn2i/article70795371.ece/alternates/LANDSCAPE_1200/PTI03_25_2026_000362A.jpg",
+      "scraped_at": "2026-03-28 05:04:26.167344",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "AIADMK",
+      "rephrased_article": "**AIADMK** released its second list of 127 candidates for the upcoming Tamil Nadu Assembly election, bringing their total to 150.  The party's candidate P. Saravanan, who contested in 2021 as a BJP nominee, is running again from the same Madurai (North) seat. **Tamilaga Vettri Kazhagam** president Vijay accused the Greater Chennai Police of obstructing his campaign and termed it a \"fascist attack on democracy.\" The Election Commission published the second supplementary list for West Bengal but did not provide details on deletions or inclusions.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": []
     }
   ]
 }

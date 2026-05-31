@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.376138",
+  "generated_at": "2026-05-31 00:16:45.798149",
   "state": "Lakshadweep",
   "capital": "Kavaratti",
   "ruling_party": "Central Govt",
@@ -8,20 +8,90 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 18,
-    "articles_last_30d": 8
+    "total_articles": 20,
+    "articles_last_30d": 10
   },
   "top_cities_30d": {
     "Delhi": 5,
-    "Mumbai": 1
+    "Mumbai": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 7,
+    "foreign_policy": 8,
     "infrastructure": 4,
     "education": 3,
-    "protest_opposition": 2
+    "protest_opposition": 2,
+    "health": 1,
+    "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 62873,
+      "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/bold/sf-campaign-andhra-has-more-obese-men-among-large-states-kerala-tops-among-women/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/SouthernKey.jpeg",
+      "scraped_at": "2026-05-30 21:32:19.905721",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "The National Family Health Survey-6 (NFHS-6) revealed that **Andhra Pradesh** has the highest prevalence of overweight or obese men among large Indian states, with 47.9% of men aged 15 to 49 years classified as such.  Kerala leads in female obesity prevalence, with 46.7% of women in that age group classified as overweight or obese. The survey highlights a growing obesity burden across southern states, with rising prevalence in both urban and rural areas, raising concerns over lifestyle-related diseases. Public health experts have warned that obesity is becoming a widespread challenge across rural India as well.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 62860,
+      "title": "Reported spousal violence declines across India, but rises sharply in Kerala: NFHS-6 - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/karnataka/reported-spousal-violence-declines-across-india-but-rises-sharply-in-kerala-nfhs-6/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/11/Violence-against-women.-Representative-image.-iStock.jpg",
+      "scraped_at": "2026-05-30 21:32:05.694706",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The National Family Health Survey (NFHS-6) reveals a mixed picture of spousal violence against married women in India. While the national rate declined from 29.2% to 22.3%, Kerala saw a sharp increase, while Telangana remained among the worst-affected states with 30.8% reporting abuse.  **Karnataka** recorded one of the steepest declines, falling from 44.4% to 14.1%. The survey also found a rural-urban divide in domestic violence, with higher rates in rural areas across most states. Despite improvements nationwide, **Telangana**, **Bihar**, and **Uttar Pradesh** continue to have alarmingly high levels of spousal violence.  The survey also examined sexual violence before the age of 18 among young women aged 18-29, revealing a national decline from 1.2% to 0.7%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Goa",
+        "Haryana",
+        "Karnataka",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 62740,
       "title": "Rain batters capital, traffic disrupted - The Hindu",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.350082",
+  "generated_at": "2026-05-31 00:16:45.772373",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 0.89,
   "stats": {
-    "total_articles": 383,
-    "articles_last_30d": 168
+    "total_articles": 394,
+    "articles_last_30d": 174
   },
   "top_cities_30d": {
-    "Kolkata": 41,
-    "Delhi": 22,
+    "Kolkata": 45,
+    "Delhi": 25,
+    "Mumbai": 5,
     "Chennai": 5,
     "Bengaluru": 5,
-    "Mumbai": 4,
     "Hyderabad": 4,
     "Jaipur": 1,
     "Bhopal": 1,
@@ -24,18 +24,261 @@
     "Kanpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 148,
-    "education": 85,
-    "protest_opposition": 75,
+    "foreign_policy": 152,
+    "education": 90,
+    "protest_opposition": 78,
+    "crime_violence": 47,
     "economy": 42,
-    "crime_violence": 42,
     "infrastructure": 39,
     "farmer_agriculture": 20,
-    "corruption_scam": 17,
-    "health": 10,
-    "rape_sexual_crime": 5
+    "corruption_scam": 19,
+    "health": 11,
+    "rape_sexual_crime": 8
   },
   "recent_articles": [
+    {
+      "id": 62881,
+      "title": "INDIA Bloc Revival In Bengal? Support For Mamata Banerjee Over Nephew's Assault",
+      "url": "https://www.ndtv.com/india-news/india-revival-in-bengal-support-for-mamata-banerjee-over-nephews-assault-11569753#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-01/pc6t8224_mamata-banerjee_160x120_05_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-30 21:32:40.041062",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Despite losing the Bengal election, **Mamata Banerjee**'s stature within the **INDIA** bloc remains strong. Opposition leaders condemned the assault on her nephew, **Abhishek Banerjee**, by a mob in Sonarpur, South 24 Parganas.  **Mallikarjun Kharge**, **Akhilesh Yadav**, and **Arvind Kejriwal** accused the BJP of fostering political violence, while the ruling party denied involvement and blamed the TMC for mischaracterizing public anger. The incident has led to calls for stronger law-and-order measures in West Bengal.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Mamata Banerjee",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62873,
+      "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/bold/sf-campaign-andhra-has-more-obese-men-among-large-states-kerala-tops-among-women/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/SouthernKey.jpeg",
+      "scraped_at": "2026-05-30 21:32:19.905721",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "The National Family Health Survey-6 (NFHS-6) revealed that **Andhra Pradesh** has the highest prevalence of overweight or obese men among large Indian states, with 47.9% of men aged 15 to 49 years classified as such.  Kerala leads in female obesity prevalence, with 46.7% of women in that age group classified as overweight or obese. The survey highlights a growing obesity burden across southern states, with rising prevalence in both urban and rural areas, raising concerns over lifestyle-related diseases. Public health experts have warned that obesity is becoming a widespread challenge across rural India as well.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 62861,
+      "title": "Abhishek Banerjee Sonarpur attack: TMC leader alleges BJP wanted to kill him; shirt torn, specs broken, Stones, eggs and 'chor chor' chants - West Bengal News | India Today",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-controversy-student-probe-altered-tender-criteria-coempt-security-concerns-2919549-2026-05-30?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/stones--eggs-and-chor-chor-chants-greet-abhishek-banerjee-in-sonarpur-pti-304407147-16x9_0.jpg?VersionId=.i_SQfMxD_fG6DOLw5Yvfc0G_1CTQpvn",
+      "scraped_at": "2026-05-30 21:32:06.991042",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Abhishek Banerjee**, TMC national general secretary, was attacked by a mob in Sonarpur, West Bengal while visiting the family of a man allegedly killed in post-poll violence. The incident involved stones, eggs, and verbal abuse, with protesters accusing him of corruption and demanding security for the area. **Mamata Banerjee**, Chief Minister of West Bengal, visited him at the hospital and blamed the BJP for orchestrating the attack.  **Derek O'Brien**, a Trinamool Congress Rajya Sabha MP, questioned the withdrawal of security during the visit and called for an investigation. The BJP condemned the violence but denied any involvement in the attack.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "education",
+        "crime_violence",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 62860,
+      "title": "Reported spousal violence declines across India, but rises sharply in Kerala: NFHS-6 - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/karnataka/reported-spousal-violence-declines-across-india-but-rises-sharply-in-kerala-nfhs-6/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/11/Violence-against-women.-Representative-image.-iStock.jpg",
+      "scraped_at": "2026-05-30 21:32:05.694706",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The National Family Health Survey (NFHS-6) reveals a mixed picture of spousal violence against married women in India. While the national rate declined from 29.2% to 22.3%, Kerala saw a sharp increase, while Telangana remained among the worst-affected states with 30.8% reporting abuse.  **Karnataka** recorded one of the steepest declines, falling from 44.4% to 14.1%. The survey also found a rural-urban divide in domestic violence, with higher rates in rural areas across most states. Despite improvements nationwide, **Telangana**, **Bihar**, and **Uttar Pradesh** continue to have alarmingly high levels of spousal violence.  The survey also examined sexual violence before the age of 18 among young women aged 18-29, revealing a national decline from 1.2% to 0.7%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Goa",
+        "Haryana",
+        "Karnataka",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 62859,
+      "title": "Bengal CID Serves Summons To Abhishek Banerjee In 'Fake Signature' Probe",
+      "url": "https://www.ndtv.com/india-news/bengal-cid-serves-summons-to-abhishek-banerjee-in-fake-signature-probe-11569998#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2023-10/vnkd0nfs_abhishek-banerjee-ani_625x300_07_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-30 21:32:04.464353",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Abhishek Banerjee",
+      "rephrased_article": "The **West Bengal CID** served a notice to **Abhishek Banerjee**, TMC national general secretary, requesting his presence for questioning in a probe into alleged forged signatures on a letter supporting **Shobhandeb Chattopadhyay** as the Leader of Opposition. The notice was delivered after officers waited at Banerjee's residence and were directed to his alternative residence before finally serving him the summons.  The CID is investigating discrepancies in the signatures on a May 19 letter submitted by the TMC to the Assembly Secretariat, which some MLAs signed endorsing Chattopadhyay as the LoP. The probe has also questioned several TMC MLAs, including Nayna Banerjee and Kunal Ghosh.",
+      "party_mentioned": [
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 62844,
+      "title": "Assault On Abhishek Banerjee: âPre-Planned Attack By BJP Goonsâ, Alleges Trinamool Congress | OdishaBytes",
+      "url": "https://odishabytes.com/assault-on-abhishek-banerjee-pre-planned-attack-by-bjp-goons-alleges-trinamool-congress/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Abhishek-banerjee-in-hospital.webp",
+      "scraped_at": "2026-05-30 21:31:44.677439",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Opposition parties**, including **Congress president Mallikarjun Kharge** and **Samajwadi Party chief Akhilesh Yadav**, condemned the assault on **TMC leader Abhishek Banerjee** in West Bengal's Sonarpur, blaming the **BJP**.  They accused the ruling party of orchestrating a \"murderous attack\" and using violence to silence opposition voices. The incident prompted calls for increased security for all Opposition leaders and an end to political violence.  The **BJP**, however, denied involvement and claimed the attack was a manifestation of public anger against the ruling Trinamool Congress.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62834,
+      "title": "Abhishek Banerjee Sonarpur attack: TMC leader alleges BJP wanted to kill him; shirt torn, specs broken, Stones, eggs and 'chor chor' chants - West Bengal News | India Today",
+      "url": "https://www.indiatoday.in/india/west-bengal/story/abhishek-banerjee-sonarpur-attack-tmc-leader-alleges-bjp-wanted-to-kill-him-shirt-torn-specs-broken-stones-eggs-and-chor-chor-chants-2919690-2026-05-30?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/stones--eggs-and-chor-chor-chants-greet-abhishek-banerjee-in-sonarpur-pti-304407147-16x9_0.jpg?VersionId=.i_SQfMxD_fG6DOLw5Yvfc0G_1CTQpvn",
+      "scraped_at": "2026-05-30 21:31:35.000321",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Abhishek Banerjee**, Trinamool Congress national general secretary, was attacked by a mob in Sonarpur, West Bengal, while visiting the family of a man allegedly killed in post-poll violence. The incident involved stones, eggs, and verbal abuse directed at Banerjee, who sustained injuries to his shirt and spectacles. **Mamata Banerjee**, Chief Minister of West Bengal, visited him at the hospital and accused the BJP of orchestrating the attack. The BJP denied involvement but condemned the violence, while **Derek O'Brien**, a Trinamool Congress Rajya Sabha MP, questioned the security arrangements.  The incident has escalated tensions between the ruling party and the opposition, with accusations of political vendetta and attempts to intimidate prominent figures.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "education",
+        "crime_violence",
+        "protest_opposition",
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 62787,
       "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
@@ -78,7 +321,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -5815,203 +6058,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 54529,
-      "title": "Two women’s quest for justice for their daughters fuels Bengal poll fight - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/two-womens-questfor-justice-for-their-daughters-fuels-bengal-poll-fight/article70909396.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1hlfxv/article70909632.ece/alternates/LANDSCAPE_1200/BENGAL.jpg",
-      "scraped_at": "2026-04-26 17:47:55.528681",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Trinamool Congress",
-      "rephrased_article": "Two mothers from West Bengal, **Ratna Debnath** and **Sabina Yasmin**, are contesting the Assembly elections to seek justice for their daughters' deaths. **Debnath**, whose daughter was murdered in a hospital attack, is campaigning on behalf of the **BJP**.  **Yasmin**, whose daughter died in a bomb attack during victory celebrations, is running as a candidate for the **Left Front**. Both mothers blame the ruling **Trinamool Congress** and Chief Minister **Mamata Banerjee** for their daughters' deaths. Their campaigns highlight concerns about political violence and accountability within the state.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "health",
-        "protest_opposition",
-        "crime_violence",
-        "education"
-      ]
-    },
-    {
-      "id": 54384,
-      "title": "Assembly Elections 2026 LIVE: ECI orders probe after video showing voter intimidation surfaces in Diamond Harbour - The Hindu",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-26-2026-tamil-nadu-kerala-puducherry-assam-west-bengal-results/article70907689.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/u10a53/article70908180.ece/alternates/LANDSCAPE_1200/20260422129L.jpg",
-      "scraped_at": "2026-04-26 09:13:25.209945",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission",
-      "rephrased_article": "**The Election Commission** ordered a probe after a video surfaced showing intimidation of locals in Diamond Harbour, West Bengal.  **The Election Commission** lodged a formal complaint with the police and an investigation has been initiated. **Prime Minister Narendra Modi** will hold rallies in North 24 Parganas and Hooghly districts to campaign for BJP candidates in the final phase of the West Bengal Assembly elections. The first phase of voting saw a record turnout of 93.19%.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Chennai",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 54273,
-      "title": "ECI suspends police officials in Bengal; Trinamool alleges strongroom breach - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/eci-orders-suspension-of-five-police-officers-in-west-bengal-for-serious-misconduct-during-polls/article70904520.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/6zhw3g/article70904579.ece/alternates/LANDSCAPE_1200/DSC_0779.jpg",
-      "scraped_at": "2026-04-25 19:57:50.910018",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India (ECI)",
-      "rephrased_article": "The **Election Commission of India (ECI)** has suspended five police officials in West Bengal's Diamond Harbour and deployed 11 new observers following allegations of a strongroom breach during the first phase of the Assembly election. The commission also ordered disciplinary proceedings against the officers for their alleged misconduct and failure to maintain neutrality.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54222,
-      "title": "Ashok Kumar Lahiri appointed as Niti Aayog Vice-Chairperson - The Hindu",
-      "url": "https://www.thehindu.com/news/national/ashok-kumar-lahiri-appointed-as-niti-aayog-vice-chairperson/article70906031.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/alif64/article70906315.ece/alternates/LANDSCAPE_1200/PTI04_25_2026_000109B.jpg",
-      "scraped_at": "2026-04-25 16:55:08.487868",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Niti Aayog",
-      "rephrased_article": "**Ashok Kumar Lahiri**, a former Chief Economic Advisor to the government and MLA in West Bengal Assembly, was appointed as the Vice-Chairperson of **Niti Aayog** by the union government on Saturday (April 25, 2026).  He replaces Suman K. Bery, who served as Vice-Chairperson since May 2022. The Niti Aayog panel also includes full-time members K.V. Raju, Director of AIIMS M. Srinivas, Secretary of the Department of Science and Technology Abhay Karandikar, noted scientist Gobardhan Das, former Cabinet secretary Rajiv Gauba, and Vijay Kumar Saraswat, Ramesh Chand, Vinod Kumar Paul, and Arvind Virmani.  Prime Minister Narendra Modi welcomed Lahiri's appointment and expressed confidence in his contributions to India's reform journey.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 54086,
-      "title": "Jadavpur University got global acclaim despite fiscal crunch: Teachers’ body on PM’s critical remark - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/jadavpur-university-got-global-acclaim-despite-fiscal-crunch-teachers-body-on-pms-critical-remark/article70904624.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ox1vnn/article70904680.ece/alternates/LANDSCAPE_1200/80717_16_8_2023_20_43_16_3_JURAGGING_GZ_SP13.JPG",
-      "scraped_at": "2026-04-25 06:57:01.603749",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Prime Minister Narendra Modi** criticized **Jadavpur University** in West Bengal, calling it a symbol of anarchy under the TMC's rule.  However, the **Jadavpur University Teachers' Association (JUTA)** refuted these claims, stating that the university has been recognized globally as a center of excellence despite financial constraints and played a significant role in social justice. JUTA also accused the government of neglecting the university's funding needs and undermining public institutions while supporting private ones.",
-      "party_mentioned": [
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 54061,
-      "title": "Assembly Elections 2026 LIVE: No repoll ordered in Tamil Nadu, West Bengal says ECI officials - The Hindu",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-25-2026-tamil-nadu-kerala-puducherry-assam-west-bengal/article70904339.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/655y8a/article70904406.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202026_22_04_4.jpg",
-      "scraped_at": "2026-04-25 05:19:32.210025",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**The Election Commission of India (ECI)** has concluded that no repoll is necessary in any of the polling stations for the West Bengal and Tamil Nadu assembly elections held on April 23, 2026.  **The ECI** suspended five officers in **West Bengal** for alleged misconduct during the election process. **Abhishek Banerjee**, national general secretary of the Trinamool Congress (TMC), believes the party is leading in the first phase of voting and predicts a \"century\" of victories.",
-      "party_mentioned": [
-        "BJP",
-        "TMC",
-        "SP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 54053,
-      "title": "Record turnout in West Bengal poll fuels rival claims, data tempers conclusions - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/record-turnout-in-bengal-poll-fuels-rival-claims-data-tempers-conclusions/article70902667.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/wbc9j1/article70902993.ece/alternates/LANDSCAPE_1200/20260423533L.jpg",
-      "scraped_at": "2026-04-25 02:54:53.594407",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "West Bengal Assembly Elections",
-      "rephrased_article": "The first phase of the West Bengal Assembly Elections on April 23, 2026, saw a record-breaking voter turnout of 92.88%, exceeding previous highs in 2011 and 2006.  **Prime Minister Narendra Modi**, **Home Minister Amit Shah**, and **West Bengal Chief Minister Mamata Banerjee** all claimed victory for their respective parties. Retired bureaucrat and former Chief Electoral Officer of West Bengal Jawhar Sircar expressed uncertainty about the impact of the high turnout, attributing it to both voter anger over the Special Intensive Revision (SIR) process and a potential shift in voting patterns among migrant workers. The second phase of the elections is scheduled for April 29th.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
         "education"
       ]
     }

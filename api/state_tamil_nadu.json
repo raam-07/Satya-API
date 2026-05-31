@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30 20:34:52.324290",
+  "generated_at": "2026-05-31 00:16:45.747091",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 809,
-    "articles_last_30d": 273
+    "total_articles": 825,
+    "articles_last_30d": 278
   },
   "top_cities_30d": {
     "Chennai": 65,
@@ -17,25 +17,189 @@
     "Madurai": 15,
     "Coimbatore": 12,
     "Bengaluru": 8,
+    "Mumbai": 7,
     "Kolkata": 7,
-    "Mumbai": 6,
-    "Hyderabad": 4,
+    "Hyderabad": 5,
     "Allahabad": 2,
     "Pune": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 224,
+    "foreign_policy": 227,
     "education": 68,
     "protest_opposition": 61,
-    "economy": 44,
+    "economy": 45,
     "infrastructure": 42,
-    "crime_violence": 32,
+    "crime_violence": 33,
     "farmer_agriculture": 30,
-    "corruption_scam": 22,
-    "health": 17,
-    "rape_sexual_crime": 10
+    "corruption_scam": 23,
+    "health": 18,
+    "rape_sexual_crime": 11
   },
   "recent_articles": [
+    {
+      "id": 62873,
+      "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/bold/sf-campaign-andhra-has-more-obese-men-among-large-states-kerala-tops-among-women/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/SouthernKey.jpeg",
+      "scraped_at": "2026-05-30 21:32:19.905721",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "The National Family Health Survey-6 (NFHS-6) revealed that **Andhra Pradesh** has the highest prevalence of overweight or obese men among large Indian states, with 47.9% of men aged 15 to 49 years classified as such.  Kerala leads in female obesity prevalence, with 46.7% of women in that age group classified as overweight or obese. The survey highlights a growing obesity burden across southern states, with rising prevalence in both urban and rural areas, raising concerns over lifestyle-related diseases. Public health experts have warned that obesity is becoming a widespread challenge across rural India as well.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Chandigarh",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 62860,
+      "title": "Reported spousal violence declines across India, but rises sharply in Kerala: NFHS-6 - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/karnataka/reported-spousal-violence-declines-across-india-but-rises-sharply-in-kerala-nfhs-6/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/11/Violence-against-women.-Representative-image.-iStock.jpg",
+      "scraped_at": "2026-05-30 21:32:05.694706",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The National Family Health Survey (NFHS-6) reveals a mixed picture of spousal violence against married women in India. While the national rate declined from 29.2% to 22.3%, Kerala saw a sharp increase, while Telangana remained among the worst-affected states with 30.8% reporting abuse.  **Karnataka** recorded one of the steepest declines, falling from 44.4% to 14.1%. The survey also found a rural-urban divide in domestic violence, with higher rates in rural areas across most states. Despite improvements nationwide, **Telangana**, **Bihar**, and **Uttar Pradesh** continue to have alarmingly high levels of spousal violence.  The survey also examined sexual violence before the age of 18 among young women aged 18-29, revealing a national decline from 1.2% to 0.7%.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Goa",
+        "Haryana",
+        "Karnataka",
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 62852,
+      "title": "Six dalits hacked over banner dispute in Tenkasi; Residents protest seeking justice - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/tamilnadu/six-dalits-hacked-over-banner-dispute-in-tenkasi-residents-protest-seeking-justice/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/Crime-scene-1.jpg",
+      "scraped_at": "2026-05-30 21:31:53.504194",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "A masked gang attacked six members of the Devendra Kula Vellalar community in Tenkasi district, Tamil Nadu, on May 29th during a wedding celebration. The victims sustained severe injuries and were hospitalized.  **P. Uchimakali**, CPI(M) Tenkasi district secretary, claims the attack was caste-driven and stems from a dispute over a banner erected for the wedding. **Police** have detained eight individuals in connection with the incident, including three juveniles. Investigations are ongoing.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 62838,
+      "title": "âHe Chose Service Over Stardomâ: Ram Charan Hails Tamil Nadu CM Vijay | OdishaBytes",
+      "url": "https://odishabytes.com/he-chose-service-over-stardom-ram-charan-hails-tamil-nadu-cm-vijay/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Tamil_Nadu_CM_Vijay_1780147532666_1780147532826_25831b11-7cef-4346-83dc-1ed96fd51d36.webp",
+      "scraped_at": "2026-05-30 21:31:39.871532",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Vijay",
+      "rephrased_article": "**Ram Charan**, actor, praised **Vijay**, Tamil Nadu Chief Minister, for stepping away from his successful film career to serve the people.  He expressed pride in **Vijay** and congratulated both the people of Tamil Nadu and **Vijay**.  The political party **TVK**, led by **Vijay**, secured a majority in the Tamil Nadu Assembly after garnering support from other parties.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 62833,
+      "title": "AIADMK leaders meet Governor, seeks CBI probe into TVK's 'horse-trading' - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/tamilnadu/aiadmk-leaders-meet-governor-seeks-cbi-probe-into-tvks-horse-trading/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/AIADMK-1.jpg",
+      "scraped_at": "2026-05-30 21:31:33.687707",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TVK",
+      "rephrased_article": "**AIADMK** leaders Agri SS Krishnamurthy and M Dhanapal met with **Governor Rajendra Vishwanath Arlekar** to request a CBI investigation into the defections of four of their MLAs to the ruling TVK party. The AIADMK alleges that the quick processing of resignations and immediate membership cards for the new MLAs raise suspicions about political horse-trading, suggesting monetary transactions were involved in the defections.  The party has accused the ruling TVK of targeting Opposition MLAs and weakening rival parties.",
+      "party_mentioned": [
+        "SP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 62797,
+      "title": "Minister inaugurates Katpadi MLA office in Vellore - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/minister-inaugurates-katpadi-mla-office-in-vellore/article71041681.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/7s54iz/article71042193.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-30%20at%207.41.03%20PM.jpeg",
+      "scraped_at": "2026-05-30 18:45:00.725744",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "M. Sudhakar",
+      "rephrased_article": "**V. Gandhiraj**, Tamil Nadu Minister of Co-operatives, inaugurated the refurbished MLA office for Katpadi Assembly constituency in Vellore. The 950 sq ft facility, built in 2001 on a government plot, includes a separate chamber for incumbent **M. Sudhakar** of the Tamilaga Vettri Kazhagam (TVK), an office room, record room, and a waiting hall accommodating up to 50-60 people. The renovated office also features parking facilities, washrooms, and drinking water.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 62787,
       "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
@@ -5065,168 +5229,6 @@
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 57308,
-      "title": "Left parties, VCK hold the key as DMK discusses idea of an AIADMK coalition - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-vck-hold-the-key-as-dmk-discusses-idea-of-an-aiadmk-coalition/article70950650.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/p68d1q/article70950698.ece/alternates/LANDSCAPE_1200/Stalin%205.jpg",
-      "scraped_at": "2026-05-07 10:33:45.335095",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**DMK** president M.K. Stalin invited **CPI(M)** State secretary P. Shanmugam, **CPI** State secretary M. Veerapandian, and **VCK** leader Thol. Thirumavalavan to discuss a potential DMK-backed AIADMK government. The Left parties have six MLAs and are crucial for forming the government with 118 seats required. While the DMK is considering supporting an AIADMK government from outside, its allies will decide on joining such a coalition.",
-      "party_mentioned": [
-        "CPI",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 57244,
-      "title": "TVK makes inroads into AIADMK’s core voter base in Tamil Nadu | Data - The Hindu",
-      "url": "https://www.thehindu.com/data/tvk-makes-inroads-into-aiadmks-core-voter-base-in-tamil-nadu-data/article70949430.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/baxxux/article70949432.ece/alternates/LANDSCAPE_1200/9868_9_10_2025_20_57_47_5_EP_TVK_10.JPG",
-      "scraped_at": "2026-05-07 05:04:17.047381",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "The Tamilaga Vettri Kazhagam (TVK) has significantly altered the political landscape of Tamil Nadu, posing a threat to the AIADMK's core vote bank.  **AIADMK** lost significant support in several regions, particularly central and south, while **DMK** retained its base despite experiencing a decline in some areas. The TVK's success was linked to a negative correlation with the AIADMK, suggesting voters shifted their allegiance due to anti-incumbency or preference for new political entities.  This shift has led to a larger swing for the DMK compared to 2021 despite the AIADMK losing votes overall.",
-      "party_mentioned": [
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 57230,
-      "title": "18 Russian medical varsities to take part in education fair - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/18-russian-medical-varsities-to-take-part-in-education-fair/article70947359.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-07 01:25:49.042003",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Russian",
-      "rephrased_article": "**Russian** universities will participate in an All India Russian Education Fair across Tamil Nadu this month, offering 10,000 MBBS seats to Indian students. The fair is open to those who have cleared the National Eligibility-cum-Entrance Test and scored at least 50% marks in relevant core subjects. **Russian** Consul General Valerii Khodzhaev stated that Russia aims to attract 5,00,000 foreign students by 2030. The fair will be held across several cities in Tamil Nadu from May 9th to 14th and offers full scholarships to about 220 Indian students.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai",
-        "Coimbatore",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "health",
-        "education"
-      ]
-    },
-    {
-      "id": 57229,
-      "title": "In a first, world’s smallest wild cat snapped with kitten in Faridabad; confirms breeding outside protected areas, say researchers - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/in-a-first-worlds-smallest-wild-cat-snapped-with-kitten-in-faridabad-confirms-breeding-outside-protected-areas-say-researchers/article70947507.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/4po0os/article70948518.ece/alternates/LANDSCAPE_1200/5_BM_Cat%20new.jpg",
-      "scraped_at": "2026-05-07 01:25:23.593224",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "rusty-spotted cat",
-      "rephrased_article": "**Researchers**, including wildlife photographer Yatin Verma, have documented the first confirmed breeding of a rusty-spotted cat in the Delhi-National Capital Region (NCR) and Haryana.  The discovery was made during routine field surveys conducted since August 2022. The adult cat and its kitten were observed perched on a False Ashoka tree in Kot village, confirming active reproduction outside protected areas. This finding highlights the importance of the Aravalis mountain system for wildlife conservation, including the rusty-spotted cat, which is listed as 'Near Threatened' on the IUCN Red List.  The research paper documenting this discovery was published in Zoo’s Print.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Haryana",
-        "Madhya Pradesh",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Faridabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57208,
-      "title": "Enhanced security cover given to Vijay withdrawn - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/enhanced-security-cover-given-to-vijay-withdrawn/article70948454.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nm3l4g/article70948495.ece/alternates/LANDSCAPE_1200/20260506220L.jpg",
-      "scraped_at": "2026-05-06 23:34:24.459123",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "C. Joseph Vijay",
-      "rephrased_article": "**Tamil Nadu police** withdrew the security protocol given to **C. Joseph Vijay**, leader of the Tamilaga Vettri Kazhagam, after he requested it. The security scale previously matched that of the Tamil Nadu Chief Minister was reduced to minimal levels following early election results indicating a significant victory for the TVK party.  The police had increased security at Mr. Vijay's residence and office in anticipation of large crowds, but these measures were subsequently withdrawn.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57206,
-      "title": "Tamil Nadu government formation: DMK rejects overtures from AIADMK, sources say - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/dmk-rejects-aiadmks-overtures-sources-say/article70948466.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/krxqoy/article70948489.ece/alternates/LANDSCAPE_1200/20260505286L.jpg",
-      "scraped_at": "2026-05-06 23:33:35.615676",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**AIADMK** has reached out to the **DMK** seeking support to form a government in Tamil Nadu following the inconclusive election results. The **DMK**, however, rejected the proposal and stated its intention to remain in opposition, citing respect for the people's mandate.  **DMK** MP Kalanidhi Veeraswamy emphasized that the party will function as an effective opposition despite potential betrayals from other parties.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
     }
   ]
 }
