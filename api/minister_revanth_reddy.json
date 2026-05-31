@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 19:52:00.934812",
+  "generated_at": "2026-05-31 23:45:57.942189",
   "name": "Revanth Reddy",
   "role": "Chief Minister",
   "ministry": "",
@@ -12,12 +12,12 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Revanth_Reddy",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 70,
-    "articles_last_30d": 26,
+    "total_articles": 72,
+    "articles_last_30d": 27,
     "sentiment_breakdown_30d": {
       "neutral": 9,
       "negative": 4,
-      "positive": 13
+      "positive": 14
     }
   },
   "promises": [
@@ -44,9 +44,44 @@
       "made_on": "",
       "evidence_count": 0,
       "evidence_articles": []
+    },
+    {
+      "id": "promise_1780262008_2",
+      "promise": "Launched the ‘Arrive Alive’ campaign in January to promote responsible driving.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
     }
   ],
   "recent_articles": [
+    {
+      "id": 63787,
+      "title": "Harish Rao and KTR have lost balance: Mallu Ravi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/harish-rao-and-ktr-have-lost-balance-mallu-ravi/article71045136.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-31 15:23:25.065090",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "A. Revanth Reddy",
+      "rephrased_article": "**Mallu Ravi**, **Congress** MP, criticized **K.T. Rama Rao** and **T. Harish Rao**, alleging that they were frustrated by the Congress government's success in implementing welfare schemes.  He praised **A. Revanth Reddy**'s governance as exemplary and stated that Telangana was a model state for development under the Congress. Ravi contrasted this with the previous BRS regime, where he claimed political opponents faced restrictions.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 62923,
       "title": "Implementation of 'guarantees', decline of BRS favour Congress in Telangana, BJP aiming for better show - The Economic Times",
@@ -1758,6 +1793,34 @@
       "cities_mentioned": [
         "Delhi",
         "Amritsar"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 45274,
+      "title": "Office commute times nearly identical in Bengaluru, Hyderabad: report - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/office-commute-times-nearly-identical-in-bengaluru-hyderabad-report/article70784310.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/99m7gb/article70785575.ece/alternates/LANDSCAPE_1200/DSC_7120.JPG",
+      "scraped_at": "2026-03-25 23:09:32.069703",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Bengaluru",
+      "rephrased_article": "**Bengaluru** and **Hyderabad**, two of India's fastest-growing tech hubs, have similar average office commute times despite differences in infrastructure and city planning. According to the WeAreCity 2026 data report released by **UnboxingBLR**, both cities experience an average one-way commute of around 59 minutes.  Despite this similarity, Hyderabad's commuters travel faster due to a more efficient traffic flow and speed, while Bengaluru's commute is heavily influenced by congestion in its densely built urban environment. The report also highlights that despite similar commute times, the two cities have distinct characteristics. **Bengaluru** remains India's start-up capital with higher levels of innovation and funding activity, while **Hyderabad** is rapidly becoming a Global Capability Centre (GCC) hub supported by strong infrastructure development.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai"
       ],
       "topic_tags": [
         "infrastructure"

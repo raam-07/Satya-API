@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 19:52:00.736319",
+  "generated_at": "2026-05-31 23:45:57.733202",
   "state": "Chhattisgarh",
   "capital": "Raipur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 82,
-    "articles_last_30d": 27
+    "total_articles": 86,
+    "articles_last_30d": 28
   },
   "top_cities_30d": {
     "Delhi": 14,
@@ -25,16 +25,76 @@
   },
   "top_topics_30d": {
     "foreign_policy": 23,
-    "crime_violence": 8,
+    "crime_violence": 9,
     "economy": 8,
     "education": 7,
     "protest_opposition": 7,
-    "corruption_scam": 3,
-    "infrastructure": 3,
+    "corruption_scam": 4,
+    "infrastructure": 2,
     "rape_sexual_crime": 2,
     "farmer_agriculture": 1
   },
   "recent_articles": [
+    {
+      "id": 63876,
+      "title": "Madhya Pradesh MLA Pritam Lodhi Praises Chambal Dacoit Rambabu Gadariya, Calls Him Companions In Happiness, Sorrow",
+      "url": "https://www.ndtv.com/india-news/madhya-pradesh-mla-pritam-lodhi-praises-chambal-dacoit-rambabu-gadariya-calls-him-companions-in-happiness-sorrow-11572544#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/cg83i18o_lodhi_625x300_31_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 18:08:40.262207",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Pritam Lodhi",
+      "rephrased_article": "A **BJP MLA** in Madhya Pradesh, Pritam Lodhi, publicly honored the late dacoit Rambabu Gadariya at a function commemorating the birth anniversary of Lokmata Ahilyabai Holkar.  Lodhi praised Gadariya as a close associate who supported him during difficult times and claimed that he was forced into crime due to societal harassment. This has sparked controversy as Gadariya was one of Chambal's most notorious criminals, facing over 100 criminal cases, including murder and robbery. The event drew thousands of attendees, with Lodhi even placing a photograph of Gadariya alongside the portrait of Ahilyabai Holkar.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 63826,
+      "title": "Former ED special director Satyabrata Kumar who probed Nirav Modi, Vijay Mallya, takes VRS | Today News",
+      "url": "https://www.livemint.com/news/india/former-ed-special-director-satyabrata-kumar-who-probed-nirav-modi-vijay-mallya-takes-vrs-11780240687864.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/ed_1780242215879_1780242245286_481351d1-48b5-455a-87c1-b9b0763420ed.jpg",
+      "scraped_at": "2026-05-31 16:45:25.581130",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Enforcement Directorate (ED)",
+      "rephrased_article": "**Satyabrata Kumar**, a former special director of the **Enforcement Directorate (ED)**, has opted for voluntary retirement from government service after nearly 12 years with the agency.  Kumar oversaw high-profile investigations including those involving Nirav Modi, Vijay Mallya, and the Mahadev online betting network. He received approval for voluntary retirement in April and his departure marks the second instance within a year of a senior ED officer leaving government service shortly after exiting the agency. The **ED** arrested Satinder Singh Bhasin, director of Bhasin Infotech and Infrastructure Pvt Ltd, on charges of money laundering related to alleged cheating of home buyers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Arvind Kejriwal",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Maharashtra",
+        "Punjab",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
     {
       "id": 63717,
       "title": "100-year-old trees felled, 166 accused, a clash with officials: Behind tensions in a Chhattisgarh village | India News - The Indian Express",
@@ -2516,6 +2576,53 @@
       "sentiment": "negative",
       "sentiment_target": "Chhattisgarh government",
       "rephrased_article": "The **National Human Rights Commission (NHRC)** issued a notice to the **Chhattisgarh government** following reports of 285 inmate deaths in state jails over the past four years. The commission cited media reports and overcrowding as contributing factors, prompting them to demand a detailed report within two weeks detailing data on overcrowding, vacant doctor positions, and the government's response to these issues.  The **NHRC** is concerned about potential violations of human rights.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 45284,
+      "title": "Mahadev betting case: ED attaches properties in Dubai and New Delhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/mahadev-betting-case-ed-attaches-properties-in-dubai-and-new-delhi/article70785000.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-26 00:01:36.706495",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Sourabh Chandrakar",
+      "rephrased_article": "**The Directorate of Enforcement (ED)** has attached 20 immovable properties worth nearly Rs. 1700 crore in its ongoing money-laundering investigation into the Mahadev online betting case. The properties, including luxury villas and apartments in Dubai, belong to Sourabh Chandrakar, a main promoter of the Mahadev Online Book application, and are held in the name of entities controlled by him and his associates.  The ED has arrested 13 persons and named 74 as accused in this case, which involved illegal betting through multiple online platforms.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 45253,
+      "title": "Papa Rao, 17 other Maoists surrender in Chhattisgarh - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/only-30-to-40-maoists-remain-in-bastar-chhattisgarh-deputy-chief-minister/article70784457.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t04sbh/article70785380.ece/alternates/LANDSCAPE_1200/PTI03_25_2026_000383B.jpg",
+      "scraped_at": "2026-03-25 22:08:42.595327",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Bastar Police",
+      "rephrased_article": "**Chhattisgarh** Deputy Chief Minister Vijay Sharma announced that 96% of the Bastar region is free from Maoist activity, with only a limited number of cadres remaining in remote areas.  He also stated that approximately 400 security camps will be converted into development centers offering education, healthcare, and employment opportunities. **Bastar Police** recovered weapons and cash from surrendered Maoists, including Papa Rao, who was known by several aliases and had been active since 1997.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [

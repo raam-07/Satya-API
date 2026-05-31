@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-31 19:52:01.171415",
+  "generated_at": "2026-05-31 23:45:58.177013",
   "stats": {
-    "total_promises": 30,
+    "total_promises": 33,
     "kept": 2,
     "broken": 11,
-    "ongoing": 16
+    "ongoing": 19
   },
   "by_status": {
     "broken": [
@@ -131,7 +131,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP ministers and parties contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
       },
       {
         "id": "p007",
@@ -206,7 +206,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p011",
@@ -256,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p016",
@@ -281,7 +281,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
+        "gemma_reasoning": "The target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "ongoing": [
@@ -342,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination."
       },
       {
         "id": "p013",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       },
       {
         "id": "p020",
@@ -441,7 +441,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Long-term vision; target deadline is 2047."
+        "gemma_reasoning": "Long-term vision, target deadline is 2047."
       },
       {
         "id": "promise_1780198151_0",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       },
       {
         "id": "promise_1780208617_8",
@@ -586,6 +586,48 @@
         "party": "",
         "promise": "Chandrababu Naidu is supporting the launch of 168 development works worth ₹17 crore in Nellore Rural constituency on May 15th.",
         "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780253893_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "India and Vietnam aim to achieve a $25 billion annual trade target by 2030.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780256031_1",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu unveiled a ₹5.11 lakh crore credit plan for the Financial Year 2026–27, prioritizing agriculture and allied activities.",
+        "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780262008_2",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Launched the ‘Arrive Alive’ campaign in January to promote responsible driving.",
+        "category": "crime_violence",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -671,7 +713,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
       }
     ]
   },
@@ -800,7 +842,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -825,7 +867,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP ministers and parties contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
       },
       {
         "id": "p007",
@@ -875,7 +917,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -934,7 +976,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination."
       },
       {
         "id": "p011",
@@ -984,7 +1026,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p020",
@@ -1008,7 +1050,21 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Long-term vision; target deadline is 2047."
+        "gemma_reasoning": "Long-term vision, target deadline is 2047."
+      },
+      {
+        "id": "promise_1780253893_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "India and Vietnam aim to achieve a $25 billion annual trade target by 2030.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Amit Shah": [
@@ -1112,7 +1168,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
+        "gemma_reasoning": "The target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "Rahul Gandhi": [
@@ -1139,7 +1195,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
       }
     ],
     "Yogi Adityanath": [
@@ -1193,7 +1249,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       },
       {
         "id": "promise_1780207073_7",
@@ -1218,7 +1274,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       }
     ],
     "Revanth Reddy": [
@@ -1256,6 +1312,20 @@
         "party": "",
         "promise": "The Telangana government will allocate 15% of its future budgets to education.",
         "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780262008_2",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Launched the ‘Arrive Alive’ campaign in January to promote responsible driving.",
+        "category": "crime_violence",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -1344,6 +1414,20 @@
         "party": "",
         "promise": "Chandrababu Naidu is supporting the launch of 168 development works worth ₹17 crore in Nellore Rural constituency on May 15th.",
         "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780256031_1",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu unveiled a ₹5.11 lakh crore credit plan for the Financial Year 2026–27, prioritizing agriculture and allied activities.",
+        "category": "farmer_agriculture",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -1479,7 +1563,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -1504,7 +1588,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP ministers and parties contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
       },
       {
         "id": "p007",
@@ -1554,7 +1638,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -1613,7 +1697,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination."
       },
       {
         "id": "p011",
@@ -1663,7 +1747,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p013",
@@ -1737,7 +1821,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Long-term vision; target deadline is 2047."
+        "gemma_reasoning": "Long-term vision, target deadline is 2047."
       }
     ],
     "AAP": [
@@ -1814,7 +1898,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
+        "gemma_reasoning": "The target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "INC": [
@@ -1841,7 +1925,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
       }
     ],
     "TMC": [
@@ -1868,7 +1952,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       }
     ]
   }

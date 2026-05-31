@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 19:52:00.662465",
+  "generated_at": "2026-05-31 23:45:57.655027",
   "party": "TMC",
   "full_name": "All India Trinamool Congress",
   "ideology": "Populism, Secularism",
@@ -10,15 +10,22 @@
   ],
   "color": "#00FF00",
   "stats": {
-    "total_articles": 309,
-    "articles_last_30d": 148,
+    "total_articles": 315,
+    "articles_last_30d": 153,
     "sentiment_breakdown_30d": {
-      "negative": 87,
-      "neutral": 33,
+      "negative": 90,
+      "neutral": 35,
       "positive": 28
     }
   },
   "ministers": [
+    {
+      "name": "Abhishek Banerjee",
+      "role": "Trinamool Congress general secretary",
+      "state": null,
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 5
+    },
     {
       "name": "Mamata Banerjee",
       "role": "Chief Minister",
@@ -31,7 +38,7 @@
       "role": "West Bengal Chief Minister / TMC Chairperson",
       "state": "West Bengal",
       "criminal_cases": 0,
-      "criminal_cases_in_news": 3
+      "criminal_cases_in_news": 4
     }
   ],
   "promises": [
@@ -57,6 +64,152 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 63878,
+      "title": "Villagers Vandalise Trinamool MP's Party Office In Bengal's South 24 Parganas",
+      "url": "https://www.ndtv.com/india-news/villagers-vandalise-trinamool-mps-party-office-in-bengals-south-24-parganas-11572562#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://i.ndtvimg.com/i/2016-04/trinamool-congress-tmc-rally_650x400_41461438897.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 18:08:49.177795",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Bapi Haldar",
+      "rephrased_article": "**TMC** MP Bapi Haldar's party office in Mathurapur, South 24 Parganas district was vandalized by local villagers on Sunday. The incident followed allegations that flood relief materials were illegally stored at the office, prompting a mob to break windows and signage. **Haldar** denied any wrongdoing, claiming the materials were purchased for distribution among locals.  The **BJP** denied involvement in the vandalism.",
+      "party_mentioned": [
+        "BJP",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 63866,
+      "title": "35 Ministers To Take Oath In West Bengal Cabinet Expansion Tomorrow",
+      "url": "https://www.ndtv.com/india-news/35-ministers-to-take-oath-in-west-bengal-cabinet-expansion-tomorrow-11572751#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/ubnk8t5_dilip-ghosh-agnimitra-paul_625x300_09_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 18:08:09.679471",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Suvendu Adhikari",
+      "rephrased_article": "**Suvendu Adhikari**, West Bengal's new chief minister, announced that 35 ministers will be sworn in on Monday. The swearing-in ceremony will take place at 11 am at Lok Bhavan and will be administered by **Governor RN Ravi**. This expansion of the cabinet brings the total number of ministers to a full council for the nationalist government elected by the people of West Bengal.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 63843,
+      "title": "June 1 New Rule Changes: LPG Cylinder Rates, PAN Update, Advance Tax Deadline and CBSE Guidelines",
+      "url": "https://indianexpress.com/article/india/june-1-changes-2026-income-tax-deadlines-annapurna-yojana-lpg-noida-airport-flights-10717167/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/june-1.jpg",
+      "scraped_at": "2026-05-31 16:46:39.853574",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Central Board of Secondary Education (CBSE)** will open the re-evaluation process for Class 12 students from June 1, while **Southern Railway** has revised schedules for over 200 suburban train services on the Chennai Beach–Tambaram–Chengalpattu corridor.  **Commercial flight services** are scheduled to begin at Noida International Airport in Jewar on June 15, becoming the second international airport serving the Delhi-NCR region. **The Indian government** is implementing new rules requiring the use of domestically manufactured solar cells for all net-metering and open-access projects commissioned after June 1.  These changes affect various sectors including transportation, energy, education, and welfare programs.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 63821,
+      "title": "Attack On Abhishek Banerjee In Bengal Gives INDIA Bloc Fresh Momentum",
+      "url": "https://www.ndtv.com/india-news/attack-on-abhishek-banerjee-in-bengal-gives-india-bloc-fresh-momentum-11572450#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/pm4gn4hc_abhishek-banerjee-_625x300_31_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 16:45:05.656690",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Abhishek Banerjee**, a **Trinamool Congress** MP, was assaulted while visiting the family of a deceased party leader in Bengal. Opposition leaders condemned the attack as an example of the BJP's \"politics of vendetta\" and expressed concern about its implications for democracy.  The incident has sparked sympathy for **Mamata Banerjee** within the **INDIA alliance**, prompting some leaders to rally in her support. While the future of the **INDIA alliance** remains uncertain, the attack on **Banerjee** may have served as a catalyst for renewed cohesion among opposition parties.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 63727,
+      "title": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes",
+      "url": "https://odishabytes.com/alleged-attacks-on-trinamool-mps-mamata-banerjee-to-hit-streets-on-june-2/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Mamata-Banerjee-visits-Kalyan-Banerjee.webp",
+      "scraped_at": "2026-05-31 15:20:32.895210",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Mamata Banerjee**, former West Bengal Chief Minister and leader of the **Trinamool Congress (TMC)**, will lead protests against alleged assaults on her party MPs.  **Abhishek Banerjee**, nephew and TMC national general secretary, was attacked with eggs and bricks while visiting families affected by post-poll violence in Sonarpur, South 24 Parganas district. **Kalyan Banerjee**, Lok Sabha MP from Sreerampur, also reported being assaulted near Chanditala police station while on his way to submit a deputation regarding the violence. The BJP has arrested six individuals involved in the assault on **Abhishek Banerjee** and claims the incident was orchestrated by internal factionalism within the TMC.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 63693,
       "title": "Mamata Banerjee to hit the streets on June 2 after attack on Abhishek, TMC leader - India Today",
@@ -6262,180 +6415,6 @@
         "health",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 52682,
-      "title": "Edappadi Palaniswami interview: We know how to bring debt under control and implement all welfare schemes, says AIADMK leader - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/edappadi-palaniswami-interview-we-know-how-to-bring-debt-under-control-and-implement-all-welfare-schemes/article70875181.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6f1695/article70875200.ece/alternates/LANDSCAPE_1200/9868_17_4_2026_12_25_49_5_EPS_INTERVIEW_5.JPG",
-      "scraped_at": "2026-04-19 22:06:14.861505",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Edappadi Palaniswami",
-      "rephrased_article": "**Edappadi K. Palaniswami**, leader of the AIADMK, spoke to The Hindu about the upcoming Tamil Nadu Assembly elections and his party's alliance with the BJP. He addressed criticism from **M.K. Stalin**, Chief Minister of Tamil Nadu, regarding the delimitation bill and the 33% quota for women in Parliament and Legislative Assemblies. Palaniswami emphasized that the AIADMK will form a government and provide good governance. He also discussed his party's campaign strategy and its alliance with the BJP, stating they are united in their goal of ousting the DMK.  The article highlights Palaniswami's stance on youth empowerment and his party's efforts to attract young voters.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Samajwadi Party",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Nitish Kumar",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 52604,
-      "title": "PM Modi’s jhalmuri break in Jhargram leaves Trinamool fuming - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/pm-modis-jhalmuri-break-in-jhargram-leaves-trinamool-fuming/article70881765.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rw4sie/article70881934.ece/alternates/LANDSCAPE_1200/HGRCB8GakAEGpwY.jpg",
-      "scraped_at": "2026-04-19 17:13:27.950686",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** enjoyed a break from public meetings in West Bengal by savoring jhalmuri, a Bengali snack. **Mr. Modi** shared photos and videos of the encounter with a local vendor who initially declined his offer to pay. The **Trinamool Congress**, which is facing criticism for its handling of tribal issues, stated that the Prime Minister's visit extended the schedule in Jhargram and prevented the arrival of Jharkhand Chief Minister Hemant Soren and his wife Kalpana Soren.",
-      "party_mentioned": [
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "JMM",
-        "Jharkhand Mukti Morcha"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Hemant Soren"
-      ],
-      "states_mentioned": [
-        "Jharkhand",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Ranchi"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52593,
-      "title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/ed-arrests-businessman-raids-kolkata-police-deputy-commissioner-in-pmla-case/article70881065.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8nhw1k/article70881073.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
-      "scraped_at": "2026-04-19 16:11:04.103449",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "ED",
-      "rephrased_article": "**ED** conducted searches at the residence of **Kolkata Police Deputy Commissioner Shantanu Sinha Biswas** and a businessman's premises in connection with a money laundering case.  The agency recovered over ₹1 crore cash and a large quantity of gold from the businessman's house, who was subsequently arrested. **Mamata Banerjee**, the Chief Minister of West Bengal, accused the **ED** of politically motivated actions, while **Suvendu Adhikari**, the Leader of Opposition in the State Assembly, supported the searches as targeting \"thieves.\" The searches follow raids on Trinamool candidates' homes and offices by the **Income Tax Department** earlier this week.  The West Bengal assembly elections are scheduled for April 23 and 29.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "education",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 52592,
-      "title": "Amid speculation of I-PAC suspending Bengal operations, Mamata says will engage its members in her party - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/tmc-dismisses-reports-of-i-pac-halting-wb-operations-mamata-says-party-to-give-jobs-to-staffers-if-needed/article70881278.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/uzy4u5/article70881308.ece/alternates/LANDSCAPE_1200/PTI04_19_2026_000171B.jpg",
-      "scraped_at": "2026-04-19 16:10:39.383480",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Mamata Banerjee",
-      "rephrased_article": "**Trinamool Congress** chairperson and State Chief Minister Mamata Banerjee dismissed reports that political consultancy firm **I-PAC**, which manages the party's campaign, has suspended operations in West Bengal.  Banerjee stated that she would hire all I-PAC employees and absorb them into the party, claiming the agency is being pressured to leave the state. The Trinamool Congress maintains that its campaign operations are continuing as planned despite speculation about **I-PAC**’s future involvement in the election.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru",
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "education",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 52491,
-      "title": "Bihar CM slams opposition over women's quota bill - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-slams-opposition-over-womens-quota-bill/article70880391.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/90g7io/article70880392.ece/alternates/LANDSCAPE_1200/20260419040L.jpg",
-      "scraped_at": "2026-04-19 09:57:27.523861",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "opposition",
-      "rephrased_article": "**Bihar Chief Minister Samrat Choudhary** criticized the opposition parties for their refusal to support an amendment to the women's reservation bill, calling it a \"black day\" and vowing retaliation. **Sanjay Saraogi**, state party president of the BJP, announced that the party's women's wing would hold a protest on April 20th against the opposition's stance. The amendment, which grants 33% reservation to women in Parliament, was passed by an overwhelming majority in 2023 but faced opposition from non-NDA parties who were wary of its link with delimitation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "RJD",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [
-        "Patna"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

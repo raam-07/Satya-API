@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 19:52:00.658619",
+  "generated_at": "2026-05-31 23:45:57.650832",
   "party": "AAP",
   "full_name": "Aam Aadmi Party",
   "ideology": "Anti-corruption, Populism",
@@ -10,10 +10,10 @@
   ],
   "color": "#0066FF",
   "stats": {
-    "total_articles": 96,
-    "articles_last_30d": 51,
+    "total_articles": 100,
+    "articles_last_30d": 54,
     "sentiment_breakdown_30d": {
-      "neutral": 12,
+      "neutral": 15,
       "negative": 29,
       "positive": 10
     }
@@ -24,7 +24,7 @@
       "role": "AAP National Convenor",
       "state": "Delhi",
       "criminal_cases": 2,
-      "criminal_cases_in_news": 0
+      "criminal_cases_in_news": 1
     }
   ],
   "promises": [
@@ -90,6 +90,84 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 63845,
+      "title": "Which cancer screenings are actually recommended after 40?",
+      "url": "https://indianexpress.com/article/lifestyle/health/cancer-screening-after-40-tumour-marker-blood-tests-what-to-know-10690892/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Oncologist.jpg",
+      "scraped_at": "2026-05-31 16:46:49.233343",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "cancer screenings",
+      "rephrased_article": "**Dr. Tarang Krishna**, an oncologist, recommends regular medical tests for individuals over 40 to prevent cancer. However, **Dr. Arun Kumar Giri**, Director of Surgical Oncology at Aakash Healthcare, cautions against indiscriminate use of tumor markers like PSA and CA-19.9 as they can lead to false reassurance, unnecessary anxiety, and overdiagnosis.  He emphasizes that cancer screening should be based on age, symptoms, family history, and scientifically proven benefits, not fear.  An ideal health check-up focuses on sustainable wellness and early identification of chronic diseases.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 63826,
+      "title": "Former ED special director Satyabrata Kumar who probed Nirav Modi, Vijay Mallya, takes VRS | Today News",
+      "url": "https://www.livemint.com/news/india/former-ed-special-director-satyabrata-kumar-who-probed-nirav-modi-vijay-mallya-takes-vrs-11780240687864.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/ed_1780242215879_1780242245286_481351d1-48b5-455a-87c1-b9b0763420ed.jpg",
+      "scraped_at": "2026-05-31 16:45:25.581130",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Enforcement Directorate (ED)",
+      "rephrased_article": "**Satyabrata Kumar**, a former special director of the **Enforcement Directorate (ED)**, has opted for voluntary retirement from government service after nearly 12 years with the agency.  Kumar oversaw high-profile investigations including those involving Nirav Modi, Vijay Mallya, and the Mahadev online betting network. He received approval for voluntary retirement in April and his departure marks the second instance within a year of a senior ED officer leaving government service shortly after exiting the agency. The **ED** arrested Satinder Singh Bhasin, director of Bhasin Infotech and Infrastructure Pvt Ltd, on charges of money laundering related to alleged cheating of home buyers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Arvind Kejriwal",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Maharashtra",
+        "Punjab",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 63745,
+      "title": "Despite social media build-up, Cockroach Janata Party meeting in Kochi fails to take place - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/despite-social-media-build-up-cockroach-janata-party-meeting-in-kochi-fails-to-take-place/article71045244.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-31 15:21:15.839146",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Cockroach Janata Party",
+      "rephrased_article": "A planned meeting of the **Cockroach Janata Party (CJP)**, a digital political movement founded by Abhijeet Dipke, was canceled on Marine Drive in Kochi.  **City police** received information that the gathering was called off and the organizers were seeking permission before proceeding. The CJP aims to address social injustices and bring forth legal action against them, but its legitimacy remains unclear.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 63702,
       "title": "Tenant warned civic body, police months before deadly Delhi building collapse: AAP - Delhi News | India Today",
@@ -2906,6 +2984,44 @@
         "crime_violence",
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 45279,
+      "title": "Jaishankar defends India’s stand as Opposition targets govt. on ‘Pak. mediation’ in West Asia - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jaishankar-defends-indias-stand-as-opposition-targets-govt-on-pak-mediation-in-west-asia/article70785266.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/a6ds3b/article70785430.ece/alternates/LANDSCAPE_1200/PTI03_23_2026_000265B.jpg",
+      "scraped_at": "2026-03-25 23:11:27.519303",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**S. Jaishankar**, **External Affairs Minister**, stated that **Pakistan** has been acting as a mediator in U.S.-Iran relations since 1981, calling it a \"dalal\" and asserting India's strategic interests require maintaining a balanced position despite criticism from the Opposition.  The meeting addressed concerns about India's silence on Iran's attack on West Asian countries, the timing of Prime Minister **Narendra Modi**'s visit to Tel Aviv, and Pakistan's role in mediating between the U.S. and Iran. The meeting also saw questions regarding India's commitment to the Non-Aligned Movement and its economic implications from the ongoing crisis.",
+      "party_mentioned": [
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "Samajwadi Party",
+        "NCP",
+        "CPI",
+        "AIMIM",
+        "Owaisi",
+        "Jharkhand Mukti Morcha",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rajnath Singh",
+        "S. Jaishankar",
+        "Asaduddin Owaisi",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Jharkhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]

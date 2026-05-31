@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 19:52:00.758318",
+  "generated_at": "2026-05-31 23:45:57.756289",
   "state": "Jharkhand",
   "capital": "Ranchi",
   "ruling_party": "JMM",
@@ -8,34 +8,68 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 66,
+    "total_articles": 69,
     "articles_last_30d": 27
   },
   "top_cities_30d": {
     "Delhi": 11,
     "Ranchi": 5,
     "Bengaluru": 3,
+    "Mumbai": 3,
     "Ludhiana": 2,
-    "Mumbai": 2,
+    "Ghaziabad": 2,
     "Hyderabad": 1,
     "Visakhapatnam": 1,
     "Srinagar": 1,
-    "Amritsar": 1,
-    "Thane": 1
+    "Amritsar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 22,
+    "foreign_policy": 21,
     "economy": 7,
     "protest_opposition": 6,
     "education": 5,
     "crime_violence": 4,
+    "corruption_scam": 2,
     "health": 2,
     "farmer_agriculture": 2,
-    "infrastructure": 2,
     "rape_sexual_crime": 2,
-    "corruption_scam": 1
+    "infrastructure": 1
   },
   "recent_articles": [
+    {
+      "id": 63826,
+      "title": "Former ED special director Satyabrata Kumar who probed Nirav Modi, Vijay Mallya, takes VRS | Today News",
+      "url": "https://www.livemint.com/news/india/former-ed-special-director-satyabrata-kumar-who-probed-nirav-modi-vijay-mallya-takes-vrs-11780240687864.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/ed_1780242215879_1780242245286_481351d1-48b5-455a-87c1-b9b0763420ed.jpg",
+      "scraped_at": "2026-05-31 16:45:25.581130",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Enforcement Directorate (ED)",
+      "rephrased_article": "**Satyabrata Kumar**, a former special director of the **Enforcement Directorate (ED)**, has opted for voluntary retirement from government service after nearly 12 years with the agency.  Kumar oversaw high-profile investigations including those involving Nirav Modi, Vijay Mallya, and the Mahadev online betting network. He received approval for voluntary retirement in April and his departure marks the second instance within a year of a senior ED officer leaving government service shortly after exiting the agency. The **ED** arrested Satinder Singh Bhasin, director of Bhasin Infotech and Infrastructure Pvt Ltd, on charges of money laundering related to alleged cheating of home buyers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Arvind Kejriwal",
+        "Hemant Soren"
+      ],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Maharashtra",
+        "Punjab",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
     {
       "id": 63611,
       "title": "PM Modi Spotlights Odisha’s Bela Pana & Suvarnarekha In Praise Of Traditional Summer Drinks & Mangoes | OdishaBytes",
@@ -2226,6 +2260,73 @@
         "economy",
         "foreign_policy",
         "corruption_scam"
+      ]
+    },
+    {
+      "id": 45279,
+      "title": "Jaishankar defends India’s stand as Opposition targets govt. on ‘Pak. mediation’ in West Asia - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jaishankar-defends-indias-stand-as-opposition-targets-govt-on-pak-mediation-in-west-asia/article70785266.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/a6ds3b/article70785430.ece/alternates/LANDSCAPE_1200/PTI03_23_2026_000265B.jpg",
+      "scraped_at": "2026-03-25 23:11:27.519303",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**S. Jaishankar**, **External Affairs Minister**, stated that **Pakistan** has been acting as a mediator in U.S.-Iran relations since 1981, calling it a \"dalal\" and asserting India's strategic interests require maintaining a balanced position despite criticism from the Opposition.  The meeting addressed concerns about India's silence on Iran's attack on West Asian countries, the timing of Prime Minister **Narendra Modi**'s visit to Tel Aviv, and Pakistan's role in mediating between the U.S. and Iran. The meeting also saw questions regarding India's commitment to the Non-Aligned Movement and its economic implications from the ongoing crisis.",
+      "party_mentioned": [
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "Samajwadi Party",
+        "NCP",
+        "CPI",
+        "AIMIM",
+        "Owaisi",
+        "Jharkhand Mukti Morcha",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rajnath Singh",
+        "S. Jaishankar",
+        "Asaduddin Owaisi",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Jharkhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 45265,
+      "title": "Lone rangers flex their muscle against alliances in Assam battle - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/neutral-parties-gain-traction-in-assam-fight-between-two-blocs/article70784546.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/n7jsbf/article70785178.ece/alternates/LANDSCAPE_1200/India_Election_53457.jpg",
+      "scraped_at": "2026-03-25 23:06:43.087765",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Assam Assembly elections",
+      "rephrased_article": "**The All India United Democratic Front (AIUDF)** and **United People’s Party Liberation (UPPL)** are confident about their performance in the upcoming Assam Assembly elections, with both parties aiming to significantly increase their seat share.  These non-aligned parties have been gaining momentum as the election date approaches, potentially disrupting the anticipated straight fight between the Bharatiya Janata Party-led NDA and the Congress-led ASM. The AIUDF, which won 16 seats in 2021, is contesting most of its seats in Muslim-dominated areas, while the UPPL, which won six seats in 2021, is contesting more seats outside its core area.  Other non-aligned parties include the Trinamool Congress, Jharkhand Mukti Morcha, Aam Aadmi Party, and the National People’s Party.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Jharkhand Mukti Morcha",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Jharkhand",
+        "Meghalaya"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]
