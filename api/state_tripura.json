@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 15:06:36.352730",
+  "generated_at": "2026-05-31 19:52:00.831514",
   "state": "Tripura",
   "capital": "Agartala",
   "ruling_party": "BJP",
@@ -8,18 +8,18 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 38,
-    "articles_last_30d": 17
+    "total_articles": 40,
+    "articles_last_30d": 18
   },
   "top_cities_30d": {
-    "Delhi": 7,
+    "Delhi": 8,
     "Kolkata": 3,
     "Bengaluru": 3,
     "Hyderabad": 2,
     "Chennai": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 16,
+    "foreign_policy": 17,
     "protest_opposition": 7,
     "education": 7,
     "farmer_agriculture": 6,
@@ -30,6 +30,50 @@
     "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 63575,
+      "title": "BJP Core Group Meet At PM Modi's Residence Today, Rajya Sabha Polls On Agenda",
+      "url": "https://www.ndtv.com/india-news/bjp-core-group-meet-at-pm-modis-residence-today-rajya-sabha-polls-on-agenda-11571590#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-03/r556r3c_modi_640x480_01_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 11:44:12.915124",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**BJP** top leaders, including Union Ministers Amit Shah, Rajnath Singh, JP Nadda, and party president Nitin Nabin, will meet at **Prime Minister Narendra Modi's** residence this evening to discuss the upcoming Rajya Sabha and Legislative Council elections. The meeting will focus on finalizing candidates for these elections, which are scheduled for June 18th, as well as strategizing for the high-stakes Rajya Sabha polls following the recent defeat of the Women's reservation bill.  The party also plans to discuss strengthening its organization, mobilizing supporters, and highlighting achievements of the Modi government over the past twelve years.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi",
+        "Amit Shah",
+        "Rajnath Singh",
+        "Nitish Kumar",
+        "JP Nadda"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Maharashtra",
+        "Meghalaya",
+        "Mizoram",
+        "Punjab",
+        "Tripura",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 63236,
       "title": "TribuneIndia...AgricultureTribune",
@@ -1365,6 +1409,41 @@
       "cities_mentioned": [],
       "topic_tags": [
         "corruption_scam"
+      ]
+    },
+    {
+      "id": 45303,
+      "title": "Assam’s hurt valley - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assams-hurt-valley/article70772408.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kflkmu/article70772419.ece/alternates/LANDSCAPE_1200/2150_21_3_2026_15_48_47_1_SPOTLIGHTASSAM_03.JPG",
+      "scraped_at": "2026-03-26 00:06:47.751526",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The renaming of Silchar Railway Station to the Bhasha Shahid (Language Martyrs) Railway Station is a contentious issue in Assam's Barak Valley, where Bengali Hindus and Muslims have long enjoyed camaraderie. The incident that sparked this demand was the 1961 massacre of eleven language martyrs protesting the imposition of Assamese as the only official language.  The BJP has been accused of neglecting the region's needs, including a lack of development projects and representation in the Assam Assembly. Some argue that the recent delimitation exercise aimed to weaken the political influence of Muslims and consolidate Hindu votes. The issue is further complicated by accusations of religious polarization and attempts to suppress Bengali culture.  The upcoming Assam elections will likely shed light on the future of this contentious debate.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Maharashtra",
+        "Tripura",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "education",
+        "crime_violence"
       ]
     }
   ]

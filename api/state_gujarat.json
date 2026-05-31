@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 15:06:36.261175",
+  "generated_at": "2026-05-31 19:52:00.742714",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,656 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 759,
-    "articles_last_30d": 298
+    "total_articles": 781,
+    "articles_last_30d": 318
   },
   "top_cities_30d": {
-    "Delhi": 68,
-    "Bengaluru": 29,
-    "Ahmedabad": 24,
-    "Mumbai": 20,
+    "Delhi": 77,
+    "Bengaluru": 33,
+    "Ahmedabad": 28,
+    "Mumbai": 22,
     "Hyderabad": 19,
     "Kolkata": 18,
-    "Chennai": 14,
+    "Chennai": 16,
     "Jaipur": 7,
     "Patna": 7,
     "Agra": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 252,
-    "economy": 81,
-    "infrastructure": 77,
-    "education": 68,
-    "protest_opposition": 65,
-    "crime_violence": 61,
+    "foreign_policy": 267,
+    "economy": 85,
+    "infrastructure": 78,
+    "education": 72,
+    "protest_opposition": 67,
+    "crime_violence": 64,
     "farmer_agriculture": 31,
-    "corruption_scam": 24,
-    "health": 20,
-    "rape_sexual_crime": 16
+    "corruption_scam": 25,
+    "health": 22,
+    "rape_sexual_crime": 17
   },
   "recent_articles": [
+    {
+      "id": 63714,
+      "title": "Nepal PM calls for dialogue with India to resolve border issues, seeks UK's involvement in talks - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-pm-calls-for-dialogue-with-india-to-resolve-border-issues-seeks-uks-involvement-in-talks/articleshow/131422526.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131422585,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-05-31 13:55:59.560020",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Nepal Government",
+      "rephrased_article": "**Nepal's** Prime Minister Balendra Shah called for dialogue and diplomatic efforts to resolve border disputes with **India**, proposing the involvement of the **United Kingdom**.  Shah cited Britain's role in shaping the region's modern borders during colonial times, arguing that the UK should be concerned about the unresolved issues. He stated that Nepal has exchanged diplomatic notes with **India** and agreed on a roadmap involving experts to examine historical records related to disputed territories.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63713,
+      "title": "Mango cultivation a very special part of India's farm economy: PM | Today News",
+      "url": "https://www.livemint.com/news/mango-cultivation-exports-heat-weather-chola-agriculture-pm-mann-ki-baat-11780216698933.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/pexels-photo-37701462_1780047881202_1780047900846_8486847a-9361-4bd5-bd23-f351b5f1eafd_1780229223695_c9f85375-e29a-4ffe-9385-3286939a644f.jpeg",
+      "scraped_at": "2026-05-31 13:55:58.454722",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** highlighted the importance of **mango** cultivation to India's agricultural economy during his monthly radio address, 'Mann Ki Baat'. He emphasized the country's diverse mango varieties and its growing export market.  The **Agricultural and Processed Food Product Export Development Authority (Apeda)** reported that India exported nearly 29,938.40 tonnes of mangoes worth $56.50 million in FY25 to destinations like the UAE, US, Kuwait, and Qatar. The prime minister also addressed the ongoing heatwave across northern India, urging citizens to stay hydrated and exercise caution.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Varanasi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 63688,
+      "title": "Nepal PM Balendra Shah says border issue with India will be resolved through ‘dialogue and diplomacy’ | Today News",
+      "url": "https://www.livemint.com/news/world/nepal-pm-balendra-shah-says-border-issue-with-india-will-be-resolved-through-dialogue-and-diplomacy-11780226681476.html",
+      "source": "Livemint",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/NEPAL-PANEL-PROPERTY-0_1780229266835_1780229278612_63d6e2c5-7b7c-4ebe-a9a9-055bde7e0909.JPG",
+      "scraped_at": "2026-05-31 13:54:36.272465",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Nepal Government",
+      "rephrased_article": "**Nepal Prime Minister Balendra Shah** addressed the ongoing border dispute with **India**, stating that both countries will resolve the issue through diplomatic engagement and by involving experts. **Shah** acknowledged allegations of Nepal encroaching on Indian territories, but also stated that Nepal has done the same to India. Former Nepalese ambassadors Nilambara Acharya and Deep Kumar Upadhyay disputed **Shah's** claim, emphasizing that there is no evidence of Nepal encroaching on Indian territory.  The **Indian Ministry of External Affairs** reiterated its stance, stating that claims of territorial encroachment are unfounded and based on unilateral artificial enlargement of territorial claims.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63678,
+      "title": "GT vs RCB | IPL 2026 final should have been pushed to reserve day to be fair to Gujarat Titans: Sunil Gavaskar - India Today",
+      "url": "https://www.indiatoday.in/sports/badminton/story/singapore-open-2026-satwik-chirag-win-title-first-indian-duo-2919914-2026-05-31?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/shubman-gill-311014653-16x9_0.jpg?VersionId=VHbj_xfoZo9Ab.2hfQ0rnrDQZu6HiScD",
+      "scraped_at": "2026-05-31 13:54:16.571836",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "BCCI",
+      "rephrased_article": "**Sunil Gavaskar** argued that the **IPL 2026 final** should have been postponed to Monday, June 1st due to a travel delay that stranded the **Gujarat Titans**.  He stated that the disruption left the team mentally and physically drained, making it unfair for them to play against the **Royal Challengers Bangalore**. The Indian legend believes the BCCI should have utilized the reserve day to ensure fairness.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63677,
+      "title": "Latest Odisha Breaking News Updates | Sunday, 31 May 2026 | OdishaBytes",
+      "url": "https://odishabytes.com/latest-odisha-breaking-news-updates-sunday-31-may-2026/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2025/01/Modern-Breaking-News-Facebook-Post-500-x-500-px.webp",
+      "scraped_at": "2026-05-31 13:54:14.649657",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**The India Meteorological Department (IMD)** has issued a red warning for five districts of **Odisha** due to heavy rain and hailstorms.  **Prime Minister Narendra Modi** spoke with record-breaking sprinters Gurindervir Singh and Animesh Kujur, praising their \"jugalbandi.\"  The Directorate of Vigilance and Anti-Corruption (DVAC) in Assam has arrested a key suspect in the Assam fisheries scam.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Odisha",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 63676,
+      "title": "Earth running out of Patience",
+      "url": "https://www.greaterkashmir.com/opinion/earth-running-out-of-patience-11891645",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/earthquake_ai-2026-05-31-05-29-01.jpg",
+      "scraped_at": "2026-05-31 13:54:13.489202",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "climate change",
+      "rephrased_article": "The Earth is experiencing increasingly severe climate impacts, including extreme heatwaves, unpredictable rainfall, and rising sea levels.  **Simon Stiell**, **United Nations** climate chief, has warned that worsening climate change driven by fossil fuel burning is causing India's extreme heat conditions. A study published in PLOS Climate and reported by Down To Earth predicts even more dangerous heatwaves, irregular monsoons, stronger cyclones, and multiple climate disasters for India.  These impacts are already being felt across the country, including floods, water shortages, melting glaciers, and rising sea levels threatening coastal cities. The world needs to take immediate action with stricter environmental laws, a faster transition to clean energy, and collective responsibility towards nature.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 63669,
+      "title": "Ramachandra Guha Says Gandhi Family Actions Helped Modi Consolidate Power | OdishaBytes",
+      "url": "https://odishabytes.com/ramachandra-guha-says-gandhi-family-actions-helped-modi-consolidate-power/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Gandhis.webp",
+      "scraped_at": "2026-05-31 13:54:00.671988",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Gandhi family",
+      "rephrased_article": "**Ramachandra Guha**, a historian, argues that the **Gandhi family** and **Congress** insiders have indirectly aided Prime Minister **Narendra Modi**'s power consolidation after the 2024 general election.  Guha criticizes Rahul Gandhi's Bharat Jodo Yatra for enhancing his credibility but frittering it away by reasserting the Congress as a family firm. He also points to the party's declining footprint in state assemblies and suggests that Rahul remains an instrument of his mother's will, hindering a successful pushback against the BJP. Guha warns against elevating **Priyanka Gandhi** as an alternative, calling her a \"entitled dynast,\" and criticizes dynastic promotions within the Congress, arguing they have been detrimental to the party's electoral prospects. He acknowledges the BJP's dominance under Modi but suggests that the Gandhis have aided his consolidation.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rahul Gandhi",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63663,
+      "title": "Mann Ki Baat: PM Modi Chats With Record-Breaking Sprinters Gurindervir & Odisha’s Animesh Kujur, Hails Their ‘Jugalbandi’ | OdishaBytes",
+      "url": "https://odishabytes.com/mann-ki-baat-pm-modi-chats-with-record-breaking-sprinters-gurindervir-odishas-animesh-kujur-hails-their-jugalbandi/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Modi-speaks-to-Kujur-Gurindervir.webp",
+      "scraped_at": "2026-05-31 13:53:54.661279",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** spoke with **Animesh Kujur** and **Gurindervir Singh**, India's sprint kings, during the 134th episode of his radio program \"Mann Ki Baat.\"  Modi praised their record-breaking performances at the Federation Cup meet in Ranchi, where **Animesh** initially held the 100m record but was later surpassed by **Gurindervir**, who became the first Indian to run under 10.10 seconds.  The athletes shared how their friendship and determination fueled their success, with **Animesh** emphasizing that they both wanted to inspire others in Indian sprinting.  Modi expressed confidence in their future achievements.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Odisha",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ranchi"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 63662,
+      "title": "GT vs RCB | IPL 2026 final should have been pushed to reserve day to be fair to Gujarat Titans: Sunil Gavaskar - India Today",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-gujarat-titans-travel-delay-reserve-day-ahmedabad-sunil-gavaskar-2919958-2026-05-31?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/shubman-gill-311014653-16x9_0.jpg?VersionId=VHbj_xfoZo9Ab.2hfQ0rnrDQZu6HiScD",
+      "scraped_at": "2026-05-31 13:53:53.392826",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "BCCI",
+      "rephrased_article": "**Sunil Gavaskar** argued that the **Gujarat Titans** should have had their IPL 2026 final postponed due to a travel delay that stranded them in Ahmedabad. He believes the disruption left the team mentally and physically drained, making the scheduling unfair compared to **Royal Challengers Bangalore**, who arrived in the city earlier. **Gavaskar** suggested the **BCCI** should have utilized the reserve day to ensure fairness for the Titans.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63661,
+      "title": "AIYF slams fuel price hike, criticises Union Minister Suresh Gopi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/aiyf-slams-fuel-price-hike-criticises-union-minister-suresh-gopi/article71041700.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-05-31 13:53:52.084604",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Union government",
+      "rephrased_article": "**The All India Youth Federation (AIYF)** launched a protest march to the BSNL office in Thrissur, accusing **the Union government** of burdening citizens with frequent fuel price hikes.  **AIYF State joint secretary Prasad Pareri** criticized the government's justification for the increases as corporate exploitation and called for public resistance against the rising prices.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "economy"
+      ]
+    },
+    {
+      "id": 63655,
+      "title": "'A chat with my fellow anti-national Soros agents': Rahul Gandhi meets students affected by CBSE OSM row - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/beyond-south/a-chat-with-my-fellow-anti-national-soros-agents-rahul-gandhi-meets-students-affected-by-cbse-osm-row/",
+      "source": "The South First",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/Rahul-Gandhi.jpg",
+      "scraped_at": "2026-05-31 13:53:40.585561",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "**Rahul Gandhi** met with students who were labeled \"anti-national\" and \"deep state agents\" after raising concerns about the CBSE's On-Screen Marking system.  Gandhi criticized the abuse directed at these students, stating that they deserve a bright future and that the government must acknowledge problems to solve them. The incident follows ongoing criticism of the OSM system from students and parents, with some schools being urged by **CBSE** to defend the system publicly.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 63640,
+      "title": "Gir Lion Deaths Explained: How Babesiosis Infection Affects Asiatic Lions",
+      "url": "https://indianexpress.com/article/explained/gir-lions-deaths-babesiosis-infection-expert-explains-10717001/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/ex-lions-gir_expl.jpg",
+      "scraped_at": "2026-05-31 11:46:31.356909",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Arjun Modhwadia**, **India’s Forest and Environment Minister**, announced that eight lions in Gujarat's Gir region have died from a suspected Babesiosis infection. The state's Forest Department is isolating affected lions and treating those suspected of having the disease.  Senior Scientist at the Indian National Science Academy, **Yadvendradev V Jhala**, explained that while Babesia is endemic in wild ungulates like chital and nilgai, it can cause mortality under stress or co-infections. He emphasized that there is no need for emergency intervention as the population of lions is large and natural processes are best left unmanaged.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 63626,
+      "title": "Madhuri Dixit denies being pregnant while filming Devdas song Dola Re Dola Do the math - India Today",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/madhuri-dixit-denies-being-pregnant-while-filming-devdas-song-dola-re-dola-do-the-math-2919901-2026-05-31?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/devdas-song-dola-re-dola-312627973-16x9_0.png?VersionId=J4ZnvxjfROzJoD3D.UctDRAsHi4M.cLB",
+      "scraped_at": "2026-05-31 11:45:44.989394",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Madhuri Dixit",
+      "rephrased_article": "**Madhuri Dixit** responded to claims that she was four months pregnant while filming the \"Dola Re Dola\" song from the film *Devdas*. **Dixit** dismissed the rumor, pointing out that her son Arin Nene was born in 2003 and the film premiered in July 2002.  She explained that she was traveling frequently between India and the US during that period and was feeling under the weather from the demanding filming schedule. The claim originated from a podcast by Rubina Khan, who spoke about the choreography of the song on the YouTube channel Bollywood Thikana.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 63611,
+      "title": "PM Modi Spotlights Odisha’s Bela Pana & Suvarnarekha In Praise Of Traditional Summer Drinks & Mangoes | OdishaBytes",
+      "url": "https://odishabytes.com/pm-modi-spotlights-odishas-bela-pana-suvarnarekha-in-praise-of-traditional-summer-drinks-mangoes/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/MixCollage-31-May-2026-12-22-PM-8800.webp",
+      "scraped_at": "2026-05-31 11:45:06.343707",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** highlighted the rich culinary traditions of India during his \"Mann Ki Baat\" address, emphasizing that traditional summer drinks vary across regions.  He mentioned popular beverages like lassi in Punjab and Haryana, chaas in Rajasthan and Gujarat, sattu sharbat in Bihar and Jharkhand, kokum sharbat in Konkan and Goa, panakam, neer mor, and sambar in South India, and bel pana in Odisha. **Modi** also praised the efforts of mango growers, noting that mangoes are a beloved seasonal treat enjoyed across India and globally.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Jharkhand",
+        "Maharashtra",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63582,
+      "title": "From Social Media Star To Terror Suspect: Pakistan’s Shahzad Bhatti Under Indian Security Scanner | OdishaBytes",
+      "url": "https://odishabytes.com/from-social-media-star-to-terror-suspect-pakistans-shahzad-bhatti-under-indian-security-scanner/",
+      "source": "Odisha Bytes",
+      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Bhatti.webp",
+      "scraped_at": "2026-05-31 11:44:16.227234",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Shahzad Bhatti",
+      "rephrased_article": "**Shahzad Bhatti**, a Pakistani social-media influencer, is the subject of multiple Indian security probes alleging his involvement in a cross-border crime and terror network.  Indian investigators have arrested nine individuals suspected of planning attacks on religious sites and military facilities, with **Bhatti** claiming to be neither a gangster nor a mafia boss.  He has been linked to criminal figures in Pakistan and is accused of radicalizing unemployed youth for his online network, which Indian agencies are monitoring.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Haryana",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 63578,
+      "title": "CM Omar backs innovation, mentorship as SANGAM-3.0 begins at NIT Srinagar",
+      "url": "https://www.greaterkashmir.com/education/cm-omar-backs-innovation-mentorship-as-sangam-30-begins-at-nit-srinagar-11891742",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/omar-nit-2026-05-31-07-42-27.png",
+      "scraped_at": "2026-05-31 11:44:14.291778",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Omar Abdullah",
+      "rephrased_article": "The two-day global alumni reunion, **SANGAM-3.0**, commenced at the National Institute of Technology (NIT) Srinagar with **Chief Minister of Jammu and Kashmir, Omar Abdullah**, expressing confidence that it would foster innovation, mentorship, collaboration, and knowledge-sharing. The event, organized by the Office of Dean Alumni and International Affairs in collaboration with the Alumni Association of REC-NIT Srinagar, aims to strengthen alumni engagement, academic and professional collaboration, and reconnect former students with their alma mater. **Prof. B K Kanaujia**, Director NIT Srinagar, highlighted the importance of alumni as a source of pride and strength for the institution.  **Er Malay Chatterjee**, President of the Alumni Association REC/NIT Srinagar, called alumni \"torch bearers\" of the institute. The event also included presentations on the Institute's journey, milestones, achievements, and contributions over decades.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 63575,
+      "title": "BJP Core Group Meet At PM Modi's Residence Today, Rajya Sabha Polls On Agenda",
+      "url": "https://www.ndtv.com/india-news/bjp-core-group-meet-at-pm-modis-residence-today-rajya-sabha-polls-on-agenda-11571590#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-03/r556r3c_modi_640x480_01_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-05-31 11:44:12.915124",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**BJP** top leaders, including Union Ministers Amit Shah, Rajnath Singh, JP Nadda, and party president Nitin Nabin, will meet at **Prime Minister Narendra Modi's** residence this evening to discuss the upcoming Rajya Sabha and Legislative Council elections. The meeting will focus on finalizing candidates for these elections, which are scheduled for June 18th, as well as strategizing for the high-stakes Rajya Sabha polls following the recent defeat of the Women's reservation bill.  The party also plans to discuss strengthening its organization, mobilizing supporters, and highlighting achievements of the Modi government over the past twelve years.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi",
+        "Amit Shah",
+        "Rajnath Singh",
+        "Nitish Kumar",
+        "JP Nadda"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Gujarat",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Maharashtra",
+        "Meghalaya",
+        "Mizoram",
+        "Punjab",
+        "Tripura",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63557,
+      "title": "Spectrum News | Tribune India",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ST0dlOThYdnRwQlNEdDFuZTB2ZEVrUXJuejQ1ZVdzWlRJaVZSeXZ2Y2NGZU9zbEtuU0hLU2EwdTVDb3p1QVRoVFp2NGZoUzJ5UXBzdDd4dVZGTFhNc0Rhag?oc=5",
+      "source": "The Tribune",
+      "image_url": "No image available",
+      "scraped_at": "2026-05-31 09:40:56.967975",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Roopinder Singh",
+      "rephrased_article": "**Roopinder Singh**’s book, “Gurdwaras: Abodes of the Guru,” illustrates how the Sikh community’s spiritual DNA remains consistent worldwide.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi",
+        "Mamata Banerjee",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Haryana",
+        "Himachal Pradesh",
+        "Madhya Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 63548,
+      "title": "IPL 2026 Final, RCB vs GT Live Streaming: Where to Watch Royal Challengers Bengaluru vs Gujarat Titans Match Live Online & TV",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-police-starts-review-of-promotion-policy-executive-cadre-structure-10716870/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/shubman-gill-bcci-creimas.jpg",
+      "scraped_at": "2026-05-31 09:40:03.118207",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "IPL",
+      "rephrased_article": "The 2026 Indian Premier League (IPL) final between **Royal Challengers Bengaluru** and the **Gujarat Titans** will take place on Sunday, March 31, at 7:30 PM IST at the Wankhede Stadium in Mumbai.  **RCB**, who won their first IPL title last year, aim to join Chennai Super Kings and Mumbai Indians as the only teams to successfully defend their titles. **Gujarat Titans**, meanwhile, are looking for a second consecutive victory after winning the championship in 2022. The match will be broadcast live on Star Sports network and streamed on JioHotstar.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Bengaluru",
+        "Chennai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63541,
+      "title": "IPL 2026 Final, RCB vs GT Live Streaming: Where to Watch Royal Challengers Bengaluru vs Gujarat Titans Match Live Online & TV",
+      "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-final-rcb-vs-gt-live-streaming-where-to-watch-royal-challengers-bengaluru-vs-gujarat-titans-match-live-online-tv-10716732/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/shubman-gill-bcci-creimas.jpg",
+      "scraped_at": "2026-05-31 09:39:12.973331",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "RCB",
+      "rephrased_article": "The 2026 Indian Premier League (IPL) final will be played on Sunday, March 31, 2026, at the Wankhede Stadium in Mumbai between defending champions **Royal Challengers Bengaluru** and the Gujarat Titans.  This match marks a rematch of last year's final, with **RCB** looking to join Chennai Super Kings and Mumbai Indians as the only teams to successfully defend their IPL titles. The game will be broadcast live on the Star Sports network in India and streamed on JioHotstar.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Bengaluru",
+        "Chennai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 63538,
+      "title": "Spectrum News | Tribune India",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRTBFX2VnVnlfbUp5QlpKX2YteDBCR0RTLVBhMWFMMmFCcDA0SWVsZkI1Zk1YS0g3Y1Y2VG05alB1OW9jYU5OTS12aVBnWjREWm5EMkJUQVVvalM5UmVCcQ?oc=5",
+      "source": "The Tribune",
+      "image_url": "No image available",
+      "scraped_at": "2026-05-31 09:39:09.605835",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Roopinder Singh",
+      "rephrased_article": "**Roopinder Singh's** book \"Gurdwaras: Abodes of the Guru\" illustrates how the Sikh community's spiritual DNA remains consistent worldwide.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi",
+        "Mamata Banerjee",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Haryana",
+        "Himachal Pradesh",
+        "Madhya Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "education",
+        "crime_violence"
+      ]
+    },
     {
       "id": 63526,
       "title": "Italian PM Giorgia Meloni warns her staff that 2026 will be \"much worse\" than 2025 - The Tribune",
@@ -50,7 +672,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [],
@@ -77,9 +698,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Amit Shah",
-        "Shah",
         "Rajnath Singh"
       ],
       "states_mentioned": [
@@ -157,9 +776,8 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Narendra Modi",
+        "Rahul Gandhi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -180,8 +798,7 @@
       "rephrased_article": "**ChatGPT**, **Google Gemini**, and **Grok** all independently predicted that **Royal Challengers Bengaluru** will win the IPL 2026 final.  Their analysis focused on several factors, including **RCB's** strong performance in Qualifier 1, their home-ground advantage at the Narendra Modi Stadium, a favorable bowling matchup against **GT**, and the experience of key player **Virat Kohli**. The AI models also discounted **GT's** home-ground advantage, noting that **RCB's** previous victory in this venue adds to their confidence.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Gujarat",
@@ -206,8 +823,7 @@
       "rephrased_article": "**ChatGPT**, **Google Gemini**, and **Grok** analyzed the factors leading up to the IPL 2026 final, concluding that **Royal Challengers Bengaluru (RCB)** will win.  The AI platforms agreed on several key points: RCB's dominant performance in Qualifier 1, their home-ground advantage at the Narendra Modi Stadium, and the strength of their bowling attack, particularly Bhuvneshwar Kumar and Josh Hazlewood. They also highlighted RCB's top order batting prowess and Virat Kohli's proven ability to perform under pressure.  The data strongly suggests that **RCB** will lift the trophy tonight.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Gujarat",
@@ -235,9 +851,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -314,7 +928,7 @@
       "rephrased_article": "In Jaipur, **residents** of Prahladpura have taken it upon themselves to revitalize a 400-year-old stepwell, providing clean drinking water for the village.  The restoration project was spearheaded by architect and urban planner Akanksha Modi, who collaborated with local villagers to ensure its functionality and prevent further deterioration. The initiative highlights the importance of community involvement in preserving these historical structures and their unique role in managing water resources.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Rajasthan"
@@ -364,8 +978,7 @@
       "rephrased_article": "The **Gujarat Titans** and **Royal Challengers Bengaluru** will compete in the IPL 2026 final on Sunday, May 31st at the Narendra Modi Stadium in Ahmedabad.  After a thrilling season, both teams have a chance to claim their first-ever IPL title. The final is expected to be a close contest with RCB having a slight edge in head-to-head meetings. **Virat Kohli** has struggled in previous finals, scoring only 139 runs at an average of 34.75.  The match will feature key players like **Rashid Khan**, who has been a concern for the Titans, and **Josh Hazlewood**.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Gujarat"
@@ -393,8 +1006,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Gujarat",
@@ -4878,611 +5490,6 @@
       "topic_tags": [
         "crime_violence",
         "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58806,
-      "title": "Rupee hits all-time low of 95.74 vs USD as outflows, oil risks weigh on outlook - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-past-95-73-per-us-dollar-to-hit-lifetime-low-as-persistent-outflows-wipe-comfort-from-gold-duty-hike/articleshow/131059422.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131059447,width-1200,height-630,imgsize-25206,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-13 13:21:34.577549",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "rupee",
-      "rephrased_article": "The **rupee** weakened against the US dollar, reaching its new all-time low of 95.7450 per dollar.  Rising energy prices due to the U.S.-Iran war have contributed to India's macroeconomic challenges, prompting economists to revise growth forecasts and inflation projections. **Prime Minister Narendra Modi** has urged measures to conserve foreign exchange reserves, while the central government implemented tariffs on precious metal imports to stabilize the rupee. The **Reserve Bank of India (RBI)** Governor Sanjay Malhotra stated that India’s monetary policy can address temporary supply shocks but may intervene if inflationary pressures persist.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58792,
-      "title": "In a major reshuffle, 72 IAS officers transferred by Gujarat government - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/in-a-major-reshuffle-72-ias-officers-transferred-by-gujarat-government/article70973526.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-13 10:40:10.005731",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Gujarat government",
-      "rephrased_article": "The **Gujarat** government transferred 72 Indian Administrative Service (IAS) officers on Wednesday, May 13, 2026.  **D.N. Modi**, the Municipal Commissioner of Jamnagar, was appointed Development Commissioner in Gandhinagar, while **Anand Patel**, Collector of Kutch-Bhuj, became Commissioner of Schools and also took charge as Director of the Gujarat Council of Education Research and Training (GCERT). Other notable transfers included **Sujeet Kumar** to Special Commissioner of State Tax, Ahmedabad.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Ahmedabad",
-        "Surat",
-        "Vadodara"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 58782,
-      "title": "Manappuram Finance, IIFL Finance, other stocks rally up to 11% as gold prices soar after import duty hike - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/manappuram-finance-iifl-finance-other-stocks-rally-up-to-11-as-gold-prices-soar-after-import-duty-hike/articleshow/131060298.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131060477,width-1200,height-630,imgsize-129204,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-13 10:37:22.827679",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Prime Minister Narendra Modi** urged citizens to reduce non-essential gold purchases, citing the need to stabilize the rupee and reduce imports. **India**'s government implemented a hike in import duties on gold to address these concerns. This move is expected to decrease precious metal imports, support the rupee, and narrow the trade deficit.  The rise in gold prices has positively impacted gold financing firms like **Muthoot Finance**, **Manappuram Finance**, and **IIFL Finance** as their loans are secured by gold.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Mumbai",
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58780,
-      "title": "AIADMK legislature party splits vertically during trust vote in Tamil Nadu Assembly - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-legislature-party-splits-vertically-during-trust-vote-in-tn-assembly-25-voted-in-favour-of-tvk-govt-22-voted-against/article70973315.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/wz4dak/article70973681.ece/alternates/LANDSCAPE_1200/20260513079L.jpg",
-      "scraped_at": "2026-05-13 10:36:49.625040",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "The **All India Anna Dravida Munnetra Kazhagam (AIADMK)** legislature party in Tamil Nadu experienced a significant split during a trust vote.  **25 MLAs**, led by rebel leader S.P. Velumani, voted in favor of the motion moved by Chief Minister C. Joseph Vijay while 22 MLAs, led by AIADMK general secretary Edappadi K. Palaniswami, voted against it. The division within the party highlights a growing rift between factions within the AIADMK.",
-      "party_mentioned": [
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 58765,
-      "title": "Hindustan Zinc shares surge 5% as silver prices near Rs 3 lakh/kg after import duty hike; Vedanta shares jump 4% - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-surge-5-as-silver-prices-near-rs-3-lakh/kg-after-import-duty-hike-vedanta-shares-jump-4/articleshow/131056130.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131058482,width-1200,height-630,imgsize-28336,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-13 07:45:28.644643",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Prime Minister Narendra Modi** urged citizens to reduce purchases of non-essential gold and silver over the next year to alleviate pressure on foreign exchange reserves and imports. This policy measure led to a surge in import duty on silver, resulting in a 6% jump in MCX silver futures prices and a 6% rise in gold futures prices. **Hindustan Zinc**, India's largest silver producer, saw its share price climb over 5%, while **Vedanta** shares also rose significantly.  The government's push for infrastructure development is expected to boost steel demand, benefiting companies like **Hindustan Zinc**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58764,
-      "title": "PM austerity appeal: State leaders take steps to limit their fuel use - The Hindu",
-      "url": "https://www.thehindu.com/news/national/pm-austerity-appeal-state-leaders-take-steps-to-limit-their-fuel-use/article70973021.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rmks0l/article70973050.ece/alternates/LANDSCAPE_1200/PTI05_13_2026_000040B.jpg",
-      "scraped_at": "2026-05-13 07:45:10.080900",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi**, **Union Home Minister Amit Shah**, and several other state chief ministers have implemented measures to reduce fuel consumption in response to the West Asia crisis.  These include reducing convoy sizes, promoting electric vehicles, and encouraging public transport use. **Yogi Adityanath**, **Rekha Gupta**, **Mohan Yadav**, and others have also taken steps to promote sustainability within their respective states.  **Devendra Fadnavis**, **Harsh Sanghavi**, and **Acharya Devvrat** have implemented similar measures in Maharashtra, Gujarat, and Bihar respectively.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Yogi Adityanath",
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Gujarat",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 58740,
-      "title": "Kalyan Jewellers, Titan, other jewellery stocks crash up to 6% as Centre hikes gold customs duty to 15% - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/titan-kalyan-jewellers-other-jewellery-stocks-in-focus-as-centre-hikes-gold-customs-duty-to-15/articleshow/131053651.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131053715,width-1200,height-630,imgsize-99318,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-13 04:35:52.100720",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "The **Indian government** has significantly increased customs duty on gold and silver imports, raising the effective import tax to 15% from 6%.  This move is expected to dampen demand in the jewelry sector, potentially leading to higher domestic prices and reduced consumer spending.  While organized players may fare better than smaller unorganized jewellers due to their stronger brands and inventory management, the increase could still negatively impact sales. The decision comes after Prime Minister Modi urged citizens to reduce gold purchases and curb imports, which have already fallen significantly in recent weeks.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 58733,
-      "title": "Tata Power shares crash 7% after Q4. What are Goldman Sachs and Motilal Oswal saying? - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-crash-7-after-q4-what-are-goldman-sachs-and-motilal-oswal-saying/articleshow/131054022.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131054256,width-1200,height-630,imgsize-55168,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-13 04:33:46.269831",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Tata Power",
-      "rephrased_article": "**Tata Power's** revenue for the March quarter declined 13% year-on-year to Rs 14,900 crore. However, EBITDA rose 10% to Rs 4,216 crore. The renewable energy segment contributed significantly to growth, with profit after tax before exceptional items rising 59% year-on-year.  Brokerage firms like Goldman Sachs and Motilal Oswal Financial Services maintain \"Sell\" and \"Buy\" ratings respectively on **Tata Power**, highlighting the company's strong long-term growth potential in rooftop solar and distribution, while acknowledging challenges with renewable energy generation execution.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Odisha"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 58727,
-      "title": "Opposition parties are spreading panic over PM’s voluntary, precautionary appeal: BJP - The Hindu",
-      "url": "https://www.thehindu.com/news/national/opposition-parties-are-spreading-panic-over-pms-voluntary-precautionary-appeal-bjp/article70971181.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/u1pmt5/article70971363.ece/alternates/LANDSCAPE_1200/PTI02_21_2025_000164B.jpg",
-      "scraped_at": "2026-05-13 00:10:50.901986",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The **Bharatiya Janata Party (BJP)** criticized opposition parties, accusing them of spreading misinformation about Prime Minister **Narendra Modi**’s call for voluntary gold purchases and foreign travel restrictions.  **BJP spokesperson Gaurav Bhatia** stated that the government has taken measures to protect India's economy and there is no shortage of essential commodities.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "Samajwadi Party",
-        "SP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58720,
-      "title": "Vijay urges Union Minister to secure the release of six T.N. fisherfolk arrested by Lankan Navy - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-urges-union-minister-to-secure-the-release-of-six-tn-fisherfolk-arrested-by-lankan-navy/article70969455.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/h9ipg8/article70971503.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000130B.jpg",
-      "scraped_at": "2026-05-13 00:08:16.374631",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Sri Lankan Navy",
-      "rephrased_article": "**Tamil Nadu** Chief Minister C. Joseph Vijay requested the **Union Minister for External Affairs S. Jaishankar** to use diplomatic channels to secure the early release and safe repatriation of six Tamil Nadu fishermen arrested by the **Sri Lankan Navy** on May 10th for allegedly crossing the International Maritime Boundary Line while fishing. The fishermen, identified as Alex, Anthoni Rajan, Santhana Alocias, Arul They Britto, Albert, and Sahaya Selvashanu, were apprehended along with their fishing boat.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58703,
-      "title": "ST delegation meets CM - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/st-delegation-meets-cm/article70970841.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/31q5u6/article70971297.ece/alternates/LANDSCAPE_1200/CM%207.JPEG",
-      "scraped_at": "2026-05-12 22:48:44.070759",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, has promised to convene an all-party meeting to discuss the inclusion of a 56% reservation matrix in the Ninth Schedule of the Constitution.  He also assured **V.S. Ugrappa**, former MP and leader of the Samana Manaskara Vedike, that he will take an all-party delegation to **Prime Minister Narendra Modi** to advocate for this legislation. The state government has been working to overturn a legal stay on the 56% reservation, with legal experts being consulted and a special leave petition potentially filed in the Supreme Court.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58612,
-      "title": "Gold, housing plays take a hit as PM Modi's austerity pitch rattles consumer-facing stocks - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-housing-plays-take-a-hit-as-modis-austerity-pitch-rattles-consumer-facing-stocks/articleshow/131036677.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131041916,width-1200,height-630,imgsize-109054,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-12 17:41:30.212984",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "PM Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi's** recent advice to work from home to reduce fuel consumption sparked a market reaction, impacting sectors like jewellery and real estate. **Titan Company Limited**, **Kalyan Jewellers India Limited**, and **Senco Gold Limited** saw significant declines in their share prices during intraday trading.  Analysts suggest the selloff is driven by sentiment rather than structural demand concerns, as gold remains expensive and crude oil prices remain high.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 58611,
-      "title": "LPG price surge pushes auto, taxi operators to seek subsidy for shift to CNG, EV - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/lpg-price-surge-pushes-auto-taxi-operators-to-seek-subsidy-for-shift-to-cng-ev/article70971124.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qi2lxk/article70971356.ece/alternates/LANDSCAPE_1200/demonetisation_25.jpg",
-      "scraped_at": "2026-05-12 17:41:11.329067",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "LPG price",
-      "rephrased_article": "**The Federation of Private Transport Associations** has urged the **State** and **Union governments** to provide financial assistance for auto and taxi operators to transition to CNG and electric vehicles. The federation cites rising LPG prices and supply concerns as reasons for their request, noting that drivers are willing to switch but face high conversion costs without government support.  The association has formally submitted representations to both the State Transport Department and the Union government seeking subsidies to ease the process.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 58538,
-      "title": "NSUI protests after NTA cancels NEET-UG 2026 over paper leak - The Hindu",
-      "url": "https://www.thehindu.com/news/national/nsui-protests-after-nta-cancels-neet-ug-2026-over-paper-leak/article70969236.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8rkx69/article70969256.ece/alternates/LANDSCAPE_1200/PTI05_12_2026_000134B.jpg",
-      "scraped_at": "2026-05-12 10:09:39.615979",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "NTA",
-      "rephrased_article": "A massive protest organized by the **National Students' Union of India (NSUI)** erupted outside the **Shastri Bhawan** on Tuesday, May 12, 2026, demanding justice for students alleging a paper leak in the NEET-UG exam.  The protest saw members of the **Congress party's student wing** participate, holding signs and slogans criticizing the government's handling of the situation. The **National Testing Agency (NTA)** canceled the examination following investigations by the **Rajasthan Special Operations Group (SOG) and the CBI**.  The NSUI accused the central government of failing to protect students and demanded the resignation of **Union Education Minister Dharmendra Pradhan** and a ban on the **NTA**.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "health",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58528,
-      "title": "Assam swearing-in LIVE: Himanta Biswa Sarma takes oath as Assam CM; Four MLAs sworn in as Ministers - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-bjp-government-formation-himanta-biswa-sarma-swearing-in-oath-ceremony-live-updates-may-12-2026/article70968167.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/610qgk/article70968733.ece/alternates/LANDSCAPE_1200/20260512028L.jpg",
-      "scraped_at": "2026-05-12 07:29:42.619275",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Himanta Biswa Sarma** was sworn in as the Chief Minister of Assam for a second consecutive term on Tuesday, May 2, 2026. **Governor Lakshman Prasad Acharya** administered the oath of office at a ceremony held at the Veterinary Ground in Guwahati.  Joining **Sarma** were four other MLAs who took oaths as Ministers: **Rameswar Teli**, **Ajanta Neog**, **Atul Bora**, and **Charan Boro**. The event was attended by prominent figures including **Prime Minister Narendra Modi**, **Union Ministers Amit Shah, Rajnath Singh, Nitin Gadkari, Sarbananda Sonowal, Pabitra Margherita**, and **BJP president Nitin Nabin**. This marks the formation of a third successive NDA government in the state.",
-      "party_mentioned": [
-        "BJP",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Nitin Gadkari"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58494,
-      "title": "Siddaramaiah launches counter-attack, accuses Modi of destroying dignity of Prime Minister’s post - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-launches-counter-attack-accuses-modi-of-destroying-dignity-of-prime-ministers-post/article70966356.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8rrg33/article70966830.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%2020.39.51.JPEG",
-      "scraped_at": "2026-05-12 00:08:32.179108",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, criticized **Prime Minister Narendra Modi** for his recent speech in Bengaluru, accusing him of using \"lies, poor taste, hatred and jealousy\" to undermine the Prime Minister's office.  **Siddaramaiah** questioned the authenticity of the speech, suggesting it reflected poorly on **Modi**'s government and party in Karnataka.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58492,
-      "title": "Green energy key to India’s future growth: Naidu - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/green-energy-key-to-indias-future-growth-naidu/article70966522.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ix4g32/article70966677.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-11%20at%2020.22.28.jpeg",
-      "scraped_at": "2026-05-12 00:07:39.534965",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Narendra Modi** urged citizens to reduce edible oil consumption and increase public transport usage, while **N. Chandrababu Naidu**, Andhra Pradesh's Chief Minister, emphasized India's need for energy security and sustainable development through green energy and decentralized power systems.  Naidu spoke at the Confederation of Indian Industry (CII) Business Summit in New Delhi on Monday, highlighting India's growing economic power under **Modi's** leadership.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 58484,
-      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
-      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
-      "scraped_at": "2026-05-12 00:04:20.847646",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "ECI",
-      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Bihar",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58479,
-      "title": "Two cheetahs released into wild in Kuno; CM Yadav says M.P. now recognised as ‘Cheetah State’ - The Hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/two-cheetahs-released-into-wild-in-kuno-cm-yadav-says-mp-now-recognised-as-cheetah-state/article70967195.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/z11auc/article70967207.ece/alternates/LANDSCAPE_1200/PTI05_11_2026_000101B.jpg",
-      "scraped_at": "2026-05-12 00:03:09.415643",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Project Cheetah",
-      "rephrased_article": "**Madhya Pradesh Chief Minister Mohan Yadav** released two cheetahs from Botswana into an open forest in Kuno National Park, marking another successful chapter of the **Project Cheetah**.  The reintroduction program aims to restore the endangered species and prepare them for free roaming. This is the third international phase of the project, following previous arrivals from Namibia and South Africa. The release follows a quarantine period and experts believe cheetahs from Botswana will contribute to a healthy and sustainable population in Kuno.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58472,
-      "title": "Did BJP internal wranglings upset Modi? - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/pms-telangana-visit-leaves-a-sour-taste-in-state-bjp/article70967023.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3b5c1x/article70967061.ece/alternates/LANDSCAPE_1200/2248_10_5_2026_20_56_5_1_PRIMEMINISTERNARENDRAMODI01.JPG",
-      "scraped_at": "2026-05-11 22:39:39.379172",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Prime Minister Narendra Modi's** visit to Telangana was met with disappointment among **BJP** leaders, who expressed dissatisfaction over internal disagreements and factional politics.  Sources claim the PM was particularly upset by his time spent with Andhra Pradesh CM **Chandrababu Naidu** and Deputy CM **Pawan Kalyan**, which they believe unnerved party members.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58469,
-      "title": "PM Modi to meet Iran FM, other BRICS Ministers before UAE visit - The Hindu",
-      "url": "https://www.thehindu.com/news/national/pm-modi-to-meet-iran-fm-other-brics-ministers-before-uae-visit/article70966622.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/tobmjy/article70967047.ece/alternates/LANDSCAPE_1200/Russia_Iran_21_45.jpg",
-      "scraped_at": "2026-05-11 22:39:04.376459",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "PM Modi",
-      "rephrased_article": "**Abbas Araghchi**, Iranian Foreign Minister, will travel to New Delhi this week for the BRICS Foreign Ministers meeting. He is expected to meet with **Prime Minister Narendra Modi** before the latter's visit to the UAE.  The meeting will take place on Thursday, May 14th, alongside other BRICS ministers from Brazil, Russia, South Africa, Egypt, Ethiopia, and Indonesia.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
         "foreign_policy"
       ]
     }
