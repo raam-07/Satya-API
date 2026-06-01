@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 23:45:57.871824",
+  "generated_at": "2026-06-01 19:29:53.973078",
   "state": "Chandigarh",
   "capital": "Chandigarh",
   "ruling_party": "Central Govt",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 57,
-    "articles_last_30d": 43
+    "total_articles": 62,
+    "articles_last_30d": 45
   },
   "top_cities_30d": {
-    "Delhi": 22,
-    "Bengaluru": 9,
+    "Delhi": 23,
+    "Bengaluru": 10,
     "Ludhiana": 8,
+    "Ahmedabad": 8,
     "Chennai": 7,
-    "Ahmedabad": 7,
     "Mumbai": 5,
     "Amritsar": 4,
     "Hyderabad": 3,
@@ -25,17 +25,72 @@
   },
   "top_topics_30d": {
     "foreign_policy": 31,
-    "education": 11,
+    "education": 12,
     "economy": 11,
-    "crime_violence": 8,
+    "crime_violence": 9,
     "protest_opposition": 7,
     "infrastructure": 5,
+    "health": 5,
     "farmer_agriculture": 4,
-    "health": 4,
     "corruption_scam": 3,
-    "rape_sexual_crime": 1
+    "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 64171,
+      "title": "Rivalry led to Paralympic athlete’s killing in Ghaziabad, say cops; kin ‘wanted to see him win medal for India’ | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/paralympic-athlete-killed-rivalry-ghaziabad-kin-medal-india-10717882/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/chirag-tyagi.jpg",
+      "scraped_at": "2026-06-01 05:34:38.829682",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Chirag Tyagi",
+      "rephrased_article": "A 25-year-old Paralympic athlete, Chirag Tyagi, was shot and killed in Ghaziabad on May 30th.  **DCP City and Trans-Hindon Dhawal Jaiswal** stated that a rivalry between **Chirag Tyagi** and another Paralympic athlete preceded the killing. The victim's aunt said he had qualified for the Asian Para Games, which were to be held in October, and was preparing to return home after winning gold and silver medals in the 400 m and 1,500 m races.  The accused is suspected of being a junior athlete who felt Tyagi filed a complaint against him following his disqualification at an event.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Delhi",
+        "Chandigarh",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 63982,
+      "title": "Herbal cigarettes can be as harmful as tobacco cigarettes: IITGN-Illinois University study | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/herbal-cigarettes-harmful-tobacco-smoke-iit-gandhinagar-study-tendu-leaf-10717349/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/herbal-cigarette.jpg",
+      "scraped_at": "2026-05-31 21:07:40.939703",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "herbal cigarettes",
+      "rephrased_article": "A joint study by **Indian Institute of Technology Gandhinagar** and the **University of Illinois Urbana-Champaign** found that herbal cigarettes, marketed as \"natural\" alternatives to conventional cigarettes, can produce emissions comparable to or even more damaging than tobacco smoke. The research compared emissions from two popular Indian brands of tobacco cigarettes and four herbal cigarette varieties containing combinations of herbs like basil, clove, and mint. Notably, the study highlighted that leaf-wrapped herbal cigarettes were the most hazardous, with higher concentrations of fine particles and oxidative potential, which are linked to cardiovascular and respiratory diseases.  The researchers emphasized the need for stricter regulations on the marketing of these products due to their potentially harmful effects.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "health"
+      ]
+    },
     {
       "id": 63864,
       "title": "Orange Cap Winner At 15: Vaibhav Sooryavanshi Tops Batting Charts As Shubman & Sai Fall Cheaply In IPL Final | OdishaBytes",
@@ -1967,6 +2022,81 @@
         "Bangalore"
       ],
       "topic_tags": []
+    },
+    {
+      "id": 45095,
+      "title": "Gurugram rape case: Supreme Court criticises Haryana Police’s insensitive handling of four-year-old child’s rape case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gurugram-child-rape-case-supreme-court-haryana-police-haryana-child-welfare-committee/article70783384.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/n2vsww/article69577810.ece/alternates/LANDSCAPE_1200/vbk-supreme%20court-stock-sc2025-PTI05_05_2025_000098A.jpg",
+      "scraped_at": "2026-03-25 10:07:31.393333",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Haryana Police",
+      "rephrased_article": "The **Supreme Court** reprimanded the **Haryana Police** and its child welfare committee for their insensitive handling of a four-year-old's rape case. The Court, after hearing parents' allegations of inaction by the Gurugram police, ordered the constitution of a three-member Special Investigation Team (SIT) with women IPS officers from the Haryana cadre to investigate the case.  The Court also directed the **Haryana Government** to expedite the notification of the SIT and demanded the handover of case records by March 26, 2026. The Court expressed outrage over the police's handling of the case, including summoning the victim to the station instead of visiting her home, and issued show-cause notices to Gurugram Police officials for their shoddy probe.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 44982,
+      "title": "Chandigarh at 75: ‘It’s a testament to modern India’s vision of planned development,’ says Governor Kataria - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chandigarh/chandigarh-at-75-its-a-testament-to-modern-indias-vision-of-planned-development-says-governor-kataria/article70780586.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hpi7b7/article70781433.ece/alternates/LANDSCAPE_1200/PB-GOVERNOR-DRUGL1FIIK55.3.jpg.jpg",
+      "scraped_at": "2026-03-24 23:04:31.801468",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Chandigarh",
+      "rephrased_article": "**Gulab Chand Kataria**, the **Punjab Governor** and **Chandigarh Administrator**, praised Chandigarh as a model of balanced urban living during its 75th anniversary celebration. He highlighted the city's unique character, achieved through planned growth, cleanliness, green spaces, and civic infrastructure improvements.  The event honored the first group of 12 Indian modernists who contributed to the city’s planning and development, with family members receiving recognition for their deceased relatives.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 44369,
+      "title": "Opposition seeks arrest of AAP leader in Punjab - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/opposition-seeks-arrestof-aap-leader-in-punjab/article70772320.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/ipb3lp/article70772669.ece/alternates/LANDSCAPE_1200/AFP_34NF682.jpg",
+      "scraped_at": "2026-03-22 22:33:00.338775",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Laljit Singh Bhullar",
+      "rephrased_article": "**Opposition parties** in Punjab pressured the ruling **Aam Aadmi Party** to arrest their senior leader, **Laljit Singh Bhullar**, following the death of a state warehousing corporation official who allegedly committed suicide after accusing him of harassment. The deceased's family demanded his arrest and refused to perform the last rites until he is apprehended.  The opposition parties, including the Indian National Congress, Bharatiya Janata Party, and Shiromani Akali Dal, staged protests demanding justice and called for an investigation by the Central Bureau of Investigation.",
+      "party_mentioned": [
+        "Congress",
+        "AAP",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam"
+      ]
     }
   ]
 }

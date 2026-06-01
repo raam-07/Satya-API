@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 23:45:57.756289",
+  "generated_at": "2026-06-01 19:29:53.849614",
   "state": "Jharkhand",
   "capital": "Ranchi",
   "ruling_party": "JMM",
@@ -8,27 +8,27 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 69,
-    "articles_last_30d": 27
+    "total_articles": 71,
+    "articles_last_30d": 28
   },
   "top_cities_30d": {
-    "Delhi": 11,
+    "Delhi": 12,
     "Ranchi": 5,
     "Bengaluru": 3,
     "Mumbai": 3,
     "Ludhiana": 2,
     "Ghaziabad": 2,
+    "Chennai": 2,
+    "Coimbatore": 2,
     "Hyderabad": 1,
-    "Visakhapatnam": 1,
-    "Srinagar": 1,
-    "Amritsar": 1
+    "Visakhapatnam": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 21,
+    "foreign_policy": 22,
     "economy": 7,
     "protest_opposition": 6,
     "education": 5,
-    "crime_violence": 4,
+    "crime_violence": 5,
     "corruption_scam": 2,
     "health": 2,
     "farmer_agriculture": 2,
@@ -36,6 +36,46 @@
     "infrastructure": 1
   },
   "recent_articles": [
+    {
+      "id": 64081,
+      "title": "Delhi crime rate against women highest in 2024, Jaipur tops cities - India Today",
+      "url": "https://www.indiatoday.in/diu/story/delhi-crime-rate-against-women-highest-in-2024-jaipur-tops-cities-2918101-2026-05-27?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/hyderabad-rape-012148759-16x9.jpg?VersionId=TWOz9s6B4iFaKysr2XD921TGd7UgmDr2",
+      "scraped_at": "2026-06-01 00:13:22.012047",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Delhi** recorded the highest crime rate against women in India in 2024, with a rate of 130.7 cases per lakh women, according to the **National Crime Records Bureau**.  The city was followed by Telangana, Odisha, Haryana, and Rajasthan.  While some states saw declines in crime rates against women between 2020 and 2024, including Assam, Telangana experienced a significant increase. **Jaipur** reported the highest crime rate among surveyed cities at 199.6 cases per lakh women, while **Chennai** had one of the lowest rates.  Major crimes against women declined in 2024, with decreases seen in cruelty by husbands or relatives, kidnapping and abduction, assaults on women, and dowry-related crimes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Haryana",
+        "Jharkhand",
+        "Manipur",
+        "Nagaland",
+        "Odisha",
+        "Rajasthan",
+        "Telangana",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Kolkata",
+        "Jaipur",
+        "Lucknow",
+        "Indore",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 63826,
       "title": "Former ED special director Satyabrata Kumar who probed Nirav Modi, Vijay Mallya, takes VRS | Today News",
@@ -2327,6 +2367,36 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 44301,
+      "title": "Organisational changes are being made to reach every part of India, says Sunil Ambekar of RSS - The Hindu",
+      "url": "https://www.thehindu.com/news/national/organisational-changes-are-being-made-to-reach-every-part-of-india-says-sunil-ambekar-of-rss/article70772451.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/c6jphs/article70773222.ece/alternates/LANDSCAPE_1200/Sunil%20Ambekar%20RSS%201.JPG",
+      "scraped_at": "2026-03-22 17:35:35.097042",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "RSS",
+      "rephrased_article": "The RSS, celebrating its 100th anniversary, maintains its core ideology of a Hindu nation where Hindutva is understood as a way of life. The organization continues to expand its reach through shakhas and provincial units, addressing issues like demographic change, cross-border infiltration, and population imbalance.  While the Sangh views these concerns as national security threats, it also acknowledges the right of citizens to express dissatisfaction through peaceful means. The organization supports the government's stance on international conflicts while emphasizing a commitment to truth and people's welfare.  The Sangh believes that young people in India are aspirational and focused on contributing to the nation's growth, while acknowledging that some incidents involving religious practices may be perceived as issues of public order.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Jharkhand",
+        "West Bengal",
+        "Andaman"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
       ]
     }
   ]

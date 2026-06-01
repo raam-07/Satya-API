@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 23:45:57.825644",
+  "generated_at": "2026-06-01 19:29:53.923322",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,34 +8,290 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 368,
-    "articles_last_30d": 129
+    "total_articles": 397,
+    "articles_last_30d": 130
   },
   "top_cities_30d": {
-    "Hyderabad": 49,
-    "Delhi": 14,
-    "Mumbai": 9,
+    "Hyderabad": 47,
+    "Delhi": 18,
+    "Mumbai": 8,
+    "Kolkata": 4,
     "Bengaluru": 3,
-    "Kolkata": 3,
-    "Chennai": 2,
-    "Kanpur": 2,
-    "Varanasi": 1,
-    "Allahabad": 1,
-    "Madurai": 1
+    "Chennai": 3,
+    "Kanpur": 3,
+    "Jaipur": 2,
+    "Lucknow": 2,
+    "Varanasi": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 100,
-    "infrastructure": 37,
-    "education": 33,
-    "economy": 30,
-    "farmer_agriculture": 21,
-    "protest_opposition": 17,
-    "crime_violence": 12,
-    "health": 11,
-    "rape_sexual_crime": 10,
+    "foreign_policy": 98,
+    "infrastructure": 36,
+    "education": 31,
+    "economy": 28,
+    "farmer_agriculture": 19,
+    "protest_opposition": 18,
+    "crime_violence": 14,
+    "health": 13,
+    "rape_sexual_crime": 11,
     "corruption_scam": 7
   },
   "recent_articles": [
+    {
+      "id": 64293,
+      "title": "Telangana CM Revanth Reddy accuses his Maharashtra counterpart of showing callous apathy towards Tummidihatti barrage - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-accuses-his-maharashtra-counterpart-of-showing-callous-apathy-towards-tummidihatti-barrage/article71049717.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-01 16:43:15.666045",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Devendra Fadnavis",
+      "rephrased_article": "**Chief Minister A. Revanth Reddy** accused **Maharashtra Chief Minister Devendra Fadnavis** of being apathetic to his requests for talks regarding the construction of the proposed Tummidihatti barrage in Telangana's Adilabad district.  **Revanth Reddy** demanded that **Union Minister G. Kishan Reddy** take the initiative to facilitate these talks, warning that farmers would erupt in anger if the project is not completed. He also asserted that the state government was committed to purchasing all procured paddy and maize by June 15th or face consequences, including dumping the grains in front of BJP leaders' houses.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 64223,
+      "title": "JEE Advanced AIR 1 Shubham Kumar’s recipe for success: Dedication, discipline, consistency | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/jee-advanced-air-1-shubham-kumars-recipe-for-success-dedication-discipline-consistency-10718314/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Shubham-Kumar.jpg",
+      "scraped_at": "2026-06-01 10:41:32.084645",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Shubham Kumar",
+      "rephrased_article": "**Vidheesha Kuntamalla**, a Senior Correspondent for **The Indian Express**, is known for her investigative reporting on higher education policy, international student immigration, and academic freedom.  Her work often connects policy decisions with lived realities, highlighting the impact of administrative actions, political pressure, and global shifts on students, faculty, and institutions. Recent articles by Kuntamalla have focused on JNU's legal battles with students and faculty, the challenges faced by Indian students in the US due to immigration policies, and the shrinking academic freedom at South Asian University.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 64090,
+      "title": "Delhi Confidential: Mandarin Connect | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/delhi-confidential/vikram-doraiswami-mandarin-china-diplomacy-10717574/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Vikram-Doraiswami.jpg",
+      "scraped_at": "2026-06-01 00:13:49.300679",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Vikram Doraiswami",
+      "rephrased_article": "**Vikram Doraiswami**, newly appointed Indian ambassador to China, has begun engaging with Chinese social media audiences by introducing the Indian embassy in Beijing and its facilities.  He is using his fluent Mandarin skills, honed during his time in China as a diplomat, to connect with the audience. Meanwhile, **Asaduddin Owaisi**, chief of the AIMIM party, has warned **Shaukat Ali**, state unit chief, that he will be removed if the party's performance in Uttar Pradesh does not improve before upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "AIMIM",
+        "Owaisi"
+      ],
+      "ministers_mentioned": [
+        "Asaduddin Owaisi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64081,
+      "title": "Delhi crime rate against women highest in 2024, Jaipur tops cities - India Today",
+      "url": "https://www.indiatoday.in/diu/story/delhi-crime-rate-against-women-highest-in-2024-jaipur-tops-cities-2918101-2026-05-27?utm_source=rss",
+      "source": "India Today",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/hyderabad-rape-012148759-16x9.jpg?VersionId=TWOz9s6B4iFaKysr2XD921TGd7UgmDr2",
+      "scraped_at": "2026-06-01 00:13:22.012047",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Delhi** recorded the highest crime rate against women in India in 2024, with a rate of 130.7 cases per lakh women, according to the **National Crime Records Bureau**.  The city was followed by Telangana, Odisha, Haryana, and Rajasthan.  While some states saw declines in crime rates against women between 2020 and 2024, including Assam, Telangana experienced a significant increase. **Jaipur** reported the highest crime rate among surveyed cities at 199.6 cases per lakh women, while **Chennai** had one of the lowest rates.  Major crimes against women declined in 2024, with decreases seen in cruelty by husbands or relatives, kidnapping and abduction, assaults on women, and dowry-related crimes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Haryana",
+        "Jharkhand",
+        "Manipur",
+        "Nagaland",
+        "Odisha",
+        "Rajasthan",
+        "Telangana",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Kolkata",
+        "Jaipur",
+        "Lucknow",
+        "Indore",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64024,
+      "title": "‘With my fellow anti-national Soros agents’: Rahul Gandhi’s dig at Centre over CBSE row | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/rahul-gandhi-soros-osm-bjp-cbse-10717130/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/rahul-gandhi-25.jpg",
+      "scraped_at": "2026-05-31 22:36:20.407194",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Rahul Gandhi**, the Leader of Opposition in Lok Sabha, met with students who alleged they were labeled \"anti-nationals\" and \"deep state agents\" for questioning the **CBSE's On-Screen Marking (OSM)** system.  Gandhi expressed support for these students, demanding a bright future for them while criticizing the government's response to their concerns. The **CBSE** has defended its contract process, stating it followed proper protocols and awarded the contract to Coempt Edu Teck based on a competitive bidding process.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "corruption_scam",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 63996,
+      "title": "200 nursing officers attend Florence Nightingale CNE programme at Sarojini Devi Eye Hospital - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/200-nursing-officers-attend-florence-nightingale-cne-programme-at-sarojini-devi-eye-hospital/article71044645.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/v238ni/article71044648.ece/alternates/LANDSCAPE_1200/IMG-20260531-WA0014.jpg",
+      "scraped_at": "2026-05-31 21:08:20.095866",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana State Nursing Council",
+      "rephrased_article": "**The Government Sarojini Devi Eye Hospital** in Telangana hosted the first **Florence Nightingale Continuing Nursing Education (CNE) Programme** for ophthalmic nursing officers on May 31st. The program, attended by over 200 delegates from across the state, aimed to enhance professional development and provide recognized academic credits through the **Telangana State Nursing Council**.  The council awarded 5 credit hour points for participation in the program, which covered topics such as patient management, surgical procedures, and sterile protocols.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 63932,
+      "title": "South Coast Railway zone operational from today: How divisions, routes and train operations will change",
+      "url": "https://indianexpress.com/article/india/south-coast-railway-zone-operational-from-june-1-how-divisions-routes-and-train-operations-will-change-10717326/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/south-coast.jpg",
+      "scraped_at": "2026-05-31 19:52:36.835946",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Railways",
+      "rephrased_article": "The **Indian Railways**' newly created South Coast Railway (SCoR) zone officially begins operations on June 1, 2026. The zone encompasses parts of Andhra Pradesh and neighboring regions, including the Waltair Division which will be split into two parts: Rayagada Division and Visakhapatnam Division.  The SCoR zone is expected to improve operational efficiency, enhance passenger train services, and facilitate faster execution of railway infrastructure projects. It will manage a workforce of nearly 17,000 employees and handle over 500 trains during peak seasons.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 63915,
+      "title": "India-Oman CEPA trade deal takes effect on Monday - Telangana Today",
+      "url": "https://telanganatoday.com/india-oman-cepa-trade-deal-takes-effect-on-monday",
+      "source": "Telangana Today",
+      "image_url": "https://media.telanganatoday.com/wp-content/uploads/2026/06/India-Oman.jpg",
+      "scraped_at": "2026-05-31 19:51:42.103967",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** and **Oman**’s Comprehensive Economic Partnership Agreement (CEPA) takes effect on June 1, 2026, offering zero-duty access to a range of Indian labor-intensive exports. The agreement expands opportunities in services and professional mobility, strengthening bilateral trade and economic ties.  The Finance Ministry issued notification on duty concessions for Omani goods under the trade pact, which will come into force on June 1. **India** is offering tariff liberalisation on 77.79% of its total tariff lines, covering 94.81% of India’s imports from Oman by value.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 63912,
+      "title": "India’s curtain raiser events mark Yoga Day build-up in Shanghai - Telangana Today",
+      "url": "https://telanganatoday.com/indias-curtain-raiser-events-mark-yoga-day-build-up-in-shanghai",
+      "source": "Telangana Today",
+      "image_url": "https://media.telanganatoday.com/wp-content/uploads/2026/06/China-Yoga.jpg",
+      "scraped_at": "2026-05-31 19:51:39.145626",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Yoga",
+      "rephrased_article": "**Pratik Mathur**, Consul General of India in Shanghai, inaugurated two events in Shanghai to promote the 12th International Yoga Day. The first event was a yoga camp for Bloodline, East Asia's largest blood donation program, highlighting the connection between yoga and health practices.  The second event was the Annual East China Indian Community Badminton Competition, showcasing the growing interest in yoga within the Indian community. **Mathur** emphasized that Yoga transcends cultural boundaries and promotes global well-being. The events are part of ongoing outreach activities leading up to International Yoga Day 2026 on June 21st.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 63886,
       "title": "JEE Advanced Results 2026: How to check & download IIT Roorkee scorecards",
@@ -4956,232 +5212,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "crime_violence"
-      ]
-    },
-    {
-      "id": 52582,
-      "title": "SIR is a bloodless massacre, says Parakala Prabhakar - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/sir-is-a-bloodless-massacre-says-parakala-prabhakar/article70881277.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/foo8io/article70881760.ece/alternates/LANDSCAPE_1200/DSC9573.jpg",
-      "scraped_at": "2026-04-19 16:06:40.413023",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Parakala Prabhakar**, a political and economic analyst, criticized the proposed **Special Integrated Revision (SIR)** of electoral rolls in Telangana, calling it a \"bloodless massacre\" that threatens democratic rights. He questioned the need for a fresh revision when the annual Special Summary Revision (SSR) is already in place, criticizing the **Election Commission of India**'s justification and lack of transparency regarding irregularities and data released. Prabhakar cited examples from other states where SIR resulted in voter deletions with unclear criteria and inconsistencies, urging the government to first prepare the voter list through the State Election Commission before implementing SIR.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Kerala",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Telangana",
-        "Puducherry",
-        "Andaman"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52419,
-      "title": "BJP will never understand the self-respect of Telangana: Ponnam Prabhakar - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/bjp-will-never-understand-the-self-respect-of-telangana-ponnam-prabhakar/article70878283.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/telangana/j67xo6/article70878281.ece/alternates/LANDSCAPE_1200/Ponnam.jpeg",
-      "scraped_at": "2026-04-19 03:26:04.735963",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Ponnam Prabhakar**, the **Welfare Minister of Telangana**, criticized the **Bharatiya Janata Party (BJP)** for comparing the state's struggle for independence to the partition of India and attempting to undermine its political existence through a \"ridiculous\" delimitation process.  He accused **BJP leaders** of being \"Betrayers of Telangana\" for justifying the remarks made by **Tejasvi Surya**, a BJP MP, in Parliament.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52325,
-      "title": "Cleanup drive, heritage walk shine spotlight on Irrum Manzil Palace on World Heritage Day - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/cleanup-drive-heritage-walk-shine-spotlight-on-irrum-manzil-palace-on-world-heritage-day/article70878253.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/a6jz48/article70878263.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-18%20at%203.54.37%20PM.jpeg",
-      "scraped_at": "2026-04-18 18:09:23.398170",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Irrum Manzil Palace",
-      "rephrased_article": "**Quli Qutub Shah Urban Development Authority (QQSUDA)** organized a clean-up and treasure hunt event at the historic Irrum Manzil Palace on Saturday to mark World Heritage Day 2026. The initiative, involving over 60 volunteers, was conducted in collaboration with the **Roads and Buildings Department** and **Deccan Archive**. Special Chief Secretary of the Municipal Administration and Urban Development department, **Jayesh Ranjan**, emphasized the historical significance of Irrum Manzil and the potential for its conservation and adaptive reuse.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 52297,
-      "title": "Second installment of Rythu Bharosa on April 20 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/second-installment-of-rythu-bharosa-on-april-20/article70878447.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-18 16:10:19.780678",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Telangana government",
-      "rephrased_article": "**The Telangana government** will release the second installment of financial assistance under the Rythu Bharosa scheme for farmers on April 20th. The funds, totaling ₹5,653 crore, will be disbursed directly into the accounts of approximately 45,11,947 eligible farmers.  This follows the successful first installment disbursement on March 23rd, benefiting all eligible farmers with nearly ₹3,590 crore. **Chief Minister A Revanth Reddy** and other ministers will formally release the funds during a public meeting in Kataram, Bhupalpally district.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 52269,
-      "title": "Give AHTUs teeth, track migrant flows, dismantle organised bonded labour and sex trafficking networks - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/workshop-highlights-need-for-empowered-anti-trafficking-units-and-coordinated-efforts-to-combat-human-trafficking-effectively/article70877508.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/65lt5k/article70877505.ece/alternates/LANDSCAPE_1200/DSC9364.jpg",
-      "scraped_at": "2026-04-18 14:18:09.098935",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Telangana Police",
-      "rephrased_article": "**Experts** and officials at a State-Level Convergence Workshop on Combating Human Trafficking and Bonded Labour in Hyderabad emphasized the need to treat trafficking as organized crime. **Deputy Inspector General of Police Parimala Hana Nutan**, representing the **Women Safety Wing of Telangana Police**, highlighted the importance of empowering specialized units like cybercrime police stations to investigate trafficking cases effectively.  **Prajwala co-founder Sunitha Krishnan** stressed the need for proactive monitoring and real-time coordination between states, while **Joint Commissioner of Labour, Hyderabad, Sunitha Gopal** called for regular inspections to monitor migrant workers entering the country. The workshop also emphasized the need for a victim-centric approach, including greater support for adult victims who often receive less empathy than children.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 52256,
-      "title": "Stalin drumming up non-existent issues: Tamilisai Soundararajan - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-drumming-up-non-existent-issues-tamilisai-soundararajan/article70877201.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/imwwkv/article70878012.ece/alternates/LANDSCAPE_1200/DSC_2024.jpg",
-      "scraped_at": "2026-04-18 14:13:42.615754",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "M.K. Stalin",
-      "rephrased_article": "**Tamilisai Soundararajan**, senior BJP leader and former Telangana Governor, criticized **M.K. Stalin**, the Chief Minister of Tamil Nadu, for portraying a fabricated war against the state.  She accused **Stalin** of raising non-existent issues such as delimitation, the National Education Policy, and electoral roll revisions to distract from the poor law and order situation and governance in the state.",
-      "party_mentioned": [
-        "BJP",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52242,
-      "title": "Telangana Transport Minister raises concerns over rise in fatal road accidents - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-transport-minister-raises-concerns-over-rise-in-fatal-road-accidents/article70877178.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/sh33t2/article70877211.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-18%20at%202.26.49%20PM.jpeg",
-      "scraped_at": "2026-04-18 12:05:58.993299",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "**Transport Minister Ponnam Prabhakar** expressed concern over the rising number of fatal road accidents during a 'Arrive Alive' program in Mahabubnagar district. He highlighted media reports indicating significant loss of life and distress among families, emphasizing that government initiatives require public participation for success.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 52240,
-      "title": "Telangana Govt pushes for free MMTS travel to boost use of public transport, offers to bear ticket fares - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/government-pushes-for-free-mmts-travel-to-boost-use-of-public-transport/article70870387.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pelasb/article70870508.ece/alternates/LANDSCAPE_1200/SCR.jpg",
-      "scraped_at": "2026-04-18 12:05:00.962185",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "**Telangana**'s Chief Secretary, K. Ramakrishna Rao, requested the **South Central Railway (SCR)** to offer free public travel on MMTS suburban trains.  Rao made this request during a coordination meeting with **SCR General Manager Sanjay Kumar Srivastava**, and senior officials from both sides attended. The government offered to cover ticket fares for an extended period to encourage public transport use.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 52219,
-      "title": "CBI arrests former bank official, two others in ‘digital arrest’ case - The Hindu",
-      "url": "https://www.thehindu.com/news/national/cbi-arrests-former-bank-official-two-others-in-digital-arrest-case/article70876914.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/h7323o/article70877336.ece/alternates/LANDSCAPE_1200/IMG_PTI12_03_2024_001010_2_1_JIDRD0VC.jpg",
-      "scraped_at": "2026-04-18 11:13:36.122890",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "CBI",
-      "rephrased_article": "**The Central Bureau of Investigation (CBI)** arrested three individuals, including a former bank official, in connection with a \"digital arrest\" scam. The arrests followed searches at five locations across Telangana and Andhra Pradesh.  The victims, a senior citizen, was allegedly coerced into transferring over ₹1.6 crore under the threat of digital arrest. **The CBI** is investigating the case based on a Supreme Court order.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "corruption_scam"
       ]
     }
   ]

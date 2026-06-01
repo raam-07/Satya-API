@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-31 23:45:58.177013",
+  "generated_at": "2026-06-01 19:29:54.309875",
   "stats": {
-    "total_promises": 33,
+    "total_promises": 50,
     "kept": 2,
     "broken": 11,
-    "ongoing": 19
+    "ongoing": 36
   },
   "by_status": {
     "broken": [
@@ -131,7 +131,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -256,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
+        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
       },
       {
         "id": "p016",
@@ -281,7 +281,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed and the river remains polluted."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "ongoing": [
@@ -342,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p013",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
       },
       {
         "id": "promise_1780208617_8",
@@ -627,6 +627,244 @@
         "person": "Revanth Reddy",
         "party": "",
         "promise": "Launched the ‘Arrive Alive’ campaign in January to promote responsible driving.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780272762_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to clear ₹6,000 crore in retirement benefits within 100 days.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780274784_1",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Yogi Adityanath promised to provide free annual health insurance coverage of ₹5 lakh.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780274939_2",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu promised to establish 'labour addas' across Andhra Pradesh, offering skill development hubs for workers.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780276231_3",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu directed officials to increase fuel supply by 10% and monitor stock levels.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780277157_4",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah promised that Central forces would remain in West Bengal for 60 days to curb post-election violence.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780291365_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Prime Minister Narendra Modi announced financial assistance for the victims of the road accident.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780292606_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Chief Minister A. Revanth Reddy announced plans to complete unfinished Indiramma houses.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780292965_2",
+        "person": "Rahul Gandhi",
+        "party": "",
+        "promise": "Rahul Gandhi promised to fight against the Union government's ₹92,000 crore infrastructure project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780293623_3",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav proposed a resolution to implement women's reservation in the Madhya Pradesh Assembly after the delimitation process is complete.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780295382_4",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu has promised to reduce Andhra Pradesh's power purchase cost to ₹4.60 per unit by the end of the year.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780297953_5",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "All refugees fleeing religious persecution in neighboring countries would be granted citizenship through the Citizenship Amendment Act procedures.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780307050_0",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav's government will double the market price of land acquired for farmers.",
+        "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780308062_1",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "The government will establish a Commissionerate of Skill, Employment and Training with District Skill Development Plans to identify priority sectors and employment opportunities aligned with local economic potential.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780309047_2",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Prime Minister Narendra Modi called for reduced foreign travel.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780313116_0",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav will increase compensation for agricultural land acquisition to four times the market price.",
+        "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780316240_1",
+        "person": "V.D. Satheesan",
+        "party": "",
+        "promise": "V.D. Satheesan pledged to develop a master plan to transform Kochi into a model city within six months.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780317544_2",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Modi announced financial assistance to the victims' families.",
         "category": "crime_violence",
         "status": "ongoing",
         "made_on": "",
@@ -713,7 +951,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       }
     ]
   },
@@ -842,7 +1080,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -867,7 +1105,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -976,7 +1214,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -1026,7 +1264,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
+        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
       },
       {
         "id": "p020",
@@ -1065,6 +1303,62 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780291365_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Prime Minister Narendra Modi announced financial assistance for the victims of the road accident.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780297953_5",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "All refugees fleeing religious persecution in neighboring countries would be granted citizenship through the Citizenship Amendment Act procedures.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780309047_2",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Prime Minister Narendra Modi called for reduced foreign travel.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780317544_2",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Modi announced financial assistance to the victims' families.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Amit Shah": [
@@ -1092,6 +1386,20 @@
         ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
+      },
+      {
+        "id": "promise_1780277157_4",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah promised that Central forces would remain in West Bengal for 60 days to curb post-election violence.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Arvind Kejriwal": [
@@ -1168,7 +1476,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed and the river remains polluted."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "Rahul Gandhi": [
@@ -1195,7 +1503,21 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
+      },
+      {
+        "id": "promise_1780292965_2",
+        "person": "Rahul Gandhi",
+        "party": "",
+        "promise": "Rahul Gandhi promised to fight against the Union government's ₹92,000 crore infrastructure project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Yogi Adityanath": [
@@ -1223,6 +1545,20 @@
         ],
         "gemma_suggestion": "broken",
         "gemma_reasoning": "Crime stats show mixed results and encounter killings rose significantly."
+      },
+      {
+        "id": "promise_1780274784_1",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Yogi Adityanath promised to provide free annual health insurance coverage of ₹5 lakh.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Mamata Banerjee": [
@@ -1274,7 +1610,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
       }
     ],
     "Revanth Reddy": [
@@ -1326,6 +1662,34 @@
         "party": "",
         "promise": "Launched the ‘Arrive Alive’ campaign in January to promote responsible driving.",
         "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780272762_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to clear ₹6,000 crore in retirement benefits within 100 days.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780292606_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Chief Minister A. Revanth Reddy announced plans to complete unfinished Indiramma houses.",
+        "category": "infrastructure",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -1428,6 +1792,122 @@
         "party": "",
         "promise": "Chandrababu Naidu unveiled a ₹5.11 lakh crore credit plan for the Financial Year 2026–27, prioritizing agriculture and allied activities.",
         "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780274939_2",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu promised to establish 'labour addas' across Andhra Pradesh, offering skill development hubs for workers.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780276231_3",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu directed officials to increase fuel supply by 10% and monitor stock levels.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780295382_4",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu has promised to reduce Andhra Pradesh's power purchase cost to ₹4.60 per unit by the end of the year.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780308062_1",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "The government will establish a Commissionerate of Skill, Employment and Training with District Skill Development Plans to identify priority sectors and employment opportunities aligned with local economic potential.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Mohan Yadav": [
+      {
+        "id": "promise_1780293623_3",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav proposed a resolution to implement women's reservation in the Madhya Pradesh Assembly after the delimitation process is complete.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780307050_0",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav's government will double the market price of land acquired for farmers.",
+        "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780313116_0",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav will increase compensation for agricultural land acquisition to four times the market price.",
+        "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "V.D. Satheesan": [
+      {
+        "id": "promise_1780316240_1",
+        "person": "V.D. Satheesan",
+        "party": "",
+        "promise": "V.D. Satheesan pledged to develop a master plan to transform Kochi into a model city within six months.",
+        "category": "infrastructure",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -1563,7 +2043,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -1588,7 +2068,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -1697,7 +2177,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -1747,7 +2227,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
+        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
       },
       {
         "id": "p013",
@@ -1898,7 +2378,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed and the river remains polluted."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "INC": [
@@ -1925,7 +2405,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       }
     ],
     "TMC": [
