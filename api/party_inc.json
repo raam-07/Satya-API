@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01 19:29:53.725698",
+  "generated_at": "2026-06-02 00:01:30.965214",
   "party": "INC",
   "full_name": "Indian National Congress",
   "ideology": "Centrist, Social liberalism",
@@ -12,11 +12,11 @@
   ],
   "color": "#00BFFF",
   "stats": {
-    "total_articles": 1290,
-    "articles_last_30d": 502,
+    "total_articles": 1313,
+    "articles_last_30d": 499,
     "sentiment_breakdown_30d": {
-      "neutral": 164,
-      "negative": 220,
+      "neutral": 163,
+      "negative": 218,
       "positive": 118
     }
   },
@@ -108,6 +108,61 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 64360,
+      "title": "'Maharashtra Model' In West Bengal? Buzz Over New Trinamool Congress Without Mamata Banerjee",
+      "url": "https://www.ndtv.com/india-news/maharashtra-model-in-west-bengal-buzz-over-new-trinamool-congress-without-mamata-banerjee-11577769#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/7mjut5es_mamata-abhishek_625x300_31_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-01 20:58:44.650643",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** (TMC) is facing internal dissent following the expulsion of two whistleblower MLAs, Ritabrata Bandopadhyay and Sandipan Saha.  About 60 out of 80 **Trinamool** MLAs missed a meeting at **Mamata Banerjee's** house, raising concerns over party loyalty and unity. **Mamata Banerjee** accused the BJP of attempting to poach her MLAs with intimidation and financial inducements. Some MLAs have met separately, fueling speculation about potential party splits.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 64347,
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida suit says",
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/56df/live/5b04bfb0-5df3-11f1-9565-ef0970da1cfe.jpg",
+      "scraped_at": "2026-06-01 20:58:23.890850",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "OpenAI",
+      "rephrased_article": "**Florida Attorney General James Uthmeier** filed a lawsuit against **OpenAI**, alleging the company's AI chatbot, ChatGPT, endangers children, aids and abets mass shooters, and encourages suicide. The lawsuit claims **Sam Altman**, OpenAI's CEO, is personally liable for reckless conduct.  The suit cites the Florida State University mass shooting and the killing of two University of South Florida doctoral students as examples of ChatGPT's harmful potential. **OpenAI** responded by stating it prioritizes safety and has implemented industry-leading protections for minors.",
+      "party_mentioned": [
+        "INC"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 64296,
       "title": "Trinamool MLAs facing threats, not being allowed to attend party meetings: Mamata - The Hindu",
@@ -5690,66 +5745,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 61891,
-      "title": "Leader of Opposition R. Ashok criticises Congress government - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/leader-of-opposition-r-ashok-criticises-congress-government/article71025294.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/dt9gx5/article71025457.ece/alternates/LANDSCAPE_1200/9911_26_5_2026_18_40_58_1_ASHOKA_HASSAN.JPEG",
-      "scraped_at": "2026-05-26 18:50:18.869840",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress party",
-      "rephrased_article": "**R. Ashok**, the **Opposition Leader in the Legislative Assembly**, criticized the **Congress party's** internal power struggle, stating that it has rendered the Karnataka government dysfunctional. He claimed that most ministers are in Delhi while the state administration lacks direction, and the high command is ineffective in restoring order.  **Siddaramaiah**, the Chief Minister of Karnataka, faces accusations of accumulating excessive debt through \"unscientific and fiscally irresponsible guarantee schemes,\" according to **Ashok**.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 61853,
-      "title": "CM Vijay to fly to New Delhi on Wednesday, to call on PM Modi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/cmvijayto-fly-to-new-delhi-on-wednesday-to-call-on-pm-modi/article71025857.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-26 16:30:00.240557",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, will travel to New Delhi on Wednesday to meet **Prime Minister Narendra Modi**.  He plans to discuss issues including financial matters and the **Mekedatu** reservoir project with **Modi**.  **Vijay** is also expected to meet with Union Ministers and may meet with **Rahul Gandhi**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "economy"
-      ]
     }
   ]
 }

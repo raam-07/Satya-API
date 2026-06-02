@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01 19:29:53.874960",
+  "generated_at": "2026-06-02 00:01:31.104728",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 294,
-    "articles_last_30d": 126
+    "total_articles": 297,
+    "articles_last_30d": 127
   },
   "top_cities_30d": {
     "Delhi": 41,
@@ -20,14 +20,14 @@
     "Hyderabad": 6,
     "Thane": 4,
     "Nagpur": 4,
-    "Jaipur": 3,
-    "Chennai": 3
+    "Kolkata": 4,
+    "Jaipur": 3
   },
   "top_topics_30d": {
     "foreign_policy": 97,
-    "education": 40,
+    "education": 41,
     "crime_violence": 35,
-    "protest_opposition": 31,
+    "protest_opposition": 32,
     "economy": 29,
     "infrastructure": 24,
     "corruption_scam": 17,
@@ -36,6 +36,39 @@
     "health": 6
   },
   "recent_articles": [
+    {
+      "id": 64360,
+      "title": "'Maharashtra Model' In West Bengal? Buzz Over New Trinamool Congress Without Mamata Banerjee",
+      "url": "https://www.ndtv.com/india-news/maharashtra-model-in-west-bengal-buzz-over-new-trinamool-congress-without-mamata-banerjee-11577769#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/7mjut5es_mamata-abhishek_625x300_31_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-01 20:58:44.650643",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** (TMC) is facing internal dissent following the expulsion of two whistleblower MLAs, Ritabrata Bandopadhyay and Sandipan Saha.  About 60 out of 80 **Trinamool** MLAs missed a meeting at **Mamata Banerjee's** house, raising concerns over party loyalty and unity. **Mamata Banerjee** accused the BJP of attempting to poach her MLAs with intimidation and financial inducements. Some MLAs have met separately, fueling speculation about potential party splits.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 64299,
       "title": "Hooch deaths: 4 Pune Rural cops suspended for being in contact with key accused | Pune News - The Indian Express",
@@ -5823,31 +5856,6 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 49596,
-      "title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/4asfhx/article70842077.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000287B.jpg",
-      "scraped_at": "2026-04-09 09:55:44.844181",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Rahul Gandhi",
-      "rephrased_article": "**Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **Rahul Gandhi** before a special MP/MLA court in Pune. He stated that the title \"Swatantryaveer\" was not granted by any government and was given by writer **Sadashiv Ranade** in his biography.  He also confirmed that **Savarkar** studied in London during British rule, wrote several books under different names to avoid attention from authorities, and some of these works are available in libraries and archives. The cross-examination continues on April 13th.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Pune"
-      ],
-      "topic_tags": [
-        "protest_opposition"
       ]
     }
   ]

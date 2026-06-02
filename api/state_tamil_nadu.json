@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01 19:29:53.915594",
+  "generated_at": "2026-06-02 00:01:31.142829",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 947,
-    "articles_last_30d": 322
+    "total_articles": 967,
+    "articles_last_30d": 316
   },
   "top_cities_30d": {
-    "Chennai": 76,
-    "Delhi": 38,
+    "Chennai": 75,
+    "Delhi": 39,
     "Coimbatore": 18,
     "Madurai": 17,
     "Bengaluru": 12,
@@ -24,18 +24,46 @@
     "Visakhapatnam": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 250,
-    "education": 76,
+    "foreign_policy": 246,
+    "education": 75,
     "protest_opposition": 69,
-    "economy": 51,
+    "economy": 52,
     "crime_violence": 44,
-    "infrastructure": 43,
+    "infrastructure": 42,
     "farmer_agriculture": 30,
     "corruption_scam": 27,
     "health": 21,
     "rape_sexual_crime": 12
   },
   "recent_articles": [
+    {
+      "id": 64389,
+      "title": "Discoms' poor financial health poses risks for power traders: Fitch - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/discoms-poor-financial-health-poses-risks-for-power-traders-fitch/articleshow/10430186.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/photo/65498029.cms",
+      "scraped_at": "2026-06-01 21:00:29.562018",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Fitch Ratings** warns that the financial struggles of state electricity boards in India pose a significant risk to power traders.  The agency cites widening losses and liquidity constraints at these utilities, leading to delays and defaults in payments to traders. This increased counterparty risk could force investors to seek higher returns or alternative investments, potentially impacting the business of power trading companies like **PTC India** and **Tata Power Trading Company**. The report highlights that states with significant short-term electricity purchases from traders, such as Tamil Nadu and Rajasthan, face substantial energy deficits and financial losses.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 64266,
       "title": "I came to know about my brother’s death only through Google search: Himachal Pradesh accident victim’s sister - The Hindu",
@@ -5291,29 +5319,6 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 58210,
-      "title": "Subsidy for power supply to domestic consumers to cross ₹10,000-crore mark - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/subsidy-for-power-supply-to-domestic-consumers-to-cross-10000-croremark/article70962501.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/vwbb0z/article70963227.ece/alternates/LANDSCAPE_1200/742_12-12-2018_20-10-37_1_TANGEDCOSUBSTATION1.JPG",
-      "scraped_at": "2026-05-10 18:39:35.813605",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Tamil Nadu government",
-      "rephrased_article": "**The Tamil Nadu government** announced a new 200-unit free electricity scheme for domestic consumers using below 500 units monthly, increasing the state's annual subsidy burden by nearly ₹2,000 crore. The Energy Department order also mandated an additional tariff subsidy of ₹1,730 crore to be compensated to **Tamil Nadu Power Distribution Corporation limited (TNPDCL)**. This move is expected to push the annual domestic consumer tariff subsidy past ₹10,100 crore for the fiscal year.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

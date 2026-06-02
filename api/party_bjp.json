@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01 19:29:53.716283",
+  "generated_at": "2026-06-02 00:01:30.956535",
   "party": "BJP",
   "full_name": "Bharatiya Janata Party",
   "ideology": "Hindu nationalism, right-wing",
@@ -25,12 +25,12 @@
   ],
   "color": "#FF9933",
   "stats": {
-    "total_articles": 1773,
-    "articles_last_30d": 760,
+    "total_articles": 1828,
+    "articles_last_30d": 763,
     "sentiment_breakdown_30d": {
-      "positive": 246,
-      "neutral": 195,
-      "negative": 319
+      "positive": 253,
+      "neutral": 194,
+      "negative": 316
     }
   },
   "ministers": [
@@ -143,6 +143,13 @@
       "name": "Yogi Adityanath",
       "role": "Chief Minister",
       "state": "Uttar Pradesh",
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 0
+    },
+    {
+      "name": "Samrat Choudhary",
+      "role": "Chief Minister",
+      "state": "Bihar",
       "criminal_cases": 0,
       "criminal_cases_in_news": 0
     },
@@ -479,6 +486,84 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 64384,
+      "title": "The Four Eyes that keep Satwik & Chirag on the right track",
+      "url": "https://indianexpress.com/article/sports/badminton/the-four-eyes-that-keep-satwik-chirag-on-the-right-track-10718777/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Satwik-chirag-29.jpg",
+      "scraped_at": "2026-06-01 21:00:14.204696",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Satwik & Chirag",
+      "rephrased_article": "**Shivani Naik**, a senior sports journalist and Assistant Editor at **The Indian Express**, is a leading voice in Indian Olympic sports journalism, particularly known for her expertise in badminton, wrestling, and basketball. Her work focuses on the technical aspects of athletic performance, often exploring the personal journeys of athletes beyond the podium.  Her recent articles have covered the rise of \"Hulks\" in Indian badminton, PV Sindhu's tactical shifts, and the Group of Death at the BWF World Tour Finals. Naik also writes about South African cricket, sharing her passionate support for the Proteas despite their history of losing ICC knockouts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 64360,
+      "title": "'Maharashtra Model' In West Bengal? Buzz Over New Trinamool Congress Without Mamata Banerjee",
+      "url": "https://www.ndtv.com/india-news/maharashtra-model-in-west-bengal-buzz-over-new-trinamool-congress-without-mamata-banerjee-11577769#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/7mjut5es_mamata-abhishek_625x300_31_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-01 20:58:44.650643",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** (TMC) is facing internal dissent following the expulsion of two whistleblower MLAs, Ritabrata Bandopadhyay and Sandipan Saha.  About 60 out of 80 **Trinamool** MLAs missed a meeting at **Mamata Banerjee's** house, raising concerns over party loyalty and unity. **Mamata Banerjee** accused the BJP of attempting to poach her MLAs with intimidation and financial inducements. Some MLAs have met separately, fueling speculation about potential party splits.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 64356,
+      "title": "Amid Public Fury, Trinamool Leaders Return 'Cut Money' In Bengal Village",
+      "url": "https://www.ndtv.com/india-news/amid-public-fury-trinamool-leaders-return-cut-money-in-bengal-village-11577793#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/68ss306_tmc-cut-money_625x300_02_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-01 20:58:35.962390",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "In Cooch Behar's Mathabhanga district, **Trinamool Congress** leaders and workers are returning money they collected as \"cut money\" or through extortion. The unprecedented incident took place on Sunday in the Fakirer Kuthi area of Pachagarh Gram Panchayat, where villagers were called to a gathering.  **Tapan Dey**, the TMC booth president, personally handed back some of the money to several villagers. **Babai Barman**, a highly influential Trinamool leader who is currently on the run, has also been forced to return some funds.",
+      "party_mentioned": [
+        "BJP",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64332,
       "title": "Our commitment for press freedom, and autonomy of public broadcast is absolute: Prakash Javadekar - The Economic Times",
@@ -5760,6 +5845,27 @@
       ]
     },
     {
+      "id": 63258,
+      "title": "Govt committed to strengthening public infrastructure: Deputy CM",
+      "url": "https://www.greaterkashmir.com/governance/govt-committed-to-strengthening-public-infrastructure-deputy-cm-11891668",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/screenshot-2026-05-31-061031-2026-05-31-06-12-40.jpg",
+      "scraped_at": "2026-05-31 01:36:37.296001",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Deputy Chief Minister Surinder Choudhary** conducted surprise inspections of government offices in Jammu, focusing on project progress and efficiency. During his visit to **Bagh-e-Bahu**, he reviewed the construction of a new Dak Bungalow, emphasizing timely completion and quality standards.  He also inspected the offices of the Chief Engineer, PMGSY Jammu and Chief Engineer, M&HED, Jammu, reviewing staff attendance and project status.  **Choudhary** stressed transparency, accountability, and efficient public service delivery in order to ensure timely project execution for the benefit of the people.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
       "id": 63255,
       "title": "Government schools in Telangana: Can public education reclaim its lost ground? - The South First | News, Politics, Sports, Entertainment & Live Updates",
       "url": "https://thesouthfirst.com/opinion/government-schools-in-telangana-can-public-education-reclaim-its-lost-ground/",
@@ -5949,109 +6055,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 63214,
-      "title": "‘Got my family into it’: Manoj Bajpayee opens up about threats during Ghooskhor Pandat row | Bollywood News - The Indian Express",
-      "url": "https://indianexpress.com/article/entertainment/bollywood/manoj-bajpayee-on-threats-during-ghooskhor-pandat-row-got-my-family-into-it-10716015/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/manoj-bajpayee5.jpg",
-      "scraped_at": "2026-05-30 23:04:45.883364",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Manoj Bajpayee",
-      "rephrased_article": "**Manoj Bajpayee**, star of the Netflix film **Ghooskhor Pandat**, spoke about the controversy surrounding its title, which drew criticism for being casteist.  The backlash led to threats against him and his team, prompting an apology within two days and a decision to rename the film. The actor expressed empathy for those who were subjected to online abuse but also criticized social media users' tendency to form opinions without understanding the context of the project. **Neeraj Pandey**, the film's producer, clarified that the word \"Pandat\" was used as a nickname in the film and not an attack on any community. The new title has not yet been announced.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 63210,
-      "title": "Industry and land in Bengal | Bengal BJP chief assures new pro-industry land policy with SEZ, contract farming push - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGZseHA0bmdGM3k4V0xxLVFOVEJmeEo4YlJRT3dxWEFYeXJNMXBYWW5RV1BHWEE4bUJOYnRLX2dTWFJLYVpMUlJDejI0ZTZGSWlIT3lxZ1otT2VOSEJVRWxFTjN4c1c4aDJLMURyekYzSjY4WUdPUUVjLXdVYWpQMnRfUXY0bDRuREljVUVCQ1dqQi1HblFfQkRRLVppazdET2hBMWRmMjJLZFFYT3V5MnJtZ2ZpUW9Tazh6RXpteHVWSzVvSmVLMUJFLTluc0tVMmRWYVNhTnRRWEpH0gHiAUFVX3lxTE9FdGZlVWFXTkN6TzlrZkZCOWxSVGx6NWttOVYxSWJxakh4NGUxaG9KNEJlWWJoSlVaeS1PdTZpY3V6WFNLQjdLTzdNMF83c0QzSFhWdXM1b19JNEh6cGxvdWFDV19QeG9TOHJyam1PalpkOE1lN1hjX2paMkYxMzlkc3FhSnB2RnE5NHFSYVVZMEtXZ2p4bE1XRkwxcGpsRVhPRGpWU3VzYVlYYmd6d1FiRDFGYzIxaWZKWU13XzZSYXRxdE9NR3VjSEViRDh6VkVpeXlGaUxLRXpuaDVrWUR6RGc?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1778632926_new-project-2026-05-13t050837-747.jpg",
-      "scraped_at": "2026-05-30 23:04:38.135455",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The newly elected **BJP** government in Bengal plans to create a comprehensive land policy, revisit the Urban Land Ceiling Act, and allow special economic zones.  **Samik Bhattacharya**, state party president, outlined these plans during an interaction with industrialists, emphasizing the need for an investor-friendly environment. He also advocated contract farming and called for cooperation between industry and agriculture. **Bhattacharya** stated that removing the Urban Land Ceiling Act would be a priority, aiming to attract investment and create jobs in the state.  Industry observers welcomed these signals from the new government.",
-      "party_mentioned": [
-        "BJP",
-        "CPM"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Haryana",
-        "Maharashtra",
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "economy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 63200,
-      "title": "India, Australia to conduct Defence Ministers' Dialogue in Delhi next week - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZTIxQzlhZ1dWbDRYNW1aOEFYRV81NEphZ29OcmJUYnd3d1B5b2RyM3duc3hQQlNrZEpLUzhIczhpNTB4Qm9qWUhzOXdUYkVFV2hDZDlWdklVX1RKTFFCTjNjTGdVN25oM3dvb0JtdnR4QzByM2c5eGZYbzlVcjRVc0xpbjRTSHVWNnljOS04cXhBSXpNUXlJTTRpaEI3Zl9QZVBGOEtMaUxqZmZWMmN2SkNlQ2toX0VoQVlR?oc=5",
-      "source": "The Tribune",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNhOGVkMzUwLTVhOTktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "scraped_at": "2026-05-30 23:04:09.909002",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "India",
-      "rephrased_article": "**Richard Marles**, Deputy Prime Minister and Minister for Defence of **Australia**, will travel to New Delhi next week for the second edition of the Australia-India Defence Ministers' Dialogue. The meeting, which focuses on Maritime Security and Domain Awareness, will be held alongside discussions about enhancing bilateral exercises and strengthening cooperation between the two countries.  The dialogue follows the launch of the Indo-Pacific Maritime Surveillance Collaboration (IPMSC) initiative by **Quad** Foreign Ministers in New Delhi on May 26th.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rajnath Singh"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63192,
-      "title": "NDMC deploys sensor-based systems at waterlogging hotspots ahead of rains - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYThLc1Y5QVFQRXpUUWJGS0xYc2FuY0R0VzZJUnRaV0RrWXB1Y3FDX3doWk9BYmFxWkVRX2ZjdF91WmNQREk4eHBJcDBUQlFlT1d1aWlNclJZRWFzZHFhZGFlakJhSlZYVElsejZVWnZaREpRRWJFSW9wR2V4Y3JBaEFiSVUzZE0xV0JYaTJWRVAwRlIzTnVIWXBRTmdsV0xIa3lycm9ub1NNakJXRzYtY3Jhc28?oc=5",
-      "source": "The Tribune",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMzNTNkMDgwLTViOWQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "scraped_at": "2026-05-30 23:03:45.775830",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "NDMC",
-      "rephrased_article": "The **New Delhi Municipal Council (NDMC)** has begun deploying sensor-based monitoring systems and CCTV cameras at vulnerable waterlogging points in anticipation of the monsoon season.  **NDMC Vice-Chairperson Kuljeet Singh Chahal** reviewed these measures during a field inspection, alongside senior officials from various departments. The council is working to make the area \"waterlogging-free\" by implementing a comprehensive Monsoon Action Plan that includes pre-monsoon preparedness, emergency response, and restoration work.  The NDMC has also initiated desilting efforts, GIS mapping of its drainage network, and coordination with other agencies to address waterlogging concerns.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education"
       ]
     }
   ]

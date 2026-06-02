@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-01 19:29:53.817247",
+  "generated_at": "2026-06-02 00:01:31.050693",
   "state": "Bihar",
   "capital": "Patna",
-  "ruling_party": "JDU",
-  "cm": "Nitish Kumar",
+  "ruling_party": "BJP",
+  "cm": "Samrat Choudhary",
   "region": "East",
-  "cm_confidence": 0.8,
+  "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 209,
-    "articles_last_30d": 87
+    "total_articles": 222,
+    "articles_last_30d": 93
   },
   "top_cities_30d": {
     "Delhi": 39,
     "Patna": 16,
     "Mumbai": 10,
+    "Kolkata": 6,
     "Hyderabad": 6,
-    "Kolkata": 5,
     "Chennai": 5,
     "Kanpur": 4,
     "Bengaluru": 3,
@@ -24,18 +24,43 @@
     "Pune": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 66,
+    "foreign_policy": 69,
     "education": 29,
-    "crime_violence": 21,
+    "crime_violence": 22,
+    "infrastructure": 17,
     "economy": 17,
-    "infrastructure": 14,
-    "protest_opposition": 12,
-    "health": 11,
+    "protest_opposition": 13,
+    "health": 12,
+    "corruption_scam": 11,
     "farmer_agriculture": 9,
-    "corruption_scam": 9,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 64361,
+      "title": "IPL Betting Racket Busted In Guwahati During Final, 8 Arrested",
+      "url": "https://www.ndtv.com/india-news/ipl-betting-racket-busted-in-guwahati-during-final-8-arrested-11577676#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2020-01/7qbdof68_assam-police-generic-pti-_625x300_26_January_20.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-01 20:58:57.116538",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Alok Jain",
+      "rephrased_article": "**Eight people**, including the mastermind **Alok Jain**, were arrested in Guwahati during Sunday's IPL final match for running a major betting racket.  The **Deputy Commissioner of Police (DCP) Central Shambhavi Mishra** stated that Jain has been operating this illegal operation for an extended period and faces three previous cases. During the raid, police seized over Rs 1 crore in cash, multiple bank accounts, ATM cards, gambling records, jewelry, land documents, and a pistol with ammunition.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bangalore"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 64264,
       "title": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi | Narendra Modi News | Al Jazeera",
@@ -790,6 +815,27 @@
       ]
     },
     {
+      "id": 63258,
+      "title": "Govt committed to strengthening public infrastructure: Deputy CM",
+      "url": "https://www.greaterkashmir.com/governance/govt-committed-to-strengthening-public-infrastructure-deputy-cm-11891668",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/screenshot-2026-05-31-061031-2026-05-31-06-12-40.jpg",
+      "scraped_at": "2026-05-31 01:36:37.296001",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Deputy Chief Minister Surinder Choudhary** conducted surprise inspections of government offices in Jammu, focusing on project progress and efficiency. During his visit to **Bagh-e-Bahu**, he reviewed the construction of a new Dak Bungalow, emphasizing timely completion and quality standards.  He also inspected the offices of the Chief Engineer, PMGSY Jammu and Chief Engineer, M&HED, Jammu, reviewing staff attendance and project status.  **Choudhary** stressed transparency, accountability, and efficient public service delivery in order to ensure timely project execution for the benefit of the people.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
       "id": 63239,
       "title": "Over 20% of Indian women suffer marital violence despite increased online engagement: Survey",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM015WWtyZzdxd1N5d0htRTJCMTFRUUxtcElFLTZ5YnZxZEdLaUxFWjFRS0JGcVJCVl9NWGdmNHFUSGdGUTcydTVuVEpJSC12VmdUc2cxV0I4RVQ4amhPcEZRcUd6bDlNeWNFdkpBd1hCVkpKOU02akwxSzNZTnJHeHpZTVRORzZJZ0lTWXpLUXBaZ19DOUw2UlFMbXRfM1ZUNGs5ZXJWZlgzUmtqbEotclBnajFLeVFNMEotUTNqRHhPdjl4ZUk3aEJYX1dwZw?oc=5",
@@ -947,6 +993,27 @@
         "foreign_policy",
         "corruption_scam",
         "education"
+      ]
+    },
+    {
+      "id": 63089,
+      "title": "Govt committed to responsive governance, grassroots development: Deputy CM",
+      "url": "https://www.greaterkashmir.com/governance/govt-committed-to-responsive-governance-grassroots-development-deputy-cm-11888648",
+      "source": "Greater Kashmir",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/dy-cm-2026-05-30-07-40-27.png",
+      "scraped_at": "2026-05-30 21:56:45.619619",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Deputy CM Surinder Choudhary",
+      "rephrased_article": "**Deputy Chief Minister Surinder Choudhary** conducted a tour of Nowshera, inspecting developmental projects and healthcare facilities. He met with delegations and individuals to address public issues and concerns. During his visit to the Sub-District Hospital Nowshera, **Choudhary** assessed patient care and directed authorities to improve healthcare services.  He also reviewed ongoing works at the Dak Bunglow Nowshera, emphasizing the need for timely completion and quality standards.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "infrastructure"
       ]
     },
     {
@@ -1546,6 +1613,25 @@
       ]
     },
     {
+      "id": 61525,
+      "title": "Plea in Supreme Court to probe Cockroach Janta Party ‘activities’, fake law degrees - The Hindu",
+      "url": "https://www.thehindu.com/news/national/plea-in-supreme-court-to-probe-cockroach-janta-party-activities-fake-law-degrees/article71018380.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fy9aew/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
+      "scraped_at": "2026-05-24 21:35:25.567238",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Union Government",
+      "rephrased_article": "A Supreme Court petition filed by advocate Raja Choudhary challenges the commercial exploitation and monetization of oral court proceedings, particularly sparked by Chief Justice Surya Kant's remarks about \"cockroach\" law degree holders. The petition names **the Union Government**, **the Ministry of Electronics and Information Technology**, **the Bar Council of India**, and **the Central Bureau of Investigation (CBI)** as respondents. Choudhary argues that the online dissemination of isolated court fragments, meme-ified and commercially circulated, disregards constitutional context and represents a distortion of legal proceedings. The petition seeks a probe into fake law degrees across the country by the CBI and highlights historical use of metaphors in literature and jurisprudence to express institutional anxieties.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
       "id": 61507,
       "title": "Bihar CM woos investors with amended package, says govt.’s top priority is ensuring safety - The Hindu",
       "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-woos-investors-with-amended-package-says-govts-top-priority-is-ensuring-safety/article71018009.ece",
@@ -1725,6 +1811,58 @@
         "foreign_policy",
         "infrastructure",
         "education"
+      ]
+    },
+    {
+      "id": 61187,
+      "title": "One more Trinamool councillor from Bidhannagar arrested - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/one-more-trinamool-councillor-from-bidhannagar-arrested/article71014932.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3z8eoy/article71015304.ece/alternates/LANDSCAPE_1200/iStock-1905024012%203.jpg",
+      "scraped_at": "2026-05-23 15:47:52.329178",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "**TMC** councillors from the municipality of Bidhannagar, **West Bengal**, have been arrested in recent days for charges including intimidation, violence, extortion, and money laundering.  The arrests follow a crackdown by the new **BJP** government after the 2021 Assembly election. Several other TMC leaders, including a local union leader and a former minister, have also been arrested on various charges. The arrests come amid allegations of post-poll violence and threats against citizens.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 60813,
+      "title": "Gujarat Police trace 701 missing persons under ‘Operation Milap’ in two weeks - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-police-trace-701-missing-persons-under-operation-milap-in-two-weeks/article71007247.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/biyfya/article71008162.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000310B.jpg",
+      "scraped_at": "2026-05-22 01:35:45.113648",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Gujarat Police",
+      "rephrased_article": "**Gujarat Police** have successfully reunited 701 missing persons with their families through a statewide operation called **Operation Milap**, which ran from May 7 to May 21.  The initiative, aimed at reviewing pending missing person cases, involved analyzing old records and conducting fresh field verifications. The drive also included checking digital records, social media activity, transport locations, and shelter homes, with officials noting some cases were linked to trafficking networks. **Deputy Chief Minister Harsh Sanghavi** stated the government provided resources for the operation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
       ]
     },
     {
@@ -3854,6 +3992,28 @@
       ]
     },
     {
+      "id": 51219,
+      "title": "Two students dead after taking drugs at concertin Mumbai, say police - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/two-students-die-one-critical-after-drug-consumption-at-mumbai-concert-5-held/article70860860.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-04-14 21:29:26.739358",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Two** college students died and another remains in critical condition after allegedly consuming drugs at a concert in Mumbai.  The **police** arrested five individuals, including two fellow students and three concert organizers, for their alleged role in the incident. The event took place at the Nesco Exhibition Centre, where attendees consumed alcohol and drugs, leading to health complications for several people. The **Vanrai police** registered a case under various sections of the Indian Penal Code and the Narcotic Drugs and Psychotropic Substances (NDPS) Act, while the bodies were sent for postmortem.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 51172,
       "title": "Centre moots inter-State redistribution of Lok Sabha seats based on 2011 Census - The Hindu",
       "url": "https://www.thehindu.com/news/national/centre-seeks-inter-state-redistribution-of-lok-sabha-seats-based-on-2011-census/article70862395.ece",
@@ -4343,6 +4503,28 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 50104,
+      "title": "J&K Deputy CM ‘shocked’ to see suspended official at work; orders probe - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-deputy-cm-shocked-to-see-suspended-official-at-work-orders-probe/article70848257.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fe2tbj/article70848330.ece/alternates/LANDSCAPE_1200/PTI03_12_2026_000143B.jpg",
+      "scraped_at": "2026-04-10 23:43:00.103219",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "J&K Government",
+      "rephrased_article": "**Jammu and Kashmir Deputy Chief Minister Surinder Choudhary** ordered an inquiry into the continued work of suspended officials at the Department of Geology and Mining.  He found that officers he had previously suspended were still working despite allegations of serious misconduct, including a transfer to the Kashmir Division. **Choudhary** has been vocal about enforcing stricter regulations on mining activities in the Union Territory, including e-challans, GPS tracking, and the \"One Parchi, One Load\" rule.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
       ]
     },
     {
@@ -5507,6 +5689,32 @@
       ]
     },
     {
+      "id": 46827,
+      "title": "PM Modi to inaugurate ‘Samrat Samprati Museum’, semiconductor plant in Gujarat on March 31 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/pm-modi-to-inaugurate-samrat-samprati-museum-semiconductor-plant-in-gujarat-on-march-31/article70803299.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xx2q00/article70805631.ece/alternates/LANDSCAPE_1200/Modi-to-interacG2BFPGLDQ.3.jpg.jpg",
+      "scraped_at": "2026-03-31 03:30:20.975871",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** will visit Gujarat on March 31, 2026, to unveil a series of infrastructure, industrial, and cultural projects.  The visit begins in Koba village with the inauguration of the ‘Samrat Samprati Museum’ and an address to the public. **Modi** will then travel to Sanand for the inauguration of a Kaynes Semicon OSAT facility and later reach Lakhni taluka in Vav-Tharad district for a public meeting and virtual inauguration of development projects worth over ₹6,000 crore.  The Prime Minister will also dedicate and lay the foundation stone for 44 urban development projects across the state.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
       "id": 46725,
       "title": "Barring one, entire top leadership of Maoists wiped out, Amit Shah tells Lok Sabha - The Hindu",
       "url": "https://www.thehindu.com/news/national/barring-one-entire-top-leadership-of-maoists-wiped-out-amit-shah-tells-lok-sabha/article70804368.ece",
@@ -5837,297 +6045,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 45716,
-      "title": "2026 Tamil Nadu Assembly election will be a close battle, says P. Chidambaram - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/2026-tamil-nadu-assembly-election-will-be-a-close-battle-says-p-chidambaram/article70791976.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9g4p5a/article70792106.ece/alternates/LANDSCAPE_1200/2.jpg",
-      "scraped_at": "2026-03-27 12:08:29.795740",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DMK",
-      "rephrased_article": "The upcoming 2026 Tamil Nadu Legislative Assembly election is expected to be a close contest between two strong fronts, the DMK-Congress alliance and the AIADMK. Veteran Congress leader P. Chidambaram believes that while the BJP will try to influence the election, the DMK alliance will ultimately secure a comfortable majority. He acknowledges the potential for a hung assembly with Vijayakanth's Tamilaga Vettri Kazhagam potentially impacting the outcome but predicts the DMK alliance will form the government.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rahul Gandhi",
-        "M.K. Stalin",
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Jharkhand",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 45709,
-      "title": "Vaibhav Suryavanshi: The 15-year-old Indian that cricket can no longer ignore",
-      "url": "https://www.bbc.com/news/articles/ce3dl636ly3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d97f/live/3232a670-28c3-11f1-9516-876fae3988b5.jpg",
-      "scraped_at": "2026-03-27 12:05:56.766591",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Vaibhav Suryavanshi",
-      "rephrased_article": "The 15-year-old Indian batter Vaibhav Suryavanshi is poised to make history as the youngest player in the IPL.  **Suryavanshi**, who turned 15 on March 27th, has already made a name for himself with impressive performances at various youth levels and his recent century in the IPL. The question now is whether he's ready for the world stage.  His talent has been recognized by many former cricketers, including Ravi Shastri, AB de Villiers, Matthew Hayden, WV Raman, and Sachin Tendulkar, who have praised his skills and maturity.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Gujarat",
-        "Rajasthan",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Bangalore"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 45643,
-      "title": "Comprehensively review maintenance standards at UNESCO sites: Parliamentary panel to govt - The Hindu",
-      "url": "https://www.thehindu.com/news/national/comprehensively-review-maintenance-standards-at-unesco-sites-parliamentary-panel-to-govt/article70791500.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/p624ve/article70078572.ece/alternates/LANDSCAPE_1200/It%E2%80%99s-settled-thG5FEU8VGV.3.jpg.jpg",
-      "scraped_at": "2026-03-27 08:03:56.461510",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Ministry of Culture",
-      "rephrased_article": "A Parliamentary panel has recommended to the **Ministry of Culture** that it undertake a comprehensive review of maintenance standards and visitor facilities at all UNESCO World Heritage Sites in India, coordinating with the **Archaeological Survey of India (ASI)**. The panel also urged the Ministry to prepare a five-year UNESCO nomination strategy, including a pipeline of at least 10 potential nominations, a structured engagement plan for multinational nominations, and dedicated staff and budgetary provision for preparing nomination dossiers.  The Ministry is expected to present this strategy within one year and furnish final utilization figures for 2025-26 within 90 days. The panel noted that India's growing portfolio of UNESCO World Heritage Sites carries with it a corresponding obligation under the UNESCO Operational Guidelines to maintain standards of conservation, interpretation, and visitor management commensurate with their global recognition.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Gujarat",
-        "Maharashtra",
-        "Meghalaya",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Ahmedabad",
-        "Jaipur"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 45635,
-      "title": "Parliament panel calls for preserving British-era heritage sites not under ASI ambit - The Hindu",
-      "url": "https://www.thehindu.com/news/national/parliament-panel-calls-for-preserving-british-era-heritage-sites-not-under-asi-ambit/article70791396.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/4flbms/article70791464.ece/alternates/LANDSCAPE_1200/iStock-2256438097.jpg",
-      "scraped_at": "2026-03-27 06:51:26.644466",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "A parliamentary panel has urged the Ministry of Culture to coordinate with other ministries, including railways and shipping, to preserve heritage assets like rail engines and ships. The committee also recommended an inventory of non-ASI heritage structures at risk in coordination with state governments.  The panel highlighted concerns over the demolition of British-era buildings, such as district collectorates and historical landmarks, and emphasized the need for better preservation efforts, including a formal Centre-state coordination mechanism for archives and heritage.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Goa"
-      ],
-      "cities_mentioned": [
-        "Hyderabad",
-        "Patna"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 45596,
-      "title": "Assembly Elections LIVE: Former BJP T.N. president Annamalai unhappy with constituencies allocated by AIADMK - The Hindu",
-      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-tamil-nadu-west-bengal-puducherry-2026-live/article70790956.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/skzgn8/article70790960.ece/alternates/LANDSCAPE_1200/9712_26_3_2026_13_45_32_3__DSC5612.JPG",
-      "scraped_at": "2026-03-27 02:46:16.425902",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**K. Annamalai**, former **BJP** Tamil Nadu president, expressed his dissatisfaction with the assigned constituencies for the April 23 Assembly election by **AIADMK**. He requested the party leadership not to consider him as a candidate and stated he would continue to support other BJP and NDA candidates.  Tensions escalated in Kolkata ahead of the West Bengal Assembly elections, with a Trinamool Congress worker being shot dead and a BJP rally allegedly attacked. The Election Commission reported the seizure of over ₹408.82 crore worth of illicit inducements across four states and one union territory preparing for the upcoming Assembly elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 45580,
-      "title": "Haryana’s cotton farms holding on by a thread - The Hindu",
-      "url": "https://www.thehindu.com/news/national/haryana/haryanas-cotton-farms-holding-on-by-a-thread/article70784114.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/gm2rv5/article70784348.ece/alternates/LANDSCAPE_1200/COTTON%20FARMER%20HARYANA%20SPOTLIGHT%205.JPG",
-      "scraped_at": "2026-03-26 23:39:02.014930",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Haryana Government",
-      "rephrased_article": "Cotton farming in Haryana is facing a severe crisis due to the pink bollworm pest and declining yields. The average yield per acre has dropped significantly, leading to losses for farmers.  The government's Minimum Support Price (MSP) hasn't been enough to offset rising input costs like diesel and fertilizers. Farmers are struggling to make ends meet, with some resorting to alternative crops like rice or poultry farming. The decline in cotton production also impacts farm laborers who rely on the seasonal work provided by cotton farms.  The government has implemented various schemes to incentivize water-efficient crops, but these have not been successful in attracting farmers back to cotton cultivation.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Haryana",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "farmer_agriculture",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 45549,
-      "title": "Tamil Nadu’s Nitish Kumar or assertive chief? Edappadi Palaniswami confronts a battle of perceptions - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/edappadi-palaniswami-fights-political-reputation-of-becoming-tamil-nadus-nitish-kumar-subject-to-bjp-whims/article70788391.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3c5tjx/article70788647.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG5LFP0TR7.3.jpg.jpg",
-      "scraped_at": "2026-03-26 21:58:19.160915",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Edappadi Palaniswami",
-      "rephrased_article": "**Edappadi K. Palaniswami**, the general secretary of the **AIADMK**, is facing a political battle in Tamil Nadu's upcoming Assembly election, with his rivals, particularly the ruling **DMK**, accusing him of being subservient to the **BJP**.  The DMK has framed the election as a contest between Tamil Nadu and New Delhi, highlighting Palaniswami's decision to embrace certain Central schemes that were opposed by former leader **Jayalalithaa**. To counter these accusations, Palaniswami has taken steps to assert his authority within the NDA alliance, including meeting with key BJP leaders and announcing seat-sharing arrangements. The outcome of this battle will be determined on May 4th when the votes are counted.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Nationalist Congress",
-        "Shiv Sena",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rahul Gandhi",
-        "Nitish Kumar",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 45538,
-      "title": "Bihar’s youth now making their mark in technology field: IT Minister Shreyasi Singh - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihars-youth-now-making-their-mark-in-technology-field-it-minister-shreyasi-singh/article70788586.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-26 21:07:35.412899",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Bihar Government",
-      "rephrased_article": "**Bihar’s** Information Technology Minister Shreyasi Singh highlighted the state's growing talent pool in technology, emphasizing the potential of its youth.  She praised **IIT Patna’s** Incubation Centre for fostering innovation and signed MOUs with **AIIMS Patna** and JHPIEGO. The government is actively developing a strong startup ecosystem through initiatives like a \"plug-and-play\" workspace at Biscomaun Tower and Software Technology Parks in Darbhanga and Bhagalpur.  Singh encouraged young innovators to pursue ambitious goals, fostering technological solutions for societal challenges.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [
-        "Patna"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 45533,
-      "title": "Bihar will remain indebted to Nitish Kumar for building a ‘New Bihar’: Nitin Nabin - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-will-remain-indebted-to-nitish-kumar-for-building-a-new-bihar-nitin-nabin/article70788368.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/p7dwxm/article70789902.ece/alternates/LANDSCAPE_1200/20260326268L.jpg",
-      "scraped_at": "2026-03-26 21:05:36.077035",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Nitish Kumar",
-      "rephrased_article": "**Nitin Nabin**, **Nitish Kumar**, and the **National Democratic Alliance (NDA)** celebrated the conclusion of the fifth phase of the \"Samriddhi Yatra\" in Patna.  **Nabin** praised **Kumar's** leadership for transforming Bihar from a state of despair into one of development, highlighting the government's achievements in electricity access and improved living standards. He also expressed gratitude to Prime Minister **Narendra Modi** for supporting the NDA's efforts in Bihar. The \"Samriddhi Yatra\" was launched on March 10th and concluded with **Kumar** inaugurating projects worth ₹2183 crore.",
-      "party_mentioned": [
-        "BJP",
-        "RJD",
-        "Janata Dal",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [
-        "Patna"
-      ],
-      "topic_tags": [
-        "infrastructure"
       ]
     }
   ]

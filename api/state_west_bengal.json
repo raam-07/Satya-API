@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-01 19:29:53.943989",
+  "generated_at": "2026-06-02 00:01:31.169472",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
-  "cm": "Mamata Banerjee",
+  "cm": null,
   "region": "East",
   "cm_confidence": null,
   "party_confidence": 0.82,
   "stats": {
-    "total_articles": 500,
-    "articles_last_30d": 242
+    "total_articles": 504,
+    "articles_last_30d": 240
   },
   "top_cities_30d": {
-    "Kolkata": 78,
+    "Kolkata": 79,
     "Delhi": 44,
-    "Bengaluru": 11,
     "Chennai": 10,
+    "Bengaluru": 10,
     "Hyderabad": 8,
     "Mumbai": 6,
     "Ghaziabad": 4,
@@ -24,18 +24,51 @@
     "Meerut": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 207,
+    "foreign_policy": 204,
     "education": 146,
     "protest_opposition": 105,
-    "crime_violence": 87,
+    "crime_violence": 86,
     "economy": 56,
-    "infrastructure": 41,
+    "infrastructure": 40,
     "corruption_scam": 25,
     "farmer_agriculture": 21,
-    "health": 12,
-    "rape_sexual_crime": 12
+    "rape_sexual_crime": 12,
+    "health": 11
   },
   "recent_articles": [
+    {
+      "id": 64360,
+      "title": "'Maharashtra Model' In West Bengal? Buzz Over New Trinamool Congress Without Mamata Banerjee",
+      "url": "https://www.ndtv.com/india-news/maharashtra-model-in-west-bengal-buzz-over-new-trinamool-congress-without-mamata-banerjee-11577769#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/7mjut5es_mamata-abhishek_625x300_31_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-01 20:58:44.650643",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** (TMC) is facing internal dissent following the expulsion of two whistleblower MLAs, Ritabrata Bandopadhyay and Sandipan Saha.  About 60 out of 80 **Trinamool** MLAs missed a meeting at **Mamata Banerjee's** house, raising concerns over party loyalty and unity. **Mamata Banerjee** accused the BJP of attempting to poach her MLAs with intimidation and financial inducements. Some MLAs have met separately, fueling speculation about potential party splits.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 64298,
       "title": "Watch: Iran suspends talks as Israel widens Lebanon offensive | Above the Fold | 01.06.2026 - The Hindu",
@@ -6103,36 +6136,6 @@
         "crime_violence",
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 57002,
-      "title": "Tensions escalate as bulldozer razes structures in Kolkata’s iconic New Market - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/kolkata/tensions-escalate-as-bulldozer-razesstructures-in-kolkatas-iconic-new-market/article70945631.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/bouj5e/article70945694.ece/alternates/LANDSCAPE_1200/e03e5ee5-f68c-4aba-a92e-d9a8cef92b99.jpg",
-      "scraped_at": "2026-05-06 06:38:08.346270",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Tensions** escalated in Kolkata and Murshidabad following the BJP's victory in the West Bengal Assembly elections. **Derek O’Brien**, a Trinamool Congress MP, alleged targeted attacks by **BJP** workers, including the demolition of a TMC union office in New Market using a bulldozer.  **Samik Bhattacharya**, the BJP State president, condemned any form of vandalism and promised to remove party members involved in such acts. Meanwhile, videos emerged showing **BJP** supporters vandalizing Lenin statues in Jiaganj.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy"
       ]
     }
   ]
