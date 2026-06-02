@@ -1,14 +1,45 @@
 {
-  "generated_at": "2026-06-02 00:01:30.886168",
-  "total": 457,
+  "generated_at": "2026-06-02 13:02:55.376593",
+  "total": 488,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 358,
-    "institutional_failure": 52,
-    "scale_of_harm": 28,
+    "power_abuse": 385,
+    "institutional_failure": 55,
+    "scale_of_harm": 29,
     "suppression": 19
   },
   "articles": [
+    {
+      "id": 64462,
+      "title": "37 children rescued from Surat textile units, search on for owners: Police | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/surat-textile-units-child-labour-rescue-varachha-haresh-gamit-10718938/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/child-labourer-textile-unit.jpg",
+      "scraped_at": "2026-06-01 23:09:07.847389",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "child laborers",
+      "rephrased_article": "Surat police rescued 37 child laborers, including 15 girls aged 12-14, from multiple textile units in the city. The raids were conducted by a joint task force comprising officials from various departments, following a tip-off about children working in cutting and folding of fabrics. The children were sent to shelters for their safety and protection. Surat Assistant Labour Commissioner Haresh Gamit stated that the owners rented floors to operate these units and hired child laborers through agents.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Surat"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Child labor is a serious violation of children's rights and a sign of societal failure."
+    },
     {
       "id": 64024,
       "title": "‘With my fellow anti-national Soros agents’: Rahul Gandhi’s dig at Centre over CBSE row | India News - The Indian Express",
@@ -3594,6 +3625,422 @@
       "civic_flag_reason": "The article describes potential threats to judicial independence, a core democratic principle."
     },
     {
+      "id": 43861,
+      "title": "Israel systematically torturing Palestinians in custody, says UN expert | Israel-Palestine conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/21/israel-systematically-torturing-palestinians-in-custody-says-un-expert?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/09/reuters_68d34617-1758676503.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-03-21 10:39:21.167999",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Francesca Albanese, the UN’s special rapporteur on the rights situation in the Palestinian territories occupied since 1967, released a report detailing Israel’s systematic use of torture against Palestinians. The report, titled “Torture and genocide,” claims that since October 7, 2023, Palestinians in custody have been subjected to brutal beatings, sexual violence, and other forms of ill-treatment as punitive collective vengeance. Albanese gathered written submissions from at least 300 individuals, including testimonies from over 18,500 people arrested since October 2023. She urged the prosecutor of the International Criminal Court (ICC) to request arrest warrants for Israel’s Defence Minister Israel Katz, National Security Minister Itamar Ben-Gvir, and Finance Minister Bezalel Smotrich.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Systematic torture is a grave human rights violation requiring urgent attention."
+    },
+    {
+      "id": 43813,
+      "title": "Rupali Chakankar’s exit not enough; probe must target ‘big fish’, says Congress leader - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/rupali-chakankars-exit-not-enough-probe-must-target-big-fish-says-congress-leader/article70768595.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1zjm4o/article70768610.ece/alternates/LANDSCAPE_1200/MAHARASHTRA%20MINISTER%20VIJAY%20WADETTIWAR",
+      "scraped_at": "2026-03-21 08:00:32.061902",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra State Government",
+      "rephrased_article": "Vijay Wadettiwar, Congress leader, criticized Rupali Chakankar's resignation as Maharashtra State Commission for Women chairperson over her links to a rape-accused 'godman', demanding action against those involved. He alleged attempts to shield influential individuals linked to the self-styled godman Ashok Kharat, who was arrested this week in Nashik, and called for a comprehensive investigation into the case, including examining call detail records of all those in contact with Kharat. Wadettiwar also criticized the state government's handling of the situation and alleged attempts to suppress the case.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NCP",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Nagpur",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of shielding influential individuals linked to a rape accused raise serious concerns about justice."
+    },
+    {
+      "id": 43682,
+      "title": "Under fire over links with rape accused godman, Maharashtra women’s panel chief quits - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/under-fire-over-links-with-rape-accused-godman-maharashtra-womens-panel-chief-quits/article70767244.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2346um/article70767256.ece/alternates/LANDSCAPE_1200/IMG_DEL29_Rupali_Chakank_2_1_NS9L8QOQ.jpg",
+      "scraped_at": "2026-03-20 21:38:53.999114",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra State Commission for Women",
+      "rephrased_article": "Rupali Chakankar, chairperson of the Maharashtra State Commission for Women, resigned after facing pressure to step down following her association with accused rape-accused ‘godman’ Ashok Kharat.  Chakankar was summoned to the official residence of Chief Minister Devendra Fadnavis and was asked to resign due to public outcry over the photos and videos that surfaced showing her interacting with Kharat. The opposition criticized the government's delayed action, alleging a lack of coordination within the Mahayuti alliance and suggesting Chakankar’s resignation is part of a larger power play by the BJP.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NCP",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "A women's rights leader resigned due to association with a rape accused, raising concerns about justice and power dynamics."
+    },
+    {
+      "id": 43618,
+      "title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/oc7wj4/article70767061.ece/alternates/LANDSCAPE_1200/16th-SHIV-BJP-aG80FNNR7K.4.jpg.jpg",
+      "scraped_at": "2026-03-20 18:07:10.230192",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "Suvendu Adhikari, leader of the Opposition in the West Bengal Assembly, accused Mamata Banerjee, Chief Minister of West Bengal, of violating the Model Code of Conduct by using her official letterhead for political correspondence. He demanded action from the Election Commission and criticized the removal of government hoardings featuring Ms. Banerjee.  Ms. Banerjee, in turn, wrote to the Chief Election Commissioner expressing \"deep shock\" over the functioning of the poll panel and alleging unilateral transfers of senior officials. The West Bengal Assembly elections will be held in two phases on April 23 and 29 with counting scheduled for May 4.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "rape_sexual_crime",
+        "political_gaffe"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Abuse of power by a CM using official resources for political gain is a serious concern."
+    },
+    {
+      "id": 43601,
+      "title": "Indian national Nagaraju Balkam among four arrested in Santa Fe child predator sting - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-national-nagaraju-balkam-among-four-arrested-in-santa-fe-child-predator-sting/articleshow/129704875.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-129704875,width-1280,height-720,imgsize-85032,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-03-20 17:15:05.803681",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Nagaraju Balkam",
+      "rephrased_article": "Santa Fe Police Department’s Special Victims Unit arrested four men during a three-day undercover operation targeting online child sexual predators.  The suspects, Nagaraju Balkam, Eduardo Gerardo Ramirez, Harold Lee Adams, and Tomas Tolcha Cacjo, were charged with various offenses related to child exploitation and solicitation. The Internet Crimes Against Children (ICAC) unit collaborated with the special victims team in conducting digital interactions that led to the arrests.  Authorities are urging the public to report any suspicious online activity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Child exploitation is a serious crime and should be treated as an urgent issue."
+    },
+    {
+      "id": 43525,
+      "title": "Entered US on student visa, obtained green card, now in ICE custody: Australian man convicted of rape arrested in Florida - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/entered-us-on-student-visa-obtained-green-card-now-in-ice-custody-australian-man-convicted-of-rape-arrested-in-florida/articleshow/129700398.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-129700398,width-1280,height-720,imgsize-64144,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-03-20 13:14:05.901908",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Andrew Lawrence Walsh",
+      "rephrased_article": "Andrew Lawrence Walsh, an Australian man who entered the United States on a student visa and later obtained permanent residency, is now in immigration custody after being arrested for rape.  He also has two DUI convictions from Arizona.  Authorities say cases involving non-citizens with prior criminal records are becoming more common, especially under President Trump's administration which has taken a hardline stance on immigration.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "It highlights a potential abuse of immigration system for criminal activity."
+    },
+    {
+      "id": 43493,
+      "title": "Id-ul-Fitr: Palayam Imam urges stand against religious discrimination, condemns war and flags moral decline in Id sermon - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/id-ul-fitr-palayam-imam-urges-stand-against-religious-discrimination-condemns-war-and-flags-moral-decline-in-id-sermon/article70765037.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jnngye/article70765187.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-20%20at%2015.42.35.jpg",
+      "scraped_at": "2026-03-20 11:11:49.403885",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel-American alliance",
+      "rephrased_article": "Palayam Imam V.P. Shuhaib Moulavi delivered a sermon at the Chandrasekharan Nair Stadium in Thiruvananthapuram, urging citizens to stand against religious discrimination and uphold secular values. He highlighted the story of Deepak Kumar, a youth who protected an elderly Muslim shopkeeper from Hindu vigilantes, emphasizing the importance of kindness and goodwill in combating communalism. Moulavi also addressed the global crisis caused by the Israel-American alliance and Iran's conflict, condemning violence against children and urging for peace.  He further discussed the \"Epstein files\" revelations, noting a culture of moral decay and highlighting instances of misconduct by powerful figures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights communalism and the need to combat it."
+    },
+    {
+      "id": 43461,
+      "title": "‘It helps us survive’: Poverty forces children into mine work in DR Congo | Child Rights News | Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/3/20/it-helps-us-survive-poverty-forces-children-into-mine-work-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/2025-08-13T100418Z_1723117763_RC2PJDAR70TW_RTRMADP_3_CONGO-SECURITY-MINING-1773738060.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-03-20 09:13:44.863530",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Congolese Government",
+      "rephrased_article": "A landslide at the Rubaya mine in eastern DRC killed hundreds, including 70 children. The Congolese government has condemned the use of child labor by rebel groups like the M23, but many children remain trapped in dangerous conditions to support their families.  Mishiki Nshokano, a survivor of the March disaster, is forced to return to mining despite his desire for education and the dangers he faces. Patrick Muyaya Katembwe, the Congolese government spokesperson, has called out the use of women and children by rebel groups in Rubaya. While multinational companies profit from coltan mined in Rubaya, many children are exploited for survival.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Child labor in dangerous conditions is normalized and causing large-scale harm."
+    },
+    {
+      "id": 43256,
+      "title": "Joseph Duggar, a former reality TV star, arrested on child molestation charges | Florida | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/mar/19/joseph-duggar-arrested-child-molestation-charges",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/ea3450be1628bf6b8d54a12ccd4acb89c5d4be3a/938_0_1029_823/master/1029.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc100d36cdcf930f4f54ace6698f3b78",
+      "scraped_at": "2026-03-19 17:59:23.932353",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Joseph Duggar",
+      "rephrased_article": "Joseph Duggar, a former reality TV star, was arrested in Arkansas on charges of lewd and lascivious behavior toward a child under 12 years old. The arrest stems from an alleged incident involving a 14-year-old girl who claims she was molested by Duggar during a family trip to Panama City Beach when she was nine years old.  The girl's father confronted Duggar, who allegedly admitted to the abuse, and police in Tontitown, Arkansas, are working with authorities in Florida to extradite Duggar.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Child molestation is a serious crime and should always be treated as urgent."
+    },
+    {
+      "id": 43212,
+      "title": "First Thing: Trump threatens to ‘blow up’ all of Iran’s South Pars gasfield if Tehran strikes Qatar | US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/mar/19/first-thing-trump-threatens-to-blow-up-all-of-irans-south-pars-gasfield-if-tehran-strikes-qatar",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/7c8d2906960d23c9fde33402fd98f8cfd40f61c2/208_0_2083_1667/master/2083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45499ff6e3c5cc5a0d9921328c6e9d44",
+      "scraped_at": "2026-03-19 14:36:47.053505",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Donald Trump",
+      "rephrased_article": "Donald Trump threatened to \"massively blow up\" the world's largest gasfield after Israeli strikes on Iran's South Pars field led Tehran to retaliate with attacks across the Middle East, including on Qatari LNG facilities. Brent crude rose by 8% to $116 a barrel and European gas prices jumped as a result of the escalating conflict.  The United Farm Workers (UFW) union canceled celebrations honoring César Chávez after allegations of grooming and abuse surfaced against the late labor organizer. The FBI admitted to purchasing location data on Americans, prompting criticism from Senator Ron Wyden who denounced it as an end run around the Fourth Amendment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Trump's threat of military escalation poses a grave risk to global security."
+    },
+    {
+      "id": 64502,
+      "title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Yogi.jpg",
+      "scraped_at": "2026-06-02 02:03:27.367304",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Yogi Adityanath",
+      "rephrased_article": "Yogi Adityanath, the Chief Minister of Uttar Pradesh, criticized those who disrespect cows, demanding that Muslim clerics caution their followers against such behavior. He also addressed recent incidents of violence and religious persecution, accusing some religious leaders of double standards for not speaking out on behalf of victims displaced by Partition.  He praised Prime Minister Narendra Modi and Home Minister Amit Shah for the Citizenship Amendment Act (CAA) and criticized opposition parties for opposing it while accusing them of supporting illegal infiltration. He distributed land ownership certificates to families displaced from Pakistan, highlighting their struggle against religious extremism.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights potential religious persecution and abuse of power by a state leader."
+    },
+    {
+      "id": 64455,
+      "title": "Meghalaya and Nagaland CMs call for release of 20 hostages - The Hindu",
+      "url": "https://www.thehindu.com/news/national/release-20-civilians-held-hostage-two-northeast-cms-appeal-to-manipur-captors/article71047478.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/2xsucn/article71050039.ece/alternates/LANDSCAPE_1200/ConradRio.jpg",
+      "scraped_at": "2026-06-01 23:08:47.818813",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "armed groups",
+      "rephrased_article": "Meghalaya and Nagaland Chief Ministers have called for the early release of 20 civilians, including 14 Kukis and six Nagas, allegedly held hostage by armed groups in Manipur. Conrad K. Sangma, Meghalaya's Chief Minister, expressed concern over the continued captivity of the villagers and urged all parties to pursue dialogue instead of violence. Neiphiu Rio, Nagaland's Chief Minister, also contacted Amit Shah, Union Home Minister, expressing his concern over the abduction of six Liangmai Nagas.  Mr. Shah assured him that necessary measures would be taken to secure their release and bring the perpetrators to justice.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Hostage situation involving civilians highlights potential for violence and breakdown of law."
+    },
+    {
+      "id": 64433,
+      "title": "Man dies after alleged custodial torture in Odisha; three police personnel suspended - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/man-dies-after-alleged-custodial-torture-in-odisha-three-police-personnel-suspended/article71048716.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xo0rc6/article71050071.ece/alternates/LANDSCAPE_1200/TRIPLE%20MURDER%20DELHI%2004%2012%202.JPG",
+      "scraped_at": "2026-06-01 23:07:22.770517",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Odisha Police",
+      "rephrased_article": "Three police personnel were suspended and one IPS officer, Nitesh Kumar Mishra, was transferred after a man died in custody at the Kabisuryanagar police station in Odisha's Ganjam district. Susant Sahu's wife, Mamajini Pradhan, alleged that her husband and another individual were subjected to excessive physical torture before being declared dead on May 31st, 2026. The Director General of Police ordered an investigation by the Human Rights Protection Cell of the Odisha Police, while the Inspector-General of Southern Range transferred Nitesh Kumar Mishra to police district headquarters and all personnel from the Kabisuryanagar police station and Balichhai police outpost were transferred.",
+      "party_mentioned": [
+        "Janata Dal",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Custodial torture leading to death is a serious abuse of power and a failure of justice."
+    },
+    {
+      "id": 64411,
+      "title": "17-Year-Old Boy Stabbed To Death In Delhi, Probe On: Cops",
+      "url": "https://www.ndtv.com/delhi-news/17-year-old-boy-stabbed-to-death-in-delhi-probe-on-cops-11578067#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-02/80ef0ba_delhi-police-generic_625x300_04_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-01 23:06:01.099424",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "A 17-year-old male was fatally stabbed in New Usmanpur, northeast Delhi. Deputy Commissioner of Police (DCP) Rahul Alwal stated that multiple teams are searching for the accused and a case under Section 103(1) of the BNS is being registered.  The incident has sparked fear among residents, with local police confirming the victim's identity as Abhishek, who lived nearby. The investigation is ongoing.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "A young life lost to violence, highlighting potential law enforcement failures."
+    },
+    {
       "id": 64319,
       "title": "CMRL appeal against ED probe: HC directs status quo till June 5 - The Hindu",
       "url": "https://www.thehindu.com/news/national/kerala/cmrl-case-hc-directs-status-quo-till-friday/article71048544.ece",
@@ -3698,9 +4145,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Bihar",
@@ -11711,8 +12157,7 @@
         "CPI"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Bihar",
@@ -11820,6 +12265,433 @@
       "civic_flag_score": 9,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "Death in custody raises concerns about ICE detention conditions and potential abuse of power."
+    },
+    {
+      "id": 43879,
+      "title": "NHRC mandates teams of doctors from multiple institutions for custodial death autopsies - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/nhrc-mandates-teams-of-doctors-from-multiple-institutions-for-custodial-death-autopsies/article70768677.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/t48b5f/article70769066.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U4K3E6HIC_R1518606899_0_f05ffe0c-3db8-44e3-adbc-4cca91fde034.jpg",
+      "scraped_at": "2026-03-21 11:51:37.148696",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "National Human Rights Commission (NHRC)",
+      "rephrased_article": "Following autopsies of custodial death victims that revealed procedural lapses, the National Human Rights Commission (NHRC) has directed all states to strictly implement standardized protocols for post-mortem examinations in such cases. The NHRC's directive mandates a board of at least three doctors from different institutions, with postgraduate degrees and five years of experience in forensic medicine.  The move comes after concerns were raised about potential influence on the findings by senior doctors within the same institution. While acknowledging the importance of cross-institutional oversight, human rights advocate Henri Tiphagne suggested that stricter adherence to existing procedures and international standards like those in Minnesota and Istanbul protocols would be beneficial.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Madurai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "health"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Custodial deaths are a serious human rights violation requiring urgent attention."
+    },
+    {
+      "id": 43846,
+      "title": "Suspected kidnapping bid on son of Himachal CM's aide, unknown persons booked - The Hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/suspected-kidnapping-bid-on-son-of-himachal-cms-aide-unknown-persons-booked/article70768693.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6oe3lk/article70768742.ece/alternates/LANDSCAPE_1200/iStock-157404566.jpg",
+      "scraped_at": "2026-03-21 09:44:33.855949",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "unknown persons",
+      "rephrased_article": "Aryan Chauhan, general secretary of the Himachal Pradesh Youth Congress, was targeted in an attempted kidnapping near Mashobra, Himachal Pradesh. While driving from his hotel to Shimla, he came into contact with two masked men who brandished a gun and metal rod.  Chauhan escaped injury after jumping out of his car and onto the side of the road. The police have booked unknown persons in connection with the incident but haven't specified the charges.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Attempted kidnapping of a political figure's relative raises concerns about safety and potential abuse of power."
+    },
+    {
+      "id": 43837,
+      "title": "Modi government’s failure to condemn attacks on Iran shows betrayal of India’s civilisational values: Congress - The Hindu",
+      "url": "https://www.thehindu.com/news/national/modi-govts-failure-to-condemn-attacks-on-iran-shows-moral-cowardice-of-civilisational-values-congress/article70768790.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bub2g/article70768798.ece/alternates/LANDSCAPE_1200/Nearby1--9-_G7JG7JFO6JES.3.jpg.jpg",
+      "scraped_at": "2026-03-21 09:40:33.867700",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Modi government",
+      "rephrased_article": "Congress general secretary Jairam Ramesh criticized the Modi government's inaction regarding the ongoing US-Israel aerial assault on Iran, stating that it reflects \"moral cowardice\" and \"political betrayal\" of India's civilisational values.  Ramesh questioned the government's lack of condemnation or diplomatic efforts to halt the war after 21 days, despite the escalating violence and its impact on India and other countries. The three-week conflict has resulted in a significant loss of life and displacement, with no signs of abating.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article alleges a betrayal of India's values through inaction on a humanitarian crisis."
+    },
+    {
+      "id": 43817,
+      "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region | US-Israel war on Iran News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/getty_69bd0fac32-1773997996.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-03-21 08:40:32.230936",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "US Government",
+      "rephrased_article": "Donald Trump hinted at \"winding down\" military operations in Iran, despite deploying 2,500 marines to the region and requesting additional funding for the war. Karoline Leavitt, White House Press Secretary, stated that the US is on track to achieve its objectives within four to six weeks.  However, mixed messages from the administration have emerged as oil prices surged and Iran retaliated with missile attacks against US-allied bases. The escalating conflict has resulted in casualties on both sides, including at least 1,400 deaths in Iran and over 18 fatalities in Israel.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Mixed messages on military action in Iran raise concerns about potential escalation and harm."
+    },
+    {
+      "id": 43812,
+      "title": "Cow vigilante’s death in Mathura: Protest by locals trigger tension - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/cow-vigilantes-death-in-mathura-protest-by-locals-trigger-tension/article70768593.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/uttar-pradesh/511ztw/article70768605.ece/alternates/LANDSCAPE_1200/UPprotest.jpg",
+      "scraped_at": "2026-03-21 08:00:05.148838",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "Locals in the Kosi Kalan area of Mathura blocked a national highway on Saturday, March 21, 2026, protesting the death of Chandrashekhar, a cow-protection activist known as 'Farsa Wale Baba', who was allegedly run over by suspected cattle smugglers.  The protesters clashed with police, who claim the incident was a road accident caused by dense fog and not related to cow smuggling.  Uttar Pradesh Chief Minister Yogi Adityanath directed officials to ensure strict action against the perpetrators.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Cow vigilantism and police inaction raise concerns about mob justice and lawlessness."
+    },
+    {
+      "id": 43761,
+      "title": "Iran’s willingness to escalate this high-stakes war is its greatest weapon | US-Israel war on Iran | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/21/iran-war-conflict-middle-east-trump-israel",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/fae6935327afc5bb4768b3e21e3a3551bc2593a6/220_0_1560_1248/master/1560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=919240f62fe5145ae763cb82df5b38a8",
+      "scraped_at": "2026-03-21 05:31:24.037624",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Iran",
+      "rephrased_article": "The recent escalation of the Iran-US conflict has resulted in significant financial costs for the US, with military spending projected to reach $200 billion.  Iran's attacks on Qatar's Ras Laffan liquefied natural gas plant have disrupted global energy markets and raised concerns about regional stability. The war has also led to a surge in casualties, with thousands of civilians injured or killed. Diplomatic efforts to de-escalate the conflict have stalled, leaving the future uncertain.  The potential outcomes include continued fighting, a unilateral declaration of victory by Trump, or a negotiated settlement that addresses Iran's nuclear ambitions and regional security concerns.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "War and civilian casualties are serious threats to global stability."
+    },
+    {
+      "id": 43749,
+      "title": "Tripura Government accommodating fake private universities, Opposition alleges - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tripura/tripura-government-accommodating-fake-private-universities-opposition-alleges/article70768294.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/l1un7y/article70768310.ece/alternates/LANDSCAPE_1200/IMG_PTI4_22_2012_000052A_2_1_AR9UNHEA.jpg",
+      "scraped_at": "2026-03-21 04:22:24.022415",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Tripura Government",
+      "rephrased_article": "CPI(M) and Congress members in the Tripura Assembly staged a walkout after bills were passed to establish three private universities.  Sudip Roy Barman, Congress leader, accused the government of engaging in suspicious financial corruption by allowing \"bogus\" institutions to operate. Jitendra Chowdhury, leader of the Opposition, alleged that the addresses and contact numbers provided by the applicants were not genuine, with one university's phone number belonging to a plywood factory. The bills are set to be introduced for another private university called \"Dhanvantari University\".",
+      "party_mentioned": [
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Manipur",
+        "Sikkim",
+        "Tripura",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "political_gaffe"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of corruption and establishment of 'bogus' universities raise serious concerns."
+    },
+    {
+      "id": 43640,
+      "title": "CAPF Bill says IPS necessary for Union-State coordination, reserves 50% I-G rank posts for IPS - The Hindu",
+      "url": "https://www.thehindu.com/news/national/capf-bill-says-ips-necessary-for-union-state-coordination-reserves-50-i-g-rank-posts-for-ips/article70767162.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3jexcq/article70767186.ece/alternates/LANDSCAPE_1200/20250801018L.jpg",
+      "scraped_at": "2026-03-20 19:20:28.260422",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The Central Armed Police Forces (General Administration) Bill, 2026, which is expected to be tabled in the Rajya Sabha next week, proposes that all ranks of Inspector General and above in Central Armed Police Forces (CAPFs) will be filled by Indian Police Service (IPS) officers on deputation. The bill seeks to codify provisions that negate a May 2025 Supreme Court judgment which asked for a reduction in IPS deputation in CAPFs. Retired CAPF officials argue the bill discriminates against cadre officers who won a case after ten years of litigation, while the Ministry of Home Affairs (MHA) maintains that the bill is necessary to ensure clarity and operational distinctiveness for these forces.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "political_gaffe"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The bill undermines the Supreme Court's ruling on CAPF officer appointments."
+    },
+    {
+      "id": 43600,
+      "title": "Three members of inter-State human trafficking racket arrested, two women rescued - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/three-members-of-inter-state-human-trafficking-racket-arrested-two-women-rescued/article70766787.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-20 17:14:42.940702",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "human traffickers",
+      "rephrased_article": "Two tribal women from Bejjur mandal in Kumram Bheem Asifabad district, India were rescued by local police after being allegedly kidnapped and trafficked to Madhya Pradesh. Prashanth alias Bablu and his wife Savitha, residents of Kistampet in Mancherial district, along with Mahesh from Sironcha in Maharashtra, were arrested for their involvement in the human trafficking case.  The women were reportedly lured by the couple on the pretext of a better life and forced into marriage against their will. The accused are now facing charges while Rahul, another suspect, remains at large.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Human trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 43513,
+      "title": "Uttam Nagar violence: Mehbooba Mufti seeks PM Modi's intervention ahead of Id - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/uttam-nagar-violence-mehbooba-mufti-seeks-pm-modis-intervention-ahead-of-id/article70765408.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7kan7i/article70765418.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000271A.jpg",
+      "scraped_at": "2026-03-20 12:01:39.024099",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Mehbooba Mufti, president of the PDP, called for intervention from Prime Minister Narendra Modi and Union Home Minister Amit Shah to quell communal tensions in Delhi's Uttam Nagar.  She expressed concern over escalating violence following a Holi clash, urging authorities to prevent further bloodshed before Eid. The tension stems from the death of Tarun, who was killed in a dispute with his neighbors, which escalated into protests and vandalism by Hindu groups.",
+      "party_mentioned": [
+        "BJP",
+        "PDP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Amit Shah",
+        "Shah",
+        "Rahul Gandhi",
+        "Rahul",
+        "Mehbooba Mufti"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Escalating communal violence ahead of Eid raises concerns about public safety."
+    },
+    {
+      "id": 43467,
+      "title": "Eid celebrations dimmed by war and displacement across Middle East | US-Israel war on Iran News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/873A1842-1773951784.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-03-20 10:08:20.809151",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Economic crises and conflict have dimmed traditional Eid celebrations in Iran, Gaza, and Lebanon. Alaa, a Syrian refugee in Beirut, is homeless after fleeing attacks on his home in Dahiyeh. In Gaza, the economic crisis exacerbated by Israel's war has made it difficult for Palestinians to afford even basic necessities.  Khaled Deeb, a 62-year-old resident of Gaza City, can no longer afford the fruit and vegetables he would typically buy for Eid. Shireen Shreim, another Palestinian mother in Gaza, echoes these sentiments, describing her family's hardship as they struggle to survive amidst ongoing violence.  Despite these challenges, some individuals like Karim Safieddine are choosing to celebrate Eid with their families, emphasizing the importance of communal solidarity during times of conflict.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article highlights the suffering of civilians due to war and displacement."
+    },
+    {
+      "id": 43383,
+      "title": "Expelled CPI functionary Mathur Sathya arrested - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/expelled-cpi-functionary-mathur-sathya-arrested/article70762983.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-20 02:35:58.956583",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "",
+      "rephrased_article": "Mathur Sathya, expelled from the Communist Party of India (CPI) following sexual harassment allegations, was arrested in Bengaluru on Thursday evening. He is being brought to Chennai for further inquiry. The party removed him from its primary membership and all associated organizations after the allegations surfaced and submitted a complaint to the Greater Chennai City Police Commissioner seeking action.",
+      "party_mentioned": [
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of sexual harassment and subsequent arrest raise concerns about justice and accountability."
+    },
+    {
+      "id": 43263,
+      "title": "ECI’s transfer of Bengal officials is political interference of the highest order, says Mamata - The Hindu",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/ecs-arbitrary-transfer-of-officials-is-political-interference-of-highest-order-mamata/article70761475.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hx8ph1/article70761608.ece/alternates/LANDSCAPE_1200/20260317336L.jpg",
+      "scraped_at": "2026-03-19 18:01:57.651628",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "Mamata Banerjee, West Bengal Chief Minister, expressed alarm over the Election Commission's transfer of over 50 senior officials in the state, calling it \"political interference\" and a violation of the Constitution.  She accused the commission of attempting to seize control of the state through coercion and manipulation. The Trinamool Congress chairperson stated that these transfers were not administrative but political, aiming to undermine her party's chances in the upcoming Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "economy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article alleges political interference in elections by a constitutional body."
+    },
+    {
+      "id": 64408,
+      "title": "Court allows CBI to arrest former Reliance ADAG executive Jhunjhunwala in bank fraud case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/court-allows-cbi-to-arrest-former-reliance-adag-executive-jhunjhunwala-in-bank-fraud-case/article71050107.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hdpyva/article71050108.ece/alternates/LANDSCAPE_1200/Reliance_Capital_AGM_8.jpg",
+      "scraped_at": "2026-06-01 23:05:58.963219",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Amitabh Jhunjhunwala",
+      "rephrased_article": "A Mumbai court allowed the Central Bureau of Investigation (CBI) to formally arrest Amitabh Jhunjhunwala, a former senior executive at the Anil Ambani-led Reliance Group, in connection with alleged bank loan misuse.  The court granted the CBI's request to formally arrest Mr. Jhunjhunwala, who was previously under judicial custody for money laundering charges. The CBI claims that Mr. Jhunjhunwala directed the misutilization of loan funds from banks, resulting in wrongful losses. The agency has filed a chargesheet against 16 individuals/entities, including Reliance Communications, alleging criminal conspiracy and misconduct.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Alleged bank fraud and misuse of power by a prominent business executive warrants concern."
     },
     {
       "id": 64387,
@@ -13910,6 +14782,74 @@
       "civic_flag_score": 8,
       "civic_flag_category": "suppression",
       "civic_flag_reason": "The article reports on the suppression of free speech and assembly in Pakistan."
+    },
+    {
+      "id": 43489,
+      "title": "Hungary officials ‘gave Ukrainian forced injection’ after raid on bank vehicles | Hungary | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/20/hungary-officials-gave-ukrainian-forced-injection-after-bank-vehicles-raid-sources-say",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/fdc875e450b6e29fed6ad281649305bb6a5e8f1e/40_0_563_450/master/563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5018df0a01c8a22f33b2c43102766ea3",
+      "scraped_at": "2026-03-20 11:10:19.323755",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Hungarian Government",
+      "rephrased_article": "Hungarian security operatives administered a forced injection to one of seven Ukrainians detained during a raid on bank vehicles carrying state funds. The men, who were accompanying a convoy from Vienna to Ukraine, were held for over 24 hours before being deported.  The Ukrainian source claims the injection contained a relaxant meant to make subjects talkative during interrogations and that it led to a hypertensive crisis. Viktor Orbán, the Hungarian nationalist leader, has claimed the funds were destined for Ukraine's \"war mafia\" but Oschadbank, the state savings bank, confirmed one of the detainees had a disability requiring special care.  The incident occurred as Hungary faces a crucial parliamentary election and has been accused of seeking to escalate tensions with Ukraine.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "institutional_failure",
+      "civic_flag_reason": "Forced injection and detention raise serious concerns about abuse of power."
+    },
+    {
+      "id": 43377,
+      "title": "The long walk - The Hindu",
+      "url": "https://www.thehindu.com/news/national/the-long-walk/article70762269.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yy085f/article70762284.ece/alternates/LANDSCAPE_1200/10_Transgender_Leaders_PC_16_03_Delhi.jpg",
+      "scraped_at": "2026-03-20 02:33:29.458169",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Kabir, a trans man, and other members of the Indian Women's Press Corps are speaking out against the proposed Transgender Persons (Protection of Rights) Amendment Bill, 2026. The bill seeks to redefine gender identification by limiting it to biological markers or cultural identities. This has sparked concerns among transgender communities who fear the bill will erase their rights and protections under existing law.  Rahul, a trans man from Uttar Pradesh, left his home after coming out to his family because he was unable to get a transgender certificate. He is concerned that the proposed amendment would make it difficult for trans people to access healthcare and employment opportunities. Dr. Aqsa Shaikh, a trans woman who teaches community medicine, argues that the bill conflates gender with sex and could negatively impact transgender individuals seeking gender-affirming care.  The bill has drawn criticism from LGBTQ+ rights organizations, medical professionals, and members of transgender communities across India.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Hyderabad",
+        "Chennai",
+        "Kolkata",
+        "Pune",
+        "Indore",
+        "Varanasi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 8,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "The bill threatens to erase transgender rights and protections."
     }
   ]
 }

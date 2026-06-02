@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-02 00:01:31.498711",
+  "generated_at": "2026-06-02 13:02:56.061841",
   "stats": {
-    "total_promises": 58,
+    "total_promises": 79,
     "kept": 2,
-    "broken": 11,
-    "ongoing": 44
+    "broken": 12,
+    "ongoing": 64
   },
   "by_status": {
     "broken": [
@@ -56,7 +56,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -206,7 +206,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p011",
@@ -256,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is delayed."
       },
       {
         "id": "p016",
@@ -281,7 +281,32 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
+      },
+      {
+        "id": "p018",
+        "person": "Yogi Adityanath",
+        "party": "BJP",
+        "promise": "End mafia raj and crime completely in Uttar Pradesh",
+        "category": "crime_violence",
+        "status": "broken",
+        "made_on": "2017-03-19",
+        "deadline": "ongoing",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/other-states/with-zero-tolerance-for-crime-and-criminals-up-has-created-sense-of-security-for-industry-yogi-adityanath/article66169337.ece",
+            "title": "With zero tolerance for crime and criminals, U.P. has created sense of security for industry: Yogi Adityanath",
+            "source": "The Hindu",
+            "scraped_at": "2022-11-22",
+            "relevance_score": 100,
+            "gemma_validated": true,
+            "rephrased": "The article covers Chief Minister Yogi Adityanath highlighting the state's zero-tolerance policy toward crime and criminals, claiming it has restored law and order and established a safe environment that attracts industrial investment.",
+            "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
+          }
+        ],
+        "gemma_suggestion": "broken",
+        "gemma_reasoning": "Crime stats show mixed results and encounter killings rose significantly."
       }
     ],
     "ongoing": [
@@ -342,7 +367,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p013",
@@ -370,31 +395,6 @@
         "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
       },
       {
-        "id": "p018",
-        "person": "Yogi Adityanath",
-        "party": "BJP",
-        "promise": "End mafia raj and crime completely in Uttar Pradesh",
-        "category": "crime_violence",
-        "status": "ongoing",
-        "made_on": "2017-03-19",
-        "deadline": "ongoing",
-        "evidence_count": 1,
-        "evidence_articles": [
-          {
-            "url": "https://www.thehindu.com/news/national/other-states/with-zero-tolerance-for-crime-and-criminals-up-has-created-sense-of-security-for-industry-yogi-adityanath/article66169337.ece",
-            "title": "With zero tolerance for crime and criminals, U.P. has created sense of security for industry: Yogi Adityanath",
-            "source": "The Hindu",
-            "scraped_at": "2022-11-22",
-            "relevance_score": 100,
-            "gemma_validated": true,
-            "rephrased": "The article covers Chief Minister Yogi Adityanath highlighting the state's zero-tolerance policy toward crime and criminals, claiming it has restored law and order and established a safe environment that attracts industrial investment.",
-            "content": "Uttar Pradesh Chief Minister Yogi Adityanath on Tuesday said the State government's policy of 'zero tolerance' towards crime and criminals had restored law and order and created a sense of security, making it a preferred destination for industrial investments."
-          }
-        ],
-        "gemma_suggestion": "broken",
-        "gemma_reasoning": "Crime stats show mixed results and encounter killings rose significantly."
-      },
-      {
         "id": "p019",
         "person": "Mamata Banerjee",
         "party": "TMC",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making a full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       },
       {
         "id": "p020",
@@ -1007,6 +1007,344 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780355440_0",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu plans to introduce legislation to incentivize more children per family.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780355653_1",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Postal voting will be conducted for senior citizens aged 85 and above, and persons with benchmark disabilities in Chennai district from April 16th to 18th, 2026.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780356274_2",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "The BJP will prioritize resolving issues for Gurkha residents in Darjeeling, including withdrawing all pending police cases against community leaders and workers.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780357387_3",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav promised to build a 'Saraswati Lok' corridor and a Raja Bhoj Research Institute.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780357675_4",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah plans to unveil a 'Smart Border Concept' equipped with drones and radars.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/amit-shah-to-visit-border-areas-over-next-three-weeks/article71022402.ece",
+            "title": "Amit Shah to visit border areas over next three weeks - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-25 22:42:07.159461",
+            "relevance_score": 71,
+            "gemma_validated": true,
+            "rephrased": "**Union Home Minister Amit Shah** began a three-week tour of India's border areas on Tuesday, May 26, 2026, visiting Rajasthan and Gujarat. He will meet with state officials, BSF officers, and represe",
+            "content": "Starting with Rajasthan on Tuesday (May 26, 2026), Union Home Minister Amit Shah will visit the country’s border areas over the next three weeks, a government official said. During his visits to border outposts along Pakistan and Bangladesh borders, Mr. Shah is expected to take stock of the security situation with State government and Border Security Force (BSF) officials. Mr. Shah arrived in Rajasthan’s Bikaner on Monday night. He will visit the BSF border outpost at Sanchu on Tuesday, where he will attend the “Prahari Sammelan” and virtually inaugurate barracks for women personnel. Later in the day, he will review the border security with senior BSF officers in Bikaner. The meeting will also include representatives from the Union Home Ministry and senior officials from the five districts that share a border with Pakistan, the official said. Mr. Shah will travel to Bhuj in Gujarat on May 29, where he is scheduled to visit another BSF border outpost. In June, the Minister is likely to visit border areas along the Bangladesh frontier, beginning with Tripura on June 5, followed by a visit to West Bengal around June 15, the official added. On May 22, Mr. Shah said that a “Smart Border Concept” will be unveiled soon to make the Pakistan and Bangladesh borders “impregnable.” The project, equipped with drones, radars, cameras, and other technical resources, is expected to plug gaps in border security. The Minister said that a high-powered demography mission would be announced soon to identify infiltration routes and provide the information to the BSF. Published - May 25, 2026 10:08 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
+      },
+      {
+        "id": "promise_1780361059_5",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "The BJP will ensure the lighting of the Karthigai Deepam at the Thiruparankundram Hill in Madurai, Tamil Nadu.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780361541_6",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Launched the 'Dr. Bhimrao Ramji Ambedkar Statue Development Scheme' to beautify and conserve statues.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780362157_7",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to enact legislation against hate speech.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780362360_8",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "TVK will establish a global e-commerce platform for weaver products.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780363480_9",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The government will release ₹50 crore monthly to ensure timely salary payments to over 50,000 village panchayat staff.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780368596_0",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu promised to ensure all government welfare hostels are fully equipped and ready before schools reopen in June.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780369978_1",
+        "person": "Piyush Goyal",
+        "party": "",
+        "promise": "Piyush Goyal promised to implement a 33% reservation for women in Parliament and Assemblies by 2029.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780370419_2",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah ordered the demolition of buildings within 15km of the border with Pakistan.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer?traffic_source=rss",
+            "title": "India orders demolition drive along border as Pakistan tensions simmer | India-Pakistan Tensions News | Al Jazeera",
+            "source": "Al Jazeera",
+            "scraped_at": "2026-05-27 20:39:05.390304",
+            "relevance_score": 77,
+            "gemma_validated": true,
+            "rephrased": "**India's** interior minister, Amit Shah, ordered the demolition of buildings within 15km of the border with **Pakistan**, citing the need to address \"trans-border crimes\" including infiltration and n",
+            "content": "India orders demolition drive along border as Pakistan tensions simmer The interior minister also urged officials to address infiltration, narcotics, smuggling, and other ‘trans-border crimes’. India’s interior minister has ordered the demolition of buildings along the border with Pakistan, as well as actions to combat a variety of “trans-border crimes”. Home Minister Amit Shah announced on Wednesday that buildings deemed “illegal” would be destroyed. In a statement, he explained that means that buildings within 15km (nine miles) of the border will be torn down. Recommended Stories list of 4 items- list 1 of 4Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - list 2 of 4Are India and Pakistan quietly preparing to restart dialogue? - list 3 of 4Train bomb in Pakistan’s Baloch region: Why violence is on the rise - list 4 of 4‘Naturally scared’: India’s Muslims denied public spaces for Eid prayers The order builds on the deepened tension between the South Asian neighbours. Relations hit new lows last year when India accused Pakistan of being behind a deadly attack in Kashmir, setting off a four-day war that killed more than 70 people, their worst conflict in decades. “Amit Shah stressed the need for strict enforcement of a zero-tolerance policy against illegal constructions, particularly within 0-15 km of the international border,” the Ministry of Home Affairs statement read. “He directed the concerned authorities to demolish all such unauthorised constructions.” Shah also urged officials to boost efforts “to effectively address infiltration, narcotics smuggling, encroachment, terror financing, and other trans-border crimes”, according to the statement. New Delhi has accused Islamabad of aiding narcotics and weapons smuggling into India, and has spent heavily on reinforcing its highly patrolled borders. Shah is known for his hardline stance on national security, irregular migration and transnational crimes. He unveiled the order while in the western state of Rajasthan, which borders Pakistan. India’s frontier with Pakistan, including the de facto border through the disputed Himalayan territory of Kashmir, stretches for 3,300km (2,050 miles). India and Pakistan accuse each other of backing proxy forces, and each side fiercely rejects the claims of the other. The brief war broke out last year after an attack in Indian-administered Kashmir killed 26 men, mostly Hindu tourists. India accused Pakistan of backing the attack – a charge Islamabad denied – triggering tit-for-tat diplomatic measures and air strikes, drone swarms and heavy mortar fire."
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
+      },
+      {
+        "id": "promise_1780373808_3",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The BRS party will conduct a state-wide padayatra in 2027.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/telangana/ktr-hints-at-padayatra-in-2027-rules-out-tie-up-with-bjp/article70854908.ece",
+            "title": "KTR hints at padayatra in 2027, rules out tie-up with BJP - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-04-12 17:13:16.614112",
+            "relevance_score": 71,
+            "gemma_validated": true,
+            "rephrased": "**K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, stated that the party will contest the upcoming elections independently and return to power. He also hinted at a state-wid",
+            "content": "Hyderabad Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao ruled out any alliance with any party in the coming elections, and also hinted at a padayatra next year to reconnect with people. Mr. Rama Rao, who was in Kyatanpally municipality on Sunday to felicitate the newly-elected members, said, “Alliances have not worked for us. We will contest alone and return to power,” and denied any tie-up with the BJP in future. He also hinted at undertaking a State-wide padayatra in 2027 focusing on public issues, as part of efforts to reconnect with the people and strengthen the party. He admitted that a gap had developed between the party and the people during its decade in power. On delimitation, Mr. Rama Rao said that the proposed increase in Assembly and Parliamentary constituencies would create new political opportunities. He maintained that if the current proportional representation is retained, there would be no objection. “If all states receive a uniform increase in seats without reducing existing share, there is no reason for concern,” he observed. Admitting shortcomings during the BRS government’s tenure, KTR said the party failed to maintain effective coordination with grassroots leaders, including cadre, sarpanches, MPTCs and mandal-level representatives. He also acknowledged that despite a large migrant workforce from north Telangana districts, the government could not formulate a comprehensive Gulf policy. He criticised the Revanth Reddy government, alleging that key welfare schemes such as Rythu Bandhu and farm loan waivers were not being implemented properly. He also flagged delays in fee reimbursement affecting students and claimed that public confidence in the government was declining. KTR criticised the allocation of funds to the Pranahita project despite objections from Maharashtra and demanded early completion of the Chennur lift irrigation scheme. On Singareni, he said that expansion of opencast mining was reducing employment opportunities and leading to worker discontent. Published - April 12, 2026 10:05 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
+      },
+      {
+        "id": "promise_1780376713_4",
+        "person": "Ashwini Vaishnaw",
+        "party": "",
+        "promise": "Ashwini Vaishnaw approved the introduction of a Vande Bharat sleeper train service between KSR Bengaluru and Chhatrapati Shivaji Maharaj Terminus in Mumbai.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780377309_5",
+        "person": "Devendra Fadnavis",
+        "party": "",
+        "promise": "Devendra Fadnavis promised to investigate the helicopter landing incident.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780377761_6",
+        "person": "Nitish Kumar",
+        "party": "",
+        "promise": "Nitish Kumar promised an ex gratia of ₹2 lakh to the families of the deceased and ₹50,000 to each injured person.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780383339_0",
+        "person": "Mallikarjun Kharge",
+        "party": "",
+        "promise": "The Congress plans to implement the women's reservation law by 2029.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/cwc-meet-updates-congress-opposition-delimitation-womens-quota-west-asia-situation/article70847091.ece",
+            "title": "Congress discusses women’s reservation law and delimitation; Kharge to meet other Opposition leaders for joint strategy - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-04-10 22:45:25.844543",
+            "relevance_score": 75,
+            "gemma_validated": true,
+            "rephrased": "The **Congress Working Committee** (CWC) discussed the government's proposed delimitation exercise and women's reservation law implementation. The party plans to formulate a joint strategy for the upc",
+            "content": "The Congress Working Committee (CWC) on Friday (April 10, 2026) discussed the government move to carry out the delimitation exercise on the basis of the 2011 census and operationalise the women’s reservation law. It then announced that the party will formulate a joint strategy for the special session of Parliament after consulting other Opposition parties. Congress president Mallikarjun Kharge will convene a meeting of the Indian National Developmental Inclusive Alliance (INDIA) bloc on April 15, a day before the three-day special session begins to amend the women’s reservation law so that it can be implemented by the 2029 Lok Sabha election and increase the strength of the Lok Sabha and State Assemblies by 50%. In his opening speech to the CWC, Mr. Kharge said the proposed changes will have “serious consequences” and will “seriously impact” the electoral system. “It [the government] wants to increase the Lok Sabha seats from 543 to 816. There will be an increase in the same proportion in the legislative Assemblies. This delimitation proposal will have serious consequences. Therefore, there is need for a deep discussion on delimitation,” Mr. Kharge told his colleagues. At the closed-door meeting, sources said, discussions centred around evolving a strategy that makes it clear that the Congress supports the immediate implementation of women’s reservation law, but wants wider consultation for the delimitation exercise. Congress Parliamentary Party chairperson Sonia Gandhi, who joined the meeting online, said the party cannot be seen opposing the immediate implementation of women’s reservation, while Rahul Gandhi asserted that the delimitation will necessarily lead to a talk of a North-South divide. This point was amplified by Telangana Chief Minister A. Revanth Reddy and Karnataka Chief Minister Siddaramaiah. MP Manish Tewari is said to have argued that instead of fixing a predetermined number like 50%, the strength of legislature should be fixed post census. Seats can then be reserved for women on the current strength of 543 members. Party leader Priyanka Gandhi Vadra is said to have argued that it was important to understand the government’s larger plan behind the move. Addressing a press conference, Congress communications chief Jairam Ramesh retierated the party’s demand for an all-party meeting after the ongoing Assembly elections get over on April 29. “It [delimitation] will have far-reaching consequences,” Mr. Ramesh said, adding, “The issue is not women’s reservation. This is the Prime Minister’s game. He owes an apology to the women of the country for disregarding the Congress suggestion of implementing the law in the 2024 Lok Sabha polls.” During the internal deliberations, party general secretary Randeep Singh Surjewala, who joined the meet online, and another leader K. Raju said the government wants to “thwart” proportional representation to the Scheduled Castes, Scheduled Tribes and Other Backward Classes (OBCs), whose accurate numbers would be known after the caste census. They argued that the government wants to avoid implementing caste data in reservation as that could help Rahul Gandhi in the 2029 polls since he has been championing caste census. Published - April 10, 2026 04:50 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The Congress is in opposition and the deadline is in the future."
+      },
+      {
+        "id": "promise_1780383641_1",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "The BJP promises to double cash benefits for women and unemployed youth.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780383936_2",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy directed officials to develop a unified card for welfare scheme benefits.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780385764_3",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Will deport all infiltrators from the country.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "kept": [
@@ -1085,7 +1423,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by an opposition party that lost the election."
+        "gemma_reasoning": "Congress lost the 2019 election, so the NYAY scheme was not implemented."
       }
     ]
   },
@@ -1139,7 +1477,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -1289,7 +1627,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -1348,7 +1686,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -1398,7 +1736,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is delayed."
       },
       {
         "id": "p020",
@@ -1546,6 +1884,34 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780355653_1",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Postal voting will be conducted for senior citizens aged 85 and above, and persons with benchmark disabilities in Chennai district from April 16th to 18th, 2026.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780361059_5",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "The BJP will ensure the lighting of the Karthigai Deepam at the Thiruparankundram Hill in Madurai, Tamil Nadu.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Amit Shah": [
@@ -1594,6 +1960,84 @@
         "party": "",
         "promise": "Amit Shah guaranteed proportional representation increases for southern states.",
         "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780357675_4",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah plans to unveil a 'Smart Border Concept' equipped with drones and radars.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/amit-shah-to-visit-border-areas-over-next-three-weeks/article71022402.ece",
+            "title": "Amit Shah to visit border areas over next three weeks - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-05-25 22:42:07.159461",
+            "relevance_score": 71,
+            "gemma_validated": true,
+            "rephrased": "**Union Home Minister Amit Shah** began a three-week tour of India's border areas on Tuesday, May 26, 2026, visiting Rajasthan and Gujarat. He will meet with state officials, BSF officers, and represe",
+            "content": "Starting with Rajasthan on Tuesday (May 26, 2026), Union Home Minister Amit Shah will visit the country’s border areas over the next three weeks, a government official said. During his visits to border outposts along Pakistan and Bangladesh borders, Mr. Shah is expected to take stock of the security situation with State government and Border Security Force (BSF) officials. Mr. Shah arrived in Rajasthan’s Bikaner on Monday night. He will visit the BSF border outpost at Sanchu on Tuesday, where he will attend the “Prahari Sammelan” and virtually inaugurate barracks for women personnel. Later in the day, he will review the border security with senior BSF officers in Bikaner. The meeting will also include representatives from the Union Home Ministry and senior officials from the five districts that share a border with Pakistan, the official said. Mr. Shah will travel to Bhuj in Gujarat on May 29, where he is scheduled to visit another BSF border outpost. In June, the Minister is likely to visit border areas along the Bangladesh frontier, beginning with Tripura on June 5, followed by a visit to West Bengal around June 15, the official added. On May 22, Mr. Shah said that a “Smart Border Concept” will be unveiled soon to make the Pakistan and Bangladesh borders “impregnable.” The project, equipped with drones, radars, cameras, and other technical resources, is expected to plug gaps in border security. The Minister said that a high-powered demography mission would be announced soon to identify infiltration routes and provide the information to the BSF. Published - May 25, 2026 10:08 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
+      },
+      {
+        "id": "promise_1780370419_2",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah ordered the demolition of buildings within 15km of the border with Pakistan.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer?traffic_source=rss",
+            "title": "India orders demolition drive along border as Pakistan tensions simmer | India-Pakistan Tensions News | Al Jazeera",
+            "source": "Al Jazeera",
+            "scraped_at": "2026-05-27 20:39:05.390304",
+            "relevance_score": 77,
+            "gemma_validated": true,
+            "rephrased": "**India's** interior minister, Amit Shah, ordered the demolition of buildings within 15km of the border with **Pakistan**, citing the need to address \"trans-border crimes\" including infiltration and n",
+            "content": "India orders demolition drive along border as Pakistan tensions simmer The interior minister also urged officials to address infiltration, narcotics, smuggling, and other ‘trans-border crimes’. India’s interior minister has ordered the demolition of buildings along the border with Pakistan, as well as actions to combat a variety of “trans-border crimes”. Home Minister Amit Shah announced on Wednesday that buildings deemed “illegal” would be destroyed. In a statement, he explained that means that buildings within 15km (nine miles) of the border will be torn down. Recommended Stories list of 4 items- list 1 of 4Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - list 2 of 4Are India and Pakistan quietly preparing to restart dialogue? - list 3 of 4Train bomb in Pakistan’s Baloch region: Why violence is on the rise - list 4 of 4‘Naturally scared’: India’s Muslims denied public spaces for Eid prayers The order builds on the deepened tension between the South Asian neighbours. Relations hit new lows last year when India accused Pakistan of being behind a deadly attack in Kashmir, setting off a four-day war that killed more than 70 people, their worst conflict in decades. “Amit Shah stressed the need for strict enforcement of a zero-tolerance policy against illegal constructions, particularly within 0-15 km of the international border,” the Ministry of Home Affairs statement read. “He directed the concerned authorities to demolish all such unauthorised constructions.” Shah also urged officials to boost efforts “to effectively address infiltration, narcotics smuggling, encroachment, terror financing, and other trans-border crimes”, according to the statement. New Delhi has accused Islamabad of aiding narcotics and weapons smuggling into India, and has spent heavily on reinforcing its highly patrolled borders. Shah is known for his hardline stance on national security, irregular migration and transnational crimes. He unveiled the order while in the western state of Rajasthan, which borders Pakistan. India’s frontier with Pakistan, including the de facto border through the disputed Himalayan territory of Kashmir, stretches for 3,300km (2,050 miles). India and Pakistan accuse each other of backing proxy forces, and each side fiercely rejects the claims of the other. The brief war broke out last year after an attack in Indian-administered Kashmir killed 26 men, mostly Hindu tourists. India accused Pakistan of backing the attack – a charge Islamabad denied – triggering tit-for-tat diplomatic measures and air strikes, drone swarms and heavy mortar fire."
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
+      },
+      {
+        "id": "promise_1780383641_1",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "The BJP promises to double cash benefits for women and unemployed youth.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780385764_3",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Will deport all infiltrators from the country.",
+        "category": "crime_violence",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -1677,7 +2121,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "Rahul Gandhi": [
@@ -1704,7 +2148,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by an opposition party that lost the election."
+        "gemma_reasoning": "Congress lost the 2019 election, so the NYAY scheme was not implemented."
       },
       {
         "id": "promise_1780292965_2",
@@ -1728,7 +2172,7 @@
         "party": "BJP",
         "promise": "End mafia raj and crime completely in Uttar Pradesh",
         "category": "crime_violence",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
         "evidence_count": 1,
@@ -1753,6 +2197,20 @@
         "party": "",
         "promise": "Yogi Adityanath promised to provide free annual health insurance coverage of ₹5 lakh.",
         "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780361541_6",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Launched the 'Dr. Bhimrao Ramji Ambedkar Statue Development Scheme' to beautify and conserve statues.",
+        "category": "infrastructure",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -1786,7 +2244,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making a full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       },
       {
         "id": "promise_1780207073_7",
@@ -1844,6 +2302,20 @@
         "party": "",
         "promise": "The Trinamool Congress’s Lakshmir Bhandar program offers ₹1,500 per month to eligible women.",
         "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780356274_2",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "The BJP will prioritize resolving issues for Gurkha residents in Darjeeling, including withdrawing all pending police cases against community leaders and workers.",
+        "category": "politics",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -1965,6 +2437,73 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780362157_7",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to enact legislation against hate speech.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780363480_9",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The government will release ₹50 crore monthly to ensure timely salary payments to over 50,000 village panchayat staff.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780373808_3",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The BRS party will conduct a state-wide padayatra in 2027.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/telangana/ktr-hints-at-padayatra-in-2027-rules-out-tie-up-with-bjp/article70854908.ece",
+            "title": "KTR hints at padayatra in 2027, rules out tie-up with BJP - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-04-12 17:13:16.614112",
+            "relevance_score": 71,
+            "gemma_validated": true,
+            "rephrased": "**K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, stated that the party will contest the upcoming elections independently and return to power. He also hinted at a state-wid",
+            "content": "Hyderabad Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao ruled out any alliance with any party in the coming elections, and also hinted at a padayatra next year to reconnect with people. Mr. Rama Rao, who was in Kyatanpally municipality on Sunday to felicitate the newly-elected members, said, “Alliances have not worked for us. We will contest alone and return to power,” and denied any tie-up with the BJP in future. He also hinted at undertaking a State-wide padayatra in 2027 focusing on public issues, as part of efforts to reconnect with the people and strengthen the party. He admitted that a gap had developed between the party and the people during its decade in power. On delimitation, Mr. Rama Rao said that the proposed increase in Assembly and Parliamentary constituencies would create new political opportunities. He maintained that if the current proportional representation is retained, there would be no objection. “If all states receive a uniform increase in seats without reducing existing share, there is no reason for concern,” he observed. Admitting shortcomings during the BRS government’s tenure, KTR said the party failed to maintain effective coordination with grassroots leaders, including cadre, sarpanches, MPTCs and mandal-level representatives. He also acknowledged that despite a large migrant workforce from north Telangana districts, the government could not formulate a comprehensive Gulf policy. He criticised the Revanth Reddy government, alleging that key welfare schemes such as Rythu Bandhu and farm loan waivers were not being implemented properly. He also flagged delays in fee reimbursement affecting students and claimed that public confidence in the government was declining. KTR criticised the allocation of funds to the Pranahita project despite objections from Maharashtra and demanded early completion of the Chennur lift irrigation scheme. On Singareni, he said that expansion of opencast mining was reducing employment opportunities and leading to worker discontent. Published - April 12, 2026 10:05 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
+      },
+      {
+        "id": "promise_1780383936_2",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy directed officials to develop a unified card for welfare scheme benefits.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "C. Joseph Vijay": [
@@ -2016,6 +2555,20 @@
         "party": "",
         "promise": "The new government will continue the tradition of singing Tamil Thai Vazhthu and the National Anthem at the beginning and end of official functions.",
         "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780362360_8",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "TVK will establish a global e-commerce platform for weaver products.",
+        "category": "economy",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -2123,6 +2676,34 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780355440_0",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu plans to introduce legislation to incentivize more children per family.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780368596_0",
+        "person": "Chandrababu Naidu",
+        "party": "",
+        "promise": "Chandrababu Naidu promised to ensure all government welfare hostels are fully equipped and ready before schools reopen in June.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Mohan Yadav": [
@@ -2167,6 +2748,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780357387_3",
+        "person": "Mohan Yadav",
+        "party": "",
+        "promise": "Mohan Yadav promised to build a 'Saraswati Lok' corridor and a Raja Bhoj Research Institute.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "V.D. Satheesan": [
@@ -2183,6 +2778,97 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      }
+    ],
+    "Piyush Goyal": [
+      {
+        "id": "promise_1780369978_1",
+        "person": "Piyush Goyal",
+        "party": "",
+        "promise": "Piyush Goyal promised to implement a 33% reservation for women in Parliament and Assemblies by 2029.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Ashwini Vaishnaw": [
+      {
+        "id": "promise_1780376713_4",
+        "person": "Ashwini Vaishnaw",
+        "party": "",
+        "promise": "Ashwini Vaishnaw approved the introduction of a Vande Bharat sleeper train service between KSR Bengaluru and Chhatrapati Shivaji Maharaj Terminus in Mumbai.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Devendra Fadnavis": [
+      {
+        "id": "promise_1780377309_5",
+        "person": "Devendra Fadnavis",
+        "party": "",
+        "promise": "Devendra Fadnavis promised to investigate the helicopter landing incident.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Nitish Kumar": [
+      {
+        "id": "promise_1780377761_6",
+        "person": "Nitish Kumar",
+        "party": "",
+        "promise": "Nitish Kumar promised an ex gratia of ₹2 lakh to the families of the deceased and ₹50,000 to each injured person.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Mallikarjun Kharge": [
+      {
+        "id": "promise_1780383339_0",
+        "person": "Mallikarjun Kharge",
+        "party": "",
+        "promise": "The Congress plans to implement the women's reservation law by 2029.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/cwc-meet-updates-congress-opposition-delimitation-womens-quota-west-asia-situation/article70847091.ece",
+            "title": "Congress discusses women’s reservation law and delimitation; Kharge to meet other Opposition leaders for joint strategy - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-04-10 22:45:25.844543",
+            "relevance_score": 75,
+            "gemma_validated": true,
+            "rephrased": "The **Congress Working Committee** (CWC) discussed the government's proposed delimitation exercise and women's reservation law implementation. The party plans to formulate a joint strategy for the upc",
+            "content": "The Congress Working Committee (CWC) on Friday (April 10, 2026) discussed the government move to carry out the delimitation exercise on the basis of the 2011 census and operationalise the women’s reservation law. It then announced that the party will formulate a joint strategy for the special session of Parliament after consulting other Opposition parties. Congress president Mallikarjun Kharge will convene a meeting of the Indian National Developmental Inclusive Alliance (INDIA) bloc on April 15, a day before the three-day special session begins to amend the women’s reservation law so that it can be implemented by the 2029 Lok Sabha election and increase the strength of the Lok Sabha and State Assemblies by 50%. In his opening speech to the CWC, Mr. Kharge said the proposed changes will have “serious consequences” and will “seriously impact” the electoral system. “It [the government] wants to increase the Lok Sabha seats from 543 to 816. There will be an increase in the same proportion in the legislative Assemblies. This delimitation proposal will have serious consequences. Therefore, there is need for a deep discussion on delimitation,” Mr. Kharge told his colleagues. At the closed-door meeting, sources said, discussions centred around evolving a strategy that makes it clear that the Congress supports the immediate implementation of women’s reservation law, but wants wider consultation for the delimitation exercise. Congress Parliamentary Party chairperson Sonia Gandhi, who joined the meeting online, said the party cannot be seen opposing the immediate implementation of women’s reservation, while Rahul Gandhi asserted that the delimitation will necessarily lead to a talk of a North-South divide. This point was amplified by Telangana Chief Minister A. Revanth Reddy and Karnataka Chief Minister Siddaramaiah. MP Manish Tewari is said to have argued that instead of fixing a predetermined number like 50%, the strength of legislature should be fixed post census. Seats can then be reserved for women on the current strength of 543 members. Party leader Priyanka Gandhi Vadra is said to have argued that it was important to understand the government’s larger plan behind the move. Addressing a press conference, Congress communications chief Jairam Ramesh retierated the party’s demand for an all-party meeting after the ongoing Assembly elections get over on April 29. “It [delimitation] will have far-reaching consequences,” Mr. Ramesh said, adding, “The issue is not women’s reservation. This is the Prime Minister’s game. He owes an apology to the women of the country for disregarding the Congress suggestion of implementing the law in the 2024 Lok Sabha polls.” During the internal deliberations, party general secretary Randeep Singh Surjewala, who joined the meet online, and another leader K. Raju said the government wants to “thwart” proportional representation to the Scheduled Castes, Scheduled Tribes and Other Backward Classes (OBCs), whose accurate numbers would be known after the caste census. They argued that the government wants to avoid implementing caste data in reservation as that could help Rahul Gandhi in the 2029 polls since he has been championing caste census. Published - April 10, 2026 04:50 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The Congress is in opposition and the deadline is in the future."
       }
     ]
   },
@@ -2236,7 +2922,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -2386,7 +3072,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -2445,7 +3131,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -2495,7 +3181,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is delayed."
       },
       {
         "id": "p013",
@@ -2528,7 +3214,7 @@
         "party": "BJP",
         "promise": "End mafia raj and crime completely in Uttar Pradesh",
         "category": "crime_violence",
-        "status": "ongoing",
+        "status": "broken",
         "made_on": "2017-03-19",
         "deadline": "ongoing",
         "evidence_count": 1,
@@ -2646,7 +3332,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "INC": [
@@ -2673,7 +3359,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by an opposition party that lost the election."
+        "gemma_reasoning": "Congress lost the 2019 election, so the NYAY scheme was not implemented."
       }
     ],
     "TMC": [
@@ -2700,7 +3386,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making a full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.166435",
+  "generated_at": "2026-06-02 13:02:55.692520",
   "state": "Uttarakhand",
   "capital": "Dehradun",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 62,
-    "articles_last_30d": 37
+    "total_articles": 68,
+    "articles_last_30d": 39
   },
   "top_cities_30d": {
-    "Delhi": 24,
+    "Delhi": 25,
     "Ludhiana": 3,
     "Chennai": 2,
     "Mumbai": 2,
@@ -24,18 +24,77 @@
     "Hyderabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 32,
+    "foreign_policy": 33,
     "education": 13,
     "crime_violence": 11,
     "protest_opposition": 8,
     "rape_sexual_crime": 5,
+    "health": 5,
     "economy": 5,
-    "health": 4,
+    "farmer_agriculture": 4,
     "infrastructure": 3,
-    "farmer_agriculture": 3,
-    "corruption_scam": 1
+    "political_gaffe": 2
   },
   "recent_articles": [
+    {
+      "id": 64477,
+      "title": "BJP picks old RSS hand Nagendra Nath Tripathi for outreach to ‘neglected’ Sangh Parivar elders | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/nagendra-nath-tripathi-bjp-rss-senior-karyakarta-outreach-10719105/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Nagendra-Nath-Tripathi.jpg",
+      "scraped_at": "2026-06-02 02:01:08.128184",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** has appointed **Nagendra Nath Tripathi**, a long-time RSS and BJP member, as the national organiser for outreach to senior Sangh Parivar workers.  Tripathi’s extensive organizational experience spans decades across the RSS, ABVP, and BJP, and he is expected to lead efforts to reconnect veteran workers who have been feeling neglected due to the party's focus on other priorities. The initiative aims to strengthen coordination between the BJP and the larger Sangh Parivar while recognizing the contributions of long-serving members.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ranchi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64473,
+      "title": "Why Himachal local body poll results come as boost to BJP despite CM Sukhu’s ‘local factors’ argument | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/why-himachal-local-body-poll-results-come-as-boost-to-bjp-despite-cm-sukhvinder-singh-sukhus-local-factors-argument-10719096/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Sukhvinder-Singh-Sukhu-file-photo-express_20260601185637.jpg",
+      "scraped_at": "2026-06-02 02:01:02.628872",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Saurabh Parashar**, an Assistant Editor at **The Indian Express**, focuses on the socio-political landscape of Himachal Pradesh, particularly environmental issues, drug menace, and governance challenges. He has over 17 years of experience in print media, specializing in crime, legal affairs, and investigative reporting.  His recent articles have explored the impact of policy on social safety nets, the conflict between development and forest conservation, and the unique challenges of governance in high-altitude regions. **Parashar** is known for his tenacious reporting on the state's drug epidemic and his deep understanding of Himachal Pradesh's geography and tribal culture.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "foreign_policy",
+        "health",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 64163,
       "title": "Gujarat Hardlook | Cyber terror in labour room: Curtains left open, weak passwords, eight hackers, and viral clips | Ahmedabad News - The Indian Express",
@@ -2056,6 +2115,118 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 43814,
+      "title": "Himachal CM Sukhu presents ₹54,928-crore budget for 2026-27 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9bjs9j/article70768591.ece/alternates/LANDSCAPE_1200/Himachal-PradesGJ6FO8DLC.3.jpg.jpg",
+      "scraped_at": "2026-03-21 08:00:59.766390",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Himachal Pradesh** Chief Minister Sukhvinder Singh Sukhu presented a ₹54,928-crore budget for the 2026-27 fiscal year in the state assembly.  Sukhu accused the **BJP** of not supporting the state's interests and criticized the discontinuation of the revenue deficit grant (RDG). The opposition **BJP** members reacted with slogans, prompting the speaker to adjourn the session. Sukhu announced a ₹500-crore allocation for completing pending works and increased milk procurement prices.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Himachal Pradesh",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 43542,
+      "title": "Uttarakhand gets five new Ministers as Pushkar Dhami expands Cabinet - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttarakhand/uttarkhand-cm-pushkar-singh-dhami-expands-cabinet-inducts-five-mlas/article70764394.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zfv4tj/article70764399.ece/alternates/LANDSCAPE_1200/20260316410L.jpg",
+      "scraped_at": "2026-03-20 14:18:19.105591",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Pushkar Singh Dhami",
+      "rephrased_article": "**Uttarakhand Chief Minister Pushkar Singh Dhami** expanded his cabinet to its full strength of 12 by inducting five new legislators: Bharat Singh Chaudhary, Khajan Dass, Madan Kaushik, Pradeep Batra, and Ram Singh Kaira. The swearing-in ceremony was presided over by **Governor Gurmit Singh**.  The newly appointed ministers include a member of the **BJP national executive** and former state party president, **Kaushik**, as well as first-time entrants to the cabinet.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 43493,
+      "title": "Id-ul-Fitr: Palayam Imam urges stand against religious discrimination, condemns war and flags moral decline in Id sermon - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/id-ul-fitr-palayam-imam-urges-stand-against-religious-discrimination-condemns-war-and-flags-moral-decline-in-id-sermon/article70765037.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/jnngye/article70765187.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-20%20at%2015.42.35.jpg",
+      "scraped_at": "2026-03-20 11:11:49.403885",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel-American alliance",
+      "rephrased_article": "**Palayam Imam V.P. Shuhaib Moulavi** delivered a sermon at the Chandrasekharan Nair Stadium in Thiruvananthapuram, urging citizens to stand against religious discrimination and uphold secular values. He highlighted the story of Deepak Kumar, a youth who protected an elderly Muslim shopkeeper from Hindu vigilantes, emphasizing the importance of kindness and goodwill in combating communalism. **Moulavi** also addressed the global crisis caused by the Israel-American alliance and Iran's conflict, condemning violence against children and urging for peace.  He further discussed the \"Epstein files\" revelations, noting a culture of moral decay and highlighting instances of misconduct by powerful figures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 43377,
+      "title": "The long walk - The Hindu",
+      "url": "https://www.thehindu.com/news/national/the-long-walk/article70762269.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yy085f/article70762284.ece/alternates/LANDSCAPE_1200/10_Transgender_Leaders_PC_16_03_Delhi.jpg",
+      "scraped_at": "2026-03-20 02:33:29.458169",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Kabir**, a trans man, and other members of the Indian Women's Press Corps are speaking out against the proposed **Transgender Persons (Protection of Rights) Amendment Bill, 2026**. The bill seeks to redefine gender identification by limiting it to biological markers or cultural identities. This has sparked concerns among transgender communities who fear the bill will erase their rights and protections under existing law.  **Rahul**, a trans man from Uttar Pradesh, left his home after coming out to his family because he was unable to get a transgender certificate. He is concerned that the proposed amendment would make it difficult for trans people to access healthcare and employment opportunities. **Dr. Aqsa Shaikh**, a trans woman who teaches community medicine, argues that the bill conflates gender with sex and could negatively impact transgender individuals seeking gender-affirming care.  The bill has drawn criticism from LGBTQ+ rights organizations, medical professionals, and members of transgender communities across India.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Hyderabad",
+        "Chennai",
+        "Kolkata",
+        "Pune",
+        "Indore",
+        "Varanasi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
       ]
     }
   ]

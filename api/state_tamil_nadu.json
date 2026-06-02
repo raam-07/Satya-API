@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.142829",
+  "generated_at": "2026-06-02 13:02:55.668944",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,26 +8,26 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 967,
-    "articles_last_30d": 316
+    "total_articles": 991,
+    "articles_last_30d": 311
   },
   "top_cities_30d": {
-    "Chennai": 75,
-    "Delhi": 39,
+    "Chennai": 76,
+    "Delhi": 38,
     "Coimbatore": 18,
     "Madurai": 17,
     "Bengaluru": 12,
     "Hyderabad": 9,
     "Mumbai": 8,
     "Kolkata": 7,
-    "Allahabad": 2,
-    "Visakhapatnam": 2
+    "Visakhapatnam": 2,
+    "Kanpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 246,
-    "education": 75,
+    "foreign_policy": 241,
+    "education": 72,
     "protest_opposition": 69,
-    "economy": 52,
+    "economy": 51,
     "crime_violence": 44,
     "infrastructure": 42,
     "farmer_agriculture": 30,
@@ -36,6 +36,36 @@
     "rape_sexual_crime": 12
   },
   "recent_articles": [
+    {
+      "id": 64459,
+      "title": "Chief Minister Vijay promises an inclusive and corruption-free government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3zux6s/article71049833.ece/alternates/LANDSCAPE_1200/TH%20TRI-18.jpg.jpeg",
+      "scraped_at": "2026-06-01 23:09:01.924958",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, the newly elected Chief Minister of **Tamil Nadu**, stated his government's commitment to secularism, state rights, and social justice during a public meeting. He pledged to provide corruption-free governance and promised swift action against drug abuse, blaming it for the current law and order situation.  He also defended his farm loan waiver announcement, asserting that he had done all he could within a month to address the financial mess. **Vijay** emphasized his government's focus on transparency and accountability, highlighting its success in creating political awareness among youth and women.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64389,
       "title": "Discoms' poor financial health poses risks for power traders: Fitch - The Economic Times",
@@ -5291,34 +5321,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 58225,
-      "title": "Congress claims Instagram blocked Rahul Gandhi's reel and photo post featuring Vijay due to MeitY rules - The Hindu",
-      "url": "https://www.thehindu.com/news/national/congress-claims-instagram-blocked-rahul-gandhis-reel-and-photo-post-featuring-vijay-due-to-meity-rules/article70963346.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/fe57zf/article70963369.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000394A.jpg",
-      "scraped_at": "2026-05-10 20:04:49.671809",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Congress** leader Rahul Gandhi's post featuring him and actor-politician Vijay after the Tamil Nadu chief minister's oath-taking ceremony was mistakenly flagged for blocking by **Instagram**, according to **Congress** aide Srivatsa.  He claimed that the action is due to Ministry of Electronics and Information Technology (MeitY) rules, but **MeitY** sources denied this, stating it was a platform error. The post had garnered millions of views before being restored.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
       ]
     }
   ]

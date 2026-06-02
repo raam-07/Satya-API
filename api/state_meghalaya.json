@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.114498",
+  "generated_at": "2026-06-02 13:02:55.640025",
   "state": "Meghalaya",
   "capital": "Shillong",
   "ruling_party": "NPP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 28,
-    "articles_last_30d": 10
+    "total_articles": 30,
+    "articles_last_30d": 11
   },
   "top_cities_30d": {
     "Mumbai": 2,
@@ -21,12 +21,38 @@
     "education": 4,
     "protest_opposition": 4,
     "economy": 3,
-    "crime_violence": 1,
+    "crime_violence": 2,
     "rape_sexual_crime": 1,
     "farmer_agriculture": 1,
     "infrastructure": 1
   },
   "recent_articles": [
+    {
+      "id": 64455,
+      "title": "Meghalaya and Nagaland CMs call for release of 20 hostages - The Hindu",
+      "url": "https://www.thehindu.com/news/national/release-20-civilians-held-hostage-two-northeast-cms-appeal-to-manipur-captors/article71047478.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/2xsucn/article71050039.ece/alternates/LANDSCAPE_1200/ConradRio.jpg",
+      "scraped_at": "2026-06-01 23:08:47.818813",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "armed groups",
+      "rephrased_article": "**Meghalaya** and **Nagaland** Chief Ministers have called for the early release of 20 civilians, including 14 Kukis and six Nagas, allegedly held hostage by armed groups in Manipur. **Conrad K. Sangma**, Meghalaya's Chief Minister, expressed concern over the continued captivity of the villagers and urged all parties to pursue dialogue instead of violence. **Neiphiu Rio**, Nagaland's Chief Minister, also contacted **Amit Shah**, Union Home Minister, expressing his concern over the abduction of six Liangmai Nagas.  **Mr. Shah** assured him that necessary measures would be taken to secure their release and bring the perpetrators to justice.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 63575,
       "title": "BJP Core Group Meet At PM Modi's Residence Today, Rajya Sabha Polls On Agenda",
@@ -951,6 +977,34 @@
         "foreign_policy",
         "crime_violence",
         "economy"
+      ]
+    },
+    {
+      "id": 43689,
+      "title": "33 detained Bangladeshi nationals sent back from Tamil Nadu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/33-detained-bangladeshi-nationals-sent-back-from-tamil-nadu/article70766782.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/apvwfh/article70767247.ece/alternates/LANDSCAPE_1200/20260320209L_YSYvwe0.jpg",
+      "scraped_at": "2026-03-20 21:41:16.060054",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Bangladeshi nationals",
+      "rephrased_article": "**Nearly 33 Bangladeshi immigrants**, detained in Tamil Nadu's Salem district, were transported by train to West Bengal on March 20, 2026.  The operation was carried out with the assistance of the **Railway Protection Force (RPF)** and **Border Security Force (BSF)** personnel. The immigrants will be sent back to Bangladesh through the border after being handed over by the Tamil Nadu police. This follows an ongoing drive launched by the **Ministry of Home Affairs** a couple of years ago, aimed at deporting undocumented Bangladeshi nationals from various states.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Meghalaya",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]

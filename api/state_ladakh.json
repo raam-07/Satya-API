@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.188582",
+  "generated_at": "2026-06-02 13:02:55.715944",
   "state": "Ladakh",
   "capital": "Leh",
   "ruling_party": "Central Govt",
@@ -8,24 +8,121 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 54,
-    "articles_last_30d": 28
+    "total_articles": 57,
+    "articles_last_30d": 31
   },
   "top_cities_30d": {
-    "Delhi": 7,
-    "Srinagar": 4
+    "Delhi": 10,
+    "Srinagar": 5,
+    "Coimbatore": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 23,
-    "economy": 8,
-    "education": 7,
+    "foreign_policy": 24,
+    "education": 9,
+    "economy": 9,
     "crime_violence": 5,
     "infrastructure": 5,
     "protest_opposition": 3,
     "farmer_agriculture": 1,
-    "health": 1
+    "health": 1,
+    "political_gaffe": 1
   },
   "recent_articles": [
+    {
+      "id": 64522,
+      "title": "Five new Supreme Court judges sworn in - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-congress-panchayat-chief-found-dead-at-home-in-west-bengal/article71051415.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wotkre/article71049822.ece/alternates/LANDSCAPE_1200/bl28-Think2-MidGE0G1L1Q3.5.jpg.jpg",
+      "scraped_at": "2026-06-02 06:52:50.994851",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** of India received five new judges on Tuesday, June 2, 2026, bringing its total to 37. The appointments were made following the Union government's approval of recommendations from the collegium headed by Chief Justice Surya Kant.  The new judges include former Chief Justices of various High Courts and Senior Advocate V.S. Mohana, who becomes only the second woman to be elevated directly from the Bar to the Supreme Court. These additions aim to address the court’s backlog of over 93,000 cases and facilitate regular Constitution Bench convenings.  The appointments are part of a larger effort by the CJI to reduce the pendency of cases before the court.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 64515,
+      "title": "Five new Supreme Court judges sworn in - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chief-justice-of-india-surya-kant-new-judges-to-supreme-court/article71050982.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wotkre/article71049822.ece/alternates/LANDSCAPE_1200/bl28-Think2-MidGE0G1L1Q3.5.jpg.jpg",
+      "scraped_at": "2026-06-02 06:52:30.562021",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** of India welcomed five new judges on Tuesday, June 2nd, 2026, increasing its total strength to 37.  These appointments follow the Union government's increase in sanctioned judges from 33 to 37, aimed at addressing a backlog of over 93,000 cases. The newly appointed judges include **Sheel Nagu**, former Chief Justice of Punjab and Haryana High Court; **Shree Chandrashekhar**, former Chief Justice of Bombay High Court; **Sanjeev Sachdeva**, former Chief Justice of Madhya Pradesh High Court; **Arun Palli**, former Chief Justice of High Court of Jammu and Kashmir and Ladakh; and Senior Advocate **V.S. Mohana**.  The appointments are part of a larger effort to balance regional representation and improve gender diversity on the Bench, as well as address the court's backlog of cases.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
+    {
+      "id": 64412,
+      "title": "Ladakh eases excise rules, expands hard liquor sales to boost tourism | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/ladakh-eases-excise-rules-expands-hard-liquor-sales-to-boost-tourism-10719035/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/liquor-3.jpg",
+      "scraped_at": "2026-06-01 23:06:08.413081",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Ladakh Government",
+      "rephrased_article": "**Lieutenant Governor V K Saxena** approved a new excise policy for **Ladakh**, which allows the retail sale of hard liquor and expands liquor outlets from two to twenty. The policy aims to reduce dependence on narcotics, strengthen regulation, and support tourism-led economic activity.  The policy also seeks to optimize excise revenue in a transparent manner, addressing concerns about limited availability of brands and outlets that led to tourists resorting to illegal substances.",
+      "party_mentioned": [
+        "BJP",
+        "PDP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64284,
       "title": "Supreme Court gets 5 new judges; strength to go up to 37 - The Hindu",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.184674",
+  "generated_at": "2026-06-02 13:02:55.711789",
   "state": "Jammu and Kashmir",
   "capital": "Srinagar / Jammu",
   "ruling_party": "National Conference",
@@ -8,23 +8,24 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 107,
-    "articles_last_30d": 65
+    "total_articles": 115,
+    "articles_last_30d": 68
   },
   "top_cities_30d": {
     "Srinagar": 25,
-    "Delhi": 8,
+    "Delhi": 10,
     "Bengaluru": 2,
     "Mumbai": 2,
     "Ahmedabad": 2,
+    "Coimbatore": 2,
     "Surat": 1,
     "Bhopal": 1,
     "Vadodara": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 47,
+    "foreign_policy": 48,
     "crime_violence": 20,
-    "education": 18,
+    "education": 20,
     "protest_opposition": 14,
     "economy": 9,
     "infrastructure": 7,
@@ -34,6 +35,93 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 64522,
+      "title": "Five new Supreme Court judges sworn in - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-congress-panchayat-chief-found-dead-at-home-in-west-bengal/article71051415.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wotkre/article71049822.ece/alternates/LANDSCAPE_1200/bl28-Think2-MidGE0G1L1Q3.5.jpg.jpg",
+      "scraped_at": "2026-06-02 06:52:50.994851",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** of India received five new judges on Tuesday, June 2, 2026, bringing its total to 37. The appointments were made following the Union government's approval of recommendations from the collegium headed by Chief Justice Surya Kant.  The new judges include former Chief Justices of various High Courts and Senior Advocate V.S. Mohana, who becomes only the second woman to be elevated directly from the Bar to the Supreme Court. These additions aim to address the court’s backlog of over 93,000 cases and facilitate regular Constitution Bench convenings.  The appointments are part of a larger effort by the CJI to reduce the pendency of cases before the court.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 64515,
+      "title": "Five new Supreme Court judges sworn in - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chief-justice-of-india-surya-kant-new-judges-to-supreme-court/article71050982.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wotkre/article71049822.ece/alternates/LANDSCAPE_1200/bl28-Think2-MidGE0G1L1Q3.5.jpg.jpg",
+      "scraped_at": "2026-06-02 06:52:30.562021",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** of India welcomed five new judges on Tuesday, June 2nd, 2026, increasing its total strength to 37.  These appointments follow the Union government's increase in sanctioned judges from 33 to 37, aimed at addressing a backlog of over 93,000 cases. The newly appointed judges include **Sheel Nagu**, former Chief Justice of Punjab and Haryana High Court; **Shree Chandrashekhar**, former Chief Justice of Bombay High Court; **Sanjeev Sachdeva**, former Chief Justice of Madhya Pradesh High Court; **Arun Palli**, former Chief Justice of High Court of Jammu and Kashmir and Ladakh; and Senior Advocate **V.S. Mohana**.  The appointments are part of a larger effort to balance regional representation and improve gender diversity on the Bench, as well as address the court's backlog of cases.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
+    {
+      "id": 64438,
+      "title": "Breakaway faction of banned Jamaat rallies behind J&K L-G Manoj Sinha’s anti-drug campaign in volatile Kulgam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/breakaway-faction-of-banned-jamaat-rallies-behind-jk-l-g-manoj-sinhas-anti-drug-campaign-in-volatile-kulgam/article71048627.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kcdr9q/article71049874.ece/alternates/LANDSCAPE_1200/03-%E2%80%9CDrug-Free%20JK%E2%80%9D%20Padyatra-SGR-01-06-2026.jpg",
+      "scraped_at": "2026-06-01 23:07:50.992421",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Manoj Sinha",
+      "rephrased_article": "**Lieutenant Governor Manoj Sinha** led an anti-drug rally in Kulgam, south Kashmir, with support from the **Justice and Development Front (JDF)**, a breakaway faction of the banned **Jamaat-e-Islami (JeI)**.  The JDF participated alongside district patrons and president, while no elected representatives from the ruling National Conference attended. **Sinha** emphasized that the campaign was targeting the financial backbone of terrorism by disrupting drug trafficking networks and urged people to join the fight for national security. The rally saw significant participation, with over 923 FIRs registered against drug traffickers in the last 51 days.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64284,
       "title": "Supreme Court gets 5 new judges; strength to go up to 37 - The Hindu",
@@ -2870,6 +2958,148 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 43969,
+      "title": "Omar, Mehbooba slam closure of Jama Masjid on Id, Hazratbal prayer omission for Iran, Palestine - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-mehbooba-slam-closure-of-jama-masjid-on-id-hazratbal-prayer-omission-for-iran-palestine/article70769640.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3ithsw/article70770118.ece/alternates/LANDSCAPE_1200/06-EID-PRAYERS-SGR-21-03-2026.JPG",
+      "scraped_at": "2026-03-21 16:40:19.611358",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Chief Minister Omar Abdullah** and **Peoples Democratic Party (PDP) president Mehbooba Mufti** criticized the closure of the historic Jama Masjid in Srinagar for Id prayers, while also expressing concern over the omission of special prayers for Iran, Palestine, and Lebanon from the Hazratbal shrine. The **Anjuman Auqaf Jama Masjid**, the caretaker body of the mosque, alleged that restrictions were imposed on congregational prayers at the historic site.  **Kashmir chief cleric Mirwaiz Umar Farooq** was allegedly placed under house arrest, while **J&K Waqf Board head Darakshan Andrabi** faced criticism for dropping Iran, Palestine, and Lebanon from special prayers.",
+      "party_mentioned": [
+        "BJP",
+        "PDP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah",
+        "Mehbooba Mufti",
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 43968,
+      "title": "'Will put ICE in airports': Trump threatens after bill to fund US homeland security failed - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/will-put-ice-in-airports-trump-threatens-after-bill-to-fund-us-homeland-security-failed/articleshow/129721644.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-129721727,width-1280,height-720,imgsize-44420,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-03-21 16:39:56.181525",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Donald Trump",
+      "rephrased_article": "**President Donald Trump** threatened to deploy **ICE agents** to airports if Congress does not agree to fund airport safety.  He blamed immigrants from Somalia for the problems at airports and accused **Congresswoman Ilhan Omar** of corruptly approving their entry into the country. This threat came after a bill to fund the Department of Homeland Security failed to advance in the Senate, with Democrats demanding changes to immigration enforcement practices following recent shootings in Minneapolis.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 43771,
+      "title": "PM Modi, President Murmu extend Id-ul-Fitr greetings - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-president-murmu-political-leaders-id-ul-fitr-greetings-march-21-2026/article70768360.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8qeo4z/article70768389.ece/alternates/LANDSCAPE_1200/20260227112L.jpg",
+      "scraped_at": "2026-03-21 05:35:32.043600",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi**, **President Droupadi Murmu**, and other leaders across India extended Eid greetings on Saturday, March 21, 2026.  They emphasized the importance of brotherhood, kindness, and self-control during the holy month of Ramadan.  **Omar Abdullah**, **Chief Minister M.K. Stalin**, and **Mayawati**, among others, also offered their well wishes to Muslims in India.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "BSP",
+        "Bahujan Samaj Party"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Rahul Gandhi",
+        "Rahul",
+        "M.K. Stalin",
+        "Stalin",
+        "Omar Abdullah",
+        "Mayawati"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 43688,
+      "title": "Omar Abdullah questions ECI’s ‘sweeping transfers’ in poll-bound West Bengal - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-questions-ecis-sweeping-transfers-in-poll-bound-west-bengal/article70766786.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2rilqx/article70767250.ece/alternates/LANDSCAPE_1200/PTI03_16_2026_000373B.jpg",
+      "scraped_at": "2026-03-20 21:40:56.095958",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**Omar Abdullah**, Chief Minister of Jammu and Kashmir, criticized the **Election Commission of India's (ECI)** recent transfers in West Bengal, stating they are only made in non-BJP ruled states. He expressed confidence that **Mamata Didi** will win a decisive victory in the upcoming elections.  He believes officers do not determine election outcomes but rather political party leaders.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Mamata",
+        "Didi",
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 43321,
+      "title": "Delhi court acquits two booked under UAPA after they spent eight years in jail - The Hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-court-acquits-two-booked-under-uapa-after-they-spent-eight-years-in-jail/article70762963.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-19 21:58:27.008756",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Jamsheed Zahoor Paul",
+      "rephrased_article": "**Delhi** court acquitted **Jamsheed Zahoor Paul** and **Parvaiz Rashid**, who had been jailed for seven years under the Unlawful Activities (Prevention) Act (UAPA), finding the prosecution's case lacking sufficient evidence. The court questioned inconsistencies in the prosecution's claims regarding the recovery of arms and ammunition, citing a lack of independent witnesses and delays in electronic evidence analysis.  The accused were represented by legal counsel.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     }
   ]

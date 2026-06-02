@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.502677",
+  "generated_at": "2026-06-02 13:02:56.066930",
   "endpoints": {
     "feed": "feed.json",
     "feed_flagged": "feed_flagged.json",
@@ -95,6 +95,9 @@
       "Omar Abdullah": "minister_omar_abdullah.json",
       "C. Joseph Vijay": "minister_c_joseph_vijay.json",
       "V.D. Satheesan": "minister_vd_satheesan.json",
+      "Himanta Biswa Sarma": "minister_himanta_biswa_sarma.json",
+      "Suvendu Adhikari": "minister_suvendu_adhikari.json",
+      "Bhagwant Mann": "minister_bhagwant_mann.json",
       "Rahul Gandhi": "minister_rahul_gandhi.json",
       "Sonia Gandhi": "minister_sonia_gandhi.json",
       "Priyanka Gandhi": "minister_priyanka_gandhi.json",
@@ -117,6 +120,7 @@
       "health": "topic_health.json",
       "rape_sexual_crime": "topic_rape_sexual_crime.json",
       "corruption_scam": "topic_corruption_scam.json",
+      "political_gaffe": "topic_political_gaffe.json",
       "category_international": "category_international.json",
       "category_politics": "category_politics.json",
       "category_economy": "category_economy.json",
@@ -132,7 +136,7 @@
   "stats": {
     "parties_count": 15,
     "states_count": 35,
-    "ministers_count": 39,
-    "topics_count": 20
+    "ministers_count": 42,
+    "topics_count": 21
   }
 }

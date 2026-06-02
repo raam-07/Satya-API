@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:30.991137",
+  "generated_at": "2026-06-02 13:02:55.511702",
   "party": "DMK",
   "full_name": "Dravida Munnetra Kazhagam",
   "ideology": "Dravidian politics, Secularism",
@@ -10,12 +10,12 @@
   ],
   "color": "#FF0000",
   "stats": {
-    "total_articles": 593,
-    "articles_last_30d": 175,
+    "total_articles": 602,
+    "articles_last_30d": 174,
     "sentiment_breakdown_30d": {
-      "negative": 49,
-      "neutral": 80,
-      "positive": 46
+      "negative": 48,
+      "neutral": 79,
+      "positive": 47
     }
   },
   "ministers": [
@@ -31,11 +31,41 @@
       "role": "Chief Minister of Tamil Nadu",
       "state": "Tamil Nadu",
       "criminal_cases": 0,
-      "criminal_cases_in_news": 1
+      "criminal_cases_in_news": 0
     }
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 64459,
+      "title": "Chief Minister Vijay promises an inclusive and corruption-free government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3zux6s/article71049833.ece/alternates/LANDSCAPE_1200/TH%20TRI-18.jpg.jpeg",
+      "scraped_at": "2026-06-01 23:09:01.924958",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, the newly elected Chief Minister of **Tamil Nadu**, stated his government's commitment to secularism, state rights, and social justice during a public meeting. He pledged to provide corruption-free governance and promised swift action against drug abuse, blaming it for the current law and order situation.  He also defended his farm loan waiver announcement, asserting that he had done all he could within a month to address the financial mess. **Vijay** emphasized his government's focus on transparency and accountability, highlighting its success in creating political awareness among youth and women.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64167,
       "title": "Stalin Wine Cellar: Inside Stalin’s hidden wine cellar in Georgia: 40,000 rare French and Georgian bottles emerge after decades underground | World News - The Times of India",
@@ -5338,42 +5368,6 @@
         "infrastructure",
         "foreign_policy",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 53539,
-      "title": "Voting underway in key Indian states of West Bengal, Tamil Nadu - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/1994330/voting-underway-in-key-indian-states-of-west-bengal-tamil-nadu",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/04/2312283996c1a09.webp",
-      "scraped_at": "2026-04-23 08:26:19.073345",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "Voting began in West Bengal and Tamil Nadu, with **Prime Minister Narendra Modi**'s **Bharatiya Janata Party (BJP)** seeking to gain ground in the opposition-held states.  In West Bengal, over 36 million people are eligible to vote as they cast ballots for members of the legislative assembly, with security heightened along the Bangladesh border. The campaign was marked by protests over voter roll changes and concerns about women's safety and corruption. In Tamil Nadu, polling is underway for the 234-member assembly in a single phase, with the ruling **Dravida Munnetra Kazhagam (DMK)** facing off against its long-time rival, the **All India Anna Dravida Munnetra Kazhagam (AIADMK)**.  Results for both elections will be announced on May 4th along with results from Assam and Kerala, as well as Puducherry.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "education"
       ]
     }
   ]

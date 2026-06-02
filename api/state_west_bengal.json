@@ -1,41 +1,106 @@
 {
-  "generated_at": "2026-06-02 00:01:31.169472",
+  "generated_at": "2026-06-02 13:02:55.695818",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
   "cm": null,
   "region": "East",
   "cm_confidence": null,
-  "party_confidence": 0.82,
+  "party_confidence": 1.0,
   "stats": {
-    "total_articles": 504,
-    "articles_last_30d": 240
+    "total_articles": 522,
+    "articles_last_30d": 239
   },
   "top_cities_30d": {
-    "Kolkata": 79,
+    "Kolkata": 81,
     "Delhi": 44,
+    "Bengaluru": 11,
     "Chennai": 10,
-    "Bengaluru": 10,
     "Hyderabad": 8,
-    "Mumbai": 6,
+    "Mumbai": 7,
     "Ghaziabad": 4,
     "Ludhiana": 3,
     "Jaipur": 2,
     "Meerut": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 204,
-    "education": 146,
-    "protest_opposition": 105,
+    "foreign_policy": 203,
+    "education": 144,
+    "protest_opposition": 104,
     "crime_violence": 86,
-    "economy": 56,
+    "economy": 57,
     "infrastructure": 40,
-    "corruption_scam": 25,
+    "corruption_scam": 26,
     "farmer_agriculture": 21,
-    "rape_sexual_crime": 12,
-    "health": 11
+    "health": 12,
+    "rape_sexual_crime": 12
   },
   "recent_articles": [
+    {
+      "id": 64497,
+      "title": "From Shakhas to Cabinet: The RSS Loyalists in Camp Suvendu Adhikari | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/suvendu-adhikari-cabinet-rss-bjp-bengal-ministers-10719254/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Tapas-Roy-Arjun-Singh-Gauri-Shankar-Ghosh-take-oath-Monday.-ANI.jpg",
+      "scraped_at": "2026-06-02 02:03:14.935497",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The newly sworn-in **BJP** cabinet in West Bengal features a number of leaders who rose through the ranks of the **Rashtriya Swayamsevak Sangh (RSS)**.  These individuals, including Tapas Roy, Dudh Kumar Mondal, Gouri Shankar Ghosh, Dipak Barman, Dr Ajay Poddar, Dr Sharadwat Mukherjee, Manoj Kumar Oraon, Arup Kumar Das, and Malati Rava Roy, have a history of working within the party's grassroots organization.  Roy, Mondal, Ghosh, Barman, Poddar, Mukherjee, Oraon, Das, and Roy all previously held positions in local bodies or as MLAs before joining the cabinet.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Jharkhand",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "political_gaffe",
+        "health",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 64457,
+      "title": "‘When you’re the only brand, customers buy you’: ASUS’s push into India’s heartland | Technology News - The Indian Express",
+      "url": "https://indianexpress.com/article/technology/asus-india-growth-strategy-computex-10718982/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Asus-Executives-in-Taipei-Taiwan.png",
+      "scraped_at": "2026-06-01 23:08:55.553495",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "ASUS",
+      "rephrased_article": "**ASUS**, in its ambitious expansion across India, is prioritizing distribution over traditional retail strategies.  Vice President **Arnold Su** and General Manager **Peter Chang** emphasize that the company's goal is to be the dominant force on shelves when a first-time laptop buyer enters a store, even in smaller towns. This strategy has led them to focus on building an ecosystem of service centers and drop zones, addressing the challenges of reaching customers in remote areas.  The company acknowledges the need for proactive service center openings based on sales volume and has introduced home delivery programs for defective components, mirroring Lego's spare parts service model. **ASUS** is confident that India's low PC penetration rate presents a significant opportunity for growth, potentially making it their largest market globally if penetration reaches 30 percent.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Kolkata",
+        "Varanasi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64360,
       "title": "'Maharashtra Model' In West Bengal? Buzz Over New Trinamool Congress Without Mamata Banerjee",
@@ -54,8 +119,7 @@
         "Shiv Sena"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Maharashtra",
@@ -4366,6 +4430,27 @@
       ]
     },
     {
+      "id": 59105,
+      "title": "Priorities and Challenges before Suvendu Adhikari government in WB - The Hindu",
+      "url": "https://www.thehindu.com/videos/priorities-and-challenges-before-suvendu-adhikari-government-in-wb/article70980258.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/n7qyft/article70980257.ece/alternates/LANDSCAPE_1200/mamata%203.png",
+      "scraped_at": "2026-05-14 19:26:10.350443",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Following a decisive victory in the 2026 West Bengal Assembly elections, the **BJP** government faces significant challenges. The priority is to create employment opportunities, attract industries, and maintain law and order within the state.  The success of these initiatives will be crucial for the party's continued governance.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 59082,
       "title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu",
       "url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece",
@@ -6039,103 +6124,6 @@
         "education",
         "farmer_agriculture",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 57078,
-      "title": "Four killed in post-election violence in India’s West Bengal | Elections News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fb4aa6287c-1778076326.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-06 15:43:31.307324",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "Following the **Indian Prime Minister Narendra Modi’s** Bharatiya Janata Party (BJP) sweeping victory in West Bengal's state election, at least four people have been killed in political unrest. The BJP claimed two of its workers were killed while the **All India Trinamool Congress (TMC)** party reported two of their workers being beaten to death.  The violence erupted after the results were announced and included clashes between rival supporters in Kolkata and other districts, with allegations of vandalism and attacks on party offices from both sides. The Election Commission of India (ECI) has directed state officials to enforce “zero tolerance” towards post-poll violence.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "education"
-      ]
-    },
-    {
-      "id": 57059,
-      "title": "What happens if a Chief Minister refuses to relinquish office after electoral defeat? - The Hindu",
-      "url": "https://www.thehindu.com/news/national/what-happens-if-a-chief-minister-refuses-to-relinquish-office-after-electoral-defeat/article70945645.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/wzcoht/article70947355.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_000199B.jpg",
-      "scraped_at": "2026-05-06 13:17:38.874656",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Mamata Banerjee",
-      "rephrased_article": "Following the BJP's victory in the West Bengal elections, **Mamata Banerjee**, chairperson of the **Trinamool Congress**, refused to resign as Chief Minister, claiming the results were a result of a conspiracy.  She stated that the election was not conducted fairly and accused the BJP of misusing central forces. However, legal experts suggest that an election petition can be filed challenging the results based on allegations of voter deletion during the Special Intensive Revision (SIR) of electoral rolls in West Bengal. The tenure of the current Assembly ends on May 7, at which point a new government will be formed.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 57048,
-      "title": "4 killed in post-poll unrest in India's West Bengal - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/1998020/4-killed-in-post-poll-unrest-in-indias-west-bengal",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/0613260730c7493.webp",
-      "scraped_at": "2026-05-06 11:31:40.902138",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "Following the **Indian Prime Minister Narendra Modi’s** Bharatiya Janata Party's (BJP) victory in West Bengal state elections, clashes between rival supporters erupted in Kolkata.  The BJP claimed two of their workers were killed while the **All India Trinamool Congress (TMC)** reported two of their workers were beaten to death. Police confirmed four deaths in clashes and one officer was shot.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "education"
       ]
     }
   ]

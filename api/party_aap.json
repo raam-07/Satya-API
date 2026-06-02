@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:30.972479",
+  "generated_at": "2026-06-02 13:02:55.492598",
   "party": "AAP",
   "full_name": "Aam Aadmi Party",
   "ideology": "Anti-corruption, Populism",
@@ -10,7 +10,7 @@
   ],
   "color": "#0066FF",
   "stats": {
-    "total_articles": 112,
+    "total_articles": 114,
     "articles_last_30d": 56,
     "sentiment_breakdown_30d": {
       "neutral": 16,
@@ -23,8 +23,8 @@
       "name": "Arvind Kejriwal",
       "role": "AAP National Convenor",
       "state": "Delhi",
-      "criminal_cases": 2,
-      "criminal_cases_in_news": 1
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 0
     }
   ],
   "promises": [
@@ -3381,6 +3381,64 @@
         "corruption_scam",
         "crime_violence",
         "economy"
+      ]
+    },
+    {
+      "id": 43714,
+      "title": "Around 500 people sheltering in Darwin school gym as Tropical Cyclone Narelle barrels towards NT coast | Tropical Cyclone Narelle | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/21/tropical-cyclone-narelle-nt-prepares-queensland-support-payments",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/ec735f7021e5eac46d42191fa13367983d28c6b9/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21177425e63c19e177ac1a062cecf754",
+      "scraped_at": "2026-03-20 23:37:22.259587",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Cyclone Narelle",
+      "rephrased_article": "**The Bureau of Meteorology (BoM)** has issued a tropical cyclone warning for **Nhulunbuy** and **Borroloola** as **Cyclone Narelle**, downgraded from category 4 to 2, is expected to strengthen before hitting the Northern Territory late Saturday.  **Defence Force** personnel have evacuated almost 150 people from the community of Numbulwar on the Gulf of Carpentaria coast, with hundreds more to be flown out as the cyclone approaches. **The Australian government disaster recovery payment** has been activated for areas including Chinchilla in Western Downs, Bundaberg central, east, north and south, Daly River and Lansdowne in Roper Gulf.  **Kirsty McBain**, federal emergency management minister, said additional assessments will be made for impacted areas as soon as possible.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 43668,
+      "title": "A true benevolent authoritarian enforces discipline for the greater good: Seeman - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/a-true-benevolent-authoritarian-enforces-discipline-for-the-greater-good-seeman/article70766533.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lhv6uw/article70766842.ece/alternates/LANDSCAPE_1200/2.jpg",
+      "scraped_at": "2026-03-20 20:47:46.792644",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Seeman",
+      "rephrased_article": "**Seeman**, leader of the **Naam Tamilar Katchi (NTK)**, discussed his party's Assembly election manifesto and leadership style in an interview with The Hindu. He advocated for a shift towards an agriculture-centered economy, emphasizing self-sufficiency in food production and job creation through government-led industries.  He also addressed the contradiction between decentralization of power and \"benign authoritarianism,\" arguing that strict discipline is necessary for effective governance. **Seeman** expressed his belief that NTK's goals and ideology are distinct from those of other parties, including alliances with groups like the CPI(M), CPI, VCK, and PMK, which he believes would not align with Tamil nationalist politics.  He emphasized his commitment to a \"village-centric\" economic growth model, focusing on quality education, healthcare, and clean water as drivers for economic prosperity.",
+      "party_mentioned": [
+        "CPI",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture",
+        "political_gaffe"
       ]
     }
   ]

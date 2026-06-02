@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.117431",
+  "generated_at": "2026-06-02 13:02:55.642988",
   "state": "Nagaland",
   "capital": "Kohima",
   "ruling_party": "NDPP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 28,
-    "articles_last_30d": 13
+    "total_articles": 31,
+    "articles_last_30d": 14
   },
   "top_cities_30d": {
     "Delhi": 7,
@@ -26,13 +26,39 @@
     "foreign_policy": 12,
     "education": 3,
     "farmer_agriculture": 3,
+    "crime_violence": 3,
     "protest_opposition": 2,
     "infrastructure": 2,
-    "crime_violence": 2,
     "economy": 1,
     "health": 1
   },
   "recent_articles": [
+    {
+      "id": 64455,
+      "title": "Meghalaya and Nagaland CMs call for release of 20 hostages - The Hindu",
+      "url": "https://www.thehindu.com/news/national/release-20-civilians-held-hostage-two-northeast-cms-appeal-to-manipur-captors/article71047478.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/2xsucn/article71050039.ece/alternates/LANDSCAPE_1200/ConradRio.jpg",
+      "scraped_at": "2026-06-01 23:08:47.818813",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "armed groups",
+      "rephrased_article": "**Meghalaya** and **Nagaland** Chief Ministers have called for the early release of 20 civilians, including 14 Kukis and six Nagas, allegedly held hostage by armed groups in Manipur. **Conrad K. Sangma**, Meghalaya's Chief Minister, expressed concern over the continued captivity of the villagers and urged all parties to pursue dialogue instead of violence. **Neiphiu Rio**, Nagaland's Chief Minister, also contacted **Amit Shah**, Union Home Minister, expressing his concern over the abduction of six Liangmai Nagas.  **Mr. Shah** assured him that necessary measures would be taken to secure their release and bring the perpetrators to justice.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 64081,
       "title": "Delhi crime rate against women highest in 2024, Jaipur tops cities - India Today",
@@ -996,6 +1022,58 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
+    },
+    {
+      "id": 43293,
+      "title": "‘Family first’ in BJP list of bypoll candidates in Nagaland, Tripura - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bjp-candidates-for-bypolls-in-nagaland-tripura/article70760621.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5fhhog/article70760628.ece/alternates/LANDSCAPE_1200/_KMK8356.JPG",
+      "scraped_at": "2026-03-19 20:04:31.575066",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**The Bharatiya Janata Party (BJP)** has chosen candidates for upcoming by-elections in Nagaland and Tripura, reflecting a dynastic trend.  Daochier Imchen will represent the Koridang seat in Nagaland, following his father's death, while Jahar Chakraborti is the BJP candidate from Dharmanagar, Tripura. The decisions follow the deaths of previous representatives in both constituencies. **Rashik Goswami**, a former BJP candidate for the Dharmanagar seat, and **Biswa Bandhu Sen**, who switched parties to join the BJP before winning the 2018 election, also died recently.  The party has announced candidates for by-elections in Goa, Karnataka, and Karnataka as well.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Nagaland",
+        "Tripura"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 43253,
+      "title": "Unfenced border in focus amid arrest of seven foreigners who crossed to Myanmar via porous border - The Hindu",
+      "url": "https://www.thehindu.com/news/national/unfenced-border-in-focus-amid-arrest-of-seven-foreigners-who-crossed-to-myanmar-via-porous-border/article70762674.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ahcdmr/article70763083.ece/alternates/LANDSCAPE_1200/IMG_TH_-_MANIPUR_ELECTIO_2_1_DGDP1T3D.jpg",
+      "scraped_at": "2026-03-19 17:58:15.743208",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** and **Myanmar** share a 1,643 km unfenced border with a unique Free Movement Regime (FMR) that allows for limited movement of people without visas or passports.  **The National Investigation Agency (NIA)** has accused seven foreign nationals, including six Ukrainians and a US citizen, of illegally crossing into Myanmar to train armed ethnic groups in weapons handling and drone operations. The **Indian government** has implemented a fencing project along the border with 43 km completed out of the approved 390.39 km, but progress on road infrastructure is also slow.  The **Cabinet Committee on Security (CCS)** approved the project for ₹31,000 crore in March 2024 to address challenges like illegal migration and insurgent activities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Assam",
+        "Manipur",
+        "Mizoram",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
     }
   ]
 }

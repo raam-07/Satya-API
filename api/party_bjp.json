@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:30.956535",
+  "generated_at": "2026-06-02 13:02:55.476435",
   "party": "BJP",
   "full_name": "Bharatiya Janata Party",
   "ideology": "Hindu nationalism, right-wing",
@@ -25,12 +25,12 @@
   ],
   "color": "#FF9933",
   "stats": {
-    "total_articles": 1828,
-    "articles_last_30d": 763,
+    "total_articles": 1935,
+    "articles_last_30d": 781,
     "sentiment_breakdown_30d": {
-      "positive": 253,
-      "neutral": 194,
-      "negative": 316
+      "positive": 265,
+      "neutral": 195,
+      "negative": 321
     }
   },
   "ministers": [
@@ -39,14 +39,14 @@
       "role": "Prime Minister",
       "state": "Gujarat",
       "criminal_cases": 0,
-      "criminal_cases_in_news": 5
+      "criminal_cases_in_news": 0
     },
     {
       "name": "Amit Shah",
       "role": "Union Home Minister",
       "state": "Gujarat",
       "criminal_cases": 0,
-      "criminal_cases_in_news": 2
+      "criminal_cases_in_news": 0
     },
     {
       "name": "Rajnath Singh",
@@ -102,7 +102,7 @@
       "role": "Education Minister",
       "state": "Odisha",
       "criminal_cases": 0,
-      "criminal_cases_in_news": 1
+      "criminal_cases_in_news": 0
     },
     {
       "name": "Ashwini Vaishnaw",
@@ -122,8 +122,8 @@
       "name": "Giriraj Singh",
       "role": "Textile Minister",
       "state": "Bihar",
-      "criminal_cases": 1,
-      "criminal_cases_in_news": 1
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 0
     },
     {
       "name": "Hardeep Singh Puri",
@@ -173,6 +173,13 @@
       "state": "Madhya Pradesh",
       "criminal_cases": 0,
       "criminal_cases_in_news": 0
+    },
+    {
+      "name": "Suvendu Adhikari",
+      "role": "Chief Minister of West Bengal",
+      "state": "West Bengal",
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 2
     }
   ],
   "promises": [
@@ -449,7 +456,7 @@
       "id": "p018",
       "person": "Yogi Adityanath",
       "promise": "End mafia raj and crime completely in Uttar Pradesh",
-      "status": "ongoing",
+      "status": "broken",
       "category": "crime_violence",
       "evidence_count": 1,
       "evidence_articles": [
@@ -487,6 +494,511 @@
   ],
   "recent_articles": [
     {
+      "id": 64551,
+      "title": "NEET UG Retest June 21 in pen and paper mode: NTA briefs parliament panel amid fresh political storm",
+      "url": "https://indianexpress.com/article/education/neet-ug-retest-june-21-in-pen-and-paper-mode-nta-defends-pm-moid-digivijay-singh-parliament-panel-10719593/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/cbse-osm-neet-ug-2026-parliamentary-panel.jpg",
+      "scraped_at": "2026-06-02 06:55:41.178977",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Prime Minister Narendra Modi",
+      "rephrased_article": "A parliamentary committee meeting examining pen-and-paper versus computer-based testing systems devolved into a political debate over the June 21 NEET-UG retest. **Digvijaya Singh**, chair of the committee, expressed concern about Prime Minister Narendra Modi's personal accountability for preventing another paper leak.  **NTA officials** defended their plan to conduct the re-examination in pen-and-paper format and assured the panel that adequate safeguards were in place. The committee also prevented representatives from a doctors’ body, **United Doctors Front**, from presenting their concerns regarding the NEET-UG examination process.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64538,
+      "title": "India Sits On 32,000 Tonnes of Gold. Why PM Modi Wants It Back In Play",
+      "url": "https://www.ndtv.com/business-news/pm-modi-appeal-gold-recycling-india-import-bill-forex-reserve-household-stock-11578209#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/mpm82m8s_pm-modi-gold-import_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 06:53:46.414021",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**India** holds an estimated 30,000-35,000 tonnes of gold in households and temples, mostly unused. The **Prime Minister Narendra Modi** has urged citizens to recycle this idle gold instead of importing it, citing the significant impact it could have on India's import bill.  Gold recycling involves refining old gold into pure 24-karat gold for use in jewelry and bullion markets. Experts estimate that even a small percentage of this unused gold could significantly reduce India's gold imports, improving external balances and strengthening macroeconomic stability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64530,
+      "title": "‘Pay employees twice a month’: Shark Tank’s Anupam Mittal says it’ll be ‘economy’s win’ | Television News - The Indian Express",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/ips-officer-arun-bothra-indians-abroad-travel-consequences-visa-rules-10719711/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/02/anupam-mittal-2.jpeg",
+      "scraped_at": "2026-06-02 06:53:14.684831",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Anupam Mittal",
+      "rephrased_article": "**Anupam Mittal**, owner of **Shaadi.com**, argues that companies in India should pay employees twice a month instead of the traditional monthly system, claiming it would benefit both employees and the economy.  He believes this change would alleviate financial stress for employees by providing consistent cash flow, reduce debt traps, and boost spending velocity. Mittal made his case on LinkedIn and emphasized that this shift is not only beneficial for employees but also for companies and the overall economy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64514,
+      "title": "‘Pay employees twice a month’: Shark Tank’s Anupam Mittal says it’ll be ‘economy’s win’ | Television News - The Indian Express",
+      "url": "https://indianexpress.com/article/entertainment/television/shark-tank-anupam-mittal-pay-employees-twice-a-month-win-for-the-economy-10719676/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/02/anupam-mittal-2.jpeg",
+      "scraped_at": "2026-06-02 06:52:30.203371",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Anupam Mittal",
+      "rephrased_article": "**Anupam Mittal**, owner of **Shaadi.com**, argues that companies should pay employees twice a month instead of the traditional monthly system, citing improved cash flow and reduced financial stress for employees. He believes this would benefit both employees and the Indian economy by increasing spending velocity and potentially boosting GDP growth.  Mittal advocates for paying salaries on the 15th and 30th of each month to alleviate debt traps and improve financial stability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64502,
+      "title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Yogi.jpg",
+      "scraped_at": "2026-06-02 02:03:27.367304",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Yogi Adityanath",
+      "rephrased_article": "**Yogi Adityanath**, the **Chief Minister of Uttar Pradesh**, criticized those who disrespect cows, demanding that Muslim clerics caution their followers against such behavior. He also addressed recent incidents of violence and religious persecution, accusing some religious leaders of double standards for not speaking out on behalf of victims displaced by Partition.  He praised Prime Minister **Narendra Modi** and Home Minister **Amit Shah** for the Citizenship Amendment Act (CAA) and criticized opposition parties for opposing it while accusing them of supporting illegal infiltration. He distributed land ownership certificates to families displaced from Pakistan, highlighting their struggle against religious extremism.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64501,
+      "title": "40 years ago June 2, 1986: ‘Bluestar week’, 250 held | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-2-1986-bluestar-week-250-held-10719074/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/express-archive-June-2-1986.jpg",
+      "scraped_at": "2026-06-02 02:03:24.646867",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Terrorists** killed one person and injured three in Ludhiana district, while **police** arrested 250 militants during \"Bluestar week\".  The breakaway group of 27 Akali legislators may lose their party status in the Punjab Assembly. Two people were killed and many injured in police firing during a violent protest by the Samyukta Maharashtra Seema Samiti against compulsory Kannada teaching in Belgaum. **External Affairs Minister P Shiv Shankar** ruled out military intervention in resolving the ethnic problem in Sri Lanka.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Ludhiana"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64498,
+      "title": "Two committees begin separate probes into Hamirpur bridge collapse deaths | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/two-committees-begin-separate-probes-into-hamirpur-bridge-collapse-deaths-10719215/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/rescue-op_20260601225256.jpg",
+      "scraped_at": "2026-06-02 02:03:19.566295",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Uttar Pradesh Government",
+      "rephrased_article": "**Two inquiry committees**, one from the **Uttar Pradesh Bridge Corporation** and another from the district administration, are investigating the collapse of a bridge in Hamirpur that killed six workers. The committees will examine administrative, technical, and procedural aspects of the incident, conduct site inspections, and review construction quality, design, and safety protocols.  The government has provided ex gratia assistance to the families of the deceased and is offering various social security benefits to them.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 64497,
+      "title": "From Shakhas to Cabinet: The RSS Loyalists in Camp Suvendu Adhikari | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/suvendu-adhikari-cabinet-rss-bjp-bengal-ministers-10719254/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Tapas-Roy-Arjun-Singh-Gauri-Shankar-Ghosh-take-oath-Monday.-ANI.jpg",
+      "scraped_at": "2026-06-02 02:03:14.935497",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The newly sworn-in **BJP** cabinet in West Bengal features a number of leaders who rose through the ranks of the **Rashtriya Swayamsevak Sangh (RSS)**.  These individuals, including Tapas Roy, Dudh Kumar Mondal, Gouri Shankar Ghosh, Dipak Barman, Dr Ajay Poddar, Dr Sharadwat Mukherjee, Manoj Kumar Oraon, Arup Kumar Das, and Malati Rava Roy, have a history of working within the party's grassroots organization.  Roy, Mondal, Ghosh, Barman, Poddar, Mukherjee, Oraon, Das, and Roy all previously held positions in local bodies or as MLAs before joining the cabinet.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Jharkhand",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "political_gaffe",
+        "health",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 64477,
+      "title": "BJP picks old RSS hand Nagendra Nath Tripathi for outreach to ‘neglected’ Sangh Parivar elders | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/nagendra-nath-tripathi-bjp-rss-senior-karyakarta-outreach-10719105/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Nagendra-Nath-Tripathi.jpg",
+      "scraped_at": "2026-06-02 02:01:08.128184",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** has appointed **Nagendra Nath Tripathi**, a long-time RSS and BJP member, as the national organiser for outreach to senior Sangh Parivar workers.  Tripathi’s extensive organizational experience spans decades across the RSS, ABVP, and BJP, and he is expected to lead efforts to reconnect veteran workers who have been feeling neglected due to the party's focus on other priorities. The initiative aims to strengthen coordination between the BJP and the larger Sangh Parivar while recognizing the contributions of long-serving members.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ranchi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64473,
+      "title": "Why Himachal local body poll results come as boost to BJP despite CM Sukhu’s ‘local factors’ argument | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/why-himachal-local-body-poll-results-come-as-boost-to-bjp-despite-cm-sukhvinder-singh-sukhus-local-factors-argument-10719096/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Sukhvinder-Singh-Sukhu-file-photo-express_20260601185637.jpg",
+      "scraped_at": "2026-06-02 02:01:02.628872",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Saurabh Parashar**, an Assistant Editor at **The Indian Express**, focuses on the socio-political landscape of Himachal Pradesh, particularly environmental issues, drug menace, and governance challenges. He has over 17 years of experience in print media, specializing in crime, legal affairs, and investigative reporting.  His recent articles have explored the impact of policy on social safety nets, the conflict between development and forest conservation, and the unique challenges of governance in high-altitude regions. **Parashar** is known for his tenacious reporting on the state's drug epidemic and his deep understanding of Himachal Pradesh's geography and tribal culture.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "foreign_policy",
+        "health",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64468,
+      "title": "Doctors’ body barred from Parliamentary panel meeting on NEET after BJP objections - The Hindu",
+      "url": "https://www.thehindu.com/news/national/doctors-body-barred-from-parliamentary-panel-meeting-on-neet-after-bjp-objections/article71049305.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xa1dhh/article71049925.ece/alternates/LANDSCAPE_1200/PTI05_21_2026_000259B.jpg",
+      "scraped_at": "2026-06-02 02:00:55.596305",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**United Doctors Front (UDF)** representatives were barred from testifying before the Parliamentary Standing Committee on Education, chaired by **Digvijaya Singh**, after protests from **BJP** MPs. The committee was convened to discuss issues related to the National Eligibility-cum-Entrance Test-Undergraduate (NEET-UG) examination and the functioning of the **National Testing Agency (NTA)**, which has been under scrutiny for alleged paper leaks.  The UDF, which is demanding the dissolution of the NTA, had submitted names of its representatives and a memorandum of demands in advance but was ultimately excluded from the meeting.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64455,
+      "title": "Meghalaya and Nagaland CMs call for release of 20 hostages - The Hindu",
+      "url": "https://www.thehindu.com/news/national/release-20-civilians-held-hostage-two-northeast-cms-appeal-to-manipur-captors/article71047478.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/2xsucn/article71050039.ece/alternates/LANDSCAPE_1200/ConradRio.jpg",
+      "scraped_at": "2026-06-01 23:08:47.818813",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "armed groups",
+      "rephrased_article": "**Meghalaya** and **Nagaland** Chief Ministers have called for the early release of 20 civilians, including 14 Kukis and six Nagas, allegedly held hostage by armed groups in Manipur. **Conrad K. Sangma**, Meghalaya's Chief Minister, expressed concern over the continued captivity of the villagers and urged all parties to pursue dialogue instead of violence. **Neiphiu Rio**, Nagaland's Chief Minister, also contacted **Amit Shah**, Union Home Minister, expressing his concern over the abduction of six Liangmai Nagas.  **Mr. Shah** assured him that necessary measures would be taken to secure their release and bring the perpetrators to justice.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Manipur",
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64451,
+      "title": "Man sits on road in protest as traffic halted to let Governor’s convoy pass - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/man-with-pregnant-wife-sits-on-road-in-protest-against-governors-convoy-in-bengaluru/article71048436.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3zd9co/article71048668.ece/alternates/LANDSCAPE_1200/Untitled%20design%2023.png",
+      "scraped_at": "2026-06-01 23:08:32.842755",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "A man staged a protest on Old Airport Road, halting traffic for **Karnataka Governor Thawarchand Gehlot**’s convoy. The incident drew attention from motorists and security personnel as the man refused to move despite police requests, claiming his wife was pregnant and unwell. Police ultimately removed him from the road before the Governor's convoy passed through. This incident has reignited debate about VIP protocols and their impact on public convenience, particularly in light of recent calls for a more restrained approach by Prime Minister **Narendra Modi**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64446,
+      "title": "Punjab recorded a growth of 14.59% in GST in May 2026, says Cheema - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-recorded-a-growth-of-1459-in-gst-in-may-2026-says-cheema/article71048596.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6ups95/article71050046.ece/alternates/LANDSCAPE_1200/PTI05_06_2026_000227B.jpg",
+      "scraped_at": "2026-06-01 23:08:15.317713",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Punjab Government",
+      "rephrased_article": "**Punjab Finance Minister Harpal Singh Cheema** announced that the state's Goods and Services Tax (GST) collections surged by 14.59% in May 2026, reaching ₹2,400.52 crore compared to ₹2,094.81 crore in May 2025. **Cheema** attributed the growth to sustained economic activity, improved tax compliance, and effective enforcement measures by the Excise and Taxation Department. Punjab's GST performance significantly outperformed national trends, with a much higher growth rate than the country's 3.2% increase.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 64443,
+      "title": "CJP founder Abhijeet Dipke interview: 'Cockroach Janta Party now transitioning into a movement' - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-founder-abhijeet-dipke-interview-cockroach-janta-party-now-transitioning-into-a-movement/article71048435.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kq4u76/article71048467.ece/alternates/LANDSCAPE_1200/2026-05-29T204222Z_598769709_RC24JLA60ETD_RTRMADP_3_INDIA-GEN-Z.JPG",
+      "scraped_at": "2026-06-01 23:08:03.344726",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Abhijeet Dipke**, founder of the **Cockroach Janta Party (CJP)**, announced plans to return to India on June 6th and stage a peaceful protest at Jantar Mantar in New Delhi.  Dipke stated that CJP will continue using satire and other means to advocate for the resignation of **Dharmendra Pradhan**, Union Education Minister, as over eight lakh signatures have been collected on a petition hosted on their website.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64436,
+      "title": "Sribharat arrives in Norway to attend Norway India Business Days event - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sribharat-arrives-in-norway-to-attend-norway-india-business-days-event/article71049580.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7kave9/article71050063.ece/alternates/LANDSCAPE_1200/Vizag-MP-calls-GE6F8UOP7.3.jpg.jpg",
+      "scraped_at": "2026-06-01 23:07:46.932112",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**M. Sribharat**, a member of the **Visakhapatnam** Parliament, arrived in Oslo to participate in the Norway India Business Days 2026. The conference, organized by the **Norway India Chamber of Commerce and Industry (NICCI)**, aims to strengthen economic and strategic cooperation between India and Norway.  Sribharat highlighted the progress in India-Norway relations, including the Green Strategic Partnership announced during Prime Minister Narendra Modi's visit to Oslo. He expressed gratitude for the warm reception from the **Norway Telugu Association** and commended its efforts in promoting cultural unity among Telugu-speaking families.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64433,
+      "title": "Man dies after alleged custodial torture in Odisha; three police personnel suspended - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/man-dies-after-alleged-custodial-torture-in-odisha-three-police-personnel-suspended/article71048716.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xo0rc6/article71050071.ece/alternates/LANDSCAPE_1200/TRIPLE%20MURDER%20DELHI%2004%2012%202.JPG",
+      "scraped_at": "2026-06-01 23:07:22.770517",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Odisha Police",
+      "rephrased_article": "**Three police personnel** were suspended and one **IPS officer**, Nitesh Kumar Mishra, was transferred after a man died in custody at the Kabisuryanagar police station in Odisha's Ganjam district. Susant Sahu's wife, Mamajini Pradhan, alleged that her husband and another individual were subjected to excessive physical torture before being declared dead on May 31st, 2026. **The Director General of Police** ordered an investigation by the Human Rights Protection Cell of the Odisha Police, while the **Inspector-General of Southern Range** transferred **Nitesh Kumar Mishra** to police district headquarters and all personnel from the Kabisuryanagar police station and Balichhai police outpost were transferred.",
+      "party_mentioned": [
+        "Janata Dal",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64412,
+      "title": "Ladakh eases excise rules, expands hard liquor sales to boost tourism | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/ladakh-eases-excise-rules-expands-hard-liquor-sales-to-boost-tourism-10719035/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/liquor-3.jpg",
+      "scraped_at": "2026-06-01 23:06:08.413081",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Ladakh Government",
+      "rephrased_article": "**Lieutenant Governor V K Saxena** approved a new excise policy for **Ladakh**, which allows the retail sale of hard liquor and expands liquor outlets from two to twenty. The policy aims to reduce dependence on narcotics, strengthen regulation, and support tourism-led economic activity.  The policy also seeks to optimize excise revenue in a transparent manner, addressing concerns about limited availability of brands and outlets that led to tourists resorting to illegal substances.",
+      "party_mentioned": [
+        "BJP",
+        "PDP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64409,
+      "title": "Rank wasn’t my focus: Pune’s Arohi tops JEE (Advanced) among girls | Education News - The Indian Express",
+      "url": "https://indianexpress.com/article/education/rank-wasnt-my-focus-punes-arohi-tops-jee-advanced-among-girls-10719208/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Arohi-Deshpande-secured-AIR-77.jpg",
+      "scraped_at": "2026-06-01 23:06:00.014764",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Arohi",
+      "rephrased_article": "**Soham Shah**, a correspondent for **The Indian Express** based in Pune, has transitioned his reporting from education to investigative and human rights stories. His recent work includes investigations into the Pune Municipal Corporation's policy changes and real estate irregularities involving political families. He also published pieces on faculty vacancies at Savitribai Phule Pune University and the controversial third language policy in Maharashtra. **Shah** is known for his civil-liberties lens, focusing on issues of marginalized communities and their rights.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "education",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 64384,
       "title": "The Four Eyes that keep Satwik & Chirag on the right track",
       "url": "https://indianexpress.com/article/sports/badminton/the-four-eyes-that-keep-satwik-chirag-on-the-right-track-10718777/",
@@ -499,7 +1011,7 @@
       "rephrased_article": "**Shivani Naik**, a senior sports journalist and Assistant Editor at **The Indian Express**, is a leading voice in Indian Olympic sports journalism, particularly known for her expertise in badminton, wrestling, and basketball. Her work focuses on the technical aspects of athletic performance, often exploring the personal journeys of athletes beyond the podium.  Her recent articles have covered the rise of \"Hulks\" in Indian badminton, PV Sindhu's tactical shifts, and the Group of Death at the BWF World Tour Finals. Naik also writes about South African cricket, sharing her passionate support for the Proteas despite their history of losing ICC knockouts.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -525,8 +1037,7 @@
         "Shiv Sena"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Maharashtra",
@@ -5516,545 +6027,6 @@
       "topic_tags": [
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 63324,
-      "title": "Strictly monitor & report demographic changes in border districts: Amit Shah to DMs | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/strictly-monitor-report-demographic-changes-in-border-districts-amit-shah-to-dms-10716332/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/shah-3cols.jpg",
-      "scraped_at": "2026-05-31 01:41:16.381253",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Amit Shah",
-      "rephrased_article": "**Amit Shah**, **Union Home and Cooperation Minister**, directed district magistrates (DMs) in border districts of Gujarat to closely monitor demographic changes.  The meeting, held in Bhuj on Friday during **Shah's** visit to the Kutch district, also emphasized the need for effective security coordination between various agencies like the BSF, Coast Guard, Income Tax, ED, and the Lead Bank Manager. **Shah** urged DMs to implement government schemes in border villages and stressed the importance of vigilance over hawala transactions, financial dealings, and suspicious activities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "economy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63322,
-      "title": "Our naval might confined Pakistan to its ports: Rajnath Singh | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/our-naval-might-confined-pakistan-to-its-ports-rajnath-singh-10716333/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/VS-Naval-Surya-Vatika-4COL.jpg",
-      "scraped_at": "2026-05-31 01:41:13.229680",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Navy",
-      "rephrased_article": "**Defence Minister Rajnath Singh** and **Uttar Pradesh Chief Minister Yogi Adityanath** inaugurated the naval museum 'Nausena Shaurya Vatika' in Lucknow. The open-air display showcases artifacts and weapon systems of INS Gomati, decommissioned in 2022 after 34 years of service.  **Admiral Dinesh K Tripathi**, **Chief of the Naval Staff**, also attended the event.  **Singh** highlighted the Indian Navy's role in securing maritime routes and its contribution to Operation Sindoor, which confined the Pakistan Navy to its ports. He emphasized India's growing self-reliance in defense production through initiatives like Make-in-India.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rajnath Singh",
-        "Yogi Adityanath"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Lucknow"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63321,
-      "title": "Cockroaches of the world have united | The Indian Express",
-      "url": "https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-cockroaches-of-the-world-have-united-10716239/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/cockroach-janata-party-2_20260529055127_20260529064522_20260529065948_20260530201040.jpeg",
-      "scraped_at": "2026-05-31 01:41:11.541975",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Cockroach Janta Party",
-      "rephrased_article": "A political party, the Cockroach Janta Party (CJP), has emerged in India, led by Abhijeet Dipke. The CJP focuses on addressing issues like unemployment, poverty, and lack of opportunities for young people, particularly those who are \"lazy\" or online-focused.  Dipke's party claims to represent these groups and aims to gain support from the 25 crore cockroaches in India. The CJP's manifesto highlights concerns about high fuel prices, factory job losses due to automation, and a lack of economic opportunity for certain demographics.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "economy",
-        "education"
-      ]
-    },
-    {
-      "id": 63305,
-      "title": "NEET paper leak case: Supreme Court directs Centre, NTA to file affidavit - India Today",
-      "url": "https://www.indiatoday.in/india/video/neet-paper-leak-case-supreme-court-directs-centre-nta-to-file-affidavit-2919077-2026-05-29?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202605/sc-293002497-16x9_0.png?VersionId=qjc66CajdLsXThyi8s88tuGwQZVn3GAH",
-      "scraped_at": "2026-05-31 01:40:26.006476",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**CBI** has secured a five-day remand for the mother-in-law and husband of **Twisha Sharma**, who died after allegedly taking an exam, in connection with the case. The Supreme Court is demanding details from the central government and the National Testing Agency regarding the NEET paper leak, while a parliamentary review meeting is underway to address the crisis.  The Education Minister has acknowledged lapses and promised a secure retest for all candidates.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "education"
-      ]
-    },
-    {
-      "id": 63299,
-      "title": "Dimpy Dhillon of AAP gets third-time lucky - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblBFWjhTT2d3LXNTZDFOanJMcjhTeVdXYkwtZ1VuRTc5NlBuTnpKbGdZX0xtZ2NGX2IyUU1ZT1J1UVN4Mk5XZGw0cXVwc1EwNnFXSDZDYXpEZEU5ZmRmYmFnRmJralJyaXpSRkpiTFR3QlVaQW5ZU1NDOTJGWGJ0SlpsWEJGOFota3Z3MQ?oc=5",
-      "source": "The Tribune",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThjODNjNWIwLWFhMDEtMTFlZi1hNjI2LWQ5ZDRhZTViZWQ1Ni5qcGc=",
-      "scraped_at": "2026-05-31 01:40:00.486653",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "AAP",
-      "rephrased_article": "**Dimpy Dhillon**, a leading transporter, won the Gidderbaha bypoll for **AAP**, defeating his nearest rival, **Amrita Waring** of the Congress.  Dhillon secured 71,644 votes, while Waring received 49,675. The victory marks the first AAP MLA from this constituency and follows a week-long postponement of the election. Dhillon's win is attributed to factors such as his previous losses in the area, public sympathy for him, development initiatives by the state government, and a strong campaign led by **CM Bhagwant Mann** and national convener **Arvind Kejriwal**.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63292,
-      "title": "Abhishek Banerjee roughed up on way to meet violence victim; Opposition claims vendetta | Kolkata News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/kolkata/adopt-mandatory-family-planning-to-bring-population-under-control-bjp-bengal-chief-to-cm-10716330/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/MamataBellVue-4col.jpg",
-      "scraped_at": "2026-05-31 01:39:34.834583",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Abhishek Banerjee**, general secretary of the **TMC**, was heckled and assaulted by a group of people in Sonarpur, South 24 Parganas, while on his way to meet with the family of a victim killed allegedly in post-poll violence.  He was refused admission at two private hospitals before being taken home after being treated for injuries sustained during the attack. **Mamata Banerjee**, **TMC** supremo and former chief minister, condemned the incident as a BJP-sponsored protest and called out the police administration for their inaction.  Congress leaders Rahul Gandhi and Mallikarjun Kharge also condemned the attack on **Abhishek Banerjee**.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "Samajwadi Party"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Rahul Gandhi",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "economy",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63287,
-      "title": "Akshita Nandagopal",
-      "url": "https://www.indiatoday.in/anchor/akshita-nandagopal?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/author/Akshita-profile_image_one_to_one.png?VersionId=n_h.8.0ryYZVNYu2sa5i29mCzTvO5B1p",
-      "scraped_at": "2026-05-31 01:39:11.290141",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Vijay",
-      "rephrased_article": "**Vijay**, the newly sworn-in Chief Minister of Tamil Nadu, has announced several policy initiatives in his first moves, including a Rs 2,000 monthly allowance for women and a pension hike. He also pledged free electricity to residents.  The **CBI** is currently investigating **Vijay** for allegedly moving his vehicle beyond permitted limits before the Karur stampede. The Tamil Nadu assembly elections have concluded with the DMK securing victory.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Kerala",
-        "Odisha",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 63281,
-      "title": "Ratul Puri Highlights Plan to Deploy 300 MWp Solar and 300 MWh Storage as Hindustan Power Wins SECI Project with 150 MW Contracting Capacity - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQ1JHUGtlR1lqZERhcHVKRmVqdk9wZVFQajdMVnk3bkZiblo4bXB0OTB5VFlxNzlSU19MN0xsczAwU2xRbjJ1YlNDcDBuZGJ4ZkNLaHFOek5wcDlsbEFhbEtYX01ZQnNHZ3JMZUtmX0J0M0NrTVBnckNYUUdIcGtKa0JtRWFKRW53VUFtQ3pOTW5mWkVkTDFlRXNfX082QU9GVnRIbjhQS01qT1pxREZ4ZXlqM1FMSUJYaXJmdGxwMHJ3bU5zYWJtanc1N3JWam96MkloalpfU0Nrczh3YnQyTjh6di1wYTlRSUNsUDBQcFM0bW9NWHFOLTJ3aS1NVjhKOG1jN21nZUtfM1JrUl9WYlFn?oc=5",
-      "source": "The Tribune",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRhYTczZjMwLWNlOTgtMTFmMC1hNWYzLWU1NWZlMzk3YzBhZi5qcGc=",
-      "scraped_at": "2026-05-31 01:38:41.029758",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Hindustan Power",
-      "rephrased_article": "**Ratul Puri**, Chairman of **Hindustan Power**, announced the company's win in a SECI tender for a 150 MW solar and battery energy storage project. The project, designed for flexible deployment across India, will require 300 MWp of solar capacity and 300 MWh of BESS. This development marks another step in **Hindustan Power**'s efforts to expand its renewable energy portfolio and contribute to India's clean energy goals.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 63280,
-      "title": "Abhishek Banerjee roughed up on way to meet violence victim; Opposition claims vendetta | Kolkata News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-roughed-up-on-way-to-meet-violence-victim-opposition-claims-vendetta-10716327/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/MamataBellVue-4col.jpg",
-      "scraped_at": "2026-05-31 01:38:36.055519",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Abhishek Banerjee**, general secretary of the **TMC**, was assaulted and heckled by a group of people in Sonarpur, South 24 Parganas, while on his way to meet the family of a victim killed allegedly in post-poll violence.  He was refused admission at two private hospitals before being taken home after a two-hour stay at **Belle Vue** hospital. **Mamata Banerjee**, **Abhishek's** aunt and **TMC** supremo, condemned the attack as orchestrated by the **BJP** government and called for adequate police protection for opposition leaders.  Congress leader **Rahul Gandhi** and **Mallikarjun Kharge**, Congress president, also condemned the incident.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "Samajwadi Party"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Rahul Gandhi",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "economy",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63273,
-      "title": "Punjab civic polls results: AAP sweeps elections, BJP and Congress win key corporations - India Today",
-      "url": "https://www.indiatoday.in/india/story/punjab-civic-polls-results-aap-sweeps-wards-bjp-congress-win-key-corporations-2919372-2026-05-29?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/aap-workers-291338188-16x9_0.jpg?VersionId=2MZuLYnBUuW8C4H2gAQ.ZN5mlpgZG3jT",
-      "scraped_at": "2026-05-31 01:37:57.225889",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Aam Aadmi Party (AAP)",
-      "rephrased_article": "The **Aam Aadmi Party (AAP)** swept the Punjab civic body polls, winning 958 of 1,977 municipal wards. The BJP and Congress secured key municipal corporations in Abohar and Kapurthala respectively.  **Bhagwant Mann**, the Punjab Chief Minister, hailed the results as a reflection of public support for his government. However, political analysts cautioned against directly linking the civic poll outcome to the 2027 Assembly polls. Opposition parties accused the AAP government of using official machinery to influence the election.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "BSP",
-        "Akali Dal",
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal"
-      ],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 63260,
-      "title": "Satish Sharma meets Union Railway Minister, seeks Rajouri-Poonch rail link",
-      "url": "https://www.greaterkashmir.com/jammu/satish-sharma-meets-union-railway-minister-seeks-rajouri-poonch-rail-link-11891666",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/screenshot-2026-05-31-061016-2026-05-31-06-10-54.jpg",
-      "scraped_at": "2026-05-31 01:36:42.329871",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Ashwini Vaishnaw",
-      "rephrased_article": "**Satish Sharma**, Minister for Food, Civil Supplies & Consumer Affairs, Information Technology, Transport, Youth Services & Sports, and Science & Technology of **Jammu and Kashmir**, met with **Ashwini Vaishnaw**, Union Minister for Railways, Information and Broadcasting, Electronics & Information Technology.  Sharma urged the Union Railway Minister to prioritize a proposed rail corridor connecting Jammu–Akhnoor–Dori Dager–Sunderbani–Nowshera–Rajouri–Poonch, highlighting its strategic, economic, and social significance for the region's residents. Sharma emphasized the project's importance for national security due to the border districts' sensitive international location and stressed the need for a feasibility study and budgetary provisions for implementation.  The Union Railway Minister assured Sharma that the concerns raised would be considered sympathetically.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 63258,
-      "title": "Govt committed to strengthening public infrastructure: Deputy CM",
-      "url": "https://www.greaterkashmir.com/governance/govt-committed-to-strengthening-public-infrastructure-deputy-cm-11891668",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/screenshot-2026-05-31-061031-2026-05-31-06-12-40.jpg",
-      "scraped_at": "2026-05-31 01:36:37.296001",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Deputy Chief Minister Surinder Choudhary** conducted surprise inspections of government offices in Jammu, focusing on project progress and efficiency. During his visit to **Bagh-e-Bahu**, he reviewed the construction of a new Dak Bungalow, emphasizing timely completion and quality standards.  He also inspected the offices of the Chief Engineer, PMGSY Jammu and Chief Engineer, M&HED, Jammu, reviewing staff attendance and project status.  **Choudhary** stressed transparency, accountability, and efficient public service delivery in order to ensure timely project execution for the benefit of the people.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Jammu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 63255,
-      "title": "Government schools in Telangana: Can public education reclaim its lost ground? - The South First | News, Politics, Sports, Entertainment & Live Updates",
-      "url": "https://thesouthfirst.com/opinion/government-schools-in-telangana-can-public-education-reclaim-its-lost-ground/",
-      "source": "The South First",
-      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/School-children.jpg",
-      "scraped_at": "2026-05-31 01:36:31.526759",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "**Telangana** boasts one of the largest educational infrastructures in India, with nearly 41,600 schools serving over 66.38 lakh students. However, enrollment trends indicate a steady erosion of public confidence in government schools, as private unaided schools attract more than 43 lakh students. This shift is attributed to factors like rapid urbanization, rising parental aspirations, and perceptions of superior quality in private institutions.  The state government has initiated several reform measures, including teacher recruitment drives and infrastructure upgrades, but the abrupt resignation of **Akunuri Murali**, Chairperson of the Telangana Education Commission, adds uncertainty about the pace of implementation. Reclaiming lost ground will require a concerted effort to address infrastructure deficiencies, improve learning outcomes, and foster community participation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education"
-      ]
-    },
-    {
-      "id": 63247,
-      "title": "A chilling warning from distant farmlands",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1h6SGpYLTBvNUhPdlM0WXVPZkZzTmJHQ3BHRnFlZUV6ZUJpYXg1LVowbFlnVEZURzN4U3p4aUE2aXRRLUQ4Y0cwYlU1WUZ3d2ZJejNhT1ZJS0VSRFBJeEYybHUtV1Y2ODg4dXBZMWlxNUFuUnFtVUZzQWJSX2xoUXk3bHhJM0QySTVBb0tTV0lVSGc0TVhr?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fv0cobiiw%2Ffile861j4rllv9gd5uxyche.jpg?rect=0%2C0%2C1918%2C1007&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 23:05:53.603492",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "corporate agriculture",
-      "rephrased_article": "**Bedabrata Pain’s** documentary film 'Deja Vu' explores the impact of corporate agriculture on American farmers. The film follows a 10,000-km journey across rural America, highlighting how corporatization has led to economic hardship and farmer suicides.  The film features interviews with Indian and American farmers who describe the decline of small towns and the exploitation by large food companies. **Pain** believes the film should be shown to policymakers and students in India as a warning about the potential consequences of corporate control over agriculture.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "farmer_agriculture",
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63245,
-      "title": "The political economy of cash transfers",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1NmVldyWTRLVnQtdW1UM1Q1YUFZcVkwYVZ2UmVVSDRhNWVqeEtmMmlKM2swRGZmekI0UXRLSXpRVHUyYlJEalltWnltVVdRUnNLUWY2UDlBUS1qcE9xVlJQd05XbmlzYnpybEhCeGtncG40SHRJOWJtQ09iRzhhOUNaN2ZxUDVIRmt3Xw?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fahcdh5gj%2Ffile8625mj01iyo1hphophvz.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 23:05:50.417393",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Government of India",
-      "rephrased_article": "**India's** budgetary allocation for unconditional cash transfers (UCT) has increased significantly, reaching 0.9% of GDP in 2026.  While **Government of India** officials and researchers warn that this expansion will increase future debt burdens and crowd out productive investment, the practice persists due to political incentives. The rise of UCT is driven by voter-targeted cash transfers, which have become a popular strategy for election campaigns. This trend has led to increased competition among parties, with promises of cash transfers becoming a key electoral tool.  However, critics argue that poorly designed UCT schemes fail to create long-term productive assets and can negatively impact fiscal sustainability.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Chhattisgarh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Odisha",
-        "Punjab",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 63237,
-      "title": "Death toll in Pune hooch tragedy climbs to 15, cops arrest eight; CM promises to 'dismantle entire spurious liquor ecosystem'",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObldwTEhpbml4Mm90ZDZkMVdqNlBBWHdfQmh6S2x6SUtEZ204cnk3ZUxmeDN5dTJyaGpsV3pnR3djMEVXWDZndm15aUNPazBmWTVoOXp1U2QzU0pDcExpUF9Ga2ZkYUVhNi03UFhLRnVZZ2czckJVTElNMkcwM0VmajVlMDFfN3JEZ2N3LVdCblo3WFZQTk90ak5jem1YdTRfcE92MHltU1JCN2Z6WGlNZU5tVEZnanBFb1dsb2EzcnZaZjVNalhiNGdHQzdCTzZzMkcta2Fia2FIWllJVlFuaS10d2ZSbjVXRHp6bk9TOHNPbHNSWGppc0pXVzh1ODdjRTBTd2lDblczWlMyN0ttSQ?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2F3mk3n4p7%2Fliquor.jpg?rect=0%2C24%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 23:05:30.763840",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Pune police",
-      "rephrased_article": "**Maharashtra** Chief Minister Devendra Fadnavis has ordered a crackdown on the illicit liquor trade following at least 14-15 deaths in Pune due to methanol-laced spurious liquor. The **Pune police** and **Excise authorities** suspect the liquor was laced with toxic substances, though the exact cause of death will be confirmed after post-mortem reports are received.  At least three people remain in critical condition. Eight individuals have been arrested, including the bootlegger and illicit liquor joint owner, Yogesh Wankhede.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Pune"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63233,
-      "title": "Tribuneindia... Bollywood Bhelpuri",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xZUNwZjYwVVM2V1RHSjFSVlRqVG9zQ2k0ZWNya0RFMk5DRE1WNUtMQlNOY3dKUndSQUMtaml1YzZUR3BPcTg1RnM3VlhCaHgwSzVUM0NRYmgtLU9EQmVKN1NWNVh3dFRKaFo3eTRB?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-30 23:05:25.888919",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**Rikku Rakeshnath** and **M F Hussain**, producers of the film \"Gaja Gamini\", restricted press access during its production. Despite initially barring journalists, they later invited them to a celebratory event for the film's completion. The event was attended by prominent actors like **Madhuri Dixit**, **Shabana Azmi**, and **Naseeruddin Shah**.  **Govinda**, another notable figure in Bollywood, is experiencing high demand from music companies due to his popularity. Meanwhile, **Anupam Kher** has filed an FIR against freelance journalist **Lata Khubchandani**, alleging sexual harassment, which has sparked concern about his mental state.",
-      "party_mentioned": [
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 63232,
-      "title": "West Asia crisis impact on Indian economy | West Asia crisis raises India inflation fears as rupee and crude oil prices surge - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelQxZWx6b3FMQ0o2QTN3M20zbUZUVjEyTmFwX2NHUkp3R19HS2I1dWdNNHBMZnp2ZmVfQy1NMVJRaVJBZUNrV1B1emlBZDJ3Ym9UcHVzcE5ySENMcW83WEVzZ3phVE1taFpNOEpjMGV5Vk1rS0NLbU9BdlNDQUd5YmZBdDVpbEFESGJ5YUliX2VjaE94cTNDcFNVMHlvMWxuXy1XZnFNTE1yakl5OGlUcTFYd2ozUXlCcnlweG1rNWdqQkF3RWN3SEwwbUFpcERmOU45RtIB2gFBVV95cUxON3R0ZGlQREVNQ2QyUWxCb0FxVmRCTzQydFpvMXhOblUzNmE2MjRwTTlqSWd5VkxwbFJFUjdTRGhXZV9Eb1pTdV93eDFyc0Q1bnREN081ZVhFWTRGMXNGRE1PS3lEWXhxcVNOMGxUNnJxTl8tNnpPYWpmQWdET3RqaXFLX3VyUzg4bTN4dmtNenN3Mmw3OEJ5TXFySHZ2VlU4N2txdVN4dVdrVTNITmdGTG1YZTVTeFFVdEJjZnJOWklhWmcxVmZDVGc0ODZmOVZlZDdhYUpzem1VUQ?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/2024/Dec/1735621641_rupees.jpg",
-      "scraped_at": "2026-05-30 23:05:23.190201",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Prime Minister Narendra Modi**’s appeal to curb foreign exchange outflows has highlighted the mounting economic toll of the West Asia conflict on India.  The impact is likely to be felt most acutely by households if state-run fuel retailers are forced to raise petrol and diesel prices, pushing up the cost of everyday goods and transport across the economy. **India’s** inflation story may be approaching a more turbulent phase due to elevated crude oil prices and the potential for a below-normal monsoon. Economists expect the Monetary Policy Committee to hold rates steady in the near term, but inflation is expected to drift above the central bank’s target. The government has rolled out a multi-pronged fiscal and regulatory response to cushion the economic shock from the escalating West Asia crisis, including a ₹1 lakh crore economic stabilization fund, excise duty cuts on petrol and diesel, reimposition of export levies on aviation turbine fuel (ATF), and an expanded Emergency Credit Line Guarantee Scheme.",
-      "party_mentioned": [
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "education"
-      ]
-    },
-    {
-      "id": 63231,
-      "title": "Tribuneindia... Bollywood Bhelpuri",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Z2twNWo3a1lqNEVoRElGaVdyaFVnOVZSSW10ZFowdWtpUkJ5MHZxTTVBWS10eUI2OVVsVG9hRHhwOU0yeGxpRXV5dG9wUHRaWmhlWkF2OUxOR2pqQTFXdEc5RTBiUHVscEVqWFhn?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-30 23:05:22.499895",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Bollywood",
-      "rephrased_article": "**Ajay Devgun**, **Manisha Koirala**, **Saif Ali Khan**, and **Namrata Shirodkar** star in the new film \"Kachche Dhaage,\" which features music by the late **Nusrat Fateh Ali Khan**.  **Ruby Bhatia**, **Laila**, and **Divya (Palat)** have also secured roles in upcoming films. **Kajol**'s future wedding plans remain unclear, despite her previous pronouncements. The Bollywood community came together to raise funds for AIDS awareness at a recent event organized by **Smita Thackeray**.",
-      "party_mentioned": [
-        "Shiv Sena"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

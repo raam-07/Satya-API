@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.251706",
+  "generated_at": "2026-06-02 13:02:55.782830",
   "name": "Yogi Adityanath",
   "role": "Chief Minister",
   "ministry": "",
@@ -12,19 +12,19 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Yogi_Adityanath",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 45,
-    "articles_last_30d": 25,
+    "total_articles": 48,
+    "articles_last_30d": 26,
     "sentiment_breakdown_30d": {
       "negative": 7,
       "neutral": 6,
-      "positive": 12
+      "positive": 13
     }
   },
   "promises": [
     {
       "id": "p018",
       "promise": "End mafia raj and crime completely in Uttar Pradesh",
-      "status": "ongoing",
+      "status": "broken",
       "made_on": "2017-03-19",
       "evidence_count": 1,
       "evidence_articles": [
@@ -47,9 +47,50 @@
       "made_on": "",
       "evidence_count": 0,
       "evidence_articles": []
+    },
+    {
+      "id": "promise_1780361541_6",
+      "promise": "Launched the 'Dr. Bhimrao Ramji Ambedkar Statue Development Scheme' to beautify and conserve statues.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
     }
   ],
   "recent_articles": [
+    {
+      "id": 64502,
+      "title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Yogi.jpg",
+      "scraped_at": "2026-06-02 02:03:27.367304",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Yogi Adityanath",
+      "rephrased_article": "**Yogi Adityanath**, the **Chief Minister of Uttar Pradesh**, criticized those who disrespect cows, demanding that Muslim clerics caution their followers against such behavior. He also addressed recent incidents of violence and religious persecution, accusing some religious leaders of double standards for not speaking out on behalf of victims displaced by Partition.  He praised Prime Minister **Narendra Modi** and Home Minister **Amit Shah** for the Citizenship Amendment Act (CAA) and criticized opposition parties for opposing it while accusing them of supporting illegal infiltration. He distributed land ownership certificates to families displaced from Pakistan, highlighting their struggle against religious extremism.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Ghaziabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
     {
       "id": 64162,
       "title": "UP records 90% attendance in B Ed entrance exam; over 4.44 lakh candidates appear | Education News - The Indian Express",
@@ -1390,6 +1431,56 @@
       ],
       "topic_tags": [
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 43812,
+      "title": "Cow vigilante’s death in Mathura: Protest by locals trigger tension - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/cow-vigilantes-death-in-mathura-protest-by-locals-trigger-tension/article70768593.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/uttar-pradesh/511ztw/article70768605.ece/alternates/LANDSCAPE_1200/UPprotest.jpg",
+      "scraped_at": "2026-03-21 08:00:05.148838",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Locals** in the Kosi Kalan area of Mathura blocked a national highway on Saturday, March 21, 2026, protesting the death of **Chandrashekhar**, a cow-protection activist known as 'Farsa Wale Baba', who was allegedly run over by suspected cattle smugglers.  The protesters clashed with police, who claim the incident was a road accident caused by dense fog and not related to cow smuggling.  **Uttar Pradesh Chief Minister Yogi Adityanath** directed officials to ensure strict action against the perpetrators.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 43257,
+      "title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/zc9po9/article70761665.ece/alternates/LANDSCAPE_1200/20260319188L.jpg",
+      "scraped_at": "2026-03-19 17:59:45.291579",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "President Murmu",
+      "rephrased_article": "**President Droupadi Murmu** and **Uttar Pradesh Chief Minister Yogi Adityanath** attended the installation of the Shri Ram Yantra at the Shri Ram Janmabhoomi Mandir in Ayodhya.  **Murmu** emphasized that the ideal of Ram Rajya represents economic prosperity and social harmony, while **Adityanath** highlighted the joy and faith this event has brought to followers of Sanatan Dharma. He also criticized opposition parties for disrespecting Lord Ram's faith.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
       ]
     }
   ]

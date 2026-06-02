@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 00:01:31.293487",
+  "generated_at": "2026-06-02 13:02:55.827140",
   "name": "C. Joseph Vijay",
   "role": "Chief Minister of Tamil Nadu",
   "ministry": "",
@@ -7,25 +7,17 @@
   "state": "Tamil Nadu",
   "constituency": "",
   "criminal_cases": 0,
-  "criminal_cases_in_news": 1,
-  "criminal_incidents": [
-    {
-      "incident_text": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu **Justice G.R. Swaminathan** of the Madras High Court presided over a cas",
-      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/worth-examining-vijays-appeal-to-children-to-convince-adults-to-vote-for-him-says-judge-citing-personal-anecdote/article71037673.ece",
-      "source_title": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu",
-      "scraped_at": "2026-05-30 03:52:17.421777",
-      "incident_type": "broad"
-    }
-  ],
+  "criminal_cases_in_news": 0,
+  "criminal_incidents": [],
   "wikipedia": "",
   "affidavit_url": "",
   "stats": {
-    "total_articles": 148,
-    "articles_last_30d": 104,
+    "total_articles": 150,
+    "articles_last_30d": 105,
     "sentiment_breakdown_30d": {
       "negative": 21,
       "neutral": 52,
-      "positive": 31
+      "positive": 32
     }
   },
   "promises": [
@@ -60,9 +52,47 @@
       "made_on": "",
       "evidence_count": 0,
       "evidence_articles": []
+    },
+    {
+      "id": "promise_1780362360_8",
+      "promise": "TVK will establish a global e-commerce platform for weaver products.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
     }
   ],
   "recent_articles": [
+    {
+      "id": 64459,
+      "title": "Chief Minister Vijay promises an inclusive and corruption-free government - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3zux6s/article71049833.ece/alternates/LANDSCAPE_1200/TH%20TRI-18.jpg.jpeg",
+      "scraped_at": "2026-06-01 23:09:01.924958",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, the newly elected Chief Minister of **Tamil Nadu**, stated his government's commitment to secularism, state rights, and social justice during a public meeting. He pledged to provide corruption-free governance and promised swift action against drug abuse, blaming it for the current law and order situation.  He also defended his farm loan waiver announcement, asserting that he had done all he could within a month to address the financial mess. **Vijay** emphasized his government's focus on transparency and accountability, highlighting its success in creating political awareness among youth and women.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 63993,
       "title": "White Paper on State govt.’s finances is being finalised - The Hindu",
@@ -3825,6 +3855,46 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 43249,
+      "title": "T. N. braces for intense contest as Dravidian giants face new disruptor - The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/t-n-braces-for-intense-contest-as-dravidian-giants-face-new-disruptor/article70749653.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bz2tlc/article70754717.ece/alternates/LANDSCAPE_1200/20260223194L.jpg",
+      "scraped_at": "2026-03-19 17:56:38.409998",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "DMK",
+      "rephrased_article": "The 2026 Tamil Nadu Assembly election is shaping up as a fierce battle between the DMK, led by Chief Minister M.K. Stalin, and the AIADMK under Edappadi K. Palaniswami.  **DMK**, with its expanded alliance of over 20 parties, including former AIADMK leaders, aims to maintain power while facing challenges from the BJP's influence through **Amit Shah**. Meanwhile, the disruptor **Tamilaga Vettri Kazhagam (TVK)** founded by film star C. Joseph Vijay is attracting attention with its anti-corruption message and strong youth appeal, potentially securing a double-digit vote share.  The NTK, led by Seeman, seeks to expand its presence in the state while smaller parties like PMK and Amma Makkal Munnetra Kazhagam (AMMK) aim for influence within the alliance landscape.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam",
+        "foreign_policy"
       ]
     }
   ]
