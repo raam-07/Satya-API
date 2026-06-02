@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.605977",
+  "generated_at": "2026-06-02 22:14:54.068712",
   "state": "Jharkhand",
   "capital": "Ranchi",
   "ruling_party": "JMM",
@@ -8,34 +8,90 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 79,
-    "articles_last_30d": 32
+    "total_articles": 85,
+    "articles_last_30d": 34
   },
   "top_cities_30d": {
     "Delhi": 15,
-    "Ranchi": 6,
+    "Ranchi": 7,
     "Coimbatore": 4,
     "Bengaluru": 3,
     "Mumbai": 3,
+    "Hyderabad": 2,
     "Ludhiana": 2,
     "Ghaziabad": 2,
     "Chennai": 2,
-    "Kolkata": 2,
-    "Hyderabad": 1
+    "Kolkata": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 23,
+    "foreign_policy": 25,
+    "economy": 8,
     "education": 8,
-    "economy": 7,
-    "protest_opposition": 6,
+    "protest_opposition": 7,
     "crime_violence": 5,
-    "corruption_scam": 3,
+    "corruption_scam": 4,
     "health": 3,
     "political_gaffe": 3,
     "farmer_agriculture": 2,
-    "rape_sexual_crime": 2
+    "infrastructure": 2
   },
   "recent_articles": [
+    {
+      "id": 64664,
+      "title": "Tana Bhagats of Jharkhand and their opposition of a highway project",
+      "url": "https://indianexpress.com/article/explained/tana-bhagat-jharkhand-oppose-highway-10720826/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tana-delete.jpg",
+      "scraped_at": "2026-06-02 15:45:02.879965",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Jharkhand government",
+      "rephrased_article": "The **Bharatmala** scheme's highway project in Jharkhand is facing protests from the Tana Bhagat community, who claim it violates their land rights and ancestral sites protected under special Constitutional provisions. The project aims to widen NH-43 between Gumla and Chhattisgarh, a part of the Raipur-Dhanbad Economic Corridor.  The **Jharkhand** government has defended its actions, stating that the acquisition is being carried out under the National Highways Act, 1956, while local activists claim religious sites are affected. The project's completion will significantly reduce travel time between the two states and provide faster connectivity to industrial hubs.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Jharkhand"
+      ],
+      "cities_mentioned": [
+        "Ranchi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 64641,
+      "title": "CBSE Chairman, Secretary Transferred, Panel Formed To Probe Irregularities In On-Screen Marking System",
+      "url": "https://www.ndtv.com/india-news/cbse-chairman-secretary-transferred-panel-formed-to-probe-irregularities-in-on-screen-marking-system-11580930#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ia9a4vgo_cbse-chairman-and-secretary_650x400_02_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 15:43:56.831293",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "CBSE",
+      "rephrased_article": "**Rahul Singh** and **Himanshu Gupta**, the Chairman and Secretary of the **Central Board of Secondary Education (CBSE)**, have been transferred following controversy surrounding the On-screen Marking System (OSM). A one-member committee led by Ms. S Radha Chauhan will investigate irregularities including answer sheet mix-ups, evaluation errors, and misallocated grades. The CBSE's tender process for OSM has also come under scrutiny after concerns were raised about technical issues and payment failures.  The controversy was amplified in Parliament where Opposition leaders accused the board of fraud, prompting a parliamentary panel to investigate.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Jharkhand"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 64522,
       "title": "Five new Supreme Court judges sworn in - The Hindu",
@@ -2630,6 +2686,120 @@
       "ministers_mentioned": [],
       "states_mentioned": [
         "Jharkhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 43102,
+      "title": "Supreme Court seeks fresh HC hearing after convict flags unfair 20-year bail and reduced prison term - The Hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-seeks-fresh-hc-hearing-after-convict-flags-unfair-20-year-bail-and-reduced-prison-term/article70761024.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vvmqq6/article70761035.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
+      "scraped_at": "2026-03-19 08:57:46.572320",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "A man who spent 20 years on bail in a murder case appealed his sentence reduction to the Supreme Court, arguing that his lawyer was not appointed by him and that the amicus curiae did not argue his points. **Justice Dipankar Datta** of the Supreme Court stated that convicts often neglect their appeals while enjoying bail and need to be dealt with firmly. The court found that the convict was not informed about the appointment of the amicus curiae, but noted it would have been desirable for him to be alerted.  The Supreme Court upheld the High Court's decision to reduce his sentence, but directed that courts consider issuing a notice to convicts when appointing an amicus curiae in cases where counsel is absent.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 42988,
+      "title": "How Maharashtra Legislature cleared the Freedom of Religion Bill, and why most of the opposition parties did not oppose it - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/how-maharashtra-legislature-cleared-the-freedom-of-religion-bill-and-why-most-of-the-opposition-parties-did-not-oppose-it/article70758892.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vy8aeg/article70759542.ece/alternates/LANDSCAPE_1200/PTI07_01_2025_000279B.jpg",
+      "scraped_at": "2026-03-18 22:05:38.484915",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "The **Maharashtra** legislature passed the Freedom of Religion Bill, making it the 13th state in India to have such legislation.  While the bill was supported by opposition parties like the Shiv Sena UBT and NCP SP, concerns were raised about its potential infringement on religious freedom and lack of empirical data to justify its need. The bill aims to crack down on forced conversions but has faced criticism from Congress MLA Aslam Sheikh who called it regressive and a one-sided target against a particular community.  **Chief Minister Devendra Fadnavis**, however, argued that the current legal framework was insufficient to handle the law and order situation caused by such cases.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Chhattisgarh",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 42978,
+      "title": "Jharkhand money laundering case: ED files fifth supplementary Prosecution Complaint involving former Minister Alamgir Alam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-money-laundering-case-ed-files-fifthsupplementary-prosecution-complaint-involving-former-minister-alamgir-alam/article70758463.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ftsq6o/article70759703.ece/alternates/LANDSCAPE_1200/IMG_Alamgir_Alam_produce_2_1_QKCRP272.jpg",
+      "scraped_at": "2026-03-18 22:01:50.262718",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Jharkhand State Rural Road Development Authority",
+      "rephrased_article": "The **Directorate of Enforcement (ED)** filed a fifth supplementary Prosecution Complaint against 14 officials from the **Rural Works Department (RWD), Rural Development Special Zone (RDSZ), and Jharkhand State Rural Road Development Authority (JSRRDA)** in Ranchi. The complaint, stemming from an investigation into a bribery racket within these departments, alleges that they collected illegal commissions of 3% from contractors to secure tender allotments.  The **ED** has already conducted 52 searches across multiple states, arrested nine individuals, and seized assets worth over ₹44 Crore in connection with this case.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ranchi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 42656,
+      "title": "Sara Ali Khan can come to Kedarnath if she submits affidavit that she is Sanatani, says BKTC chief - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttarakhand/sara-ali-khan-can-come-to-kedarnath-if-she-submits-affidavit-that-she-is-sanatani-says-bktc-chief/article70755242.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6ducoq/article70755654.ece/alternates/LANDSCAPE_1200/10510_2-2-2020_19-54-42_1_UNDER25SUMMIT_11.JPG",
+      "scraped_at": "2026-03-17 22:41:45.065724",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Badrinath-Kedarnath Temple Committee",
+      "rephrased_article": "**Hemant Dwivedi**, president of the **Badrinath-Kedarnath Temple Committee (BKTC)**, stated that actress Sara Ali Khan can visit Kedarnath if she submits an affidavit affirming her belief in \"sanatan dharma\". The temple committee has implemented a ban on entry for non-Sanatani individuals and restricted mobile phone use within a 50–60 meter radius of the shrines. These measures aim to manage the influx of pilgrims during the yatra season, which saw over six lakh registrations within 11 days.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttarakhand"
       ],
       "cities_mentioned": [],
       "topic_tags": []

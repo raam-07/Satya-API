@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.834613",
+  "generated_at": "2026-06-02 22:14:54.305558",
   "name": "Himanta Biswa Sarma",
   "role": "Chief Minister of Assam",
   "ministry": "",
@@ -7,12 +7,20 @@
   "state": "Assam",
   "constituency": "",
   "criminal_cases": 0,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
+  "criminal_cases_in_news": 1,
+  "criminal_incidents": [
+    {
+      "incident_text": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu **Himanta Biswa Sarma**, Assam Chief Minister, accused the **Congress** of fabricating",
+      "source_url": "https://www.thehindu.com/elections/assam-assembly/congress-concocted-allegations-against-my-wife-using-false-info-from-pak-social-media-group-assam-cm/article70828977.ece",
+      "source_title": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu",
+      "scraped_at": "2026-04-06 05:31:18.786927",
+      "incident_type": "broad"
+    }
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 56,
+    "total_articles": 57,
     "articles_last_30d": 17,
     "sentiment_breakdown_30d": {
       "neutral": 7,
@@ -20,7 +28,27 @@
       "negative": 2
     }
   },
-  "promises": [],
+  "promises": [
+    {
+      "id": "promise_1780413185_3",
+      "promise": "Promised legal action against Himanta Biswa Sarma after the Congress forms a government.",
+      "status": "void",
+      "made_on": "",
+      "evidence_count": 1,
+      "evidence_articles": [
+        {
+          "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-polls-like-zubeen-garg-cong-works-to-unite-people-says-rahul-gandhi/article70826244.ece",
+          "title": "Assam Assembly polls: Like Zubeen Garg, Cong works to unite people, says Rahul Gandhi - The Hindu",
+          "source": "The Hindu",
+          "scraped_at": "2026-04-05 09:46:31.078131",
+          "relevance_score": 60,
+          "gemma_validated": true,
+          "rephrased": "**Rahul Gandhi**, leader of the **Congress party**,  compared his party's philosophy to that of musician **Zubeen Garg**, who worked to unite Assam. He accused **Himanta Biswa Sarma**, the current Chi",
+          "content": "Congress leader Rahul Gandhi on Sunday (April 5, 2026) said the philosophy of his party is that of the celebrated musician Zubeen Garg, who worked his entire life to unite Assam. Addressing an election rally in Assam's Biswanath district, he alleged that Chief Minister Himanta Biswa Sarma is the \"most corrupt CM\" in India and action will be taken against him after the Congress forms a government in the State. \"Zubeen Garg worked his entire life to unite people of Assam, he never misbehaved with anyone. The Congress philosophy is also like that, to spread love against hatred,\" Mr. Gandhi said. He alleged that the BJP government led by Sarma is spreading hatred against people and communities. \"Let him speak for some more days. After that, the Congress will form government in Assam and legal action will follow even if he asks for forgiveness,\" Mr. Gandhi said. Published - April 05, 2026 02:26 pm IST"
+        }
+      ]
+    }
+  ],
   "recent_articles": [
     {
       "id": 64000,
@@ -1598,6 +1626,36 @@
         "foreign_policy",
         "corruption_scam",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 43015,
+      "title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
+      "url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ckkboj/article66826775.ece/alternates/LANDSCAPE_1200/20230419125L.jpg",
+      "scraped_at": "2026-03-18 23:38:55.839838",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Assam Congress",
+      "rephrased_article": "**Pradyut Bordoloi**, a Congress MP from Assam, resigned and joined the **Bharatiya Janata Party (BJP)** in New Delhi on Wednesday.  He was accompanied by **Chief Minister Himanta Biswa Sarma** and **State BJP president Dilip Saikia**.  Congress leader **Priyanka Gandhi Vadra** expressed disappointment over Bordoloi's resignation, while **Jitendra Singh**, an AICC secretary in charge of Assam, suggested that the MP had been planning to join the BJP for a long time.  The Congress is facing internal dissent as several leaders are contemplating leaving the party ahead of the upcoming elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
       ]
     }
   ]

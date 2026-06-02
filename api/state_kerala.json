@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.617561",
+  "generated_at": "2026-06-02 22:14:54.080828",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "CPM",
@@ -8,34 +8,269 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 957,
-    "articles_last_30d": 331
+    "total_articles": 992,
+    "articles_last_30d": 328
   },
   "top_cities_30d": {
-    "Delhi": 64,
-    "Bengaluru": 24,
-    "Chennai": 19,
-    "Hyderabad": 17,
-    "Kolkata": 16,
-    "Mumbai": 13,
-    "Ahmedabad": 6,
+    "Delhi": 63,
+    "Bengaluru": 21,
+    "Chennai": 17,
+    "Kolkata": 17,
+    "Hyderabad": 16,
+    "Mumbai": 12,
     "Pune": 4,
+    "Ahmedabad": 4,
     "Madurai": 3,
     "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 245,
+    "foreign_policy": 238,
     "protest_opposition": 106,
-    "education": 91,
+    "education": 90,
+    "crime_violence": 59,
     "economy": 57,
-    "crime_violence": 56,
-    "infrastructure": 49,
-    "corruption_scam": 31,
+    "infrastructure": 47,
+    "corruption_scam": 33,
     "health": 27,
-    "farmer_agriculture": 25,
-    "rape_sexual_crime": 8
+    "farmer_agriculture": 24,
+    "rape_sexual_crime": 9
   },
   "recent_articles": [
+    {
+      "id": 64655,
+      "title": "Trinamool In Existential Crisis, Mamata Banerjee Calls It \"Do Or Die\" Fight",
+      "url": "https://www.ndtv.com/india-news/trinamool-in-existential-crisis-mamata-banerjee-calls-it-do-or-die-fight-11580960#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/nksm59u8_mamata-banerjee_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 15:44:35.787067",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Mamata Banerjee**, leader of the **Trinamool Congress**, declared it a \"do or die battle\" for her party's survival amidst internal revolt.  Approximately 50-60 out of 80 MLAs are reportedly rebelling against the leadership, leading to protests and allegations of forged signatures in the appointment of the Leader of Opposition. The party faces an existential crisis as it attempts to address public anger towards its long rule and quell internal dissent. **Mamata Banerjee** stated that she will not abandon her party workers despite the rebellion, and anti-BJP parties are meeting in Delhi to discuss a nationwide course of action.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 64641,
+      "title": "CBSE Chairman, Secretary Transferred, Panel Formed To Probe Irregularities In On-Screen Marking System",
+      "url": "https://www.ndtv.com/india-news/cbse-chairman-secretary-transferred-panel-formed-to-probe-irregularities-in-on-screen-marking-system-11580930#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ia9a4vgo_cbse-chairman-and-secretary_650x400_02_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 15:43:56.831293",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "CBSE",
+      "rephrased_article": "**Rahul Singh** and **Himanshu Gupta**, the Chairman and Secretary of the **Central Board of Secondary Education (CBSE)**, have been transferred following controversy surrounding the On-screen Marking System (OSM). A one-member committee led by Ms. S Radha Chauhan will investigate irregularities including answer sheet mix-ups, evaluation errors, and misallocated grades. The CBSE's tender process for OSM has also come under scrutiny after concerns were raised about technical issues and payment failures.  The controversy was amplified in Parliament where Opposition leaders accused the board of fraud, prompting a parliamentary panel to investigate.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Jharkhand"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 64634,
+      "title": "\"Monsoon Has Never Failed India In 13 Million Years\": IIT Professor",
+      "url": "https://www.ndtv.com/india-news/late-or-weak-it-may-be-but-monsoon-never-failed-india-in-13-million-years-11580779#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/bqd9cg8o_rain-generic_625x300_02_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 15:43:40.997254",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "monsoon",
+      "rephrased_article": "The India Meteorological Department (IMD) projects a below-average monsoon season for June to September, with rainfall expected at 90% of the Long Period Average. **Professor Anil K Gupta**, an expert on monsoon history from the Indian Institute of Technology, Kharagpur, states that the monsoon's deep roots in the Indian subcontinent's geography ensure its persistence despite potential fluctuations and variations.  He emphasizes that while the monsoon may become more volatile with increased warming, it is not expected to disappear.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 64603,
+      "title": "Sunil Joseph: Paper Cup King: Indian man sets world record for collecting 858 unique paper cups from 31 countries | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/paper-cup-king-indian-man-sets-world-record-for-collecting-858-unique-paper-cups-from-31-countries/articleshow/131460142.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131460210,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-02 11:23:23.703669",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Sunil Joseph",
+      "rephrased_article": "**Sunil Joseph**, a 57-year-old social worker from Kerala, achieved a Guinness World Record for the largest collection of paper cups with 858 unique cups from 31 countries.  Joseph's passion for collecting began in childhood and has led to him setting other world records, including the largest collection of telephone cards. He maintains his collection at home and regularly exhibits it at schools and colleges, hoping to inspire curiosity about everyday objects. Joseph believes that dedication and perseverance are key to achieving any goal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 64601,
+      "title": "51 Wounds, Cigarette Burns: Kerala Toddler Arshid Abused For A Month, Killed By Mother's Lover Ashkar",
+      "url": "https://www.ndtv.com/kolkata-news/drugs-alchohol-rave-style-parties-kolkata-cops-probe-double-death-case-11579370#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ifd77eac_kerala-toddler-murder_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 11:23:05.968869",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Ashkar",
+      "rephrased_article": "A 21-year-old woman, Akhila, and her live-in partner, Ashkar, have been arrested for the murder of their one-and-a-half-year-old son, Arshid.  The post-mortem revealed that Arshid died from internal bleeding caused by sustained beatings, with 51 wounds found on his body. Police discovered evidence including a stick used to beat the child and a lighter used to burn him. Akhila admitted to witnessing Ashkar's abuse of her son but did not intervene. The investigation has also revealed that Ashkar has a history of violence against previous partners and is suspected of being involved in the deaths of other women.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64596,
+      "title": "51 Wounds, Cigarette Burns: Kerala Toddler Arshid Abused For A Month, Killed By Mother's Lover Ashkar",
+      "url": "https://www.ndtv.com/india-news/51-wounds-cigarette-burns-kerala-toddler-arshid-abused-for-a-month-killed-by-stepfather-ashkar-11579563#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ifd77eac_kerala-toddler-murder_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 11:22:45.398073",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Ashkar",
+      "rephrased_article": "A 21-year-old woman, Akhila, and her live-in partner, Ashkar, have been arrested in Kerala for the murder of their one-and-a-half-year-old son, Arshid.  The post-mortem revealed that Arshid died from internal bleeding caused by sustained beatings, with 51 wounds found on his body. **Ashkar** confessed to planning and carrying out the killing three months prior, stating he saw Arshid as an obstacle in his life. The police are investigating a history of violence against Ashkar's previous wife, Amina, and have uncovered evidence suggesting a pattern of domestic abuse.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64594,
+      "title": "Kerala to Bengal, Why India’s Left Is Facing an Existential Crisis",
+      "url": "https://indianexpress.com/article/opinion/columns/the-left-and-the-people-are-now-speaking-different-languages-10720338/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/cpim-7591_0bbdd9_20260505093627_20260602105524.jpg",
+      "scraped_at": "2026-06-02 11:22:38.586413",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Communist Party of India (Marxist)",
+      "rephrased_article": "The **Communist Party of India (Marxist)**, once a dominant force in Indian politics, has lost significant power across several states.  This decline is attributed to the party's failure to adapt to the digital age and its inability to effectively engage with voters on social media platforms like WhatsApp. The BJP, meanwhile, has successfully leveraged these platforms for communication and mobilization, capturing public attention through nationalist narratives and coordinated online campaigns. This shift in political dynamics underscores a broader trend of the Left failing to address contemporary issues such as inequality and precarity, leaving it vulnerable to criticism and losing its ability to connect with ordinary citizens.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "CPM"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 64590,
+      "title": "Dehradun Woman Locked In Toilet For Months, Fed Raw Rice, Beaten By In-Laws",
+      "url": "https://www.ndtv.com/india-news/dehradun-woman-locked-in-toilet-for-months-fed-raw-rice-beaten-by-in-laws-11580013#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-02/vu9d1mfo_dehradun_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 11:22:28.384332",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Rahul Khanduri",
+      "rephrased_article": "A woman in Dehradun has filed a police complaint alleging that she was locked and tortured by her husband, Rahul Khanduri, and his parents for 10 months. The woman, who had twins with Khanduri two years ago, claims to have been subjected to physical abuse, including beatings with objects like drainpipes and rods, as well as assaults on her private parts.  The case has been registered at the Selakui Police Station, naming the accused individuals.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64571,
+      "title": "In Odisha, one in five women face domestic violence; one in four children stunted: NFHS-6 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-nfhs-6-survey-report-domestic-violence-maternal-health-pregnancy-child-malnutrition-diabetes-obesity/article71047618.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/fkn5mg/article71047617.ece/alternates/LANDSCAPE_1200/IMG-20230209-WA0018.jpg",
+      "scraped_at": "2026-06-02 11:21:48.017756",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Odisha Government",
+      "rephrased_article": "The **National Family Health Survey (NFHS-6)** revealed that at least one in five women in Odisha experience domestic violence, with rural areas experiencing a higher prevalence than urban areas. The survey also highlighted declining women's participation in household decision-making and a rise in C-section births, exceeding the national average. While Odisha saw an increase in bank account ownership for women, maternal health indicators remain concerning, with low iron folic acid consumption and high caesarean section rates. Child health indicators show persistent immunization gaps and malnutrition, particularly stunting and wasting cases. The survey also revealed a significant rise in obesity among women and hypertension among men, highlighting disparities in health outcomes between genders.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Odisha",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64416,
       "title": "UAPA Accused Madhesh Shankar Gets Bail After Nearly 5 Years In Custody",
@@ -5213,253 +5448,6 @@
         "economy",
         "foreign_policy",
         "infrastructure",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59233,
-      "title": "Will lead to further inflation, growth estimates will be lowered considerably: Congress on fuel hike - The Hindu",
-      "url": "https://www.thehindu.com/news/national/will-lead-to-further-inflation-growth-estimates-will-be-lowered-considerably-congress-on-fuel-hike/article70981584.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9cqh18/article70981635.ece/alternates/LANDSCAPE_1200/_NGP2529.JPG",
-      "scraped_at": "2026-05-15 05:37:47.683666",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Modi government",
-      "rephrased_article": "The **Congress** criticized the **Modi government** for increasing petrol and diesel prices, claiming it will exacerbate inflation and lower growth estimates. The party's general secretary, **Jairam Ramesh**, stated that despite falling international oil prices for years, domestic prices remained high, leading to consumer exploitation.  Fuel prices were hiked by ₹3 per litre each on Friday (May 15, 2026), marking the first increase in over four years and coming after a period of price freezes. The hike was attributed to rising global crude prices triggered by the West Asia conflict and is expected to impact inflation and growth estimates.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Chennai",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 59224,
-      "title": "Compromised PM didn't sign trade deal with U.S., but a bargain for Adani's release: Rahul - The Hindu",
-      "url": "https://www.thehindu.com/news/national/compromised-pm-didnt-sign-trade-deal-with-us-but-a-bargain-for-adanis-release-rahul/article70981631.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/hro665/article70981657.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000296B.jpg",
-      "scraped_at": "2026-05-15 05:35:23.222877",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Rahul Gandhi** accused **Prime Minister Narendra Modi** of negotiating a trade deal with the U.S. to secure the release of billionaire businessman **Gautam Adani**.  The **U.S.** government agreed to settle a lawsuit against **Adani**, who was accused of bribery in connection with a solar energy project. Congress general secretary in-charge communications **Jairam Ramesh** criticized the deal, suggesting it was a \"bargain\" for **Adani's release\".",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59204,
-      "title": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu",
-      "url": "https://www.thehindu.com/news/national/jharkhand/congress-leader-and-former-jharkhand-minister-alamgir-alam-walks-out-of-jail/article70979362.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/c3qnrd/article70980499.ece/alternates/LANDSCAPE_1200/20260514162L.jpg",
-      "scraped_at": "2026-05-15 01:28:26.871494",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Alamgir Alam",
-      "rephrased_article": "**Alamgir Alam**, a former Jharkhand minister, was released on bail from the Birsa Munda Central Jail in Ranchi after the Supreme Court granted relief in his money laundering case.  The **Enforcement Directorate (ED)** arrested **Alam** and his OSD, Sanjiv Kumar Lal, in 2024 following the seizure of nearly ₹32.20 crore from a flat linked to them. The Congress party fielded Alam's wife, Nishat Alam, as their candidate for the Pakur Assembly constituency in the 2024 elections, where she won. **Babulal Marandi**, the Leader of Opposition in the Jharkhand Assembly, criticized the celebration surrounding Alam's release, stating that it was premature and did not equate to an acquittal. He emphasized that the trial is ongoing and the legal process will continue until a final verdict is reached.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Jharkhand"
-      ],
-      "cities_mentioned": [
-        "Ranchi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59196,
-      "title": "KHRA urges Centre to resolve LPG crisis, warns of protest - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/khra-urges-centre-to-resolve-lpg-crisis-warns-of-protest/article70978106.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-14 23:36:46.591051",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**Kerala Hotel & Restaurant Association (KHRA)** has threatened protests, including a march to Parliament, if the **Central government** does not resolve the LPG crisis by June 1st. The association argues that rising gas prices and essential costs are crippling the hotel sector, with many hotels facing closure unless the situation improves.  The KHRA claims the **Union government** is ignoring the crisis faced by hotels while domestic consumers consume the majority of cooking gas.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59193,
-      "title": "Kochi Corpn.’s Fort Queen ferry to get a new lease of life - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kochi-corpn-to-revive-fort-queen-ferry/article70977205.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/uskbdz/article70979952.ece/alternates/LANDSCAPE_1200/Fort_Queen_01.JPG",
-      "scraped_at": "2026-05-14 23:36:00.081212",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Kochi Corporation",
-      "rephrased_article": "The **Kochi Corporation** has proposed an estimated ₹27.29 lakh for the dry dock of its passenger boat, the Fort Queen, to revive its service. The corporation plans to reintroduce the boat as a temporary option during ro-ro vessel service gaps and is exploring partnering with the **Kochi Metro Rail Limited**.  However, **Kerala Shipping and Inland Navigation Corporation Ltd.** (KSINC) claims the boat was withdrawn due to safety concerns and viability issues, citing low daily earnings and logistical challenges. The corporation will also discuss renewing the boat's agreement and insurance at its upcoming council meeting.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 59192,
-      "title": "Forest dept. seeks speedy ro-ro ferry access for snake rescuers in Kochi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/forest-dept-seeks-speedy-ro-ro-ferry-access-for-snake-rescuers/article70977737.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-14 23:35:43.983097",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "Kerala Forest department",
-      "rephrased_article": "**Kerala Forest department** has requested the **Kochi Corporation** to expedite access for snake rescue volunteers to the Vypeen–Fort Kochi ro-ro ferry service. The request, made by the Deputy Conservator of Forest, seeks special permission for direct entry into the service due to the emergency nature of their work.  The application will be considered at the next **Corporation Council** meeting. Rescued snakes are transported to shelters or the Social Forestry department in Edappally.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 59190,
-      "title": "Three-day Mohiniyattam masterclass at Fort Kochi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/three-day-mohiniyattam-masterclass-at-fort-kochi/article70979490.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-14 23:35:13.824285",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Kalamandalam",
-      "rephrased_article": "**Kerala Kalamandalam**, a performance arts institution, is hosting a three-day masterclass on Mohiniyattam from May 22 to 24. The event, part of the **Kalamandalam's Masterclass series**, will be led by artiste **Methil Devika**.  Participants must have at least five years of experience in an Indian classical dance form and apply online before May 19th. For more information visit www.kalamandalam.ac.in or call 98471 88288.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 59184,
-      "title": "CM Fadnavis’ bike ride draws Opposition ire - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/cm-fadnavis-bike-ride-draws-opposition-ire/article70979916.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8pr2pb/article70980490.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000161B.jpg",
-      "scraped_at": "2026-05-14 23:34:01.335760",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Sharad Pawar",
-      "rephrased_article": "**Devendra Fadnavis**, the **Maharashtra** Chief Minister, rode a motorbike to Vidhan Bhavan after Prime Minister **Narendra Modi** called for austerity measures. The move drew criticism from the Opposition who urged Ministers to use public transport instead.  **Sharad Pawar**, NCP SP president, questioned the timing of the austerity measures and demanded an all-party meeting with the Prime Minister. He also criticized the State Government ministers' language towards **Rahul Gandhi**, the Leader of Opposition in Parliament.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "SP",
-        "NCP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi",
-        "Eknath Shinde",
-        "Devendra Fadnavis",
-        "Sharad Pawar"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Pune"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59174,
-      "title": "Ten new MLCs sworn in at Maharashtra Vidhan Bhavan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/ten-new-mlcs-sworn-in-at-maharashtra-vidhan-bhavan/article70977327.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/juzee4/article70977349.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000200B.jpg",
-      "scraped_at": "2026-05-14 23:32:18.770367",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Ten newly elected members of the Maharashtra Legislative Council (MLC)** took their oaths on Thursday, May 14, 2026, following the end of nine sitting MLCs' terms. The new members include representatives from the **BJP**, **Shiv Sena**, and **NCP**.  The ceremony was presided over by **Legislative Council chairperson Ram Shinde** and attended by key figures like **Assembly Speaker Rahul Narwekar**, **Chief Minister Devendra Fadnavis**, and **Deputy Chief Ministers Eknath Shinde and Sunetra Ajit**. The Upper House currently has 22 vacancies, with the majority of seats held by the **BJP** due to their dominance in the Legislative Assembly.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "SP",
-        "NCP",
-        "Shiv Sena"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Uddhav Thackeray",
-        "Eknath Shinde",
-        "Devendra Fadnavis",
-        "Sharad Pawar"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
         "protest_opposition"
       ]
     }

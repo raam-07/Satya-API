@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.784929",
+  "generated_at": "2026-06-02 22:14:54.254253",
   "name": "Nitish Kumar",
   "role": "Former Chief Minister / JDU President",
   "ministry": "",
@@ -7,15 +7,23 @@
   "state": "Bihar",
   "constituency": "",
   "criminal_cases": 0,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
+  "criminal_cases_in_news": 1,
+  "criminal_incidents": [
+    {
+      "incident_text": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu **Police** have registered a case against the executing agency and contractor of the Betwa river bridge in Hamirp",
+      "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/hamirpur-bridge-collapse-case-lodged-against-executing-agency-contractor/article71040445.ece",
+      "source_title": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu",
+      "scraped_at": "2026-05-30 06:55:31.675098",
+      "incident_type": "broad"
+    }
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Nitish_Kumar",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 63,
-    "articles_last_30d": 19,
+    "total_articles": 64,
+    "articles_last_30d": 17,
     "sentiment_breakdown_30d": {
-      "positive": 6,
+      "positive": 4,
       "negative": 7,
       "neutral": 6
     }
@@ -1874,6 +1882,38 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 42619,
+      "title": "Nitish Kumar kicks off fourth phase of Samriddhi Yatra in Bihar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/nitish-kumar-kicks-off-fourth-phase-of-samriddhi-yatra-in-bihar/article70754615.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4w6ypg/article70755675.ece/alternates/LANDSCAPE_1200/PTI03_17_2026_000365B.jpg",
+      "scraped_at": "2026-03-17 20:46:41.877879",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Nitish Kumar",
+      "rephrased_article": "**Nitish Kumar**, the Bihar Chief Minister, embarked on a four-day tour to review development projects and interact with the public. He inaugurated 641 projects worth ₹1,151 crore in Bhagalpur and Banka districts, highlighting his government's focus on job creation and inclusive development for all communities.  **Kumar** emphasized the progress made in agriculture, citing a significant increase in food grain production and self-reliance in fish farming. He also announced plans for a \"Pragati Yatra\" to address remaining development gaps and expressed gratitude for the Central Government's support through financial assistance for various sectors. Deputy Chief Minister Samrat Choudhary highlighted the development of Bhagalpur as a \"Smart City\" with infrastructure improvements like a Marine Drive project and four-lane roads connecting key cities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [
+        "Kolkata",
+        "Patna"
+      ],
+      "topic_tags": [
+        "economy",
+        "infrastructure",
+        "foreign_policy",
+        "farmer_agriculture"
       ]
     }
   ]

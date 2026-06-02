@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.652133",
+  "generated_at": "2026-06-02 22:14:54.116496",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 458,
-    "articles_last_30d": 207
+    "total_articles": 468,
+    "articles_last_30d": 209
   },
   "top_cities_30d": {
-    "Delhi": 55,
+    "Delhi": 57,
     "Bengaluru": 13,
     "Ludhiana": 12,
+    "Mumbai": 10,
     "Amritsar": 9,
-    "Mumbai": 9,
     "Ahmedabad": 8,
     "Chennai": 7,
     "Hyderabad": 5,
@@ -24,11 +24,11 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 173,
-    "economy": 62,
+    "foreign_policy": 174,
+    "economy": 61,
     "education": 61,
-    "crime_violence": 56,
-    "protest_opposition": 47,
+    "crime_violence": 57,
+    "protest_opposition": 46,
     "infrastructure": 39,
     "health": 25,
     "farmer_agriculture": 18,
@@ -36,6 +36,78 @@
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 64647,
+      "title": "CCTV Cameras Under Scanner In J&K, Punjab After ISI Spy Network Bust",
+      "url": "https://www.ndtv.com/world-news/cctv-espionage-triggers-sweeping-security-audit-in-sensitive-area-in-punjab-j-k-11581026#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://i.ndtvimg.com/i/2016-08/cctv-generic_650x400_81471010632.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 15:44:12.153630",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "ISI",
+      "rephrased_article": "**Pakistan's Inter-Services Intelligence (ISI)** has been accused of weaponizing CCTV cameras, prompting a nationwide audit of surveillance systems in **Jammu & Kashmir** and **Punjab**.  The investigation revealed the use of covert cameras to track troop movements. The mandate is to identify unauthorized or unregistered cameras, reposition units near military installations, and vet every device along national highways. Law enforcement agencies have been ordered to physically verify all CCTV installations within their jurisdictions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64587,
+      "title": "‘Homemakers render valuable services’: Court orders Rs 8.66 lakh payout to parents-in-law over woman’s accidental death | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/homemakers-valuable-services-orders-8-lakh-payout-parents-in-law-10720294/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Punjab-and-Haryana-High-Court-daughter-in-law-accident.jpg",
+      "scraped_at": "2026-06-02 11:22:16.030577",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Punjab and Haryana High Court",
+      "rephrased_article": "The **Punjab and Haryana High Court** awarded Rs 8.66 lakh in compensation to an elderly couple for the death of their daughter-in-law, Shobha Rani, who was killed in a 2000 road accident. The court recognized the value of homemaker services rendered by Shobha Rani and affirmed that parents-in-law can claim compensation as legal representatives and dependents.  The court also enhanced the compensation awarded for the couple's son, Balwinder Singh, from Rs 1.38 lakh to Rs 7.14 lakh. The case originated from a road accident where both victims died after being struck by a truck.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 64585,
+      "title": "Dawood Still Operating From Karachi's Clifton Road: Delhi Police Probe",
+      "url": "https://www.ndtv.com/india-news/dawood-still-operating-from-karachis-clifton-road-delhi-police-probe-11579332#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/rldfciuo_dawood-ibrahim_625x300_02_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 11:22:09.302275",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Dawood Ibrahim syndicate",
+      "rephrased_article": "The **Special Cell** of the Delhi Police arrested eight individuals for planning attacks in Delhi and Mumbai. The investigation revealed that the terror module was being run by the **Dawood Ibrahim syndicate**, with its main command centre located at Clifton Road, Karachi, which is Dawood's primary safe house and operational hub.  **ISI officials** were directly involved in monitoring and guiding the terror activities from Karachi. The ISI Regional Directorate in Karachi oversees Dawood's protection, while he has five addresses in the city, including his main residence near the Saudi Mosque.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64548,
       "title": "‘Sarve bhavantu sukhinah’: Court invokes Sanskrit verse on universal happiness to slam Haryana mediclaim limits | Legal News - The Indian Express",
@@ -5313,74 +5385,6 @@
         "economy",
         "foreign_policy",
         "health"
-      ]
-    },
-    {
-      "id": 56825,
-      "title": "Meenu Batra is still not in the clear: Attorney says fight to get Green Card or military parole not over - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/meenu-batra-is-still-not-in-the-clear-attorney-says-fight-to-get-green-card-or-military-parole-not-over/articleshow/130829717.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-130829769,width-1280,height-720,imgsize-38728,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-05 14:35:04.807370",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "ICE",
-      "rephrased_article": "**Meenu Batra**, an Indian-origin woman who has lived in the US since 1991, was released from six weeks of ICE detention after being detained for being undocumented.  Her attorney, **Deepak Ahluwalia**, stated that while her release is a victory, they are now seeking military parole for her as her son is serving in the US Army to obtain a Green Card.  **Ahluwalia** argues Batra's detention was unnecessary given her 35 years of legal presence and contributions to society, alleging it stems from ICE's quota-driven arrests and profit-seeking detention centers.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56799,
-      "title": "NCCIA arrests 13 activists in Punjab in crackdown on ‘anti-state’ social media activity - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1997726/nccia-arrests-13-activists-in-punjab-in-crackdown-on-anti-state-social-media-activity",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/051519376e3237e.webp",
-      "scraped_at": "2026-05-05 12:08:16.809169",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "NCCIA",
-      "rephrased_article": "The **National Cyber Crime Investigation Agency (NCCIA)** launched a crackdown on \"anti-state\" social media activities in Punjab, arresting 13 individuals.  Those arrested were accused of running campaigns against the state, particularly the army and government functionaries, across various platforms. The arrests followed instructions from NCCIA Punjab Director Muhammad Ali Waseem and are being handled under the Prevention of Electronic Crimes Act (PECA), 2016. The NCCIA stated that these actions aim to prevent the dissemination of provocative or misleading content against state institutions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56745,
-      "title": "Supreme Court upholds death sentences of Chotu gang members - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1997628/supreme-court-upholds-death-sentences-of-chotu-gang-members",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/050737309b7d04b.webp",
-      "scraped_at": "2026-05-05 06:25:36.553935",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Chotu gang",
-      "rephrased_article": "The **Supreme Court** of Pakistan upheld the death sentences for members of the notorious \"Chotu\" gang, rejecting appeals against their convictions. The gang, responsible for kidnapping for ransom, extortion, dacoities and murder, was found guilty of killing six police officials during an operation in 2016.  The court also converted life sentences for two juveniles into 14 years' imprisonment while acquitting nine other accused. **Additional Prosecutor General for Punjab Rai Akhtar Hussain** represented the prosecution, while **Advocate Sardar Usman Khosa** appeared for the petitioners. The decision was made by a three-judge bench headed by Justice Muhammad Hashim Khan Kakar and also comprising Justice Ishtiaq Ibrahim and Justice Salahuddin Panhwar.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
       ]
     }
   ]

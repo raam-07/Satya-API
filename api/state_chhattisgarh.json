@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.581883",
+  "generated_at": "2026-06-02 22:14:54.043391",
   "state": "Chhattisgarh",
   "capital": "Raipur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 94,
-    "articles_last_30d": 30
+    "total_articles": 99,
+    "articles_last_30d": 32
   },
   "top_cities_30d": {
     "Delhi": 17,
@@ -24,17 +24,68 @@
     "Srinagar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 25,
-    "crime_violence": 11,
-    "economy": 8,
+    "foreign_policy": 27,
+    "crime_violence": 12,
+    "economy": 9,
+    "protest_opposition": 8,
     "education": 7,
-    "protest_opposition": 7,
     "corruption_scam": 5,
-    "infrastructure": 2,
-    "rape_sexual_crime": 2,
+    "infrastructure": 3,
+    "rape_sexual_crime": 3,
     "farmer_agriculture": 1
   },
   "recent_articles": [
+    {
+      "id": 64664,
+      "title": "Tana Bhagats of Jharkhand and their opposition of a highway project",
+      "url": "https://indianexpress.com/article/explained/tana-bhagat-jharkhand-oppose-highway-10720826/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tana-delete.jpg",
+      "scraped_at": "2026-06-02 15:45:02.879965",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Jharkhand government",
+      "rephrased_article": "The **Bharatmala** scheme's highway project in Jharkhand is facing protests from the Tana Bhagat community, who claim it violates their land rights and ancestral sites protected under special Constitutional provisions. The project aims to widen NH-43 between Gumla and Chhattisgarh, a part of the Raipur-Dhanbad Economic Corridor.  The **Jharkhand** government has defended its actions, stating that the acquisition is being carried out under the National Highways Act, 1956, while local activists claim religious sites are affected. The project's completion will significantly reduce travel time between the two states and provide faster connectivity to industrial hubs.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Jharkhand"
+      ],
+      "cities_mentioned": [
+        "Ranchi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "infrastructure",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 64650,
+      "title": "Abhishek Mishra Adikarta Narayan Das Mathura YouTube Sermons, Spiked Milk: How IIT Graduate Built Cult To Exploit Women",
+      "url": "https://www.ndtv.com/india-news/abhishek-mishra-adikarta-narayan-das-mathura-youtube-sermons-spiked-milk-how-iit-graduate-built-cult-to-exploit-women-11580992#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/0u9d6t14_iit-baba_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 15:44:21.451927",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Abhishek Mishra",
+      "rephrased_article": "A 29-year-old IIT graduate, **Abhishek Mishra**, from Odisha has been arrested in Mathura for sexually exploiting young women. He operated under the alias \"Adikarta Narayan Das\" and used his YouTube channel, \"Radha Kripa Amrita,\" to build a following and target engineering students. Police allege that he manipulated victims into living with him, proposed Gandharva Vivah marriages as a pretext for exploitation, and used spiked Prasad to sexually assault them before recording the acts. **Mishra** is accused of blackmailing families and extorting money from those under his influence. An investigation is underway to determine the extent of his crimes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ]
+    },
     {
       "id": 64266,
       "title": "I came to know about my brother’s death only through Google search: Himachal Pradesh accident victim’s sister - The Hindu",
@@ -2844,6 +2895,105 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 42988,
+      "title": "How Maharashtra Legislature cleared the Freedom of Religion Bill, and why most of the opposition parties did not oppose it - The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/how-maharashtra-legislature-cleared-the-freedom-of-religion-bill-and-why-most-of-the-opposition-parties-did-not-oppose-it/article70758892.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vy8aeg/article70759542.ece/alternates/LANDSCAPE_1200/PTI07_01_2025_000279B.jpg",
+      "scraped_at": "2026-03-18 22:05:38.484915",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "The **Maharashtra** legislature passed the Freedom of Religion Bill, making it the 13th state in India to have such legislation.  While the bill was supported by opposition parties like the Shiv Sena UBT and NCP SP, concerns were raised about its potential infringement on religious freedom and lack of empirical data to justify its need. The bill aims to crack down on forced conversions but has faced criticism from Congress MLA Aslam Sheikh who called it regressive and a one-sided target against a particular community.  **Chief Minister Devendra Fadnavis**, however, argued that the current legal framework was insufficient to handle the law and order situation caused by such cases.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party",
+        "SP",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Chhattisgarh",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 42986,
+      "title": "Three die while cleaning septic tank in Raipur Hospital; incident sparks outrage over sanitation workers safety - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/three-die-while-cleaning-septic-tank-in-raipur-hospital-incident-sparks-outrage-over-sanitation-workers-safety/article70758808.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-18 22:04:56.607616",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Chhattisgarh Government",
+      "rephrased_article": "On Tuesday, March 17, 2026, **three men** and one man fell unconscious while cleaning a septic tank at **Ram Krishna Care Hospital** in Raipur, **Chhattisgarh**. The incident occurred after the victims entered the nearly 20-foot-deep tank without proper safety gear.  The deceased have been identified as Anmol Manjhi (25), Govind Sendre (35), and Satyam Kumar (22). A fourth worker was pulled out unconscious but is in critical condition. **Chief Minister Vishnu Deo Sai** announced that the government will issue legal action against those entering sewers without permission. The incident sparked a debate on unsafe working conditions for sanitation workers, prompting demands for a high-level probe from the Opposition Congress party.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 42662,
+      "title": "‘BJP diluting rural job scheme’: Chhattisgarh Cong. stages protest - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/bjpdiluting-rural-job-scheme-chhattisgarh-cong-stages-protest/article70754480.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1ns2ao/article70755700.ece/alternates/LANDSCAPE_1200/PTI03_17_2026_000315B.jpg",
+      "scraped_at": "2026-03-17 22:43:56.112147",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Modi government",
+      "rephrased_article": "The **Congress** party staged a gherao of the Chhattisgarh Assembly on Tuesday, protesting changes to the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) implemented by the **BJP-led Central government**.  **Sachin Pilot**, AICC general secretary in-charge of Chhattisgarh, accused the **Modi government** of weakening the scheme and taking away decision-making authority from local bodies. **Bhupesh Baghel**, former Chief Minister of Chhattisgarh, also criticized the changes, claiming they would deprive people of their rights and entitlements.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Chhattisgarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "education"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.802212",
+  "generated_at": "2026-06-02 22:14:54.271919",
   "name": "Revanth Reddy",
   "role": "Chief Minister",
   "ministry": "",
@@ -7,16 +7,24 @@
   "state": "Telangana",
   "constituency": "",
   "criminal_cases": 0,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
+  "criminal_cases_in_news": 1,
+  "criminal_incidents": [
+    {
+      "incident_text": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu **Chief Minister Revanth Reddy** and **Irrigation Minister N. Uttam Kumar Reddy** plan to meet the **CBI Director** to u",
+      "source_url": "https://www.thehindu.com/news/national/telangana/revanthuttamto-meetcbidirectorfor-expeditingkaleshwaramprobe/article70898797.ece",
+      "source_title": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
+      "scraped_at": "2026-04-23 23:56:55.724370",
+      "incident_type": "broad"
+    }
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Revanth_Reddy",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 93,
-    "articles_last_30d": 27,
+    "total_articles": 94,
+    "articles_last_30d": 24,
     "sentiment_breakdown_30d": {
-      "neutral": 9,
-      "negative": 5,
+      "neutral": 7,
+      "negative": 4,
       "positive": 13
     }
   },
@@ -123,6 +131,38 @@
     {
       "id": "promise_1780383936_2",
       "promise": "Revanth Reddy directed officials to develop a unified card for welfare scheme benefits.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
+    },
+    {
+      "id": "promise_1780401148_2",
+      "promise": "Revanth Reddy promised to complete all pending irrigation projects in Telangana.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
+    },
+    {
+      "id": "promise_1780402918_3",
+      "promise": "Revanth Reddy launched over ₹900 crore in development projects for the erstwhile united Adilabad district.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
+    },
+    {
+      "id": "promise_1780413034_2",
+      "promise": "Revanth Reddy directed officials to implement Tirumala-style regulations prohibiting political meetings and demonstrations within temple grounds.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
+    },
+    {
+      "id": "promise_1780421844_9",
+      "promise": "Telangana aims to become the textile capital of South Asia by 2047.",
       "status": "ongoing",
       "made_on": "",
       "evidence_count": 0,
@@ -2423,6 +2463,30 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 43010,
+      "title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-18 23:36:53.293151",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana government",
+      "rephrased_article": "**Chief Minister A. Revanth Reddy** stated the **Telangana government** was committed to the **Hyderabad Industrial Lands Transformation (HILT) policy** and was open to scrutiny on land administration issues. He praised Governor Shiv Pratap Shukla's address to the Legislature as \"historic\" and a vision for comprehensive development, while criticizing the Opposition, particularly the BRS, for its criticism of the speech.  He also questioned the absence of the Leader of the Opposition, former CM K. Chandrasekhar Rao, from the Assembly and criticized the opposition parties for lacking cooperation in key events.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
       ]
     }
   ]

@@ -1,41 +1,105 @@
 {
-  "generated_at": "2026-06-02 13:02:55.609762",
+  "generated_at": "2026-06-02 22:14:54.072830",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
   "cm": "Siddaramaiah",
   "region": "South",
-  "cm_confidence": null,
+  "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 645,
-    "articles_last_30d": 257
+    "total_articles": 665,
+    "articles_last_30d": 247
   },
   "top_cities_30d": {
-    "Bengaluru": 81,
-    "Delhi": 49,
+    "Bengaluru": 79,
+    "Delhi": 50,
     "Bangalore": 11,
-    "Hyderabad": 10,
     "Mumbai": 10,
+    "Hyderabad": 9,
     "Ahmedabad": 9,
     "Chennai": 7,
-    "Coimbatore": 3,
+    "Coimbatore": 4,
     "Pune": 3,
     "Kanpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 168,
-    "protest_opposition": 63,
-    "education": 59,
+    "foreign_policy": 157,
+    "protest_opposition": 58,
+    "education": 55,
     "infrastructure": 41,
-    "economy": 41,
-    "crime_violence": 40,
-    "farmer_agriculture": 34,
-    "health": 27,
-    "corruption_scam": 17,
+    "economy": 39,
+    "crime_violence": 37,
+    "farmer_agriculture": 29,
+    "health": 26,
+    "corruption_scam": 18,
     "rape_sexual_crime": 6
   },
   "recent_articles": [
+    {
+      "id": 64627,
+      "title": "Singam K Annamalai: BJP's Tamil Nadu Star Rose Fast, Fell Faster",
+      "url": "https://www.ndtv.com/india-news/singam-k-annamalai-bjps-tamil-nadu-star-rose-fast-fell-faster-11581105#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ot78oco4_annamalai_625x300_02_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 15:43:29.138034",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, the BJP's most recognizable face in Tamil Nadu, has announced his intention to leave the party. He met with **Nitin Nabin**, the party chief, and other leaders in Delhi, seeking a \"cordial\" exit.  He cited a lack of future opportunities within the BJP as the reason for his decision. Annamalai's departure follows a strained relationship with the party leadership after disagreements over electoral strategy and alliances. He has been vocal about his dissatisfaction with the AIADMK-BJP alliance and previously expressed discontent with constituency allocations for the upcoming Tamil Nadu Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 64623,
+      "title": "Railways Ministry nod sought for ₹422 crore Mysuru railway station upgrade - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/railways-ministry-nod-sought-for-422-crore-mysuru-railway-station-upgrade/article71053670.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/f2jw8b/article71053925.ece/alternates/LANDSCAPE_1200/2303_2_6_2026_19_52_54_2_RLYSTATIONAERIALVIEW.JPEG",
+      "scraped_at": "2026-06-02 15:43:23.263027",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Ministry of Railways",
+      "rephrased_article": "**Yaduveer Krishnadatta Chamaraja Wadiyar**, **Mysuru MP**, urged the **Ministry of Railways** to approve the ₹422-crore redevelopment of Mysuru railway station, including a third entry terminal.  He also requested the extension of the proposed Chennai high-speed rail corridor to Mysuru during a meeting with Union Railway Minister Ashwini Vaishnaw in New Delhi. The MP emphasized the need for increased investment in railway infrastructure due to Mysuru's growing economic and passenger traffic.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
     {
       "id": 64451,
       "title": "Man sits on road in protest as traffic halted to let Governor’s convoy pass - The Hindu",
@@ -5314,102 +5378,6 @@
         "infrastructure",
         "health",
         "farmer_agriculture",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58494,
-      "title": "Siddaramaiah launches counter-attack, accuses Modi of destroying dignity of Prime Minister’s post - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-launches-counter-attack-accuses-modi-of-destroying-dignity-of-prime-ministers-post/article70966356.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8rrg33/article70966830.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%2020.39.51.JPEG",
-      "scraped_at": "2026-05-12 00:08:32.179108",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, criticized **Prime Minister Narendra Modi** for his recent speech in Bengaluru, accusing him of using \"lies, poor taste, hatred and jealousy\" to undermine the Prime Minister's office.  **Siddaramaiah** questioned the authenticity of the speech, suggesting it reflected poorly on **Modi**'s government and party in Karnataka.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58484,
-      "title": "ECI set to roll out phase III of SIR in ‘coming days’ to cover 22 States, UTs - The Hindu",
-      "url": "https://www.thehindu.com/news/national/eci-set-to-roll-out-phase-iii-of-sir-in-coming-days-to-cover-22-states-uts/article70967203.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/73eeym/article70967245.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
-      "scraped_at": "2026-05-12 00:04:20.847646",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "ECI",
-      "rephrased_article": "The **Election Commission of India (ECI)** is set to begin phase three of its Special Intensive Revision (SIR) voter list process in the coming days, covering nearly 40 crore electors across 17 states and five UTs.  This follows completion of SIR in 10 states and three UTs previously, which has successfully removed over 60 lakh deceased voters from the rolls. The ECI had initially delayed the rollout due to Assembly elections in several states but is now proceeding with the revision process.  The exercise aims to ensure accurate voter lists for upcoming elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Bihar",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
         "protest_opposition"
       ]
     }

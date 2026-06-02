@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.763625",
+  "generated_at": "2026-06-02 22:14:54.231426",
   "name": "Nirmala Sitharaman",
   "role": "Finance Minister",
   "ministry": "Ministry of Finance",
@@ -12,7 +12,7 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Nirmala_Sitharaman",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 52,
+    "total_articles": 53,
     "articles_last_30d": 12,
     "sentiment_breakdown_30d": {
       "neutral": 3,
@@ -20,7 +20,16 @@
       "positive": 4
     }
   },
-  "promises": [],
+  "promises": [
+    {
+      "id": "promise_1780405021_5",
+      "promise": "Nirmala Sitharaman announced plans to increase India's installed nuclear power generation capacity to 100 GW by 2047.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
+    }
+  ],
   "recent_articles": [
     {
       "id": 64446,
@@ -1323,6 +1332,30 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 42736,
+      "title": "Parliament Budget Session LIVE: PM Modi bids farewell to retiring Rajya Sabha MPs on completion of their terms - The Hindu",
+      "url": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-lok-sabha-rajya-sabha-march-18-2026/article70756731.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6pfudn/article70756878.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-18%20111637.png",
+      "scraped_at": "2026-03-18 06:16:48.035268",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Lok Sabha** revoked the suspension of eight opposition members, who were barred from the House on February 3rd for \"unruly\" behavior. **Speaker Om Birla** emphasized that no placards, posters, photos, or AI-generated images are permitted inside the House or Parliament complex.  **Janardan Singh Sigriwal**, a member of Lok Sabha and the Standing Committee on Petroleum and Natural Gas, presented the seventh report on 'Demands for Grants (2026-27)' for the Ministry of Petroleum and Natural Gas in the Lok Sabha. The Rajya Sabha discussed the Appropriation Bill, 2026, and **Union Finance Minister Nirmala Sitharaman** returned it after responding to queries.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi",
+        "Nirmala Sitharaman"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
       ]
     }
   ]

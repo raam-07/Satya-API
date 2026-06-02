@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.492598",
+  "generated_at": "2026-06-02 22:14:53.950083",
   "party": "AAP",
   "full_name": "Aam Aadmi Party",
   "ideology": "Anti-corruption, Populism",
@@ -10,11 +10,11 @@
   ],
   "color": "#0066FF",
   "stats": {
-    "total_articles": 114,
-    "articles_last_30d": 56,
+    "total_articles": 115,
+    "articles_last_30d": 53,
     "sentiment_breakdown_30d": {
-      "neutral": 16,
-      "negative": 29,
+      "neutral": 14,
+      "negative": 28,
       "positive": 11
     }
   },
@@ -24,7 +24,7 @@
       "role": "AAP National Convenor",
       "state": "Delhi",
       "criminal_cases": 0,
-      "criminal_cases_in_news": 0
+      "criminal_cases_in_news": 1
     }
   ],
   "promises": [
@@ -3439,6 +3439,28 @@
         "foreign_policy",
         "farmer_agriculture",
         "political_gaffe"
+      ]
+    },
+    {
+      "id": 43064,
+      "title": "Tropical Cyclone Narelle to make landfall in far north Queensland on Friday as category four storm, bringing 200km/h winds | Tropical Cyclone Narelle | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/19/tropical-cyclone-narelle-qld-storm-tracker-path-tracking-map-bom",
+      "source": "The Guardian",
+      "image_url": "https://i.guim.co.uk/img/media/a5813c473ee1158164e89f06be05422c36ac1c74/50_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7716ccbb6065c4b029ce6b7484904279",
+      "scraped_at": "2026-03-19 06:08:19.190859",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Tropical Cyclone Narelle",
+      "rephrased_article": "**The Bureau of Meteorology (BoM)** predicts **Severe Tropical Cyclone Narelle** will make landfall in far north Queensland as a category four storm on Friday morning. The cyclone, which rapidly intensified over the past 48 hours, is expected to bring destructive wind gusts exceeding 225km/h and heavy rainfall, potentially causing flash flooding.  Over 100 emergency services personnel have been deployed to the region, with residents urged to take precautions as power outages are anticipated. The cyclone's track could see it cross the Top End on Saturday evening before moving south towards Darwin and Katherine.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.574522",
+  "generated_at": "2026-06-02 22:14:54.035782",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 228,
-    "articles_last_30d": 94
+    "total_articles": 233,
+    "articles_last_30d": 93
   },
   "top_cities_30d": {
     "Delhi": 40,
-    "Patna": 16,
+    "Patna": 14,
     "Mumbai": 10,
     "Kolkata": 6,
     "Hyderabad": 6,
@@ -24,18 +24,53 @@
     "Pune": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 69,
-    "education": 29,
+    "foreign_policy": 67,
+    "education": 30,
     "crime_violence": 22,
     "infrastructure": 17,
     "economy": 17,
-    "protest_opposition": 13,
+    "protest_opposition": 14,
     "health": 12,
-    "corruption_scam": 11,
+    "corruption_scam": 12,
     "farmer_agriculture": 9,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 64594,
+      "title": "Kerala to Bengal, Why India’s Left Is Facing an Existential Crisis",
+      "url": "https://indianexpress.com/article/opinion/columns/the-left-and-the-people-are-now-speaking-different-languages-10720338/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/cpim-7591_0bbdd9_20260505093627_20260602105524.jpg",
+      "scraped_at": "2026-06-02 11:22:38.586413",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Communist Party of India (Marxist)",
+      "rephrased_article": "The **Communist Party of India (Marxist)**, once a dominant force in Indian politics, has lost significant power across several states.  This decline is attributed to the party's failure to adapt to the digital age and its inability to effectively engage with voters on social media platforms like WhatsApp. The BJP, meanwhile, has successfully leveraged these platforms for communication and mobilization, capturing public attention through nationalist narratives and coordinated online campaigns. This shift in political dynamics underscores a broader trend of the Left failing to address contemporary issues such as inequality and precarity, leaving it vulnerable to criticism and losing its ability to connect with ordinary citizens.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "CPM"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 64477,
       "title": "BJP picks old RSS hand Nagendra Nath Tripathi for outreach to ‘neglected’ Sangh Parivar elders | Political Pulse News - The Indian Express",
@@ -6015,40 +6050,6 @@
       ],
       "topic_tags": [
         "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 46140,
-      "title": "House panel flags 32 times increase in sugarcane arrears, farmers to launch protests - The Hindu",
-      "url": "https://www.thehindu.com/news/national/house-panel-flags-32-times-increase-in-sugarcane-arrears-farmers-to-launch-protests/article70796616.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9hrjr7/article70797336.ece/alternates/LANDSCAPE_1200/iStock-688319174.jpg",
-      "scraped_at": "2026-03-28 17:40:46.969280",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Union Government",
-      "rephrased_article": "The **Parliamentary Standing Committee on Consumer Affairs, Food and Public Distribution** has raised concerns about a significant increase in sugarcane arrears owed to farmers across the country. The committee was informed that the total amount of cane price arrears as of February 16, 2026 is ₹16,087 crore, representing a 32-fold increase compared to last year. Farmers' organizations have demanded intervention from the **Union Government** to address this issue before the next crop season begins.  The committee noted that excess sugar production and carryover stock are contributing to the delays in payment of cane dues. The government has proposed measures such as encouraging ethanol production from sugarcane and revising the minimum support price for sugar.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Gujarat",
-        "Haryana",
-        "Karnataka",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Punjab",
-        "Tamil Nadu",
-        "Telangana",
-        "Uttar Pradesh",
-        "Uttarakhand"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture",
         "foreign_policy"
       ]
     }

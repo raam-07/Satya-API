@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-02 13:02:55.685293",
+  "generated_at": "2026-06-02 22:14:54.150567",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
   "cm": "Yogi Adityanath",
   "region": "North",
-  "cm_confidence": 0.75,
+  "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 350,
+    "total_articles": 360,
     "articles_last_30d": 159
   },
   "top_cities_30d": {
@@ -25,8 +25,8 @@
   },
   "top_topics_30d": {
     "foreign_policy": 119,
-    "crime_violence": 60,
-    "education": 49,
+    "crime_violence": 61,
+    "education": 48,
     "protest_opposition": 38,
     "infrastructure": 26,
     "economy": 24,
@@ -36,6 +36,28 @@
     "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 64578,
+      "title": "Quack Flees After Leaving Pregnant UP Woman's Abdomen Open, Baby Survives",
+      "url": "https://www.ndtv.com/india-news/quack-flees-after-leaving-pregnant-up-womans-abdomen-open-baby-survives-11580231#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-03/cbu81ato_hyderabad-surgery-abhinay-kumar-ndtv_625x300_22_March_22.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 11:22:00.820214",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Naseem Ahmed",
+      "rephrased_article": "A pregnant ASHA worker died during a delivery procedure at an illegally operated hospital in Uttar Pradesh's Sonbhadra district.  **Naseem Ahmed**, the hospital operator, is on the run while a staff nurse and midwife have been arrested. The incident has prompted police to seal the facility and offer rewards for the remaining accused. **Family members** allege that the woman died due to a botched surgery after being referred to the Global Hospital in Kon despite initial treatment at a primary health center.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64502,
       "title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
@@ -5845,32 +5867,6 @@
       ],
       "topic_tags": [
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 52294,
-      "title": "MP seeks Air Force land for expansion of Belagavi airport - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/mp-seeks-air-force-land-for-expansion-of-belagavi-airport/article70878302.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/v4wc03/article70878491.ece/alternates/LANDSCAPE_1200/9727_18_4_2026_20_37_56_1_19BGMSHETTARRAJNATH1.JPEG",
-      "scraped_at": "2026-04-18 16:09:06.093720",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Rajnath Singh",
-      "rephrased_article": "**Jagadish Shettar**, former Chief Minister and MP, met with **Rajnath Singh**, Union Defence Minister, to discuss land issues related to the expansion of the Belagavi airport.  Shettar urged **Singh** to facilitate the transfer of 16 acres of defence land for the project, as well as address concerns about a flower market being set up in Belagavi without proper authorization from local authorities. **Singh** promised to speak with relevant authorities and provide necessary directions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rajnath Singh"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
       ]
     }
   ]

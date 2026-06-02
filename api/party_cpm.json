@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.518802",
+  "generated_at": "2026-06-02 22:14:53.976895",
   "party": "CPM",
   "full_name": "Communist Party of India (Marxist)",
   "ideology": "Marxism, Communism",
@@ -10,12 +10,12 @@
   ],
   "color": "#FF0000",
   "stats": {
-    "total_articles": 188,
-    "articles_last_30d": 55,
+    "total_articles": 192,
+    "articles_last_30d": 54,
     "sentiment_breakdown_30d": {
       "positive": 14,
-      "negative": 20,
-      "neutral": 21
+      "negative": 21,
+      "neutral": 19
     }
   },
   "ministers": [
@@ -24,11 +24,46 @@
       "role": "Chief Minister",
       "state": "Kerala",
       "criminal_cases": 0,
-      "criminal_cases_in_news": 0
+      "criminal_cases_in_news": 1
     }
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 64594,
+      "title": "Kerala to Bengal, Why India’s Left Is Facing an Existential Crisis",
+      "url": "https://indianexpress.com/article/opinion/columns/the-left-and-the-people-are-now-speaking-different-languages-10720338/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/cpim-7591_0bbdd9_20260505093627_20260602105524.jpg",
+      "scraped_at": "2026-06-02 11:22:38.586413",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Communist Party of India (Marxist)",
+      "rephrased_article": "The **Communist Party of India (Marxist)**, once a dominant force in Indian politics, has lost significant power across several states.  This decline is attributed to the party's failure to adapt to the digital age and its inability to effectively engage with voters on social media platforms like WhatsApp. The BJP, meanwhile, has successfully leveraged these platforms for communication and mobilization, capturing public attention through nationalist narratives and coordinated online campaigns. This shift in political dynamics underscores a broader trend of the Left failing to address contemporary issues such as inequality and precarity, leaving it vulnerable to criticism and losing its ability to connect with ordinary citizens.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "CPM"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 64319,
       "title": "CMRL appeal against ED probe: HC directs status quo till June 5 - The Hindu",
@@ -5267,6 +5302,81 @@
       "topic_tags": [
         "protest_opposition",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 43070,
+      "title": "UDF to announce candidates for all 140 Kerala Assembly seats today, says V.D. Satheesan - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/udf-to-announce-candidates-for-all-140-kerala-assembly-seats-today-says-vd-satheesan/article70760633.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3q3p2c/article70760682.ece/alternates/LANDSCAPE_1200/VACB-recommendsGPVFD5RHU.3.jpg.jpg",
+      "scraped_at": "2026-03-19 06:10:46.627603",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "UDF",
+      "rephrased_article": "**V.D. Satheesan**, Leader of the Opposition in **Kerala**, announced that the **United Democratic Front (UDF)** would unveil its candidates for all 140 Assembly seats later on Thursday, March 19, 2026.  He stated that the party had already finalized 95 names and these will be released after approval from the central election committee. Mr. Satheesan dismissed media speculation about **K. Sudhakaran**, MP's candidacy, and emphasized the UDF's unity in contrast to internal dissent within the **CPI(M)**. The UDF leader also predicted a \"revolt\" within the CPI(M) and claimed that it would be reflected in the upcoming election.",
+      "party_mentioned": [
+        "Congress",
+        "CPI",
+        "CPM"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 43051,
+      "title": "Kerala Assembly polls: Pinarayi Vijayan set to file nomination from Dharmadam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-pinarayi-vijayan-set-to-file-nomination-from-dharmadam/article70760532.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lvm684/article70760554.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000157A.jpg",
+      "scraped_at": "2026-03-19 05:03:50.748838",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**Pinarayi Vijayan**, the Kerala Chief Minister and candidate for the Left Democratic Front (LDF), will file his nomination papers from the Dharmadam Assembly constituency on Thursday, March 19, 2026.  The submission is expected at 11 a.m. at the District Registrar office in Thalassery. The LDF hopes to secure a larger majority than in the previous election, but faces competition from **V.P. Abdul Rasheed**, the UDF candidate who has garnered attention through his campaign events and large crowds.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 42673,
+      "title": "Pinarayi Vijayan launches election campaign at Dharmadam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-launches-election-campaign-at-dharmadam/article70754702.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o1s6yr/article70755126.ece/alternates/LANDSCAPE_1200/80691_17_3_2026_19_16_44_1_PINARAYIVIJAYAN1.JPG",
+      "scraped_at": "2026-03-17 23:40:06.150344",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**Chief Minister Pinarayi Vijayan** kicked off his election campaign in his home constituency of Dharmadam, marking the beginning of his bid for a third consecutive term.  The contest is heating up with **Vijayan** facing off against Congress candidate V.P. Abdul Rasheed. His first public meeting will be held at Pinarayi.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
       ]
     }
   ]

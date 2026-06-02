@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 13:02:55.813205",
+  "generated_at": "2026-06-02 22:14:54.283143",
   "name": "Pinarayi Vijayan",
   "role": "Chief Minister",
   "ministry": "",
@@ -7,12 +7,20 @@
   "state": "Kerala",
   "constituency": "",
   "criminal_cases": 0,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
+  "criminal_cases_in_news": 1,
+  "criminal_incidents": [
+    {
+      "incident_text": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the residences of former Kerala Chief Minister Pinarayi Vijayan and his",
+      "source_url": "https://www.thehindu.com/news/national/kerala/cpim-cadres-stage-protests-after-ed-raids-at-pinarayi-vijayans-residence-in-kannur/article71027721.ece",
+      "source_title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
+      "scraped_at": "2026-05-28 00:10:22.645050",
+      "incident_type": "broad"
+    }
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 101,
+    "total_articles": 103,
     "articles_last_30d": 32,
     "sentiment_breakdown_30d": {
       "positive": 9,
@@ -20,7 +28,16 @@
       "negative": 10
     }
   },
-  "promises": [],
+  "promises": [
+    {
+      "id": "promise_1780403944_4",
+      "promise": "Pinarayi Vijayan launched a name change initiative.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
+    }
+  ],
   "recent_articles": [
     {
       "id": 64319,
@@ -2912,6 +2929,52 @@
       "topic_tags": [
         "foreign_policy",
         "economy"
+      ]
+    },
+    {
+      "id": 43051,
+      "title": "Kerala Assembly polls: Pinarayi Vijayan set to file nomination from Dharmadam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-pinarayi-vijayan-set-to-file-nomination-from-dharmadam/article70760532.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lvm684/article70760554.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000157A.jpg",
+      "scraped_at": "2026-03-19 05:03:50.748838",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**Pinarayi Vijayan**, the Kerala Chief Minister and candidate for the Left Democratic Front (LDF), will file his nomination papers from the Dharmadam Assembly constituency on Thursday, March 19, 2026.  The submission is expected at 11 a.m. at the District Registrar office in Thalassery. The LDF hopes to secure a larger majority than in the previous election, but faces competition from **V.P. Abdul Rasheed**, the UDF candidate who has garnered attention through his campaign events and large crowds.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 42673,
+      "title": "Pinarayi Vijayan launches election campaign at Dharmadam - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-launches-election-campaign-at-dharmadam/article70754702.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o1s6yr/article70755126.ece/alternates/LANDSCAPE_1200/80691_17_3_2026_19_16_44_1_PINARAYIVIJAYAN1.JPG",
+      "scraped_at": "2026-03-17 23:40:06.150344",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**Chief Minister Pinarayi Vijayan** kicked off his election campaign in his home constituency of Dharmadam, marking the beginning of his bid for a third consecutive term.  The contest is heating up with **Vijayan** facing off against Congress candidate V.P. Abdul Rasheed. His first public meeting will be held at Pinarayi.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
       ]
     }
   ]
