@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 16:03:59.781057",
+  "generated_at": "2026-06-03 23:17:22.424503",
   "state": "Himachal Pradesh",
   "capital": "Shimla",
   "ruling_party": "INC",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 151,
-    "articles_last_30d": 75
+    "total_articles": 157,
+    "articles_last_30d": 79
   },
   "top_cities_30d": {
-    "Delhi": 26,
-    "Bengaluru": 10,
+    "Delhi": 27,
+    "Bengaluru": 12,
     "Amritsar": 7,
     "Chennai": 6,
     "Coimbatore": 4,
@@ -24,18 +24,179 @@
     "Hyderabad": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 56,
-    "education": 17,
+    "foreign_policy": 58,
+    "education": 16,
+    "health": 14,
     "crime_violence": 13,
-    "health": 13,
-    "protest_opposition": 12,
     "economy": 11,
+    "protest_opposition": 11,
     "farmer_agriculture": 9,
-    "infrastructure": 7,
-    "corruption_scam": 3,
-    "political_gaffe": 3
+    "political_gaffe": 7,
+    "infrastructure": 6,
+    "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 65037,
+      "title": "D K Shivakumar sworn in as 24th state CM, ex-CM Siddaramaiah’s son gets cabinet berth | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/dk-shivakumar-sworn-in-karnataka-chief-minister-siddaramaiah-son-yathindra-cabinet-10722751/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/swearing-in-ceremony-karnataka-cm.jpg",
+      "scraped_at": "2026-06-03 19:10:44.146692",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D K Shivakumar",
+      "rephrased_article": "**D K Shivakumar**, the newly elected leader of the **Congress Legislature Party (CLP)** in Karnataka, was sworn in as the state's 24th chief minister alongside a 13-person cabinet. The ceremony, attended by Congress top brass, CMs of three states, and outgoing CM Siddaramaiah, took place on Wednesday at Lok Bhavan.  Shivakumar, who ascended to the position after leading the Congress to victory in the 2023 state elections, emphasized his commitment to youth leadership and a new era for Karnataka. The cabinet, largely composed of members from the previous Siddaramaiah administration, reflects the Congress's efforts to maintain its caste base while balancing power dynamics.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64992,
+      "title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/w4l58l/article71057336.ece/alternates/LANDSCAPE_1200/20260603322L.jpg",
+      "scraped_at": "2026-06-03 15:24:24.218444",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**D.K. Shivakumar**, the newly elected **Chief Minister of Karnataka**, was sworn in on Wednesday, June 3, 2026, alongside **G. Parameshwara** as Deputy Chief Minister.  The swearing-in ceremony took place at Glass House in Lok Bhavan and saw the inclusion of 13 Cabinet ministers, with a focus on senior party members. The event was attended by prominent figures from across the political spectrum, including Rahul Gandhi and Sukhvinder Singh Sukhu. Shivakumar's administration will face challenges as it navigates the upcoming Rajya Sabha and Karnataka Legislative Council elections.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Karnataka",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64983,
+      "title": "How the D-day unfolded for DKS, reaching across political divide - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/how-the-d-day-unfolded-for-dks-reaching-across-political-divide/article71057406.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/udauxx/article71057824.ece/alternates/LANDSCAPE_1200/20260603130L.jpg",
+      "scraped_at": "2026-06-03 15:23:55.758183",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**D.K. Shivakumar**, the newly sworn-in Chief Minister of Karnataka, began his day with personal and political gestures, including calls to MLAs and a visit to former Chief Ministers **B.S. Yediyurappa** and **H.D. Deve Gowda**. He chose traditional attire for his oath ceremony and invited Congress leaders **Rahul Gandhi**, **Mallikarjun Kharge**, and **Sonia Gandhi** to the event, which was attended by high-ranking members of the **Congress** party from other states.  The ceremony also included a gathering of religious leaders representing various faiths.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rahul Gandhi",
+        "Sonia Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Kerala",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64963,
+      "title": "Karnataka Chief Minister DK Shivakumar Takes Oath, G Parameshwara Is His Deputy",
+      "url": "https://www.ndtv.com/india-news/karnataka-chief-minister-dk-shivakumar-takes-oath-g-parameshwara-is-his-deputy-11585721#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/3tf1j24g_dk-shivakumar_650x400_03_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 15:22:35.859818",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**DK Shivakumar**, a prominent figure in the **Congress**, took oath as the Chief Minister of Karnataka, ending a two-year political tussle. His cabinet of 13 ministers includes his predecessor's son, **Yathindra Siddaramaiah**.  G Parameshwara was appointed Deputy Chief Minister, balancing social factions within the party. The event saw participation from Congress leaders like **Rahul Gandhi**, **Priyanka Gandhi Vadra**, and other state chief ministers. Shivakumar expressed gratitude to the **Gandhi family** for their support in his political journey.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Sonia Gandhi",
+        "Priyanka Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64958,
+      "title": "Adani Foundation, Anushkaa Foundation Partner To Help Children With Clubfoot In 5 States",
+      "url": "https://www.ndtv.com/india-news/adani-foundation-anushkaa-foundation-partner-to-help-children-with-clubfoot-in-5-states-11586130#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/mh7cp9nc_adani-foundationanushkaa-foundation_625x300_03_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 15:22:24.356822",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Adani Foundation",
+      "rephrased_article": "**The Adani Foundation** and **the Anushkaa Foundation** announced a three-year partnership to address clubfoot in five states. The initiative, launched on World Clubfoot Day, aims to treat over 10,000 children through public healthcare systems.  The program will support 67 clinics and 51 healthcare professionals across the states of Madhya Pradesh, Haryana, Uttar Pradesh, Maharashtra, and Himachal Pradesh. **Dr Priti Adani**, Chairperson of the **Adani Foundation**, emphasized the importance of early intervention for clubfoot. **Deepak Premnarayen**, Founder of the **Anushkaa Foundation**, highlighted the collaboration's goal to expand access to quality treatment and strengthen systems for early diagnosis.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 64877,
       "title": "Kerala mulls boosting stroke treatment network via hub-and-spoke model - The Hindu",
@@ -73,7 +234,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Siddaramaiah"
       ],
       "states_mentioned": [
@@ -4461,6 +4621,29 @@
       "topic_tags": [
         "political_gaffe",
         "education"
+      ]
+    },
+    {
+      "id": 41595,
+      "title": "Fertilizer stocks for kharif: Centre struggles to avoid crisis - The Hindu",
+      "url": "https://www.thehindu.com/news/national/fertilizer-stocks-for-kharif-centre-struggles-to-avoid-crisis/article70744122.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vl78bh/article70744333.ece/alternates/LANDSCAPE_1200/iStock-1630729339%201.jpg",
+      "scraped_at": "2026-03-14 17:34:31.968848",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "## Fertilizer Shortage Looms as India Prepares for Kharif Season\n\nA parliamentary committee has warned of potential fertilizer shortages ahead of the upcoming kharif season, citing geopolitical tensions and supply chain disruptions. The committee highlighted India's heavy reliance on imports for key fertilizers like urea, DAP, and potash, making it vulnerable to global market fluctuations and international conflicts.  While the government claims adequate stockpiles exist, the committee urges a proactive strategy to safeguard the country's fertilizer supply chain. This includes establishing a \"Fertiliser Supply Security Fund\" to address India's dependence on imports for critical inputs. The committee also pointed out that despite increased domestic production of some fertilizers, overall consumption remains high, leading to continued reliance on imports.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
       ]
     }
   ]

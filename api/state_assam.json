@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 16:03:59.742168",
+  "generated_at": "2026-06-03 23:17:22.387928",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 278,
-    "articles_last_30d": 82
+    "total_articles": 281,
+    "articles_last_30d": 78
   },
   "top_cities_30d": {
-    "Delhi": 20,
+    "Delhi": 19,
     "Kolkata": 9,
     "Chennai": 4,
     "Bengaluru": 3,
@@ -24,18 +24,43 @@
     "Lucknow": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 64,
-    "protest_opposition": 27,
-    "economy": 21,
-    "education": 20,
-    "infrastructure": 19,
+    "foreign_policy": 60,
+    "protest_opposition": 23,
+    "economy": 19,
+    "infrastructure": 18,
+    "education": 17,
     "crime_violence": 16,
-    "farmer_agriculture": 10,
+    "farmer_agriculture": 11,
     "corruption_scam": 5,
     "health": 4,
     "rape_sexual_crime": 2
   },
   "recent_articles": [
+    {
+      "id": 64988,
+      "title": "Assam, Meghalaya farmers resume farming in disputed border area after weeks of conflict - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam-meghalaya-farmers-resume-farming-in-disputed-border-area-after-weeks-of-conflict/article71057540.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2tkdv8/article71057950.ece/alternates/LANDSCAPE_1200/GWRIK_22-8-2015_13-49-27_ASSAMFLOOD_HINDU_22082015_06.JPG",
+      "scraped_at": "2026-06-03 15:24:14.573179",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Assam and Meghalaya governments",
+      "rephrased_article": "**Villagers** in Assam and Meghalaya resumed farming activities in a disputed border area after weeks of intermittent conflict. The resumption followed an agreement brokered by representatives from the two state governments, who met on Tuesday to resolve the dispute in the Tapat-Lapangap sector. **Deimonmi Lyngdoh**, head of Lapangap's traditional community organization, expressed hope that this temporary arrangement would strengthen relations and contribute towards a lasting resolution of border issues.  This agreement is part of a larger effort to resolve 12 disputed sectors along their 855-kilometer border since 1972.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Meghalaya"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "foreign_policy",
+        "economy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 64285,
       "title": "Accused Dies In Encounter After Assam Attack Leaves 1 Dead, Girl Critical",
@@ -5995,28 +6020,6 @@
         "Kolkata"
       ],
       "topic_tags": []
-    },
-    {
-      "id": 47422,
-      "title": "Rabies confirmed after mass dog bite incident in Assam town - The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam/rabies-confirmed-after-mass-dog-bite-incident-in-assam-town/article70810470.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/n3zb20/article70810872.ece/alternates/LANDSCAPE_1200/TH18-Aaratrika-GGBFARBUT.3.jpg.jpg",
-      "scraped_at": "2026-04-02 05:25:11.226283",
-      "category": "health",
-      "sentiment": "neutral",
-      "sentiment_target": "Rabies",
-      "rephrased_article": "**Just Be Friendly (JBF)** and **Mission Rabies** teams investigated a mass dog bite incident in Lanka town, Assam.  The investigation found two suspected rabid dogs, with samples from one confirmed to be infected with rabies. The team also examined six bite cases, finding three associated with the disease. JBF and Mission Rabies are working to achieve a rabies-free Assam by 2030 through awareness campaigns and vaccination efforts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "foreign_policy"
-      ]
     }
   ]
 }

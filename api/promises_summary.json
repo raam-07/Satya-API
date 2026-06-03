@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-03 16:04:00.325478",
+  "generated_at": "2026-06-03 23:17:22.901660",
   "stats": {
-    "total_promises": 113,
+    "total_promises": 122,
     "kept": 2,
     "broken": 12,
-    "ongoing": 97
+    "ongoing": 106
   },
   "by_status": {
     "broken": [
@@ -56,7 +56,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
       },
       {
         "id": "p007",
@@ -256,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p016",
@@ -342,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
+        "gemma_reasoning": "National UCC implementation is not yet completed."
       },
       {
         "id": "p010",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The BJP government is in power and actively implementing policies."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       },
       {
         "id": "promise_1780208617_8",
@@ -1087,7 +1087,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780361059_5",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
+        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
       },
       {
         "id": "promise_1780373808_3",
@@ -1840,6 +1840,143 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780513564_0",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Launched the 'Nivesh Mitra 3.0' single-window system to further attract investments and distribute incentives.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780516546_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised the relocation and rehabilitation of all displaced individuals affected by the Musi Rejuvenation Project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780518024_2",
+        "person": "Ashwini Vaishnaw",
+        "party": "",
+        "promise": "Ashwini Vaishnaw launched the National AI Skilling Initiative in partnership with Google and YouTube through the Indian Institute of Creative Technologies (IICT).",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780518479_3",
+        "person": "Thol. Thirumavalavan",
+        "party": "",
+        "promise": "The VCK demands two-digit Assembly seats in the 2026 election.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780518790_4",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Telangana Cabinet authorized the takeover of the existing Hyderabad Metro system.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780519819_5",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to construct an underground traffic tunnel beneath the runway of Begumpet Airport in Hyderabad.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780520118_6",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "The TMC will contest 291 seats in the upcoming West Bengal assembly elections.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-assembly-elections-2026-full-list-of-tmc-candidates-contesting-in-west-bengal/article70753654.ece",
+            "title": "Full list of TMC candidates contesting in West Bengal - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-03-23 08:10:16.243269",
+            "relevance_score": 87,
+            "gemma_validated": true,
+            "rephrased": "The Trinamool Congress (TMC) announced its list of candidates for the upcoming West Bengal assembly elections, with party supremo Mamata Banerjee stating that the party will contest 291 seats. The rem",
+            "content": "The ruling TMC (Trinamool Congress) on Tuesday (March 17, 2026) announced its list of candidates for the upcoming West Bengal assembly elections, with party supremo and Chief Minister Mamata Banerjee declaring that the party will contest 291 of the 294 seats in the State. Addressing a press conference, Ms. Banerjee said “We will contest 291 of the 294 seats. The remaining three seats will be contested by our ally, Anit Thapa-led BGPM, in the Darjeeling hills.” The West Bengal Chief Minister was announcing the names of candidates, flanked by the party’s National General Secretary Abhishek Banerjee and State President Subrata Bakshi. Here are the list of candidates and their respective constituencies: - Paresh Chandra Adhikary - Mekliganj (SC) - Sablu Barman - Mathabhanga (SC) - Partha Pratim Roy - Coochbehar Uttar (SC) - Avijit De Bhowmick (Hippy) - Coochbehar Dakshin - Harihar Das - Sitalkuchi (SC) - Sangita Roy Basunia - Sitai (SC) - Udayan Guha - Dinhata - Sailen Barma - Natabari - Shib Sankar Paul - Tufanganj - Rajeev Tirkey - Kumargram (ST) - Birendra Bara - Kalchini (ST) - Suman Kanjilal - Alipurduar - Subhash Chandra Roy - Falakata (SC) - Jayprakash Toppo - Madarihat (ST) - Dr Nirmal Chandra Roy - Dhupguri (SC) - Ram Mohan Roy - Maynaguri (SC) - Krishna Das - Jalpaiguri (SC) - Swapna Barman - Rajganj (SC) - Ranjan Shil Sharma - Dabgram-Phulbari - Bulu Chik Baraik - Mal (ST) - Sanjay Kujur - Nagrakata (ST) - ******** - Kalimpong - ******** - Darjeeling - ******** - Kurseong - Sankar Malakar - Matigara-Naxalbari (SC) - Goutam Deb - Siliguri - Reena Toppo Ekka - Phansidewa (ST) - Hamidul Rahaman - Chopra - Kanaia Lal Aggarwal - Islampur - Md. Ghulam Rabbani - Goalpokhar - Minhajul Arfin Azad - Chakulia - Gautam Paul - Karandighi - Satyajit Barman - Hemtabad (SC) - Nitai Baishya - Kaliaganj (SC) - Krishna Kalyani - Raiganj - Mosaraf Hussain - Itahar - Rekha Roy - Kushmandi (SC) - Toraf Hossain Mondal - Kumarganj - Arpita Ghosh - Balurghat - Chintamoni Biha - Tapan (ST) - Goutam Das - Gangarampur (SC) - Biplab Mitra - Harirampur - Amal Kisku - Habibpur (ST) - Prasenjit Das - Gazole (SC) - Prasun Banerjee - Chanchal - Md. Matebur Rahman - Harishchandrapur - Abdur Rahim Boxi - Malatipur - Samar Mukherjee - Ratua - Kabita Mandal - Manikchak - Lipika Barman Ghosh - Maldah (SC) - Asis Kundu - English Bazar - Md. Najrul Islam - Mothabari - Sabina Yeasmin - Sujapur - Chandana Sarkar - Baisnabnagar - Amirul Islam - Farakka - Nur Alam - Samsherganj - Emani Biswas - Suti - Jakir Hossain - Jangipur - Janab Akhruzzaman - Raghunathganj - Bayron Biswas - Sagardighi - Dr. Abdul Aziz - Lalgola - Reyaz Hussain Sarkar - Bhagawangola - Soumik Hussain - Raninagar - Shaoni Singha Roy - Murshidabad - Pranab Chandra Das - Nabagram (SC) - Ashish Marjit - Khargram (SC) - Pratima Rajak - Burwan (SC) - Apurba Sarkar (David) - Kandi - Mustafizur Rahaman (Sumon) - Bharatpur - Ataur Rahman - Rejinagar - Rabiul Alam Chowdhury - Beldanga - Naru Gopal Mukherjee - Baharamour - Niamot Sheikh - Hariharpara - Shahina Mumtaz - Naoda - Humayun Kabir (Ex IPS) - Domkal - Babar Ali - Jalangi - Soham Chakraborty - Karimpur - Dilip Poddar - Tehatta - Rukbanur Rahman - Palashipara - Alifa Ahmed - Kaliganj - Kallol Kha - Nakashipara - Jeber Sekh - Chapra - Avinabha Bhattacharya - Krishnanagar Uttar - Pundarikakshya Saha - Nabadwip - Ujjwal Biswas - Krishnanagar Dakshin - Braja Kishore Goswami - Santipur - Tapas Ghosh - Ranaghat Uttar Paschim - Samir Kumar Poddar - Krishnaganj (SC) - Barnali Dey Roy - Ranaghat Uttar Purba (SC) - Dr. Sougata Kumar Burman - Ranaghat Dakshin (SC) - Subhankar Singha (Jishu) - Chakdaha - Dr. Atindra Nath Mondal - Kalyani (SC) - Dr. Rajib Biswas - Haringhata (SC) - Madhupurna Thakur - Bagda (SC) - Biswajit Das - Bangaon Uttar (SC) - Rituparna Addhya - Bangaon Dakshin (SC) - Narottam Biswas - Gaighata (SC) - Bina Mondal - Swarupnagar (SC) - Burhanul Mokaddin (Liton) - Baduria - Jyotipriya Mallick (Balu) - Habra - Narayan Goswami - Ashoknagar - Peerzada Kasem Siddiqui - Amdanga - Subodh Adhikary - Bijpur - Sanat Dey - Naihati - Amit Gupta - Bhatpara - Somenath Shyam Ichini - Jagatdal - Trinankur Bhattacharya - Noapara - Raju Chakrabarty (Raj) - Barrackpore - Devdeep Purohit - Khardaha - Chandrim Bhattacharya - Dum Dum Uttar - Tirthankar Ghosh (Puchi) - Panihati - Madan Mitra - Kamarhati - Sayantika Banerjee - Baranagar - Bratya Basu - Dum Dum - Tapash Chatterjee - Rajarhat Newtown - Sujit Bose - Bidhannagar - Aditi Munshi - Rajarhat Gopalpur - Rathin Ghosh - Madhyamgram - Sabyasachi Dutta - Barasat - Anisur Rahaman (Bidesh) - Deganga - Md. Mufti Abdul Matin (Matin Saheb) - Haroa - Usha Rani Mondal - Minakhan (SC) - Jharnna Sardar - Sandeshkhali (ST) - Surajit Mitra (Badal) - Basirhat Dakshin - Md Tauseef Rehman - Basirhat Uttar - Ananda Sarkar - Hingalganj (SC) - Subrata Mondal - Gosaba (SC) - Nilima Bishal Mistry - Basanti (SC) - Ganesh Chandra Mondal - Kultali (SC) - Samir Kumar Jana - Patharpratima - Manturam Pakhira - Kakdwip - Bankim Chandra Hazra - Sagar - Barnali Dhara - Kulpi - Tapas Mondal - Raidighi - Joydeb Halder - Mandirbazar (SC) - Biswanath Das - Jaynagar (SC) - Bivas Sardar - Baruipur Purba (SC) - Paresh Ram Das - Canning Paschim (SC) - Md. Baharul Islam - Canning Purba - Biman Banerjee - Baruipur Paschim - Sharmistha Purkait - Magrahat Purba (SC) - Shamim Ahmed - Magrahat Paschim - Pannalal Halder - Diamond Harbour - Jahangir Khan - Falta - Somashree Betal - Satgachia - Dilip Mondal - Bishnupur (SC) - Arundhuti Maitra (Lovely) - Sonarpur Dakshin - Saokat Molla - Bhangar - Javed Ahmed Khan - Kasba - Debabrata Majumdar - Jadavpur - Firdousi Begum - Sonarpur Uttar - Aroop Biswas - Tollyganj - Subhasish Chakraborty - Behala Purba - Ratna Chatterjee - Behala Paschim - Subhasis Das - Maheshtala - Ashok Kumar Deb - Budge Budge - Abdul Khaleque Molla - Metiabruz - Firhad Hakim - Kolkata Port - Mamata Banerjee - Bhowanipur - Debasish Kumar - Rashbehari - Sovandeb Chattopadhyay - Ballygunge - Nayna Bandopadhyay - Chowrangee - Sandipan Saha - Entally - Kunal Ghosh - Beleghata - Vijay Upadhyay - Jorasanko - Dr. Shashi Panja - Shyampukur - Shreya Pandey - Maniktala - Atin Ghosh - Kashipur Belgachhia - Kailash Mishra - Bally - Goutam Chowdhury - Howrah Uttar - Arup Roy - Howrah Madhya - Dr Rana Chatterjee - Shibpur - Nandita Choudhary - Howrah Dakshin - Priya Paul - Sankrail (SC) - Gulshan Mullick - Panchla - Ritabrata Banerjee - Uluberia Purba - Bimal Kumar Das - Uluberia Uttar (SC) - Pulak Roy - Uluberia Dakshin - Nadebasi Jana - Shyampur - Arunava Sen - Bagnan - Sukanta Paul - Amta - Samir Kumar Panja - Udaynarayanpur - Subir Chatterjee - Jagatballavpur - Tapas Maity - Domjur - Sirsanya Bandopadhyay - Uttarpara - Tanmoy Ghosh - Sreerampur - Arindam Guin - Champdani - Becharam Manna - Singur - Indranil Sen - Chandannagar - Debangshu Bhattacharya - Chunchura - Ranjan Dhara - Balagarh (SC) - Samir Chakraborty (Bua) - Pandua - Bidesh Bose - Saptagram - Swati Khandoker - Chanditala - Snehasis Chakraborty - Jangipara - Dr. Karabi Manna - Haripal - Asima Patra - Dhanekhali (SC) - Ramendu Singha Roy - Tarakeswar - Partha Hazari - Pursura - Mita Bag - Arambag (SC) - Dr. Nirmal Maji - Goghat (SC) - Palash Roy - Khanakul - Dipendra Narayan Roy - Tamluk - Asim Kumar Maji - Panskura Purba - Siraj Khan - Panskura Paschim - Chandan Mondal - Moyna - Sukumar Dey - Nandakumar - Tilak Kumar Chakraborty - Mahisadal - Tapasi Mandal - Haldia (SC) - Pabitra Kar - Nandigram - Uttam Barik - Chandipur - Pijus Kanti Panda - Patashpur - Debasis Bhunia (Lalu) - Kanthi Uttar - Manab Kumar Porua - Bhagabanpur - Rabin Chandra Mandal - Khejuri (SC) - Tarun Kr Jana - Kanthi Dakshin - Akhil Giri - Ramnagar - Tarun Maity - Egra - Manik Maity - Dantan - Dulal Murmu - Nayagram (ST) - Ajit Mahata - Gopiballavpur - Mangal Soren - Jhargram - Ramjiban Mandi - Keshiyari (ST) - Pradip Sarkar - Kharagpur Sadar - Pratibha Rani Maity - Narayangarh - Manas Ranjan Bhunia - Sabang - Ajit Maity - Pingla - Dinen Roy - Kharagpur - Rajib Banerjee - Debra - Asis Haldait - Daspur - Shyamal Sardar - Ghatal (SC) - Surjya Kanta Doloi - Chandrakona (SC) - Uttara Singha (Hazra) - Garbeta - Srikanta Mahata - Salboni - Seuli Saha - Keshpur (SC) - Sujoy Hazra - Medinipur - Birbaha Hansda - Binpur (ST) - Rajib Lochan Saren - Bandwan (ST) - Shantiram Mahato - Balarampur - Sushanta Mahato - Baghmundi - Arjun Mahato - Joypur - Sujoy Banerjee - Purulia - Sandhya Rani Tudu - Manbazar (ST) - Soumen Beltharia - Kashipur - Manik Bauri - Para (SC) - Hazari Bauri - Raghunathpur (SC) - Uttam Bauri - Saltora (SC) - Swapan Kumar Mandal - Chhatna - Dr. Tanushree Hansda - Ranibandh (ST) - Thakur Moni Soren - Raipur (ST) - Falguni Singhababu - Taldangra - Dr. Anup Mondal - Bankura - Goutam Mishra (Shyam) - Barjora - Subrata Dutta (Gope) - Onda - Tanmoy Ghosh - Bishnupur - Harakali Pratihar - Katulpur (SC) - Shyamali Roy Bagdi - Indas (SC) - Dr Kallol Saha - Sonamukhi (SC) - Nabin Chandra Bag - Khandaghosh (SC) - Khokon Das - Bardhaman Dakshin - Mandira Dalui - Raina (SC) - Bhootnath Mallick - Jamalpur (SC) - Siddiqullah Chowdhury - Monteswar - Deboprasad Bag - Kalna (SC) - Rashbihari Halder - Memari - Nisith Kumar Malik - Bardhaman Uttar (SC) - Shantanu Koner - Bhatar - Swapan Debnath - Purbasthali Dakshin - Vasundhara Goswami - Purbasthali Uttar - Rabindranath Chatterjee - Katwa - Sekh Sahanowez - Ketugram - Apurba Chowdhury (Achal) - Mangalkot - Shyamaprasanna Lohar - Ausgram (SC) - Alok Kumar Majhi - Galsi (SC) - Narendranath Chakraborty - Pandabeswar - Pradip Mazumdar - Durgapur Purba - Kavi Dutta - Durgapur Paschim - Kalobaram Mondal - Raniganj - Hareram Singh - Jamuria - Tapas Banerjee - Asansol Dakshin - Moloy Ghatak - Asansol Uttar - Abhijit Ghatak - Kulti - Bidhan Upadhyay - Barabani - Chandra Naresh Bauri - Dubrajpur (SC) - Ujjal Chatterjee - Suri - Chandranath Sinha - Bolpur - Bidhan Chandra Majhi - Nanoor (SC) - Abhijit Sinha (Rana) - Labpur - Nilabati Saha - Sainthia (SC) - Abhijit Roy - Mayureswar - Asish Banerjee - Rampurhat - Fayezul Haque (Kajal Sk) - Hansan - Rajendra Prasad Singh - Nalhati - Mosarraf Hossain - Murarai (With PTI and ANI inputs) Published - March 17, 2026 06:49 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing."
+      },
+      {
+        "id": "promise_1780521517_7",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised that Siddipet would be represented by a Congress MLA in the next Assembly elections.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780522746_8",
+        "person": "Nayab Singh Saini",
+        "party": "",
+        "promise": "Nayab Singh Saini aims to attract Rs 5 lakh crore in investments to Haryana.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "kept": [
@@ -1997,7 +2134,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -2097,7 +2234,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
       },
       {
         "id": "p007",
@@ -2181,7 +2318,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
+        "gemma_reasoning": "National UCC implementation is not yet completed."
       },
       {
         "id": "p010",
@@ -2256,7 +2393,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p020",
@@ -2553,7 +2690,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780370419_2",
@@ -2578,7 +2715,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
+        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
       },
       {
         "id": "promise_1780383641_1",
@@ -2886,6 +3023,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780513564_0",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Launched the 'Nivesh Mitra 3.0' single-window system to further attract investments and distribute incentives.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Mamata Banerjee": [
@@ -2937,7 +3088,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The BJP government is in power and actively implementing policies."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       },
       {
         "id": "promise_1780332240_0",
@@ -3019,6 +3170,31 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780520118_6",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "The TMC will contest 291 seats in the upcoming West Bengal assembly elections.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-assembly-elections-2026-full-list-of-tmc-candidates-contesting-in-west-bengal/article70753654.ece",
+            "title": "Full list of TMC candidates contesting in West Bengal - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-03-23 08:10:16.243269",
+            "relevance_score": 87,
+            "gemma_validated": true,
+            "rephrased": "The Trinamool Congress (TMC) announced its list of candidates for the upcoming West Bengal assembly elections, with party supremo Mamata Banerjee stating that the party will contest 291 seats. The rem",
+            "content": "The ruling TMC (Trinamool Congress) on Tuesday (March 17, 2026) announced its list of candidates for the upcoming West Bengal assembly elections, with party supremo and Chief Minister Mamata Banerjee declaring that the party will contest 291 of the 294 seats in the State. Addressing a press conference, Ms. Banerjee said “We will contest 291 of the 294 seats. The remaining three seats will be contested by our ally, Anit Thapa-led BGPM, in the Darjeeling hills.” The West Bengal Chief Minister was announcing the names of candidates, flanked by the party’s National General Secretary Abhishek Banerjee and State President Subrata Bakshi. Here are the list of candidates and their respective constituencies: - Paresh Chandra Adhikary - Mekliganj (SC) - Sablu Barman - Mathabhanga (SC) - Partha Pratim Roy - Coochbehar Uttar (SC) - Avijit De Bhowmick (Hippy) - Coochbehar Dakshin - Harihar Das - Sitalkuchi (SC) - Sangita Roy Basunia - Sitai (SC) - Udayan Guha - Dinhata - Sailen Barma - Natabari - Shib Sankar Paul - Tufanganj - Rajeev Tirkey - Kumargram (ST) - Birendra Bara - Kalchini (ST) - Suman Kanjilal - Alipurduar - Subhash Chandra Roy - Falakata (SC) - Jayprakash Toppo - Madarihat (ST) - Dr Nirmal Chandra Roy - Dhupguri (SC) - Ram Mohan Roy - Maynaguri (SC) - Krishna Das - Jalpaiguri (SC) - Swapna Barman - Rajganj (SC) - Ranjan Shil Sharma - Dabgram-Phulbari - Bulu Chik Baraik - Mal (ST) - Sanjay Kujur - Nagrakata (ST) - ******** - Kalimpong - ******** - Darjeeling - ******** - Kurseong - Sankar Malakar - Matigara-Naxalbari (SC) - Goutam Deb - Siliguri - Reena Toppo Ekka - Phansidewa (ST) - Hamidul Rahaman - Chopra - Kanaia Lal Aggarwal - Islampur - Md. Ghulam Rabbani - Goalpokhar - Minhajul Arfin Azad - Chakulia - Gautam Paul - Karandighi - Satyajit Barman - Hemtabad (SC) - Nitai Baishya - Kaliaganj (SC) - Krishna Kalyani - Raiganj - Mosaraf Hussain - Itahar - Rekha Roy - Kushmandi (SC) - Toraf Hossain Mondal - Kumarganj - Arpita Ghosh - Balurghat - Chintamoni Biha - Tapan (ST) - Goutam Das - Gangarampur (SC) - Biplab Mitra - Harirampur - Amal Kisku - Habibpur (ST) - Prasenjit Das - Gazole (SC) - Prasun Banerjee - Chanchal - Md. Matebur Rahman - Harishchandrapur - Abdur Rahim Boxi - Malatipur - Samar Mukherjee - Ratua - Kabita Mandal - Manikchak - Lipika Barman Ghosh - Maldah (SC) - Asis Kundu - English Bazar - Md. Najrul Islam - Mothabari - Sabina Yeasmin - Sujapur - Chandana Sarkar - Baisnabnagar - Amirul Islam - Farakka - Nur Alam - Samsherganj - Emani Biswas - Suti - Jakir Hossain - Jangipur - Janab Akhruzzaman - Raghunathganj - Bayron Biswas - Sagardighi - Dr. Abdul Aziz - Lalgola - Reyaz Hussain Sarkar - Bhagawangola - Soumik Hussain - Raninagar - Shaoni Singha Roy - Murshidabad - Pranab Chandra Das - Nabagram (SC) - Ashish Marjit - Khargram (SC) - Pratima Rajak - Burwan (SC) - Apurba Sarkar (David) - Kandi - Mustafizur Rahaman (Sumon) - Bharatpur - Ataur Rahman - Rejinagar - Rabiul Alam Chowdhury - Beldanga - Naru Gopal Mukherjee - Baharamour - Niamot Sheikh - Hariharpara - Shahina Mumtaz - Naoda - Humayun Kabir (Ex IPS) - Domkal - Babar Ali - Jalangi - Soham Chakraborty - Karimpur - Dilip Poddar - Tehatta - Rukbanur Rahman - Palashipara - Alifa Ahmed - Kaliganj - Kallol Kha - Nakashipara - Jeber Sekh - Chapra - Avinabha Bhattacharya - Krishnanagar Uttar - Pundarikakshya Saha - Nabadwip - Ujjwal Biswas - Krishnanagar Dakshin - Braja Kishore Goswami - Santipur - Tapas Ghosh - Ranaghat Uttar Paschim - Samir Kumar Poddar - Krishnaganj (SC) - Barnali Dey Roy - Ranaghat Uttar Purba (SC) - Dr. Sougata Kumar Burman - Ranaghat Dakshin (SC) - Subhankar Singha (Jishu) - Chakdaha - Dr. Atindra Nath Mondal - Kalyani (SC) - Dr. Rajib Biswas - Haringhata (SC) - Madhupurna Thakur - Bagda (SC) - Biswajit Das - Bangaon Uttar (SC) - Rituparna Addhya - Bangaon Dakshin (SC) - Narottam Biswas - Gaighata (SC) - Bina Mondal - Swarupnagar (SC) - Burhanul Mokaddin (Liton) - Baduria - Jyotipriya Mallick (Balu) - Habra - Narayan Goswami - Ashoknagar - Peerzada Kasem Siddiqui - Amdanga - Subodh Adhikary - Bijpur - Sanat Dey - Naihati - Amit Gupta - Bhatpara - Somenath Shyam Ichini - Jagatdal - Trinankur Bhattacharya - Noapara - Raju Chakrabarty (Raj) - Barrackpore - Devdeep Purohit - Khardaha - Chandrim Bhattacharya - Dum Dum Uttar - Tirthankar Ghosh (Puchi) - Panihati - Madan Mitra - Kamarhati - Sayantika Banerjee - Baranagar - Bratya Basu - Dum Dum - Tapash Chatterjee - Rajarhat Newtown - Sujit Bose - Bidhannagar - Aditi Munshi - Rajarhat Gopalpur - Rathin Ghosh - Madhyamgram - Sabyasachi Dutta - Barasat - Anisur Rahaman (Bidesh) - Deganga - Md. Mufti Abdul Matin (Matin Saheb) - Haroa - Usha Rani Mondal - Minakhan (SC) - Jharnna Sardar - Sandeshkhali (ST) - Surajit Mitra (Badal) - Basirhat Dakshin - Md Tauseef Rehman - Basirhat Uttar - Ananda Sarkar - Hingalganj (SC) - Subrata Mondal - Gosaba (SC) - Nilima Bishal Mistry - Basanti (SC) - Ganesh Chandra Mondal - Kultali (SC) - Samir Kumar Jana - Patharpratima - Manturam Pakhira - Kakdwip - Bankim Chandra Hazra - Sagar - Barnali Dhara - Kulpi - Tapas Mondal - Raidighi - Joydeb Halder - Mandirbazar (SC) - Biswanath Das - Jaynagar (SC) - Bivas Sardar - Baruipur Purba (SC) - Paresh Ram Das - Canning Paschim (SC) - Md. Baharul Islam - Canning Purba - Biman Banerjee - Baruipur Paschim - Sharmistha Purkait - Magrahat Purba (SC) - Shamim Ahmed - Magrahat Paschim - Pannalal Halder - Diamond Harbour - Jahangir Khan - Falta - Somashree Betal - Satgachia - Dilip Mondal - Bishnupur (SC) - Arundhuti Maitra (Lovely) - Sonarpur Dakshin - Saokat Molla - Bhangar - Javed Ahmed Khan - Kasba - Debabrata Majumdar - Jadavpur - Firdousi Begum - Sonarpur Uttar - Aroop Biswas - Tollyganj - Subhasish Chakraborty - Behala Purba - Ratna Chatterjee - Behala Paschim - Subhasis Das - Maheshtala - Ashok Kumar Deb - Budge Budge - Abdul Khaleque Molla - Metiabruz - Firhad Hakim - Kolkata Port - Mamata Banerjee - Bhowanipur - Debasish Kumar - Rashbehari - Sovandeb Chattopadhyay - Ballygunge - Nayna Bandopadhyay - Chowrangee - Sandipan Saha - Entally - Kunal Ghosh - Beleghata - Vijay Upadhyay - Jorasanko - Dr. Shashi Panja - Shyampukur - Shreya Pandey - Maniktala - Atin Ghosh - Kashipur Belgachhia - Kailash Mishra - Bally - Goutam Chowdhury - Howrah Uttar - Arup Roy - Howrah Madhya - Dr Rana Chatterjee - Shibpur - Nandita Choudhary - Howrah Dakshin - Priya Paul - Sankrail (SC) - Gulshan Mullick - Panchla - Ritabrata Banerjee - Uluberia Purba - Bimal Kumar Das - Uluberia Uttar (SC) - Pulak Roy - Uluberia Dakshin - Nadebasi Jana - Shyampur - Arunava Sen - Bagnan - Sukanta Paul - Amta - Samir Kumar Panja - Udaynarayanpur - Subir Chatterjee - Jagatballavpur - Tapas Maity - Domjur - Sirsanya Bandopadhyay - Uttarpara - Tanmoy Ghosh - Sreerampur - Arindam Guin - Champdani - Becharam Manna - Singur - Indranil Sen - Chandannagar - Debangshu Bhattacharya - Chunchura - Ranjan Dhara - Balagarh (SC) - Samir Chakraborty (Bua) - Pandua - Bidesh Bose - Saptagram - Swati Khandoker - Chanditala - Snehasis Chakraborty - Jangipara - Dr. Karabi Manna - Haripal - Asima Patra - Dhanekhali (SC) - Ramendu Singha Roy - Tarakeswar - Partha Hazari - Pursura - Mita Bag - Arambag (SC) - Dr. Nirmal Maji - Goghat (SC) - Palash Roy - Khanakul - Dipendra Narayan Roy - Tamluk - Asim Kumar Maji - Panskura Purba - Siraj Khan - Panskura Paschim - Chandan Mondal - Moyna - Sukumar Dey - Nandakumar - Tilak Kumar Chakraborty - Mahisadal - Tapasi Mandal - Haldia (SC) - Pabitra Kar - Nandigram - Uttam Barik - Chandipur - Pijus Kanti Panda - Patashpur - Debasis Bhunia (Lalu) - Kanthi Uttar - Manab Kumar Porua - Bhagabanpur - Rabin Chandra Mandal - Khejuri (SC) - Tarun Kr Jana - Kanthi Dakshin - Akhil Giri - Ramnagar - Tarun Maity - Egra - Manik Maity - Dantan - Dulal Murmu - Nayagram (ST) - Ajit Mahata - Gopiballavpur - Mangal Soren - Jhargram - Ramjiban Mandi - Keshiyari (ST) - Pradip Sarkar - Kharagpur Sadar - Pratibha Rani Maity - Narayangarh - Manas Ranjan Bhunia - Sabang - Ajit Maity - Pingla - Dinen Roy - Kharagpur - Rajib Banerjee - Debra - Asis Haldait - Daspur - Shyamal Sardar - Ghatal (SC) - Surjya Kanta Doloi - Chandrakona (SC) - Uttara Singha (Hazra) - Garbeta - Srikanta Mahata - Salboni - Seuli Saha - Keshpur (SC) - Sujoy Hazra - Medinipur - Birbaha Hansda - Binpur (ST) - Rajib Lochan Saren - Bandwan (ST) - Shantiram Mahato - Balarampur - Sushanta Mahato - Baghmundi - Arjun Mahato - Joypur - Sujoy Banerjee - Purulia - Sandhya Rani Tudu - Manbazar (ST) - Soumen Beltharia - Kashipur - Manik Bauri - Para (SC) - Hazari Bauri - Raghunathpur (SC) - Uttam Bauri - Saltora (SC) - Swapan Kumar Mandal - Chhatna - Dr. Tanushree Hansda - Ranibandh (ST) - Thakur Moni Soren - Raipur (ST) - Falguni Singhababu - Taldangra - Dr. Anup Mondal - Bankura - Goutam Mishra (Shyam) - Barjora - Subrata Dutta (Gope) - Onda - Tanmoy Ghosh - Bishnupur - Harakali Pratihar - Katulpur (SC) - Shyamali Roy Bagdi - Indas (SC) - Dr Kallol Saha - Sonamukhi (SC) - Nabin Chandra Bag - Khandaghosh (SC) - Khokon Das - Bardhaman Dakshin - Mandira Dalui - Raina (SC) - Bhootnath Mallick - Jamalpur (SC) - Siddiqullah Chowdhury - Monteswar - Deboprasad Bag - Kalna (SC) - Rashbihari Halder - Memari - Nisith Kumar Malik - Bardhaman Uttar (SC) - Shantanu Koner - Bhatar - Swapan Debnath - Purbasthali Dakshin - Vasundhara Goswami - Purbasthali Uttar - Rabindranath Chatterjee - Katwa - Sekh Sahanowez - Ketugram - Apurba Chowdhury (Achal) - Mangalkot - Shyamaprasanna Lohar - Ausgram (SC) - Alok Kumar Majhi - Galsi (SC) - Narendranath Chakraborty - Pandabeswar - Pradip Mazumdar - Durgapur Purba - Kavi Dutta - Durgapur Paschim - Kalobaram Mondal - Raniganj - Hareram Singh - Jamuria - Tapas Banerjee - Asansol Dakshin - Moloy Ghatak - Asansol Uttar - Abhijit Ghatak - Kulti - Bidhan Upadhyay - Barabani - Chandra Naresh Bauri - Dubrajpur (SC) - Ujjal Chatterjee - Suri - Chandranath Sinha - Bolpur - Bidhan Chandra Majhi - Nanoor (SC) - Abhijit Sinha (Rana) - Labpur - Nilabati Saha - Sainthia (SC) - Abhijit Roy - Mayureswar - Asish Banerjee - Rampurhat - Fayezul Haque (Kajal Sk) - Hansan - Rajendra Prasad Singh - Nalhati - Mosarraf Hossain - Murarai (With PTI and ANI inputs) Published - March 17, 2026 06:49 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing."
       }
     ],
     "Revanth Reddy": [
@@ -3277,6 +3453,62 @@
         "party": "",
         "promise": "Revanth Reddy plans to build religious structures along the Musi River as part of the Musi Riverfront Development Project.",
         "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780516546_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised the relocation and rehabilitation of all displaced individuals affected by the Musi Rejuvenation Project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780518790_4",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Telangana Cabinet authorized the takeover of the existing Hyderabad Metro system.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780519819_5",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to construct an underground traffic tunnel beneath the runway of Begumpet Airport in Hyderabad.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780521517_7",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised that Siddipet would be represented by a Congress MLA in the next Assembly elections.",
+        "category": "politics",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -3660,6 +3892,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780518024_2",
+        "person": "Ashwini Vaishnaw",
+        "party": "",
+        "promise": "Ashwini Vaishnaw launched the National AI Skilling Initiative in partnership with Google and YouTube through the Indian Institute of Creative Technologies (IICT).",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Devendra Fadnavis": [
@@ -3922,6 +4168,38 @@
         "gemma_suggestion": null,
         "gemma_reasoning": null
       }
+    ],
+    "Thol. Thirumavalavan": [
+      {
+        "id": "promise_1780518479_3",
+        "person": "Thol. Thirumavalavan",
+        "party": "",
+        "promise": "The VCK demands two-digit Assembly seats in the 2026 election.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "Nayab Singh Saini": [
+      {
+        "id": "promise_1780522746_8",
+        "person": "Nayab Singh Saini",
+        "party": "",
+        "promise": "Nayab Singh Saini aims to attract Rs 5 lakh crore in investments to Haryana.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
     ]
   },
   "by_party": {
@@ -3974,7 +4252,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -4074,7 +4352,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
       },
       {
         "id": "p007",
@@ -4158,7 +4436,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
+        "gemma_reasoning": "National UCC implementation is not yet completed."
       },
       {
         "id": "p010",
@@ -4233,7 +4511,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2023 passed, project delayed to 2027-2028."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p013",

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-03 16:03:59.774561",
+  "generated_at": "2026-06-03 23:17:22.418412",
   "state": "Haryana",
   "capital": "Chandigarh",
   "ruling_party": "BJP",
   "cm": "Nayab Singh Saini",
   "region": "North",
-  "cm_confidence": null,
+  "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 154,
-    "articles_last_30d": 72
+    "total_articles": 158,
+    "articles_last_30d": 74
   },
   "top_cities_30d": {
-    "Delhi": 40,
+    "Delhi": 42,
     "Ludhiana": 6,
     "Amritsar": 4,
     "Coimbatore": 4,
@@ -21,21 +21,80 @@
     "Faridabad": 3,
     "Mumbai": 3,
     "Hyderabad": 3,
-    "Jaipur": 2
+    "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 56,
+    "foreign_policy": 57,
     "education": 30,
     "economy": 17,
     "crime_violence": 16,
     "protest_opposition": 14,
-    "infrastructure": 11,
+    "infrastructure": 12,
     "farmer_agriculture": 10,
     "rape_sexual_crime": 5,
     "corruption_scam": 5,
-    "health": 4
+    "health": 5
   },
   "recent_articles": [
+    {
+      "id": 65020,
+      "title": "Cabinet Okays Rs 9,585 Crore Scheme To Replace Old Trucks, Buses In Delhi-NCR",
+      "url": "https://www.ndtv.com/india-news/cabinet-okays-rs-9-585-crore-scheme-to-replace-old-trucks-buses-in-delhi-ncr-11585828#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/cj5mjdig_delhincr-green-scheme-_625x300_03_June_26.jpeg",
+      "scraped_at": "2026-06-03 19:10:19.946852",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Union Cabinet**, led by Prime Minister Narendra Modi, approved a two-year scheme to reduce air pollution in the Delhi-NCR region with a total financial outlay of Rs 9,585 crore. The scheme aims to incentivize truck and bus owners to switch to BS-VI or electric vehicles, while also offering tax concessions for new and used vehicles. **The National Capital Region Planning Board (NCRPB)** will implement this initiative in collaboration with participating states and Union Territories of Delhi, Haryana, Rajasthan, and Uttar Pradesh.  The scheme is expected to benefit approximately 2.07 lakh vehicle owners by providing financial support, fuel vouchers, and tax benefits for switching to cleaner transportation options.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64958,
+      "title": "Adani Foundation, Anushkaa Foundation Partner To Help Children With Clubfoot In 5 States",
+      "url": "https://www.ndtv.com/india-news/adani-foundation-anushkaa-foundation-partner-to-help-children-with-clubfoot-in-5-states-11586130#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/mh7cp9nc_adani-foundationanushkaa-foundation_625x300_03_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 15:22:24.356822",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Adani Foundation",
+      "rephrased_article": "**The Adani Foundation** and **the Anushkaa Foundation** announced a three-year partnership to address clubfoot in five states. The initiative, launched on World Clubfoot Day, aims to treat over 10,000 children through public healthcare systems.  The program will support 67 clinics and 51 healthcare professionals across the states of Madhya Pradesh, Haryana, Uttar Pradesh, Maharashtra, and Himachal Pradesh. **Dr Priti Adani**, Chairperson of the **Adani Foundation**, emphasized the importance of early intervention for clubfoot. **Deepak Premnarayen**, Founder of the **Anushkaa Foundation**, highlighted the collaboration's goal to expand access to quality treatment and strengthen systems for early diagnosis.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 64775,
       "title": "Supreme Court appoints high-powered panel to review Aravalli definition report | Legal News - The Indian Express",
@@ -4730,6 +4789,61 @@
       "cities_mentioned": [],
       "topic_tags": [
         "corruption_scam"
+      ]
+    },
+    {
+      "id": 41590,
+      "title": "LPG crunch puts strain on mid-day meals for children at schools across India - The Hindu",
+      "url": "https://www.thehindu.com/news/national/lpg-crunch-puts-strain-on-mid-day-meals-for-children-at-schools-across-india/article70744009.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/aaug2h/article70744407.ece/alternates/LANDSCAPE_1200/20260314389L.jpg",
+      "scraped_at": "2026-03-14 17:33:26.236641",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "## Schools Scramble for Alternatives as LPG Shortage Hits Mid-Day Meal Programs\n\nAcross India, schools are facing a growing crisis due to the ongoing shortage of liquefied petroleum gas (LPG) used in mid-day meal programs.  While some rural areas rely on firewood and local stoves, many schools, especially those in urban centers, have been forced to cut back on their menus due to limited LPG supply. This has raised concerns about the nutritional quality of meals provided to children. \n\nDespite official restrictions only on commercial LPG supplies, school authorities are struggling to secure enough cylinders for their programs. The situation is particularly acute during exam seasons when student attendance drops and schools may close soon after exams.  In some states like Bihar, schools have switched to traditional earthen stoves using firewood and coal as a temporary solution while others rely on local resources or community kitchens.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Haryana",
+        "Karnataka",
+        "Odisha",
+        "Telangana",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Chennai",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 41491,
+      "title": "Gang rivalry in Kollam: key accused in Gym Santhosh murder hacked to death - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/gang-rivalry-in-kollam-key-accused-in-gym-santhosh-murder-hacked-to-death/article70743792.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-14 14:58:32.362102",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Atul",
+      "rephrased_article": "## Gang Leader Hacked to Death in Public Attack\n\nA notorious gang leader, Atul (known as Aluva Atul), was brutally murdered on Saturday morning near Karunagappally. The attack occurred around 11 am when a four-member gang intercepted Atul's car while he was returning from the police station after being released on bail.  The assailants rammed Atul's vehicle, forcing it into a ditch and then attacked him with weapons, inflicting multiple deep wounds. Despite attempts to save his life at a private hospital, Atul succumbed to his injuries. His companion, Manu, who was driving, sustained injuries but managed to escape the scene. Police have recovered CCTV footage of the attack and suspect this incident is a retaliatory strike following Atul's involvement in the murder of rival gang leader Gym Santhosh last year.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     }
   ]
