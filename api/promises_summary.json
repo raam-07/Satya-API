@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-02 22:14:54.542042",
+  "generated_at": "2026-06-03 16:04:00.325478",
   "stats": {
-    "total_promises": 97,
+    "total_promises": 113,
     "kept": 2,
     "broken": 12,
-    "ongoing": 81
+    "ongoing": 97
   },
   "by_status": {
     "broken": [
@@ -81,7 +81,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "No black money repatriation happened, and the promise was called a 'jumla'."
+        "gemma_reasoning": "No black money repatriation happened, and the Rs 15 lakh promise was called a 'jumla'."
       },
       {
         "id": "p004",
@@ -131,7 +131,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and schemes."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -342,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "UCC implementation is ongoing at the state level and nationally."
+        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
       },
       {
         "id": "p010",
@@ -367,7 +367,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p013",
@@ -392,7 +392,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "p019",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       },
       {
         "id": "p020",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "The BJP government is in power and actively implementing policies."
       },
       {
         "id": "promise_1780208617_8",
@@ -1087,7 +1087,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is currently touring border areas and planning the 'Smart Border Concept'."
+        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780361059_5",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
       },
       {
         "id": "promise_1780373808_3",
@@ -1235,7 +1235,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
+        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
       },
       {
         "id": "promise_1780376713_4",
@@ -1302,7 +1302,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Congress is still in power and has not missed the 2029 deadline."
+        "gemma_reasoning": "The Congress is still in power and has stated plans to implement the law."
       },
       {
         "id": "promise_1780383641_1",
@@ -1583,6 +1583,263 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780428926_0",
+        "person": "Himanta Biswa Sarma",
+        "party": "",
+        "promise": "Promised to deliver justice for singer Zubeen Garg's death within 100 days if the Congress wins.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780430117_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to build a swimming pool at S",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780432651_2",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah agreed in principle to raising an all-woman police battalion for Manipur.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/manipur/amit-shah-asks-manipur-cm-to-accelerate-peace-process-approves-formation-of-all-woman-police-battalion/article70812785.ece",
+            "title": "Amit Shah asks Manipur CM to accelerate peace process, approves formation of all-woman police battalion - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-04-01 17:58:00.019839",
+            "relevance_score": 72,
+            "gemma_validated": true,
+            "rephrased": "**Union Home Minister Amit Shah** met with **Manipur Chief Minister Yumnam Khemchand Singh** on Wednesday to discuss the ongoing peace process in the state.  Shah asked Mr. Singh to accelerate the pea",
+            "content": "Union Home Minister Amit Shah on Wednesday (April 1, 2026) asked Manipur Chief Minister Yumnam Khemchand Singh to accelerate the ongoing peace process in the State and approved the creation of an all-woman police battalion, according to a Manipur Government statement. Mr. Singh called on the Home Minister at Parliament House complex, where the two leaders discussed the law and order situation in the State. During the meeting, Mr. Shah asked the Chief Minister to accelerate the peace process and consolidate the growing bonhomie among different communities, the statement said. “Reviewing the prevailing security scenario in Manipur with the Chief Minister, Mr. Shah agreed in principle to raising a Mahila India Reserve Battalion (IRB) for the State and asked Mr. Singh to send the proposal,” the statement said. Ethnic violence between the Meitei and Kuki-Zo communities erupted in the State on May 3, 2023, which has claimed around 250 lives so far. The State was placed under President’s Rule on February 13, 2024, and Mr. Singh assumed the office as Chief Minister on February 4 this year. Meanwhile, the burial of Vungzagin Valte, a BJP MLA from Manipur who was assaulted by a mob in Imphal on May 4, 2023 and passed away at a hospital in Haryana’s Gurugram on February 21, is yet to take place. His body is being preserved at the morgue of Churachandpur district hospital. Family members and Zomi community leaders have put forth certain conditions before the last rites are performed. To press for their demands—including a probe by the National Investigation Agency (NIA) into the assault and a political solution—the Zomi Coordination Committee (ZCC) was formed. On March 31, the ZCC said that the month-long Zomi National Mourning, observed in honour of the MLA, has concluded, and in the absence of a meaningful response from the authorities concerned on the issues of justice and accountability, democratic agitations would begin across Zomi areas in a phased and coordinated manner with immediate effect. Published - April 01, 2026 11:17 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+      },
+      {
+        "id": "promise_1780436701_3",
+        "person": "V.D. Satheesan",
+        "party": "",
+        "promise": "V.D. Satheesan promised to resign from politics if the UDF does not win the upcoming Kerala elections.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780442427_0",
+        "person": "Rahul Gandhi",
+        "party": "",
+        "promise": "Rahul Gandhi promised to raise the rubber price to ₹250 per kg as the first decision of the new government.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780443681_1",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Modi promised a 'Viksit Kerala' under an NDA government, emphasizing faster development and curbing youth migration.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780443870_2",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah set a deadline for eradicating Left Wing Extremism.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780444756_3",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "TVK will provide collateral-free education loans to youth.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780446424_4",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "The BJP will introduce the Uniform Civil Code in Assam if re-elected for a third consecutive term.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/assam-assembly/amit-shah-promises-ucc-in-assam/article70799693.ece",
+            "title": "Amit Shah promises UCC in Assam - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-03-29 16:43:09.012278",
+            "relevance_score": 72,
+            "gemma_validated": true,
+            "rephrased": "**Amit Shah**, Union Home Minister, stated that the **BJP** would introduce the Uniform Civil Code (UCC) in Assam if re-elected for a third consecutive term. The proposed UCC includes a provision to b",
+            "content": "Union Home Minister Amit Shah on Sunday (March 29, 2026) said the Uniform Civil Code (UCC) would be introduced in Assam if the Bharatiya Janata Party (BJP) forms the government for the third straight term. Addressing a rally in western Assam’s Tihu, he said the UCC would have a provision to ban polygamy. “The move is aimed at bringing uniformity in civil laws and strengthening social reforms in Assam,” he said. Uttarakhand was the first State to pass and implement the UCC in the first half of 2025. Gujarat passed a Bill in March to implement the UCC. The Himanta Biswa Sarma-led Assam government had earlier passed the Assam Prohibition of Polygamy Bill in November 2025, seeking to criminalise the practice of having more than one spouse simultaneously, irrespective of religion. The legislation was seen as a step towards implementing the UCC in the State. Published - March 29, 2026 07:42 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The BJP is currently in power and Amit Shah has stated the UCC will be introduced if re-elected."
+      },
+      {
+        "id": "promise_1780446983_5",
+        "person": "M.K. Stalin",
+        "party": "",
+        "promise": "M.K. Stalin will provide non-income tax assessee housewives with an ₹8,000 coupon to purchase household appliances.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
+            "title": "Stalin promises ₹8,000 coupon to housewives to buy household appliances - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-03-29 14:10:10.469164",
+            "relevance_score": 80,
+            "gemma_validated": true,
+            "rephrased": "**M.K. Stalin**, DMK president and Tamil Nadu Chief Minister, unveiled a new manifesto for the upcoming Assembly elections, promising various welfare schemes. The \"Illatharasi Scheme\" will provide non",
+            "content": "Releasing what he described as a “Superstar” manifesto for the Tamil Nadu Assembly elections on Sunday (March 29, 2026), DMK President and Chief Minister M.K. Stalin announced the Illatharasi Scheme under which all non-income tax assessee housewives will be given a coupon valued at ₹8,000 to purchase or replace household electronic appliances. They can choose from a range of appliances including a washing machine, a TV, a grinder, a fridge, mixies microwave oven and an induction stove. Follow updates for the Assembly elections 2026 “The DMK’s election manifesto has always been a hero. The manifesto is also the heroine of the election. Now the manifesto will enter the fray as a superstar,” he said, adding the coupon would be the better way to serve homemakers. “Otherwise, they will spend the money,” he told journalists at Anna Arivalayam, the party headquarters in Chennai. When asked whether the government would have funds to implement the new schemes, Mr. Stalin said similar doubts were raised in the 2021 election, but the DMK government fulfilled all its promises. Mr. Stalin also said the Chief Minister’s Breakfast Scheme will be extended to students up to class 8. It is now being implemented for the benefit of student of 1 to 5th standard. He also announced that the Kalaignar Magalir Urimai Thoagai for women heads of families will be increased to ₹2000 from ₹1000. The old age pension scheme will be increased from ₹1200 to ₹2000. In the case of the differently abled the amount will be ₹2,500. Mr. Stalin also announced that a free meter would be fixed for farmers who were getting free electricity. The annual salary limit for the Chief Minister’s insurance scheme would be ₹5 lakh per year, and the insurance amount would be ₹10 lakh. Published - March 29, 2026 07:25 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The promise was made in a manifesto and the politician is currently in power."
+      },
+      {
+        "id": "promise_1780451941_6",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy plans to build religious structures along the Musi River as part of the Musi Riverfront Development Project.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780463061_0",
+        "person": "Sukhvinder Singh Sukhu",
+        "party": "",
+        "promise": "Sukhvinder Singh Sukhu directed all departments to implement mandatory drug testing for government service applicants.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780466905_1",
+        "person": "Devendra Fadnavis",
+        "party": "",
+        "promise": "Devendra Fadnavis promised to dismantle the entire spurious liquor ecosystem.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780483022_0",
+        "person": "Nirmala Sitharaman",
+        "party": "",
+        "promise": "The Indian government aims to reduce delays in resolving insolvent companies through a new creditor-led resolution process with a 150-day deadline.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780484789_1",
+        "person": "Himanta Biswa Sarma",
+        "party": "",
+        "promise": "Himanta Biswa Sarma promised to expand the Assam Council of Ministers to a maximum of 19 members.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780484944_2",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay promised to release a White Paper on the state's finances upon assuming office.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "kept": [
@@ -1661,7 +1918,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by an opposition party that lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       },
       {
         "id": "promise_1780413185_3",
@@ -1765,7 +2022,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "No black money repatriation happened, and the promise was called a 'jumla'."
+        "gemma_reasoning": "No black money repatriation happened, and the Rs 15 lakh promise was called a 'jumla'."
       },
       {
         "id": "p004",
@@ -1815,7 +2072,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -1840,7 +2097,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and schemes."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -1924,7 +2181,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "UCC implementation is ongoing at the state level and nationally."
+        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
       },
       {
         "id": "p010",
@@ -1949,7 +2206,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -2203,6 +2460,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780443681_1",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "Modi promised a 'Viksit Kerala' under an NDA government, emphasizing faster development and curbing youth migration.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Amit Shah": [
@@ -2229,7 +2500,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "promise_1780277157_4",
@@ -2282,7 +2553,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is currently touring border areas and planning the 'Smart Border Concept'."
+        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780370419_2",
@@ -2307,7 +2578,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
       },
       {
         "id": "promise_1780383641_1",
@@ -2350,6 +2621,70 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780432651_2",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah agreed in principle to raising an all-woman police battalion for Manipur.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/news/national/manipur/amit-shah-asks-manipur-cm-to-accelerate-peace-process-approves-formation-of-all-woman-police-battalion/article70812785.ece",
+            "title": "Amit Shah asks Manipur CM to accelerate peace process, approves formation of all-woman police battalion - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-04-01 17:58:00.019839",
+            "relevance_score": 72,
+            "gemma_validated": true,
+            "rephrased": "**Union Home Minister Amit Shah** met with **Manipur Chief Minister Yumnam Khemchand Singh** on Wednesday to discuss the ongoing peace process in the state.  Shah asked Mr. Singh to accelerate the pea",
+            "content": "Union Home Minister Amit Shah on Wednesday (April 1, 2026) asked Manipur Chief Minister Yumnam Khemchand Singh to accelerate the ongoing peace process in the State and approved the creation of an all-woman police battalion, according to a Manipur Government statement. Mr. Singh called on the Home Minister at Parliament House complex, where the two leaders discussed the law and order situation in the State. During the meeting, Mr. Shah asked the Chief Minister to accelerate the peace process and consolidate the growing bonhomie among different communities, the statement said. “Reviewing the prevailing security scenario in Manipur with the Chief Minister, Mr. Shah agreed in principle to raising a Mahila India Reserve Battalion (IRB) for the State and asked Mr. Singh to send the proposal,” the statement said. Ethnic violence between the Meitei and Kuki-Zo communities erupted in the State on May 3, 2023, which has claimed around 250 lives so far. The State was placed under President’s Rule on February 13, 2024, and Mr. Singh assumed the office as Chief Minister on February 4 this year. Meanwhile, the burial of Vungzagin Valte, a BJP MLA from Manipur who was assaulted by a mob in Imphal on May 4, 2023 and passed away at a hospital in Haryana’s Gurugram on February 21, is yet to take place. His body is being preserved at the morgue of Churachandpur district hospital. Family members and Zomi community leaders have put forth certain conditions before the last rites are performed. To press for their demands—including a probe by the National Investigation Agency (NIA) into the assault and a political solution—the Zomi Coordination Committee (ZCC) was formed. On March 31, the ZCC said that the month-long Zomi National Mourning, observed in honour of the MLA, has concluded, and in the absence of a meaningful response from the authorities concerned on the issues of justice and accountability, democratic agitations would begin across Zomi areas in a phased and coordinated manner with immediate effect. Published - April 01, 2026 11:17 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+      },
+      {
+        "id": "promise_1780443870_2",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Amit Shah set a deadline for eradicating Left Wing Extremism.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780446424_4",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "The BJP will introduce the Uniform Civil Code in Assam if re-elected for a third consecutive term.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/assam-assembly/amit-shah-promises-ucc-in-assam/article70799693.ece",
+            "title": "Amit Shah promises UCC in Assam - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-03-29 16:43:09.012278",
+            "relevance_score": 72,
+            "gemma_validated": true,
+            "rephrased": "**Amit Shah**, Union Home Minister, stated that the **BJP** would introduce the Uniform Civil Code (UCC) in Assam if re-elected for a third consecutive term. The proposed UCC includes a provision to b",
+            "content": "Union Home Minister Amit Shah on Sunday (March 29, 2026) said the Uniform Civil Code (UCC) would be introduced in Assam if the Bharatiya Janata Party (BJP) forms the government for the third straight term. Addressing a rally in western Assam’s Tihu, he said the UCC would have a provision to ban polygamy. “The move is aimed at bringing uniformity in civil laws and strengthening social reforms in Assam,” he said. Uttarakhand was the first State to pass and implement the UCC in the first half of 2025. Gujarat passed a Bill in March to implement the UCC. The Himanta Biswa Sarma-led Assam government had earlier passed the Assam Prohibition of Polygamy Bill in November 2025, seeking to criminalise the practice of having more than one spouse simultaneously, irrespective of religion. The legislation was seen as a step towards implementing the UCC in the State. Published - March 29, 2026 07:42 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The BJP is currently in power and Amit Shah has stated the UCC will be introduced if re-elected."
       }
     ],
     "Arvind Kejriwal": [
@@ -2453,7 +2788,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by an opposition party that lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       },
       {
         "id": "promise_1780292965_2",
@@ -2461,6 +2796,20 @@
         "party": "",
         "promise": "Rahul Gandhi promised to fight against the Union government's ₹92,000 crore infrastructure project.",
         "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780442427_0",
+        "person": "Rahul Gandhi",
+        "party": "",
+        "promise": "Rahul Gandhi promised to raise the rubber price to ₹250 per kg as the first decision of the new government.",
+        "category": "economy",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -2563,7 +2912,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       },
       {
         "id": "promise_1780207073_7",
@@ -2588,7 +2937,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "The BJP government is in power and actively implementing policies."
       },
       {
         "id": "promise_1780332240_0",
@@ -2836,7 +3185,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
+        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
       },
       {
         "id": "promise_1780383936_2",
@@ -2900,6 +3249,34 @@
         "party": "",
         "promise": "Telangana aims to become the textile capital of South Asia by 2047.",
         "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780430117_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to build a swimming pool at S",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780451941_6",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy plans to build religious structures along the Musi River as part of the Musi Riverfront Development Project.",
+        "category": "infrastructure",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -2971,6 +3348,34 @@
         "person": "C. Joseph Vijay",
         "party": "",
         "promise": "TVK will establish a global e-commerce platform for weaver products.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780444756_3",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "TVK will provide collateral-free education loans to youth.",
+        "category": "education",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780484944_2",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay promised to release a White Paper on the state's finances upon assuming office.",
         "category": "economy",
         "status": "ongoing",
         "made_on": "",
@@ -3209,6 +3614,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780436701_3",
+        "person": "V.D. Satheesan",
+        "party": "",
+        "promise": "V.D. Satheesan promised to resign from politics if the UDF does not win the upcoming Kerala elections.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Piyush Goyal": [
@@ -3285,6 +3704,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780466905_1",
+        "person": "Devendra Fadnavis",
+        "party": "",
+        "promise": "Devendra Fadnavis promised to dismantle the entire spurious liquor ecosystem.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Nitish Kumar": [
@@ -3327,7 +3760,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Congress is still in power and has not missed the 2029 deadline."
+        "gemma_reasoning": "The Congress is still in power and has stated plans to implement the law."
       }
     ],
     "Pinarayi Vijayan": [
@@ -3353,6 +3786,20 @@
         "party": "",
         "promise": "Nirmala Sitharaman announced plans to increase India's installed nuclear power generation capacity to 100 GW by 2047.",
         "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780483022_0",
+        "person": "Nirmala Sitharaman",
+        "party": "",
+        "promise": "The Indian government aims to reduce delays in resolving insolvent companies through a new creditor-led resolution process with a 150-day deadline.",
+        "category": "economy",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -3387,6 +3834,34 @@
         ],
         "gemma_suggestion": "void",
         "gemma_reasoning": "The Congress party did not form the government."
+      },
+      {
+        "id": "promise_1780428926_0",
+        "person": "Himanta Biswa Sarma",
+        "party": "",
+        "promise": "Promised to deliver justice for singer Zubeen Garg's death within 100 days if the Congress wins.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780484789_1",
+        "person": "Himanta Biswa Sarma",
+        "party": "",
+        "promise": "Himanta Biswa Sarma promised to expand the Assam Council of Ministers to a maximum of 19 members.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Suvendu Adhikari": [
@@ -3395,6 +3870,49 @@
         "person": "Suvendu Adhikari",
         "party": "",
         "promise": "Suvendu Adhikari announced the commencement of the West Bengal Census 2027 between August 1 and February 2028.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      }
+    ],
+    "M.K. Stalin": [
+      {
+        "id": "promise_1780446983_5",
+        "person": "M.K. Stalin",
+        "party": "",
+        "promise": "M.K. Stalin will provide non-income tax assessee housewives with an ₹8,000 coupon to purchase household appliances.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
+            "title": "Stalin promises ₹8,000 coupon to housewives to buy household appliances - The Hindu",
+            "source": "The Hindu",
+            "scraped_at": "2026-03-29 14:10:10.469164",
+            "relevance_score": 80,
+            "gemma_validated": true,
+            "rephrased": "**M.K. Stalin**, DMK president and Tamil Nadu Chief Minister, unveiled a new manifesto for the upcoming Assembly elections, promising various welfare schemes. The \"Illatharasi Scheme\" will provide non",
+            "content": "Releasing what he described as a “Superstar” manifesto for the Tamil Nadu Assembly elections on Sunday (March 29, 2026), DMK President and Chief Minister M.K. Stalin announced the Illatharasi Scheme under which all non-income tax assessee housewives will be given a coupon valued at ₹8,000 to purchase or replace household electronic appliances. They can choose from a range of appliances including a washing machine, a TV, a grinder, a fridge, mixies microwave oven and an induction stove. Follow updates for the Assembly elections 2026 “The DMK’s election manifesto has always been a hero. The manifesto is also the heroine of the election. Now the manifesto will enter the fray as a superstar,” he said, adding the coupon would be the better way to serve homemakers. “Otherwise, they will spend the money,” he told journalists at Anna Arivalayam, the party headquarters in Chennai. When asked whether the government would have funds to implement the new schemes, Mr. Stalin said similar doubts were raised in the 2021 election, but the DMK government fulfilled all its promises. Mr. Stalin also said the Chief Minister’s Breakfast Scheme will be extended to students up to class 8. It is now being implemented for the benefit of student of 1 to 5th standard. He also announced that the Kalaignar Magalir Urimai Thoagai for women heads of families will be increased to ₹2000 from ₹1000. The old age pension scheme will be increased from ₹1200 to ₹2000. In the case of the differently abled the amount will be ₹2,500. Mr. Stalin also announced that a free meter would be fixed for farmers who were getting free electricity. The annual salary limit for the Chief Minister’s insurance scheme would be ₹5 lakh per year, and the insurance amount would be ₹10 lakh. Published - March 29, 2026 07:25 pm IST"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The promise was made in a manifesto and the politician is currently in power."
+      }
+    ],
+    "Sukhvinder Singh Sukhu": [
+      {
+        "id": "promise_1780463061_0",
+        "person": "Sukhvinder Singh Sukhu",
+        "party": "",
+        "promise": "Sukhvinder Singh Sukhu directed all departments to implement mandatory drug testing for government service applicants.",
         "category": "politics",
         "status": "ongoing",
         "made_on": "",
@@ -3481,7 +3999,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "No black money repatriation happened, and the promise was called a 'jumla'."
+        "gemma_reasoning": "No black money repatriation happened, and the Rs 15 lakh promise was called a 'jumla'."
       },
       {
         "id": "p004",
@@ -3531,7 +4049,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -3556,7 +4074,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and schemes."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -3640,7 +4158,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "UCC implementation is ongoing at the state level and nationally."
+        "gemma_reasoning": "National UCC implementation is ongoing, despite state-level implementations."
       },
       {
         "id": "p010",
@@ -3665,7 +4183,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -3740,7 +4258,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "p018",
@@ -3893,7 +4411,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by an opposition party that lost the election."
+        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
       }
     ],
     "TMC": [
@@ -3920,7 +4438,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       }
     ]
   }

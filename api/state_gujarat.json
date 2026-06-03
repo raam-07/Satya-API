@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 22:14:54.050574",
+  "generated_at": "2026-06-03 16:03:59.766816",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,637 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1010,
-    "articles_last_30d": 413
+    "total_articles": 1068,
+    "articles_last_30d": 433
   },
   "top_cities_30d": {
-    "Delhi": 98,
-    "Bengaluru": 65,
-    "Ahmedabad": 58,
-    "Mumbai": 37,
+    "Delhi": 105,
+    "Bengaluru": 67,
+    "Ahmedabad": 61,
+    "Mumbai": 38,
+    "Kolkata": 25,
     "Chennai": 25,
     "Hyderabad": 24,
-    "Kolkata": 23,
+    "Surat": 11,
     "Jaipur": 9,
-    "Surat": 9,
     "Patna": 8
   },
   "top_topics_30d": {
-    "foreign_policy": 320,
-    "economy": 98,
+    "foreign_policy": 330,
+    "economy": 99,
     "education": 91,
-    "infrastructure": 80,
-    "crime_violence": 79,
-    "protest_opposition": 72,
-    "farmer_agriculture": 34,
-    "corruption_scam": 31,
-    "health": 23,
+    "crime_violence": 85,
+    "infrastructure": 84,
+    "protest_opposition": 71,
+    "farmer_agriculture": 35,
+    "corruption_scam": 32,
+    "health": 24,
     "rape_sexual_crime": 22
   },
   "recent_articles": [
+    {
+      "id": 64914,
+      "title": "As El Niño threatens monsoon, farmer groups promote millets, mulching and drip irrigation | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/weak-monsoon-el-nino-fpos-promote-millets-climate-resilient-farming-india-10721736/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/09/millets.png",
+      "scraped_at": "2026-06-03 10:26:12.037811",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Union Ministry of Agriculture",
+      "rephrased_article": "**The Union Ministry of Agriculture** is working to support farmers facing challenges from a weak southwest monsoon by promoting drought-resistant crops and climate-resilient farming practices. The ministry has identified **farmer-producer organizations (FPOs)** across the country that are cultivating drought-resistant crops like millets, and is holding webinars to educate farmers on these methods.  **The Ministry** plans to use the network of over 63 lakh farmers from 10,000 FPOs to encourage adoption of climate-resilient practices, including alternative crops and moisture conservation techniques.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Gujarat",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 64886,
+      "title": "Flourish Stay Hotel Fire: 20 Killed In Massive Fire At Delhi Restaurant In Malviya Nagar",
+      "url": "https://www.ndtv.com/india-news/micasa-inn-hotel-fire-20-killed-in-massive-fire-at-delhi-restaurant-in-malviya-nagar-11584430#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/9n4sg5cg_micasa-inn-hotel-fire_625x300_03_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 10:24:14.147871",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Lavkesh Bajaj",
+      "rephrased_article": "A fire broke out in the basement restaurant of a hotel in Delhi's Malviya Nagar, killing 21 people including foreign nationals. The fire spread to another hotel next door, Micasa Inn.  **PM Narendra Modi** and **Delhi Chief Minister Rekha Gupta** expressed condolences and announced financial aid for the victims and their families. **Lavkesh Bajaj**, owner of the Flourish Stay hotel, is facing scrutiny over the hotel's licensing and safety protocols.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64876,
+      "title": "Delhi hotel fire LIVE: At least 21 people killed, several foreigners among those dead - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/d-k-shivakumar-invites-siddaramaiah-bs-yediyurappa-hd-deve-gowda-to-swearing-in-ceremony-in-bengaluru/article71056508.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qhq4pj/article71056482.ece/alternates/LANDSCAPE_1200/photo-collage.png.png",
+      "scraped_at": "2026-06-03 10:23:50.108364",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "A devastating fire broke out at a hotel in Delhi's Malviya Nagar on Wednesday morning, resulting in the deaths of at least 21 people, including many foreign nationals. **Prime Minister Narendra Modi** announced financial aid for victims and rescue efforts were led by **Delhi Fire Services**. The cause of the fire is yet to be determined.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64868,
+      "title": "Delhi Restautant Fire Live Updates Flourish Stay B&B Fire Live: 21 Killed In Delhi Hotel Fire, PM Modi Announces Rs 2 Lakh Compensation",
+      "url": "https://www.ndtv.com/india-news/delhi-fire-delhi-restautant-fire-micasa-inn-flourish-restaurant-20-killed-in-delhi-hotel-fire-pm-modi-announces-rs-2-lakh-compensation-11584599#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/j1ivtnvs_delhi-hotel-fire-micasa-inn_625x300_03_June_26.jpeg",
+      "scraped_at": "2026-06-03 10:23:37.631872",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Government",
+      "rephrased_article": "At least 21 people died in a fire at a hotel in Delhi's Malviya Nagar. The fire, which started in the basement and spread to the upper floors of the five-story building, was extinguished with the help of eight fire engines.  **Lovkesh Bajaj**, owner of the hotel, is on the run. **Delhi Police** are investigating the cause of the fire. **NDTV** reported that 37 people were rescued from the building and 17 fire tenders were deployed. The victims included foreign nationals who were in the city for medical treatment.  The Delhi government has announced compensation of Rs 2 lakh to the families of those killed and Rs 50,000 to those injured. **President Droupadi Murmu** expressed condolences over the tragedy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Amit Shah",
+        "Shah",
+        "Rajnath Singh"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64862,
+      "title": "Delhi hotel fire LIVE: At least 21 people killed, several foreigners among those dead - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-malviya-nagar-restaurant-fire-live-updates-june-3-2026/article71056012.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qhq4pj/article71056482.ece/alternates/LANDSCAPE_1200/photo-collage.png.png",
+      "scraped_at": "2026-06-03 10:23:30.455925",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "A devastating fire broke out at a hotel in Delhi's Malviya Nagar on Wednesday morning, killing at least 21 people and injuring over 40. **Prime Minister Narendra Modi** offered financial assistance to the victims, with ₹2 lakh for families of those killed and ₹50,000 for injured individuals. The cause of the fire is still under investigation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64827,
+      "title": "Sensex Today, Stock Market LIVE Updates | Nifty | Share Market: Sensex Drops 550 Points Amid Mixed Global Cues",
+      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-3-june-us-iran-war-oil-prices-11583484#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/0c5b7uh8_stock-market-updates_625x300_16_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 05:29:30.819715",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian economy",
+      "rephrased_article": "Indian equity benchmarks opened in red on Wednesday, driven by escalating US-Iran tensions. The Sensex fell over 500 points and the Nifty was down 150 points.  **RBI MPC**, **Crypto Update**, and **India-Oman Trade** are among the topics being discussed.  The rupee weakened against the US dollar.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 64793,
+      "title": "No role for third party in border dispute: India | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/india-nepal-border-dispute-third-party-rejected-10721140/",
+      "source": "Indian Express",
+      "image_url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+      "scraped_at": "2026-06-03 00:14:19.344097",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Nepal’s Prime Minister Balendra Shah** raised the boundary dispute with **India** in parliament, seeking involvement of **China** and the **UK**.  **India** rejected any role for third parties to resolve the issue, stating that bilateral mechanisms are sufficient. The spokesperson from **India's Ministry of External Affairs**, **Randhir Jaiswal**, clarified that while 98% of the boundary is demarcated, some segments remain unresolved due to the shifting of the Gandak river and cross-border occupation.  **Jaiswal** emphasized that there is no role for third parties in bilateral discussions between India and Nepal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64792,
+      "title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/04/rekha-g.jpg",
+      "scraped_at": "2026-06-03 00:14:15.719327",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Rabi Lamichhane**, chairman of the **Rastriya Swatantra Party (RSP)**, visited the **BJP** office in Delhi on Tuesday.  Senior BJP leaders including **Rekha Gupta**, **Harsh Malhotra**, and several MPs welcomed the delegation. The **VHP** renewed its demand for denying benefits to tribals who converted to other religions, citing a recent event where **Amit Shah**, Union Home Minister, attended a rally organized by an RSS-linked organization.  Delhi Police Commissioner **Satish Golchha** directed all district DCPs to address water and power disruption complaints with urgency.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64776,
+      "title": "After a gap of 21 years, M.P. government to relaunch State-wide public bus service - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assam-villagers-refuse-burial-for-slain-youth-accused-of-killing-teen-injuring-girl/article71053746.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5ij2o0/article71054459.ece/alternates/LANDSCAPE_1200/20260203467L.jpg",
+      "scraped_at": "2026-06-03 00:13:31.156464",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "**Mohan Yadav**, the Chief Minister of **Madhya Pradesh**, announced the relaunch of a state-wide public transport bus service, 'Mukhya Mantri Sugam Parivahan Sewa', in phases across the state. The service will be launched by the **Madhya Pradesh Passenger Transport and Infrastructure Limited** under a public-private partnership (PPP) model, with operations starting from Indore in July.  The initiative aims to address challenges related to distances between cities and provide convenient travel options for citizens, particularly women.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Indore",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64773,
+      "title": "After a gap of 21 years, M.P. government to relaunch State-wide public bus service - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/after-a-gap-of-21-years-mp-government-to-relaunch-state-wide-public-bus-service/article71053783.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5ij2o0/article71054459.ece/alternates/LANDSCAPE_1200/20260203467L.jpg",
+      "scraped_at": "2026-06-03 00:13:15.120328",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "**Mohan Yadav**, the Chief Minister of **Madhya Pradesh**, announced the relaunch of a state-wide public transport bus service, 'Mukhya Mantri Sugam Parivahan Sewa', in phases across the state. The service will be launched by the **Madhya Pradesh Passenger Transport and Infrastructure Limited** and is expected to address challenges posed by distances between cities and provide convenient travel options for citizens. The first phase will launch from Indore in July, with services including intracity, intercity, and inter-state routes.  The initiative aims to improve connectivity within the state and neighboring states, addressing concerns about safety and accessibility of public transport.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Indore",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64772,
+      "title": "1.5 crore artificial groundwater recharge, storage works under JSJB initiative: Minister C R Patil | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/jal-sanchay-jan-bhagidari-groundwater-recharge-c-r-patil-10721159/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/CR-Patil.jpg",
+      "scraped_at": "2026-06-03 00:13:13.453490",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Union Jal Shakti Minister C R Patil** announced that over 1.5 crore artificial groundwater recharge and storage works have been created across India under the **Jal Sanchay Jan Bhagidari (JSJB)** initiative, largely driven by community participation. The initiative, launched in response to Prime Minister Narendra Modi's call for community involvement in water conservation, aims to enhance water recharge through various methods supported by government and non-government resources.  **Andhra Pradesh**, **Chhattisgarh**, and **Madhya Pradesh** have reported the highest number of these works, while other states like **Telangana**, **Rajasthan**, and **Bihar** have also seen significant progress.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 64768,
+      "title": "Jailed Agusta middleman’s son calls for his release; questions additional charges, cites Nirav Modi case - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/jailed-agusta-middlemans-son-calls-for-his-release-questions-additional-charges-cites-nirav-modi-case/articleshow/131471042.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131471041,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-02 22:28:24.976454",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Christian Michel",
+      "rephrased_article": "**Alois Michel**, son of British national Christian Michel, who is incarcerated in India for over seven years on charges related to the AgustaWestland chopper scam, has called upon **India** to follow its own extradition laws and release his father. He compared his father's case to that of fugitive diamond merchant Nirav Modi, highlighting a perceived discrepancy in treatment between the two cases.  Michel's petition challenging an additional charge of forgery was dismissed by the Delhi High Court, which ruled that \"connected offences\" could be added under India-UAE extradition treaty. The Supreme Court is scheduled to hear the matter in July.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 64766,
+      "title": "Buttler hails Sooryavanshi’s impact in IPL 2026: ‘He was the IPL this year’",
+      "url": "https://indianexpress.com/article/sports/cricket/buttler-hails-sooryavanshis-impact-in-ipl-2026-he-was-the-ipl-this-year-10720972/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/sooryavanshi_be5e02.jpg",
+      "scraped_at": "2026-06-02 22:28:13.989101",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Vaibhav Sooryavanshi",
+      "rephrased_article": "**Jos Buttler**, former England white-ball captain, praised **Vaibhav Sooryavanshi**, a 15-year-old batsman for the **Gujarat Titans (GT)**, as one of the biggest attractions of IPL 2026.  Buttler highlighted Sooryavanshi's impressive performances and popularity, noting that he was even more popular than the winning team, **Royal Challengers Bengaluru**. The England star believes Sooryavanshi has handled the spotlight well and predicts a long and successful career for him. Buttler also reflected on his own disappointing IPL final loss to **RCB**, admitting he was \"flat\" after falling short of victory.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Kolkata",
+        "Ahmedabad"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 64763,
+      "title": "The Odyssey BTS video: Real ships, giant sets and Christopher Nolan’s biggest gamble yet | Hollywood News - The Indian Express",
+      "url": "https://indianexpress.com/article/entertainment/hollywood/the-odyssey-bts-video-christopher-nolan-matt-damon-imax-10720936/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/theodyssey.jpg",
+      "scraped_at": "2026-06-02 22:28:04.549765",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Christopher Nolan",
+      "rephrased_article": "**Universal Pictures** released a behind-the-scenes featurette for **Christopher Nolan’s** ambitious adaptation of Homer's \"The Odyssey.\"  Cast members, including **Matt Damon**, **Zendaya**, and **Robert Pattinson**, discuss the film's scale and commitment to emotional storytelling. The video highlights practical effects like enormous wooden ships sailing in real ocean waters and vast natural landscapes built for the production.  **Christopher Nolan** continues his preference for practical filmmaking techniques, making \"The Odyssey\" one of the first feature films shot entirely on IMAX cameras. The film is set to release in theaters on July 17, 2026.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Amit Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64762,
+      "title": "Sports activity centres to be set up under 9 bridges in Ahmedabad: Civic body | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/sports-activity-centres-to-be-set-up-under-9-bridges-in-ahmedabad-civic-body-10720974/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/sports-centre.jpg",
+      "scraped_at": "2026-06-02 22:27:58.563212",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Ahmedabad Municipal Corporation",
+      "rephrased_article": "**The Ahmedabad Municipal Corporation (AMC)** is transforming unused spaces under bridges in the city into modern “sports activity centres” to develop Ahmedabad as an international-level \"sports city\". The AMC aims to increase interest in sports among children and youths, with facilities including cricket, football, basketball, skating, badminton, fitness activities, and more.  The projects will be implemented through a Public-Private Partnership (PPP) model and include security, cleanliness, and local tournaments for training and competition.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64745,
+      "title": "K Annamalai's 200-Day Foot March That Finetuned BJP's Tamil Nadu Blueprint",
+      "url": "https://www.ndtv.com/india-news/k-annamalais-200-day-foot-march-that-finetuned-bjps-tamil-nadu-blueprint-11582463#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/uhl05pso_k-annamalai_625x300_02_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 22:27:35.076226",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "K Annamalai",
+      "rephrased_article": "**K Annamalai**, former chief of the **Tamil Nadu BJP**, announced his intention to resign from the party, possibly to launch a new political party.  He completed a 200-day statewide tour called \"En Mann, En Makkal\" (My Land, My People) which ended with a public address by Prime Minister Narendra Modi in February 2024. The yatra, aimed at strengthening the BJP's presence in Tamil Nadu, saw a significant increase in the party's vote share in the Lok Sabha elections of 2024.  Annamalai's departure from the BJP is reportedly due to disagreements over alliance with Dravidian parties and his subsequent removal as state unit chief.",
+      "party_mentioned": [
+        "BJP",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64719,
+      "title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/rahul-gandhi-26.jpg",
+      "scraped_at": "2026-06-02 19:47:05.989322",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Rahul Gandhi** and **Mallikarjun Kharge** criticized the government's transfer of **CBSE Chairman Rahul Singh** and **Secretary Himanshu Gupta**, calling it a cover-up for the ongoing On-Screen Marking row.  They demanded the dismissal of **Union Education Minister Dharmendra Pradhan** and an independent judicial inquiry, arguing that the transfers were not accountability but a way to deflect attention from the minister's alleged corruption. **Jairam Ramesh** also expressed concern over the sudden departure of leadership and the formation of a one-member commission, highlighting the irregularities exposed by Gen Z students.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64716,
+      "title": "3 killed as signboard put up under Smart City Mission’ collapses in Dahod | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-storm-dahod-smart-city-signboard-collapse-deaths-imd-alert-10721020/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Gujarat-rain.jpg",
+      "scraped_at": "2026-06-02 19:46:48.009147",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Gujarat Government",
+      "rephrased_article": "**Strong winds** caused by thunderstorms and heavy rainfall across **Gujarat** led to the collapse of a signboard in Dahod, resulting in three deaths. The deceased were identified as Ninama Shakariyabhai (70), Baria Babubhai Kuberbhai (50), and Parmar Hemsinhbhai Kasnabhia (72). One person is still undergoing treatment at Zydus hospital. Authorities have ordered an inquiry into the collapse, while the India Meteorological Department issued an orange alert for 11 districts due to moderate thunderstorms and strong winds.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Surat",
+        "Vadodara"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64708,
+      "title": "Ankur Warikoo shares life lessons to learn from stars like Shah Rukh Khan and Hrithik Roshan | Lifestyle News - The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/fitness/cardio-strength-rucking-walking-backpack-fitness-10718513/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Ankur-Warikoo.jpg",
+      "scraped_at": "2026-06-02 19:46:17.891941",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Ankur Warikoo",
+      "rephrased_article": "**Ankur Warikoo**, a motivational speaker and entrepreneur, shared five life lessons from Bollywood's top heroes in an Instagram video. He highlighted how public figures like **Shah Rukh Khan**, **Amitabh Bachchan**, **Akshay Kumar**, **Aamir Khan**, and **Hrithik Roshan** overcame challenges and achieved success through resilience, discipline, courage, and persistence.  Senior psychologist **Neha Cadabam** from **Cadabam’s Hospitals** emphasized that resilience is not about avoiding distress but rather learning to function and grow despite setbacks. She suggests focusing on the lessons learned from others' journeys rather than comparing oneself to their success stories.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
+    {
+      "id": 64691,
+      "title": "India Rejects \"Third Party Roles\" To Resolve Boundary Row With Nepal",
+      "url": "https://www.ndtv.com/india-news/india-rejects-third-party-roles-to-resolve-boundary-row-with-nepal-11582745#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-12/em8kj2ro_randhir-jaiswal_625x300_20_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 19:45:14.427334",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** rejected **Nepal's** request for third-party involvement in its boundary dispute, stating that bilateral mechanisms are sufficient to address the issue. The **External Affairs Ministry** spokesperson confirmed that 98% of the India-Nepal border has been demarcated, with some unresolved segments due to the shifting of the Gandak river and cross-border occupation.  **Nepal's** Prime Minister Balendra Shah had sought involvement from China and the UK, but **India** maintains that there is no role for third parties in this bilateral matter.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64687,
+      "title": "7 Killed, 40 Injured As 2 Buses Collide In Surat, 1 Catches Fire",
+      "url": "https://www.ndtv.com/india-news/7-killed-40-injured-as-2-buses-collide-in-surat-1-catches-fire-11582755#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-05/cg62aus8_road-accident-generic_625x300_05_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-02 19:45:01.757576",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "A **Maharashtra State Road Transport Corporation (MSRTC)** bus collision near Bardoli, Gujarat, resulted in seven fatalities and approximately 40 injuries. The accident occurred on National Highway No. 53 when one bus traveling from Surat to Dhule collided with a bus heading towards Surat from Chalisgaon, causing the first bus to overturn and catch fire. **Surat district Superintendent of Police Rajesh Ghadhiya** confirmed that rescue operations were launched immediately by police, fire brigade, and officials from Surat and the neighboring Tapi district.  **Maharashtra Transport Minister Pratap Sarnaik** announced financial assistance of Rs 10 lakh each to the families of the deceased.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Surat"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64685,
+      "title": "BMRCL to induct two more trains on Yellow Line from June 3, improve frequency - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bmrcl-to-induct-two-more-trains-on-yellow-line-from-june-3-improve-frequency/article71054171.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cptx82/article71054455.ece/alternates/LANDSCAPE_1200/2026-05-27T024203Z_1286926940_RC2P6LA2YU4K_RTRMADP_3_INDIA-SUMMIT-GCC-EVOLUTION.JPG",
+      "scraped_at": "2026-06-02 19:44:51.267348",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "BMRCL",
+      "rephrased_article": "**Bangalore Metro Rail Corporation Limited (BMRCL)** will increase train frequency on the Yellow Line, connecting R.V. Road and Bommasandra, beginning Wednesday. The addition of two new trainsets brings the total to 10, increasing service frequency during peak hours from nine minutes to seven minutes.  The revised schedule also provides a 10-minute interval for non-peak hours and a uniform 10-minute frequency on weekends. The BMRCL aims to improve travel experience and accommodate growing ridership.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 64682,
+      "title": "Ankur Warikoo shares life lessons to learn from stars like Shah Rukh Khan and Hrithik Roshan | Lifestyle News - The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/shah-rukh-khan-amitabh-akshay-kumar-aamir-hrithik-roshan-life-lessons-10715368/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Ankur-Warikoo.jpg",
+      "scraped_at": "2026-06-02 19:44:45.991455",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Ankur Warikoo",
+      "rephrased_article": "**Ankur Warikoo**, a motivational speaker and entrepreneur, shared five life lessons from **Bollywood's top heroes** in an Instagram video. He highlighted how figures like **Shah Rukh Khan**, **Amitabh Bachchan**, **Akshay Kumar**, **Aamir Khan**, and **Hrithik Roshan** overcame challenges and achieved success through resilience, discipline, courage, and persistence.  Senior psychologist **Neha Cadabam** emphasizes that these qualities are not fixed traits but can be cultivated through self-reflection and facing challenges.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": []
+    },
     {
       "id": 64669,
       "title": "PoK activist Amjad Ayub Mirza calls on PM Modi to intervene over 'rights violations' in Gilgit-Baltistan - The Times of India",
@@ -50,7 +653,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -103,9 +705,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -160,7 +760,7 @@
       "rephrased_article": "**Vijay Shekhar Sharma**, founder of **Paytm**, believes that niche businesses will be successful in India's startup ecosystem.  He argues that focusing on specific consumer needs, such as emotional wellness, pet care, and children's products, can lead to growth rather than chasing mass markets.  The rise of \"emotional commerce\" is also predicted by **Abhishek Shah**, founder of D2C Insider, who believes consumers will increasingly seek products addressing their emotional well-being.  **Chhavi Bhardwaj**, General Partner at ConsumerX Ventures, highlights the potential for businesses in pet care, children's products, and wellness to thrive as consumer spending patterns shift. **Nikhar Arora**, Director and Builder of BOTS.Ai by HR Anexi, believes AI is no longer a futuristic concept but a business necessity, with opportunities emerging in specialized solutions rather than broad-based products.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -185,8 +785,7 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Uttarakhand",
@@ -242,8 +841,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -267,9 +865,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -291,7 +888,7 @@
       "rephrased_article": "**Anupam Mittal**, owner of **Shaadi.com**, argues that companies in India should pay employees twice a month instead of the traditional monthly system, claiming it would benefit both employees and the economy.  He believes this change would alleviate financial stress for employees by providing consistent cash flow, reduce debt traps, and boost spending velocity. Mittal made his case on LinkedIn and emphasized that this shift is not only beneficial for employees but also for companies and the overall economy.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -313,7 +910,7 @@
       "rephrased_article": "**Anupam Mittal**, owner of **Shaadi.com**, argues that companies should pay employees twice a month instead of the traditional monthly system, citing improved cash flow and reduced financial stress for employees. He believes this would benefit both employees and the Indian economy by increasing spending velocity and potentially boosting GDP growth.  Mittal advocates for paying salaries on the 15th and 30th of each month to alleviate debt traps and improve financial stability.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -336,11 +933,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Amit Shah",
-        "Shah",
-        "Yogi Adityanath",
-        "Yogi"
+        "Yogi Adityanath"
       ],
       "states_mentioned": [
         "Uttar Pradesh"
@@ -419,8 +1013,7 @@
       "rephrased_article": "**Meghalaya** and **Nagaland** Chief Ministers have called for the early release of 20 civilians, including 14 Kukis and six Nagas, allegedly held hostage by armed groups in Manipur. **Conrad K. Sangma**, Meghalaya's Chief Minister, expressed concern over the continued captivity of the villagers and urged all parties to pursue dialogue instead of violence. **Neiphiu Rio**, Nagaland's Chief Minister, also contacted **Amit Shah**, Union Home Minister, expressing his concern over the abduction of six Liangmai Nagas.  **Mr. Shah** assured him that necessary measures would be taken to secure their release and bring the perpetrators to justice.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Manipur",
@@ -445,8 +1038,7 @@
       "rephrased_article": "A man staged a protest on Old Airport Road, halting traffic for **Karnataka Governor Thawarchand Gehlot**’s convoy. The incident drew attention from motorists and security personnel as the man refused to move despite police requests, claiming his wife was pregnant and unwell. Police ultimately removed him from the road before the Governor's convoy passed through. This incident has reignited debate about VIP protocols and their impact on public convenience, particularly in light of recent calls for a more restrained approach by Prime Minister **Narendra Modi**.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Karnataka"
@@ -470,8 +1062,7 @@
       "rephrased_article": "**M. Sribharat**, a member of the **Visakhapatnam** Parliament, arrived in Oslo to participate in the Norway India Business Days 2026. The conference, organized by the **Norway India Chamber of Commerce and Industry (NICCI)**, aims to strengthen economic and strategic cooperation between India and Norway.  Sribharat highlighted the progress in India-Norway relations, including the Green Strategic Partnership announced during Prime Minister Narendra Modi's visit to Oslo. He expressed gratitude for the warm reception from the **Norway Telugu Association** and commended its efforts in promoting cultural unity among Telugu-speaking families.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Andhra Pradesh"
@@ -497,7 +1088,7 @@
       "rephrased_article": "**Soham Shah**, a correspondent for **The Indian Express** based in Pune, has transitioned his reporting from education to investigative and human rights stories. His recent work includes investigations into the Pune Municipal Corporation's policy changes and real estate irregularities involving political families. He also published pieces on faculty vacancies at Savitribai Phule Pune University and the controversial third language policy in Maharashtra. **Shah** is known for his civil-liberties lens, focusing on issues of marginalized communities and their rights.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Maharashtra"
@@ -4862,678 +5453,6 @@
         "foreign_policy",
         "crime_violence",
         "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 62946,
-      "title": "Amit Shah chairs security review meeting on border-related issues",
-      "url": "https://www.greaterkashmir.com/security/amit-shah-chairs-security-review-meeting-on-border-related-issues-in-bhuj-gujarat-11890211",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/30/amit-shah-2026-05-30-16-08-47.jpg",
-      "scraped_at": "2026-05-30 21:40:04.292482",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Amit Shah",
-      "rephrased_article": "**Amit Shah**, Union Home Minister and Minister of Cooperation, chaired a security review meeting in Bhuj, Gujarat, focusing on border and coastal district security.  The meeting included **Chief Minister** and **Deputy Chief Minister** of Gujarat, along with other senior state government officials, District Magistrates, Superintendents of Police, and representatives from the BSF, Coast Guard, Income Tax Department, Enforcement Directorate (ED), and Lead Bank Manager.  Shah emphasized the need for robust border management, including strict enforcement of laws, vigilance against infiltration, and coordination between agencies to combat financial crimes and narcotics trafficking. He also stressed the importance of maintaining close watch on centers of radicalization and demographic changes in border districts.",
-      "party_mentioned": [
-        "SP"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 62923,
-      "title": "Implementation of 'guarantees', decline of BRS favour Congress in Telangana, BJP aiming for better show - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/implementation-of-guarantees-decline-of-brs-favour-congress-in-telangana-bjp-aiming-for-better-show/articleshow/108548569.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-108548778,width-1200,height-630,imgsize-10742,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-05-30 21:34:49.049292",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "The Telangana Lok Sabha elections are expected to be a tight race between the **Congress** and the **BJP**, with both parties aiming for victory. The **Congress**, riding high on its recent Assembly election win, is banking on the implementation of its campaign promises and the popularity of CM Revanth Reddy to secure votes. The **BJP**, which saw its vote share double in the 2023 Assembly elections, aims to capitalize on this momentum and secure a significant portion of seats.  The **BRS**, facing a morale slump after its defeat, is expected to struggle against these two major contenders.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "BSP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 62922,
-      "title": "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/modi-charisma-key-factor-in-bjps-bid-to-retain-all-26-seats-in-gujarat/articleshow/108550858.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-108550885,width-1200,height-630,imgsize-1941096,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-05-30 21:34:45.526627",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "The upcoming Lok Sabha elections in Gujarat are expected to be influenced by **Prime Minister Narendra Modi's** charisma, as he is a prominent figure for the state.  Anti-incumbency sentiment, unemployment, inflation, education and healthcare facilities are also key issues that will shape voter decisions. The ruling BJP aims to retain all 26 seats it won in 2019. The opposition parties will likely capitalize on these concerns to challenge the incumbent government. Gujarat is a crucial state for determining the outcome of the Lok Sabha elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "economy",
-        "health",
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 62920,
-      "title": "BJP accuses Kejriwal of sending voters hoax calls to mislead - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/delhi/bjp-accuses-kejriwal-of-sending-voters-hoax-calls-to-mislead/articleshow/117579007.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-117579052,width-1200,height-630,imgsize-13196,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-05-30 21:34:37.953881",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "AAP",
-      "rephrased_article": "The **BJP** accused **Arvind Kejriwal**, leader of the **AAP**, of orchestrating hoax calls to mislead voters and distribute money in slum areas.  **Parvesh Verma**, a BJP MP, played an audio recording of one such call, alleging that the **AAP** is attempting to manipulate voters. The **BJP** also claimed the **AAP** has accessed confidential voter data and accused them of supporting activities that shield terrorism. **Sudhanshu Trivedi**, a BJP spokesperson, welcomed the US Supreme Court's decision to extradite Tahawwur Rana, an accused in the 2008 Mumbai terror attacks.  The **BJP** demanded an investigation into these allegations.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Arvind Kejriwal"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 62919,
-      "title": "Rare 'intensive' revision in Bihar four months before polls - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/rare-intensive-revision-in-bihar-four-months-before-polls/articleshow/122167501.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-122167607,width-1200,height-630,imgsize-40380,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-05-30 21:34:34.148929",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India (ECI)",
-      "rephrased_article": "The **Election Commission of India (ECI)** has ordered a special summary revision of electoral rolls in Bihar, marking a departure from its usual practice.  This revision differs from previous intensive revisions by utilizing the 2002-03 electoral roll as a base and incorporating a new pre-printed enumeration form for house-to-house verification. The ECI's decision to conduct this revision ahead of the assembly elections in October 2025 is unusual, as it has rarely ordered full state-wide intensive revisions so far out from the scheduled polls.  This move follows a pattern of the ECI conducting 'intensive' revision in specific areas of states based on various factors like population changes or electoral irregularities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Bihar",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai",
-        "Coimbatore",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 62918,
-      "title": "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/assam/done-deal-cm-himanta-biswa-sarma-on-nda-seat-sharing-for-assam-polls/articleshow/128678098.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-128678131,width-1200,height-630,imgsize-32674,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-05-30 21:34:30.907583",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Himanta Biswa Sarma",
-      "rephrased_article": "**Chief Minister Himanta Biswa Sarma** stated that the seat-sharing arrangement within the **National Democratic Alliance (NDA)** for the upcoming Assam assembly elections is finalized. The alliance includes the BJP, **Asom Gana Parishad (AGP)**, **United People's Party Liberal (UPPL)**, and the **Bodoland People's Front (BPF)**, along with other parties like **Rabha Hasong Joutha Sangram Samiti (RHJSS)** and **Janashakti Party (JP)**. Sarma confirmed that after the completion of all processes, the state leadership will meet **Union Home Minister Amit Shah** to present a list of probable candidates.  The elections are expected in March-April following the delimitation exercise in 2023.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62898,
-      "title": "Analysis: Amit Shah's Blueprint To Secure Porous India-Bangladesh Border",
-      "url": "https://www.ndtv.com/opinion/analysis-amit-shahs-blueprint-to-secure-porous-india-bangladesh-border-11569588#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2024-08/pagcgin_bsf-generic-border-security-force-ani_625x300_24_August_24.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-30 21:33:39.875142",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The **BJP** government in West Bengal has shifted focus to border security, aiming for a more practical and diplomatic approach than previous rhetoric.  Union Home Minister Amit Shah has instructed officials to handle infiltration with careful identification and documentation before handing over suspected infiltrators to Bangladeshi authorities through official channels. The government is prioritizing land acquisition and infrastructure development, including fencing projects, but acknowledges the complexity of the task due to terrain challenges, legal disputes, and diplomatic considerations. Despite these hurdles, the new administration has accelerated fencing work in key areas like Phansidewa, aiming for a phased approach that balances security with humanitarian concerns.  However, experts warn that achieving complete border control within a short timeframe is unrealistic.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62889,
-      "title": "True Gen-Z defined by both its culture and contribution towards nation building: BJP president Nitin Nabin | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/sports/football/psg-crowned-uefa-champions-league-winners-arsenal-crumble-in-penalty-shootout-10716248/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Nitin-3col.jpg",
-      "scraped_at": "2026-05-30 21:33:02.930858",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**BJP** national president Nitin Nabin addressed concerns about India's Gen Z, calling for an open debate on its definition and contribution to nation building.  He emphasized the need to guide this energy in a positive direction, citing examples of youth-led movements in neighboring countries that have led to instability. Nabin also cautioned against labeling young people as \"anti-establishment\" and highlighted the importance of nurturing their potential for progress. He stressed the role of the government in providing direction and support for India's youth, particularly in areas like employment and education.",
-      "party_mentioned": [
-        "BJP",
-        "Samajwadi Party",
-        "BSP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Uttarakhand",
-        "Delhi",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 62887,
-      "title": "IPL 2026: 'Vaibhav Sooryavanshi is the world's best batter right now,' says GT and India captain Shubman Gill - India Today",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-shubman-gill-worlds-best-batter-ipl-2026-2919635-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/vaibhav-sooryavanshi-302041501-16x9_0.npcxaonr-oymbf0gnz5pdegzgbf4dwhy4pg0rkdc8a4?VersionId=eBQovxoUebD2d7lfF.0gOheuUFSqYhIu",
-      "scraped_at": "2026-05-30 21:32:56.491420",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Vaibhav Sooryavanshi",
-      "rephrased_article": "**Shubman Gill**, captain of the **Gujarat Titans**, praised **Vaibhav Sooryavanshi**, a 15-year-old wonderkid from the **Rajasthan Royals**, as the world's best batter after their Qualifier 2 match.  Gill was impressed by Sooryavanshi's fearless approach and technical brilliance, calling him one of the best batters in the world. The young prodigy shattered records during his impressive innings, becoming the fastest player to reach 1,000 IPL runs and the second-fastest in terms of innings. Following a successful debut season, Sooryavanshi has been called up to the India A squad for a tri-series in Sri Lanka.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 62886,
-      "title": "IPL 2026 Final: Storm delays Gujarat Titans' arrival in Ahmedabad before RCB clash - India Today",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-gujarat-titans-arrival-delayed-storm-ahmedabad-rcb-2919707-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/sai-sudharsan--shubman-gill-305301495-16x9_1.jpg?VersionId=dEP1YJlKBNh._okPfQSvAWbhYGGs6tLf",
-      "scraped_at": "2026-05-30 21:32:52.342313",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "IPL",
-      "rephrased_article": "**Gujarat Titans** were forced to alter their travel plans due to stormy weather, delaying their arrival in Ahmedabad until Saturday evening. The team's preparations for the IPL 2026 final against **Royal Challengers Bengaluru** have been disrupted, leaving them with less than 24 hours to prepare.  **RCB**, on the other hand, arrived in Ahmedabad earlier and has had more time to recover. This is the first time an IPL finalist has had to travel on the eve of the final due to the BCCI's decision to host playoffs across three venues.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Punjab",
-        "Rajasthan",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Chennai",
-        "Ahmedabad"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 62884,
-      "title": "Rajat Patidar and Shubman Gill talk T20I selection chances before IPL 2026 final. And it’s not straightforward responses - India Today",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-rajat-patidar-india-t20i-selection-race-before-ipl-final-2919642-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/rajat-patidar-and-shubman-gill-30582669-16x9_0.jpg?VersionId=h3ez9E0r5VOX6EH4CGEqp5mx3NYYrTMD",
-      "scraped_at": "2026-05-30 21:32:47.125445",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "Rajat Patidar",
-      "rephrased_article": "**Rajat Patidar** and **Shubman Gill**, captains of their respective teams in the IPL final, have provided insights into their T20I selection prospects. Both players have delivered impressive performances this season, with Patidar's explosive innings against Gujarat Titans and Gill's consistent scoring across formats. The outcome of the final will significantly impact their chances for a spot in the upcoming T20I series against Ireland and England.  The selectors will meet shortly after the game to finalize the squad.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62880,
-      "title": "IPL Final, RCB vs GT: RCB captain Rajat Patidar pre-match press conference - India Today",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-final-rcb-vs-gt-rajat-patidar-pre-match-full-press-conference-2919697-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202605/rajat-patidar-275043226-16x9.jpg?VersionId=65JABRsF5Ap39NqgXe.NKzGrjr0YrnKH",
-      "scraped_at": "2026-05-30 21:32:31.398156",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "Royal Challengers Bengaluru",
-      "rephrased_article": "**Rajat Patidar**, captain of **Royal Challengers Bengaluru**, has the opportunity to become only the third captain in IPL history to successfully defend an IPL title if his team beats **Gujarat Titans** on Sunday.  Despite this historic achievement, he insists that he is focused on leading his team in his own way and not comparing himself to past captains like **MS Dhoni** or **Rohit Sharma**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 62873,
-      "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
-      "url": "https://thesouthfirst.com/bold/sf-campaign-andhra-has-more-obese-men-among-large-states-kerala-tops-among-women/",
-      "source": "The South First",
-      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/SouthernKey.jpeg",
-      "scraped_at": "2026-05-30 21:32:19.905721",
-      "category": "health",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "The National Family Health Survey-6 (NFHS-6) revealed that **Andhra Pradesh** has the highest prevalence of overweight or obese men among large Indian states, with 47.9% of men aged 15 to 49 years classified as such.  Kerala leads in female obesity prevalence, with 46.7% of women in that age group classified as overweight or obese. The survey highlights a growing obesity burden across southern states, with rising prevalence in both urban and rural areas, raising concerns over lifestyle-related diseases. Public health experts have warned that obesity is becoming a widespread challenge across rural India as well.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Goa",
-        "Gujarat",
-        "Karnataka",
-        "Kerala",
-        "Tamil Nadu",
-        "Telangana",
-        "West Bengal",
-        "Puducherry",
-        "Chandigarh",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "health"
-      ]
-    },
-    {
-      "id": 62861,
-      "title": "Abhishek Banerjee Sonarpur attack: TMC leader alleges BJP wanted to kill him; shirt torn, specs broken, Stones, eggs and 'chor chor' chants - West Bengal News | India Today",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-controversy-student-probe-altered-tender-criteria-coempt-security-concerns-2919549-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/stones--eggs-and-chor-chor-chants-greet-abhishek-banerjee-in-sonarpur-pti-304407147-16x9_0.jpg?VersionId=.i_SQfMxD_fG6DOLw5Yvfc0G_1CTQpvn",
-      "scraped_at": "2026-05-30 21:32:06.991042",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Abhishek Banerjee**, TMC national general secretary, was attacked by a mob in Sonarpur, West Bengal while visiting the family of a man allegedly killed in post-poll violence. The incident involved stones, eggs, and verbal abuse, with protesters accusing him of corruption and demanding security for the area. **Mamata Banerjee**, Chief Minister of West Bengal, visited him at the hospital and blamed the BJP for orchestrating the attack.  **Derek O'Brien**, a Trinamool Congress Rajya Sabha MP, questioned the withdrawal of security during the visit and called for an investigation. The BJP condemned the violence but denied any involvement in the attack.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "education",
-        "crime_violence",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 62859,
-      "title": "Bengal CID Serves Summons To Abhishek Banerjee In 'Fake Signature' Probe",
-      "url": "https://www.ndtv.com/india-news/bengal-cid-serves-summons-to-abhishek-banerjee-in-fake-signature-probe-11569998#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2023-10/vnkd0nfs_abhishek-banerjee-ani_625x300_07_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-30 21:32:04.464353",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Abhishek Banerjee",
-      "rephrased_article": "The **West Bengal CID** served a notice to **Abhishek Banerjee**, TMC national general secretary, requesting his presence for questioning in a probe into alleged forged signatures on a letter supporting **Shobhandeb Chattopadhyay** as the Leader of Opposition. The notice was delivered after officers waited at Banerjee's residence and were directed to his alternative residence before finally serving him the summons.  The CID is investigating discrepancies in the signatures on a May 19 letter submitted by the TMC to the Assembly Secretariat, which some MLAs signed endorsing Chattopadhyay as the LoP. The probe has also questioned several TMC MLAs, including Nayna Banerjee and Kunal Ghosh.",
-      "party_mentioned": [
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "education"
-      ]
-    },
-    {
-      "id": 62857,
-      "title": "LG directs Ladakh Admin to adopt austerity measures as per PM's call",
-      "url": "https://www.greaterkashmir.com/ladakh/lg-directs-ladakh-admin-to-adopt-austerity-measures-as-per-pms-call-11890733",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/04/27/vinai-kumar-saxena-lg-ladakh-2026-04-27-15-42-49.jpg",
-      "scraped_at": "2026-05-30 21:32:02.902747",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Vinai Kumar Saxena**, the Lieutenant Governor of Ladakh, has issued directives to all departments to promote austerity and sustainable practices in line with Prime Minister Narendra Modi's call for a greener future. **Saxena** directed departments to reduce government expenditure, cut fuel consumption, promote renewable energy, encourage local products, and enhance environmental sustainability. He also emphasized the need for greater domestic tourism, natural farming, and efficient resource utilization across sectors. All departments have been asked to submit an action plan report within 30 days and launch public awareness campaigns on various sustainable initiatives.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Ladakh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62836,
-      "title": "True Gen-Z defined by both its culture and contribution towards nation building: BJP president Nitin Nabin | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/true-gen-z-defined-by-both-its-culture-and-contribution-towards-nation-building-bjp-president-nitin-nabin-10716274/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Nitin-3col.jpg",
-      "scraped_at": "2026-05-30 21:31:37.325301",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**BJP** national president Nitin Nabin called for an open debate on defining India's Gen Z, its politics, and its positive direction.  He emphasized that true Gen Z is defined by both culture and contribution to nation-building, urging the youth to avoid being swayed by negative influences or labeled as anti-establishment. Nabin highlighted the BJP government's efforts to provide employment and improve examination systems while cautioning against anarchy and promoting a positive direction for India's youth. He stressed that the energy of 65% of the population should be channeled constructively for national progress, citing examples like India's Tricolour and successful startups as proof of the nation's potential.",
-      "party_mentioned": [
-        "BJP",
-        "Samajwadi Party",
-        "BSP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Uttarakhand",
-        "Delhi",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 62834,
-      "title": "Abhishek Banerjee Sonarpur attack: TMC leader alleges BJP wanted to kill him; shirt torn, specs broken, Stones, eggs and 'chor chor' chants - West Bengal News | India Today",
-      "url": "https://www.indiatoday.in/india/west-bengal/story/abhishek-banerjee-sonarpur-attack-tmc-leader-alleges-bjp-wanted-to-kill-him-shirt-torn-specs-broken-stones-eggs-and-chor-chor-chants-2919690-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/stones--eggs-and-chor-chor-chants-greet-abhishek-banerjee-in-sonarpur-pti-304407147-16x9_0.jpg?VersionId=.i_SQfMxD_fG6DOLw5Yvfc0G_1CTQpvn",
-      "scraped_at": "2026-05-30 21:31:35.000321",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Abhishek Banerjee**, Trinamool Congress national general secretary, was attacked by a mob in Sonarpur, West Bengal, while visiting the family of a man allegedly killed in post-poll violence. The incident involved stones, eggs, and verbal abuse directed at Banerjee, who sustained injuries to his shirt and spectacles. **Mamata Banerjee**, Chief Minister of West Bengal, visited him at the hospital and accused the BJP of orchestrating the attack. The BJP denied involvement but condemned the violence, while **Derek O'Brien**, a Trinamool Congress Rajya Sabha MP, questioned the security arrangements.  The incident has escalated tensions between the ruling party and the opposition, with accusations of political vendetta and attempts to intimidate prominent figures.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "education",
-        "crime_violence",
-        "protest_opposition",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 62809,
-      "title": "‘Red alert’ in Bengaluru: City gripped by IPL final fever as RCB looks for second consecutive win - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/red-alert-in-bengaluru-city-gripped-by-ipl-final-fever-as-rcb-looks-for-second-consecutive-win/article71042164.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2rb0cl/article71042543.ece/alternates/LANDSCAPE_1200/RCB%20fans_2.jpg",
-      "scraped_at": "2026-05-30 18:48:29.390693",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "RCB",
-      "rephrased_article": "**The Royal Challengers Bengaluru (RCB)** will face the **Gujarat Titans** in a high-stakes Indian Premier League (IPL) final on Sunday, with celebrations already underway in **Bengaluru**.  Fans are donning red attire and streets are filled with vendors selling merchandise. Major pubs and restaurants are also experiencing early bookings for the match.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62774,
-      "title": "NEET paper leak: Court extends Hawaldar's CBI custody by two days; remands Mandhare to judicial custody - The Hindu",
-      "url": "https://www.thehindu.com/news/national/neet-paper-leak-court-extends-hawaldars-cbi-custody-by-two-days-remands-mandhare-to-judicial-custody/article71042296.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ynxiah/article71042532.ece/alternates/LANDSCAPE_1200/20260530157L.jpg",
-      "scraped_at": "2026-05-30 17:14:29.339224",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "CBI",
-      "rephrased_article": "**The CBI** extended the custody of accused **Manisha Sanjay Hawaldar** by two more days and remanded another accused, **Manisha Mandhare**, to judicial custody in the alleged NEET-UG 2026 paper leak case.  Special Judge Ajay Gupta heard arguments from both sides before making his decision. The court also issued notice to the CBI on the bail application filed by another accused, **Manisha Waghmare**. The case is part of a wider investigation into alleged irregularities in the NEET-UG examination and a paper leak network.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Pune",
-        "Jaipur",
-        "Nashik"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "education"
-      ]
-    },
-    {
-      "id": 62713,
-      "title": "F&O Talk: Nifty may stay range-bound; Sudeep Shah sees opportunities in banks, IT, picks 7 stocks - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-may-stay-range-bound-sudeep-shah-sees-opportunities-in-banks-it-picks-7-stocks/articleshow/131406954.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131408545,width-1200,height-630,imgsize-165364,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-30 12:14:05.416964",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Stock Market",
-      "rephrased_article": "The **Sensex** and **Nifty 50** experienced significant losses, dropping over 1,092 points and nearly 359 points respectively. This volatility was driven by a surge in the **India VIX**, indicating heightened market uncertainty. Analyst Sudeep Shah highlighted concerns about Nifty rollover, suggesting potential profit-taking or cautiousness near higher levels. He also noted that Bank Nifty rollover declined sharply, raising questions about its future performance. Foreign Institutional Investors (FIIs) exhibited mixed sentiment, with short positions being reduced but long positions increasing. Despite the market's volatility, some sectors like private banks and PSU banks are showing strength.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62686,
-      "title": "Claims of being vishwaguru but can't conduct single exam: Rahul's dig at PM - The Hindu",
-      "url": "https://www.thehindu.com/news/national/claims-of-being-vishwaguru-but-cant-conduct-single-exam-rahuls-dig-at-pm/article71040780.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2mo71x/article71040798.ece/alternates/LANDSCAPE_1200/PTI05_25_2026_000293B.jpg",
-      "scraped_at": "2026-05-30 09:28:58.538816",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Rahul Gandhi**, leader of the **Congress**, criticized **Prime Minister Narendra Modi** for the delayed CUET-UG 2026 examination, alleging that the government has destroyed the education system.  He accused **Modi** of being unable to conduct even a single examination properly despite claiming to be a \"vishwaguru.\" **Gandhi** stated that this failure is impacting millions of students and will hold **Modi** accountable for his actions.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 62670,
-      "title": "FIIs pull out massive Rs 20,637 crore in single day on Friday. What led to this sharp exit? - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-pull-out-massive-rs-20637-crore-in-single-day-on-friday-what-led-to-this-sharp-exit/articleshow/131405729.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131405723,width-1200,height-630,imgsize-64700,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-30 09:24:40.225428",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Stock Market",
-      "rephrased_article": "**MSCI**'s latest review of its indices led to significant trading activity on the **NSE**, with foreign portfolio investors (FPIs) accounting for nearly 69% of total turnover.  Despite selling a net Rs 20,637 crore, FPIs traded nearly nine times that amount during the session. Market experts questioned whether this surge was driven by genuine portfolio adjustments or high-frequency trading strategies. **Nilesh Shah**, MD of Kotak Mahindra Asset Management, and **Gurmeet Chadha** expressed concerns about the suspicious activity and its potential impact on market stability.  The changes to the indices, including additions and removals, took effect at the close of trade on May 29th.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]

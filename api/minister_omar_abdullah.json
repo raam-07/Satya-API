@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 22:14:54.295450",
+  "generated_at": "2026-06-03 16:04:00.045827",
   "name": "Omar Abdullah",
   "role": "Chief Minister",
   "ministry": "",
@@ -12,16 +12,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Omar_Abdullah",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 41,
-    "articles_last_30d": 18,
+    "total_articles": 43,
+    "articles_last_30d": 17,
     "sentiment_breakdown_30d": {
       "negative": 8,
       "neutral": 6,
-      "positive": 4
+      "positive": 3
     }
   },
   "promises": [],
   "recent_articles": [
+    {
+      "id": 64702,
+      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off | WIRED",
+      "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+      "source": "Wired",
+      "image_url": "https://media.wired.com/photos/6a1e1d3c70c7c8b915b99802/191:100/w_1280,c_limit/Microsoft-Debuts-Scout-a-Workplace-AI-Agent-Gear.jpg",
+      "scraped_at": "2026-06-02 19:45:48.334028",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Microsoft",
+      "rephrased_article": "**Microsoft** announced **Scout**, an AI agent designed to automate tasks and manage work communications within **Microsoft Teams**.  The agent, built on top of **OpenClaw**, can access work messages, calendars, and email inboxes. **Microsoft** is launching **Scout** with a small group of customers and plans to expand access soon. The company acknowledges that Scout is still under development and may have some limitations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64089,
       "title": "No inquiry needed: J-K High Court says President, Governor can terminate govt employees over ‘security of state’ | India News - The Indian Express",
@@ -1166,12 +1185,9 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
         "Rahul Gandhi",
-        "Rahul",
         "M.K. Stalin",
-        "Stalin",
         "Omar Abdullah",
         "Mayawati"
       ],
@@ -1197,7 +1213,7 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Mamata",
+        "Mamata Banerjee",
         "Didi",
         "Omar Abdullah"
       ],
@@ -1207,6 +1223,32 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 42371,
+      "title": "Tulip festival beckons tourists to Kashmir Valley - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/tulip-festival-beckons-tourists-to-kashmir-valley/article70749791.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pzyatr/article70750296.ece/alternates/LANDSCAPE_1200/37-TULIP-GARDEN-SGR-16-03-2026.JPG",
+      "scraped_at": "2026-03-16 23:40:36.884163",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Jammu and Kashmir Government",
+      "rephrased_article": "**Omar Abdullah**, the Chief Minister of **Jammu and Kashmir**, inaugurated the annual Tulip festival at the Indira Gandhi Memorial Tulip Garden.  He urged tourists to visit the region during spring, highlighting its natural beauty and economic importance for tourism. He also emphasized the need for local production of tulip bulbs, calling on **SKUAST, Kashmir** to support this initiative. The festival aims to attract visitors after a decline in tourism following last year's attack.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "foreign_policy"
       ]
     }
   ]

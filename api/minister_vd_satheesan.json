@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 22:14:54.303258",
+  "generated_at": "2026-06-03 16:04:00.054476",
   "name": "V.D. Satheesan",
   "role": "Chief Minister of Kerala",
   "ministry": "",
@@ -7,12 +7,20 @@
   "state": "Kerala",
   "constituency": "",
   "criminal_cases": 0,
-  "criminal_cases_in_news": 0,
-  "criminal_incidents": [],
+  "criminal_cases_in_news": 1,
+  "criminal_incidents": [
+    {
+      "incident_text": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu **Kamal Haasan**, founder of **Makkal Needhi Maiam**, announced the party's withdrawal from the 2026 Tamil Nad",
+      "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
+      "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
+      "scraped_at": "2026-03-25 05:03:23.619762",
+      "incident_type": "broad"
+    }
+  ],
   "wikipedia": "",
   "affidavit_url": "",
   "stats": {
-    "total_articles": 55,
+    "total_articles": 58,
     "articles_last_30d": 29,
     "sentiment_breakdown_30d": {
       "positive": 8,
@@ -24,6 +32,14 @@
     {
       "id": "promise_1780316240_1",
       "promise": "V.D. Satheesan pledged to develop a master plan to transform Kochi into a model city within six months.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
+    },
+    {
+      "id": "promise_1780436701_3",
+      "promise": "V.D. Satheesan promised to resign from politics if the UDF does not win the upcoming Kerala elections.",
       "status": "ongoing",
       "made_on": "",
       "evidence_count": 0,
@@ -1432,6 +1448,81 @@
       "party_mentioned": [
         "Congress",
         "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 42353,
+      "title": "Kerala Assembly Elections 2026: Political crossovers gather pace in Kerala as Assembly elections near - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g5tcub/article70751691.ece/alternates/LANDSCAPE_1200/11073_16_10_2025_19_44_31_1_02.JPG",
+      "scraped_at": "2026-03-16 23:01:00.277422",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Assembly Elections 2026",
+      "rephrased_article": "**G. Sudhakaran**, a former CPI(M) leader, is leaving the party to contest as an Independent in Kerala's Ambalappuzha Assembly constituency. This move follows a trend of defections and cross-affiliations across political parties in the state, blurring traditional ideological lines between the UDF, LDF, and NDA.  **V.D. Satheesan**, Leader of the Opposition, has hinted at potential defections from the Left, with **P.K. Sasi** and **A. Suresh** already severing ties to contest as UDF",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 42013,
+      "title": "Kerala Assembly Polls 2026: CPI declares candidates for Assembly polls in Kerala - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-cpi-declares-candidates-for-assembly-polls-in-kerala/article70746880.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-15 15:42:09.426171",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "CPI",
+      "rephrased_article": "The **Communist Party of India (CPI)** announced its list of candidates for the upcoming Kerala Legislative Assembly election on Sunday, March 15, 2026. The party renominated all four of its incumbent Ministers: **K. Rajan** (Ollur), **P. Prasad** (Cherthala), **J. Chinchurani** (Chadayamangalam), and **G.R. Anil** (Nedumangad).  The list, which includes five women and one Independent candidate, represents the party's participation in the Left Democratic Front (LDF) coalition. \n\n**CPI State secretary Binoy Viswam** announced the candidates during a press conference in Thiruvananthapuram. The party will contest in 25 constituencies, with **E.T. Taison**, the incumbent legislator in Kaipamangalam, being fielded in the Paravoor constituency where sitting MLA and Leader of Opposition **V.D. Satheesan** is expected to contest.  The other candidates represent a diverse range of constituencies across the state. \n\nViswam expressed optimism that the LDF would secure victory against both the United Democratic Front (UDF) and the Bharatiya Janata Party (BJP), highlighting their alleged political alliance in opposition to the LDF. He believes these parties, despite appearing as separate entities, often collaborate politically when facing the LDF.",
+      "party_mentioned": [
+        "BJP",
+        "CPI"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 41985,
+      "title": "Kerala Assembly Polls 2026: UDF races to finalise seat-sharing as LDF attempts to steal march on the Opposition - The Hindu",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/udf-races-to-finalise-seat-sharing-as-ldf-attempts-to-steal-march-on-the-opposition/article70746451.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-03-15 15:01:54.408903",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "UDF",
+      "rephrased_article": "## UDF Races to Finalize Seat-Sharing Ahead of Kerala Polls\n\nThe Congress-led United Democratic Front (UDF) is scrambling to finalize its seat allocation for the upcoming Kerala Assembly elections. The move comes after the Left Democratic Front (LDF) announced its candidates quickly following the election proclamation, prompting the opposition to accelerate their own candidate selection process.  Leaders from the UDF met with representatives of the Indian Union Muslim League (IUML), a key ally in the coalition, at Aluva Palace on Sunday. While no specific demands were mentioned by the IUML, discussions focused on seat distribution and potential swaps between parties. The meeting concluded with a promise to meet again on Monday to finalize remaining details.  The UDF is facing internal challenges as well, including former KPCC president K. Sudhakaran's desire to contest from Kannur, which has caused delays in finalizing candidate lists.",
+      "party_mentioned": [
+        "Congress"
       ],
       "ministers_mentioned": [],
       "states_mentioned": [

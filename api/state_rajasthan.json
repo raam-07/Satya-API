@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 22:14:54.123959",
+  "generated_at": "2026-06-03 16:03:59.850509",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,34 +8,357 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 208,
-    "articles_last_30d": 109
+    "total_articles": 223,
+    "articles_last_30d": 120
   },
   "top_cities_30d": {
-    "Delhi": 41,
-    "Ahmedabad": 15,
+    "Delhi": 43,
+    "Bengaluru": 16,
+    "Ahmedabad": 16,
     "Mumbai": 13,
-    "Bengaluru": 12,
-    "Jaipur": 10,
+    "Jaipur": 11,
     "Chennai": 9,
+    "Hyderabad": 7,
     "Pune": 6,
-    "Hyderabad": 6,
-    "Kolkata": 4,
+    "Kolkata": 5,
     "Ludhiana": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 85,
-    "education": 25,
-    "crime_violence": 21,
+    "foreign_policy": 94,
+    "education": 26,
+    "crime_violence": 23,
+    "infrastructure": 18,
     "economy": 18,
     "protest_opposition": 17,
-    "infrastructure": 14,
     "corruption_scam": 12,
-    "health": 11,
-    "farmer_agriculture": 10,
+    "health": 12,
+    "farmer_agriculture": 11,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 64914,
+      "title": "As El Niño threatens monsoon, farmer groups promote millets, mulching and drip irrigation | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/weak-monsoon-el-nino-fpos-promote-millets-climate-resilient-farming-india-10721736/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/09/millets.png",
+      "scraped_at": "2026-06-03 10:26:12.037811",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Union Ministry of Agriculture",
+      "rephrased_article": "**The Union Ministry of Agriculture** is working to support farmers facing challenges from a weak southwest monsoon by promoting drought-resistant crops and climate-resilient farming practices. The ministry has identified **farmer-producer organizations (FPOs)** across the country that are cultivating drought-resistant crops like millets, and is holding webinars to educate farmers on these methods.  **The Ministry** plans to use the network of over 63 lakh farmers from 10,000 FPOs to encourage adoption of climate-resilient practices, including alternative crops and moisture conservation techniques.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Gujarat",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 64885,
+      "title": "Three of inter-State theft gang held near Dhone; Nandyal ₹14 lakh and car seized - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-of-inter-state-theft-gang-held-near-dhone-nandyal-14-lakh-and-car-seized/article71056016.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/g65vy2/article71056492.ece/alternates/LANDSCAPE_1200/Nandyal.jpeg",
+      "scraped_at": "2026-06-03 10:24:12.707115",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Dhone Town and CCS Nandyal police** arrested a three-member inter-State gang from Rajasthan for the theft of cigarettes and cash from an **ITC warehouse** in Dhone town.  The suspects, who were apprehended near Rudraksha Gutta, allegedly confessed to stealing the goods and selling them in Hyderabad. They also admitted to committing similar burglaries in Kadapa town and other areas in Telangana and Karnataka. The fourth member of the gang is still at large.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Rajasthan",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64875,
+      "title": "dk shivakumar oath ceremony live updates karnataka chief minister cabinet ministers swearing in siddaramaiah yathindra siddaramaiah congress rahul gandhi sonia gandhi",
+      "url": "https://www.ndtv.com/india-news/dk-shivakumar-oath-ceremony-live-updates-karnataka-chief-minister-cabinet-ministers-swearing-in-siddaramaiah-yathindra-siddaramaiah-congress-rahul-gan-11583441#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-11/5gevg6l4_dk-shivakumar_625x300_30_November_25.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 10:23:48.965307",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**DK Shivakumar** will be sworn in as the chief minister of Karnataka today at 4 pm.  The ceremony, to be held at the Glass House in Lok Bhavan, will see the swearing-in of ten ministers, including **Yathindra Siddaramaiah**, son of former Chief Minister **Siddaramaiah**.  **Rahul Gandhi** and **Mallikarjun Kharge** are expected to attend. **Sonia Gandhi** congratulated **Shivakumar** on Wednesday.",
+      "party_mentioned": [
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Siddaramaiah",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64823,
+      "title": "Weather Updates Today LIVE | IMD Weather Alert, Heatwave in Delhi NCR, UP, Noida, Rajasthan: Delhi-NCR To Witness Week Of Rain, Thunderstorms",
+      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-records-high-of-37-7-degress-celcius-no-heatwave-l-11583272#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-03/mqspvt9g_delhi-generic-india-gate_625x300_10_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 05:29:19.390695",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**The India Meteorological Department (IMD)** has predicted a week of thunderstorms and rainfall for **Delhi-NCR**, with temperatures remaining below 40 degrees Celsius until June 5th.  **The World Meteorological Organisation (WMO)** stated that El Nino conditions are developing, potentially increasing the risk of extreme weather in coming months. A fresh western disturbance is expected to bring intermittent rainfall and thunderstorms to Himachal Pradesh from June 3rd through June 6th. Rainfall and thunderstorms brought relief from heat in Rajasthan on Tuesday, with temperatures dropping below heatwave levels at most places.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64784,
+      "title": "Latest family health survey: Rajasthan sees rise in teen pregnancies, dip in child nutrition indicators | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/latest-family-health-survey-rajasthan-sees-rise-in-teen-pregnancies-dip-in-child-nutrition-indicators-10721064/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/pregnancy_20260602201700.jpg",
+      "scraped_at": "2026-06-03 00:13:50.560603",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Rajasthan Government",
+      "rephrased_article": "The National Family Health Survey (NFHS-6) revealed an increase in the adolescent pregnancy rate in Rajasthan to 4.7% from 3.7% in NFHS-5, prompting over 50 groups and activists to urge the state government for intervention. The survey also showed a decline in institutional births, vaccination rates, and health indicators for children, including exclusive breastfeeding, wasting, and underweight rates.  The decline in immunization coverage, particularly for BCG, Pentavalent, and measles vaccines, has raised concerns about vaccine-preventable diseases and outbreaks among children. These trends are attributed to gaps in the reach and effectiveness of routine immunisation services, access to quality maternal healthcare, and family planning programs.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "crime_violence",
+        "health"
+      ]
+    },
+    {
+      "id": 64776,
+      "title": "After a gap of 21 years, M.P. government to relaunch State-wide public bus service - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assam-villagers-refuse-burial-for-slain-youth-accused-of-killing-teen-injuring-girl/article71053746.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5ij2o0/article71054459.ece/alternates/LANDSCAPE_1200/20260203467L.jpg",
+      "scraped_at": "2026-06-03 00:13:31.156464",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "**Mohan Yadav**, the Chief Minister of **Madhya Pradesh**, announced the relaunch of a state-wide public transport bus service, 'Mukhya Mantri Sugam Parivahan Sewa', in phases across the state. The service will be launched by the **Madhya Pradesh Passenger Transport and Infrastructure Limited** under a public-private partnership (PPP) model, with operations starting from Indore in July.  The initiative aims to address challenges related to distances between cities and provide convenient travel options for citizens, particularly women.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Indore",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64775,
+      "title": "Supreme Court appoints high-powered panel to review Aravalli definition report | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/supreme-court-panel-review-aravalli-definition-10721093/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/photo-2025-12-30T101849.105_20260602210706.jpg",
+      "scraped_at": "2026-06-03 00:13:20.095313",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** established a High-Powered Committee (HPC) under **Kanchan Devi**, Director General of the Indian Council of Forestry Research and Education (ICFRE), to review the definition of the Aravalli hills. The HPC, tasked with submitting its report by August 31st, will be composed of four members: Dr Subhash Ashutosh, Dr Rajendra Kumar Sharma, Brij Mohan Singh Rathore, and Prof Ashok K Bhatnagar.  The committee also includes two special invitees – Prof Jagdish Krishnaswamy and Prof Laxmikant Sharma. The HPC's mandate is to evaluate the definition scientifically and address key issues related to the Aravalli hills' protection.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64773,
+      "title": "After a gap of 21 years, M.P. government to relaunch State-wide public bus service - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/after-a-gap-of-21-years-mp-government-to-relaunch-state-wide-public-bus-service/article71053783.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5ij2o0/article71054459.ece/alternates/LANDSCAPE_1200/20260203467L.jpg",
+      "scraped_at": "2026-06-03 00:13:15.120328",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "**Mohan Yadav**, the Chief Minister of **Madhya Pradesh**, announced the relaunch of a state-wide public transport bus service, 'Mukhya Mantri Sugam Parivahan Sewa', in phases across the state. The service will be launched by the **Madhya Pradesh Passenger Transport and Infrastructure Limited** and is expected to address challenges posed by distances between cities and provide convenient travel options for citizens. The first phase will launch from Indore in July, with services including intracity, intercity, and inter-state routes.  The initiative aims to improve connectivity within the state and neighboring states, addressing concerns about safety and accessibility of public transport.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Indore",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64772,
+      "title": "1.5 crore artificial groundwater recharge, storage works under JSJB initiative: Minister C R Patil | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/jal-sanchay-jan-bhagidari-groundwater-recharge-c-r-patil-10721159/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/CR-Patil.jpg",
+      "scraped_at": "2026-06-03 00:13:13.453490",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Union Jal Shakti Minister C R Patil** announced that over 1.5 crore artificial groundwater recharge and storage works have been created across India under the **Jal Sanchay Jan Bhagidari (JSJB)** initiative, largely driven by community participation. The initiative, launched in response to Prime Minister Narendra Modi's call for community involvement in water conservation, aims to enhance water recharge through various methods supported by government and non-government resources.  **Andhra Pradesh**, **Chhattisgarh**, and **Madhya Pradesh** have reported the highest number of these works, while other states like **Telangana**, **Rajasthan**, and **Bihar** have also seen significant progress.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 64770,
+      "title": "​Change in arrangement: On the leadership transition in Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/change-in-arrangement-on-the-leadership-transition-in-karnataka/article71053056.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-03 00:13:10.986431",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**D.K. Shivakumar**, the prominent face of the **Congress** in Karnataka, is set to become Chief Minister on June 3rd after a long-held ambition. The party's decision appears to address grievances among his supporters and aims for a successful transition ahead of the 2028 Assembly elections.  The change in leadership comes amidst anti-incumbency sentiment and with an eye towards potential alliances with the **BJP** and **JD(S)**, both of which are likely to benefit from this move. Shivakumar's success will depend on his ability to unite the party and address regional disparities while maintaining fiscal discipline.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [
+        "Ashok Gehlot",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Punjab",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64766,
+      "title": "Buttler hails Sooryavanshi’s impact in IPL 2026: ‘He was the IPL this year’",
+      "url": "https://indianexpress.com/article/sports/cricket/buttler-hails-sooryavanshis-impact-in-ipl-2026-he-was-the-ipl-this-year-10720972/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/sooryavanshi_be5e02.jpg",
+      "scraped_at": "2026-06-02 22:28:13.989101",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Vaibhav Sooryavanshi",
+      "rephrased_article": "**Jos Buttler**, former England white-ball captain, praised **Vaibhav Sooryavanshi**, a 15-year-old batsman for the **Gujarat Titans (GT)**, as one of the biggest attractions of IPL 2026.  Buttler highlighted Sooryavanshi's impressive performances and popularity, noting that he was even more popular than the winning team, **Royal Challengers Bengaluru**. The England star believes Sooryavanshi has handled the spotlight well and predicts a long and successful career for him. Buttler also reflected on his own disappointing IPL final loss to **RCB**, admitting he was \"flat\" after falling short of victory.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Kolkata",
+        "Ahmedabad"
+      ],
+      "topic_tags": []
+    },
     {
       "id": 64475,
       "title": "Weather Today LIVE Updates | IMD Weather Forecast Delhi NCR, UP, Noida, Rajasthan Heatwave Updates: Delhi Records Coolest Start To June In 3 Years",
@@ -5561,301 +5884,6 @@
       "topic_tags": [
         "protest_opposition",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 46105,
-      "title": "‘Stree Nidhi’ to take up staff recruitment soon: Seethakka - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/stree-nidhi-to-take-up-staff-recruitment-soon-seethakka/article70796845.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-28 15:46:28.680670",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Stree Nidhi Credit Cooperative Federation Limited",
-      "rephrased_article": "**Danasari Anasuya**, **Minister of Panchayati Raj and Rural Development**, announced government approval for 163 new appointments at the Stree Nidhi Credit Cooperative Federation Limited.  She also praised the federation's growth, noting its strong financial position with a loan portfolio exceeding ₹5,500 crore. The Minister highlighted the federation's success in expanding digital access and enabling post office cash transactions in remote areas.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Karnataka",
-        "Meghalaya",
-        "Rajasthan",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 45941,
-      "title": "Electors pitch for business development, peace and harmony in Harbour Assembly constituency - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/electors-pitch-for-business-development-peace-and-harmony-in-harbour-assembly-constituency/article70791858.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ocyr74/article70794204.ece/alternates/LANDSCAPE_1200/2501_27_3_2026_9_13_58_2_IMG_4305.JPEG",
-      "scraped_at": "2026-03-28 06:06:39.061447",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**DMK** led Greater Chennai Corporation (GCC) has initiated electoral roll revisions in the Harbour Assembly Constituency, resulting in the removal of over 12,000 names from northern states. Residents like Mitha Lal and R. Barathan highlight the positive impact of the government's policies on business growth and social harmony.  However, challenges remain such as stray cattle attacks, inadequate infrastructure, and traffic congestion. The BJP faces an uphill battle due to the removal of significant numbers of north Indian voters during the Special Intensive Revision (SIR).",
-      "party_mentioned": [
-        "BJP",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Rajasthan",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "health",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 45890,
-      "title": "BJD demands VAT reduction on petrol, diesel in Odisha - The Hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/bjd-demands-vat-reduction-on-petrol-diesel-in-odisha/article70792745.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/44fk4w/article70794229.ece/alternates/LANDSCAPE_1200/iStock-2191746686.jpg",
-      "scraped_at": "2026-03-27 22:42:56.189451",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Odisha Government",
-      "rephrased_article": "**BJD** leaders in **Odisha** criticized the state government's handling of fuel prices, demanding a reduction in Value Added Tax (VAT) to match the Centre's excise duty cut.  The party cited concerns over global fuel shortages and public anxiety about supply disruptions, arguing that the state should prioritize uninterrupted fuel access. They also pointed out that **Odisha** has one of the highest VAT rates on fuel compared to other states.",
-      "party_mentioned": [
-        "BJP",
-        "Janata Dal",
-        "BJD",
-        "Biju Janata Dal"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Odisha",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 45709,
-      "title": "Vaibhav Suryavanshi: The 15-year-old Indian that cricket can no longer ignore",
-      "url": "https://www.bbc.com/news/articles/ce3dl636ly3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d97f/live/3232a670-28c3-11f1-9516-876fae3988b5.jpg",
-      "scraped_at": "2026-03-27 12:05:56.766591",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Vaibhav Suryavanshi",
-      "rephrased_article": "The 15-year-old Indian batter Vaibhav Suryavanshi is poised to make history as the youngest player in the IPL.  **Suryavanshi**, who turned 15 on March 27th, has already made a name for himself with impressive performances at various youth levels and his recent century in the IPL. The question now is whether he's ready for the world stage.  His talent has been recognized by many former cricketers, including Ravi Shastri, AB de Villiers, Matthew Hayden, WV Raman, and Sachin Tendulkar, who have praised his skills and maturity.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Gujarat",
-        "Rajasthan",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Bangalore"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 45593,
-      "title": "CPI(M)’s criticism of Rahul Gandhi to please BJP: Sachin Pilot - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/cpims-criticism-of-rahul-gandhi-to-please-bjp-sachin-pilot/article70789213.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/f8iqik/article70789828.ece/alternates/LANDSCAPE_1200/Sachin_Pilot05.JPG",
-      "scraped_at": "2026-03-26 23:44:09.683639",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "CPI(M)",
-      "rephrased_article": "**Sachin Pilot**, general secretary of the **All India Congress Committee**, accused **Pinarayi Vijayan**, chief minister of Kerala, and the **CPI(M)** of making allegations against **Rahul Gandhi** to appease the **BJP**.  Pilot alleged that these accusations are part of a deal between the two parties. He also criticized the LDF government's handling of issues like cooking gas shortages and economic development in the state.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Sonia Gandhi",
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 45250,
-      "title": "US investors bet big on Indian cricket with record billion-dollar IPL deals | Sport News | Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/3/25/us-investors-bet-big-on-indian-cricket-with-record-billion-dollar-ipl-deals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP26083800148568-1774470545.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-03-25 22:07:46.077496",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Premier League",
-      "rephrased_article": "**US** investors made record-breaking billion-dollar deals for two Indian Premier League teams, the Rajasthan Royals and Royal Challengers Bengaluru.  The deals mark a significant jump from previous sales and highlight the growing allure of India's national pastime among international investors. **Kal Somani**, **Rob Walton**, **David Blitzer**, and other US businessmen are part of the new ownership groups for both teams. The IPL, with its global reach and massive audience, is attracting substantial investment as businesses seek to tap into the sport's popularity in India and beyond.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Bengaluru",
-        "Chennai",
-        "Kolkata",
-        "Lucknow"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 45080,
-      "title": "RPSG shares rocket 20% after RCB's Rs 16,600 crore deal lifts valuation benchmark for IPL teams - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rpsg-shares-rocket-20-after-rcbs-rs-16600-crore-deal-amplifies-valuation-benchmark-for-ipl-teams/articleshow/129795358.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-129795454,width-1200,height-630,imgsize-115092,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-03-25 09:02:24.233155",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "RCB",
-      "rephrased_article": "The **Aditya Birla Group**, **Times of India Group**, **Bolt Ventures** led by David Blitzer, and a Blackstone fund have acquired the **Royal Challengers Bangalore (RCB)** franchise for approximately $1.8 billion, setting a new high-water mark for IPL franchise valuations. This transaction surpasses previous valuations of other franchises like the Gujarat Titans ($900 million) and Rajasthan Royals ($1.6 billion), indicating a significant re-rating of IPL assets driven by strong global investor interest. The deal also represents nearly a 16-fold return for United Spirits Limited, which owned the franchise since its inception in 2008.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Hyderabad",
-        "Lucknow"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 45000,
-      "title": "‘Educate Girls’ honours Pragati learners at graduation ceremony in Pali - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/educate-girls-honours-pragati-learners-at-graduation-ceremony-in-pali/article70780125.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/v4i6rg/article70781399.ece/alternates/LANDSCAPE_1200/educate_girls.jpeg",
-      "scraped_at": "2026-03-24 23:46:37.987851",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Educate Girls",
-      "rephrased_article": "**Educate Girls**, an Indian organization recognized with the Ramon Magsaysay Award for its work in addressing gender disparities in education, celebrated the graduation of nearly 13 adolescent girls and young women who achieved high marks in the Rajasthan State Open School class 10 examinations. The ceremony in Pali, Rajasthan, honored the learners through **Educate Girls'** Pragati program, which supports women aged 15 to 29 years who are overage, academically behind, or at risk of dropping out of formal education.  The program has enabled over 10,210 learners to resume their education after extended gaps and successfully complete class 10. District Literacy & Continuing Education Officer Kailash Chandra Rathore praised the organization's sustained impact over the past 18 years.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 44879,
-      "title": "Adani Green block deal: BNP Paribas buys 6.9 lakh shares worth Rs 56 crore - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-block-deal-bnp-paribas-buys-6-9-lakh-shares-worth-rs-56-crore/articleshow/129780932.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-129780927,width-1200,height-630,imgsize-24882,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-03-24 18:01:49.607861",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Adani Green Energy",
-      "rephrased_article": "**BNP Paribas** and its affiliate **BNP Paribas Financial Markets** purchased 6.9 lakh shares of **Adani Green Energy**, a deal valued at Rs 56 crore, on Monday. The stock price closed at Rs 839, up 2.76% for the day.  Despite strong revenue growth in the power supply segment, **Adani Green Energy** reported a net loss of Rs 41 crore in the December quarter and has underperformed the broader market.  The company's operational capacity reached 17.2 GW, keeping it on track to achieve its 50 GW target.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 44836,
-      "title": "Govt. plans to close Government Flying Training School at Jakkur to develop club for MLAs, MPs, officials: BJP - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/govt-plans-to-close-government-flying-training-school-at-jakkur-to-develop-club-for-mlas-mps-officials-bjp/article70779581.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mum3yg/article70780210.ece/alternates/LANDSCAPE_1200/Loan-burden-on-GTLFMRF25.3.jpg.jpg",
-      "scraped_at": "2026-03-24 14:01:46.605328",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**R. Ashok**, leader of the Opposition, accused the **Congress** government of planning to shut down Bengaluru's GFTS at Jakkur to build an exclusive club for politicians and bureaucrats. He alleged that a senior IAS officer had proposed this plan in consultation with a developer from Rajasthan.  **K.J. George**, Energy Minister, suggested using the land for a major sports complex, while **Krishna Byre Gowda**, Revenue Minister, previously opposed the idea of an executive club.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 44688,
-      "title": "Gehlot accuses Rajasthan government of dismantling health model with neglect - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/gehlot-accuses-rajasthan-government-of-dismantling-health-model-with-neglect/article70776264.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6jtfh3/article70707933.ece/alternates/LANDSCAPE_1200/nd24-RJ-GEHLOT_GU8F2POH6.3.jpg.jpg",
-      "scraped_at": "2026-03-23 23:39:28.424040",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "Rajasthan government",
-      "rephrased_article": "**Ashok Gehlot**, former **Rajasthan** Chief Minister, criticized the **Bharatiya Janata Party** government's handling of healthcare infrastructure in the state. He alleged delays in treatment and shortages of essential medicines, citing a deterioration of public health schemes and an acute blood shortage at major hospitals.  Gehlot called for the lifting of restrictions on private blood banks and urged the government to address public grievances regarding the worsening situation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Ashok Gehlot"
-      ],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Jaipur"
-      ],
-      "topic_tags": [
-        "health"
       ]
     }
   ]

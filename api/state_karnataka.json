@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 22:14:54.072830",
+  "generated_at": "2026-06-03 16:03:59.791980",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,15 +8,15 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 665,
-    "articles_last_30d": 247
+    "total_articles": 719,
+    "articles_last_30d": 260
   },
   "top_cities_30d": {
-    "Bengaluru": 79,
-    "Delhi": 50,
-    "Bangalore": 11,
+    "Bengaluru": 86,
+    "Delhi": 52,
+    "Bangalore": 12,
+    "Hyderabad": 10,
     "Mumbai": 10,
-    "Hyderabad": 9,
     "Ahmedabad": 9,
     "Chennai": 7,
     "Coimbatore": 4,
@@ -24,18 +24,450 @@
     "Kanpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 157,
-    "protest_opposition": 58,
+    "foreign_policy": 164,
+    "protest_opposition": 57,
     "education": 55,
     "infrastructure": 41,
-    "economy": 39,
-    "crime_violence": 37,
+    "economy": 38,
+    "crime_violence": 36,
     "farmer_agriculture": 29,
     "health": 26,
-    "corruption_scam": 18,
-    "rape_sexual_crime": 6
+    "corruption_scam": 17,
+    "political_gaffe": 12
   },
   "recent_articles": [
+    {
+      "id": 64914,
+      "title": "As El Niño threatens monsoon, farmer groups promote millets, mulching and drip irrigation | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/weak-monsoon-el-nino-fpos-promote-millets-climate-resilient-farming-india-10721736/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/09/millets.png",
+      "scraped_at": "2026-06-03 10:26:12.037811",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Union Ministry of Agriculture",
+      "rephrased_article": "**The Union Ministry of Agriculture** is working to support farmers facing challenges from a weak southwest monsoon by promoting drought-resistant crops and climate-resilient farming practices. The ministry has identified **farmer-producer organizations (FPOs)** across the country that are cultivating drought-resistant crops like millets, and is holding webinars to educate farmers on these methods.  **The Ministry** plans to use the network of over 63 lakh farmers from 10,000 FPOs to encourage adoption of climate-resilient practices, including alternative crops and moisture conservation techniques.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Gujarat",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Rajasthan",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 64885,
+      "title": "Three of inter-State theft gang held near Dhone; Nandyal ₹14 lakh and car seized - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-of-inter-state-theft-gang-held-near-dhone-nandyal-14-lakh-and-car-seized/article71056016.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/g65vy2/article71056492.ece/alternates/LANDSCAPE_1200/Nandyal.jpeg",
+      "scraped_at": "2026-06-03 10:24:12.707115",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Dhone Town and CCS Nandyal police** arrested a three-member inter-State gang from Rajasthan for the theft of cigarettes and cash from an **ITC warehouse** in Dhone town.  The suspects, who were apprehended near Rudraksha Gutta, allegedly confessed to stealing the goods and selling them in Hyderabad. They also admitted to committing similar burglaries in Kadapa town and other areas in Telangana and Karnataka. The fourth member of the gang is still at large.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Rajasthan",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 64875,
+      "title": "dk shivakumar oath ceremony live updates karnataka chief minister cabinet ministers swearing in siddaramaiah yathindra siddaramaiah congress rahul gandhi sonia gandhi",
+      "url": "https://www.ndtv.com/india-news/dk-shivakumar-oath-ceremony-live-updates-karnataka-chief-minister-cabinet-ministers-swearing-in-siddaramaiah-yathindra-siddaramaiah-congress-rahul-gan-11583441#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-11/5gevg6l4_dk-shivakumar_625x300_30_November_25.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 10:23:48.965307",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**DK Shivakumar** will be sworn in as the chief minister of Karnataka today at 4 pm.  The ceremony, to be held at the Glass House in Lok Bhavan, will see the swearing-in of ten ministers, including **Yathindra Siddaramaiah**, son of former Chief Minister **Siddaramaiah**.  **Rahul Gandhi** and **Mallikarjun Kharge** are expected to attend. **Sonia Gandhi** congratulated **Shivakumar** on Wednesday.",
+      "party_mentioned": [
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Siddaramaiah",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64838,
+      "title": "Second and third year convocation held at Nrupathunga Cluster University - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/second-and-third-year-convocation-held-at-nrupathunga-cluster-university/article71053542.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2pn2l0/article71054165.ece/alternates/LANDSCAPE_1200/_JAI7156.JPG",
+      "scraped_at": "2026-06-03 05:29:49.812418",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Nrupatunga University",
+      "rephrased_article": "**H.S. Raghavendra Rao**, a critic, urged young people to promote science in **Kannada** for widespread accessibility.  At the Nrupatunga University convocation ceremony, he highlighted the lack of scientific literature in Kannada and called for efforts to make it understandable for the general public.  Honorary doctorates were awarded to six individuals including **Jayamala Ramachandra**, **S.G. Siddaramaiah**, **K. Jaiprakash**, **Srinivas G. Kappanna**, **S. Mariswamy** (retd.), and **Nischal B.H.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 64832,
+      "title": "Meeting between Zameer Ahmed Khan and D.K. Suresh raises eyebrows in Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/meeting-between-zameer-ahmed-khan-and-dk-suresh-raises-eyebrows/article71054106.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/aevcc7/article71054421.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-02%20at%2021.45.13.JPEG",
+      "scraped_at": "2026-06-03 05:29:37.462291",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "B.Z. Zameer Ahmed Khan",
+      "rephrased_article": "**B.Z. Zameer Ahmed Khan** met with former **MP D.K. Suresh** in a closed-door meeting that sparked speculation about political fallout from an audio clip purportedly featuring him discussing sabotage of the Davangere South bypoll election chances.  Congress leaders from Davangere have called for action against **Khan**, citing the audio as evidence of anti-party activities, while **Shamanur**, the winning Congress candidate, has urged party leadership to verify the clip's authenticity.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64825,
+      "title": "Karnataka CM swearing-in LIVE: D.K. Shivakumar to be sworn in as Karnataka CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-dks-dk-shivakumar-oath-taking-swearing-in-ceremony-live-updates-june-3-2026/article71053881.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yesvbc/article71053957.ece/alternates/LANDSCAPE_1200/ALL_7726.JPG",
+      "scraped_at": "2026-06-03 05:29:28.203256",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**D.K. Shivakumar**, the eight-time legislator and **Karnataka Pradesh Congress Committee president**, will be sworn in as the 34th Chief Minister of Karnataka on Wednesday evening at Lok Bhavan.  The list of Cabinet ministers, expected to number between 10 and 15, will be released by the **Congress central leadership** on Wednesday. The event will also include prominent figures like **Rahul Gandhi**, **Mallikarjun Kharge**, and other **Congress Chief Ministers**.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64820,
+      "title": "D.K. Shivakumar: How the ‘rock’ of Congress became Karnataka CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/former-karnataka-mlc-kidnapped-released-after-extortion-bid-in-attibele/article71054148.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/wxu59d/article71042510.ece/alternates/LANDSCAPE_1200/DK_Shivakumar.jpg",
+      "scraped_at": "2026-06-03 05:29:14.896823",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**DKShi**, the eight-time MLA and prominent Congress leader in Karnataka, is poised to become the state's new chief minister following **Siddaramaiah's** resignation.  Known for his strong Hindu cultural beliefs and frequent use of the phrase \"Efforts may fail, but prayers do not,\" **DKShi** has been a key strategist for the party in South India.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64790,
+      "title": "Ahead of Shivakumar’s swearing-in as CM, Siddaramaiah appointed CWC member | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/ahead-of-shivakumars-swearing-in-as-cm-siddaramaiah-appointed-cwc-member-10721150/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/An-installation-with-portrait-of-Karnataka-CM-designate-D-K-Shivakumar-in-Bengaluru-on-Tuesday.-PTI.jpg",
+      "scraped_at": "2026-06-03 00:14:11.856466",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Siddaramaiah**, the former Karnataka Chief Minister, was appointed a member of the **Congress Working Committee (CWC)** on Tuesday by **Mallikarjun Kharge**.  The day-long deliberations with **Shivakumar** and **Siddaramaiah** focused on finalizing the new Cabinet. The oath-taking ceremony for **Shivakumar**, who will be sworn in as the 34th Chief Minister, is scheduled for Wednesday.  The event will be held at the state Lok Bhavan with a limited number of attendees.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64783,
+      "title": "Traffic curbs in Bengaluru for Karnataka CM’s swearing-in ceremony - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/major-traffic-curbs-in-bengaluru-for-karnataka-cms-swearing-in-ceremony/article71051772.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/q4kca/article71054425.ece/alternates/LANDSCAPE_1200/_DSC0259.JPG",
+      "scraped_at": "2026-06-03 00:13:48.276769",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka Chief Minister",
+      "rephrased_article": "**Bengaluru Traffic Police** have implemented extensive traffic restrictions and diversions across the city's Central Business District (CBD) on June 3rd for the swearing-in ceremony of the new **Karnataka** Chief Minister. The event, scheduled to begin at 4 p.m., is expected to draw dignitaries and political leaders from across the country, leading to heightened security measures and traffic management arrangements.  Motorists are advised to use alternative routes to avoid delays due to heavy congestion anticipated in and around the CBD area. **The** **Bengaluru Traffic Police** have also prohibited parking on over 20 major roads within the city limits.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64770,
+      "title": "​Change in arrangement: On the leadership transition in Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/change-in-arrangement-on-the-leadership-transition-in-karnataka/article71053056.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-03 00:13:10.986431",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**D.K. Shivakumar**, the prominent face of the **Congress** in Karnataka, is set to become Chief Minister on June 3rd after a long-held ambition. The party's decision appears to address grievances among his supporters and aims for a successful transition ahead of the 2028 Assembly elections.  The change in leadership comes amidst anti-incumbency sentiment and with an eye towards potential alliances with the **BJP** and **JD(S)**, both of which are likely to benefit from this move. Shivakumar's success will depend on his ability to unite the party and address regional disparities while maintaining fiscal discipline.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [
+        "Ashok Gehlot",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Punjab",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64719,
+      "title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/rahul-gandhi-26.jpg",
+      "scraped_at": "2026-06-02 19:47:05.989322",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Rahul Gandhi** and **Mallikarjun Kharge** criticized the government's transfer of **CBSE Chairman Rahul Singh** and **Secretary Himanshu Gupta**, calling it a cover-up for the ongoing On-Screen Marking row.  They demanded the dismissal of **Union Education Minister Dharmendra Pradhan** and an independent judicial inquiry, arguing that the transfers were not accountability but a way to deflect attention from the minister's alleged corruption. **Jairam Ramesh** also expressed concern over the sudden departure of leadership and the formation of a one-member commission, highlighting the irregularities exposed by Gen Z students.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64713,
+      "title": "Shivakumar set to take oath as Karnataka CM in lowkey ceremony | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/dk-shivakumar-oath-taking-karnataka-chief-minister-cabinet-formation-10721026/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/DK-Shivakumar-file-photo.jpg",
+      "scraped_at": "2026-06-02 19:46:34.545014",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "D K Shivakumar",
+      "rephrased_article": "**D K Shivakumar**, the newly elected 34th Chief Minister of **Karnataka**, will take his oath on Wednesday alongside a first batch of around 10 ministers. The ceremony, held at the state Lok Bhavan with limited fanfare, is expected to include several senior ministers from the Siddaramaiah cabinet and two young ministers, including **Priyank Kharge** and **Krishna Byre Gowda**.  The Congress leadership has opted for a low-key swearing-in, prioritizing balancing caste equations in the new cabinet. **Rahul Gandhi**, **Mallikarjun Kharge**, and **V D Satheesan** are expected to attend the ceremony.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64696,
+      "title": "Karnataka CM swearing-in ceremony: Elaborate security in place at Lok Bhavan in Bengaluru - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-swearing-in-ceremony-elaborate-security-in-place-at-lok-bhavan-in-bengaluru/article71052587.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8u5rqa/article71054427.ece/alternates/LANDSCAPE_1200/_DSC0080.JPG",
+      "scraped_at": "2026-06-02 19:45:29.507120",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka CM",
+      "rephrased_article": "**Bengaluru City Police** have implemented extensive security and traffic management arrangements for the swearing-in ceremony of the Chief Minister at **Lok Bhavan** on Wednesday.  The event will be restricted to invited guests only, with limited seating capacity and no roadshow. **City Police Commissioner Seemant Kumar Singh** has deployed additional police platoons and reserve force companies across the city, along with surveillance measures including CCTV cameras, LED screens, and drones. The **Bengaluru City Police** have also declared a temporary no-fly zone around the **KPCC office** and **Hotel Shangri-La**, prohibiting drone operations within a one-kilometer radius.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 64694,
+      "title": "Stage set for D.K. Shivakumar to over as new CM of Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/stage-set-for-dk-shivakumar-to-over-as-new-cm-of-karnataka/article71054249.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/xseky4/article71054288.ece/alternates/LANDSCAPE_1200/_DSC9960.JPG",
+      "scraped_at": "2026-06-02 19:45:18.089034",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**D.K. Shivakumar**, the eight-time legislator and Karnataka Pradesh Congress Committee president, will be sworn in as the 34th Chief Minister of Karnataka on Wednesday evening at Lok Bhavan.  The list of Cabinet ministers is expected to be released by the **Congress central leadership** on Wednesday, with speculation about new faces joining the existing cabinet. The event will be attended by prominent leaders like **Rahul Gandhi**, **Mallikarjun Kharge**, and other state chief ministers. Traffic restrictions are in place for the ceremony in Bengaluru.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 64677,
+      "title": "List of Ministers to be sworn in with DKS to be finalised only June 3 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/list-of-ministers-to-be-sworn-in-with-dks-to-be-finalised-only-june-3/article71054013.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g1235c/article71054145.ece/alternates/LANDSCAPE_1200/20260602167L.jpg",
+      "scraped_at": "2026-06-02 19:44:37.774409",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** central leadership is expected to announce the list of Cabinet ministers, including D.K. Shivakumar, on Wednesday morning.  The final list may include between 10 and 15 ministers, with negotiations ongoing regarding the Deputy Chief Minister's post and the creation of a coordination committee. **Siddaramaiah** and **Shivakumar** have been meeting with the central leadership to finalize their preferences for cabinet positions and the Karnataka Pradesh Congress Committee president.  The expansion of the Cabinet is expected to occur after the Rajya Sabha polls, pending consensus on regional and caste combinations.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 64627,
       "title": "Singam K Annamalai: BJP's Tamil Nadu Star Rose Fast, Fell Faster",
@@ -53,9 +485,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -113,8 +543,7 @@
       "rephrased_article": "A man staged a protest on Old Airport Road, halting traffic for **Karnataka Governor Thawarchand Gehlot**’s convoy. The incident drew attention from motorists and security personnel as the man refused to move despite police requests, claiming his wife was pregnant and unwell. Police ultimately removed him from the road before the Governor's convoy passed through. This incident has reignited debate about VIP protocols and their impact on public convenience, particularly in light of recent calls for a more restrained approach by Prime Minister **Narendra Modi**.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Karnataka"
@@ -4977,408 +5406,6 @@
       "topic_tags": [
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 58949,
-      "title": "Women’s coalition urges speedy implementation of 33% reservation - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/womens-coalition-urges-speedy-implementation-of-33-reservation/article70975106.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-14 01:30:16.611452",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "women's reservation Act",
-      "rephrased_article": "**Members of the National Coalition for Women’s Reservation-Karnataka** have called on the government to immediately implement the women's reservation Act, arguing that linking it to future Census and delimitation exercises is delaying progress. They criticized the delay in delivering equal political representation for women, who constitute 50% of the population, and questioned the need to link implementation with these processes.  The coalition has been advocating for the Act's implementation since 1996 and has intensified nationwide mobilization efforts to achieve this goal.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58853,
-      "title": "Lawrence Bishnoi gang stakes claim on gunfire outside Diljit Dosanjh's manager in Karnal - The Hindu",
-      "url": "https://www.thehindu.com/news/national/punjab/lawrence-bishnoi-gang-stakes-claim-on-gunfire-outside-diljit-dosanjhs-manager-in-karnal/article70974236.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9dev0n/article70975727.ece/alternates/LANDSCAPE_1200/IMG_20230418145L_2_1_A1EVEMI8.jpg",
-      "scraped_at": "2026-05-13 18:30:16.389348",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Lawrence Bishnoi gang",
-      "rephrased_article": "**Punjab Finance Minister Harpal Singh Cheema** alleged that the **Lawrence Bishnoi gang** was responsible for an alleged firing incident outside the residence of Diljit Dosanjh's manager in Haryana.  **Tyson Bishnoi, Arzoo Bishnoi, and Hari Boxer**, purportedly acting on behalf of the **Bishnoi gang**, claimed responsibility for the incident via social media. **Cheema** accused the **BJP** of using gangsters to intimidate Punjabis who refuse to join their party. The **Haryana Police** have not received a complaint from the manager or his family and found no evidence at the scene.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Haryana",
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58836,
-      "title": "Congress unveils ‘Bhu Guarantee’ in Karnataka - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-unveils-bhu-guarantee-in-karnataka/article70973676.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/vprnos/article70973754.ece/alternates/LANDSCAPE_1200/GBA%201.JPEG",
-      "scraped_at": "2026-05-13 16:10:34.543438",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "government",
-      "rephrased_article": "**D.K. Shivakumar**, the **Deputy Chief Minister** of Karnataka, unveiled the \"sixth guarantee\" — Bhu Guarantee — which includes a 60% discount on conversion fees for B-Khata to A-Khata properties within Greater Bengaluru Authority (GBA) limits. The scheme also offers a 50% reduction in regularisation costs for buildings constructed before 2008 on BDA land, and a 15% setback relaxation as per the Town Planning Act. These announcements come amidst discussions about holding civic elections in Bengaluru this year.  The government aims to encourage property conversions and regularizations, but faces challenges with low application rates due to high fees previously associated with these processes.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58824,
-      "title": "Karnataka SC/ST employees’ association objects to new roster - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-scst-employees-association-objects-to-new-roster/article70975156.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-13 16:07:23.411153",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Karnataka State Government",
-      "rephrased_article": "The **Karnataka State Government** announced a 400-point roster for the recruitment of 56,432 posts. The **Karnataka State Government Scheduled Castes/Scheduled Tribes Employees’ Association** objected to the first 50 points being unscientific and argued it would negatively impact SC community candidates in Group ‘A’ and Group ‘B’ posts.  The association urged five Dalit Ministers to review and create a new, scientific roster.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 58774,
-      "title": "SC asks Centre to consider States’ pleas for funds for CCTVs in police stations - The Hindu",
-      "url": "https://www.thehindu.com/news/national/sc-asks-centre-to-consider-states-pleas-for-funds-for-cctvs-in-police-stations/article70973179.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/g8ucpd/article70973688.ece/alternates/LANDSCAPE_1200/CB27_CCTV.jpg",
-      "scraped_at": "2026-05-13 10:35:13.644149",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Centre",
-      "rephrased_article": "The **Supreme Court** urged the **Union government** to fully implement the Assistance to States and Union Territories for Modernisation of Police (ASUMP) scheme, which provides funds for installing CCTV cameras in police stations and a centralized monitoring dashboard. The court expressed concerns over non-functional CCTV cameras in Udaipur police stations and directed the Centre to consider requests from states for funding.  The ASUMP scheme has been extended until September 30, 2026, with most states initiating steps towards compliance. However, Jharkhand was criticized for not installing any CCTV cameras, despite receiving funds under the scheme. The court also cautioned against releasing funds without due diligence to prevent misappropriation.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Haryana",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Nagaland",
-        "Punjab",
-        "Rajasthan",
-        "Tripura",
-        "Jammu",
-        "Kashmir",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58758,
-      "title": "What you need to know about Karnataka’s Rohith Vemula Bill - The Hindu",
-      "url": "https://www.thehindu.com/videos/what-you-need-to-know-about-karnatakas-rohith-vemula-bill/article70973147.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/videos/mig3vq/article70973141.ece/alternates/LANDSCAPE_1200/Rohit-Vemula-bill-explainer-thumbnail.jpg",
-      "scraped_at": "2026-05-13 07:43:22.145418",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka government",
-      "rephrased_article": "The **Karnataka** government has approved the revised **Rohith Vemula** Bill, 2026. The bill aims to prevent discrimination and injustice for students, faculty, and staff from scheduled castes and tribes (SC/ST) by guaranteeing equal access to education in all higher educational institutions across the state.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 58725,
-      "title": "Cong MLCs meet Surjewala, seeks clarity on leadership issue - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/cong-mlcs-meet-surjewala-seeks-clarity-on-leadership-issue/article70971333.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-13 00:10:07.901074",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**MLCs** from the **Congress** government in Karnataka met with **Randeep Singh Surjewala**, a **Congress** general secretary, in New Delhi to discuss potential leadership changes. The MLCs requested an early clarification on the issue and also demanded that at least five members be included in the state cabinet if there is a reshuffle.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58703,
-      "title": "ST delegation meets CM - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/st-delegation-meets-cm/article70970841.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/31q5u6/article70971297.ece/alternates/LANDSCAPE_1200/CM%207.JPEG",
-      "scraped_at": "2026-05-12 22:48:44.070759",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Siddaramaiah**, the Chief Minister of Karnataka, has promised to convene an all-party meeting to discuss the inclusion of a 56% reservation matrix in the Ninth Schedule of the Constitution.  He also assured **V.S. Ugrappa**, former MP and leader of the Samana Manaskara Vedike, that he will take an all-party delegation to **Prime Minister Narendra Modi** to advocate for this legislation. The state government has been working to overturn a legal stay on the 56% reservation, with legal experts being consulted and a special leave petition potentially filed in the Supreme Court.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58684,
-      "title": "AICC begins consultations with Kerala leaders in New Delhi to decide on Congress’ CM candidate - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/aicc-begins-consultations-with-kerala-leaders-in-new-delhi-to-decide-on-congress-chief-minister-candidate/article70968619.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/72xoay/article70968711.ece/alternates/LANDSCAPE_1200/AICC-summons-toGORFVFMNH.6.jpg.jpg",
-      "scraped_at": "2026-05-12 22:44:52.856918",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Rahul Gandhi**, **Sonia Gandhi**, and **Mallikarjun Kharge** met with top Kerala leaders in New Delhi on Tuesday to discuss the selection of a Chief Minister nominee for the state. The high command is seeking bipartisan support from former KPCC presidents, Congress MLAs-elect, and other key figures to restore organizational stability after the party's recent victory.  The meeting considered several potential candidates, including **K.C. Venugopal**, **V.D. Satheesan**, **Ramesh Chennithala**, and **Priyanka Gandhi Vadra**.  **K. Muraleedharan**, a KPCC insider, stated that the high command would consider popular opinion in addition to legislative party numbers when making their decision.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Sonia Gandhi",
-        "Priyanka Gandhi"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58660,
-      "title": "The challenge to not breach the limit - The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/the-challenge-to-not-breach-the-limit/article70971397.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/latest-news/xwjvu2/article70971559.ece/alternates/LANDSCAPE_1200/Karnataka.jpg",
-      "scraped_at": "2026-05-12 21:30:39.637193",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Karnataka government",
-      "rephrased_article": "**The Karnataka government** announced the resumption of public recruitment for 56,432 posts after a year-long hiatus due to reservation issues. The new quota matrix has been met with resentment from job aspirants and some groups, as it altered the overall reservation percentage and internal quotas for Scheduled Castes (SCs).",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58639,
-      "title": "Election results 2026: Why welfare policies aren't winning polls in India like it used to",
-      "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f797/live/bdf1a730-ccf5-11f0-9fb5-5f3a3703a365.jpg",
-      "scraped_at": "2026-05-12 21:26:51.516646",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "India's welfare politics, once a key electoral tool, is facing challenges. While cash transfers and subsidized services have become the norm across parties, recent state elections suggest that extensive welfare delivery alone is no longer enough to secure incumbency.  **Mamata Banerjee's Trinamool Congress**, for example, lost power in West Bengal despite its women-centric welfare schemes. **The Bharatiya Janata Party** has capitalized on expanding welfare architecture, including women's self-help groups and administrative efficiency, while voters are increasingly demanding more than just welfare benefits.  Political scientists argue that this shift signifies a move from the floor of Indian politics to the ceiling, where parties must build coalitions around broader issues like job creation and economic mobility.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Karnataka",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 58630,
-      "title": "Two persons arrested for burglary in Tirupattur - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-for-burglary-in-tirupattur/article70970135.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-12 20:04:07.767801",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "**G. Nagaraj**, 60, and **B. Vaishnavi**, 26, were arrested in Tirupattur for stealing gold jewelry, silver objects, and cash from the home of a retired government school teacher. The theft occurred on April 9th after the couple returned from Chennai.  **Shymala Devi**, Superintendent of Police, formed special teams to investigate the case, which included analyzing CCTV footage and tracing mobile phone signals. The suspects were apprehended in KGF Colony and are currently held at the sub-jail in Tirupattur.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58611,
-      "title": "LPG price surge pushes auto, taxi operators to seek subsidy for shift to CNG, EV - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/lpg-price-surge-pushes-auto-taxi-operators-to-seek-subsidy-for-shift-to-cng-ev/article70971124.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qi2lxk/article70971356.ece/alternates/LANDSCAPE_1200/demonetisation_25.jpg",
-      "scraped_at": "2026-05-12 17:41:11.329067",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "LPG price",
-      "rephrased_article": "**The Federation of Private Transport Associations** has urged the **State** and **Union governments** to provide financial assistance for auto and taxi operators to transition to CNG and electric vehicles. The federation cites rising LPG prices and supply concerns as reasons for their request, noting that drivers are willing to switch but face high conversion costs without government support.  The association has formally submitted representations to both the State Transport Department and the Union government seeking subsidies to ease the process.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 58568,
-      "title": "Workers under CITU Karnataka demand revocation of Labour Codes, burn copies of the Act - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/workers-under-citu-karnataka-demand-revocation-of-labour-codes-burn-copies-of-the-act/article70969547.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/karnataka/bxowt0/article70969695.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-12%20at%2017.16.33.jpeg",
-      "scraped_at": "2026-05-12 12:31:35.889164",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Workers** across **Karnataka**, under the **Centre of Indian Trade Unions (CITU)**, protested against newly-implemented central labor codes. Protests involved burning copies of the codes and taking out processions, with demonstrations occurring at workplaces and district centers. The **CITU Karnataka State Committee** called for a state-wide protest on May 12, 2026, urging the government to not implement the codes in the state due to concerns about worker rights.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "farmer_agriculture",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58562,
-      "title": "World Deadliest Snakes: King Cobra Capitals: 10 countries where the world’s deadliest snake thrives | World News - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/king-cobra-capitals-10-countries-where-the-worlds-deadliest-snake-thrives/articleshow/131037890.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131038225,width-1280,height-720,imgsize-1673484,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-12 12:30:04.279515",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "King cobra",
-      "rephrased_article": "**King cobras**, the world's longest venomous snake, inhabit forests and wetlands across South and Southeast Asia.  Top countries with significant populations include India, Thailand, Indonesia, Malaysia, Myanmar, Bangladesh, Nepal, Vietnam, Cambodia, and China. These countries support diverse king cobra habitats, which are threatened by habitat loss, deforestation, and poaching.  Conservation efforts focus on protecting forest corridors and educating communities about safe coexistence with these fascinating creatures.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Andaman"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "health",
-        "farmer_agriculture",
-        "protest_opposition"
       ]
     }
   ]

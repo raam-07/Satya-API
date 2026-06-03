@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 22:14:54.181725",
+  "generated_at": "2026-06-03 16:03:59.916657",
   "state": "Ladakh",
   "capital": "Leh",
   "ruling_party": "Central Govt",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 58,
-    "articles_last_30d": 31
+    "total_articles": 62,
+    "articles_last_30d": 32
   },
   "top_cities_30d": {
     "Delhi": 10,
@@ -21,13 +21,34 @@
     "education": 9,
     "economy": 9,
     "crime_violence": 5,
+    "protest_opposition": 4,
     "infrastructure": 4,
-    "protest_opposition": 3,
     "farmer_agriculture": 1,
     "health": 1,
     "political_gaffe": 1
   },
   "recent_articles": [
+    {
+      "id": 64785,
+      "title": "Ladakh up in arms over new liberal liquor policy introduced by L-G administration - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh/ladakh-up-in-arms-over-new-liberal-liquor-policy-introduced-by-l-g-administration/article71053649.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-03 00:13:53.524791",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "L-G administration",
+      "rephrased_article": "**Ladakh Buddhist Association (LBA)** has voiced opposition to the newly introduced excise policy, which aims to increase liquor outlets from two to 20 and make alcohol available in remote areas. The LBA stated their opposition to the expansion of liquor shops and unrestricted alcohol sales, emphasizing a desire for a safe and drug-free future for Ladakh.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 64651,
       "title": "India rejects EU-Pakistan remarks on Kashmir, says ‘no locus standi’ | India News - The Indian Express",
@@ -1761,6 +1782,72 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
+      ]
+    },
+    {
+      "id": 42533,
+      "title": "I was thrown into jail, with no communication with my legal team or family, says Sonam Wangchuk - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh/i-was-thrown-into-jail-with-no-communication-with-my-legal-team-or-family-says-sonam-wangchuk/article70753701.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/n5da5u/article70753849.ece/alternates/LANDSCAPE_1200/HDnDDsVbEAEg6th.jpg",
+      "scraped_at": "2026-03-17 12:11:34.804910",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Sonam Wangchuk**, a Ladakhi activist, was released from Jodhpur Central Jail on March 14, 2026 after the **Union Ministry of Home Affairs (MHA)** revoked his 170-day detention under the National Security Act (NSA).  Wangchuk was arrested last year for protesting for Statehood and Sixth Schedule status for Ladakh. He advocates for dialogue and flexibility in negotiations. The government's actions, including the arrest of protesters and residents, have been criticized by Wangchuk.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 42169,
+      "title": "Afghanistan says children among four killed in latest attacks by Pakistan | Conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69b82b93663a-1773677459.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-03-16 17:39:09.594327",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "**Afghanistan** has reported the deaths of four civilians, including three children, in a Pakistani shelling attack on Khost province. **The World Food Programme (WFP)** is mobilizing to provide food assistance for over 20,000 displaced families.  **China**'s special envoy Yue Xiaoyong has been mediating between **Afghanistan** and **Pakistan** to secure an immediate ceasefire. Fighting has intensified in recent weeks, with at least 18 civilian deaths reported.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 41709,
+      "title": "Pakistan strikes Afghan base after its president warns ‘red line’ crossed | Conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/14/pakistan-strikes-afghan-base-after-its-president-warns-red-line-crossed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/ap_69b2b596a2292-1773319574.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-03-15 02:47:58.918803",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Taliban",
+      "rephrased_article": "## Pakistan Strikes Afghan Base in Response to Drone Attacks\n\nPakistan launched airstrikes on an Afghan military facility in Kandahar after Taliban drones targeted civilian areas and military installations across the country. The strikes followed a series of drone attacks by the Taliban, which Pakistani President Asif Ali Zardari condemned as crossing a \"red line\" by targeting civilians.  The Pakistani military claims that the drones were intercepted before reaching their targets, but debris from the strikes wounded two children in Quetta and civilians in Kohat and Rawalpindi. The Pakistani government also accused Kabul of harboring fighters from the ISIL group's Khorasan province affiliate, a claim denied by the Taliban. This escalation marks the sharpest point yet in a conflict that has been intensifying since late February when Pakistan launched military operations against what it claims are Pakistani Taliban fighters on Afghan soil.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
       ]
     }
   ]
