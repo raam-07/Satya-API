@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:14.077458",
+  "generated_at": "2026-06-04 18:39:57.086397",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,388 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1116,
-    "articles_last_30d": 578
+    "total_articles": 1129,
+    "articles_last_30d": 588
   },
   "top_cities_30d": {
-    "Delhi": 572,
-    "Mumbai": 62,
+    "Delhi": 582,
+    "Mumbai": 63,
     "Bengaluru": 41,
-    "Kolkata": 35,
+    "Kolkata": 34,
     "Hyderabad": 32,
-    "Chennai": 25,
-    "Jaipur": 14,
+    "Chennai": 26,
+    "Jaipur": 15,
     "Lucknow": 12,
     "Agra": 11,
     "Pune": 11
   },
   "top_topics_30d": {
-    "foreign_policy": 435,
-    "crime_violence": 177,
-    "economy": 126,
-    "education": 124,
+    "foreign_policy": 442,
+    "crime_violence": 179,
+    "economy": 127,
+    "education": 123,
     "protest_opposition": 106,
-    "infrastructure": 67,
-    "corruption_scam": 62,
-    "health": 32,
+    "infrastructure": 65,
+    "corruption_scam": 61,
+    "health": 33,
     "farmer_agriculture": 24,
     "rape_sexual_crime": 16
   },
   "recent_articles": [
+    {
+      "id": 65344,
+      "title": "Assam Cabinet expansion: Several new faces, no room for high-profile Congress defectors | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/assam-cabinet-expansion-himanta-biswa-sarma-government-new-ministers-list-10724406/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Himanta-Biswa.jpg",
+      "scraped_at": "2026-06-04 16:06:14.663850",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Assam Government",
+      "rephrased_article": "**Sarma**'s cabinet has expanded to 17 ministers, with 12 of them from his first term.  The new additions include **Biswajit Daimary**, the Speaker of the previous assembly and a Bodo leader; **Nilima Devi**, president of the Assam Pradesh BJP Mahila Morcha; and **Ashwini Roy Sarkar** and **Sushanta Borgohain**. Notably, no high-profile Congress leaders who joined the BJP before the election have been included. The expansion leaves room for two more ministers in future.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Manipur",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65324,
+      "title": "Watch: TMC crisis: loyalists back Mamata, rebels stand firm | Above the Fold | 04.06.2026 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-likely-to-push-for-its-own-candidate-for-council-chairman-post/article71061279.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/259vas/article71062274.ece/alternates/LANDSCAPE_1200/June%204%20THUMB%201.png",
+      "scraped_at": "2026-06-04 16:04:18.490968",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** internal divisions and the **U.S. House of Representatives** vote on the Iran war are among the top news stories today.  The latest developments in the deadly Delhi fire tragedy also received coverage.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65319,
+      "title": "Watch: TMC crisis: loyalists back Mamata, rebels stand firm | Above the Fold | 04.06.2026 - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-tmc-crisis-loyalists-back-mamata-rebels-stand-firm-above-the-fold-04062026/article71062312.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/259vas/article71062274.ece/alternates/LANDSCAPE_1200/June%204%20THUMB%201.png",
+      "scraped_at": "2026-06-04 16:04:04.311798",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** internal divisions, the **U.S. House of Representatives** vote on the Iran war, and the ongoing Delhi fire tragedy are among the top news stories today.  The **Above the Fold** program features coverage from **Naveenkumar V**, **Karthi P**, and **Ragavi M**.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65307,
+      "title": "Jet fuel price freeze: How the Rs 10,000-cr scheme affects airfares and airlines",
+      "url": "https://indianexpress.com/article/explained/explained-economics/jet-fuel-price-freeze-scheme-explained-airfares-airlines-india-10724396/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/ex-airindia_expl-econ.png",
+      "scraped_at": "2026-06-04 16:03:47.562341",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Indian government** has implemented a fixed price jet fuel scheme for participating airlines to stabilize airfares amid high international prices. The scheme, approved by the **Union Cabinet**, will see **OMCs** sell fuel at a fixed rate irrespective of market fluctuations, with losses being compensated from a stabilization fund.  This temporary arrangement is expected to ease financial pressure on both **Indian airlines** and **OMCs** for up to three years.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65286,
+      "title": "Malviya Nagar fire rescue puts spotlight on CPR: What it is and when to use it | Explained News - The Indian Express",
+      "url": "https://indianexpress.com/article/explained/explained-health/malviya-nagar-fire-cpr-how-to-perform-guide-10724022/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Malviya-Nagar-fire-CPR.jpg",
+      "scraped_at": "2026-06-04 12:31:43.958783",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "CPR",
+      "rephrased_article": "A fire at the Flourish Stay B&B in Malviya Nagar, South Delhi, on Wednesday (June 3) claimed the lives of at least 21 people, including 12 foreign nationals. The fire started in the basement kitchen and rapidly spread to upper floors, with a single point of entry and exit hindering escape.  **Local residents**, like Wasim Raza, acted quickly to rescue trapped guests before emergency teams arrived. **Hauz Rani resident** Wasim Raza helped rescue seven people by cutting through a window grill and administering CPR. Medical experts emphasize that even imperfect CPR is better than doing nothing at all.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65279,
+      "title": "Hero MotoCorp shares rise 3% as firm unveils India's first 100cc flex-fuel motorcycles. Check details - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-rise-3-as-firm-unveils-indias-first-100cc-flex-fuel-motorcycles-check-details/articleshow/131499530.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131499501,width-1200,height-630,imgsize-73998,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-04 12:31:19.949418",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Hero MotoCorp",
+      "rephrased_article": "**Hero MotoCorp**, India's largest two-wheeler manufacturer, launched flex-fuel versions of its flagship Splendor+ and HF Deluxe motorcycles. The new models are compatible with ethanol-blended fuels ranging from E20 to E85 and aim to reduce carbon footprint while aligning with India's goal of lowering economic carbon intensity by 45% by 2030.  The launch was unveiled in New Delhi ahead of World Environment Day, attended by Union Ministers Nitin Gadkari and Hardeep Singh Puri, as well as **Harshavardhan Chitale**, CEO of **Hero MotoCorp**. The motorcycles will be available in select regions of Maharashtra and Delhi from July 2026.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65271,
+      "title": "Delhi Hotel Fire, Malviya Nagar Fire, Hauz Rani: One Jump Saved His Life: Ludhiana Man's Fight For Survival After Delhi Fire",
+      "url": "https://www.ndtv.com/india-news/delhi-hotel-fire-malviya-nagar-fire-hauz-rani-one-jump-saved-his-life-ludhiana-mans-fight-for-survival-after-delhi-fire-11590857#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/0cv9127o_delhi-fire_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 12:30:57.901835",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "A devastating Delhi hotel fire claimed the lives of at least 21 people and left many injured, including **Vishal**, one of the survivors who sustained serious injuries while escaping.  **Vishal**, from Punjab, had travelled to Delhi for treatment of a back injury and was staying at the hotel where the fire broke out. His brother, Sagar, stated that Vishal jumped from an upper floor window to escape the blaze. The fire also claimed the lives of **Radheshyam Agarwal**, an 80-year-old patient who had been admitted to Max Hospital in Saket for treatment of a lung ailment.  The incident highlights the devastating human toll of the fire, which affected families seeking medical care and support for their loved ones.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 65270,
+      "title": "2020 Delhi riots: Court defers verdict in IB officer murder case for June 11 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/omalur-tvk-candidate-claims-cash-distribution-by-party-nominee-in-salem-west-led-to-his-defeat/article71060197.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ggxedk/article71060939.ece/alternates/LANDSCAPE_1200/DELHI%20ELECTION%20TAHIR%20HUSSAIN%20DELHI%202025_29_01_7.jpg",
+      "scraped_at": "2026-06-04 12:30:56.610357",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Tahir Hussain",
+      "rephrased_article": "**Delhi**'s Additional Sessions Judge Praveen Singh postponed the verdict in the murder case of Intelligence Bureau officer Ankit Sharma until June 11th. The case involves **Tahir Hussain**, a former AAP councillor, and ten other accused who are charged with rioting, murder, and criminal conspiracy related to the 2020 northeast Delhi riots.  **Mr. Kumar**, Ankit Sharma's father, filed a complaint alleging that his son was murdered by the group at **Hussain's** office. The case stems from the communal violence that erupted during protests against the Citizenship (Amendment) Act in February 2020.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65266,
+      "title": "13 Foreigners Among 15 Who Survived Delhi Hotel Fire Still Under Treatment",
+      "url": "https://www.ndtv.com/india-news/13-foreigners-among-15-who-survived-delhi-hotel-fire-still-under-treatment-11590887#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/8bmsdv9g_delhi-hotel-mayor-pti_625x300_04_June_26.jpeg",
+      "scraped_at": "2026-06-04 12:30:48.749630",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "A devastating fire at a hotel in Delhi's Malviya Nagar area claimed the lives of 21 people, including several foreign nationals. **Max Hospital** in Saket is treating 15 survivors, with six patients on ventilators and nine others in ICU or wards with stable conditions. The fire occurred on Wednesday morning, trapping occupants and causing significant injuries.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 65264,
+      "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows? | Oil and Gas News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-04T060731Z_1718416434_RC2TMLARJSSE_RTRMADP_3_INDIA-VENEZUELA-1780567841.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-06-04 12:30:43.694708",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Venezuela",
+      "rephrased_article": "**Delcy Rodriguez**, the interim president of **Venezuela**, is in India to boost energy ties.  She is a devotee of Indian guru Sathya Sai Baba and visited his birthplace in Puttaparthi, as did her predecessor, former President **Nicolas Maduro**.  Rodriguez's visit coincides with India increasing Venezuelan oil imports amid global supply disruptions. The two countries are discussing an energy partnership that could lead to increased oil exports from Venezuela to India.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65259,
+      "title": "Amid Annamalai In-Or-Out Buzz, BJP's 'No Resignation' Clarification",
+      "url": "https://www.ndtv.com/india-news/amid-annamalai-in-or-out-buzz-bjps-no-resignation-clarification-11590855#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/k58ft26s_annamalaimeetamit_625x300_03_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 12:30:35.929713",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **Bharatiya Janata Party (BJP)** in Tamil Nadu has denied reports of a split following election losses, stating that former state chief K Annamalai neither resigned nor plans to form a new political party.  **Nainar Nagendran**, the current Tamil Nadu BJP chief, explained that Annamalai's visit to Delhi was primarily to discuss fertilizer issues with **Union Agriculture Minister Shivraj Singh Chouhan**. However, sources close to Annamalai claim he is preparing to launch a people's movement aimed at forming a new political party.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65257,
+      "title": "2020 Delhi riots: Court defers verdict in IB officer murder case for June 11 - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-court-defers-verdict-in-ib-officer-murder-case-for-june-11/article71060897.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ggxedk/article71060939.ece/alternates/LANDSCAPE_1200/DELHI%20ELECTION%20TAHIR%20HUSSAIN%20DELHI%202025_29_01_7.jpg",
+      "scraped_at": "2026-06-04 12:30:35.282466",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Tahir Hussain",
+      "rephrased_article": "**Delhi** court postponed the verdict in the murder case of Intelligence Bureau officer Ankit Sharma, who was killed during the 2020 northeast Delhi riots. **Additional Sessions Judge Praveen Singh** deferred the judgment for June 11th, after hearing arguments from the prosecution and defense against 11 accused, including former AAP councillor **Tahir Hussain**.  The case stems from an FIR filed by Sharma's father, who alleged that his son was murdered by **Hussain** and others. The charges include rioting, murder, and criminal conspiracy.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65252,
+      "title": "PM Modi Holds Talks With Venezuela Acting President Delcy Rodriguez, Discusses Bilateral Ties",
+      "url": "https://www.ndtv.com/india-news/pm-modi-holds-talks-with-venezuela-acting-president-delcy-rodriguez-discusses-bilateral-ties-11589599#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/sp3hpha8_pm-modidelcy-rodriguez_625x300_04_June_26.jpeg",
+      "scraped_at": "2026-06-04 12:30:27.865133",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Prime Minister Narendra Modi** met with **Acting President Delcy Rodriguez** of Venezuela in New Delhi on Thursday. The meeting, attended by **External Affairs Minister S Jaishankar** and Foreign Secretary Vikram Misri, focused on enhancing cooperation in energy, trade, healthcare, and renewable energy.  The visit is part of a five-day working visit aimed at deepening bilateral ties between the two nations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65216,
       "title": "West Bengal Trinamool Chaos: Has Mamata Banerjee Reached Her Political Endgame?",
@@ -57,8 +411,7 @@
         "Shiv Sena"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Maharashtra",
@@ -114,8 +467,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -492,7 +844,7 @@
       "rephrased_article": "**India** and the **US** have reached a 99% agreement on their trade deal, with only minor technical and legal details remaining.  **US Ambassador Sergio Gor** stated that these issues are not major policy disagreements but rather require compromise from both sides to achieve a mutually beneficial outcome. He praised India's negotiating team for defending its interests effectively and acknowledged the complexity of the negotiations due to India's past stance on several trade-related issues. **Gor** expressed confidence in reaching an agreement during his brief visit to India, where he will meet with Commerce Minister **Piyush Goyal** and other officials involved in the talks.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -549,8 +901,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Delhi"
@@ -599,8 +950,7 @@
       "rephrased_article": "**Prime Minister Narendra Modi** will inaugurate and lay the foundation stone for several development projects in Surat, Gujarat, worth over Rs 18,000 crore. These initiatives include four National Highway projects, two packages of the Vadodara–Mumbai Expressway, eight GIDC projects, and upgrades to the Hazira Port–Surat section of National Highway 53. The projects aim to strengthen connectivity, boost economic development, and improve freight movement along the Delhi–Mumbai expressway.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Gujarat",
@@ -638,11 +988,8 @@
       ],
       "ministers_mentioned": [
         "Yogi Adityanath",
-        "Yogi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
         "Bhupesh Baghel"
       ],
@@ -5105,372 +5452,6 @@
       "topic_tags": [
         "foreign_policy",
         "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63713,
-      "title": "Mango cultivation a very special part of India's farm economy: PM | Today News",
-      "url": "https://www.livemint.com/news/mango-cultivation-exports-heat-weather-chola-agriculture-pm-mann-ki-baat-11780216698933.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/pexels-photo-37701462_1780047881202_1780047900846_8486847a-9361-4bd5-bd23-f351b5f1eafd_1780229223695_c9f85375-e29a-4ffe-9385-3286939a644f.jpeg",
-      "scraped_at": "2026-05-31 13:55:58.454722",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** highlighted the importance of **mango** cultivation to India's agricultural economy during his monthly radio address, 'Mann Ki Baat'. He emphasized the country's diverse mango varieties and its growing export market.  The **Agricultural and Processed Food Product Export Development Authority (Apeda)** reported that India exported nearly 29,938.40 tonnes of mangoes worth $56.50 million in FY25 to destinations like the UAE, US, Kuwait, and Qatar. The prime minister also addressed the ongoing heatwave across northern India, urging citizens to stay hydrated and exercise caution.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Maharashtra",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Varanasi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 63706,
-      "title": "Suresh Gopi became Kerala’s superstar, Andhra’s supreme star with a film Mammootty rejected | Malayalam News - The Indian Express",
-      "url": "https://indianexpress.com/article/entertainment/malayalam/suresh-gopi-became-kerala-superstar-andhra-supreme-star-ekalavyan-mammootty-rejected-10716610/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Suresh-Gopi-became-Keralas-superstar-Andhras-supreme-star-with-a-film-Mammootty-rejected-ekalavyan.jpg",
-      "scraped_at": "2026-05-31 13:55:35.062844",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Suresh Gopi",
-      "rephrased_article": "**Mammootty** turned down several blockbuster roles that propelled other actors to superstardom, including **Suresh Gopi**'s \"Ekalavyan\" and \"Rajavinte Makan.\"  The films became massive hits in both Malayalam and Telugu markets. **Jeethu Joseph**, the director of \"Drishyam,\" initially offered the role to **Mammootty** but he declined, leading to Mohanlal taking on the project. The success of these films led to **Suresh Gopi** being dubbed the \"Supreme Star\" in Andhra Pradesh.  The impact of these projects extended beyond Malayalam cinema and even impacted the Telugu and Tamil markets.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Karnataka",
-        "Kerala",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Hyderabad",
-        "Visakhapatnam"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 63702,
-      "title": "Tenant warned civic body, police months before deadly Delhi building collapse: AAP - Delhi News | India Today",
-      "url": "https://www.indiatoday.in/cities/delhi/story/tenant-warned-civic-body-police-months-before-deadly-delhi-building-collapse-aap-2919959-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/rescue-operations-underway-near-saket-metro-statio-310533984-original-sixteen-to-nine.png?VersionId=6JoQPN8eeJWZvs31aPw.KnujWqsJfE08",
-      "scraped_at": "2026-05-31 13:55:18.504449",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "MCD",
-      "rephrased_article": "A three-storey commercial building collapsed in Delhi's Mehrauli, killing at least six people. **AAP** leader Saurabh Bharadwaj alleged that the building had faced repeated complaints about unauthorized construction and safety concerns, but municipal authorities failed to act.  The **MCD**, which has suspended two engineers and registered an FIR against the building owner, is facing accusations of misleading the court and shielding the builder. The rescue operation is ongoing with teams using heavy machinery and sniffer dogs to search for survivors.",
-      "party_mentioned": [
-        "BJP",
-        "AAP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63696,
-      "title": "Top India, US Negotiators To Hold 4-Day Trade Talks In Delhi From Tomorrow",
-      "url": "https://www.ndtv.com/india-news/top-india-us-negotiators-to-hold-4-day-trade-talks-in-delhi-from-tomorrow-11571770#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-03/aiukra9s_india-us-flag_625x300_16_March_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 13:55:01.239050",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "US-India trade relations",
-      "rephrased_article": "**US** and **India** chief negotiators will begin four-day talks in Delhi to finalize details of their interim trade pact. The agreement, which was initially agreed upon in February, covers tariffs, market access, customs, investment, and economic security alignment.  The US has agreed to reduce tariffs on India from 50% to 18%, while **India** proposes eliminating or reducing tariffs on a wide range of US goods. The meeting comes amidst changes in the US tariff landscape and ongoing trade disputes between the two countries.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63694,
-      "title": "Video: Moment South Delhi Building Collapsed Like A House Of Cards",
-      "url": "https://www.ndtv.com/delhi-news/video-moment-three-storey-building-collapsed-in-south-delhis-saket-11571733#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/v4tghneg_delhi-building-collapse_625x300_31_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 13:54:53.474560",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "A multi-storey building in south Delhi's Saket collapsed on Saturday night, killing four and injuring several others. The three-floor building housed a coaching centre, cafes, and offices with ongoing construction work on the upper floor. **Police** have filed a first information report into the incident, and rescue efforts were conducted by government agencies and local volunteers throughout the night using heavy machinery and sniffer dogs to search for survivors.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63677,
-      "title": "Latest Odisha Breaking News Updates | Sunday, 31 May 2026 | OdishaBytes",
-      "url": "https://odishabytes.com/latest-odisha-breaking-news-updates-sunday-31-may-2026/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2025/01/Modern-Breaking-News-Facebook-Post-500-x-500-px.webp",
-      "scraped_at": "2026-05-31 13:54:14.649657",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**The India Meteorological Department (IMD)** has issued a red warning for five districts of **Odisha** due to heavy rain and hailstorms.  **Prime Minister Narendra Modi** spoke with record-breaking sprinters Gurindervir Singh and Animesh Kujur, praising their \"jugalbandi.\"  The Directorate of Vigilance and Anti-Corruption (DVAC) in Assam has arrested a key suspect in the Assam fisheries scam.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Odisha",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63671,
-      "title": "Audit Heat On LAccMI: Odisha Orders Review Over Huge Unspent Funds, Consultant Row | OdishaBytes",
-      "url": "https://odishabytes.com/audit-heat-on-laccmi-odisha-orders-review-over-huge-unspent-funds-consultant-row/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2024/07/Screenshot-2024-07-26-104354-e1721971324928.png",
-      "scraped_at": "2026-05-31 13:54:06.674830",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Odisha Government",
-      "rephrased_article": "The **Odisha** government has ordered a review of the Chief Minister Bus Service (MBS) and the Atal Bus Stand scheme following concerns raised by the Accountant General (Audit-II), Odisha. The audit highlighted significant unspent funds, delays in expenditure reports, and potential irregularities in consultant appointments and free student travel programs.  The **Commerce and Transport Department** is examining these issues, including fund utilization, consultant qualifications, and student verification mechanisms. The government has assured that corrective action will be taken based on the findings of the audit.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Odisha",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63669,
-      "title": "Ramachandra Guha Says Gandhi Family Actions Helped Modi Consolidate Power | OdishaBytes",
-      "url": "https://odishabytes.com/ramachandra-guha-says-gandhi-family-actions-helped-modi-consolidate-power/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Gandhis.webp",
-      "scraped_at": "2026-05-31 13:54:00.671988",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Gandhi family",
-      "rephrased_article": "**Ramachandra Guha**, a historian, argues that the **Gandhi family** and **Congress** insiders have indirectly aided Prime Minister **Narendra Modi**'s power consolidation after the 2024 general election.  Guha criticizes Rahul Gandhi's Bharat Jodo Yatra for enhancing his credibility but frittering it away by reasserting the Congress as a family firm. He also points to the party's declining footprint in state assemblies and suggests that Rahul remains an instrument of his mother's will, hindering a successful pushback against the BJP. Guha warns against elevating **Priyanka Gandhi** as an alternative, calling her a \"entitled dynast,\" and criticizes dynastic promotions within the Congress, arguing they have been detrimental to the party's electoral prospects. He acknowledges the BJP's dominance under Modi but suggests that the Gandhis have aided his consolidation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi",
-        "Priyanka Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63663,
-      "title": "Mann Ki Baat: PM Modi Chats With Record-Breaking Sprinters Gurindervir & Odisha’s Animesh Kujur, Hails Their ‘Jugalbandi’ | OdishaBytes",
-      "url": "https://odishabytes.com/mann-ki-baat-pm-modi-chats-with-record-breaking-sprinters-gurindervir-odishas-animesh-kujur-hails-their-jugalbandi/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Modi-speaks-to-Kujur-Gurindervir.webp",
-      "scraped_at": "2026-05-31 13:53:54.661279",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** spoke with **Animesh Kujur** and **Gurindervir Singh**, India's sprint kings, during the 134th episode of his radio program \"Mann Ki Baat.\"  Modi praised their record-breaking performances at the Federation Cup meet in Ranchi, where **Animesh** initially held the 100m record but was later surpassed by **Gurindervir**, who became the first Indian to run under 10.10 seconds.  The athletes shared how their friendship and determination fueled their success, with **Animesh** emphasizing that they both wanted to inspire others in Indian sprinting.  Modi expressed confidence in their future achievements.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Odisha",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Ranchi"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63645,
-      "title": "Just 2 weeks after launch, Ludhiana’s Halwara airport damaged during thunderstorm | Chandigarh News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/chandigarh/halwara-airport-damage-thunderstorm-ludhiana-punjab-inquiry-repairs-10716996/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Halwara-airport-damage.jpg",
-      "scraped_at": "2026-05-31 11:46:51.151731",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Punjab AAP government",
-      "rephrased_article": "A severe thunderstorm and heavy rain caused structural damage to the newly operational Halwara civil terminal at Ludhiana airport on Saturday.  **Airport Director Jagir Singh** confirmed that no injuries occurred, but repairs are underway. **Ludhiana Deputy Commissioner Himanshu Jain** ordered an inquiry into the extent of the damage and mandated immediate repairs for passenger safety. The construction was completed by the **Punjab government’s Public Works Department (PWD)** after a private contractor abandoned the project midway.  Union Minister **Ravneet Singh Bittu** criticized the Punjab AAP government's handling of the situation.",
-      "party_mentioned": [
-        "BJP",
-        "AAP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Ludhiana"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "education"
-      ]
-    },
-    {
-      "id": 63634,
-      "title": "From corridors of power: Sunil Jakhar’s tragedy, CM Mann’s walk that never was and Rahul Gandhi’s ‘third warning’ | Chandigarh News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/chandigarh/punjab-political-corridors-sunil-jakhar-rahul-gandhi-bhagwant-mann-10717023/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/04/sunil-jakhar.jpg",
-      "scraped_at": "2026-05-31 11:46:09.451130",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Punjab Congress",
-      "rephrased_article": "**Sunil Jakhar**, a prominent figure in Punjab politics, has faced repeated setbacks as he continues to be passed over for leadership positions.  **Rahul Gandhi** delivered a \"third warning\" to **Punjab Congress** leaders regarding their performance in the recent municipal elections, which saw significant losses. Meanwhile, **CM Bhagwant Mann's** planned early-morning walk with morning walkers was canceled at the last minute. The relationship between former Chief Minister **Captain Amarinder Singh** and newly appointed **BJP** chief **Kewal Dhillon** has been strained by **Amarinder's** public criticism of **Dhillon's** appointment.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "Akali Dal",
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63633,
-      "title": "Indo-Canadian trade talks gain momentum at Western Canada Summit | Today News",
-      "url": "https://www.livemint.com/news/india/indocanadian-trade-talks-gain-momentum-at-western-canada-summit-11780219194809.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/ANI-20260306429-0_1780220224880_1780220297371_083e2c33-d510-4a2e-a191-3b74c99d563c.jpg",
-      "scraped_at": "2026-05-31 11:46:07.951023",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Canada-India trade relations",
-      "rephrased_article": "**Scott Moe**, Premier of Saskatchewan, and **Chris Cooter**, Canada's High Commissioner to India, confirmed that negotiations for a free trade pact between **Canada** and **India** are actively progressing.  The **Western Canada-India Leaders Summit** in Regina saw key participants reaffirm their commitment to the agreement, with **Dinesh Patnaik**, India's High Commissioner to Canada, expressing confidence in a breakthrough before year's end. The ambitious target is to increase bilateral trade from USD 17 billion to USD 50 billion by 2030.  The summit also focused on agricultural exports, particularly pulse crops, with **Premier Moe** highlighting Saskatchewan's ability to navigate existing import duties despite potential tariff adjustments.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63625,
-      "title": "Munna Jhingada: Dawood Ibrahim's Right Hand At Centre Of Planning Attacks In India, Chhota Rajan, Chhota Shakeel, Delhi Terror Attack, Mumbai",
-      "url": "https://www.ndtv.com/india-news/munna-jhingada-dawood-ibrahims-right-hand-at-centre-of-planning-attacks-in-india-chhota-rajan-chhota-shakeel-delhi-terror-attack-mumbai-11571329#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/c75pepk8_munna-jhindaga_625x300_31_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 11:45:40.384057",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Munna Jhingada",
-      "rephrased_article": "**Nine terrorists** arrested in India are linked to **Munna Jhingada**, a key handler of terror modules from Pakistan, and **Dawood Ibrahim**. The Delhi Police Special Cell recovered ammunition and weapons from the suspects, who were planning attacks on nuclear facilities, airports, railway stations, and power plants.  Jhingada, also known as Syed Mudassar Hussain, is a notorious shooter with ties to both **Dawood Ibrahim** and **Chhota Shakeel**, and has been accused of numerous crimes in India.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
         "crime_violence"
       ]
     }

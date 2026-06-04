@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:14.067313",
+  "generated_at": "2026-06-04 18:39:57.073736",
   "state": "Uttarakhand",
   "capital": "Dehradun",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 76,
-    "articles_last_30d": 41
+    "total_articles": 77,
+    "articles_last_30d": 42
   },
   "top_cities_30d": {
     "Delhi": 25,
@@ -24,18 +24,53 @@
     "Hyderabad": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 34,
+    "foreign_policy": 35,
     "education": 12,
     "crime_violence": 11,
     "protest_opposition": 7,
     "rape_sexual_crime": 5,
-    "economy": 4,
+    "economy": 5,
     "health": 4,
     "farmer_agriculture": 3,
     "political_gaffe": 3,
     "infrastructure": 2
   },
   "recent_articles": [
+    {
+      "id": 65330,
+      "title": "106 Reservoirs Below 40% As Weather Office Flags Weak Monsoon Risk",
+      "url": "https://www.ndtv.com/india-news/106-reservoirs-below-40-as-weather-office-flags-weak-monsoon-risk-11591823#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2019-05/h8cvdm7_dam-generic_625x300_07_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 16:04:34.367755",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's** **IMD** has predicted a 10% below-normal monsoon rainfall, raising concerns for water-stressed areas. While national reservoir storage is slightly above last year's levels and the ten-year average, significant regional disparities exist. The Western region reports the highest surplus, followed by Northern and Central regions. However, the Eastern and Southern regions face deficits, with West Bengal reporting the largest deficit.  Several individual reservoirs across nine states are below 50% of their normal storage capacity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Gujarat",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Mizoram",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 65148,
       "title": "Babita Pandey: Uttarakhand MBA Student Missing During Dayara Bugyal Trek For 6 Days, 2 Friends Detained",
@@ -78,11 +113,8 @@
       ],
       "ministers_mentioned": [
         "Yogi Adityanath",
-        "Yogi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
         "Bhupesh Baghel"
       ],

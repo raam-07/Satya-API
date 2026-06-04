@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:14.040293",
+  "generated_at": "2026-06-04 18:39:57.039652",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 230,
-    "articles_last_30d": 126
+    "total_articles": 233,
+    "articles_last_30d": 129
   },
   "top_cities_30d": {
     "Delhi": 46,
     "Bengaluru": 19,
     "Ahmedabad": 16,
-    "Mumbai": 13,
+    "Mumbai": 14,
     "Jaipur": 11,
     "Chennai": 9,
     "Hyderabad": 7,
@@ -24,18 +24,98 @@
     "Ludhiana": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 98,
+    "foreign_policy": 100,
     "education": 28,
     "crime_violence": 24,
-    "infrastructure": 20,
-    "economy": 18,
-    "protest_opposition": 17,
+    "infrastructure": 21,
+    "economy": 19,
+    "protest_opposition": 18,
     "corruption_scam": 12,
     "health": 12,
     "farmer_agriculture": 11,
     "political_gaffe": 6
   },
   "recent_articles": [
+    {
+      "id": 65338,
+      "title": "UPSC Essentials subject-wise quiz : Economy (Week 165)",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-essentials-daily-subject-wise-quiz-economy-week-165-10724404/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Millets-2.jpg",
+      "scraped_at": "2026-06-04 16:05:52.821831",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "UPSC",
+      "rephrased_article": "**UPSC Essentials** brings subject-wise quizzes to help with UPSC exam preparation.  The article discusses the importance of millets, the Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM) scheme, flex-fuel vehicles, and the Real Effective Exchange Rate (REER). The author explains that these topics are frequently tested in the UPSC Prelims exam.",
+      "party_mentioned": [
+        "CPI",
+        "UPA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure",
+        "economy"
+      ]
+    },
+    {
+      "id": 65291,
+      "title": "Kala Hiran producer alleges death threats amid row with Salman Khan, tears up legal notice | Bollywood News - The Indian Express",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/kala-hiran-producer-claims-he-received-death-threats-tears-up-salman-khans-notice-10723973/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/salman-amit.jpg",
+      "scraped_at": "2026-06-04 12:32:05.178190",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Salman Khan",
+      "rephrased_article": "**Kala Hiran** producer Amit Jani alleges he has received death threats and abusive messages from individuals supporting **Salman Khan** following the Bollywood star's legal notice objecting to the film.  Jani claims these threats stem from online abuse directed at him by supporters of **Salman Khan**, including those from Dharavi, Jogeshwari, and Dongri. The producer tearfully tore up a legal notice issued by **Salman Khan**’s team in response to the allegations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65205,
+      "title": "\"Party Bigger Than Positions\": Karnataka Congress Chief B.K. Hariprasad Amid Cabinet Buzz",
+      "url": "https://www.ndtv.com/india-news/party-bigger-than-positions-karnataka-congress-chief-b-k-hariprasad-amid-cabinet-buzz-11589549#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/5clsgasg_bk-hariprasad_625x300_04_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 09:14:31.521506",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka Congress",
+      "rephrased_article": "**B.K. Hariprasad**, newly appointed **KPCC** president, emphasized the importance of prioritizing party strength and democratic values over power in leading the Karnataka Congress. He acknowledged concerns about women's representation in the cabinet and assured that it would be addressed during the next expansion.  He also stressed the need to strengthen the party's commitment to inclusivity and social balance, contrasting it with the BJP's single-leader ideology. **Hariprasad** expressed confidence in **D.K. Shivakumar**, the new chief minister, stating that he is capable of leading effectively despite challenges.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Sonia Gandhi",
+        "Priyanka Gandhi"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65087,
       "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
@@ -56,11 +136,8 @@
       ],
       "ministers_mentioned": [
         "Yogi Adityanath",
-        "Yogi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
         "Bhupesh Baghel"
       ],
@@ -111,7 +188,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Bhupesh Baghel",
         "Siddaramaiah"
       ],
@@ -5841,103 +5917,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "health"
-      ]
-    },
-    {
-      "id": 46605,
-      "title": "NDA, Opposition spar in LS over efforts to free country of Maoism - The Hindu",
-      "url": "https://www.thehindu.com/news/national/nda-opposition-spar-in-ls-over-efforts-to-free-country-of-maoism/article70802599.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/baxlxd/article70802700.ece/alternates/LANDSCAPE_1200/PTI10_26_2025_000342B.jpg",
-      "scraped_at": "2026-03-30 11:37:19.393350",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**BJP** and **NDA** members in the Lok Sabha criticized the previous **UPA** government for its handling of Maoism, accusing it of failing to contain the threat.  They highlighted significant reductions in the \"red corridor\" under the current administration and emphasized the success of policies like Operation Green Hunt and the creation of CoBRA. The Congress countered by pointing to efforts made during their tenure, including the establishment of the Commando Battalion for Resolute Action (CoBRA) and emphasizing a balanced approach that prioritized both security and welfare.  The debate highlighted contrasting approaches to combating Maoism between the two governments.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "Shiv Sena",
-        "TDP",
-        "NDA",
-        "UPA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Sonia Gandhi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Chhattisgarh",
-        "Jharkhand",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Odisha",
-        "Telangana",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "crime_violence",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 46589,
-      "title": "Sonia Gandhi shows 'excellent progress', discharge expected soon, say doctors - The Hindu",
-      "url": "https://www.thehindu.com/news/national/sonia-gandhi-shows-excellent-progress-discharge-expected-soon-say-doctors/article70802312.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/udqbs/article70802430.ece/alternates/LANDSCAPE_1200/vbk-sonia%20gandhi-PTI.jpg",
-      "scraped_at": "2026-03-30 10:24:27.369190",
-      "category": "health",
-      "sentiment": "positive",
-      "sentiment_target": "Sonia Gandhi",
-      "rephrased_article": "**Sonia Gandhi**, a senior Congress leader, has made excellent progress and is now \"absolutely normal\" after being admitted to **Sir Ganga Ram Hospital** on March 24th with a fever. Doctors confirmed that she remains on IV antibiotics for the next few days but all her parameters are within normal limits. A decision regarding her discharge will be made jointly by doctors and the patient, who is currently stable and under observation briefly as a precaution.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Sonia Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health"
-      ]
-    },
-    {
-      "id": 46527,
-      "title": "The rise of temporary teachers in West Bengal - The Hindu",
-      "url": "https://www.thehindu.com/data/the-rise-of-temporary-teachers-in-west-bengal/article70800439.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/krmehm/article70800438.ece/alternates/LANDSCAPE_1200/IMG_iStock-1461631391_2_1_5PC181EL.jpg",
-      "scraped_at": "2026-03-30 02:53:01.179177",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "West Bengal's higher education system",
-      "rephrased_article": "**West Bengal's** higher education system is characterized by a high reliance on temporary teachers, exceeding national norms. The state consistently maintains a share of temporary faculty above 15%, significantly higher than other major states like Rajasthan and Tamil Nadu. This trend has been observed for over a decade despite growth in permanent teaching positions remaining relatively stable.  The limited expansion of institutions and a strained student-teacher ratio contribute to the reliance on temporary teachers, which may have fiscal benefits but negatively impact teaching quality and exacerbate existing inequities. Addressing these structural constraints is crucial for West Bengal's higher education system to ensure long-term success in developing a skilled workforce.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "education"
       ]
     }
   ]

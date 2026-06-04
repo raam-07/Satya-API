@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:13.914006",
+  "generated_at": "2026-06-04 18:39:56.890153",
   "party": "CPM",
   "full_name": "Communist Party of India (Marxist)",
   "ideology": "Marxism, Communism",
@@ -10,11 +10,11 @@
   ],
   "color": "#FF0000",
   "stats": {
-    "total_articles": 209,
-    "articles_last_30d": 47,
+    "total_articles": 210,
+    "articles_last_30d": 46,
     "sentiment_breakdown_30d": {
       "positive": 12,
-      "negative": 16,
+      "negative": 15,
       "neutral": 19
     }
   },
@@ -29,6 +29,41 @@
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 65317,
+      "title": "How Mamata Banerjee Created Trinamool After Breaking Away From Congress",
+      "url": "https://www.ndtv.com/india-news/how-mamata-banerjee-created-trinamool-after-breaking-away-from-congress-11592106#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/pte3fo44_mamata-banerjee-abhishek-banerjee-ians-_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 16:04:01.891271",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Mamata Banerjee's** Trinamool Congress is experiencing internal dissent, with a faction led by Ritobrata Bandopadhyay challenging the party's organizational structure and power dynamics.  This group criticizes the current leadership, particularly Abhishek Banerjee, and seeks to create a separate political space within Bengal politics. The dissidents are focused on legislative control and ideological legitimacy, raising questions about whether they will demand formal recognition or remain a pressure group. Whether this internal conflict leads to another major split in the party remains uncertain.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "CPM",
+        "RJD"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65211,
       "title": "CBI To Probe Death Of Ex-Kerala OfficialNaveen Babu, Daughter To Get Government Job",
@@ -5579,33 +5614,6 @@
         "protest_opposition",
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 42353,
-      "title": "Kerala Assembly Elections 2026: Political crossovers gather pace in Kerala as Assembly elections near - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/g5tcub/article70751691.ece/alternates/LANDSCAPE_1200/11073_16_10_2025_19_44_31_1_02.JPG",
-      "scraped_at": "2026-03-16 23:01:00.277422",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Kerala Assembly Elections 2026",
-      "rephrased_article": "**G. Sudhakaran**, a former CPI(M) leader, is leaving the party to contest as an Independent in Kerala's Ambalappuzha Assembly constituency. This move follows a trend of defections and cross-affiliations across political parties in the state, blurring traditional ideological lines between the UDF, LDF, and NDA.  **V.D. Satheesan**, Leader of the Opposition, has hinted at potential defections from the Left, with **P.K. Sasi** and **A. Suresh** already severing ties to contest as UDF",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI",
-        "NDA"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "political_gaffe"
       ]
     }
   ]

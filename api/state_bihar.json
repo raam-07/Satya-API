@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:13.967152",
+  "generated_at": "2026-06-04 18:39:56.948353",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 256,
-    "articles_last_30d": 105
+    "total_articles": 258,
+    "articles_last_30d": 107
   },
   "top_cities_30d": {
     "Delhi": 43,
@@ -24,18 +24,77 @@
     "Ahmedabad": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 76,
+    "foreign_policy": 78,
     "education": 32,
-    "crime_violence": 24,
+    "crime_violence": 25,
+    "economy": 18,
     "infrastructure": 17,
     "protest_opposition": 17,
-    "economy": 17,
     "health": 15,
     "corruption_scam": 11,
     "farmer_agriculture": 7,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 65330,
+      "title": "106 Reservoirs Below 40% As Weather Office Flags Weak Monsoon Risk",
+      "url": "https://www.ndtv.com/india-news/106-reservoirs-below-40-as-weather-office-flags-weak-monsoon-risk-11591823#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2019-05/h8cvdm7_dam-generic_625x300_07_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 16:04:34.367755",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's** **IMD** has predicted a 10% below-normal monsoon rainfall, raising concerns for water-stressed areas. While national reservoir storage is slightly above last year's levels and the ten-year average, significant regional disparities exist. The Western region reports the highest surplus, followed by Northern and Central regions. However, the Eastern and Southern regions face deficits, with West Bengal reporting the largest deficit.  Several individual reservoirs across nine states are below 50% of their normal storage capacity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Gujarat",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Mizoram",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65310,
+      "title": "Khan Sir's Coaching Guards Detained Over Alleged Firing During Vandalism",
+      "url": "https://www.ndtv.com/india-news/khan-sirs-coaching-guards-detained-over-alleged-firing-during-vandalism-11591828#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/fif1d3jc_patna_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 16:03:50.624317",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Khan Sir",
+      "rephrased_article": "**Bihar Police** detained two security guards of **Khan Global Studies Institute** after a video surfaced showing them firing shots. The incident occurred following vandalism and stone-pelting at the institute by 15-20 unidentified individuals.  The police are investigating the matter, while a rival coaching centre director has been arrested for allegedly orchestrating the incident.  However, **Khan Sir**, founder of the institute, maintains that he was not involved in the firing.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 65152,
       "title": "4 dead, others injured in Muzaffarpur hospital fire in Bihar - The Hindu",
@@ -190,11 +249,8 @@
       ],
       "ministers_mentioned": [
         "Yogi Adityanath",
-        "Yogi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
         "Bhupesh Baghel"
       ],
@@ -246,7 +302,6 @@
       ],
       "ministers_mentioned": [
         "Nitish Kumar",
-        "Nitish",
         "Uddhav Thackeray",
         "Eknath Shinde"
       ],
@@ -276,7 +331,7 @@
       "rephrased_article": "**Cyberabad police** arrested five members of a pseudo-police gang who allegedly kidnapped a businessman, impersonated police officers, and extorted over ₹5 lakh from him. The suspects, identified as Nagaraju Raghu Varma, Yeswanth Singh alias Rahul, Sathyabhan Singh alias Thakur, Thangellapalli Nagendra Varma, and two others still at large, were apprehended following an investigation into the incident reported by a 42-year-old businessman in Kukatpally. The gang used fake police uniforms, forged identity cards, and other tactics to deceive their victims before withdrawing money from his bank accounts and assaulting him.  Police are continuing to investigate and identify additional victims.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Andhra Pradesh",
@@ -5982,74 +6037,6 @@
         "protest_opposition",
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 47243,
-      "title": "History’s biggest census: Why India’s new population count is controversial | Politics News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2023/04/AP23102080892695.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-04-01 16:34:18.264913",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "India's largest census, delayed by five years due to the COVID-19 pandemic, is underway. The census will include caste enumeration for the first time in nearly a century, raising concerns about its potential use in the government's National Register of Citizens (NRC) and Citizenship Amendment Act (CAA).  The data collected will be used to assess demographic trends, inform policy decisions, and determine electoral boundaries.  However, critics argue that the census could be misused for political purposes, particularly targeting Muslims who are already facing discrimination under the CAA and NRC. The government has pledged transparency but faces concerns about data credibility due to past methodological changes and a lack of public access to information.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 47043,
-      "title": "Violence erupts outside Kolkata CEO office after Trinamool alleges bulk submissions of Form 6 by BJP - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/violence-erupts-outside-kolkata-ceo-officeafter-tmc-allegesbulk-submissions-of-form-6-by-bjp/article70807671.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6kngr6/article70808354.ece/alternates/LANDSCAPE_1200/20260331461L.jpg",
-      "scraped_at": "2026-03-31 21:11:41.704821",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "Violence erupted outside the **Chief Electoral Officer’s** office in Kolkata on Tuesday (March 31, 2026) as clashes broke out between **Trinamool Congress** and **BJP** workers over allegations of fraudulent Form 6 applications being submitted to include non-residents in West Bengal's electoral rolls. **Mamata Banerjee**, the Chief Minister of West Bengal, accused the **BJP** of attempting voter hijacking, while **CEO Manoj Kumar Agarwal** refuted these claims, stating that he cannot control who brings what into his office.  The situation escalated after a complaint from **TMC** general secretary Abhishek Banerjee alleging demographic manipulation by the **EC**. The **BJP** MP Sukanta Majumdar denied any involvement in the alleged submissions of Form 6 applications, while the leader of opposition Suvendu Adhikari accused **Banerjee** of provoking voters against central forces.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "education",
-        "protest_opposition",
-        "foreign_policy",
-        "crime_violence"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:14.021940",
+  "generated_at": "2026-06-04 18:39:57.016221",
   "state": "Manipur",
   "capital": "Imphal",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 79,
-    "articles_last_30d": 37
+    "total_articles": 81,
+    "articles_last_30d": 39
   },
   "top_cities_30d": {
-    "Delhi": 10,
+    "Delhi": 11,
     "Chennai": 5,
     "Bengaluru": 3,
     "Mumbai": 3,
@@ -24,18 +24,72 @@
     "Indore": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 28,
+    "foreign_policy": 30,
     "crime_violence": 17,
     "protest_opposition": 7,
     "education": 4,
-    "economy": 3,
+    "economy": 4,
     "health": 2,
+    "political_gaffe": 2,
     "rape_sexual_crime": 1,
     "infrastructure": 1,
-    "corruption_scam": 1,
-    "political_gaffe": 1
+    "corruption_scam": 1
   },
   "recent_articles": [
+    {
+      "id": 65344,
+      "title": "Assam Cabinet expansion: Several new faces, no room for high-profile Congress defectors | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/assam-cabinet-expansion-himanta-biswa-sarma-government-new-ministers-list-10724406/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Himanta-Biswa.jpg",
+      "scraped_at": "2026-06-04 16:06:14.663850",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Assam Government",
+      "rephrased_article": "**Sarma**'s cabinet has expanded to 17 ministers, with 12 of them from his first term.  The new additions include **Biswajit Daimary**, the Speaker of the previous assembly and a Bodo leader; **Nilima Devi**, president of the Assam Pradesh BJP Mahila Morcha; and **Ashwini Roy Sarkar** and **Sushanta Borgohain**. Notably, no high-profile Congress leaders who joined the BJP before the election have been included. The expansion leaves room for two more ministers in future.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Manipur",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65322,
+      "title": "Mizoram Chief Minister Rings Alarm Bell Over Growing Myanmar Refugee Burden",
+      "url": "https://www.ndtv.com/india-news/mizoram-chief-minister-lalduhoma-flags-growing-refugee-influx-from-myanmar-11591939#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/hviu1a4o_lalduhoma-_625x300_04_June_26.jpeg",
+      "scraped_at": "2026-06-04 16:04:10.009230",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Central Government",
+      "rephrased_article": "**Mizoram Chief Minister Lalduhoma** expressed concern over the increasing number of Myanmar refugees entering the state, citing strain on resources and services. Over 40,000 individuals have sought refuge in Mizoram due to ongoing violence in Myanmar, prompting the state government to initiate biometric registration for displaced persons. The influx has led to significant demographic changes in border villages like Zokhawthar, which is now hosting thousands of refugees. **The Central Government** is also undertaking border fencing projects along the India-Myanmar frontier to address security concerns.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Manipur",
+        "Mizoram",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65087,
       "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
@@ -56,11 +110,8 @@
       ],
       "ministers_mentioned": [
         "Yogi Adityanath",
-        "Yogi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
         "Bhupesh Baghel"
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:13.908355",
+  "generated_at": "2026-06-04 18:39:56.883247",
   "party": "DMK",
   "full_name": "Dravida Munnetra Kazhagam",
   "ideology": "Dravidian politics, Secularism",
@@ -10,11 +10,11 @@
   ],
   "color": "#FF0000",
   "stats": {
-    "total_articles": 626,
-    "articles_last_30d": 155,
+    "total_articles": 627,
+    "articles_last_30d": 153,
     "sentiment_breakdown_30d": {
-      "negative": 50,
-      "neutral": 71,
+      "negative": 47,
+      "neutral": 72,
       "positive": 34
     }
   },
@@ -36,6 +36,30 @@
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 65282,
+      "title": "Centre Preps Delimitation Push, Eyes New Bill Before 2029 Elections",
+      "url": "https://www.ndtv.com/india-news/centre-preps-delimitation-push-eyes-new-bill-before-2029-elections-11590636#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/l96pg3m8_india-crowd-generic_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 12:31:32.007887",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Centre** is seeking political consensus to introduce a new delimitation bill before the 2029 Lok Sabha elections. The move aims to redraw parliamentary constituencies, potentially altering representation among states and addressing concerns raised by regions with controlled population growth. **Regional parties**, including the DMK and Trinamool Congress, are being consulted as part of this process.  The government is aiming for a consensus-driven approach to avoid political divisiveness while ensuring fair representation.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool",
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65164,
       "title": "Tamil Nadu Chief Minister Vijay Allocates Lone Rajya Sabha Seat To Congress",
@@ -5366,33 +5390,6 @@
       ],
       "topic_tags": [
         "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54017,
-      "title": "Congress leaders introspect on not aligning with TVK - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/congress-leaders-introspect-on-not-aligning-with-tvk/article70902750.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-24 22:48:44.175720",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Rahul Gandhi**'s decision to not share the stage with **Chief Minister M.K. Stalin** and his perceived favoritism of actor **C. Joseph Vijay**'s **Tamilaga Vettri Kazhagam (TVK)** has sparked discussion within the **Congress**.  Reports suggest that **Vijay**'s party is gaining traction in urban areas, prompting speculation about a potential alliance with the **Congress**, which was previously considered before joining the **DMK-led Secular Progressive Alliance**.",
-      "party_mentioned": [
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
         "protest_opposition"
       ]
     }

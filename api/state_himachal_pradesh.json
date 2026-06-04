@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 10:53:13.990025",
+  "generated_at": "2026-06-04 18:39:56.976612",
   "state": "Himachal Pradesh",
   "capital": "Shimla",
   "ruling_party": "INC",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 158,
-    "articles_last_30d": 80
+    "total_articles": 159,
+    "articles_last_30d": 81
   },
   "top_cities_30d": {
     "Delhi": 28,
@@ -24,11 +24,11 @@
     "Hyderabad": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 59,
+    "foreign_policy": 60,
     "education": 17,
     "health": 14,
     "crime_violence": 13,
-    "economy": 11,
+    "economy": 12,
     "protest_opposition": 11,
     "farmer_agriculture": 9,
     "political_gaffe": 8,
@@ -36,6 +36,41 @@
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 65330,
+      "title": "106 Reservoirs Below 40% As Weather Office Flags Weak Monsoon Risk",
+      "url": "https://www.ndtv.com/india-news/106-reservoirs-below-40-as-weather-office-flags-weak-monsoon-risk-11591823#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2019-05/h8cvdm7_dam-generic_625x300_07_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 16:04:34.367755",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's** **IMD** has predicted a 10% below-normal monsoon rainfall, raising concerns for water-stressed areas. While national reservoir storage is slightly above last year's levels and the ten-year average, significant regional disparities exist. The Western region reports the highest surplus, followed by Northern and Central regions. However, the Eastern and Southern regions face deficits, with West Bengal reporting the largest deficit.  Several individual reservoirs across nine states are below 50% of their normal storage capacity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Gujarat",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Mizoram",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 65087,
       "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
@@ -56,11 +91,8 @@
       ],
       "ministers_mentioned": [
         "Yogi Adityanath",
-        "Yogi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Priyanka Gandhi",
         "Bhupesh Baghel"
       ],
