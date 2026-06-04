@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:57.008973",
+  "generated_at": "2026-06-04 22:58:59.372855",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,34 +8,119 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 392,
-    "articles_last_30d": 171
+    "total_articles": 395,
+    "articles_last_30d": 173
   },
   "top_cities_30d": {
-    "Mumbai": 52,
+    "Mumbai": 54,
     "Delhi": 46,
-    "Pune": 35,
+    "Pune": 36,
     "Nashik": 14,
+    "Kolkata": 11,
     "Bengaluru": 10,
-    "Kolkata": 10,
     "Hyderabad": 8,
-    "Surat": 6,
-    "Thane": 5,
-    "Nagpur": 5
+    "Nagpur": 7,
+    "Ahmedabad": 6,
+    "Surat": 6
   },
   "top_topics_30d": {
-    "foreign_policy": 124,
+    "foreign_policy": 125,
+    "crime_violence": 47,
     "education": 46,
-    "crime_violence": 46,
     "infrastructure": 36,
     "economy": 32,
     "protest_opposition": 29,
-    "corruption_scam": 19,
+    "corruption_scam": 20,
     "farmer_agriculture": 13,
     "health": 11,
     "rape_sexual_crime": 10
   },
   "recent_articles": [
+    {
+      "id": 65433,
+      "title": "Mumbai in top 50 global cities vulnerable to heat risk | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/oxford-study-heat-risk-mumbai-nagpur-pune-ahmedabad-vulnerable-cities-el-nino-10724507/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Pune-heat-4col.jpg",
+      "scraped_at": "2026-06-04 21:01:40.007077",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**University of Oxford** researchers have identified 14 Indian cities as among the most vulnerable to heat risk due to El Niño conditions. The study, which analyzed living conditions in 205 global cities, found **Mumbai**, **Nagpur**, and **Pune** ranked highly on a vulnerability index that considers factors like hazard exposure, coping capacity, and socio-economic vulnerability.  The report emphasizes the importance of comprehensive heat risk planning beyond simply focusing on temperature extremes, suggesting strategies that address both hazard exposure and vulnerability to ensure equitable access to thermal comfort for all.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Kolkata",
+        "Pune",
+        "Ahmedabad",
+        "Kanpur",
+        "Nagpur",
+        "Bhopal",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65396,
+      "title": "Countries unrelated to conflicts also facing consequences: Mohan Bhagwat on Iran-US tensions | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/mohan-bhagwat-rss-nagpur-speech-iran-us-conflict-fuel-prices-kumar-mangalam-birla-10724511/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/02/Mohan-Bhagwat.jpeg",
+      "scraped_at": "2026-06-04 18:39:38.750938",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Iran-US tensions",
+      "rephrased_article": "**Ankita Deshkar**, a Deputy Copy Editor at **The Indian Express**, is a leading voice on digital safety and cybersecurity issues in Central India.  She leads the \"The Safe Side\" series, which deconstructs emerging threats like scams and deepfakes.  Deshkar also trains journalists on online verification and combating misinformation through the **Google News Initiative (GNI)**. Her expertise spans cyber law, IT, public safety, and regional reporting in Maharashtra, where she covers topics such as wildlife conservation and Maoist conflict. Deshkar holds a PhD in Mass Communication and Journalism and is currently pursuing her studies at RTM Nagpur University.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65390,
+      "title": "Seeking Centre’s intervention, Aaditya alleges state diluted tiger corridor for mining project | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/aaditya-thackeray-diluted-tiger-corridor-mining-project-10724525/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/aaditya-thackeray.jpg",
+      "scraped_at": "2026-06-04 18:39:31.899157",
+      "category": "environment",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra government",
+      "rephrased_article": "**Shiv Sena (UBT)** MLA Aaditya Thackeray accused the **Maharashtra** government of diluting a tiger corridor in Gadchiroli district to facilitate a mining project.  Thackeray demanded the cancellation of the mining permission and the dissolution of the State Board for Wildlife, alleging that the state government is prioritizing commercial interests over environmental protection. He also questioned the authority of the SBWL to approve such decisions and called for an independent investigation into the matter.",
+      "party_mentioned": [
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65338,
       "title": "UPSC Essentials subject-wise quiz : Economy (Week 165)",
@@ -5743,81 +5828,6 @@
       "topic_tags": [
         "infrastructure"
       ]
-    },
-    {
-      "id": 54575,
-      "title": "Fadnavis backs ex-CJI amid row over meeting with Dhirendra Shastri - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/fadnavisbacksex-cjiamid-row-over-meeting-withdhirendrashastri/article70908717.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-26 21:10:09.226923",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Devendra Fadnavis",
-      "rephrased_article": "**Devendra Fadnavis**, **Maharashtra Chief Minister**,  came out in support of former Chief Justice of India (CJI) B.R. Gavai after social activist Shyam Manav criticized his meeting with Dhirendra Shastri, chief priest of the Bageshwar Dham.  Manav argued that Gavai should not claim the legacy of Dr. B.R. Ambedkar and challenged Shastri to accept an anti-superstition panel's challenge. Senior Congress leader Vijay Wadettiwar accused political leaders of elevating babas (religious figures) in Maharashtra, criticizing Gavai for meeting Shastri.  The controversy comes after a similar incident involving Shastri's claims about Shivaji Maharaj.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Shiv Sena"
-      ],
-      "ministers_mentioned": [
-        "Devendra Fadnavis",
-        "Nitin Gadkari"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Nagpur"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54443,
-      "title": "Gang robs jeweller of gold worth ₹1.49 crore in Tiruchi, destroys CCTV cameras - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/gang-robs-jeweller-of-gold-worth-149-crore-in-tiruchi-destroys-cctv-cameras/article70905794.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/76tx1c/article70908407.ece/alternates/LANDSCAPE_1200/02_Standalone-A_goldsmith_works_on_gold_jewellery_28_11_Del.jpg",
-      "scraped_at": "2026-04-26 12:11:52.846304",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Police",
-      "rephrased_article": "**Udhay**, a 36-year-old gold appraiser from Maharashtra, and his employee **Nithin**, 19, were robbed of approximately one kilogram of refined gold worth ₹1.49 crore by a four-member gang in Tiruchi on Friday (April 24, 2026). The incident occurred at **Udhay's** jewellery workshop near Big Bazaar Street.  The police are investigating the robbery.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 54436,
-      "title": "IMD issues heat alert in several regions of Maharashtra and thunderstorm alert in a few regions - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/imd-issues-heat-alert-in-several-regions-of-maharashtra-and-thunderstorm-alert-in-a-few-regions/article70907999.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qvzt8v/article70908303.ece/alternates/LANDSCAPE_1200/PTI04_26_2026_000197B.jpg",
-      "scraped_at": "2026-04-26 12:10:01.499912",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "IMD",
-      "rephrased_article": "**The India Meteorological Department (IMD)** has issued yellow alerts for rising temperatures in eight districts of Maharashtra, predicting hot conditions and increased humidity for the next three days.  **The IMD** also forecasts thunderstorms with lightning, moderate rainfall, and gusty winds in several districts of Western Maharashtra, including Pune, Latur, Nanded, Beed, and Satara, and Marathwada.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Pune",
-        "Thane"
-      ],
-      "topic_tags": []
     }
   ]
 }

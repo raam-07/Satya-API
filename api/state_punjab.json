@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:57.032004",
+  "generated_at": "2026-06-04 22:58:59.396683",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 495,
-    "articles_last_30d": 206
+    "total_articles": 499,
+    "articles_last_30d": 209
   },
   "top_cities_30d": {
-    "Delhi": 59,
+    "Delhi": 61,
+    "Ludhiana": 15,
     "Bengaluru": 15,
-    "Ludhiana": 14,
+    "Amritsar": 12,
     "Mumbai": 10,
-    "Amritsar": 9,
     "Ahmedabad": 8,
     "Chennai": 7,
     "Hyderabad": 5,
@@ -24,18 +24,153 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 169,
-    "education": 60,
-    "economy": 57,
-    "crime_violence": 55,
+    "foreign_policy": 170,
+    "education": 61,
+    "economy": 58,
+    "crime_violence": 57,
     "protest_opposition": 41,
     "infrastructure": 35,
-    "health": 22,
+    "health": 23,
+    "farmer_agriculture": 18,
     "corruption_scam": 18,
-    "farmer_agriculture": 17,
-    "political_gaffe": 5
+    "political_gaffe": 7
   },
   "recent_articles": [
+    {
+      "id": 65434,
+      "title": "Amritsar tourists booked for assaulting HRTC driver, conductor near Himachal’s Parwanoo | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/hrtc-bus-driver-assault-parwanoo-solan-tourists-booked-himachal-pradesh-10724471/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/HRTC-bus-tourist-.jpg",
+      "scraped_at": "2026-06-04 21:01:46.456179",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "tourists",
+      "rephrased_article": "**Saurabh Parashar**, an Assistant Editor at **The Indian Express**, specializes in reporting on the socio-political landscape of Himachal Pradesh, focusing on environmental issues, drug menace, and tribal culture. He has over 17 years of experience in print media, including a decade with **The Times of India**.  **Parashar**'s recent articles have explored the intersection of policy, law, and social safety in the state, highlighting the challenges of governance in high-altitude regions. His legal background informs his reporting on complex judicial and administrative matters, particularly concerning the Himachal Pradesh High Court.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "farmer_agriculture",
+        "crime_violence",
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65430,
+      "title": "What is in the FIR against Bikram Singh Majithia? | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/fir-bikram-singh-majithia-10724498/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/majitha-2.jpg",
+      "scraped_at": "2026-06-04 21:01:33.602493",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Bikram Singh Majithia",
+      "rephrased_article": "**Kamaldeep Singh Brar**, a Principal Correspondent for **The Indian Express**, primarily covers the Amritsar and Majha regions of Punjab. His work focuses on religious and political issues, including the Akal Takht, the Shiromani Gurdwara Parbandhak Committee (SGPC), and border security concerns.  Recent articles have covered judicial developments, local elections, and religious controversies, as well as crime and national security matters. Brar's reporting often highlights the impact of drug addiction on marginalized communities in Punjab.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "economy",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65416,
+      "title": "Congress Picks Ex-MP, BJP 2 Top Leaders For Rajya Sabha From Madhya Pradesh",
+      "url": "https://www.ndtv.com/india-news/bjp-picks-chugh-agarwal-congress-bets-on-meenakshi-natarajan-as-rajya-sabha-battle-moves-beyond-numbers-11593014#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/etc035bk_madhya-pradesh-rajya-saha_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 21:00:33.423417",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Congress** nominated former Mandsaur MP Meenakshi Natarajan for the Rajya Sabha seat vacated by Digvijaya Singh. The **BJP** has fielded Tarun Chugh and Rajneesh Agarwal, with the potential for a third candidate to influence the closely contested election in Madhya Pradesh.  While the BJP is expected to win two seats comfortably, the Congress appears poised to retain one.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Shah",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Punjab",
+        "Telangana",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65392,
+      "title": "BJP sends Tarun Chugh to Rajya Sabha, fuels speculation over Bittu’s Punjab role | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/bjp-tarun-chugh-rajya-sabha-bittu-punjab-role-10724515/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tarun-chugh.jpg",
+      "scraped_at": "2026-06-04 18:39:34.301623",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** nominated Punjab leader Tarun Chugh to the Rajya Sabha from Madhya Pradesh, fueling speculation about the future political role of Union Minister Ravneet Singh Bittu.  Bittu's name was not included in the first list of candidates for the June 18 Rajya Sabha elections despite his desire to return to active politics in Punjab.  Chugh, a prominent Punjab face in the BJP's national structure, has been nominated amid growing speculation about Bittu's future role.  The development assumes significance as both leaders have expressed their ambitions and political observers view it as a sign of potential plans for them ahead of the 2027 Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Kerala",
+        "Madhya Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Chandigarh",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "education",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 65334,
       "title": "Bhupinder Hooda's Remark Fuels Buzz Of Amarinder Singh's Congress Crossover",
@@ -54,9 +189,7 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Haryana",
@@ -5326,102 +5459,6 @@
         "foreign_policy",
         "infrastructure",
         "education"
-      ]
-    },
-    {
-      "id": 57536,
-      "title": "Axis Bank, HDFC Bank, other bank stocks drop up to 2%, Nifty Bank falls 440 points. What lies ahead? - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-hdfc-bank-other-bank-stocks-drop-up-to-2-nifty-bank-falls-440-points-what-lies-ahead/articleshow/130950641.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-130950628,width-1200,height-630,imgsize-35254,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-08 08:28:04.541647",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Nifty Bank",
-      "rephrased_article": "The **Nifty Bank** index fell 0.8% to 55,611 as of 10:45 am due to the ongoing political situation in West Asia and FII selling that pushed the rupee down.  Shares of **HDFC Bank**, India's largest private bank, declined nearly 2%, following Chairman Atanu Chakraborty's exit citing \"incongruence\" between his personal values and bank practices. Other banks like **Axis Bank** and **Federal Bank** also saw declines, while **SBI** and **Bank of Baroda** are expected to release their quarterly results later today.  Technical analysts suggest support levels for the index at 55,720 and 55,400, with resistance at 56,280 and 56,550.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 57411,
-      "title": "4 children killed, 20 people injured as roof of classroom collapses in Dera Ghazi Khan school - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1998375/4-children-killed-20-people-injured-as-roof-of-classroom-collapses-in-dera-ghazi-khan-school",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/0717192388d9cbb.webp",
-      "scraped_at": "2026-05-07 20:52:46.449740",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "school administration",
-      "rephrased_article": "**At least four children** and 20 others were injured when the roof of a classroom at a private school in Dera Ghazi Khan, **Punjab**, collapsed on Thursday. The incident occurred around noon, prompting a rescue operation involving **Rescue 1122**, district administration officials, and local residents.  The preliminary report attributed the collapse to an overloaded roof due to construction work being carried out during school hours. **District Education Authority CEO Waqas Gill** assured that the incident would be investigated and action taken against the school administration. **Punjab Chief Minister Maryam Nawaz** has also taken notice of the incident.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure",
-        "health",
-        "education"
-      ]
-    },
-    {
-      "id": 57312,
-      "title": "FCC questions integrity of Nadra records in custody case - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1998207/fcc-questions-integrity-of-nadra-records-in-custody-case",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/070716090970468.webp",
-      "scraped_at": "2026-05-07 10:34:31.291974",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Nadra",
-      "rephrased_article": "The **Federal Constitutional Court** (FCC) questioned the reliability of **Nadra** records during a habeas corpus hearing regarding the custody of Ayesha Tariq, a minor girl who converted from Christianity to Islam.  Justice Aamer Farooq expressed concerns about the possibility of tampering with Nadra records and ordered an ossification test to determine the girl's actual age. The court also directed that she be placed in Darul Aman until the test results are received.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 57255,
-      "title": "Breathe Pakistan: Environmentalist warns against turning Karachi’s coastal islands into ‘high-rise communities’ - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1998144/breathe-pakistan-environmentalist-warns-against-turning-karachis-coastal-islands-into-high-rise-communities",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/07124040b402424.webp",
-      "scraped_at": "2026-05-07 07:50:09.910520",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "other",
-      "rephrased_article": "The second day of the Breathe Pakistan International Climate Change Conference in Islamabad focused on collaboration between countries and the private sector to address climate change. **Sumera Izhar**, recovery advisor at IOM Pakistan, highlighted that urbanisation in Pakistan is driven by climate shocks rather than job opportunities. **Jawed Ali Khan**, UN-Habitat Pakistan Senior Advisor and Programme Manager, stressed the need for urban planning that considers climate challenges.  **Marriyum Aurangzeb**, Punjab senior minister, emphasized the importance of data collection and collaboration to achieve sustainable development goals. **Romina Khurshid Alam**, PM’s coordinator on climate change, called for regional solutions rather than global ones. **Mohamed Thoha**, High Commissioner of the Maldives to Pakistan, highlighted shared vulnerabilities between Pakistan and his country due to melting glaciers.  **Seema A. Khan**, Principal at Seed Advisory Group, emphasized the need for patient capital in addressing climate challenges. **Erum Sattar**, a water law and policy expert, discussed Pakistan'",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "health",
-        "education",
-        "farmer_agriculture"
       ]
     }
   ]

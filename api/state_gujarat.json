@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:56.963355",
+  "generated_at": "2026-06-04 22:58:59.324454",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,263 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1107,
-    "articles_last_30d": 455
+    "total_articles": 1115,
+    "articles_last_30d": 459
   },
   "top_cities_30d": {
-    "Delhi": 113,
+    "Delhi": 114,
     "Bengaluru": 68,
     "Ahmedabad": 65,
-    "Mumbai": 39,
+    "Mumbai": 38,
     "Kolkata": 25,
+    "Hyderabad": 25,
     "Chennai": 25,
-    "Hyderabad": 24,
     "Surat": 14,
     "Jaipur": 9,
-    "Patna": 8
+    "Vadodara": 8
   },
   "top_topics_30d": {
-    "foreign_policy": 345,
-    "economy": 107,
+    "foreign_policy": 347,
+    "economy": 110,
+    "crime_violence": 90,
     "education": 89,
-    "crime_violence": 89,
-    "infrastructure": 88,
-    "protest_opposition": 71,
-    "farmer_agriculture": 32,
+    "infrastructure": 87,
+    "protest_opposition": 70,
     "corruption_scam": 32,
-    "health": 24,
-    "rape_sexual_crime": 23
+    "farmer_agriculture": 31,
+    "rape_sexual_crime": 24,
+    "health": 23
   },
   "recent_articles": [
+    {
+      "id": 65432,
+      "title": "Shilpa Shinde on Sanjay Kohli’s reaction to sexual harassment confession: ‘He thanked me’ | Television News - The Indian Express",
+      "url": "https://indianexpress.com/article/entertainment/television/shilpa-shinde-shares-sanjay-kohlis-reaction-to-sexual-harassment-confession-10724329/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/bhabhiji1.jpg",
+      "scraped_at": "2026-06-04 21:01:36.499215",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Shilpa Shinde",
+      "rephrased_article": "**Shilpa Shinde** recently confessed to falsely accusing **Sanjay Kohli**, a producer, of sexual harassment during a dispute over unpaid dues.  She claimed she filed the complaint out of desperation and felt trapped, but later retracted it after reaching a settlement with **Kohli**.  **Shilpa Shinde** has faced backlash from celebrities like **Hina Khan** who condemned her actions. **Ashoke Pandit**, president of the Indian Film and Television Directors’ Association, criticized her for using false accusations to settle personal disputes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65423,
+      "title": "Putin Calls India Reliable Partner, Slams \"Detrimental\" Western Interference",
+      "url": "https://www.ndtv.com/world-news/putin-calls-india-reliable-partner-slams-detrimental-western-interference-11593017#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-11/652akph8_putin-modi-afp_625x300_28_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 21:01:07.372539",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Russia",
+      "rephrased_article": "**Vladimir Putin** stated that **India** is a reliable partner and the two nations will continue to deepen their economic and diplomatic relations. He praised India's economic growth, stating it is one of the world's leading economies with impressive rates of growth.  **Putin** expressed confidence that bilateral trade between the two countries will reach $100 billion soon. **Putin** also asserted that Western attempts to pressure **India** into scaling back its cooperation with Russia are futile and damaging to global stability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65416,
+      "title": "Congress Picks Ex-MP, BJP 2 Top Leaders For Rajya Sabha From Madhya Pradesh",
+      "url": "https://www.ndtv.com/india-news/bjp-picks-chugh-agarwal-congress-bets-on-meenakshi-natarajan-as-rajya-sabha-battle-moves-beyond-numbers-11593014#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/etc035bk_madhya-pradesh-rajya-saha_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 21:00:33.423417",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Congress** nominated former Mandsaur MP Meenakshi Natarajan for the Rajya Sabha seat vacated by Digvijaya Singh. The **BJP** has fielded Tarun Chugh and Rajneesh Agarwal, with the potential for a third candidate to influence the closely contested election in Madhya Pradesh.  While the BJP is expected to win two seats comfortably, the Congress appears poised to retain one.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Shah",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Punjab",
+        "Telangana",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65415,
+      "title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3ck5jf/article71062777.ece/alternates/LANDSCAPE_1200/18_BJP_Delegation_11_03_Delhi.jpg",
+      "scraped_at": "2026-06-04 21:00:28.253561",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "The **Bharatiya Janata Party (BJP)** accused **Rahul Gandhi** of promoting fear and baseless conspiracy theories about the Indian economy and institutions.  **Amit Malviya**, BJP IT Cell head, countered that Mr. Gandhi's claims about an \"economic tsunami\" and a collapsing system were unfounded. He highlighted India's resilience in the face of global challenges, citing strong reserves, low inflation, and robust economic indicators.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "UPA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65405,
+      "title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3ck5jf/article71062777.ece/alternates/LANDSCAPE_1200/18_BJP_Delegation_11_03_Delhi.jpg",
+      "scraped_at": "2026-06-04 21:00:16.288131",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "The **Bharatiya Janata Party (BJP)** accused **Rahul Gandhi** of promoting fear and baseless conspiracy theories about India's institutions and economy.  **Amit Malviya**, the BJP's IT Cell head, countered that Mr. Gandhi's claims were unfounded and that the Indian economy was resilient despite global challenges. He cited strong reserves, low inflation, robust infrastructure spending, and record FDI inflows as evidence of India's economic strength.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "UPA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65383,
+      "title": "Tricked In Thailand, Rescued From Laos: Gujarat Sisters' Ordeal",
+      "url": "https://www.ndtv.com/india-news/from-thailand-bait-to-laos-captivity-inside-the-diplomatic-mission-that-saved-two-gujarat-sisters-11592531#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 18:39:07.622729",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Two sisters from Gujarat's Anand district have been rescued from a human trafficking syndicate in Laos after being missing for nearly 20 days. **Mitesh Patel**, the Member of Parliament from Anand, initiated high-level interventions with the Ministry of External Affairs and diplomatic channels to locate the women and ensure their safety. A joint operation involving the Indian Embassy, the Ministry of External Affairs, the Laos police, and the Laos army successfully located and secured the sisters in the Houaphanh province of Laos. The sisters are now under the care of local authorities in Laos and will be repatriated to India soon.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65371,
+      "title": "Looking Beyond Andhra Pradesh, Pawan Kalyan To NDTV On Party's Growth Plan",
+      "url": "https://www.ndtv.com/india-news/looking-beyond-andhra-pradesh-pawan-kalyan-to-ndtv-on-partys-growth-plan-11592834#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/q5d35qn8_pawan-kalyan_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 18:38:28.383196",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Pawan Kalyan",
+      "rephrased_article": "**Pawan Kalyan**, Andhra Pradesh Deputy Chief Minister, accused the **Telangana Congress** government of denying him a constitutional right to hold a meeting on Telangana Formation Day. He criticized the party's divisive politics and claimed that the **Bharat Rashtra Samithi (BRS)**, which fought for Telangana's creation, never obstructed him during its 10-year rule.  Kalyan also expressed his belief that the NDA could have capitalized on opportunities like those presented by C Joseph Vijay's success in Tamil Nadu and urged former BJP leader **K Annamalai** to remain in politics. He praised Prime Minister Narendra Modi for his leadership and commitment to national integrity.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65370,
+      "title": "ET Alpha Wealth Summit: Nilesh Shah recommends 4 investment bets that should be part of your portfolio - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-nilesh-shah-recommends-4-investment-bets-that-should-be-part-of-your-portfolio/articleshow/131505247.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131506332,width-1200,height-630,imgsize-46026,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-04 18:38:26.745858",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Nilesh Shah",
+      "rephrased_article": "**N.R. Narayana Murthy**, former chairman of **Infosys**, recommended the Special Investment Fund (SIF), performing credit AIFs, REITs, and Gift City-based LRS products to investors seeking alternative investment avenues during volatile market conditions. The SIF is a long-short, absolute return-oriented fund, while performing credit AIFs target corporate settlements with limited bank lending. **Shah** also suggested REITs as a portfolio diversification tool due to their index-level returns and different behavior from equities and fixed income, and Gift City-based LRS products for global exposure when traditional mutual funds are unavailable.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
     {
       "id": 65342,
       "title": "'Explosive, fearless, world-class': Gopichand on doubles talent Hariharan",
@@ -49,7 +278,7 @@
       "rephrased_article": "**Shivani Naik**, a senior sports journalist and Assistant Editor at **The Indian Express**, is a leading voice in Indian Olympic sports journalism, particularly known for her expertise in badminton, wrestling, and basketball. Her work often features \"technical storytelling,\" focusing on the biomechanics, tactics, and psychological grit of athletes.  Her recent articles have explored the evolving landscape of Indian sports as athletes prepare for the 2026 Asian Games, including a focus on the rise of power-based shuttlers in Indian badminton and PV Sindhu's tactical shifts under new coaching. Naik also provides detailed tactical previews for international competitions, such as the BWF World Tour Finals, and explores historical context to current successes.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -70,8 +299,7 @@
       "rephrased_article": "**Jane Fraser**, Chair of the Board and CEO of **Citi**, reaffirmed her confidence in India's long-term economic prospects, despite current global challenges.  She emphasized that while many economies face temporary headwinds, India's underlying growth potential remains robust. Fraser highlighted India's willingness to build for the future, its strategic importance to **Citi**, and its expanding role in the global artificial intelligence ecosystem. She also acknowledged that deal activity could slow down during the second half of 2026 due to geopolitical uncertainties and interest rate concerns but maintained a positive long-term outlook.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -92,7 +320,7 @@
       "rephrased_article": "**Marjane Satrapi**, a renowned Iranian-French graphic novelist and filmmaker, passed away at the age of 56.  Satrapi was known for her autobiographical work \"Persepolis,\" which explored her childhood experiences in Iran during the Islamic Revolution and subsequent years. She actively engaged with political activism in Iran throughout her life, praising the recent \"Woman, Life, Freedom\" protests as a feminist revolution. The world of Satrapi's childhood, shaped by the 1979 Islamic Revolution, will be missed as she refused to be drawn into simplistic black and white narratives.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -119,9 +347,7 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Haryana",
@@ -184,8 +410,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -210,8 +435,7 @@
         "AIADMK"
       ],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Tamil Nadu",
@@ -238,10 +462,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "S. Jaishankar",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Delhi"
@@ -5235,228 +5457,6 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 63390,
-      "title": "IPL 2026 Final Key Stats, RCB vs GT: Can Virat Kohli strike gold? Rashid Khan a big concern - India Today",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-final-rcb-vs-gt-key-stats-ahmedabad-modi-stadium-rajat-patidar-shubman-gill-virat-kohli-2919828-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/shubman-gill-310607858-16x9_0.jpg?VersionId=twM7LVO7TgsahG9YXs1mwigyUuBfxMsR",
-      "scraped_at": "2026-05-31 06:27:02.170345",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "IPL",
-      "rephrased_article": "The **Gujarat Titans** and **Royal Challengers Bengaluru** will compete in the IPL 2026 final on Sunday, May 31st at the Narendra Modi Stadium in Ahmedabad.  After a thrilling season, both teams have a chance to claim their first-ever IPL title. The final is expected to be a close contest with RCB having a slight edge in head-to-head meetings. **Virat Kohli** has struggled in previous finals, scoring only 139 runs at an average of 34.75.  The match will feature key players like **Rashid Khan**, who has been a concern for the Titans, and **Josh Hazlewood**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Chennai",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63377,
-      "title": "IPL 2026 final RCB vs GT preview: Bengaluru chase era-defining sequel in Ahmedabad against underdogs Gujarat - India Today",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-prediction-team-news-ahmedadab-pitch-conditions-talking-points-2919778-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/shubman-gill--rajat-patidar-31022210-16x9_0.jpg?VersionId=lYY2VESCBDDQYS3F74.vjlVUaWEpUOzj",
-      "scraped_at": "2026-05-31 06:26:19.719359",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "IPL 2026 final",
-      "rephrased_article": "The IPL 2026 final between the Gujarat Titans and Royal Challengers Bengaluru will be played at the Narendra Modi Stadium in Ahmedabad.  **Rajat Patidar**, captain of RCB, aims to become only the third captain to win back-to-back titles, while **Shubman Gill** seeks redemption after being dropped from the T20 World Cup squad. The match features two formidable new-ball attacks: **Bhuvneshwar Kumar** and **Josh Hazlewood** for RCB against **Kagiso Rabada** and **Mohammed Siraj**.  The pitch is expected to be fast and bouncy, favoring the batsmen.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Rajasthan",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Bengaluru",
-        "Chennai",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63324,
-      "title": "Strictly monitor & report demographic changes in border districts: Amit Shah to DMs | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/strictly-monitor-report-demographic-changes-in-border-districts-amit-shah-to-dms-10716332/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/shah-3cols.jpg",
-      "scraped_at": "2026-05-31 01:41:16.381253",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Amit Shah",
-      "rephrased_article": "**Amit Shah**, **Union Home and Cooperation Minister**, directed district magistrates (DMs) in border districts of Gujarat to closely monitor demographic changes.  The meeting, held in Bhuj on Friday during **Shah's** visit to the Kutch district, also emphasized the need for effective security coordination between various agencies like the BSF, Coast Guard, Income Tax, ED, and the Lead Bank Manager. **Shah** urged DMs to implement government schemes in border villages and stressed the importance of vigilance over hawala transactions, financial dealings, and suspicious activities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "economy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63287,
-      "title": "Akshita Nandagopal",
-      "url": "https://www.indiatoday.in/anchor/akshita-nandagopal?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/author/Akshita-profile_image_one_to_one.png?VersionId=n_h.8.0ryYZVNYu2sa5i29mCzTvO5B1p",
-      "scraped_at": "2026-05-31 01:39:11.290141",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Vijay",
-      "rephrased_article": "**Vijay**, the newly sworn-in Chief Minister of Tamil Nadu, has announced several policy initiatives in his first moves, including a Rs 2,000 monthly allowance for women and a pension hike. He also pledged free electricity to residents.  The **CBI** is currently investigating **Vijay** for allegedly moving his vehicle beyond permitted limits before the Karur stampede. The Tamil Nadu assembly elections have concluded with the DMK securing victory.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Kerala",
-        "Odisha",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 63261,
-      "title": "IPL Final: Need good bowling attack to win competition: Patidar",
-      "url": "https://www.greaterkashmir.com/sports/ipl-final-need-good-bowling-attack-to-win-competition-patidar-11891665",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/patidar-2026-05-31-06-07-23.jpg",
-      "scraped_at": "2026-05-31 01:36:47.453343",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Royal Challengers Bengaluru",
-      "rephrased_article": "**Rajat Patidar**, captain of **Royal Challengers Bengaluru**, emphasized the importance of a strong bowling attack for their upcoming IPL final against the **Gujarat Titans**. He praised **Bhuvneshwar Kumar**'s leadership and performance, highlighting the need for support from other bowlers like **Rasik** to ensure success.  The team has enjoyed a four-day break following their Qualifier 1 victory, while the **Gujarat Titans** will be playing directly after their Qualifier 2 match.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63247,
-      "title": "A chilling warning from distant farmlands",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1h6SGpYLTBvNUhPdlM0WXVPZkZzTmJHQ3BHRnFlZUV6ZUJpYXg1LVowbFlnVEZURzN4U3p4aUE2aXRRLUQ4Y0cwYlU1WUZ3d2ZJejNhT1ZJS0VSRFBJeEYybHUtV1Y2ODg4dXBZMWlxNUFuUnFtVUZzQWJSX2xoUXk3bHhJM0QySTVBb0tTV0lVSGc0TVhr?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fv0cobiiw%2Ffile861j4rllv9gd5uxyche.jpg?rect=0%2C0%2C1918%2C1007&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 23:05:53.603492",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "corporate agriculture",
-      "rephrased_article": "**Bedabrata Pain’s** documentary film 'Deja Vu' explores the impact of corporate agriculture on American farmers. The film follows a 10,000-km journey across rural America, highlighting how corporatization has led to economic hardship and farmer suicides.  The film features interviews with Indian and American farmers who describe the decline of small towns and the exploitation by large food companies. **Pain** believes the film should be shown to policymakers and students in India as a warning about the potential consequences of corporate control over agriculture.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "farmer_agriculture",
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63233,
-      "title": "Tribuneindia... Bollywood Bhelpuri",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xZUNwZjYwVVM2V1RHSjFSVlRqVG9zQ2k0ZWNya0RFMk5DRE1WNUtMQlNOY3dKUndSQUMtaml1YzZUR3BPcTg1RnM3VlhCaHgwSzVUM0NRYmgtLU9EQmVKN1NWNVh3dFRKaFo3eTRB?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-30 23:05:25.888919",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**Rikku Rakeshnath** and **M F Hussain**, producers of the film \"Gaja Gamini\", restricted press access during its production. Despite initially barring journalists, they later invited them to a celebratory event for the film's completion. The event was attended by prominent actors like **Madhuri Dixit**, **Shabana Azmi**, and **Naseeruddin Shah**.  **Govinda**, another notable figure in Bollywood, is experiencing high demand from music companies due to his popularity. Meanwhile, **Anupam Kher** has filed an FIR against freelance journalist **Lata Khubchandani**, alleging sexual harassment, which has sparked concern about his mental state.",
-      "party_mentioned": [
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 63232,
-      "title": "West Asia crisis impact on Indian economy | West Asia crisis raises India inflation fears as rupee and crude oil prices surge - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelQxZWx6b3FMQ0o2QTN3M20zbUZUVjEyTmFwX2NHUkp3R19HS2I1dWdNNHBMZnp2ZmVfQy1NMVJRaVJBZUNrV1B1emlBZDJ3Ym9UcHVzcE5ySENMcW83WEVzZ3phVE1taFpNOEpjMGV5Vk1rS0NLbU9BdlNDQUd5YmZBdDVpbEFESGJ5YUliX2VjaE94cTNDcFNVMHlvMWxuXy1XZnFNTE1yakl5OGlUcTFYd2ozUXlCcnlweG1rNWdqQkF3RWN3SEwwbUFpcERmOU45RtIB2gFBVV95cUxON3R0ZGlQREVNQ2QyUWxCb0FxVmRCTzQydFpvMXhOblUzNmE2MjRwTTlqSWd5VkxwbFJFUjdTRGhXZV9Eb1pTdV93eDFyc0Q1bnREN081ZVhFWTRGMXNGRE1PS3lEWXhxcVNOMGxUNnJxTl8tNnpPYWpmQWdET3RqaXFLX3VyUzg4bTN4dmtNenN3Mmw3OEJ5TXFySHZ2VlU4N2txdVN4dVdrVTNITmdGTG1YZTVTeFFVdEJjZnJOWklhWmcxVmZDVGc0ODZmOVZlZDdhYUpzem1VUQ?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/2024/Dec/1735621641_rupees.jpg",
-      "scraped_at": "2026-05-30 23:05:23.190201",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Prime Minister Narendra Modi**’s appeal to curb foreign exchange outflows has highlighted the mounting economic toll of the West Asia conflict on India.  The impact is likely to be felt most acutely by households if state-run fuel retailers are forced to raise petrol and diesel prices, pushing up the cost of everyday goods and transport across the economy. **India’s** inflation story may be approaching a more turbulent phase due to elevated crude oil prices and the potential for a below-normal monsoon. Economists expect the Monetary Policy Committee to hold rates steady in the near term, but inflation is expected to drift above the central bank’s target. The government has rolled out a multi-pronged fiscal and regulatory response to cushion the economic shock from the escalating West Asia crisis, including a ₹1 lakh crore economic stabilization fund, excise duty cuts on petrol and diesel, reimposition of export levies on aviation turbine fuel (ATF), and an expanded Emergency Credit Line Guarantee Scheme.",
-      "party_mentioned": [
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "education"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:56.890153",
+  "generated_at": "2026-06-04 22:58:59.240220",
   "party": "CPM",
   "full_name": "Communist Party of India (Marxist)",
   "ideology": "Marxism, Communism",
@@ -10,12 +10,12 @@
   ],
   "color": "#FF0000",
   "stats": {
-    "total_articles": 210,
+    "total_articles": 211,
     "articles_last_30d": 46,
     "sentiment_breakdown_30d": {
       "positive": 12,
-      "negative": 15,
-      "neutral": 19
+      "negative": 14,
+      "neutral": 20
     }
   },
   "ministers": [
@@ -29,6 +29,35 @@
   ],
   "promises": [],
   "recent_articles": [
+    {
+      "id": 65374,
+      "title": "\"Can Send Her To Assembly\": Expelled Leader's 'Offer' For Mamata Banerjee",
+      "url": "https://www.ndtv.com/india-news/can-send-her-to-assembly-expelled-leaders-offer-for-mamata-banerjee-11592806#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/g8h230n4_mamata-banerjee-humayun-kabir_625x300_04_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 18:38:38.251691",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "**Humayun Kabir**, a former Trinamool Congress leader who formed his own party, Aam Janata Unnayan Party (AJUP), has offered to give **Mamata Banerjee** an assembly seat in Murshidabad if she requests it.  Kabir won two seats in the recent election and now claims he can ensure her victory from Rejinagar by resigning. **Banerjee**, who lost her Bhabanipur seat, must win a by-election to return to the state assembly.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool",
+        "CPM"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education"
+      ]
+    },
     {
       "id": 65317,
       "title": "How Mamata Banerjee Created Trinamool After Breaking Away From Congress",
@@ -50,8 +79,7 @@
         "RJD"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -5584,36 +5612,6 @@
       ],
       "topic_tags": [
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 42446,
-      "title": "West Bengal polls 2026: Dilip Ghosh to contest from Kharagpur Sadar - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-polls-2026-dilip-ghosh-to-contest-from-kharagpur-sadar/article70752775.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1c7iav/article70460981.ece/alternates/LANDSCAPE_1200/PTI02_28_2024_000267A.jpg",
-      "scraped_at": "2026-03-17 07:16:16.856946",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Dilip Ghosh",
-      "rephrased_article": "**Dilip Ghosh**, a prominent BJP figure in West Bengal, has been announced as the party's candidate for the Kharagpur Sadar Assembly constituency. **Ghosh**, who previously served as the BJP State president and won the seat in 2016, aims to secure more votes than the BJP received in the last election. The BJP released its first list of 144 candidates for the upcoming West Bengal Assembly elections, with other prominent figures like **Suvendu Adhikari** and **Agnimitra Paul** also being included.  The state is set to hold two",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "education"
       ]
     }
   ]

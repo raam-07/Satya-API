@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:57.086397",
+  "generated_at": "2026-06-04 22:58:59.453831",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1129,
-    "articles_last_30d": 588
+    "total_articles": 1138,
+    "articles_last_30d": 596
   },
   "top_cities_30d": {
-    "Delhi": 582,
-    "Mumbai": 63,
-    "Bengaluru": 41,
+    "Delhi": 590,
+    "Mumbai": 64,
+    "Bengaluru": 42,
     "Kolkata": 34,
     "Hyderabad": 32,
     "Chennai": 26,
@@ -24,18 +24,271 @@
     "Pune": 11
   },
   "top_topics_30d": {
-    "foreign_policy": 442,
-    "crime_violence": 179,
+    "foreign_policy": 446,
+    "crime_violence": 184,
     "economy": 127,
-    "education": 123,
-    "protest_opposition": 106,
-    "infrastructure": 65,
-    "corruption_scam": 61,
+    "education": 124,
+    "protest_opposition": 107,
+    "infrastructure": 67,
+    "corruption_scam": 62,
     "health": 33,
     "farmer_agriculture": 24,
     "rape_sexual_crime": 16
   },
   "recent_articles": [
+    {
+      "id": 65427,
+      "title": "3 killed as crane overturns on under construction flyover linking Noida airport to Faridabad | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/3-workers-killed-several-feared-trapped-as-crane-overturns-on-under-construction-flyover-connecting-jewar-airport-to-faridabad-10724555/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/newsline-ANIfaridabad-3col.jpg",
+      "scraped_at": "2026-06-04 21:01:24.512601",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "**Abhimanyu Hazarika**, a Senior Correspondent for **The Indian Express**, covers southern Haryana. His recent reporting has focused on crime, environmental policy, and urban infrastructure issues in the region. He recently covered the recovery of explosives and an AK-47 linked to the 2025 Red Fort car explosion case, protests against a Supreme Court order that could allow mining and real estate development on Aravalli hills, and concerns regarding low budget allocated for stray dog sterilization by the Municipal Corporation of Gurugram.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Faridabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65425,
+      "title": "Delhi Mayor's Office Receives Bomb Threat, Declared Hoax",
+      "url": "https://www.ndtv.com/india-news/delhi-mayors-office-receives-bomb-threat-declared-hoax-11592928#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 21:01:19.485739",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Delhi Police",
+      "rephrased_article": "**The Municipal Corporation of Delhi (MCD)** received a bomb threat email on Thursday morning, prompting an evacuation and security response. **Delhi Police** and bomb disposal unit personnel were called to the scene, where the entire office complex was thoroughly searched for suspicious objects. No such items were found, and the area was sanitized.  Police are currently investigating the origin of the email.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 65423,
+      "title": "Putin Calls India Reliable Partner, Slams \"Detrimental\" Western Interference",
+      "url": "https://www.ndtv.com/world-news/putin-calls-india-reliable-partner-slams-detrimental-western-interference-11593017#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-11/652akph8_putin-modi-afp_625x300_28_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 21:01:07.372539",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Russia",
+      "rephrased_article": "**Vladimir Putin** stated that **India** is a reliable partner and the two nations will continue to deepen their economic and diplomatic relations. He praised India's economic growth, stating it is one of the world's leading economies with impressive rates of growth.  **Putin** expressed confidence that bilateral trade between the two countries will reach $100 billion soon. **Putin** also asserted that Western attempts to pressure **India** into scaling back its cooperation with Russia are futile and damaging to global stability.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65418,
+      "title": "Delhi University Professor Living Alone Found Murdered In Her Locked Flat",
+      "url": "https://www.ndtv.com/india-news/delhi-university-professor-living-alone-found-murdered-in-her-locked-flat-11593042#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/fme0vapk_du-prof-killed_625x300_05_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 21:00:50.461237",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Devosmita Paul",
+      "rephrased_article": "**Devosmita Paul**, an Assistant Professor at **Shivaji College**, was found dead in her locked flat in Vasundhara Enclave, East Delhi. Her sister, **Devarati Paul**, discovered the body after breaking down the door. Preliminary investigations indicate that she suffered head injuries and severed veins in her wrist, suggesting a homicide. The police have filed a murder case and are investigating the incident.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65416,
+      "title": "Congress Picks Ex-MP, BJP 2 Top Leaders For Rajya Sabha From Madhya Pradesh",
+      "url": "https://www.ndtv.com/india-news/bjp-picks-chugh-agarwal-congress-bets-on-meenakshi-natarajan-as-rajya-sabha-battle-moves-beyond-numbers-11593014#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/etc035bk_madhya-pradesh-rajya-saha_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 21:00:33.423417",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Congress** nominated former Mandsaur MP Meenakshi Natarajan for the Rajya Sabha seat vacated by Digvijaya Singh. The **BJP** has fielded Tarun Chugh and Rajneesh Agarwal, with the potential for a third candidate to influence the closely contested election in Madhya Pradesh.  While the BJP is expected to win two seats comfortably, the Congress appears poised to retain one.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Shah",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Punjab",
+        "Telangana",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65397,
+      "title": "Kuki body opposes Manipur voter roll revision, flags exclusion of 59,000 displaced people | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/manipur-kuki-inpi-electoral-roll-revision-internally-displaced-voters-eci-10724501/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Manipur-SIR.jpg",
+      "scraped_at": "2026-06-04 18:39:42.717694",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**The Kuki Inpi Manipur** has expressed opposition to the Special Intensive Revision (SIR) in Manipur, citing concerns about displaced people's participation. The organization demands that \"satisfactory arrangements\" be made to ensure all displaced persons are included in the process. **The Election Commission of India (ECI)** is considering deploying special Assistant Electoral Registration Officers (AEROs) for internally displaced persons in Manipur and plans to make arrangements for around 14,000-15,000 eligible individuals.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Manipur",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65394,
+      "title": "Malviya Nagar fire: CM Rekha Gupta meet victims, announces compensation; LG hold high-level meet | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/malviya-nagar-fire-flourish-stays-hauz-rani-rekha-gupta-taranjit-singh-sandhu-mcd-10724520/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/delhi-fire-2.jpg",
+      "scraped_at": "2026-06-04 18:39:36.559493",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Rekha Gupta",
+      "rephrased_article": "**Chief Minister Rekha Gupta** announced an ex-gratia of Rs 10 lakh for the families of the victims and Rs 5 lakh for those injured in a fire at **Flourish Stays**, a bed-and-breakfast facility in South Delhi.  **Gupta** directed departments to conduct a thorough investigation, audit fire safety standards, and take strict action against negligence. The **Lieutenant Governor Taranjit Singh Sandhu** chaired a meeting with the **Municipal Corporation of Delhi (MCD)** to discuss a comprehensive plan for stronger urban governance, improved infrastructure, and enhanced structural safety across Delhi.  The LG directed the MCD to implement a time-bound strategy to detect and demolish unauthorized constructions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "crime_violence",
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65392,
+      "title": "BJP sends Tarun Chugh to Rajya Sabha, fuels speculation over Bittu’s Punjab role | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/bjp-tarun-chugh-rajya-sabha-bittu-punjab-role-10724515/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tarun-chugh.jpg",
+      "scraped_at": "2026-06-04 18:39:34.301623",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** nominated Punjab leader Tarun Chugh to the Rajya Sabha from Madhya Pradesh, fueling speculation about the future political role of Union Minister Ravneet Singh Bittu.  Bittu's name was not included in the first list of candidates for the June 18 Rajya Sabha elections despite his desire to return to active politics in Punjab.  Chugh, a prominent Punjab face in the BJP's national structure, has been nominated amid growing speculation about Bittu's future role.  The development assumes significance as both leaders have expressed their ambitions and political observers view it as a sign of potential plans for them ahead of the 2027 Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Kerala",
+        "Madhya Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Chandigarh",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "education",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65357,
+      "title": "WFI acknowledges receiving Vinesh Phogat's reply to show cause notice",
+      "url": "https://indianexpress.com/article/sports/wfi-receives-vinesh-phogat-show-cause-notice-reply-wrestling-10724554/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Vinesh-10.jpg",
+      "scraped_at": "2026-06-04 18:37:59.462475",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "WFI",
+      "rephrased_article": "**The Wrestling Federation of India (WFI)** received **Vinesh Phogat’s** reply to a show cause notice and will adjudicate it according to its rules.  The Supreme Court dismissed a plea by the WFI against a Delhi High Court order allowing **Vinesh** to participate in selection trials, deeming it \"infructuous\" due to subsequent developments. The WFI is also considering the conduct of certain wrestlers at the Selection Trials and will make a decision on that matter soon.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 65344,
       "title": "Assam Cabinet expansion: Several new faces, no room for high-profile Congress defectors | India News - The Indian Express",
@@ -83,7 +336,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -114,7 +367,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -291,8 +544,7 @@
       "rephrased_article": "**Delcy Rodriguez**, the interim president of **Venezuela**, is in India to boost energy ties.  She is a devotee of Indian guru Sathya Sai Baba and visited his birthplace in Puttaparthi, as did her predecessor, former President **Nicolas Maduro**.  Rodriguez's visit coincides with India increasing Venezuelan oil imports amid global supply disruptions. The two countries are discussing an energy partnership that could lead to increased oil exports from Venezuela to India.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Andhra Pradesh",
@@ -321,8 +573,7 @@
         "AIADMK"
       ],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Tamil Nadu",
@@ -375,10 +626,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "S. Jaishankar",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Delhi"
@@ -5196,263 +5445,6 @@
         "education",
         "foreign_policy",
         "economy"
-      ]
-    },
-    {
-      "id": 63841,
-      "title": "Supreme court ruling shifts focus to TET preparation for Maharashtra teachers | Legal News - The Indian Express",
-      "url": "https://indianexpress.com/article/legal-news/maharashtra-tet-mandatory-in-service-teachers-supreme-court-august-2028-10717312/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/SC.jpg",
-      "scraped_at": "2026-05-31 16:46:34.139512",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "Supreme court",
-      "rephrased_article": "**Pallavi Smart**, a Principal Correspondent for **The Indian Express**'s Mumbai Bureau, is a trusted source for education news in Maharashtra. Her coverage encompasses policy and regulatory changes, higher education institutions, teacher and eligibility issues, student welfare and rights, admissions and vacancies, and more.  Her expertise spans from foundational schooling to advanced higher education, providing comprehensive insights into the education sector's impact on students, teachers, and parents.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 63826,
-      "title": "Former ED special director Satyabrata Kumar who probed Nirav Modi, Vijay Mallya, takes VRS | Today News",
-      "url": "https://www.livemint.com/news/india/former-ed-special-director-satyabrata-kumar-who-probed-nirav-modi-vijay-mallya-takes-vrs-11780240687864.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/ed_1780242215879_1780242245286_481351d1-48b5-455a-87c1-b9b0763420ed.jpg",
-      "scraped_at": "2026-05-31 16:45:25.581130",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Enforcement Directorate (ED)",
-      "rephrased_article": "**Satyabrata Kumar**, a former special director of the **Enforcement Directorate (ED)**, has opted for voluntary retirement from government service after nearly 12 years with the agency.  Kumar oversaw high-profile investigations including those involving Nirav Modi, Vijay Mallya, and the Mahadev online betting network. He received approval for voluntary retirement in April and his departure marks the second instance within a year of a senior ED officer leaving government service shortly after exiting the agency. The **ED** arrested Satinder Singh Bhasin, director of Bhasin Infotech and Infrastructure Pvt Ltd, on charges of money laundering related to alleged cheating of home buyers.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Arvind Kejriwal",
-        "Hemant Soren"
-      ],
-      "states_mentioned": [
-        "Chhattisgarh",
-        "Maharashtra",
-        "Punjab",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Ghaziabad"
-      ],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63791,
-      "title": "Ministry formation to be done in phases while discussions will shift to Delhi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/ministry-formation-to-be-done-in-phases-while-discussions-will-shift-to-delhi/article71044835.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/chq4jq/article71045247.ece/alternates/LANDSCAPE_1200/20260531191L_oLVFQ6J.jpg",
-      "scraped_at": "2026-05-31 15:23:34.531898",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Mallikarjun Kharge**, **All India Congress Committee president**, stated that the formation of the Karnataka Cabinet will be done in phases, with no official proposal specifying the number of ministers yet received.  He indicated that decisions regarding cabinet size and Deputy Chief Ministers will be made after a concrete proposal is submitted to the central leadership.  **D.K. Shivakumar**, newly elected leader of the Congress Legislature Party, and **outgoing Chief Minister Siddaramaiah** are expected to present their choices for Cabinet positions to the central leadership on Monday.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63780,
-      "title": "FIR against man for facilitating transfer of cyber scam funds through his bank account - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/money-mule-account-used-to-route-cyber-scam-funds-case-registered/article71044251.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-31 15:23:02.554889",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Murali G. Reddygopal",
-      "rephrased_article": "**Whitefield Cyber Crime Police** have registered a case against Murali G. Reddygopal, a 37-year-old resident of Murthinagar Cross, Bengaluru, for allegedly providing his bank account and banking facilities to cybercriminals.  The investigation revealed that the account was being used as a \"money mule\" to receive and route funds obtained through online scams in various locations across India. The police suspect Reddygopal knowingly provided his banking credentials to facilitate illegal transactions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru",
-        "Pune"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63778,
-      "title": "Ahead of D K Shivakumar’s swearing-in, lobbying grows for deputy CM, Cabinet posts | Bangalore News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/bangalore/karnataka-deputy-cm-race-ahead-of-dk-shivakumar-swearing-in-10717151/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/clp.jpg",
-      "scraped_at": "2026-05-31 15:22:58.631544",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Karnataka Congress",
-      "rephrased_article": "**Siddaramaiah**, the caretaker chief minister of **Karnataka**, is facing pressure from various caste groups to appoint a deputy chief minister.  **Eshwar Khandre**, a Lingayat leader and Forest Minister, has been urged by influential seers to take on this role, while supporters of **G Parameshwara**, a Dalit leader, are demanding his appointment as deputy chief minister. Other names circulating include those of **K H Muniyappa** and **M C Sudhakar**.  The Congress leadership is yet to receive any formal proposals for deputy ministerial positions, with both **Shivakumar** and **Siddaramaiah** expected to travel to Delhi to finalize the Cabinet list.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bangalore"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63742,
-      "title": "Gautam Adani Bets On AI-Driven Infrastructure Boom In Letter To Shareholders",
-      "url": "https://www.ndtv.com/india-news/gautam-adani-bets-on-ai-driven-infrastructure-boom-in-letter-to-shareholders-11572145#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2025-08/am49otb8_adanispeech_160x120_07_August_25.jpg",
-      "scraped_at": "2026-05-31 15:21:00.468963",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Adani Group",
-      "rephrased_article": "**Gautam Adani**, chairman of the **Adani Group**, announced that the conglomerate is moving forward with investments in energy, transport, logistics, and digital infrastructure despite past legal challenges. The group completed a rights issue to demonstrate investor confidence and highlighted significant progress in renewable energy, transmission networks, ports, airports, data centers, and manufacturing operations. Adani emphasized the importance of infrastructure for AI-driven growth, stating that \"before AI can think, energy must flow.\"  The **Adani Group** reported strong financial performance with consolidated revenue and profit after tax increasing significantly.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Visakhapatnam"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63733,
-      "title": "DoCA reviews implementation of Legal Metrology Reforms in Northern States, UTs",
-      "url": "https://www.greaterkashmir.com/national/doca-reviews-implementation-of-legal-metrology-reforms-in-northern-states-uts-11893668",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/nidhi-khare-2026-05-31-19-22-43.jpeg",
-      "scraped_at": "2026-05-31 15:20:43.932111",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Government of India",
-      "rephrased_article": "**The Department of Consumer Affairs**, **Government of India**, held a regional review meeting to assess the implementation of Legal Metrology Reforms in Northern States. The meeting, chaired by Secretary Nidhi Khare, focused on key reforms aimed at simplifying regulatory processes and enhancing consumer protection.  Discussions included replacing licensing with registration systems for weights and measures, implementing the \"Improvement Notice\" mechanism, expanding the Government Approved Test Centre (GATC) framework, and digitizing initiatives. States were urged to align their enforcement rules with recent reforms while ensuring continued vigilance against fraud and violations affecting consumers.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Himachal Pradesh",
-        "Punjab",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 63720,
-      "title": "PM Modi urges people to take precautions amid scorching heat",
-      "url": "https://www.greaterkashmir.com/national/pm-modi-urges-people-to-take-precautions-amid-scorching-heat-11893811",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/23/pm-modi-2026-05-23-16-33-53.jpeg",
-      "scraped_at": "2026-05-31 15:20:24.981104",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** urged citizens to stay hydrated during the ongoing heatwave across India.  He emphasized taking precautions when stepping outside and following government guidelines on hydration. **Modi** also highlighted the importance of mangoes, noting their regional variations and global reach.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Gujarat",
-        "Maharashtra",
-        "Odisha",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63716,
-      "title": "I asked ChatGPT: ‘Should I study abroad after my B Com?’ AI exposes the truth about MBA prospects, chooses best options | Today News",
-      "url": "https://www.livemint.com/news/trends/i-asked-chatgpt-should-i-study-abroad-after-my-b-com-ai-exposes-the-truth-about-mba-prospects-chooses-best-options-11780228744163.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/MBA-GPT_1780228974682_1780228987613_dc2fd98f-338c-4fbb-815b-44493e5ae7fe.jpg",
-      "scraped_at": "2026-05-31 13:56:08.246222",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "MBA",
-      "rephrased_article": "A 23-year-old Indian B Com graduate is considering a master's degree abroad with a budget of ₹50 lakh. The author recommends focusing on specialized masters degrees like Business Analytics, Information Systems, or Supply Chain Management in countries like Australia, Germany, and Canada to maximize employment prospects and long-term settlement opportunities.  Australia offers transparent immigration pathways, strong graduate salaries, and post-study work rights, while Germany provides the best financial return with its low tuition costs. The author advises against pursuing an MBA immediately after B Com due to limited experience requirements for top programs.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "crime_violence"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:57.039652",
+  "generated_at": "2026-06-04 22:58:59.404323",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 233,
-    "articles_last_30d": 129
+    "total_articles": 236,
+    "articles_last_30d": 131
   },
   "top_cities_30d": {
-    "Delhi": 46,
+    "Delhi": 47,
     "Bengaluru": 19,
     "Ahmedabad": 16,
     "Mumbai": 14,
@@ -21,21 +21,114 @@
     "Hyderabad": 7,
     "Pune": 6,
     "Kolkata": 5,
-    "Ludhiana": 4
+    "Ludhiana": 5
   },
   "top_topics_30d": {
     "foreign_policy": 100,
-    "education": 28,
+    "education": 29,
     "crime_violence": 24,
-    "infrastructure": 21,
+    "infrastructure": 20,
     "economy": 19,
     "protest_opposition": 18,
     "corruption_scam": 12,
     "health": 12,
-    "farmer_agriculture": 11,
-    "political_gaffe": 6
+    "farmer_agriculture": 10,
+    "political_gaffe": 8
   },
   "recent_articles": [
+    {
+      "id": 65392,
+      "title": "BJP sends Tarun Chugh to Rajya Sabha, fuels speculation over Bittu’s Punjab role | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/bjp-tarun-chugh-rajya-sabha-bittu-punjab-role-10724515/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tarun-chugh.jpg",
+      "scraped_at": "2026-06-04 18:39:34.301623",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** nominated Punjab leader Tarun Chugh to the Rajya Sabha from Madhya Pradesh, fueling speculation about the future political role of Union Minister Ravneet Singh Bittu.  Bittu's name was not included in the first list of candidates for the June 18 Rajya Sabha elections despite his desire to return to active politics in Punjab.  Chugh, a prominent Punjab face in the BJP's national structure, has been nominated amid growing speculation about Bittu's future role.  The development assumes significance as both leaders have expressed their ambitions and political observers view it as a sign of potential plans for them ahead of the 2027 Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Kerala",
+        "Madhya Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Telangana",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Ladakh",
+        "Chandigarh",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "education",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65379,
+      "title": "M Kharge, Pawan Khera Among 7 Congress Nominees For Rajya Sabha Elections",
+      "url": "https://www.ndtv.com/india-news/congress-announces-list-of-7-candidates-for-rajya-sabha-polls-11592775#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/b8mkhv8_mallikarjun-kharge_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 18:38:53.124386",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**The Congress** announced its seven candidates for the Rajya Sabha elections, renominating **Mallikarjun Kharge** from Karnataka and fielding **Pawan Khera**, **Mansoor Ali Khan**, and **Meenakshi Natarajan**.  The party also nominated **Praveen Chakravarty**, **Neeraj Dangi**, and **Pranav Jha** for the elections in Tamil Nadu, Madhya Pradesh, and Jharkhand respectively. The Rajya Sabha elections will be held on June 18th with nominations closing on June 8th.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65367,
+      "title": "Lt Governor Manoj Sinha On Kashmiri Pandit Exodus: 'Common Kashmiri Has Done No Wrong'",
+      "url": "https://www.ndtv.com/india-news/lt-governor-manoj-sinha-on-kashmiri-pandit-exodus-common-kashmiri-has-done-no-wrong-11592749#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/9atfgdds_manoj-sinha_625x300_04_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 18:38:20.147634",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Manoj Sinha",
+      "rephrased_article": "**Lieutenant Governor Manoj Sinha** addressed an interfaith conference in Srinagar, asserting that the common people of Kashmir were not responsible for the events that transpired there. He stated that **Kashmiris** have a better understanding of India than other citizens and urged them to work within the framework of the Constitution.  Sinha also highlighted **Jammu and Kashmir's** high ranking in nationwide celebrations of 150 years of \"Vande Mataram,\" emphasizing the region's harmonious environment. Senior RSS leader, **Indresh Kumar**, attended the conference.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65338,
       "title": "UPSC Essentials subject-wise quiz : Economy (Week 165)",
@@ -5848,75 +5941,6 @@
       "topic_tags": [
         "protest_opposition",
         "education"
-      ]
-    },
-    {
-      "id": 46852,
-      "title": "15-year-old Vaibhav Sooryavanshi scores 15-ball fifty for Rajasthan Royals | Cricket News | Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/3/31/15-year-old-vaibhav-sooryavanshi-scores-15-ball-fifty-for-rajasthan-royals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP26089608546471-1774936728_1bcae8-1774936891.jpg?resize=1200%2C630&quality=80",
-      "scraped_at": "2026-03-31 06:52:57.501802",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Vaibhav Sooryavanshi",
-      "rephrased_article": "**Vaibhav Sooryavanshi**, a 15-year-old Indian teenager, scored a blistering 15-ball half century for **Rajasthan Royals** in their eight-wicket victory over **Chennai Super Kings**.  Sooryavanshi's aggressive innings came after his team restricted the visitors to a low score, leading to a quick chase and an easy win. The young batter credited his coach **Kumar Sangakkara** and staff for supporting his attacking style of play.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Punjab",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Chennai",
-        "Ahmedabad"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 46805,
-      "title": "1.22 lakh Anganwadi workers in Rajasthan get ₹1,000 each through DBT - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/122-lakh-anganwadi-workers-in-rajasthan-get-1000-each-through-dbt/article70803509.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xhlbch/article70804770.ece/alternates/LANDSCAPE_1200/20260330260L.jpg",
-      "scraped_at": "2026-03-31 00:03:12.396128",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Bhajan Lal Sharma",
-      "rephrased_article": "**Rajasthan** Chief Minister Bhajan Lal Sharma transferred ₹1,000 each to 1.22 lakh Anganwadi workers through direct benefit transfer (DBT) to cover the cost of two uniforms. He also announced a 10% increase in honorarium for Anganwadi workers, helpers, and midday meal cooks-cum-helpers, effective April 1st.  Sharma highlighted the crucial role of Anganwadi workers in nation-building and emphasized steps taken to strengthen these centers. The Chief Minister also encouraged Anganwadi workers' participation in his \"developed village-ward\" campaign.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 46787,
-      "title": "Putting trans people under OBC quota gives no real benefit, says Rajasthan High Court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/putting-trans-people-under-obc-quota-gives-no-real-benefit-says-rajasthan-high-court/article70802823.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-otherstates/hokzs6/article69986777.ece/alternates/LANDSCAPE_1200/Rajasthan-High-GBREQT0GD.3.jpg.jpg",
-      "scraped_at": "2026-03-30 22:09:36.475142",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Rajasthan High Court",
-      "rephrased_article": "The **Rajasthan High Court** ruled that the state's classification of transgender people as part of the OBC category for reservations is ineffective and discriminatory. The court criticized the Transgender Persons (Protection of Rights) Amendment Bill, 2026, which removes the right to self-identification.  The court ordered the formation of a committee to assess the compounded marginalization of transgender individuals from all socio-economic categories. The court also directed that transgender individuals be given a 3% additional weightage in selection and appointment for state educational institutions or government posts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Rajasthan",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health"
       ]
     }
   ]

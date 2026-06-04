@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:56.931352",
+  "generated_at": "2026-06-04 22:58:59.290445",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,34 +8,72 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 482,
+    "total_articles": 483,
     "articles_last_30d": 136
   },
   "top_cities_30d": {
     "Delhi": 28,
     "Visakhapatnam": 21,
-    "Hyderabad": 16,
+    "Hyderabad": 17,
     "Chennai": 9,
     "Mumbai": 8,
     "Madurai": 5,
     "Kolkata": 5,
     "Bengaluru": 4,
-    "Ludhiana": 3,
-    "Pune": 2
+    "Coimbatore": 3,
+    "Ludhiana": 3
   },
   "top_topics_30d": {
     "foreign_policy": 90,
     "education": 33,
     "economy": 26,
-    "infrastructure": 21,
+    "infrastructure": 20,
     "crime_violence": 20,
-    "farmer_agriculture": 14,
     "protest_opposition": 14,
+    "farmer_agriculture": 13,
     "health": 12,
     "rape_sexual_crime": 7,
     "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 65371,
+      "title": "Looking Beyond Andhra Pradesh, Pawan Kalyan To NDTV On Party's Growth Plan",
+      "url": "https://www.ndtv.com/india-news/looking-beyond-andhra-pradesh-pawan-kalyan-to-ndtv-on-partys-growth-plan-11592834#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/q5d35qn8_pawan-kalyan_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 18:38:28.383196",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Pawan Kalyan",
+      "rephrased_article": "**Pawan Kalyan**, Andhra Pradesh Deputy Chief Minister, accused the **Telangana Congress** government of denying him a constitutional right to hold a meeting on Telangana Formation Day. He criticized the party's divisive politics and claimed that the **Bharat Rashtra Samithi (BRS)**, which fought for Telangana's creation, never obstructed him during its 10-year rule.  Kalyan also expressed his belief that the NDA could have capitalized on opportunities like those presented by C Joseph Vijay's success in Tamil Nadu and urged former BJP leader **K Annamalai** to remain in politics. He praised Prime Minister Narendra Modi for his leadership and commitment to national integrity.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "AIADMK",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65330,
       "title": "106 Reservoirs Below 40% As Weather Office Flags Weak Monsoon Risk",
@@ -112,8 +150,7 @@
       "rephrased_article": "**Delcy Rodriguez**, the interim president of **Venezuela**, is in India to boost energy ties.  She is a devotee of Indian guru Sathya Sai Baba and visited his birthplace in Puttaparthi, as did her predecessor, former President **Nicolas Maduro**.  Rodriguez's visit coincides with India increasing Venezuelan oil imports amid global supply disruptions. The two countries are discussing an energy partnership that could lead to increased oil exports from Venezuela to India.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Andhra Pradesh",
@@ -5397,46 +5434,6 @@
         "Hyderabad"
       ],
       "topic_tags": []
-    },
-    {
-      "id": 53205,
-      "title": "Tamil Nadu election 2026: Will NDA, under AIADMK, be lucky this time? - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/will-the-nda-under-the-aiadmk-be-lucky-this-time/article70888432.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/b5ry6c/article70888820.ece/alternates/LANDSCAPE_1200/DSC_0375.JPG",
-      "scraped_at": "2026-04-21 22:48:19.821687",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "The **AIADMK**, led by Edappadi K. Palaniswami, is seeking to regain power in Tamil Nadu after two unsuccessful attempts at the polls. The alliance, comprising the **BJP**, **PMK**, and several smaller parties, has been bolstered by recent political maneuvering, with Palaniswami asserting his authority over seat allocation and campaign strategy.  Despite internal tensions and controversies surrounding the Delimitation and Women’s Reservation Bills, the AIADMK is hoping to capitalize on public dissatisfaction with the DMK government.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai",
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam"
-      ]
     }
   ]
 }

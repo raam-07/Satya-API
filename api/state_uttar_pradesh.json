@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 18:39:57.066415",
+  "generated_at": "2026-06-04 22:58:59.432392",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 398,
-    "articles_last_30d": 177
+    "total_articles": 399,
+    "articles_last_30d": 175
   },
   "top_cities_30d": {
-    "Delhi": 62,
+    "Delhi": 63,
     "Lucknow": 29,
-    "Kanpur": 13,
+    "Kanpur": 12,
     "Ghaziabad": 11,
     "Kolkata": 10,
     "Mumbai": 9,
@@ -24,18 +24,42 @@
     "Hyderabad": 6
   },
   "top_topics_30d": {
-    "foreign_policy": 130,
+    "foreign_policy": 127,
     "crime_violence": 66,
     "education": 47,
-    "protest_opposition": 42,
-    "infrastructure": 28,
+    "protest_opposition": 41,
+    "infrastructure": 27,
     "economy": 24,
-    "farmer_agriculture": 16,
+    "farmer_agriculture": 15,
     "corruption_scam": 15,
     "health": 13,
     "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 65357,
+      "title": "WFI acknowledges receiving Vinesh Phogat's reply to show cause notice",
+      "url": "https://indianexpress.com/article/sports/wfi-receives-vinesh-phogat-show-cause-notice-reply-wrestling-10724554/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Vinesh-10.jpg",
+      "scraped_at": "2026-06-04 18:37:59.462475",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "WFI",
+      "rephrased_article": "**The Wrestling Federation of India (WFI)** received **Vinesh Phogat’s** reply to a show cause notice and will adjudicate it according to its rules.  The Supreme Court dismissed a plea by the WFI against a Delhi High Court order allowing **Vinesh** to participate in selection trials, deeming it \"infructuous\" due to subsequent developments. The WFI is also considering the conduct of certain wrestlers at the Selection Trials and will make a decision on that matter soon.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 65338,
       "title": "UPSC Essentials subject-wise quiz : Economy (Week 165)",
@@ -5849,34 +5873,6 @@
       ],
       "topic_tags": [
         "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 55064,
-      "title": "Trinamool accuses Election Commission’s police observer of serious misconduct - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/ips-officer-ajay-pal-sharma-was-not-on-ecs-initial-observer-list-for-west-bengal/article70917719.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/zfh4m6/article70918077.ece/alternates/LANDSCAPE_1200/PTI04_28_2026_000464B.jpg",
-      "scraped_at": "2026-04-29 01:25:35.361058",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Ajay Pal Sharma**, a 2011-batch IPS officer, was added to the list of police observers for four Assembly constituencies in South 24 Parganas after initially being excluded from the initial list released by the **Election Commission of India (ECI)**.  He replaced **Parmar Smit Parshottamdas**, a 2017-batch IPS officer from Odisha cadre, who was originally assigned to these constituencies.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Odisha",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Prayagraj"
-      ],
-      "topic_tags": [
         "foreign_policy"
       ]
     }
