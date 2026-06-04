@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.532104",
+  "generated_at": "2026-06-04 10:53:14.077458",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1092,
-    "articles_last_30d": 556
+    "total_articles": 1116,
+    "articles_last_30d": 578
   },
   "top_cities_30d": {
-    "Delhi": 550,
-    "Mumbai": 61,
-    "Bengaluru": 40,
+    "Delhi": 572,
+    "Mumbai": 62,
+    "Bengaluru": 41,
     "Kolkata": 35,
-    "Hyderabad": 33,
+    "Hyderabad": 32,
     "Chennai": 25,
     "Jaipur": 14,
     "Lucknow": 12,
@@ -24,18 +24,545 @@
     "Pune": 11
   },
   "top_topics_30d": {
-    "foreign_policy": 418,
-    "crime_violence": 169,
-    "education": 123,
-    "economy": 120,
-    "protest_opposition": 102,
+    "foreign_policy": 435,
+    "crime_violence": 177,
+    "economy": 126,
+    "education": 124,
+    "protest_opposition": 106,
     "infrastructure": 67,
-    "corruption_scam": 60,
-    "health": 29,
-    "farmer_agriculture": 26,
+    "corruption_scam": 62,
+    "health": 32,
+    "farmer_agriculture": 24,
     "rape_sexual_crime": 16
   },
   "recent_articles": [
+    {
+      "id": 65216,
+      "title": "West Bengal Trinamool Chaos: Has Mamata Banerjee Reached Her Political Endgame?",
+      "url": "https://www.ndtv.com/opinion/west-bengal-trinamool-chaos-has-mamata-banerjee-reached-her-political-endgame-11589534#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://i.ndtvimg.com/i/2016-05/mamata-banerjee_650x400_51463829193.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 09:15:12.249326",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The Trinamool Congress (TMC) is facing a severe internal crisis following its loss in the recent West Bengal Assembly elections.  **Mamata Banerjee**, despite retaining her personal appeal, faces a fractured party with 58 MLAs supporting expelled leader **Ritabrata Banerjee** as Leader of the Opposition. The party's organizational structure has been significantly weakened by allegations of centralized control and corporate-style management. **Abhishek Banerjee**, Mamata's nephew and national general secretary, is facing criticism for his leadership style, further exacerbating the internal conflict.  The TMC's future hinges on whether **Mamata Banerjee** can address these issues and rebuild the party from the grassroots level or if it will fragment into irrelevance.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "NCP",
+        "Nationalist Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65214,
+      "title": "Delhi Hotel Flourish Inn Fire Likely Caused By Short Circuit: Sources",
+      "url": "https://www.ndtv.com/delhi-news/delhi-hotel-flourish-inn-fire-likely-caused-by-short-circuit-sources-11589600#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/j42hoi0o_delhi-fire_625x300_03_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 09:15:07.725041",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Police",
+      "rephrased_article": "A fire at the **Flourish Stay** hotel in Malviya Nagar, Delhi, tragically killed 21 people, including nine Indians and 12 foreigners. The blaze, which started around 8:30 am, spread quickly through the five-floor building due to a short circuit, according to preliminary investigations.  The fire department discovered more than four LPG cylinders in the hotel, along with electric stoves used for cooking by guests. **Delhi Police** are investigating the cause of the fire and the hotel's lack of a fire NOC and violation of bed and breakfast policy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 65213,
+      "title": "Ritabrata Banerjee, Mamata Banerjee Anatomy Of A Loss: Inside The Collapse And Rise Of \"Real Trinamool\"",
+      "url": "https://www.ndtv.com/india-news/ritabrata-banerjee-mamata-banerjee-anatomy-of-a-loss-inside-the-collapse-and-rise-of-real-trinamool-11589685#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/1l0erfoc_ritabrata-banerjee_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 09:15:00.491671",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "Following the Bengal election loss, **Mamata Banerjee**, a three-time chief minister, faces growing dissent within her party.  **Ritabrata Banerjee**, a Trinamool MLA, and other dissidents have publicly challenged **Abhishek Banerjee**, Mamata's nephew, accusing him of centralizing power. The rebellion escalated when the dissidents were expelled from the party and formed their own leadership team. They now claim to represent the \"real Trinamool Congress\" in the Assembly, while seeking guidance from **Mamata Banerjee**.  The situation has led to a power struggle within the party as it attempts to regain control.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65210,
+      "title": "\"We Are Scared\": Nepal Family Relocates After Deadly Delhi Hotel Fire",
+      "url": "https://www.ndtv.com/india-news/we-are-scared-nepal-family-relocates-after-deadly-delhi-hotel-fire-11589826#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/67idtp_delhi-hospital-foreigner-_625x300_04_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 09:14:47.140048",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "A massive fire at the Flourish Inn Hotel in Delhi's Malviya Nagar has tragically killed 21 people, including 12 foreigners. **Ravi Lal Sarpota**, a Nepali national who traveled to India for medical treatment with his family, expressed fear after witnessing the incident and concerns about safety violations in hotels in the area. The fire started in the restaurant area of the hotel and rapidly spread through the building, prompting police to order the closure of nearby Green Residency Hotel, allegedly linked to the same owner. Authorities are investigating the tragedy and have indicated that several hotels in the locality may be operating without mandatory fire clearances.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65208,
+      "title": "Haryana's New EV Rule: Will Your Cab, E-Commerce Deliveries Cost More Now?",
+      "url": "https://www.ndtv.com/business-news/haryanas-new-ev-rule-will-your-cab-ola-uber-e-commerce-deliveries-cost-more-now-11588568#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/sopcpqfg_ev-cabs_625x300_04_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 09:14:40.553568",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Haryana Government",
+      "rephrased_article": "The **Haryana** government has implemented a new policy that prohibits the addition of new petrol and diesel vehicles to commercial fleets in its NCR districts.  New vehicles joining these fleets must run on cleaner fuels such as electricity, CNG, battery power, or low-emission alternatives. While this transition may initially increase cab fares due to higher upfront costs for operators, long-term benefits include lower operating expenses, improved vehicle maintenance, and potentially more reliable service. The policy aims to reduce urban emissions, improve air quality, and contribute to cleaner transportation across India.  Industry leaders believe that a mature charging ecosystem, robust infrastructure, and collaboration between stakeholders will be crucial for the successful implementation of this transition.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65187,
+      "title": "US plans additional 12.5% tariff; India says talks on Section 301 probes ongoing - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-plans-additional-12-5-tariff-india-says-talks-on-section-301-probes-ongoing/articleshow/131491652.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131491720,width-1200,height-630,imgsize-46810,overlay-economictimes/articleshow.jpg",
+      "scraped_at": "2026-06-04 05:26:58.126670",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "US Government",
+      "rephrased_article": "**The U.S. Trade Representative (USTR)** proposed new tariffs on most Indian goods, citing concerns about forced labor and excess industrial capacity. **India** is engaged in discussions with the US regarding these issues under Section 301 of the US Trade Act of 1974. The USTR also launched separate investigations into excess industrial capacity in 60 countries, including India and China.  The proposed tariffs would affect a wide range of products, but certain sectors like textiles and pharmaceuticals are excluded. **India** is expected to challenge these measures, arguing that the investigation exceeds its scope and that the US should address forced labor concerns more specifically.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65162,
+      "title": "Exclusive | Licence in accountant’s name: How South Delhi hotel owner bypassed rules | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/south-delhi-hotel-fire-licence-accountant-name-illegal-expansion-probe-10723285/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/delhi-fire-1.jpg",
+      "scraped_at": "2026-06-04 05:25:17.045949",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lavkesh Bajaj",
+      "rephrased_article": "**Delhi Police** are investigating the owner of **Flourish Stays B&B**, where a fire killed 21 people, after discovering he obtained the facility's license in his accountant's name. The building was purchased six years ago by **Lavkesh Bajaj**, who converted it into a B&B establishment despite not owning it legally.  **Bajaj** allegedly misrepresented ownership and expanded the property beyond its permitted capacity, potentially violating regulations. He is expected to be produced before a court on Thursday.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 65159,
+      "title": "Delhi Hotel Owner Lavkesh Bajaj Witnessed Fire That Killed 21, Fled Out Of Fear: Sources, Flourish Stay B&B, Hauz Rani, Malviya Nagar Fire, Delhi Hotel Fire",
+      "url": "https://www.ndtv.com/india-news/delhi-hotel-owner-lavkesh-bajaj-witnessed-fire-that-killed-21-fled-out-of-fear-sources-flourish-stay-b-b-hauz-rani-malviya-nagar-fire-delhi-hotel-fire-11588769#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/rsd7njik_delhi-fire_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 05:25:08.524501",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lavkesh Bajaj",
+      "rephrased_article": "**Lavkesh Bajaj**, owner of the Flourish Stay bed-and-breakfast in Delhi, was arrested after fleeing the scene of a fire that killed 21 people.  Bajaj confessed to driving past the burning building out of fear and did not attempt to help those trapped inside. The Delhi Police are investigating whether the B&B complied with safety regulations, including having only one entry and exit point and sealed windows. **Jai Mishra**, the hotel manager, is also being sought by authorities.  The fire broke out in the basement and spread quickly through the five-story building, trapping many guests who were asleep at the time.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 65158,
+      "title": "South Delhi hotel owner saw property up in flames, fled: Police | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/south-delhi-blaze-owners-two-other-properties-under-scanner-for-safety-violations-10723287/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/malviya-nagar-fire-1_20260603151435_20260603222750.jpg",
+      "scraped_at": "2026-06-04 05:25:07.778257",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lavkesh Bajaj",
+      "rephrased_article": "A fire at the Flourish Stays B&B in South Delhi's Malviya Nagar claimed 21 lives, with authorities investigating potential safety violations and a short circuit as the cause. **Lavkesh Bajaj**, the building owner, was arrested for failing to ensure adequate safety measures. The structure, which housed a basement, ground floor, and upper floors, lacked proper fire-safety arrangements and had multiple unauthorized construction alterations.  Police are also examining alleged food-safety violations at the restaurant operating on the premises.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65154,
+      "title": "Sensex Today, Stock Market LIVE Updates | Nifty | Share Market: Sensex, Nifty Likely To Open In Red Amid Negative Global Cues",
+      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-4-june-us-iran-war-crude-oil-prices-11588593#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/lc416nag_stock-market-crash-in-india_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 05:24:53.648530",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Indian equity benchmarks continued their downward trend on Thursday, with the Sensex and Nifty50 opening lower. The rupee opened unchanged at 95.71 against the US dollar.  Crypto markets experienced a selloff driven by factors like ETF outflows, geopolitical uncertainty, and technical breakdowns.  The Indian government announced it will eliminate capital gains tax on foreign portfolio investments in government securities to attract more foreign capital. Global markets are cautious due to rising crude oil prices, geopolitical tensions, and the upcoming RBI policy announcement.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65152,
+      "title": "4 dead, others injured in Muzaffarpur hospital fire in Bihar - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/monsoon-tracker-live-kerala-southwest-rains-june-4-2026-updates/article71059458.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/d2tmrh/article71059566.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-04%20091217.png",
+      "scraped_at": "2026-06-04 05:24:46.740865",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Prasad Hospital",
+      "rephrased_article": "A fire at the **Prasad Hospital** in Muzaffarpur, Bihar, on Thursday (June 4, 2026), resulted in the deaths of at least four patients and injuries to others.  The blaze broke out on the fifth floor of the hospital's Intensive Care Unit, where 24 patients were admitted, including 13 in the ICU. The fire department controlled the inferno, evacuating approximately 15 patients from the affected area. **Ram Niwas Pandey**, an official from the Muzaffarpur fire department, stated that the cause of the incident is yet to be determined but a short circuit is suspected.  **Subrat Kumar Sen**, the Muzaffarpur District Magistrate, has ordered an inquiry into the incident and announced ₹4 lakh in ex gratia for each victim's family.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 65146,
+      "title": "4 dead, others injured in Muzaffarpur hospital fire in Bihar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/muzaffarpur-hospital-fire-in-bihar/article71059549.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/d2tmrh/article71059566.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-04%20091217.png",
+      "scraped_at": "2026-06-04 05:24:28.570943",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Bihar Government",
+      "rephrased_article": "A fire at the fifth floor of **Prasad Hospital** in Muzaffarpur, Bihar, resulted in the deaths of at least four patients and injuries to others. The fire broke out around 3:55 a.m. on Thursday (June 4, 2026) and was controlled by firefighters.  The cause is believed to be a short circuit, but an investigation is underway. **Chief Minister Samrat Choudhary**, **District Magistrate Subrat Kumar Sen**, and **State Health Minister Nishant Kumar** expressed condolences over the incident. The Bihar government has announced ex gratia payments of ₹4 lakh to the families of each victim.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 65132,
+      "title": "Video: No Way Down, Foreigner Clings To Roof As Fire Engulfs Delhi Hotel",
+      "url": "https://www.ndtv.com/india-news/video-no-way-down-foreigner-clings-to-roof-as-fire-engulfs-delhi-hotel-11587511#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/94c85tg8_delhifire_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 00:16:29.142218",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Police",
+      "rephrased_article": "A deadly fire at a five-story hotel in South Delhi's Malviya Nagar killed at least 21 people, mostly foreigners.  **NDTV** reports that the fire broke out around 8:30 am on Wednesday and spread quickly through the narrow building. **Delhi Police** stated that guests had limited escape options due to a single entry point and sealed windows. The hotel, which operated more rooms than permitted under its license, was located near a major hospital in the Hauz Rani area.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65130,
+      "title": "Building Owner Arrested Over Delhi Hotel Fire That Killed 21",
+      "url": "https://www.ndtv.com/india-news/building-owner-arrested-over-delhi-hotel-fire-that-killed-21-11587767#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/rsd7njik_delhi-fire_625x300_03_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 00:16:23.732530",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lavkesh Bajaj",
+      "rephrased_article": "**Delhi Police** arrested **Lavkesh Bajaj**, owner of the hotel building where a devastating fire killed 21 people, hours after the blaze. The fire occurred at the Flourish Stay B&B in south Delhi and investigators believe the hotel was operating without a fire NOC and had numerous safety violations. At least 58 people were rescued and taken to hospitals, where 21 were declared dead. Police are examining the role of other individuals associated with the establishment and have registered an FIR under culpable homicide and other relevant provisions of the Bharatiya Nyaya Sanhita.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65129,
+      "title": "At offsite review meeting, National Conference decides to hold protest in Delhi for statehood, ‘constitutional guarantees’ | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/national-conference-omar-abdullah-delhi-protest-jammu-kashmir-statehood-demand-10723051/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Vehicles-carrying-Jammu-and-Kashmir-MLAs-and-MPs-arrive-at-Dachigam-National-Park-for-a-meeting-of-National-Conference-leaders-chaired-by-CM-Omar-Abdullah-in-Srinagar-on-Wednesday.-PTI.jpg",
+      "scraped_at": "2026-06-04 00:16:21.738908",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "National Conference",
+      "rephrased_article": "**Omar Abdullah**, the Chief Minister of **Jammu and Kashmir**, convened a meeting with his party MLAs at Dachigam to address concerns and discuss issues.  The NC, led by **Abdullah**, has decided to travel to Delhi on the first day of the monsoon session to protest for statehood restoration and constitutional guarantees. The meeting was intended as an opportunity for all MLAs to voice their opinions and air their complaints.  **Sunil Sharma**, Leader of the Opposition for the BJP, criticized the move as a \"floor test\" and dismissed it as a diversionary tactic.  People's Conference president **Sajad Lone** called the protest a \"damp squib\" and accused the NC of attempting to divert attention from their past failures.",
+      "party_mentioned": [
+        "BJP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65127,
+      "title": "Chintan Research Foundation Organises Policy Dialogue On Small Modular Reactors",
+      "url": "https://www.ndtv.com/india-news/chintan-research-foundation-organises-policy-dialogue-on-small-modular-reactors-11587847#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/64fdn2ns_chintan_625x300_03_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 00:16:19.151491",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Small Modular Reactors",
+      "rephrased_article": "**Chintan Research Foundation (CRF)** and **Finovista**, in partnership with **Manthan**, an initiative of the Office of the Principal Scientific Adviser to the Government of India, hosted a Policy Dialogue on \"Small Modular Reactors (SMRs) for Defence Manufacturing & Data Centre Operation\" in New Delhi. The dialogue brought together policymakers, industry leaders, and experts to discuss the role of SMRs in supporting India's energy transition and strengthening critical sectors like defence manufacturing and data centres. **Dr Debajit Palit**, Centre Head, Centre for Climate Change and Energy Transition at **Chintan Research Foundation**, highlighted that SMRs can provide a low-carbon clean energy source for India while also meeting the power needs of defense manufacturing and data centers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Nirmala Sitharaman"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 65125,
+      "title": "IRCTC reinforces its AI monitoring system to ensure hygiene and quality of food in trains | Business News - The Indian Express",
+      "url": "https://indianexpress.com/article/business/irctc-reinforces-its-ai-monitoring-system-to-ensure-hygiene-and-quality-of-food-in-trains-10723002/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/On-an-average-the-system-generates-350-alerts-or-error-tickets-daily-says-a-senior-IRCTC-official-involved-in-the-operations.-Express.jpeg",
+      "scraped_at": "2026-06-04 00:16:15.637376",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "IRCTC",
+      "rephrased_article": "**IRCTC**, the Indian Railways Catering and Tourism Corporation, has expanded its AI-based food hygiene monitoring system to over 800 kitchens. The system uses 2,394 cameras to detect nine factors contributing to unhygienic food practices, including hairnet compliance and rodent presence.  The system generates around 350 alerts daily, with the North Zone experiencing the highest number of violations. While the system has been effective in reducing complaints, it occasionally flags false positives due to its programming. The **Railway Ministry** imposed fines on **IRCTC** for serving poor-quality food and the company supplying food in a Vande Bharat train.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Patna"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 65123,
+      "title": "US Envoy Sergio Gor's \"Incredible Negotiators\" Reply To NDTV Question On Trade Deal",
+      "url": "https://www.ndtv.com/world-news/us-envoy-sergio-gors-incredible-negotiators-reply-to-ndtv-question-on-trade-deal-11587882#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-10/trbhqlcs_sergio-gor_625x300_13_October_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 00:16:13.483295",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "US Government",
+      "rephrased_article": "**India** and the **US** have reached a 99% agreement on their trade deal, with only minor technical and legal details remaining.  **US Ambassador Sergio Gor** stated that these issues are not major policy disagreements but rather require compromise from both sides to achieve a mutually beneficial outcome. He praised India's negotiating team for defending its interests effectively and acknowledged the complexity of the negotiations due to India's past stance on several trade-related issues. **Gor** expressed confidence in reaching an agreement during his brief visit to India, where he will meet with Commerce Minister **Piyush Goyal** and other officials involved in the talks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65121,
+      "title": "NHRC takes cognisance of Express report on 53 maternal deaths in MP’s Sidhi, issues notice | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/madhya-pradesh-sidhi-maternal-deaths-nhrc-notice-express-report-10722925/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/The-maternity-ward-at-Sidhi-District-Hospital_20260603185016.jpeg",
+      "scraped_at": "2026-06-04 00:16:08.840417",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "The **National Human Rights Commission (NHRC)** has taken notice of a report by The Indian Express detailing 53 maternal deaths in Madhya Pradesh's Sidhi district between April 2025 and March 2026.  **The NHRC** issued a notice to the state Chief Secretary, demanding a detailed report within two weeks. **Congress** leader Umang Singhar called for a review of maternal health services across the state, while BJP spokesperson Hitesh Bajpai acknowledged progress but highlighted challenges in remote areas.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 65111,
+      "title": "Electric vehicles: Costly fuel pushes more Indians to buy EVs yet obstacles remain",
+      "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c115/live/be5fda80-5f3e-11f1-ae51-c396b5163a64.jpg",
+      "scraped_at": "2026-06-04 00:15:37.871581",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's** automobile market is experiencing a surge in electric vehicle adoption, driven by rising fuel prices and upcoming regulations. The market for electric cars expanded 25% in the year ending March 2026, with EVs crossing the 5% threshold in passenger vehicles.  Analysts predict that **India** will see a significant increase in EV penetration over the next decade, particularly in high-usage categories like three-wheelers and two-wheelers. However, challenges remain, including limited charging infrastructure, reliance on global supply chains for battery components, and uncertainty surrounding regulatory clarity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65096,
       "title": "U.S. proposes 12.5% tariff on India and other countries, Indian govt says it ‘remains engaged’ with U.S. - The Hindu",
@@ -60,6 +587,152 @@
       ]
     },
     {
+      "id": 65089,
+      "title": "PM Narendra Modi to launch, lay stone for infra initiatives worth Rs 18K crore in Surat tomorrow | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-to-launch-lay-stone-for-infra-initiatives-worth-rs-18k-crore-in-surat-tomorrow-10722961/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/3PM_20260603193551.jpg",
+      "scraped_at": "2026-06-03 22:16:43.026114",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** will inaugurate and lay the foundation stone for several development projects in Surat, Gujarat, worth over Rs 18,000 crore. These initiatives include four National Highway projects, two packages of the Vadodara–Mumbai Expressway, eight GIDC projects, and upgrades to the Hazira Port–Surat section of National Highway 53. The projects aim to strengthen connectivity, boost economic development, and improve freight movement along the Delhi–Mumbai expressway.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Ahmedabad",
+        "Surat",
+        "Vadodara"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 65087,
+      "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
+      "url": "https://www.ndtv.com/india-news/congress-rahul-gandhi-priyanka-gandhi-congress-plans-major-reshuffle-will-priyanka-gandhi-get-new-responsibility-11587621#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/faaocqj_-priyanka-gandhi_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:38.093147",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Hariprasad** has been named the state Congress president.  The Congress is planning a major reshuffle across over six states, with a focus on poll-bound regions like Uttar Pradesh, Uttarakhand, Punjab, Goa, Manipur, Gujarat, and Himachal Pradesh. The party is considering replacing in-charges and state presidents to attract voters and balance caste dynamics. This reshuffle is expected to be the last major one under **Mallikarjun Kharge**'s leadership as Congress president.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65074,
+      "title": "Omar Abdullah's Parliament Protest For Jammu And Kashmir Statehood On Monsoon Session Day 1",
+      "url": "https://www.ndtv.com/india-news/omar-abdullahs-parliament-protest-for-jammu-and-kashmir-statehood-on-monsoon-session-day-1-11587981#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/m8lja0ok_omar-abdullah_625x300_05_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:21.354671",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Omar Abdullah",
+      "rephrased_article": "**Omar Abdullah**, the Chief Minister of **Jammu and Kashmir**, will lead a protest in Delhi demanding the restoration of statehood and special status for the region.  After an off-site meeting, the ruling **National Conference** resolved to demand immediate action on this issue during the Monsoon session of Parliament. The party is facing growing discontent over the delay in restoring statehood and political rights, with some leaders criticizing Abdullah's lack of action.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "economy"
+      ]
+    },
+    {
+      "id": 65067,
+      "title": "Malviya Nagar Fire Flourish Stay 8 Of A Family Visiting Ailing Relative Killed In Delhi Hotel Fire",
+      "url": "https://www.ndtv.com/india-news/malviya-nagar-fire-flourish-stay-8-of-a-family-visiting-ailing-relative-killed-in-delhi-hotel-fire-11587975#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ildsa8ic_delhi-fire_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:00.422811",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "An early morning fire at a bed and breakfast in Malviya Nagar, South Delhi, tragically claimed the lives of eight members of a family. **Vivek Agarwal**, a chartered accountant from Gurugram, had traveled to Delhi to visit his father who is currently receiving treatment at Max Hospital.  The fire broke out while the family was having breakfast in the hotel's restaurant and all eight perished. The only survivor is Vivek’s 80-year-old father, **Radhe Shyam Agarwal**. Authorities are investigating the cause of the fire.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 65043,
       "title": "British Foreign Secretary to meet PM Modi, Jaishankar on June 3 | India News - The Indian Express",
       "url": "https://indianexpress.com/article/india/british-foreign-secretary-yvette-cooper-india-visit-pm-modi-jaishankar-fta-10722819/",
@@ -73,9 +746,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Delhi"
@@ -104,8 +776,7 @@
         "AIADMK"
       ],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Tamil Nadu",
@@ -164,8 +835,7 @@
       "rephrased_article": "The **Union Cabinet**, led by Prime Minister Narendra Modi, approved a two-year scheme to reduce air pollution in the Delhi-NCR region with a total financial outlay of Rs 9,585 crore. The scheme aims to incentivize truck and bus owners to switch to BS-VI or electric vehicles, while also offering tax concessions for new and used vehicles. **The National Capital Region Planning Board (NCRPB)** will implement this initiative in collaboration with participating states and Union Territories of Delhi, Haryana, Rajasthan, and Uttar Pradesh.  The scheme is expected to benefit approximately 2.07 lakh vehicle owners by providing financial support, fuel vouchers, and tax benefits for switching to cleaner transportation options.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Haryana",
@@ -4802,719 +5472,6 @@
       "topic_tags": [
         "foreign_policy",
         "crime_violence"
-      ]
-    },
-    {
-      "id": 63613,
-      "title": "Indians are buying homes with money they haven't earned yet - India Today",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/how-much-home-loan-tenure-india-housing-affordability-crisis-emi-retirement-real-estate-prices-2919823-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/home-loan-emi-burden-315441833-16x9_0.png?VersionId=x0DIieKWJ6YopsdBxPdnwRfHSo_X__rx",
-      "scraped_at": "2026-05-31 11:45:08.677636",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian economy",
-      "rephrased_article": "**Indians** are increasingly financing home purchases with future income, stretching loan tenures to 25-30 years and relying on larger mortgages. This shift is driven by rising property prices outpacing incomes in many urban centers, forcing buyers to prioritize borrowing capacity over affordability. Experts warn that this reliance on future earnings could compromise financial security and retirement planning. While luxury housing remains strong, middle-income households face increased pressure as they struggle to afford homes with current income alone.  The long-term impact of this trend is a concern for India's housing market.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Bengaluru",
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63611,
-      "title": "PM Modi Spotlights Odisha’s Bela Pana & Suvarnarekha In Praise Of Traditional Summer Drinks & Mangoes | OdishaBytes",
-      "url": "https://odishabytes.com/pm-modi-spotlights-odishas-bela-pana-suvarnarekha-in-praise-of-traditional-summer-drinks-mangoes/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/MixCollage-31-May-2026-12-22-PM-8800.webp",
-      "scraped_at": "2026-05-31 11:45:06.343707",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** highlighted the rich culinary traditions of India during his \"Mann Ki Baat\" address, emphasizing that traditional summer drinks vary across regions.  He mentioned popular beverages like lassi in Punjab and Haryana, chaas in Rajasthan and Gujarat, sattu sharbat in Bihar and Jharkhand, kokum sharbat in Konkan and Goa, panakam, neer mor, and sambar in South India, and bel pana in Odisha. **Modi** also praised the efforts of mango growers, noting that mangoes are a beloved seasonal treat enjoyed across India and globally.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Jharkhand",
-        "Maharashtra",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63582,
-      "title": "From Social Media Star To Terror Suspect: Pakistan’s Shahzad Bhatti Under Indian Security Scanner | OdishaBytes",
-      "url": "https://odishabytes.com/from-social-media-star-to-terror-suspect-pakistans-shahzad-bhatti-under-indian-security-scanner/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Bhatti.webp",
-      "scraped_at": "2026-05-31 11:44:16.227234",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Shahzad Bhatti",
-      "rephrased_article": "**Shahzad Bhatti**, a Pakistani social-media influencer, is the subject of multiple Indian security probes alleging his involvement in a cross-border crime and terror network.  Indian investigators have arrested nine individuals suspected of planning attacks on religious sites and military facilities, with **Bhatti** claiming to be neither a gangster nor a mafia boss.  He has been linked to criminal figures in Pakistan and is accused of radicalizing unemployed youth for his online network, which Indian agencies are monitoring.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Haryana",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 63577,
-      "title": "Mint Explainer | Why Delhi HC says invisible keywords can infringe trademarks | Today News",
-      "url": "https://www.livemint.com/news/delhi-high-court-google-ads-invisible-keywords-trademark-infringement-explainer-11780212687795.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/The-Delhi-high-court-on-Tuesday-granted-interim-ba_1780226613414_1780226623726_fbe10757-cce4-4db9-91bd-b24306b9b6ff.jpg",
-      "scraped_at": "2026-05-31 11:44:13.879940",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Google LLC",
-      "rephrased_article": "The **Delhi High Court** ruled that using a competitor's registered trademark as a Google Ads keyword can constitute infringement, even if the mark is not visible in the advertisement.  **Google LLC** and its Indian subsidiary **Google India** were ordered to jointly pay ₹30 lakh in damages to sanitaryware maker **Hindware**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 63575,
-      "title": "BJP Core Group Meet At PM Modi's Residence Today, Rajya Sabha Polls On Agenda",
-      "url": "https://www.ndtv.com/india-news/bjp-core-group-meet-at-pm-modis-residence-today-rajya-sabha-polls-on-agenda-11571590#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2024-03/r556r3c_modi_640x480_01_March_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 11:44:12.915124",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**BJP** top leaders, including Union Ministers Amit Shah, Rajnath Singh, JP Nadda, and party president Nitin Nabin, will meet at **Prime Minister Narendra Modi's** residence this evening to discuss the upcoming Rajya Sabha and Legislative Council elections. The meeting will focus on finalizing candidates for these elections, which are scheduled for June 18th, as well as strategizing for the high-stakes Rajya Sabha polls following the recent defeat of the Women's reservation bill.  The party also plans to discuss strengthening its organization, mobilizing supporters, and highlighting achievements of the Modi government over the past twelve years.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Nitish Kumar",
-        "JP Nadda"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Gujarat",
-        "Haryana",
-        "Jharkhand",
-        "Karnataka",
-        "Maharashtra",
-        "Meghalaya",
-        "Mizoram",
-        "Punjab",
-        "Tripura",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63559,
-      "title": "How China and India view growing unrest in Myanmar",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3pPU1M4d3M2WkVydWs2RGdCekJSVWpRVlFFQ3RLM29yWTN3SlpUNnJNbnlaaFdfR2Fqb2M4cW45cDRJT3pEOHFRQlNjc2h5X0gwX1VTSlhKUFd0dksteXU4bnJPLXllWlBPaHVpVzZaNF9qVWY1UkdsQ19OWU9xU0NTeUVxSnl1ZmV6Y2JUejhfVW5ZdnhRdXpwQQ?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2024-09-03%2Fpdmwa4t9%2Ffile7x06aq29tle1mwogsgop.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 09:41:05.354760",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Myanmar",
-      "rephrased_article": "**China** has been working to maintain a close relationship with the **Myanmar** military junta while balancing its support for rebel groups. The Chinese Ambassador to **Myanmar**, **Ma Jia**, met with defense minister General Tin Aung San to discuss strengthening military cooperation and border security.  Despite diplomatic efforts, including a visit by foreign minister **Wang Yi**, China has conducted live fire drills near the border with **Myanmar** to deter rebels and safeguard its investments. Beijing is also using economic leverage, threatening to halt trade if the civil conflict escalates further. The situation in **Myanmar** poses a challenge for both **China** and **India**, which are concerned about instability and refugee inflows.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63557,
-      "title": "Spectrum News | Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ST0dlOThYdnRwQlNEdDFuZTB2ZEVrUXJuejQ1ZVdzWlRJaVZSeXZ2Y2NGZU9zbEtuU0hLU2EwdTVDb3p1QVRoVFp2NGZoUzJ5UXBzdDd4dVZGTFhNc0Rhag?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-31 09:40:56.967975",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Roopinder Singh",
-      "rephrased_article": "**Roopinder Singh**’s book, “Gurdwaras: Abodes of the Guru,” illustrates how the Sikh community’s spiritual DNA remains consistent worldwide.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Mamata Banerjee",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Chhattisgarh",
-        "Haryana",
-        "Himachal Pradesh",
-        "Madhya Pradesh",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Ludhiana",
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63554,
-      "title": "Garbage | Hand over your trash, or cough up cash, says Patna civic body - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjV0azZWemtpYWwtOWlTeEpzZ0lLSk9HYldYMU5nRjBod1RFUFRLS0J4M1ZlbHVzeW55WFFqWmVYbTlfcmdZUzRpclFrTW10Z2xiNlpPdGxPSmYzZnc4M2V3MXBWbmM0SEhhZHlBTWZMX2lFa0lFeExrZ0pkM0VkZWloSzMtY3NQNGNURS1XbGFnQdIBlwFBVV95cUxOYmthOEFRal9hX1E0cWU3THdXMjRQSWpiTlQ4SHQ3czItVUsybFF0YmotaU10TDZQZ1FKb24wenZwNlpZY3dIRnp1elVHWVh1clF2a1YtYldGb2RGbDZVNzBQN1ZBWllra2FrZngwN0YxMjNVQnlVakZkQVJkMFNaa05WOElXemYtS1FIVGkyM2JKMlBrLUpJ?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/9b44af44-fe51-4cc3-b082-7202df3f2f6c.jpg",
-      "scraped_at": "2026-05-31 09:40:35.077122",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Patna Municipal Corporation",
-      "rephrased_article": "**Patna Municipal Corporation (PMC)** has resumed its door-to-door garbage collection program, requiring residents to hand over their waste directly to the vehicles. This shift from previous agency-led programs comes in line with **Centre’s solid waste management rules, 2016**, which mandate resident participation.  The PMC will implement a penalty system for non-compliance later, starting with awareness campaigns through social media and a new theme song for its garbage collection vehicles. The program aims to ensure proper waste disposal and environmental responsibility within the city.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Patna"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63545,
-      "title": "LPG cylinder rates on May 31: Here's how much domestic and commercial gas costs in Delhi, Mumbai, Bengaluru today | Today News",
-      "url": "https://www.livemint.com/news/india/lpg-cylinder-rates-on-may-31-heres-how-much-domestic-and-commercial-gas-costs-in-delhi-mumbai-bengaluru-today-11780190348634.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/lpg_1780190384892_1780190385041_f25dc6c1-0366-4f51-8348-1a7e58e96b20.JPG",
-      "scraped_at": "2026-05-31 09:39:46.152299",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Domestic LPG** prices in major Indian cities remained steady on Sunday, despite a ten-day surge in petrol, diesel, and CNG costs triggered by the ongoing US-Iran conflict. **India's** reliance on Gulf region imports for crude oil, natural gas, and **LPG** was disrupted due to the conflict, leading to concerns about supply disruptions. The government has asked state-run fuel retailers to expand their **LPG** storage capacity to cover at least 30 days of demand.  The government assured the public that fuel supplies are normal and urged them to avoid panic buying.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rajnath Singh"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Bengaluru",
-        "Chennai",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 63540,
-      "title": "CUET-UG delayed at some centres due to technical glitch; TCS says 'regret inconvenience'",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVWd3MG1fQllZQnJia1dWWTNvbExhOFd5QXpRSmdmQklCQ2RyZ3JmaE4tWFo2SlpUZEFjWE9fcy1uTWJvX3dKV2JMNlpXczIwZHAySGRHeXZJaWd2ODVmWkFGQXZfeXJyeVc0aWRqWUpnNklmU3dsZlBXYlNCQ1IyLWV3LTdLbW9fMUFCa19jQzZ1ZEFBU01VQVFOMk0xRVBsTEdkWmg5b3Y4RlFsaDFoMDFRQWlfMDdYREFfdzY0Q3NmQi1uNFRDb0JFXzF5RkpWaWFkb3B2MEhyc1lKV0E?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fiosjss5h%2Fistockphoto-1409835176-612x612.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 09:39:11.625180",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "National Testing Agency",
-      "rephrased_article": "The **National Testing Agency (NTA)** experienced a technical glitch at some centers on Saturday delaying the commencement of the CUET-UG 2026 exam.  **TCS**, which manages the exam's technology, confirmed a brief technical issue that caused a two-hour delay in the morning shift. The agency has since resolved the issue and is conducting the exam with compensatory time to ensure no candidate is disadvantaged. **NTA** apologized for any inconvenience caused and provided support through a helpline number and email address.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 63538,
-      "title": "Spectrum News | Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRTBFX2VnVnlfbUp5QlpKX2YteDBCR0RTLVBhMWFMMmFCcDA0SWVsZkI1Zk1YS0g3Y1Y2VG05alB1OW9jYU5OTS12aVBnWjREWm5EMkJUQVVvalM5UmVCcQ?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-31 09:39:09.605835",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Roopinder Singh",
-      "rephrased_article": "**Roopinder Singh's** book \"Gurdwaras: Abodes of the Guru\" illustrates how the Sikh community's spiritual DNA remains consistent worldwide.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Mamata Banerjee",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Chhattisgarh",
-        "Haryana",
-        "Himachal Pradesh",
-        "Madhya Pradesh",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Ludhiana",
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63537,
-      "title": "I asked ChatGPT to compare Dubai, Singapore or Thailand for a ₹75,000 vegetarian trip from Delhi | Today News",
-      "url": "https://www.livemint.com/news/trends/dubai-vs-singapore-vs-thailand-i-aksed-chatgpt-for-best-foreign-trip-under-for-vegetarians-rs75000-11780208028889.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/Thailand_1780211299144_1780211299350_9df7bb1d-8d3a-4c97-aa30-e01c81b61b9f.jpg",
-      "scraped_at": "2026-05-31 09:39:08.468564",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**ChatGPT** analyzed the cost of a five-night vegetarian trip for an Indian traveler from Delhi to Dubai, Singapore, and Thailand, considering flights, visas, accommodation, food, transport, and sightseeing. The AI concluded that **Thailand** offered the most budget-friendly option, with estimated costs around ₹43,500, while **Dubai** came in second at approximately ₹70,000.  **Singapore** was estimated to cost around ₹65,000.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63534,
-      "title": "CUET-UG delayed at some centres due to technical glitch; TCS says 'regret inconvenience'",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazAydHRTaXJuUVJsZndWTHlWMkhwdl9OYVR5OU05NzhPLWIwWVF1R2d6VzU5NXN6NF9uTjhORDRZeVFVQVNUV0stZlVnT2MyZHJBLWphY2xuS1lmdklvNk5qb0xZeUozYVBXMloyY1lBb1NlZVdHMTVkbkl5ZklxSjl3Y1ZWaUpKbHdoOVJIekNNRTdrdE1ZUWZFakhyWWFISlRnamV4WlVDVlpIcFF6SGg5WlA4a19hSzRvRE9kOEV4ZVg3YkZF?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fiosjss5h%2Fistockphoto-1409835176-612x612.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 09:38:42.668820",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "National Testing Agency",
-      "rephrased_article": "The **National Testing Agency (NTA)** experienced a technical glitch at some centers during the CUET-UG 2026 exam on Saturday, causing delays in the morning session.  **TCS**, which manages the exam's technology infrastructure, identified and resolved the issue promptly. The afternoon session was rescheduled to start at 4:00 pm instead of 3:00 pm, with full compensatory time provided to candidates. **NTA** apologized for any inconvenience caused and offered helpline support and email assistance.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 63529,
-      "title": "tribuneindia...Spotlight",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NVWZKeWQzQmdMRjV6YXoxY3hUVmtZQmpiaFNhNnhzNXpFdkpoX1hlclFldGpNWE9HWldOTGo1RlRlNjFab0VvdUtwb0xERVpyZ01ObURpN2tZWm5VbUd5aGVKRlU?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-31 09:38:14.842336",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Dasarat Prasad",
-      "rephrased_article": "**Dasarat Prasad**, the **Manipur Tourism Director**, was shot and killed by two assailants at his office in Imphal. The motive behind the killing remains unclear, but an Assistant Director of the Tourism Department narrowly escaped being harmed.  The Delhi High Court dismissed petitions seeking an independent probe into a 1994 contract awarded to a consortium of companies. The court also ordered the **Central Board of Secondary Education (CBSE)** to make answer sheets available to students if needed, emphasizing transparency in their evaluation policy. President K.R. Narayanan expressed condolences for the death of former Lok Sabha Deputy Speaker G.G. Swell, who died in Shillong today.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Manipur",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Patna"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "economy"
-      ]
-    },
-    {
-      "id": 63528,
-      "title": "Centre directs fuel companies to build 30-day LPG strategic reserves amid Hormuz disruption",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3QtdXZmN09uOXBhbkwtbzNsemhWQjZ0ZGVQWFVuR3BDUjRWQmRuMUNJN0hpU0xyN3BURVNNQUFwbk5xel9TSmFUZ3pHVDV1SkdLd1MtQmtnWTZaQkUwOTBsQldEX053YTk5eExicEJ3dE5waUNIVDlpM1BZdnJ3M1hJSTZTQXZSVWVUNC0tWWxCd1dmbjRSMlhUeERmVTZCZGZPckhvVExtMUt1cm40WU1NWmZ3c1pNRGpXa29kLTlpZU5BcV9zSkxkVXdVNDA?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Ftxng1b9r%2Ffile85d9g772vt11gqlmte75.jpg?rect=0%2C23%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 09:38:13.909056",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India's** **Petroleum Ministry** has instructed public sector oil marketing companies (OMCs) to increase LPG reserves to at least 30 days of demand, beyond their regular commercial stocks.  The move comes as the ongoing West Asia conflict has disrupted fuel supply and led to a near-closure of the Strait of Hormuz, which is crucial for India's LPG imports. **India** currently relies on imports for about 60% of its LPG consumption, with most coming through the Strait of Hormuz. The government has implemented demand management measures to prioritize household needs and address supply shortages.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 63521,
-      "title": "Delhi-NCR to get fierce rain tonight. Will it bring a winter-like chill? - India Today",
-      "url": "https://www.indiatoday.in/science/story/delhi-ncr-haryana-weather-forecast-tonight-western-disturbance-thunderstorms-rain-2919822-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/an-extraordinary-western-disturbance-has-brought-a-winter-like-chill-to-north-india-at-the-end-of-ma-300833602-original-sixteen-to-nine.jpg?VersionId=u6KSWl6SIsv7kap7grymwcSqx4dlMXIa",
-      "scraped_at": "2026-05-31 09:37:53.661682",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**Delhi-NCR** and **Haryana** are under a severe weather warning as an unusually powerful Western Disturbance brings intense thunderstorms, heavy rain, and lightning tonight. This rare atmospheric shift is expected to bring significant relief from the heatwave but will not result in a winter chill due to the hot ground temperature.  Meteorologists warn residents to remain vigilant during the evening and night hours as these storms can cause localized damage and disruptions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Maharashtra",
-        "Punjab",
-        "Uttarakhand",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63518,
-      "title": "Karnataka senior leaders oppose appointing young MLAs as deputy CMs",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLWV6eTg3SEZfVHgzV3BiTmlRWXRhSE5GalZ5M0xRNVZXRTVWUjB3MVRielQ4eFZpRE5haWRmcE5GdzlGRTVyaWZJZTh0QzZTRERDRU8wTHlDRGYyMVJDZGVob1dqN1l1LThWSDM5bjJRcGNQVWd0NGZUWGIzS2xadnNhcmtXVDFOZi1jQlIyUERib3BENngzRXFla05BRkJkWkVxZjlzcU5CR0dWNXhKUThuQzZzbThoYzZXcg?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Ften7ima2%2FBeFunky-collage-2.jpg?rect=0%2C0%2C3264%2C1714&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 09:37:40.905131",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Senior Congress leaders**, including G Parameshwara, M B Patil, and Ramalinga Reddy, have expressed opposition to the appointment of young legislators as deputy chief ministers in the new **Karnataka** government. They met with **Congress President Mallikarjun Kharge** and AICC general secretary (organisation) K C Venugopal to convey their concerns, stating they would prefer to stay out of the government if younger leaders are appointed.  The **Congress high command** is considering appointing three deputy chief ministers representing different communities.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 63517,
-      "title": "Assam Chief Minister Himanta Sarma To Expand Cabinet On June 5, 9 MLAs Likely To Be Inducted",
-      "url": "https://www.ndtv.com/india-news/assam-chief-minister-himanta-sarma-to-expand-cabinet-on-june-5-9-likely-to-be-inducted-11570897#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/3u1knmo8_himanta-biswa-sarma-ani_625x300_31_May_26.jpeg",
-      "scraped_at": "2026-05-31 09:37:40.082725",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Himanta Biswa Sarma",
-      "rephrased_article": "**Himanta Biswa Sarma**, the Assam Chief Minister, announced that his cabinet will be expanded on June 5th. The expansion is expected to include eight to nine MLAs as Cabinet Ministers and two Ministers of State.  Political observers anticipate a mix of experienced leaders and new entrants from the BJP and its alliance partners. **Narendra Modi**, the Prime Minister, was among the senior leaders who attended Sarma's swearing-in ceremony on May 12th.",
-      "party_mentioned": [
-        "BJP",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63516,
-      "title": "Grooms Wanted - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TM1FZZnhnX21aSFhuVHdPMjZuS3QxbklFelM5UzA1VE9za1g1aGF5QlNlRTBId0Vjd3YzRFJLTm9INEozOHFhQk5lWEk3MFAyMUxHRU5kbURZYUNHeWpuMDhn?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-31 09:37:36.380992",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**Various individuals and organizations** seeking partners are advertising for marriage alliances in classifieds.  These advertisements include requests for grooms, brides, and potential partners from diverse backgrounds, including **Hindu**, **Jat Sikh**, **Sikh**, **Brahmin**, **Bengali**, and **Scheduled Castes**. The ads specify age, education, occupation, and location preferences. Some individuals are seeking alliances with well-settled families while others are looking for partners who are working professionals or have specific career backgrounds.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63511,
-      "title": "Cross-border job scam: 453 Nepali victims repatriated from UP’s Kushinagar after police crackdown | Lucknow News - The Indian Express",
-      "url": "https://indianexpress.com/article/sports/chess/divya-deshmukh-norway-chess-women-tournament-koneru-humpy-anna-muzychuk-10716878/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/UP-Police-3-1_20260527193600.jpg",
-      "scraped_at": "2026-05-31 09:37:20.227784",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "suspects",
-      "rephrased_article": "A **Nepal**ian government-led operation rescued 453 migrants from an alleged cross-border job scam in Uttar Pradesh's Kushinagar district. The victims, mostly poor Nepali nationals who spoke only Nepali, were lured to India with promises of skill training and lucrative employment opportunities but were instead cheated out of money and subjected to harassment.  The **Nepal**ian embassy coordinated the operation, which involved police tracing the migrants' rented accommodation and rescuing them from the alleged recruitment network. The suspects are facing criminal charges for cheating and other offenses.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Lucknow"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "protest_opposition",
-        "corruption_scam",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63501,
-      "title": "How Pakistan's Social Media Star Shahzad Bhatti Became ISI's New Weapon",
-      "url": "https://www.ndtv.com/world-news/how-pakistans-social-media-star-shahzad-bhatti-became-isis-new-weapon-11571062#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/psr5dl9c_shehzad-bhatti_625x300_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 09:36:59.826790",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Shahzad Bhatti",
-      "rephrased_article": "**Shahzad Bhatti**, a Pakistani social media influencer linked to the **ISI**, is at the center of a major crackdown by Indian security agencies.  Bhatti's network, which recruits vulnerable youth through social media, allegedly involves criminal activity, radicalization, and plans for attacks on police personnel and sensitive locations. The Delhi Police Special Cell arrested eight suspects connected to Bhatti's module, recovering weapons and explosives. Investigations also reveal links to the **Tehreek-e-Taliban Hindustan** and a network of violent crimes in Punjab, including the grenade attack on a YouTuber.  Bhatti faces multiple investigations and threats from rival gangs like the Lawrence Bishnoi gang, highlighting his complex role in India's security landscape.",
-      "party_mentioned": [
-        "NCP"
-      ],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Haryana",
-        "Jharkhand",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Faridabad"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "rape_sexual_crime",
-        "education",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 63499,
-      "title": "Saket Building Collapse: 4 Dead In Delhi Building Collapse, Rescue Ops On For Over 16 Hours",
-      "url": "https://www.ndtv.com/india-news/4-dead-in-delhi-building-collapse-rescue-ops-on-for-over-16-hours-11571014#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/rj4uqu94_saket_625x300_31_May_26.jpeg",
-      "scraped_at": "2026-05-31 09:36:46.473861",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Delhi Building",
-      "rephrased_article": "A five-storey building collapsed near the Saket Metro station in South Delhi, killing four people and injuring over 10 others.  **Rekha Gupta**, **Chief Minister of Delhi**, visited the site to review rescue efforts and ordered a criminal case against the building's owner for culpable homicide. Rescue teams are using heavy machinery and sniffer dogs to search for survivors. The building housed a coaching institute, cafes, and offices, with construction underway on the upper floor at the time of the incident.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63488,
-      "title": "IGU Andhra Pradesh Junior Boys Golf Championship, Day-3: Dahiya stays ahead of field, Vihaan remains one stroke behind leader - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUXYtSTZQc1FxTE5YSEZ6ZzJ6VUpnS2M4U1BObGUzZWhQUmhJeDFNZHc2MjRxRVJlUWlTN0dDa1pxVTVOUE43OUo3NEdxekYyZm5hTGU0NkIyZC1NQlJBaW1FSHQzdEZrSnlET3RVMUwxSVlhSnJmY3dudUUtQnNqWjJ0UzgwempYZ1NDdE5WXzZNcUpjbkROcjlpUGR6V1VNcXEyWTEtUGhDOV96dVZ4WjVHU1RpVElPbUpkR2hDaW9keVpIR0F6QkJfa3E0YlZSd2d6VXZ3X2NjLTQ1RFlCM1VtakVVQTU5SjRKanVlUF83SkktSkY4?oc=5",
-      "source": "The Tribune",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJkZDQwZWMwLTRmYTctMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-      "scraped_at": "2026-05-31 09:35:48.106169",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**Arjun Dahiya** and **Vihaan Jain** are tied for the lead after three days of competition in the IGU Andhra Pradesh Junior Boys Golf Championship.  Dahiya, who started the day with a one-over 73 card, held on to his overnight lead while **Vihaan Jain** struggled on the front nine but recovered with birdies on the 15th and 17th holes. The final round promises an exciting finish as only three strokes separate the top four players.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Haryana",
-        "Karnataka",
-        "Maharashtra",
-        "Punjab",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Visakhapatnam"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63479,
-      "title": "Centre Revises Export Duties On Petrol, Diesel & Aviation Fuel, Know The Rates | OdishaBytes",
-      "url": "https://odishabytes.com/centre-revises-export-duties-on-petrol-diesel-aviation-fuel-know-the-rates/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/petrol.webp",
-      "scraped_at": "2026-05-31 09:35:17.396771",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**The Indian government** revised export duties on petrol, diesel, and aviation turbine fuel (ATF) effective June 1st. The new rates are set at Rs 1.5 per litre for petrol, Rs 13.5 per litre for diesel, and Rs 9.5 per litre for ATF, reflecting a reduction from previous rates. These duties aim to discourage excessive exports and ensure domestic fuel availability amid global energy market volatility.  The government reviews these rates every two weeks based on average international crude oil prices and petroleum product costs.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.575840",
+  "generated_at": "2026-06-04 10:53:14.117972",
   "name": "Narendra Modi",
   "role": "Prime Minister",
   "ministry": "Prime Minister's Office",
@@ -12,12 +12,12 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 782,
-    "articles_last_30d": 331,
+    "total_articles": 786,
+    "articles_last_30d": 333,
     "sentiment_breakdown_30d": {
-      "positive": 142,
-      "neutral": 77,
-      "negative": 112
+      "positive": 144,
+      "neutral": 78,
+      "negative": 111
     }
   },
   "promises": [
@@ -390,9 +390,126 @@
       "made_on": "",
       "evidence_count": 0,
       "evidence_articles": []
+    },
+    {
+      "id": "promise_1780547383_0",
+      "promise": "The Indian government will develop 100 plug-and-play industrial parks across the country.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
     }
   ],
   "recent_articles": [
+    {
+      "id": 65145,
+      "title": "Modi Government On Capital Gains Tax: India's Big Move To Attract Foreign Investment Amid Iran War: Sources",
+      "url": "https://www.ndtv.com/india-news/indias-big-move-to-attract-foreign-investment-amid-iran-war-sources-11588779#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/mnv868as_modi-ccs-meet_625x300_01_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 05:24:28.307027",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Union Cabinet**, led by Prime Minister Narendra Modi, approved an ordinance amending the Income Tax Act to eliminate capital gains tax on investments made by foreign portfolio investors (FPIs) in Indian government securities. This move aims to attract more foreign capital inflows and mitigate the adverse effects of the Iran war on the economy. The decision comes after calls for tax cuts to prevent further outflows from the Indian stock markets, which have seen significant withdrawals from FPIs this year.  The ordinance will be implemented after Presidential approval.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Nirmala Sitharaman"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 65123,
+      "title": "US Envoy Sergio Gor's \"Incredible Negotiators\" Reply To NDTV Question On Trade Deal",
+      "url": "https://www.ndtv.com/world-news/us-envoy-sergio-gors-incredible-negotiators-reply-to-ndtv-question-on-trade-deal-11587882#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-10/trbhqlcs_sergio-gor_625x300_13_October_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 00:16:13.483295",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "US Government",
+      "rephrased_article": "**India** and the **US** have reached a 99% agreement on their trade deal, with only minor technical and legal details remaining.  **US Ambassador Sergio Gor** stated that these issues are not major policy disagreements but rather require compromise from both sides to achieve a mutually beneficial outcome. He praised India's negotiating team for defending its interests effectively and acknowledged the complexity of the negotiations due to India's past stance on several trade-related issues. **Gor** expressed confidence in reaching an agreement during his brief visit to India, where he will meet with Commerce Minister **Piyush Goyal** and other officials involved in the talks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65111,
+      "title": "Electric vehicles: Costly fuel pushes more Indians to buy EVs yet obstacles remain",
+      "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c115/live/be5fda80-5f3e-11f1-ae51-c396b5163a64.jpg",
+      "scraped_at": "2026-06-04 00:15:37.871581",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's** automobile market is experiencing a surge in electric vehicle adoption, driven by rising fuel prices and upcoming regulations. The market for electric cars expanded 25% in the year ending March 2026, with EVs crossing the 5% threshold in passenger vehicles.  Analysts predict that **India** will see a significant increase in EV penetration over the next decade, particularly in high-usage categories like three-wheelers and two-wheelers. However, challenges remain, including limited charging infrastructure, reliance on global supply chains for battery components, and uncertainty surrounding regulatory clarity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65089,
+      "title": "PM Narendra Modi to launch, lay stone for infra initiatives worth Rs 18K crore in Surat tomorrow | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-to-launch-lay-stone-for-infra-initiatives-worth-rs-18k-crore-in-surat-tomorrow-10722961/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/3PM_20260603193551.jpg",
+      "scraped_at": "2026-06-03 22:16:43.026114",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** will inaugurate and lay the foundation stone for several development projects in Surat, Gujarat, worth over Rs 18,000 crore. These initiatives include four National Highway projects, two packages of the Vadodara–Mumbai Expressway, eight GIDC projects, and upgrades to the Hazira Port–Surat section of National Highway 53. The projects aim to strengthen connectivity, boost economic development, and improve freight movement along the Delhi–Mumbai expressway.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Ahmedabad",
+        "Surat",
+        "Vadodara"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 65043,
       "title": "British Foreign Secretary to meet PM Modi, Jaishankar on June 3 | India News - The Indian Express",
@@ -407,9 +524,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Delhi"
@@ -435,8 +551,7 @@
       "rephrased_article": "The **Union Cabinet**, led by Prime Minister Narendra Modi, approved a two-year scheme to reduce air pollution in the Delhi-NCR region with a total financial outlay of Rs 9,585 crore. The scheme aims to incentivize truck and bus owners to switch to BS-VI or electric vehicles, while also offering tax concessions for new and used vehicles. **The National Capital Region Planning Board (NCRPB)** will implement this initiative in collaboration with participating states and Union Territories of Delhi, Haryana, Rajasthan, and Uttar Pradesh.  The scheme is expected to benefit approximately 2.07 lakh vehicle owners by providing financial support, fuel vouchers, and tax benefits for switching to cleaner transportation options.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Haryana",
@@ -465,8 +580,7 @@
       "rephrased_article": "**Gujarat**'s Cabinet approved the ambitious 'Gujarat Wire-Free City Mission', a statewide initiative to shift overhead electricity lines underground by 2030. The project, aimed at creating smart, green and resilient cities, will involve converting over 14,600 circuit kilometers of high-tension (HT) and over 31,400 circuit kilometers of low-tension (LT) distribution lines across urban areas.  The initial phase, focusing on converting existing 11 kV overhead lines into underground cable networks, is expected to cost ₹500 crore. **Prime Minister Narendra Modi**'s vision for smart cities was cited as a driving force behind the project. The initiative aims to improve public safety and resilience against natural disasters while enhancing the reliability and quality of electricity supply.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Gujarat"
@@ -5817,123 +5931,6 @@
         "corruption_scam",
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 61018,
-      "title": "Elected government has no role in Jammu demolitions, says Farooq Abdullah - The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/elected-government-has-no-role-in-jammu-demolitions-says-farooq-abdullah/article71012124.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/khbfgh/article71012399.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000066A.jpg",
-      "scraped_at": "2026-05-23 00:14:34.200131",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Farooq Abdullah**, president of the **National Conference (NC)**, stated that the elected government has no involvement in the ongoing demolitions in Jammu.  He accused the opposition parties of pursuing anti-Gujjar policies and claimed that Gujjars and Bakerwals have historically protected the region's borders. **Gulam Ali Khatana**, a BJP Rajya Sabha member, countered by accusing the NC and Congress of neglecting the development of Gujjar and Pahari communities for decades. He praised the Modi government's efforts to empower these communities.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "National Conference"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Farooq Abdullah"
-      ],
-      "states_mentioned": [
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 60950,
-      "title": "Rubio's maiden India visit aims to repair strained ties; boost Quad cooperation - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rubios-maiden-india-visit-aims-to-repair-strained-ties-boost-quad-cooperation/article71012335.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/5e1k9c/article71012380.ece/alternates/LANDSCAPE_1200/Sweden_NATO_Foreign_Ministers_78_6.jpg",
-      "scraped_at": "2026-05-22 19:57:14.674362",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "India",
-      "rephrased_article": "**U.S. Secretary of State Marco Rubio** will visit **India** from May 23 to 26, 2026, aiming to repair strained bilateral ties.  He will meet with **External Affairs Minister S. Jaishankar**, **Prime Minister Narendra Modi**, and attend a Quad Foreign Ministers meeting in New Delhi. The trip follows a recent three-day visit by **India's Foreign Secretary Vikram Misri** to Washington DC focused on stabilizing the relationship.  The talks are expected to focus on bolstering ties in energy, trade, investment, critical technology, and people-to-people exchanges, as well as discussing the West Asia crisis and its economic impact.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata",
-        "Jaipur",
-        "Agra"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 60941,
-      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks | US-Israel war on Iran News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a1099ce7b3e-1779472846_3d05d3-1779477026.jpg?resize=1200%2C630&quality=80",
-      "scraped_at": "2026-05-22 19:54:48.079594",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Iran",
-      "rephrased_article": "**Pakistan’s** army chief, Field Marshal Asim Munir, is in Tehran to mediate between **Israel** and the **United States**, as part of ongoing efforts to end their war.  **Iran’s** Foreign Ministry spokesperson, Esmaeil Baghaei, stated that while progress has been made, a deal is not yet close. US Secretary of State Marco Rubio reported \"slight progress\" in talks with Iran, but emphasized the need for continued negotiations. **The European Union** announced it will impose new sanctions on Iranian officials and others responsible for blocking the Strait of Hormuz.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 60905,
-      "title": "Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? | International Trade News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/marco-rubio-visits-india-whats-at-stake-with-trump-modi-ties-strained?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a10554fb32b-1779455311_d215ef-1779455597.jpg?resize=1200%2C630&quality=80",
-      "scraped_at": "2026-05-22 15:41:08.787751",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Trump-Modi ties",
-      "rephrased_article": "**Marco Rubio**, US Secretary of State, is visiting India for a three-day trip ahead of the Quad meeting on May 26th.  Rubio's visit comes amidst strained relations between **Donald Trump** and **Narendra Modi**, as well as efforts to mend ties with **India**. The visit also coincides with the US Department of Justice dropping criminal fraud charges against Indian billionaire **Gautam Adani**, and an extension of a sanctions waiver allowing purchases of Russian oil.  Rubio's trip is seen as part of Washington's effort to strengthen bilateral relations with India, particularly in light of tensions between Trump and Modi last year.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Delhi",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata",
-        "Jaipur",
-        "Agra"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

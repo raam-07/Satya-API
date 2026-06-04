@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.372756",
+  "generated_at": "2026-06-04 10:53:13.953208",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,34 +8,64 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 475,
-    "articles_last_30d": 132
+    "total_articles": 478,
+    "articles_last_30d": 134
   },
   "top_cities_30d": {
-    "Delhi": 26,
+    "Delhi": 27,
     "Visakhapatnam": 21,
-    "Hyderabad": 14,
+    "Hyderabad": 16,
     "Chennai": 9,
     "Mumbai": 8,
     "Madurai": 5,
+    "Bengaluru": 4,
     "Kolkata": 4,
-    "Bengaluru": 3,
     "Ludhiana": 3,
     "Pune": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 87,
+    "foreign_policy": 88,
     "education": 33,
     "economy": 25,
     "infrastructure": 21,
-    "crime_violence": 20,
+    "crime_violence": 21,
     "farmer_agriculture": 14,
-    "protest_opposition": 13,
+    "protest_opposition": 14,
     "health": 12,
     "rape_sexual_crime": 7,
     "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 65170,
+      "title": "Andhra Pradesh Chief Minister Chandrababu Naidu Backs Pawan Kalyan As He Announces Jana Sena Party's Entry In Telangana Politics, Questions Criticism",
+      "url": "https://www.ndtv.com/india-news/andhra-pradesh-chief-minister-chandrababu-naidu-backs-pawan-kalyan-as-he-announces-jana-sena-partys-entry-in-telangana-politics-questions-criticism-11588653#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/rkdof9v8_chandrababu-naidu-pawan-kalyan_625x300_04_June_26.jpeg",
+      "scraped_at": "2026-06-04 05:25:43.218565",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Chandrababu Naidu",
+      "rephrased_article": "**Andhra Pradesh Chief Minister Chandrababu Naidu** strongly supported **Pawan Kalyan's** plans to expand the **Jana Sena Party's** activities in Telangana, arguing that democratic politics allows cross-state campaigning.  Naidu questioned criticism of Pawan Kalyan's outreach and cited examples of other leaders campaigning across state boundaries. He also cautioned against reviving regional sentiments and emphasized the importance of constructive competition focused on development and public service.",
+      "party_mentioned": [
+        "TDP"
+      ],
+      "ministers_mentioned": [
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65101,
       "title": "Vizag Collector prepares for Naidu’s visit - The Hindu",
@@ -51,8 +81,7 @@
         "National Conference"
       ],
       "ministers_mentioned": [
-        "Chandrababu Naidu",
-        "Naidu"
+        "Chandrababu Naidu"
       ],
       "states_mentioned": [],
       "cities_mentioned": [
@@ -61,6 +90,96 @@
       "topic_tags": [
         "foreign_policy",
         "economy"
+      ]
+    },
+    {
+      "id": 65087,
+      "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
+      "url": "https://www.ndtv.com/india-news/congress-rahul-gandhi-priyanka-gandhi-congress-plans-major-reshuffle-will-priyanka-gandhi-get-new-responsibility-11587621#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/faaocqj_-priyanka-gandhi_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:38.093147",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Hariprasad** has been named the state Congress president.  The Congress is planning a major reshuffle across over six states, with a focus on poll-bound regions like Uttar Pradesh, Uttarakhand, Punjab, Goa, Manipur, Gujarat, and Himachal Pradesh. The party is considering replacing in-charges and state presidents to attract voters and balance caste dynamics. This reshuffle is expected to be the last major one under **Mallikarjun Kharge**'s leadership as Congress president.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65062,
+      "title": "Pseudo-police gang that kidnapped businessman and extorted ₹5.26 lakh busted in Cyberabad - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/pseudo-police-gang-that-kidnapped-businessman-and-extorted-526-lakh-busted-in-cyberabad/article71057914.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/akvel0/article71057911.ece/alternates/LANDSCAPE_1200/pseduo%20police%20case%202%20.jpeg",
+      "scraped_at": "2026-06-03 22:15:49.513994",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "pseudo-police gang",
+      "rephrased_article": "**Cyberabad police** arrested five members of a pseudo-police gang who allegedly kidnapped a businessman, impersonated police officers, and extorted over ₹5 lakh from him. The suspects, identified as Nagaraju Raghu Varma, Yeswanth Singh alias Rahul, Sathyabhan Singh alias Thakur, Thangellapalli Nagendra Varma, and two others still at large, were apprehended following an investigation into the incident reported by a 42-year-old businessman in Kukatpally. The gang used fake police uniforms, forged identity cards, and other tactics to deceive their victims before withdrawing money from his bank accounts and assaulting him.  Police are continuing to investigate and identify additional victims.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Haryana",
+        "Jharkhand",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
       ]
     },
     {
@@ -5292,96 +5411,6 @@
       "topic_tags": [
         "education"
       ]
-    },
-    {
-      "id": 52983,
-      "title": "DMK, Congress have betrayed women and the country: A.P. CM - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kejriwal-asks-people-of-tn-not-to-vote-for-nda-says-bjp-has-captured-aiadmk/article70884413.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/r4zgvw/article70886149.ece/alternates/LANDSCAPE_1200/2085_20_4_2026_15_55_24_2_2.JPG",
-      "scraped_at": "2026-04-21 00:09:53.400758",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**N. Chandrababu Naidu**, the leader of the **Telugu Desam Party** and Andhra Pradesh Chief Minister, criticized the **DMK** and **Congress** for opposing a bill that would have included a 33% reservation for women in Parliament. He claimed that these parties had betrayed women and the nation by not supporting the bill, which he said was intended to increase the number of seats allocated to South India.  Naidu also criticized the DMK's opposition to delimitation, arguing it would negatively impact women's representation.",
-      "party_mentioned": [
-        "Congress",
-        "TDP",
-        "Telugu Desam",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai",
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 52973,
-      "title": "Election officials seize ₹13 lakh in unaccounted cash in Vellore, Ranipet - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/election-officials-seize-13-lakh-in-unaccounted-cash-in-vellore-ranipet/article70880961.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-20 23:16:23.455694",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election officials",
-      "rephrased_article": "**Election** and **police** officials in Vellore and Ranipet districts seized approximately ₹13 lakh in unaccounted cash during vehicle checks.  In Vellore, a woman carrying ₹10 lakh was apprehended at a checkpost while in Ranipet, a separate team found ₹1.21 lakh in unaccounted cash from a parked vehicle. The seized funds were handed over to the district treasury and are under investigation.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 52968,
-      "title": "Poll bugle to fall silent across Tamil Nadu on Tuesday evening - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/poll-bugle-to-fall-silent-across-tamil-nadu-on-tuesday-evening/article70884049.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-20 23:14:32.966732",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Assembly Election",
-      "rephrased_article": "**Political parties** in Tamil Nadu are concluding their intense campaigning ahead of the Assembly election on April 23rd.  Polling will begin at 7 a.m. that day, with all political functionaries and party workers not eligible to vote required to vacate the area by 6 p.m. on Tuesday. **Prime Minister Narendra Modi**, **Rahul Gandhi**, and other prominent leaders from various parties have campaigned in the state, while the Chief Electoral Officer has outlined strict regulations for the period leading up to the election.  These include restrictions on public gatherings, vehicle usage, and the establishment of polling booths.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "RJD",
-        "Telugu Desam"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Arvind Kejriwal",
-        "Rahul Gandhi",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
     }
   ]
 }

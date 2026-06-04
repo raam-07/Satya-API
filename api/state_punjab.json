@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.478883",
+  "generated_at": "2026-06-04 10:53:14.034339",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 489,
-    "articles_last_30d": 208
+    "total_articles": 491,
+    "articles_last_30d": 207
   },
   "top_cities_30d": {
-    "Delhi": 56,
-    "Bengaluru": 14,
+    "Delhi": 57,
+    "Bengaluru": 15,
     "Ludhiana": 13,
     "Mumbai": 10,
     "Amritsar": 9,
@@ -24,18 +24,98 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 173,
+    "foreign_policy": 171,
+    "education": 60,
     "economy": 59,
-    "education": 58,
-    "crime_violence": 57,
-    "protest_opposition": 46,
-    "infrastructure": 37,
+    "crime_violence": 56,
+    "protest_opposition": 44,
+    "infrastructure": 36,
     "health": 23,
-    "farmer_agriculture": 19,
+    "farmer_agriculture": 18,
     "corruption_scam": 18,
-    "rape_sexual_crime": 3
+    "political_gaffe": 4
   },
   "recent_articles": [
+    {
+      "id": 65142,
+      "title": "PSEB class 10, 12 supplementary exam 2026: Registration process starts, check important dates",
+      "url": "https://indianexpress.com/article/education/punjab-board-supplementary-exams-2026-pseb-class-10th-12th-registration-process-starts-10723252/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/PSEB-class-10-12-supplementary-exam-2026.jpg",
+      "scraped_at": "2026-06-04 05:24:24.667607",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "PSEB",
+      "rephrased_article": "The **Punjab Board of School Education (PSEB)** has opened registration for the Class 10 and 12 supplementary exams for 2026. Students can apply online at pseb.ac.in to appear in compartment, improvement, re-appear, additional subject, or Punjab Open School examinations. The deadline for submitting applications is June 15, 2026, with a late fee option until June 22nd.  The supplementary exams are for students who did not pass one or more subjects in the main examination and those seeking to improve marks or take an additional subject.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 65087,
+      "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
+      "url": "https://www.ndtv.com/india-news/congress-rahul-gandhi-priyanka-gandhi-congress-plans-major-reshuffle-will-priyanka-gandhi-get-new-responsibility-11587621#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/faaocqj_-priyanka-gandhi_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:38.093147",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Hariprasad** has been named the state Congress president.  The Congress is planning a major reshuffle across over six states, with a focus on poll-bound regions like Uttar Pradesh, Uttarakhand, Punjab, Goa, Manipur, Gujarat, and Himachal Pradesh. The party is considering replacing in-charges and state presidents to attract voters and balance caste dynamics. This reshuffle is expected to be the last major one under **Mallikarjun Kharge**'s leadership as Congress president.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 64835,
       "title": "High-Speed Chase Then A Farzi-Style Move: How UP Drug Smugglers Tried To Escape Cops, Sonebhadra",
@@ -5348,60 +5428,6 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 57012,
-      "title": "Breathe Pakistan: Minister Musadik Malik calls for investing in youth-led climate projects - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1997828/breathe-pakistan-minister-musadik-malik-calls-for-investing-in-youth-led-climate-projects",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/0614154784070ff.webp",
-      "scraped_at": "2026-05-06 09:28:07.395464",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Pakistan",
-      "rephrased_article": "The Breathe Pakistan International Climate Change Conference is underway in Islamabad, bringing together",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 56921,
-      "title": "A shifting political arithmetic in Punjab - The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/a-shifting-political-arithmetic-in-punjab/article70944418.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/latest-news/vg4ytj/article70944595.ece/alternates/LANDSCAPE_1200/Punjab.jpg",
-      "scraped_at": "2026-05-05 21:10:01.559743",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The **Bharatiya Janata Party (BJP)** is preparing for a solo run in the 2027 Punjab Assembly elections, aiming to capitalize on recent electoral successes. The party has been present in Punjab since independence and its vote share has fluctuated between 6%-7% when contesting alone and 8% when allied with the Shiromani Akali Dal (SAD). In 2022, it secured 6.6% of the vote while partnered with the Punjab Lok Congress.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Akali Dal",
-        "SAD"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Punjab",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.539306",
+  "generated_at": "2026-06-04 10:53:14.083221",
   "state": "Jammu and Kashmir",
   "capital": "Srinagar / Jammu",
   "ruling_party": "National Conference",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 123,
-    "articles_last_30d": 65
+    "total_articles": 125,
+    "articles_last_30d": 67
   },
   "top_cities_30d": {
-    "Srinagar": 22,
-    "Delhi": 9,
+    "Srinagar": 23,
+    "Delhi": 11,
     "Bengaluru": 2,
     "Mumbai": 2,
     "Ahmedabad": 2,
@@ -23,11 +23,11 @@
     "Vadodara": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 45,
+    "foreign_policy": 46,
     "crime_violence": 19,
     "education": 18,
-    "protest_opposition": 10,
-    "economy": 9,
+    "protest_opposition": 12,
+    "economy": 10,
     "infrastructure": 6,
     "corruption_scam": 4,
     "health": 4,
@@ -35,6 +35,68 @@
     "rape_sexual_crime": 1
   },
   "recent_articles": [
+    {
+      "id": 65129,
+      "title": "At offsite review meeting, National Conference decides to hold protest in Delhi for statehood, ‘constitutional guarantees’ | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/national-conference-omar-abdullah-delhi-protest-jammu-kashmir-statehood-demand-10723051/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Vehicles-carrying-Jammu-and-Kashmir-MLAs-and-MPs-arrive-at-Dachigam-National-Park-for-a-meeting-of-National-Conference-leaders-chaired-by-CM-Omar-Abdullah-in-Srinagar-on-Wednesday.-PTI.jpg",
+      "scraped_at": "2026-06-04 00:16:21.738908",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "National Conference",
+      "rephrased_article": "**Omar Abdullah**, the Chief Minister of **Jammu and Kashmir**, convened a meeting with his party MLAs at Dachigam to address concerns and discuss issues.  The NC, led by **Abdullah**, has decided to travel to Delhi on the first day of the monsoon session to protest for statehood restoration and constitutional guarantees. The meeting was intended as an opportunity for all MLAs to voice their opinions and air their complaints.  **Sunil Sharma**, Leader of the Opposition for the BJP, criticized the move as a \"floor test\" and dismissed it as a diversionary tactic.  People's Conference president **Sajad Lone** called the protest a \"damp squib\" and accused the NC of attempting to divert attention from their past failures.",
+      "party_mentioned": [
+        "BJP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65074,
+      "title": "Omar Abdullah's Parliament Protest For Jammu And Kashmir Statehood On Monsoon Session Day 1",
+      "url": "https://www.ndtv.com/india-news/omar-abdullahs-parliament-protest-for-jammu-and-kashmir-statehood-on-monsoon-session-day-1-11587981#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/m8lja0ok_omar-abdullah_625x300_05_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:21.354671",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Omar Abdullah",
+      "rephrased_article": "**Omar Abdullah**, the Chief Minister of **Jammu and Kashmir**, will lead a protest in Delhi demanding the restoration of statehood and special status for the region.  After an off-site meeting, the ruling **National Conference** resolved to demand immediate action on this issue during the Monsoon session of Parliament. The party is facing growing discontent over the delay in restoring statehood and political rights, with some leaders criticizing Abdullah's lack of action.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "economy"
+      ]
+    },
     {
       "id": 64761,
       "title": "Flash Floods, Landslides After 3 Cloudbursts In Jammu And Kashmir",
@@ -3293,13 +3355,10 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Arvind Kejriwal",
-        "Kejriwal",
         "Ashok Gehlot",
         "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Rajasthan",

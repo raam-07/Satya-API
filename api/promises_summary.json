@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-03 23:17:22.901660",
+  "generated_at": "2026-06-04 10:53:14.393632",
   "stats": {
-    "total_promises": 122,
+    "total_promises": 129,
     "kept": 2,
     "broken": 12,
-    "ongoing": 106
+    "ongoing": 113
   },
   "by_status": {
     "broken": [
@@ -56,7 +56,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -392,7 +392,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
+        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
       },
       {
         "id": "p019",
@@ -936,7 +936,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Indian government is still working on passing the bill."
+        "gemma_reasoning": "The bill is still under discussion and has not been passed."
       },
       {
         "id": "promise_1780335440_3",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah remains in power and the policy is actively being implemented."
       },
       {
         "id": "promise_1780373808_3",
@@ -1235,7 +1235,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
+        "gemma_reasoning": "The target deadline year of 2027 has not passed."
       },
       {
         "id": "promise_1780376713_4",
@@ -1302,7 +1302,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Congress is still in power and has stated plans to implement the law."
+        "gemma_reasoning": "The Congress is in opposition and the deadline is in the future."
       },
       {
         "id": "promise_1780383641_1",
@@ -1635,7 +1635,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying ongoing work."
       },
       {
         "id": "promise_1780436701_3",
@@ -1948,7 +1948,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing."
+        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
       },
       {
         "id": "promise_1780521517_7",
@@ -1970,6 +1970,104 @@
         "party": "",
         "promise": "Nayab Singh Saini aims to attract Rs 5 lakh crore in investments to Haryana.",
         "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780531637_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to complete Phase-I of the Sri Sita Ramachandra Swamy Temple development by March 31, 2027.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780534305_1",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "Promised swift action against drug abuse.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780536705_2",
+        "person": "Sukhvinder Singh Sukhu",
+        "party": "",
+        "promise": "Sukhvinder Singh Sukhu pledged to invest ₹3,000 crore in the tourism sector.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780537521_3",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Directed the government to crack down on drug cartels.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780538408_4",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Telangana government will allocate ₹18,000 crore for Rythu Bharosa.",
+        "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780538712_5",
+        "person": "V.D. Satheesan",
+        "party": "",
+        "promise": "The UDF is confident of winning over 100 seats in the upcoming Kerala elections.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780547383_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "The Indian government will develop 100 plug-and-play industrial parks across the country.",
+        "category": "infrastructure",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -2134,7 +2232,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -2234,7 +2332,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -2512,7 +2610,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Indian government is still working on passing the bill."
+        "gemma_reasoning": "The bill is still under discussion and has not been passed."
       },
       {
         "id": "promise_1780335440_3",
@@ -2611,6 +2709,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780547383_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "The Indian government will develop 100 plug-and-play industrial parks across the country.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Amit Shah": [
@@ -2637,7 +2749,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
+        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
       },
       {
         "id": "promise_1780277157_4",
@@ -2715,7 +2827,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah remains in power and the policy is actively being implemented."
       },
       {
         "id": "promise_1780383641_1",
@@ -2782,7 +2894,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying ongoing work."
       },
       {
         "id": "promise_1780443870_2",
@@ -2822,6 +2934,20 @@
         ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The BJP is currently in power and Amit Shah has stated the UCC will be introduced if re-elected."
+      },
+      {
+        "id": "promise_1780537521_3",
+        "person": "Amit Shah",
+        "party": "",
+        "promise": "Directed the government to crack down on drug cartels.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Arvind Kejriwal": [
@@ -3194,7 +3320,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing."
+        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
       }
     ],
     "Revanth Reddy": [
@@ -3361,7 +3487,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
+        "gemma_reasoning": "The target deadline year of 2027 has not passed."
       },
       {
         "id": "promise_1780383936_2",
@@ -3516,6 +3642,34 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780531637_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy promised to complete Phase-I of the Sri Sita Ramachandra Swamy Temple development by March 31, 2027.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780538408_4",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "The Telangana government will allocate ₹18,000 crore for Rythu Bharosa.",
+        "category": "farmer_agriculture",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "C. Joseph Vijay": [
@@ -3609,6 +3763,20 @@
         "party": "",
         "promise": "C. Joseph Vijay promised to release a White Paper on the state's finances upon assuming office.",
         "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780534305_1",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "Promised swift action against drug abuse.",
+        "category": "crime_violence",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -3860,6 +4028,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780538712_5",
+        "person": "V.D. Satheesan",
+        "party": "",
+        "promise": "The UDF is confident of winning over 100 seats in the upcoming Kerala elections.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Piyush Goyal": [
@@ -4006,7 +4188,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Congress is still in power and has stated plans to implement the law."
+        "gemma_reasoning": "The Congress is in opposition and the deadline is in the future."
       }
     ],
     "Pinarayi Vijayan": [
@@ -4167,6 +4349,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780536705_2",
+        "person": "Sukhvinder Singh Sukhu",
+        "party": "",
+        "promise": "Sukhvinder Singh Sukhu pledged to invest ₹3,000 crore in the tourism sector.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Thol. Thirumavalavan": [
@@ -4252,7 +4448,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -4352,7 +4548,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -4536,7 +4732,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
+        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
       },
       {
         "id": "p018",

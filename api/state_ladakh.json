@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.543805",
+  "generated_at": "2026-06-04 10:53:14.086939",
   "state": "Ladakh",
   "capital": "Leh",
   "ruling_party": "Central Govt",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 63,
-    "articles_last_30d": 32
+    "total_articles": 64,
+    "articles_last_30d": 33
   },
   "top_cities_30d": {
     "Delhi": 10,
@@ -17,17 +17,39 @@
     "Coimbatore": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 24,
+    "foreign_policy": 25,
     "education": 9,
     "economy": 9,
     "crime_violence": 5,
+    "infrastructure": 5,
     "protest_opposition": 4,
-    "infrastructure": 4,
     "farmer_agriculture": 1,
     "health": 1,
     "political_gaffe": 1
   },
   "recent_articles": [
+    {
+      "id": 65080,
+      "title": "At 16,700 ft Near China Border, Ladakh Gets India's First Model Border Village",
+      "url": "https://www.ndtv.com/india-news/at-16-700-ft-near-china-border-ladakh-gets-indias-first-model-border-village-11587938#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ogsvsb9s_chumur-village_625x300_03_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:30.228528",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Lieutenant Governor of Ladakh, Vinai Kumar Saxena**, laid the foundation stone for India's first Model Border Village in Chumur, a remote village near the India-China border. The **Vibrant Village Programme** initiative aims to create self-reliant and economically vibrant border villages in high-altitude frontier regions.  Chumur, home to 24 households, will receive climate-resilient homes with additional homestay rooms, infrastructure development, livelihood opportunities, and tourism promotion. This project is part of a larger effort to address migration from remote border settlements by providing better living conditions and economic prospects.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 64785,
       "title": "Ladakh up in arms over new liberal liquor policy introduced by L-G administration - The Hindu",
@@ -1870,13 +1892,10 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Arvind Kejriwal",
-        "Kejriwal",
         "Ashok Gehlot",
         "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Rajasthan",

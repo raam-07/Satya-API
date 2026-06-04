@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.396322",
+  "generated_at": "2026-06-04 10:53:13.967152",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,34 +8,143 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 248,
-    "articles_last_30d": 98
+    "total_articles": 256,
+    "articles_last_30d": 105
   },
   "top_cities_30d": {
-    "Delhi": 41,
+    "Delhi": 43,
     "Patna": 16,
-    "Mumbai": 11,
-    "Kolkata": 6,
-    "Hyderabad": 6,
+    "Mumbai": 12,
+    "Kolkata": 8,
+    "Hyderabad": 7,
     "Chennai": 5,
+    "Bengaluru": 4,
     "Kanpur": 4,
-    "Bengaluru": 3,
-    "Ahmedabad": 3,
-    "Pune": 3
+    "Thane": 3,
+    "Ahmedabad": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 70,
-    "education": 31,
-    "crime_violence": 22,
-    "infrastructure": 18,
+    "foreign_policy": 76,
+    "education": 32,
+    "crime_violence": 24,
+    "infrastructure": 17,
+    "protest_opposition": 17,
     "economy": 17,
-    "protest_opposition": 14,
-    "health": 13,
+    "health": 15,
     "corruption_scam": 11,
-    "farmer_agriculture": 8,
+    "farmer_agriculture": 7,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 65152,
+      "title": "4 dead, others injured in Muzaffarpur hospital fire in Bihar - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/monsoon-tracker-live-kerala-southwest-rains-june-4-2026-updates/article71059458.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/d2tmrh/article71059566.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-04%20091217.png",
+      "scraped_at": "2026-06-04 05:24:46.740865",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Prasad Hospital",
+      "rephrased_article": "A fire at the **Prasad Hospital** in Muzaffarpur, Bihar, on Thursday (June 4, 2026), resulted in the deaths of at least four patients and injuries to others.  The blaze broke out on the fifth floor of the hospital's Intensive Care Unit, where 24 patients were admitted, including 13 in the ICU. The fire department controlled the inferno, evacuating approximately 15 patients from the affected area. **Ram Niwas Pandey**, an official from the Muzaffarpur fire department, stated that the cause of the incident is yet to be determined but a short circuit is suspected.  **Subrat Kumar Sen**, the Muzaffarpur District Magistrate, has ordered an inquiry into the incident and announced ₹4 lakh in ex gratia for each victim's family.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 65146,
+      "title": "4 dead, others injured in Muzaffarpur hospital fire in Bihar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/muzaffarpur-hospital-fire-in-bihar/article71059549.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/d2tmrh/article71059566.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-04%20091217.png",
+      "scraped_at": "2026-06-04 05:24:28.570943",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Bihar Government",
+      "rephrased_article": "A fire at the fifth floor of **Prasad Hospital** in Muzaffarpur, Bihar, resulted in the deaths of at least four patients and injuries to others. The fire broke out around 3:55 a.m. on Thursday (June 4, 2026) and was controlled by firefighters.  The cause is believed to be a short circuit, but an investigation is underway. **Chief Minister Samrat Choudhary**, **District Magistrate Subrat Kumar Sen**, and **State Health Minister Nishant Kumar** expressed condolences over the incident. The Bihar government has announced ex gratia payments of ₹4 lakh to the families of each victim.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 65131,
+      "title": "3 coaching centres sealed days before recruitment exam, student anxiety simmers in Prayagraj | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/3-coaching-centres-sealed-days-before-recruitment-exam-student-anxiety-simmers-in-prayagraj-10722998/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/One-of-the-coaching-centres-which-faced-action.-Manish-Sahu.jpg",
+      "scraped_at": "2026-06-04 00:16:25.572544",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "UPSSSC",
+      "rephrased_article": "**Priya Rajput** and **Pankaj Singh**, aspiring police constables, are facing disruption to their studies after the Prayagraj Development Authority sealed three prominent coaching centers. The action was taken on May 31st, citing violations of mandatory formalities.  The owners of the institutes, including **Maroof Ahmed** from Super Climax Coaching and **Ravi P Tiwari** from Target On Coaching, claim that they are being penalized for participating in a candlelight march protesting alleged irregularities in recruitment examinations. The protesters demanded transparency and accountability from the government, while police have booked two prominent figures in the stir on charges of breach of peace.  The UPSSSC has stated that the examination was conducted with integrity and no evidence of malpractice was found.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65119,
+      "title": "TMC fault lines in the open: 58 of 80 MLAs back rebel as Leader of Opposition | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-trinamool-congress-rebellion-ritabrata-banerjee-rebels-seize-legislature-party-10722985/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Expelled-TMC-MLA-Ritabrata-Banerjee-addresses-a-press-conference-in-Kolkata-on-Wednesday.-Partha-Paul.jpeg",
+      "scraped_at": "2026-06-04 00:15:56.278233",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "**Atri Mitra**, a highly experienced **Special Correspondent** for **The Indian Express**, brings over two decades of reporting experience to his coverage of administration and political news in Eastern and North-Eastern India.  His expertise is particularly focused on West Bengal, where he has dedicated more than ten years to covering political developments. **Ravik Bhattacharya**, the Chief of Bureau of **The Indian Express**, Kolkata, boasts over 20 years of experience in journalism and specializes in politics, crime, major incidents, and investigative stories across various regions including West Bengal, Odisha, Assam, and the Andaman Nicobar Islands.  **Bhattacharya** has a long and distinguished career with notable awards, including the Ramnath Goenka Excellence in Journalism Award for Political Reporting in 2007.",
+      "party_mentioned": [
+        "TMC"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Bihar",
+        "Odisha",
+        "West Bengal",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65097,
       "title": "Bihar government to run 50 additional pink buses - The Hindu",
@@ -59,6 +168,160 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
+      ]
+    },
+    {
+      "id": 65087,
+      "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
+      "url": "https://www.ndtv.com/india-news/congress-rahul-gandhi-priyanka-gandhi-congress-plans-major-reshuffle-will-priyanka-gandhi-get-new-responsibility-11587621#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/faaocqj_-priyanka-gandhi_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:38.093147",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Hariprasad** has been named the state Congress president.  The Congress is planning a major reshuffle across over six states, with a focus on poll-bound regions like Uttar Pradesh, Uttarakhand, Punjab, Goa, Manipur, Gujarat, and Himachal Pradesh. The party is considering replacing in-charges and state presidents to attract voters and balance caste dynamics. This reshuffle is expected to be the last major one under **Mallikarjun Kharge**'s leadership as Congress president.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65069,
+      "title": "Shiv Sena's \"Slow Poison\" Barb Gets BJP's \"<i>Begani Shaadi</i>...\" Retort",
+      "url": "https://www.ndtv.com/india-news/shiv-senas-slow-poison-barb-gets-bjps-begani-shaadi-retort-11588030#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-07/3l2vrsao_abdul-sattar_625x300_24_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:05.779161",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Shiv Sena** leader Abdul Sattar accused the **BJP** of weakening the party at the grassroots level, warning that this could lead to problems for the Mahayuti alliance.  Sattar criticized the BJP's expansion within Maharashtra and claimed it was damaging the Shiv Sena's organizational base. He also expressed concern about the future of the alliance, suggesting that if corrective steps are not taken, they may face issues in 2029. Sattar urged the BJP to stop this \"slow poison\" and emphasized the need for a united Shiv Sena.  The dispute escalated after Sattar's son filed a rebel nomination for the upcoming Legislative Council election.",
+      "party_mentioned": [
+        "BJP",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Nitish Kumar",
+        "Nitish",
+        "Uddhav Thackeray",
+        "Eknath Shinde"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Nagpur",
+        "Thane"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65062,
+      "title": "Pseudo-police gang that kidnapped businessman and extorted ₹5.26 lakh busted in Cyberabad - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/pseudo-police-gang-that-kidnapped-businessman-and-extorted-526-lakh-busted-in-cyberabad/article71057914.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/akvel0/article71057911.ece/alternates/LANDSCAPE_1200/pseduo%20police%20case%202%20.jpeg",
+      "scraped_at": "2026-06-03 22:15:49.513994",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "pseudo-police gang",
+      "rephrased_article": "**Cyberabad police** arrested five members of a pseudo-police gang who allegedly kidnapped a businessman, impersonated police officers, and extorted over ₹5 lakh from him. The suspects, identified as Nagaraju Raghu Varma, Yeswanth Singh alias Rahul, Sathyabhan Singh alias Thakur, Thangellapalli Nagendra Varma, and two others still at large, were apprehended following an investigation into the incident reported by a 42-year-old businessman in Kukatpally. The gang used fake police uniforms, forged identity cards, and other tactics to deceive their victims before withdrawing money from his bank accounts and assaulting him.  Police are continuing to investigate and identify additional victims.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Haryana",
+        "Jharkhand",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65057,
+      "title": "TMC leader Jay Prakash Majumdar held over ‘grabbing’ woman’s house | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/tmc-leader-jay-prakash-majumdar-held-over-grabbing-womans-house-10723010/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/kolkata-police-2_20260603203511.jpg",
+      "scraped_at": "2026-06-03 22:15:36.941946",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Jay Prakash Majumdar",
+      "rephrased_article": "**Jay Prakash Majumdar**, a **TMC** leader, was arrested by the police in connection with allegedly illegally occupying a woman's house for several years and harassing her.  The arrest followed a protest against Majumdar outside his flat in Bidhannagar, where he allegedly assaulted some protesters. Meanwhile, Kolkata Police arrested Ward No 42 Councilor **Mahesh Kumar Sharma** on Wednesday in connection with a case filed in 2025.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
       ]
     },
     {
@@ -5787,240 +6050,6 @@
         "protest_opposition",
         "foreign_policy",
         "crime_violence"
-      ]
-    },
-    {
-      "id": 47040,
-      "title": "NIA, ED bust Maoist extortion, money laundering rackets - The Hindu",
-      "url": "https://www.thehindu.com/news/national/agencies-expose-maoist-run-extortion-and-money-laundering-rackets/article70808417.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/gzw8nq/article70808552.ece/alternates/LANDSCAPE_1200/PTI04_11_2025_000072A.jpg",
-      "scraped_at": "2026-03-31 21:10:41.467526",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Maoist outfits",
-      "rephrased_article": "The **National Investigation Agency (NIA)** and the **Enforcement Directorate (ED)** have been actively disrupting the financial networks of banned Maoist outfits. The NIA has investigated over 100 cases, seized assets worth more than ₹40 crore, and filed chargesheets against several high-ranking operatives. The ED has attached assets worth over ₹12 crore and filed prosecution complaints against individuals who extorted money from businessmen, contractors, and workers.  Both agencies have successfully disrupted the financial operations of various Maoist groups across different states, including those linked to splinter groups like **The People’s Liberation Front of India**.",
-      "party_mentioned": [
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Chhattisgarh",
-        "Jharkhand",
-        "Odisha"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "crime_violence",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 46866,
-      "title": "West Bengal election 2026: BJP trying to add illegal voters from outside in Bengal electoral rolls: Mamata Banerjee - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-trying-to-add-illegal-voters-from-outside-in-bengal-electoral-rolls-mamata/article70806124.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/u1qa6e/article70806148.ece/alternates/LANDSCAPE_1200/20260330440L.jpg",
-      "scraped_at": "2026-03-31 08:15:27.352481",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Mamata Banerjee**, West Bengal Chief Minister, accused the **BJP** of attempting to include illegal voters from other states in the state's electoral rolls to manipulate election results. She alleged that the party is planning to transport out-of-state voters using railways and colluding with the Election Commission to delete names of women and minorities from the voter list.  Banerjee vowed to fight against these attempts, claiming the BJP seeks to impose a \"ban on non-veg food consumption\" in Bengal if elected and plans to implement NRC through a backdoor.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Haryana",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 46861,
-      "title": "Bihar stampede LIVE updates: At least 8 dead in stampede during Tuesday prayers at Nalanda temple - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-nalanda-stampede-sheetla-temple-death-toll-live-updates/article70805954.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/efxkt8/article70805935.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-31%20at%2011.50.18.jpeg",
-      "scraped_at": "2026-03-31 06:57:56.096384",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Bihar Government",
-      "rephrased_article": "At least eight people were killed in a stampede during prayers at the Sheetla Mata Temple in Bihar's Nalanda district on Tuesday. **Bihar Chief Secretary Pratyaya Amrit** has been instructed to investigate the incident and submit a report to the government.  **Bihar Chief Minister Nitish Kumar** and Deputy CM **Samrat Choudhary** offered condolences and promised assistance to the victims. The temple has been closed, and the toll is expected to rise.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 46856,
-      "title": "Bihar stampede: Several feared dead in stampede at Nalanda’s Sheetla Mata temple - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/nalanda-sheetla-mata-temple-stampede-bihar-many-killed-march-31-2026/article70805901.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/enwumm/article70805926.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-31%20at%2011.50.18.jpeg",
-      "scraped_at": "2026-03-31 06:55:18.322716",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Bihar Government",
-      "rephrased_article": "At least eight people have died in a stampede at the Sheetla Mata Temple in Bihar's Nalanda district. **Bihar Minister Vijay Kumar Choudhary**, who is also in charge of Nalanda Districts, confirmed the deaths and the district administration has closed the temple to manage the situation.  **Deputy Chief Minister Samrat Choudhary**, **State Assembly Speaker Prem Kumar**, and **Chief Minister Nitish Kumar** have expressed condolences and offered support to the victims. The Chief Secretary has been instructed to investigate the incident.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 46827,
-      "title": "PM Modi to inaugurate ‘Samrat Samprati Museum’, semiconductor plant in Gujarat on March 31 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/pm-modi-to-inaugurate-samrat-samprati-museum-semiconductor-plant-in-gujarat-on-march-31/article70803299.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xx2q00/article70805631.ece/alternates/LANDSCAPE_1200/Modi-to-interacG2BFPGLDQ.3.jpg.jpg",
-      "scraped_at": "2026-03-31 03:30:20.975871",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** will visit Gujarat on March 31, 2026, to unveil a series of infrastructure, industrial, and cultural projects.  The visit begins in Koba village with the inauguration of the ‘Samrat Samprati Museum’ and an address to the public. **Modi** will then travel to Sanand for the inauguration of a Kaynes Semicon OSAT facility and later reach Lakhni taluka in Vav-Tharad district for a public meeting and virtual inauguration of development projects worth over ₹6,000 crore.  The Prime Minister will also dedicate and lay the foundation stone for 44 urban development projects across the state.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 46725,
-      "title": "Barring one, entire top leadership of Maoists wiped out, Amit Shah tells Lok Sabha - The Hindu",
-      "url": "https://www.thehindu.com/news/national/barring-one-entire-top-leadership-of-maoists-wiped-out-amit-shah-tells-lok-sabha/article70804368.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/esqwc6/article70804487.ece/alternates/LANDSCAPE_1200/20260330468L.jpg",
-      "scraped_at": "2026-03-30 19:11:50.428792",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Union Home Minister Amit Shah** announced that the **Communist Party of India (Maoists)** leadership has been largely dismantled, with only one member remaining.  He attributed this success to a shift in policy and strong political will following the 2014 election. The government has achieved significant progress against Maoist violence, including the surrender of over 4,800 cadres, arrests of 2,218 members, and the deaths of 706 Maoists.  **Mr. Shah** highlighted the use of technology like drone surveillance and phone tracking in this effort. The government aims to declare India Naxal-free by March 31, 2026.",
-      "party_mentioned": [
-        "Congress",
-        "UPA"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Chhattisgarh",
-        "Jharkhand",
-        "Maharashtra",
-        "Odisha"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 46701,
-      "title": "Gaming firm Nazara Tech to raise Rs 500 crore via warrants - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/gaming-firm-nazara-tech-to-raise-rs-500-crore-via-warrants/articleshow/129904289.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-129904289,width-1200,height-630,imgsize-36242,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-03-30 18:02:58.113985",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Nazara Technologies",
-      "rephrased_article": "**Nazara Technologies**, a gaming company, is raising **Rs 500 crore** through the issuance of warrants to investors including **Riambel Capital PCC** and promoter group entities. The funds will support strategic acquisitions like the recently announced deals for Bluetile and BestPlay, as well as accelerate growth across existing business verticals.  The company plans to seek shareholder approval for the warrant issuance at an Extraordinary General Meeting on April 30, 2026. **Nitish Mittersain**, CEO of **Nazara Technologies**, stated that this funding will enable the company to build globally scalable AI-enabled gaming businesses and further strengthen its leadership in the sector.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 46605,
-      "title": "NDA, Opposition spar in LS over efforts to free country of Maoism - The Hindu",
-      "url": "https://www.thehindu.com/news/national/nda-opposition-spar-in-ls-over-efforts-to-free-country-of-maoism/article70802599.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/baxlxd/article70802700.ece/alternates/LANDSCAPE_1200/PTI10_26_2025_000342B.jpg",
-      "scraped_at": "2026-03-30 11:37:19.393350",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**BJP** and **NDA** members in the Lok Sabha criticized the previous **UPA** government for its handling of Maoism, accusing it of failing to contain the threat.  They highlighted significant reductions in the \"red corridor\" under the current administration and emphasized the success of policies like Operation Green Hunt and the creation of CoBRA. The Congress countered by pointing to efforts made during their tenure, including the establishment of the Commando Battalion for Resolute Action (CoBRA) and emphasizing a balanced approach that prioritized both security and welfare.  The debate highlighted contrasting approaches to combating Maoism between the two governments.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "Shiv Sena",
-        "TDP",
-        "NDA",
-        "UPA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Sonia Gandhi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Chhattisgarh",
-        "Jharkhand",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Odisha",
-        "Telangana",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "crime_violence",
-        "protest_opposition"
       ]
     }
   ]

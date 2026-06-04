@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.486215",
+  "generated_at": "2026-06-04 10:53:14.040293",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 228,
-    "articles_last_30d": 124
+    "total_articles": 230,
+    "articles_last_30d": 126
   },
   "top_cities_30d": {
-    "Delhi": 45,
-    "Bengaluru": 17,
+    "Delhi": 46,
+    "Bengaluru": 19,
     "Ahmedabad": 16,
     "Mumbai": 13,
     "Jaipur": 11,
@@ -24,18 +24,110 @@
     "Ludhiana": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 97,
-    "education": 26,
+    "foreign_policy": 98,
+    "education": 28,
     "crime_violence": 24,
-    "infrastructure": 19,
+    "infrastructure": 20,
     "economy": 18,
     "protest_opposition": 17,
     "corruption_scam": 12,
     "health": 12,
     "farmer_agriculture": 11,
-    "political_gaffe": 5
+    "political_gaffe": 6
   },
   "recent_articles": [
+    {
+      "id": 65087,
+      "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
+      "url": "https://www.ndtv.com/india-news/congress-rahul-gandhi-priyanka-gandhi-congress-plans-major-reshuffle-will-priyanka-gandhi-get-new-responsibility-11587621#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/faaocqj_-priyanka-gandhi_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:38.093147",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Hariprasad** has been named the state Congress president.  The Congress is planning a major reshuffle across over six states, with a focus on poll-bound regions like Uttar Pradesh, Uttarakhand, Punjab, Goa, Manipur, Gujarat, and Himachal Pradesh. The party is considering replacing in-charges and state presidents to attract voters and balance caste dynamics. This reshuffle is expected to be the last major one under **Mallikarjun Kharge**'s leadership as Congress president.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65064,
+      "title": "Exclusive With DK Shivakumar's Daughter, Brother After Big Karnataka Oath",
+      "url": "https://www.ndtv.com/india-news/exclusive-with-dk-shivakumars-daughter-brother-after-big-karnataka-oath-11588028#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/3icidbrg_dks-family_625x300_04_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:15:53.481268",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DK Shivakumar",
+      "rephrased_article": "**DK Shivakumar**, the newly sworn-in Chief Minister of Karnataka, faces high expectations from his family and the public. **Rahul Gandhi** urged focus on upcoming elections in 2028 and 2029, while Shivakumar's daughter Aisshwarya DKS Hegde emphasized a commitment to returning to power in future elections.  Shivakumar has already initiated plans for Bengaluru infrastructure improvements, building regularization, and free student bus rides.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Bhupesh Baghel",
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Karnataka",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "education",
+        "infrastructure"
+      ]
+    },
     {
       "id": 65026,
       "title": "DK Shivakumar Comes With Mastery Of Delhi Networks And Karnataka Grassroots",
@@ -81,8 +173,7 @@
       "rephrased_article": "The **Union Cabinet**, led by Prime Minister Narendra Modi, approved a two-year scheme to reduce air pollution in the Delhi-NCR region with a total financial outlay of Rs 9,585 crore. The scheme aims to incentivize truck and bus owners to switch to BS-VI or electric vehicles, while also offering tax concessions for new and used vehicles. **The National Capital Region Planning Board (NCRPB)** will implement this initiative in collaboration with participating states and Union Territories of Delhi, Haryana, Rajasthan, and Uttar Pradesh.  The scheme is expected to benefit approximately 2.07 lakh vehicle owners by providing financial support, fuel vouchers, and tax benefits for switching to cleaner transportation options.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Haryana",
@@ -5847,70 +5938,6 @@
       "topic_tags": [
         "crime_violence",
         "education"
-      ]
-    },
-    {
-      "id": 46514,
-      "title": "Despite assurance from Centre, MGNREGS workers denied work - The Hindu",
-      "url": "https://www.thehindu.com/news/national/mgnrega-workers-denied-work-despite-centres-assurance-of-continuity/article70799564.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/cze857/article70799916.ece/alternates/LANDSCAPE_1200/TH29-Sobhana-EcG3QFGOBHA.3.jpg.jpg",
-      "scraped_at": "2026-03-29 21:41:24.382795",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**MGNREGS** workers across several districts in Bihar and Rajasthan are protesting the lack of work under the scheme despite assurances from the **Union government**.  Workers claim they have not received any work for months, even before the new rural employment law was introduced.  The **Centre** is currently holding talks with States to establish the necessary framework for the new scheme, but workers say they are being told to wait for further instructions. This lack of clarity has led to protests and uncertainty about future work assignments under MGNREGA.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Rajasthan",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 46444,
-      "title": "What is the Maharashtra Freedom of Religion Bill? | Explained - The Hindu",
-      "url": "https://www.thehindu.com/news/national/what-is-the-maharashtra-freedom-of-religion-bill-explained/article70799325.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jsdqt3/article70800505.ece/alternates/LANDSCAPE_1200/PTI03_11_2026_000328B.jpg",
-      "scraped_at": "2026-03-29 17:41:30.097724",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Maharashtra Government",
-      "rephrased_article": "The **Maharashtra** government passed the Maharashtra Freedom of Religion Bill, 2026, which aims to prohibit unlawful religious conversions. The bill mandates a 60-day notice period for conversion and requires police registration of complaints related to forced conversions.  Civil society organizations have expressed concerns about the bill's potential impact on personal liberty and its constitutionality.  The bill has been supported by **Chief Minister Devendra Fadnavis**, who stated that it is necessary to address increasing cases of forcible religious conversions. The bill has also been criticized for potentially targeting minority communities and raising administrative concerns regarding the lack of a certification system for religions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Arunachal Pradesh",
-        "Chhattisgarh",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Odisha",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "Uttarakhand"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
       ]
     }
   ]

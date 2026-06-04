@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.418412",
+  "generated_at": "2026-06-04 10:53:13.985048",
   "state": "Haryana",
   "capital": "Chandigarh",
   "ruling_party": "BJP",
@@ -8,34 +8,149 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 158,
-    "articles_last_30d": 74
+    "total_articles": 161,
+    "articles_last_30d": 77
   },
   "top_cities_30d": {
-    "Delhi": 42,
+    "Delhi": 44,
     "Ludhiana": 6,
+    "Bengaluru": 4,
     "Amritsar": 4,
+    "Hyderabad": 4,
     "Coimbatore": 4,
-    "Bengaluru": 3,
     "Pune": 3,
     "Faridabad": 3,
     "Mumbai": 3,
-    "Hyderabad": 3,
     "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 57,
-    "education": 30,
+    "foreign_policy": 60,
+    "education": 31,
     "economy": 17,
-    "crime_violence": 16,
+    "crime_violence": 17,
     "protest_opposition": 14,
-    "infrastructure": 12,
+    "infrastructure": 13,
     "farmer_agriculture": 10,
     "rape_sexual_crime": 5,
     "corruption_scam": 5,
     "health": 5
   },
   "recent_articles": [
+    {
+      "id": 65208,
+      "title": "Haryana's New EV Rule: Will Your Cab, E-Commerce Deliveries Cost More Now?",
+      "url": "https://www.ndtv.com/business-news/haryanas-new-ev-rule-will-your-cab-ola-uber-e-commerce-deliveries-cost-more-now-11588568#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/sopcpqfg_ev-cabs_625x300_04_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 09:14:40.553568",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "Haryana Government",
+      "rephrased_article": "The **Haryana** government has implemented a new policy that prohibits the addition of new petrol and diesel vehicles to commercial fleets in its NCR districts.  New vehicles joining these fleets must run on cleaner fuels such as electricity, CNG, battery power, or low-emission alternatives. While this transition may initially increase cab fares due to higher upfront costs for operators, long-term benefits include lower operating expenses, improved vehicle maintenance, and potentially more reliable service. The policy aims to reduce urban emissions, improve air quality, and contribute to cleaner transportation across India.  Industry leaders believe that a mature charging ecosystem, robust infrastructure, and collaboration between stakeholders will be crucial for the successful implementation of this transition.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65087,
+      "title": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle",
+      "url": "https://www.ndtv.com/india-news/congress-rahul-gandhi-priyanka-gandhi-congress-plans-major-reshuffle-will-priyanka-gandhi-get-new-responsibility-11587621#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/faaocqj_-priyanka-gandhi_625x300_15_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-03 22:16:38.093147",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Hariprasad** has been named the state Congress president.  The Congress is planning a major reshuffle across over six states, with a focus on poll-bound regions like Uttar Pradesh, Uttarakhand, Punjab, Goa, Manipur, Gujarat, and Himachal Pradesh. The party is considering replacing in-charges and state presidents to attract voters and balance caste dynamics. This reshuffle is expected to be the last major one under **Mallikarjun Kharge**'s leadership as Congress president.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Samajwadi Party",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65062,
+      "title": "Pseudo-police gang that kidnapped businessman and extorted ₹5.26 lakh busted in Cyberabad - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/pseudo-police-gang-that-kidnapped-businessman-and-extorted-526-lakh-busted-in-cyberabad/article71057914.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/akvel0/article71057911.ece/alternates/LANDSCAPE_1200/pseduo%20police%20case%202%20.jpeg",
+      "scraped_at": "2026-06-03 22:15:49.513994",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "pseudo-police gang",
+      "rephrased_article": "**Cyberabad police** arrested five members of a pseudo-police gang who allegedly kidnapped a businessman, impersonated police officers, and extorted over ₹5 lakh from him. The suspects, identified as Nagaraju Raghu Varma, Yeswanth Singh alias Rahul, Sathyabhan Singh alias Thakur, Thangellapalli Nagendra Varma, and two others still at large, were apprehended following an investigation into the incident reported by a 42-year-old businessman in Kukatpally. The gang used fake police uniforms, forged identity cards, and other tactics to deceive their victims before withdrawing money from his bank accounts and assaulting him.  Police are continuing to investigate and identify additional victims.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Haryana",
+        "Jharkhand",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65020,
       "title": "Cabinet Okays Rs 9,585 Crore Scheme To Replace Old Trucks, Buses In Delhi-NCR",
@@ -49,8 +164,7 @@
       "rephrased_article": "The **Union Cabinet**, led by Prime Minister Narendra Modi, approved a two-year scheme to reduce air pollution in the Delhi-NCR region with a total financial outlay of Rs 9,585 crore. The scheme aims to incentivize truck and bus owners to switch to BS-VI or electric vehicles, while also offering tax concessions for new and used vehicles. **The National Capital Region Planning Board (NCRPB)** will implement this initiative in collaboration with participating states and Union Territories of Delhi, Haryana, Rajasthan, and Uttar Pradesh.  The scheme is expected to benefit approximately 2.07 lakh vehicle owners by providing financial support, fuel vouchers, and tax benefits for switching to cleaner transportation options.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Haryana",

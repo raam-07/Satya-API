@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03 23:17:22.665655",
+  "generated_at": "2026-06-04 10:53:14.190666",
   "name": "C. Joseph Vijay",
   "role": "Chief Minister of Tamil Nadu",
   "ministry": "",
@@ -20,12 +20,12 @@
   "wikipedia": "",
   "affidavit_url": "",
   "stats": {
-    "total_articles": 152,
-    "articles_last_30d": 101,
+    "total_articles": 154,
+    "articles_last_30d": 97,
     "sentiment_breakdown_30d": {
-      "negative": 21,
-      "neutral": 49,
-      "positive": 31
+      "negative": 23,
+      "neutral": 48,
+      "positive": 26
     }
   },
   "promises": [
@@ -84,6 +84,14 @@
       "made_on": "",
       "evidence_count": 0,
       "evidence_articles": []
+    },
+    {
+      "id": "promise_1780534305_1",
+      "promise": "Promised swift action against drug abuse.",
+      "status": "ongoing",
+      "made_on": "",
+      "evidence_count": 0,
+      "evidence_articles": []
     }
   ],
   "recent_articles": [
@@ -110,6 +118,54 @@
         "corruption_scam",
         "foreign_policy",
         "economy"
+      ]
+    },
+    {
+      "id": 65059,
+      "title": "If Maharashtra can waive farm loans fully, why can’t Tamil Nadu?, asks Anbumani - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-loyalist-says-expelled-leader-ritabrata-banerjee-cannot-be-chosen-as-lop/article71057837.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-03 22:15:43.950321",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "**Anbumani**, **PMK president**, criticized the Tamil Nadu government's farm loan waiver program, arguing that it is significantly less generous than the Maharashtra government's program.  He highlighted the difference in loan amounts waived and the eligibility criteria for farmers in both states. **Dr. Anbumani** also pointed out the disparity in the timeframes over which loans are eligible for waiver and the extent of relief provided to farmers with different land holdings.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 65055,
+      "title": "If Maharashtra can waive farm loans fully, why can’t Tamil Nadu?, asks Anbumani - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/if-maharashtra-can-waive-farm-loans-fully-why-cant-tamil-nadu-asks-anbumani/article71057935.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-03 22:15:28.999175",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**Anbumani**, **PMK** president, criticized **Tamil Nadu's** Chief Minister C. Joseph Vijay for a limited farm loan waiver program compared to the Maharashtra government's larger scheme. **Vijay** announced a ₹2,044 crore waiver, while Maharashtra waived loans totaling ₹36,585 crore for 5.572 million farmers. **Anbumani** highlighted the significant difference in waiver amounts and eligibility criteria between the two states, arguing that the Maharashtra program is more comprehensive and beneficial to farmers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "farmer_agriculture"
       ]
     },
     {
