@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 11:41:52.577432",
+  "generated_at": "2026-06-05 18:29:19.799091",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,34 +8,253 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1140,
-    "articles_last_30d": 479
+    "total_articles": 1148,
+    "articles_last_30d": 485
   },
   "top_cities_30d": {
-    "Delhi": 126,
-    "Bengaluru": 70,
+    "Delhi": 128,
     "Ahmedabad": 70,
-    "Mumbai": 38,
-    "Chennai": 26,
-    "Hyderabad": 25,
-    "Kolkata": 24,
-    "Surat": 16,
+    "Bengaluru": 69,
+    "Mumbai": 40,
+    "Chennai": 27,
+    "Hyderabad": 26,
+    "Kolkata": 25,
+    "Surat": 17,
     "Jaipur": 10,
     "Vadodara": 10
   },
   "top_topics_30d": {
-    "foreign_policy": 360,
-    "economy": 116,
-    "education": 91,
+    "foreign_policy": 366,
+    "economy": 123,
+    "education": 92,
     "crime_violence": 91,
-    "infrastructure": 85,
-    "protest_opposition": 72,
-    "corruption_scam": 34,
-    "farmer_agriculture": 30,
+    "infrastructure": 84,
+    "protest_opposition": 71,
+    "corruption_scam": 36,
+    "farmer_agriculture": 29,
     "health": 23,
     "rape_sexual_crime": 23
   },
   "recent_articles": [
+    {
+      "id": 65748,
+      "title": "Unicorn in the USA: Indians aren't stealing American jobs; they are building entire HR departments - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/compared-to-hitler-youtuber-couple-faces-backlash-for-terminating-pregnancy-after-learning-unborn-child-had-down-syndrome/articleshow/131533963.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131535155,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-05 15:40:09.182718",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian immigrants",
+      "rephrased_article": "A new report by the **National Foundation for American Policy (NFAP)** highlights the significant contributions of immigrants to the US startup ecosystem. The study reveals that immigrants have founded or co-founded 455 out of America's 775 unicorns, accounting for 59% of all billion-dollar startups. Notably, people of Indian origin lead the unicorn league table with 96 billion-dollar companies, surpassing other immigrant groups like Israel and China. The report challenges xenophobic narratives against immigrants by showcasing their entrepreneurial success and economic impact on the US economy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "economy"
+      ]
+    },
+    {
+      "id": 65745,
+      "title": "Data Centre Specialist AirTrunk To Invest Rs 3 Lakh Crore In India: PM Modi",
+      "url": "https://www.ndtv.com/india-news/data-centre-specialist-airtrunk-to-invest-rs-3-lakh-crore-in-india-pm-modi-11596204#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/99j1e14s_pm-narendra-modi_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 15:39:58.152024",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** announced that **AirTrunk**, a hyperscale data centre specialist, plans to invest over Rs 3 lakh crore (USD 30 billion) in India by 2030. This investment will support the development of 5 GW of data centre capacity and strengthen India's position as a global hub for cloud computing and AI. **AirTrunk** CEO Robin Khuda expressed excitement about supporting **Modi's** vision for India's digital economy, which has attracted significant foreign investment, including backing from **Blackstone** and the **Canada Pension Plan Investment Board**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Mumbai",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65744,
+      "title": "India Sweden Ties 'In India, We Almost Find A Global Market': Swedish Ambassador Jan Thesleff To NDTV",
+      "url": "https://www.ndtv.com/india-news/india-sweden-ties-in-india-we-almost-find-a-global-market-swedish-ambassador-jan-thesleff-to-ndtv-11596251#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/h6qo72l4_jan-thesleff_625x300_05_June_26.jpeg",
+      "scraped_at": "2026-06-05 15:39:50.415489",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India-Sweden relations",
+      "rephrased_article": "**Prime Minister Narendra Modi's** visit to Sweden has significantly upgraded India-Sweden relations, elevating their partnership to a full-fledged strategic collaboration. The visit was marked by the signing of a joint action plan from 2026 to 2030, which includes doubling bilateral trade, investments, and the number of Swedish companies in India.  **Ambassador Jan Thesleff**, who is set to conclude his posting in India by mid-August, highlighted the complementarity between India and Sweden, emphasizing their shared interests in technology, AI, and global markets. **Thesleff** also emphasized the importance of trust as a key element in fostering international cooperation, particularly in light of the ongoing geopolitical uncertainties.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bangalore",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65741,
+      "title": "Satellite Data Shows Iran War-Led Slowdown In India's Major Industrial Hubs",
+      "url": "https://www.ndtv.com/india-news/satellite-data-shows-iran-war-led-slowdown-in-indias-major-industrial-hubs-11596532#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/soc37fio_datafy_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 15:39:37.411060",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian industrial hubs",
+      "rephrased_article": "**Indian** industrial clusters, particularly in Gujarat, Maharashtra, and Uttar Pradesh, experienced reduced nitrogen dioxide emissions due to disruptions caused by the Middle East war.  Satellite data analysis by **NDTV Datafy**, using data from the European Space Agency's Sentinel-5P, revealed lower NO2 levels during March-May 2026 compared to the same period in 2025. This decline is attributed to reduced production capacity due to fuel and export challenges, as well as higher input costs for raw materials and fuel.  **Jitendra P Vakharia**, president of the South Gujarat Textile Processors Association, reported that many textile manufacturers had reduced production due to these factors, while **KJ Kundariya**, former president of Morbi Ceramic Association, noted similar issues in the ceramic industry.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Surat",
+        "Kanpur",
+        "Rajkot"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65720,
+      "title": "Unicorn in the USA: Indians aren't stealing American jobs; they are building entire HR departments - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/unicorn-in-the-usa-indians-arent-stealing-american-jobs-they-are-building-entire-hr-departments/articleshow/131535094.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131535155,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-05 15:38:47.801576",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian-origin individuals",
+      "rephrased_article": "A new policy brief by the **National Foundation for American Policy (NFAP)** highlights the significant contributions of immigrants to the US economy, particularly in the booming tech sector. The report states that immigrants have founded or co-founded 455 out of America's 775 unicorns, representing 59% of all billion-dollar startups.  This success is attributed to immigrant founders and their teams, with Indian-origin individuals leading the charge, contributing significantly to the nation's economic growth. Notably, the report challenges the narrative of immigrants stealing jobs, showcasing the positive impact of immigrant entrepreneurship on both the US economy and individual wealth.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "economy"
+      ]
+    },
+    {
+      "id": 65716,
+      "title": "Titan Company shares gain 2%. Why JPMorgan, others see up to 28% upside after analyst call? - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-shares-gain-2-why-jpmorgan-others-see-up-to-28-upside-after-analyst-call/articleshow/131525736.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131525732,width-1200,height-630,imgsize-18544,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-05 12:17:05.277374",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Titan Company",
+      "rephrased_article": "**Titan Company**, a **Tata Group** company, outlined ambitious growth targets for the next five years, aiming to double both its consolidated revenue and EBIT.  Analysts from **JPMorgan**, **Motilal Oswal**, and **JM Financial** have all issued positive ratings on Titan shares, citing factors such as structural growth drivers in the jewellery market, strong brand recognition, and diversification into non-jewellery businesses. Despite near-term challenges posed by rising gold prices and regulatory changes, analysts believe Titan remains well positioned for long-term success.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65690,
+      "title": "PM Modi's 12-year Tenure \"Phenomenal Victory\": Pawan Kalyan To NDTV",
+      "url": "https://www.ndtv.com/india-news/pm-modis-12-year-tenure-phenomenal-victory-pawan-kalyan-to-ndtv-11595033#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/q5d35qn8_pawan-kalyan_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 12:14:53.135834",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Pawan Kalyan**, the Jana Sena Party chief, expressed admiration for **Narendra Modi**, citing his Gujarat Chief Minister tenure as a turning point.  Kalyan recalled being impressed by a speech delivered by Modi near the India-Pakistan border and believes that Modi possesses the qualities needed to lead the country. He praised PM Modi's leadership, particularly his decisions like Article 370 repeal and efforts to strengthen border security. **Kalyan** affirmed his unwavering support for **Modi**, stating he would stand by him \"through thick and thin.\"",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Delhi",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65683,
+      "title": "India, Norway Seal Green Partnership, Maritime Deals in PM Narendra Modi's Oslo Visit",
+      "url": "https://www.ndtv.com/world-news/india-norway-seal-green-partnership-maritime-deals-in-pm-narendra-modis-oslo-visit-11595748#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/btejat2g_oslo_625x300_18_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 12:14:22.794582",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi's** first visit to Norway, marking a significant turning point in bilateral relations, resulted in a landmark Green Strategic Partnership and over 30 signed agreements. **May-Elin Stener**, the Norwegian Ambassador to India, highlighted the success of the visit, emphasizing concrete outcomes that will define the partnership for years to come.  The agreement includes collaborations on clean energy, maritime cooperation, and technology, with Norway sharing its expertise in carbon capture and storage (CCS) with India. Trade also saw a boost with the implementation of the Trade and Economic Partnership Agreement between India and the EFTA bloc, including Norway. The visit also strengthened ties in the maritime sector, with increased collaboration on shipbuilding and green technologies.  The Ambassador emphasized that the summit was central to the relationship, highlighting shared commitments to a rules-based international order among democracies.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65621,
       "title": "Former Tamil Nadu BJP chief Annamalai resignation Live Updates, K Annamalai Resigns From BJP, Says Will Contest Elections, PM Modi, Tamil nadu politics",
@@ -5235,217 +5454,6 @@
       "topic_tags": [
         "foreign_policy"
       ]
-    },
-    {
-      "id": 63714,
-      "title": "Nepal PM calls for dialogue with India to resolve border issues, seeks UK's involvement in talks - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-pm-calls-for-dialogue-with-india-to-resolve-border-issues-seeks-uks-involvement-in-talks/articleshow/131422526.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131422585,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-31 13:55:59.560020",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Nepal Government",
-      "rephrased_article": "**Nepal's** Prime Minister Balendra Shah called for dialogue and diplomatic efforts to resolve border disputes with **India**, proposing the involvement of the **United Kingdom**.  Shah cited Britain's role in shaping the region's modern borders during colonial times, arguing that the UK should be concerned about the unresolved issues. He stated that Nepal has exchanged diplomatic notes with **India** and agreed on a roadmap involving experts to examine historical records related to disputed territories.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63713,
-      "title": "Mango cultivation a very special part of India's farm economy: PM | Today News",
-      "url": "https://www.livemint.com/news/mango-cultivation-exports-heat-weather-chola-agriculture-pm-mann-ki-baat-11780216698933.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/pexels-photo-37701462_1780047881202_1780047900846_8486847a-9361-4bd5-bd23-f351b5f1eafd_1780229223695_c9f85375-e29a-4ffe-9385-3286939a644f.jpeg",
-      "scraped_at": "2026-05-31 13:55:58.454722",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** highlighted the importance of **mango** cultivation to India's agricultural economy during his monthly radio address, 'Mann Ki Baat'. He emphasized the country's diverse mango varieties and its growing export market.  The **Agricultural and Processed Food Product Export Development Authority (Apeda)** reported that India exported nearly 29,938.40 tonnes of mangoes worth $56.50 million in FY25 to destinations like the UAE, US, Kuwait, and Qatar. The prime minister also addressed the ongoing heatwave across northern India, urging citizens to stay hydrated and exercise caution.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Maharashtra",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Varanasi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 63688,
-      "title": "Nepal PM Balendra Shah says border issue with India will be resolved through ‘dialogue and diplomacy’ | Today News",
-      "url": "https://www.livemint.com/news/world/nepal-pm-balendra-shah-says-border-issue-with-india-will-be-resolved-through-dialogue-and-diplomacy-11780226681476.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/NEPAL-PANEL-PROPERTY-0_1780229266835_1780229278612_63d6e2c5-7b7c-4ebe-a9a9-055bde7e0909.JPG",
-      "scraped_at": "2026-05-31 13:54:36.272465",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Nepal Government",
-      "rephrased_article": "**Nepal Prime Minister Balendra Shah** addressed the ongoing border dispute with **India**, stating that both countries will resolve the issue through diplomatic engagement and by involving experts. **Shah** acknowledged allegations of Nepal encroaching on Indian territories, but also stated that Nepal has done the same to India. Former Nepalese ambassadors Nilambara Acharya and Deep Kumar Upadhyay disputed **Shah's** claim, emphasizing that there is no evidence of Nepal encroaching on Indian territory.  The **Indian Ministry of External Affairs** reiterated its stance, stating that claims of territorial encroachment are unfounded and based on unilateral artificial enlargement of territorial claims.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Uttarakhand"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63678,
-      "title": "GT vs RCB | IPL 2026 final should have been pushed to reserve day to be fair to Gujarat Titans: Sunil Gavaskar - India Today",
-      "url": "https://www.indiatoday.in/sports/badminton/story/singapore-open-2026-satwik-chirag-win-title-first-indian-duo-2919914-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/shubman-gill-311014653-16x9_0.jpg?VersionId=VHbj_xfoZo9Ab.2hfQ0rnrDQZu6HiScD",
-      "scraped_at": "2026-05-31 13:54:16.571836",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "BCCI",
-      "rephrased_article": "**Sunil Gavaskar** argued that the **IPL 2026 final** should have been postponed to Monday, June 1st due to a travel delay that stranded the **Gujarat Titans**.  He stated that the disruption left the team mentally and physically drained, making it unfair for them to play against the **Royal Challengers Bangalore**. The Indian legend believes the BCCI should have utilized the reserve day to ensure fairness.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63677,
-      "title": "Latest Odisha Breaking News Updates | Sunday, 31 May 2026 | OdishaBytes",
-      "url": "https://odishabytes.com/latest-odisha-breaking-news-updates-sunday-31-may-2026/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2025/01/Modern-Breaking-News-Facebook-Post-500-x-500-px.webp",
-      "scraped_at": "2026-05-31 13:54:14.649657",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**The India Meteorological Department (IMD)** has issued a red warning for five districts of **Odisha** due to heavy rain and hailstorms.  **Prime Minister Narendra Modi** spoke with record-breaking sprinters Gurindervir Singh and Animesh Kujur, praising their \"jugalbandi.\"  The Directorate of Vigilance and Anti-Corruption (DVAC) in Assam has arrested a key suspect in the Assam fisheries scam.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Odisha",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 63676,
-      "title": "Earth running out of Patience",
-      "url": "https://www.greaterkashmir.com/opinion/earth-running-out-of-patience-11891645",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/earthquake_ai-2026-05-31-05-29-01.jpg",
-      "scraped_at": "2026-05-31 13:54:13.489202",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "climate change",
-      "rephrased_article": "The Earth is experiencing increasingly severe climate impacts, including extreme heatwaves, unpredictable rainfall, and rising sea levels.  **Simon Stiell**, **United Nations** climate chief, has warned that worsening climate change driven by fossil fuel burning is causing India's extreme heat conditions. A study published in PLOS Climate and reported by Down To Earth predicts even more dangerous heatwaves, irregular monsoons, stronger cyclones, and multiple climate disasters for India.  These impacts are already being felt across the country, including floods, water shortages, melting glaciers, and rising sea levels threatening coastal cities. The world needs to take immediate action with stricter environmental laws, a faster transition to clean energy, and collective responsibility towards nature.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 63669,
-      "title": "Ramachandra Guha Says Gandhi Family Actions Helped Modi Consolidate Power | OdishaBytes",
-      "url": "https://odishabytes.com/ramachandra-guha-says-gandhi-family-actions-helped-modi-consolidate-power/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Gandhis.webp",
-      "scraped_at": "2026-05-31 13:54:00.671988",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Gandhi family",
-      "rephrased_article": "**Ramachandra Guha**, a historian, argues that the **Gandhi family** and **Congress** insiders have indirectly aided Prime Minister **Narendra Modi**'s power consolidation after the 2024 general election.  Guha criticizes Rahul Gandhi's Bharat Jodo Yatra for enhancing his credibility but frittering it away by reasserting the Congress as a family firm. He also points to the party's declining footprint in state assemblies and suggests that Rahul remains an instrument of his mother's will, hindering a successful pushback against the BJP. Guha warns against elevating **Priyanka Gandhi** as an alternative, calling her a \"entitled dynast,\" and criticizes dynastic promotions within the Congress, arguing they have been detrimental to the party's electoral prospects. He acknowledges the BJP's dominance under Modi but suggests that the Gandhis have aided his consolidation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi",
-        "Priyanka Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63663,
-      "title": "Mann Ki Baat: PM Modi Chats With Record-Breaking Sprinters Gurindervir & Odisha’s Animesh Kujur, Hails Their ‘Jugalbandi’ | OdishaBytes",
-      "url": "https://odishabytes.com/mann-ki-baat-pm-modi-chats-with-record-breaking-sprinters-gurindervir-odishas-animesh-kujur-hails-their-jugalbandi/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Modi-speaks-to-Kujur-Gurindervir.webp",
-      "scraped_at": "2026-05-31 13:53:54.661279",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** spoke with **Animesh Kujur** and **Gurindervir Singh**, India's sprint kings, during the 134th episode of his radio program \"Mann Ki Baat.\"  Modi praised their record-breaking performances at the Federation Cup meet in Ranchi, where **Animesh** initially held the 100m record but was later surpassed by **Gurindervir**, who became the first Indian to run under 10.10 seconds.  The athletes shared how their friendship and determination fueled their success, with **Animesh** emphasizing that they both wanted to inspire others in Indian sprinting.  Modi expressed confidence in their future achievements.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Odisha",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Ranchi"
-      ],
-      "topic_tags": []
     }
   ]
 }

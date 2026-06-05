@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-05 11:41:52.611608",
+  "generated_at": "2026-06-05 18:29:19.831973",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
-  "ruling_party": "CPM",
-  "cm": "Pinarayi Vijayan",
+  "ruling_party": "INC",
+  "cm": "V.D. Satheesan",
   "region": "South",
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1151,
+    "total_articles": 1153,
     "articles_last_30d": 360
   },
   "top_cities_30d": {
     "Delhi": 65,
-    "Bengaluru": 29,
+    "Bengaluru": 28,
     "Hyderabad": 17,
     "Chennai": 16,
-    "Kolkata": 15,
+    "Kolkata": 16,
     "Mumbai": 14,
     "Ahmedabad": 5,
     "Pune": 4,
@@ -24,18 +24,75 @@
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 239,
+    "foreign_policy": 237,
     "protest_opposition": 98,
     "education": 88,
-    "crime_violence": 68,
-    "economy": 56,
-    "infrastructure": 38,
+    "crime_violence": 69,
+    "economy": 57,
+    "infrastructure": 37,
     "corruption_scam": 33,
     "health": 32,
-    "farmer_agriculture": 21,
+    "farmer_agriculture": 20,
     "political_gaffe": 20
   },
   "recent_articles": [
+    {
+      "id": 65725,
+      "title": "Only 8 MLAs, 6 MPs At Mamata Banerjee's Home For Key Meet. Party Clarifies",
+      "url": "https://www.ndtv.com/india-news/will-trinamool-congress-mlas-fall-in-line-meeting-at-mamata-banerjees-house-today-11596062#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/6nplkae4_mamata-abhishek_625x300_28_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 15:38:52.399644",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "Only eight **Trinamool Congress** MLAs attended a National Working Committee meeting at former West Bengal chief minister Mamata Banerjee's Kalighat house in Kolkata, following a rebellion within the party.  The party clarified that not all MPs and MLAs were invited, with only four Lok Sabha MPs and two Rajya Sabha MPs present. **Abhishek Banerjee**, Mamata Banerjee's nephew, was among those who attended. Rebel MLA **Ritabrata Banerjee** stated that more MLAs will join the rebellion, increasing the number of supporters beyond 2/3rd of the party.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65671,
+      "title": "India Reports GDP Growth Of 7.8% In Q4 On Services Sector Output Boost",
+      "url": "https://www.ndtv.com/india-news/india-reports-gdp-growth-of-7-8-in-q4-on-services-sector-output-boost-11595772#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2023-01/3eqameno_economy-generic_625x300_31_January_23.jpg",
+      "scraped_at": "2026-06-05 12:13:57.368048",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's** real GDP grew 7.8% year-on-year in the fourth quarter of fiscal 2026, exceeding market expectations and contributing to full-year growth of 7.7%. The secondary and tertiary sectors drove this growth, with the secondary sector expanding 8.8% and the tertiary sector growing 9.3%.  **The BJP** praised these figures, calling them a testament to India's economic strength while **Rahul Gandhi**, a Congress leader, warned of an \"economic tsunami.\"",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
     {
       "id": 65627,
       "title": "Maharashtra Sex Ratio At Birth Raises Alarm Over Urban-Rural Divide",
@@ -5497,56 +5554,6 @@
       ],
       "topic_tags": [
         "education"
-      ]
-    },
-    {
-      "id": 62646,
-      "title": "Vizhinjam seaport in Kerala becomes fastest Indian port to handle 2 million TEUs cargo in 18 months - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/vizhinjam-seaport-in-kerala-becomes-fastest-indian-port-to-handle-2-million-teus-cargo-in-18-months/article71040491.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/kerala/njuuif/article71040496.ece/alternates/LANDSCAPE_1200/PHOTO-2026-05-28-18-23-21.jpg",
-      "scraped_at": "2026-05-30 06:52:44.533450",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Vizhinjam International Seaport",
-      "rephrased_article": "**Vizhinjam International Seaport** in Kerala has achieved a significant milestone by handling 20 lakh TEUs of cargo in just 18 months, nearly twice its annual capacity. The port, developed and operated by **Adani Ports and Special Economic Zone Ltd.** (APSEZ) for the Kerala government, is now the first Indian port to achieve this feat.  The port's strategic location along the Indian Ocean corridor and deep draft capabilities make it a competitive transshipment destination in the region, attracting large container vessels like MSC Irina and MSC Verona. **Vizhinjam** is also expected to handle more cargo with its second phase expansion, which will be completed by 2028.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62612,
-      "title": "Government defends Farmer Discom proposal - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/government-defends-farmerdiscomproposal/article71038738.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-29 23:58:08.733089",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Government",
-      "rephrased_article": "**Telangana Rural Power Distribution Company Limited (TGRPDCL)** Chairman and Managing Director Musharraf Ali Faruqui stated that no metering would be introduced for agricultural consumers under the proposed Farmer Discom model. **The TGRPDCL** argued that existing discoms in Telangana are financially stressed, with accumulated losses reaching ₹69,741 crore by FY 2025, and operational inefficiencies contribute to high AT&C losses of 19.84% in FY 2025. The proposed model aims to improve electricity distribution and reliability for farmers while focusing on improving service quality and reducing technical and commercial losses.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Karnataka",
-        "Kerala",
-        "Tamil Nadu",
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "farmer_agriculture",
-        "economy"
       ]
     }
   ]

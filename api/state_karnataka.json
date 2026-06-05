@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 11:41:52.603330",
+  "generated_at": "2026-06-05 18:29:19.823880",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 782,
-    "articles_last_30d": 295
+    "total_articles": 783,
+    "articles_last_30d": 293
   },
   "top_cities_30d": {
     "Bengaluru": 100,
     "Delhi": 57,
-    "Bangalore": 18,
-    "Hyderabad": 11,
+    "Bangalore": 19,
+    "Hyderabad": 10,
     "Mumbai": 10,
     "Ahmedabad": 9,
     "Chennai": 8,
@@ -24,18 +24,47 @@
     "Pune": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 177,
-    "education": 64,
-    "protest_opposition": 60,
-    "infrastructure": 43,
+    "foreign_policy": 175,
+    "education": 62,
+    "protest_opposition": 58,
     "economy": 43,
+    "infrastructure": 41,
     "crime_violence": 38,
     "political_gaffe": 32,
-    "farmer_agriculture": 28,
-    "health": 25,
-    "corruption_scam": 18
+    "farmer_agriculture": 27,
+    "health": 24,
+    "corruption_scam": 19
   },
   "recent_articles": [
+    {
+      "id": 65760,
+      "title": "Unocoin Bitcoin theft case: Karnataka Police SIT names Congress MLA N A Haris’s son in chargesheet | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/unocoin-bitcoin-theft-case-karnataka-police-sit-names-congress-mla-n-a-hariss-son-in-chargesheet-10726208/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2023/07/BITCOIN-CRYPTO-CURRENCY-REUTERS-1200-1.jpeg",
+      "scraped_at": "2026-06-05 15:40:48.859926",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Mohammed Nalapad",
+      "rephrased_article": "**Mohammed Nalapad**, a youth Congress leader, and his brother **Omar Nalapad**, along with hacker **Sriki** and his accountant **Robin Khandelwal**, are named in a chargesheet filed by the **Karnataka Police** for the theft of Bitcoin worth Rs 1.14 crore from the Unocoin crypto exchange in 2017. The investigation, which began in 2023, is linked to multiple cases involving stolen cryptocurrency and money laundering.  The ED has also arrested Sriki, Khandelwal, and associate **Sunish Hegde** for allegedly laundering funds obtained through hacking various online systems between 2017 and 2020. The investigation is ongoing.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65646,
       "title": "Why Kodagu homestay worker was denied bail in US tourist assault case",
@@ -5487,29 +5516,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 61647,
-      "title": "Hyderabad advocate murder: Police questioning continues; family seeks swift arrests - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-advocate-murder-police-questioning-continues-family-seeks-swift-arrests/article71022142.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-25 15:58:03.909952",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "**Hyderabad police** are investigating the death of advocate Khaja Moizuddin, who was allegedly struck by an SUV near Masab Tank.  They have questioned about 10 individuals as part of the investigation, but have not disclosed details regarding the vehicle or the custody status of the accused. The victim's son, Farhan, expressed confidence in the police and judiciary while also alleging preferential treatment for the accused and a political angle to the case. **Police** have yet to respond to these allegations.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "crime_violence"
       ]
     }
   ]

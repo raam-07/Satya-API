@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 11:41:52.378283",
+  "generated_at": "2026-06-05 18:29:19.683092",
   "party": "AAP",
   "full_name": "Aam Aadmi Party",
   "ideology": "Anti-corruption, Populism",
@@ -10,15 +10,22 @@
   ],
   "color": "#0066FF",
   "stats": {
-    "total_articles": 132,
-    "articles_last_30d": 61,
+    "total_articles": 137,
+    "articles_last_30d": 65,
     "sentiment_breakdown_30d": {
-      "neutral": 20,
-      "negative": 31,
-      "positive": 10
+      "neutral": 21,
+      "negative": 33,
+      "positive": 11
     }
   },
   "ministers": [
+    {
+      "name": "Bhagwant Mann",
+      "role": "Chief Minister of Punjab",
+      "state": "Punjab",
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 0
+    },
     {
       "name": "Arvind Kejriwal",
       "role": "AAP National Convenor",
@@ -90,6 +97,87 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 65749,
+      "title": "Road rage turns deadly in Punjab’s Batala, one killed and two injured in gunfight | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/food-wine/fact-check-more-aluminium-foil-wrap-400-cans-soda-experts-9945492/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/police-file-photo-express.jpg",
+      "scraped_at": "2026-06-05 15:40:13.887633",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "**Kamaldeep Singh Brar**, a Principal Correspondent for **The Indian Express**, primarily covers the Amritsar and Majha regions of Punjab. His work focuses on religious and political issues, including the Akal Takht, the Shiromani Gurdwara Parbandhak Committee (SGPC), and border security concerns.  Recent articles have covered judicial developments, local elections, and religious controversies, as well as crime and national security matters. Brar's reporting often highlights the impact of drug addiction on marginalized communities in Punjab.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65738,
+      "title": "97% Of Women In Punjab To Get Financial Aid From July 1: Bhagwant Mann",
+      "url": "https://www.ndtv.com/india-news/women-in-punjab-to-get-rs-1-000-per-month-from-july-1-bhagwant-mann-11596603#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2023-04/cdmr63h4_bhagwant-mann-1200_625x300_23_April_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 15:39:22.414556",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Bhagwant Mann",
+      "rephrased_article": "**Bhagwant Mann**, the **Punjab Chief Minister**, announced that women registered under the Mukh Mantri Mawan Dheeyan Satkar Yojna will receive monthly financial assistance starting July 1st. The scheme provides Rs 1,000 to general category women and Rs 1,500 to those from scheduled castes.  **Mann** stated that around 97% of Punjab's women are expected to benefit from this initiative, with the government allocating Rs 9,300 crore for its implementation. The scheme aims to empower women and promote gender equity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65723,
+      "title": "Road rage turns deadly in Punjab’s Batala, one killed and two injured in gunfight | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/batala-firing-incident-gurdaspur-shooting-road-rage-10726220/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/police-file-photo-express.jpg",
+      "scraped_at": "2026-06-05 15:38:51.420499",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "**Kamaldeep Singh Brar**, a Principal Correspondent for **The Indian Express**, primarily covers Amritsar and the Majha region of Punjab. His reporting focuses on religious and political issues, including the Akal Takht, the Shiromani Gurdwara Parbandhak Committee (SGPC), and border-related security concerns.  He has been covering recent events such as judicial developments, local body elections, and religious controversies in late 2025. Brar's work often highlights the drug crisis in marginalized communities and provides a voice to those affected by addiction and neglect.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 65588,
       "title": "Punjab’s border bloodshed: Guns, grenades and a trail police can’t crack | Chandigarh News - The Indian Express",
@@ -1474,6 +1562,28 @@
       "topic_tags": [
         "foreign_policy",
         "education"
+      ]
+    },
+    {
+      "id": 60990,
+      "title": "Punjab government to remove stray dogs from high footfall public spaces following Supreme Court order - The Hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/punjab-government-to-remove-stray-dogs-from-high-footfall-public-spaces-following-supreme-court-order/article71011211.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/6vurb/article71012564.ece/alternates/LANDSCAPE_1200/20260519133L.jpg",
+      "scraped_at": "2026-05-22 22:37:38.937028",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Punjab government",
+      "rephrased_article": "**Bhagwant Mann**, Punjab Chief Minister, announced that the state government will remove stray dogs from all high footfall public spaces as per **Supreme Court** directions issued on May 19, 2026.  The move aims to ensure public safety and provide relief to citizens concerned about stray dog attacks. The government plans to create adequate shelters for stray dogs while adhering to the Prevention of Cruelty to Animals Act and ABC Rules regarding euthanasia in cases involving dangerous or rabid animals.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
       ]
     },
     {
@@ -2892,6 +3002,27 @@
       "topic_tags": [
         "corruption_scam",
         "education"
+      ]
+    },
+    {
+      "id": 50906,
+      "title": "Punjab Assembly passes Bill with strict provisions against acts of sacrilege - The Hindu",
+      "url": "https://www.thehindu.com/news/national/other-states/punjab-assembly-passes-bill-with-strict-provisions-against-acts-of-sacrilege/article70858115.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/78bpff/article70859113.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+      "scraped_at": "2026-04-13 19:51:23.617754",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Punjab Assembly",
+      "rephrased_article": "The **Punjab Assembly** unanimously passed a Bill increasing penalties for sacrilege against the Guru Granth Sahib, including life imprisonment and fines up to ₹25 lakh.  Chief Minister **Bhagwant Mann** presented the Jaagat Jot Sri Guru Granth Sahib Satkar (Amendment) Bill, 2026, emphasizing its aim to address past loopholes in protecting the holy book. The bill was lauded as a historic step towards safeguarding the sanctity of the Guru Granth Sahib and promoting harmony among people.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
       ]
     },
     {

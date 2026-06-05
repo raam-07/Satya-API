@@ -1,31 +1,22 @@
 {
-  "generated_at": "2026-06-05 11:41:52.383713",
+  "generated_at": "2026-06-05 18:29:19.688653",
   "party": "TMC",
   "full_name": "All India Trinamool Congress",
   "ideology": "Populism, Secularism",
   "president": "Mamata Banerjee",
   "coalition": "INDIA Alliance",
-  "ruling_states": [
-    "West Bengal"
-  ],
+  "ruling_states": [],
   "color": "#00FF00",
   "stats": {
-    "total_articles": 408,
-    "articles_last_30d": 163,
+    "total_articles": 409,
+    "articles_last_30d": 160,
     "sentiment_breakdown_30d": {
-      "negative": 102,
-      "neutral": 37,
-      "positive": 24
+      "negative": 101,
+      "neutral": 36,
+      "positive": 23
     }
   },
   "ministers": [
-    {
-      "name": "Abhishek Banerjee",
-      "role": "Trinamool Congress general secretary",
-      "state": null,
-      "criminal_cases": 0,
-      "criminal_cases_in_news": 1
-    },
     {
       "name": "Mamata Banerjee",
       "role": "Former Chief Minister / TMC Chairperson",
@@ -36,6 +27,13 @@
     {
       "name": "Mamata Banerjee",
       "role": "West Bengal Chief Minister / TMC Chairperson",
+      "state": "West Bengal",
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 1
+    },
+    {
+      "name": "Abhishek Banerjee",
+      "role": "Trinamool Congress general secretary",
       "state": "West Bengal",
       "criminal_cases": 0,
       "criminal_cases_in_news": 1
@@ -64,6 +62,38 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 65725,
+      "title": "Only 8 MLAs, 6 MPs At Mamata Banerjee's Home For Key Meet. Party Clarifies",
+      "url": "https://www.ndtv.com/india-news/will-trinamool-congress-mlas-fall-in-line-meeting-at-mamata-banerjees-house-today-11596062#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/6nplkae4_mamata-abhishek_625x300_28_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 15:38:52.399644",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "Only eight **Trinamool Congress** MLAs attended a National Working Committee meeting at former West Bengal chief minister Mamata Banerjee's Kalighat house in Kolkata, following a rebellion within the party.  The party clarified that not all MPs and MLAs were invited, with only four Lok Sabha MPs and two Rajya Sabha MPs present. **Abhishek Banerjee**, Mamata Banerjee's nephew, was among those who attended. Rebel MLA **Ritabrata Banerjee** stated that more MLAs will join the rebellion, increasing the number of supporters beyond 2/3rd of the party.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65647,
       "title": "Bandar movie review: Bobby Deol anchors Anurag Kashyap’s strongest film in years | Movie-review News - The Indian Express",
@@ -6406,37 +6436,6 @@
         "foreign_policy",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 55314,
-      "title": "Assembly election 2026 LIVE: Exit polls predict close contest in West Bengal, DMK+ lead in Tamil Nadu, - The Hindu",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/cqtsz1/article70923131.ece/alternates/LANDSCAPE_1200/DSC_0734.JPG",
-      "scraped_at": "2026-04-30 03:58:25.587774",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "Exit polls on Wednesday, April 29, 2026, indicated a clear majority for the **BJP** in Assam and an edge over the ruling **TMC** in West Bengal.  The polls also projected a return of the **DMK** government in Tamil Nadu and a comeback by the Congress-led UDF in Kerala after 10 years. All forecasts predicted a return to power for the AINRC-led NDA government in Puducherry. The counting of votes for all five assemblies will take place on May 4th.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "DMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

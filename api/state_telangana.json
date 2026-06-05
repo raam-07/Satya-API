@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 11:41:52.675492",
+  "generated_at": "2026-06-05 18:29:19.894345",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 496,
-    "articles_last_30d": 142
+    "total_articles": 497,
+    "articles_last_30d": 143
   },
   "top_cities_30d": {
     "Hyderabad": 48,
@@ -20,22 +20,50 @@
     "Chennai": 3,
     "Kanpur": 3,
     "Bangalore": 2,
-    "Ludhiana": 2,
-    "Amritsar": 2
+    "Pune": 2,
+    "Ludhiana": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 97,
+    "foreign_policy": 98,
     "infrastructure": 32,
     "education": 29,
     "economy": 27,
-    "crime_violence": 19,
+    "crime_violence": 20,
     "farmer_agriculture": 17,
     "protest_opposition": 17,
     "rape_sexual_crime": 13,
     "health": 13,
-    "corruption_scam": 8
+    "political_gaffe": 9
   },
   "recent_articles": [
+    {
+      "id": 65770,
+      "title": "Hooch deaths: ‘Perfect case of government negligence; what was learned from 2015 Malwani liquor tragedy?’ asks Congress | Pune News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/pune-hooch-tragedy-congress-maharashtra-government-response-10726203/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Maharashtra-hooch-tragedy-police-investigation-arul-horizon.jpg",
+      "scraped_at": "2026-06-05 15:41:13.820641",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra government",
+      "rephrased_article": "Following the deaths of over 20 people in Pune due to spurious liquor, **the Maharashtra government** has penalized 26 officials and employees. However, the **Congress party**, led by Sachin Sawant, criticized this action as insufficient and demanded accountability for past recommendations made after a similar tragedy in Malwani in 2015. The committee's recommendations included stricter control over methanol production and transportation, increased police and excise department campaigns against illegal liquor manufacturing, information sharing between departments, and strict enforcement of regulations. Sawant questioned the government's commitment to implementing these recommendations and demanded transparency regarding their status. He also highlighted the lack of preparedness in hospitals and the ease with which accused individuals were granted bail, emphasizing the need for stricter action against organized crime involved in illegal liquor trade.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 65532,
       "title": "Job scam: police seek lookout notice for Destiny Consultancy organisers - The Hindu",
@@ -5273,35 +5301,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 53882,
-      "title": "Karbi Anglong lynching: Assam court convicts 20 for murder of Abhijeet and Nilotpal",
-      "url": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/448a/live/32b90b40-3d4d-11f1-ac21-67dfeb2ee87f.png",
-      "scraped_at": "2026-04-24 15:18:05.738949",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "mob",
-      "rephrased_article": "In 2018, **Abhijeet Nath** and **Nilotpal Das**, two men from Guwahati, were killed in Karbi Anglong, Assam, after being accused of being child kidnappers by a mob. A court recently convicted 20 people for murder and unlawful assembly while acquitting 25 others due to lack of evidence. The families of the victims expressed dissatisfaction with the verdict, stating they are considering legal options. This case highlights the dangers of misinformation spreading online, particularly through WhatsApp, which fueled suspicion and led to mob violence across India.  The incident also spurred a national conversation about how to curb the spread of false information and hold those responsible accountable.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Karnataka",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "education",
-        "crime_violence",
         "foreign_policy"
       ]
     }

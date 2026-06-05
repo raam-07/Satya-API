@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-05 11:41:52.697059",
+  "generated_at": "2026-06-05 18:29:19.915168",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
-  "cm": null,
+  "cm": "Suvendu Adhikari",
   "region": "East",
   "cm_confidence": null,
-  "party_confidence": 0.8,
+  "party_confidence": 1.0,
   "stats": {
-    "total_articles": 591,
-    "articles_last_30d": 240
+    "total_articles": 593,
+    "articles_last_30d": 238
   },
   "top_cities_30d": {
     "Kolkata": 93,
     "Delhi": 43,
-    "Bengaluru": 11,
     "Mumbai": 10,
+    "Bengaluru": 10,
     "Chennai": 8,
     "Hyderabad": 7,
     "Ghaziabad": 4,
@@ -24,18 +24,71 @@
     "Rajkot": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 191,
-    "education": 144,
-    "protest_opposition": 106,
-    "crime_violence": 85,
-    "economy": 43,
+    "foreign_policy": 188,
+    "education": 142,
+    "protest_opposition": 105,
+    "crime_violence": 84,
+    "economy": 41,
     "corruption_scam": 30,
-    "infrastructure": 27,
-    "farmer_agriculture": 15,
-    "health": 13,
-    "rape_sexual_crime": 13
+    "infrastructure": 25,
+    "farmer_agriculture": 14,
+    "rape_sexual_crime": 14,
+    "health": 13
   },
   "recent_articles": [
+    {
+      "id": 65725,
+      "title": "Only 8 MLAs, 6 MPs At Mamata Banerjee's Home For Key Meet. Party Clarifies",
+      "url": "https://www.ndtv.com/india-news/will-trinamool-congress-mlas-fall-in-line-meeting-at-mamata-banerjees-house-today-11596062#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/6nplkae4_mamata-abhishek_625x300_28_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 15:38:52.399644",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "Only eight **Trinamool Congress** MLAs attended a National Working Committee meeting at former West Bengal chief minister Mamata Banerjee's Kalighat house in Kolkata, following a rebellion within the party.  The party clarified that not all MPs and MLAs were invited, with only four Lok Sabha MPs and two Rajya Sabha MPs present. **Abhishek Banerjee**, Mamata Banerjee's nephew, was among those who attended. Rebel MLA **Ritabrata Banerjee** stated that more MLAs will join the rebellion, increasing the number of supporters beyond 2/3rd of the party.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65647,
+      "title": "Bandar movie review: Bobby Deol anchors Anurag Kashyap’s strongest film in years | Movie-review News - The Indian Express",
+      "url": "https://indianexpress.com/article/entertainment/movie-review/bandar-movie-review-bobby-deol-anchors-anurag-kashyaps-strongest-film-in-years-10725375/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/bandar-movie-review.jpg",
+      "scraped_at": "2026-06-05 08:53:10.921339",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Bandar",
+      "rephrased_article": "**Anurag Kashyap**'s film \"Bandar\" explores the complexities of a man accused of rape and the woman who claims to be his victim.  The film delves into themes of gender dynamics, privilege, and the Me-Too movement, prompting viewers to question their own moral boundaries. **Bobby Deol**, in a career-defining performance, portrays a washed-out entertainer facing accusations of sexual assault. The supporting cast includes **Sanya Malhotra**, **Riddhi Sen**, and **Sapna Pabbi**.  The film's unique style and thought-provoking narrative make it a compelling watch.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "rape_sexual_crime",
+        "education"
+      ]
+    },
     {
       "id": 65572,
       "title": "Bidhannagar Corporation Mayor resigns a day after Kolkata Corporation Mayor quit - The Hindu",
@@ -6050,61 +6103,6 @@
       "sentiment": "positive",
       "sentiment_target": "Suvendu Adhikari",
       "rephrased_article": "**Suvendu Adhikari**, the newly elected Chief Minister of **West Bengal**, will hold his first cabinet meeting on Monday, May 11, at Nabanna.  The meeting will see the allocation of portfolios to five ministers who were sworn in with him on Saturday. The cabinet is expected to establish inquiry commissions into atrocities against women during the **Trinamool Congress** regime. Adhikari also plans to meet with top officials from various departments including the police and district magistrates.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 58251,
-      "title": "I-PAC emerges as Trinamool’s fall guy after West Bengal Assembly poll debacle - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/i-pac-emerges-as-trinamools-fall-guy-after-west-bengal-assembly-poll-debacle/article70962968.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/uec3kb/article70963270.ece/alternates/LANDSCAPE_1200/PTI04_01_2025_000197A.jpg",
-      "scraped_at": "2026-05-10 21:07:19.113108",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "I-PAC",
-      "rephrased_article": "**Trinamool Congress** leaders are blaming **I-PAC**, a political consultancy firm, for the party's loss in the 2026 West Bengal Assembly elections. Senior leader **Kalyan Banerjee** stated that the reliance on **I-PAC** had detrimental effects on the party's organization and that **Abhishek Banerjee's** dependence on the firm was not well received.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 58184,
-      "title": "WB CM Suvendu Adhikari to chair first cabinet meeting today - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/wb-cm-suvendu-adhikari-to-chair-first-cabinet-meeting-today/article70963091.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/x8dzq9/article70963252.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000753B.jpg",
-      "scraped_at": "2026-05-10 17:09:51.796512",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Suvendu Adhikari",
-      "rephrased_article": "**Suvendu Adhikari**, the newly elected Chief Minister of West Bengal, will hold his first cabinet meeting on Monday (May 11, 2026) at Nabanna. The meeting is expected to allocate portfolios to five ministers who were sworn in alongside him on Saturday (May 9). **Adhikari** also plans to establish inquiry commissions into atrocities against women during the previous Trinamool Congress regime and meet with top officials of various departments including police, district magistrates, and the Director General of West Bengal police.",
       "party_mentioned": [
         "Congress",
         "Trinamool"

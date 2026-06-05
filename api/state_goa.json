@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 11:41:52.573399",
+  "generated_at": "2026-06-05 18:29:19.795372",
   "state": "Goa",
   "capital": "Panaji",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 58,
-    "articles_last_30d": 27
+    "total_articles": 61,
+    "articles_last_30d": 29
   },
   "top_cities_30d": {
     "Delhi": 11,
@@ -24,18 +24,64 @@
     "Kolkata": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 22,
-    "education": 7,
+    "foreign_policy": 24,
+    "education": 9,
     "protest_opposition": 6,
     "infrastructure": 6,
     "health": 5,
+    "crime_violence": 4,
     "economy": 4,
     "corruption_scam": 3,
-    "crime_violence": 2,
     "rape_sexual_crime": 1,
     "political_gaffe": 1
   },
   "recent_articles": [
+    {
+      "id": 65758,
+      "title": "After viral ‘littering’ video and police notice in Goa, college student dies by suicide | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/kerala-hc-ed-pmla-civil-action-fir-not-required-cmrl-veena-vijayan-case-10726210/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/01/goa-police_20251111191653_20260117205741_20260118201715.jpg",
+      "scraped_at": "2026-06-05 15:40:45.132609",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Goa Government",
+      "rephrased_article": "**Pramod Sawant**, the **Goa** Chief Minister, ordered an inquiry into the death of a 22-year-old undergraduate student who was booked for littering. The student died by suicide after being confronted in a viral video, prompting police to register an offense under the Goa Non-Biodegradable Garbage Control Act. Police are investigating how he obtained a firearm and whether his death is related to the littering incident. **Pavneet Singh Chadha**, the **Goa** correspondent for **The Indian Express**, reported on the incident.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 65753,
+      "title": "After viral ‘littering’ video and police notice in Goa, college student dies by suicide | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/goa-student-suicide-mapusa-garbage-dumping-viral-video-police-inquiry-pramod-sawant-10725686/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/01/goa-police_20251111191653_20260117205741_20260118201715.jpg",
+      "scraped_at": "2026-06-05 15:40:31.153830",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Goa Police",
+      "rephrased_article": "**Pramod Sawant**, **Goa Chief Minister**, ordered an inquiry into the death of a 22-year-old undergraduate student who died by suicide after being booked for littering. The student was reportedly confronted in a video that went viral on social media, leading to an offense under the Goa Non-Biodegradable Garbage Control Act. Police are investigating the circumstances surrounding the student's death and how he obtained a firearm.  An inquest is underway and **Pavneet Singh Chadha**, **Goa Correspondent** for The Indian Express, reports extensively on the incident.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "education"
+      ]
+    },
     {
       "id": 65583,
       "title": "Daily Briefing: Monsoon arrives in Kerala; 45 major paper leaks in 24 years, who’s accountable? | Live News - The Indian Express",
@@ -1275,6 +1321,27 @@
       ],
       "topic_tags": [
         "infrastructure"
+      ]
+    },
+    {
+      "id": 51375,
+      "title": "Won’t mind even if my own seat is reserved for women: Goa CM Sawant - The Hindu",
+      "url": "https://www.thehindu.com/news/national/goa/wont-mind-even-if-my-own-seat-is-reserved-for-women-goa-cm-sawant/article70864821.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/auf4yk/article70864886.ece/alternates/LANDSCAPE_1200/PTI03_27_2026_000463B.jpg",
+      "scraped_at": "2026-04-15 11:14:02.085393",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Pramod Sawant",
+      "rephrased_article": "**Pramod Sawant**, **Goa Chief Minister**,  advocated for a 33% women's reservation in the state's legislative assembly, stating he would be willing to see his own seat reserved. He emphasized that the implementation of this law is expected in 2029 and highlighted the Budget session of Parliament has been extended to accommodate amendments. **Sawant** also pointed out that Goa has dedicated 33% of its budget to women's empowerment, making it the first state to implement such a gender-specific budget.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
       ]
     },
     {

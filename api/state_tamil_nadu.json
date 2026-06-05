@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-05 11:41:52.667962",
+  "generated_at": "2026-06-05 18:29:19.886896",
   "state": "Tamil Nadu",
   "capital": "Chennai",
-  "ruling_party": "DMK",
-  "cm": "M.K. Stalin",
+  "ruling_party": "TVK",
+  "cm": "C. Joseph Vijay",
   "region": "South",
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1090,
-    "articles_last_30d": 309
+    "total_articles": 1091,
+    "articles_last_30d": 310
   },
   "top_cities_30d": {
     "Chennai": 75,
@@ -25,8 +25,8 @@
   },
   "top_topics_30d": {
     "foreign_policy": 224,
+    "protest_opposition": 60,
     "education": 59,
-    "protest_opposition": 59,
     "economy": 44,
     "crime_violence": 41,
     "infrastructure": 37,
@@ -36,6 +36,29 @@
     "political_gaffe": 17
   },
   "recent_articles": [
+    {
+      "id": 65766,
+      "title": "After Annamalai’s exit, Tamil Nadu BJP Vice President, senior leaders walk out of party | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/annamalai-resignation-bjp-split-tamil-nadu-karu-nagarajan-wetheleader-10726179/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/01/K-Annamalai-express-photo.jpg",
+      "scraped_at": "2026-06-05 15:40:58.929357",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, former **BJP** president of **Tamil Nadu**, has resigned from the party, sparking a split in its state unit.  **Karu Nagarajan**, vice-president, and **Abhilash Gopinath**, BJP Yuva Morcha legal convener, have also resigned in support of Annamalai's new political movement. The former IPS officer aims to establish \"common man politics,\" rejecting personality-driven politics and hereditary power.  Over 8.09 lakh people enrolled as volunteers on his newly launched platform, https://wetheleader.org/.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65621,
       "title": "Former Tamil Nadu BJP chief Annamalai resignation Live Updates, K Annamalai Resigns From BJP, Says Will Contest Elections, PM Modi, Tamil nadu politics",
@@ -5365,29 +5388,6 @@
       "topic_tags": [
         "foreign_policy",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 59194,
-      "title": "Udhayanidhi clarifies stand on Sanatana - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-clarifies-stand-on-sanatana/article70980168.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/av9h1f/article70980175.ece/alternates/LANDSCAPE_1200/PTI12_30_2025_000313B.jpg",
-      "scraped_at": "2026-05-14 23:36:15.297463",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Udhayanidhi Stalin",
-      "rephrased_article": "**Udhayanidhi Stalin**, leader of the DMK youth wing, defended his statement in the Tamil Nadu Assembly that \"Sanatana that divides people should be destroyed,\" saying it did not mean people should stop visiting temples. He insisted he was echoing the views of historical figures like **Periyar E.V. Ramasamy**, **B.R. Ambedkar**, and **C. N. Annadurai**.  He stated that equal rights should be given to all, not just in temples but throughout society.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
       ]
     }
   ]

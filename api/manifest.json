@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 11:41:53.103023",
+  "generated_at": "2026-06-05 18:29:20.313032",
   "endpoints": {
     "feed": "feed.json",
     "feed_flagged": "feed_flagged.json",
@@ -27,7 +27,9 @@
       "JMM": "party_jmm.json",
       "RJD": "party_rjd.json",
       "AIMIM": "party_aimim.json",
-      "Shiv Sena": "party_shiv_sena.json"
+      "Shiv Sena": "party_shiv_sena.json",
+      "TVK": "party_tvk.json",
+      "National Conference": "party_national_conference.json"
     },
     "states": {
       "Andhra Pradesh": "state_andhra_pradesh.json",
@@ -80,7 +82,6 @@
       "Ashwini Vaishnaw": "minister_ashwini_vaishnaw.json",
       "Hardeep Singh Puri": "minister_hardeep_singh_puri.json",
       "Kiren Rijiju": "minister_kiren_rijiju.json",
-      "Abhishek Banerjee": "minister_abhishek_banerjee.json",
       "Yogi Adityanath": "minister_yogi_adityanath.json",
       "Nitish Kumar": "minister_nitish_kumar.json",
       "Samrat Choudhary": "minister_samrat_choudhary.json",
@@ -101,6 +102,8 @@
       "Suvendu Adhikari": "minister_suvendu_adhikari.json",
       "Bhagwant Mann": "minister_bhagwant_mann.json",
       "Nayab Singh Saini": "minister_nayab_singh_saini.json",
+      "Bhupendra Patel": "minister_bhupendra_patel.json",
+      "Rekha Gupta": "minister_rekha_gupta.json",
       "Rahul Gandhi": "minister_rahul_gandhi.json",
       "Sonia Gandhi": "minister_sonia_gandhi.json",
       "Priyanka Gandhi": "minister_priyanka_gandhi.json",
@@ -110,7 +113,8 @@
       "Asaduddin Owaisi": "minister_asaduddin_owaisi.json",
       "Sharad Pawar": "minister_sharad_pawar.json",
       "Tejashwi Yadav": "minister_tejashwi_yadav.json",
-      "Thol. Thirumavalavan": "minister_thol_thirumavalavan.json"
+      "Thol. Thirumavalavan": "minister_thol_thirumavalavan.json",
+      "Abhishek Banerjee": "minister_abhishek_banerjee.json"
     },
     "topics": {
       "crime_violence": "topic_crime_violence.json",
@@ -137,9 +141,9 @@
     }
   },
   "stats": {
-    "parties_count": 15,
+    "parties_count": 17,
     "states_count": 35,
-    "ministers_count": 45,
+    "ministers_count": 47,
     "topics_count": 21
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 11:41:52.552605",
+  "generated_at": "2026-06-05 18:29:19.776151",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 288,
+    "total_articles": 289,
     "articles_last_30d": 71
   },
   "top_cities_30d": {
     "Delhi": 19,
     "Kolkata": 7,
     "Chennai": 4,
-    "Bengaluru": 4,
     "Hyderabad": 3,
+    "Bengaluru": 3,
     "Mumbai": 2,
     "Varanasi": 1,
     "Meerut": 1,
@@ -26,16 +26,38 @@
   "top_topics_30d": {
     "foreign_policy": 54,
     "economy": 19,
-    "protest_opposition": 16,
-    "infrastructure": 14,
-    "crime_violence": 14,
-    "education": 13,
-    "farmer_agriculture": 10,
+    "crime_violence": 15,
+    "protest_opposition": 15,
+    "infrastructure": 13,
+    "education": 12,
+    "farmer_agriculture": 9,
     "health": 4,
     "corruption_scam": 4,
     "political_gaffe": 3
   },
   "recent_articles": [
+    {
+      "id": 65691,
+      "title": "Supreme Court Stays Deportation Of Woman Declared Foreigner Over \"Misspelling\", Seeks Centre's Reply",
+      "url": "https://www.ndtv.com/india-news/supreme-court-stays-deportation-of-assam-women-declared-foreigners-over-wrong-name-age-11595269#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/2i683ot_supreme-court_625x300_04_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 12:15:01.828411",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Supreme Court** stayed deportation of four women from Assam declared foreigners by tribunals, directing no coercive action until their cases are heard. The court issued notices to the Centre, the Assam government and the Election Commission on petitions filed by Basiran Nessa, Saleha Khatun, Nureza Begum and Sarbhanu Begum. These women claim they are Indian citizens despite being declared foreigners based on minor discrepancies in documents.  The court will hear their cases after responses are filed.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65608,
       "title": "Assam Cabinet undergoes expansion, 12 MLAs sworn in - The Hindu",
@@ -5980,34 +6002,6 @@
       "topic_tags": [
         "protest_opposition",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 47883,
-      "title": "Cow, buffalo for each Assam tribal family, promises Amit Shah - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/modi-himanta-prepared-roadmap-for-tribal-development-bjps-win-will-ensure-implementation-amit-shah/article70819253.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/e51s1m/article70819295.ece/alternates/LANDSCAPE_1200/20260402334L.jpg",
-      "scraped_at": "2026-04-03 15:44:30.898522",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Amit Shah**, **Union Home Minister** and senior **BJP** leader, promised to give a cow and a buffalo to each tribal family in Assam if the party is re-elected for a third consecutive term. He also pledged to establish large dairies in every district and highlighted the BJP's commitment to indigenous people through increased funding for their welfare.  Shah attributed the rise in budget allocation for indigenous peoples to Prime Minister **Narendra Modi**, while emphasizing that the BJP has been proactive in addressing tribal concerns, including clashes between infiltrators and local tribes. He also promised to introduce a Uniform Civil Code (UCC) to curb polygamy and population growth among infiltrators.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Meghalaya"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture"
       ]
     }
   ]
