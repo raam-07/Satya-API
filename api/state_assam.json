@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.300824",
+  "generated_at": "2026-06-05 11:41:52.552605",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 287,
-    "articles_last_30d": 72
+    "total_articles": 288,
+    "articles_last_30d": 71
   },
   "top_cities_30d": {
     "Delhi": 19,
-    "Kolkata": 8,
+    "Kolkata": 7,
     "Chennai": 4,
     "Bengaluru": 4,
     "Hyderabad": 3,
@@ -24,18 +24,42 @@
     "Lucknow": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 55,
-    "economy": 20,
-    "protest_opposition": 17,
-    "infrastructure": 15,
-    "crime_violence": 15,
+    "foreign_policy": 54,
+    "economy": 19,
+    "protest_opposition": 16,
+    "infrastructure": 14,
+    "crime_violence": 14,
     "education": 13,
     "farmer_agriculture": 10,
     "health": 4,
     "corruption_scam": 4,
-    "rape_sexual_crime": 2
+    "political_gaffe": 3
   },
   "recent_articles": [
+    {
+      "id": 65608,
+      "title": "Assam Cabinet undergoes expansion, 12 MLAs sworn in - The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assam-cabinet-undergoes-expansion-12-mlas-sworn-in/article71064634.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/sport/cricket/pcqh1h/article71064651.ece/alternates/LANDSCAPE_1200/AssamCM.jpg",
+      "scraped_at": "2026-06-05 08:51:00.240306",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Assam Government",
+      "rephrased_article": "**Himanta Biswa Sarma** expanded his **Assam** cabinet on Friday, June 5th, 2026, with the swearing-in of 12 new ministers.  The newly sworn-in members include **BJP** MLAs Ranoj Pegu, Ashok Singhal, Biswajit Daimary and AGP's Keshab Mahanta. The cabinet now has a total of 17 members, including the Chief Minister.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 65377,
       "title": "12 More Ministers To Be Part Of Himanta Sarma Cabinet, Oath Tomorrow",
@@ -5984,41 +6008,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 47789,
-      "title": "Government called ‘special session’ for political mileage in West Bengal, Tamil Nadu polls; it is MCC violation: Congress - The Hindu",
-      "url": "https://www.thehindu.com/news/national/government-called-special-session-for-political-mileage-in-west-bengal-tamil-nadu-polls-it-is-mcc-violation-congress/article70819361.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/izvn8d/article70819378.ece/alternates/LANDSCAPE_1200/JairamRamesh.jpg",
-      "scraped_at": "2026-04-03 10:13:24.427688",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "The **Congress** alleges that the government is calling a special session to pass bills related to amending the women's quota law and delimitation in order to gain political mileage ahead of state elections in West Bengal and Tamil Nadu. The party claims this move violates the model code of conduct, as the government has been \"sleeping\" on the issue for 30 months since the passage of the Nari Shakti Vandan Adhiniyam, 2023.  The **Congress** general secretary in-charge communications, Jairam Ramesh, argues that the proposed bill would disproportionately benefit certain states at the expense of others and calls for an all-party meeting after April 29th before any action is taken. The government has not officially responded to these allegations but maintains it has the right to decide on the timing of legislation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
       ]
     }
   ]

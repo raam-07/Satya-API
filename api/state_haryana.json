@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.331961",
+  "generated_at": "2026-06-05 11:41:52.585238",
   "state": "Haryana",
   "capital": "Chandigarh",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 165,
-    "articles_last_30d": 79
+    "total_articles": 168,
+    "articles_last_30d": 82
   },
   "top_cities_30d": {
-    "Delhi": 46,
+    "Delhi": 48,
     "Ludhiana": 7,
     "Amritsar": 5,
     "Faridabad": 5,
@@ -21,21 +21,119 @@
     "Hyderabad": 4,
     "Coimbatore": 4,
     "Pune": 3,
-    "Kanpur": 3
+    "Jaipur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 60,
-    "education": 31,
-    "crime_violence": 19,
+    "foreign_policy": 61,
+    "education": 32,
+    "crime_violence": 20,
     "economy": 17,
     "infrastructure": 14,
     "protest_opposition": 12,
     "farmer_agriculture": 10,
-    "rape_sexual_crime": 5,
-    "corruption_scam": 5,
-    "health": 5
+    "rape_sexual_crime": 6,
+    "corruption_scam": 6,
+    "health": 6
   },
   "recent_articles": [
+    {
+      "id": 65639,
+      "title": "‘Punjab Police, jail authorities defied high court order’: SAD worker’s father moves contempt petition | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/punjab-police-jail-authorities-defied-high-court-order-sad-workers-father-moves-contempt-petition-10725414/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/04/Punjab-and-haryana-HC.jpg",
+      "scraped_at": "2026-06-05 08:52:49.571919",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Punjab Police",
+      "rephrased_article": "**Jagpreet Singh Sandhu**, a Senior Correspondent at **The Indian Express**, based in Chandigarh, is a veteran reporter with over a decade of experience covering legal, crime, and environmental issues. His recent coverage has focused on significant judicial verdicts, major financial scams, public health concerns, and the intersection of technology and law enforcement.  Sandhu's reporting often highlights administrative lapses and his work has been recognized for its tenacious follow-up on cold cases and courtroom drama with a focus on victim rights.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 65627,
+      "title": "Maharashtra Sex Ratio At Birth Raises Alarm Over Urban-Rural Divide",
+      "url": "https://www.ndtv.com/india-news/maharashtra-sex-ratio-at-birth-raises-alarm-over-urban-rural-divide-11594830#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-12/lqcc3gok_newborn-baby_625x300_15_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 08:52:13.146961",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "**Maharashtra**'s sex ratio at birth remained below the national average, with a rural figure of 910 girls per 1,000 boys and an urban figure of 885. This trend contrasts with national trends, where urban areas have higher sex ratios. The state ranks among the bottom five for sex ratio, alongside Bihar, Haryana, Delhi, and Uttarakhand. **Maharashtra**'s Health Minister, **Prakash Abitkar**, has acknowledged the issue and plans to tighten existing regulations against sex-selective practices.  Despite a Total Fertility Rate (TFR) below the national average, the skewed sex ratio at birth suggests persistent son preference remains a concern.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Haryana",
+        "Himachal Pradesh",
+        "Kerala",
+        "Maharashtra",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65578,
+      "title": "BJP names Rajya Sabha candidates for five States; two Union Ministers left out - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bjp-names-rajya-sabha-candidates-for-five-states-two-union-ministers-left-out/article71061806.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kqp75p/article71062203.ece/alternates/LANDSCAPE_1200/20260526124L.jpg",
+      "scraped_at": "2026-06-05 05:01:04.555593",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** announced its candidates for the upcoming Rajya Sabha polls in five states.  The party nominated several younger leaders, including Rajubhai Shukla, Mukeshbhai Rathwa, Mansingh Parmar, and Jitendra Meghjibhai Kanzariya from Gujarat; Tarun Chugh and Rajneesh Agrawal from Madhya Pradesh; Alka Gurjar and Satish Poonia from Rajasthan; A. Sharda Devi from Manipur; and Tai Tagak from Arunachal Pradesh.  The party also accommodated Debashish Samantaray, who recently joined the BJP after leaving his seat in the Rajya Sabha as a Biju Janata Dal (BJD) MP. The Rajya Sabha polls will be held on June 18.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Gujarat",
+        "Haryana",
+        "Madhya Pradesh",
+        "Manipur",
+        "Odisha",
+        "Punjab",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
     {
       "id": 65427,
       "title": "3 killed as crane overturns on under construction flyover linking Noida airport to Faridabad | Delhi News - The Indian Express",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.422299",
+  "generated_at": "2026-06-05 11:41:52.675492",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 495,
-    "articles_last_30d": 143
+    "total_articles": 496,
+    "articles_last_30d": 142
   },
   "top_cities_30d": {
-    "Hyderabad": 49,
-    "Delhi": 20,
+    "Hyderabad": 48,
+    "Delhi": 19,
     "Mumbai": 11,
     "Bengaluru": 6,
     "Kolkata": 3,
@@ -24,18 +24,41 @@
     "Amritsar": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 99,
-    "infrastructure": 34,
-    "education": 30,
+    "foreign_policy": 97,
+    "infrastructure": 32,
+    "education": 29,
     "economy": 27,
-    "crime_violence": 18,
+    "crime_violence": 19,
     "farmer_agriculture": 17,
     "protest_opposition": 17,
     "rape_sexual_crime": 13,
     "health": 13,
-    "political_gaffe": 8
+    "corruption_scam": 8
   },
   "recent_articles": [
+    {
+      "id": 65532,
+      "title": "Job scam: police seek lookout notice for Destiny Consultancy organisers - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/job-scam-police-seek-lookout-notice-for-destiny-consultancy-organisers/article71062252.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-05 00:16:32.400283",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Destiny Consultancy",
+      "rephrased_article": "**Ibrahimpatnam police** have requested the **Ministry of Home Affairs** to issue a lookout notice for organizers of **Destiny Consultancy**, accused of defrauding job seekers by promising overseas employment opportunities. The couple, who are UK residents and operate branches across Andhra Pradesh, Telangana, and other states, allegedly collected large sums from applicants but failed to deliver on their promises.  The police have registered a case and initiated the process to obtain a lookout notice against them.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence"
+      ]
+    },
     {
       "id": 65416,
       "title": "Congress Picks Ex-MP, BJP 2 Top Leaders For Rajya Sabha From Madhya Pradesh",
@@ -52,9 +75,8 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Shah",
-        "Rahul Gandhi",
-        "Rahul"
+        "Amit Shah",
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Madhya Pradesh",
@@ -132,7 +154,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -5281,27 +5302,6 @@
         "economy",
         "education",
         "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 53773,
-      "title": "Telangana SEEEPC Survey: What does it show about caste inequality? - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/what-telanganas-survey-shows-about-caste-inequality/article70897704.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3s3s05/article70898967.ece/alternates/LANDSCAPE_1200/04hyngg_looming%20surge%20of%20Omicron%20%2007.jpg",
-      "scraped_at": "2026-04-24 05:45:59.413212",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "A new government report from **Telangana**, India, challenges long-held assumptions about social disadvantage by using a novel Composite Backwardness Index (CBI) to measure caste-based inequality. The **SEEEPC Survey 2024**, conducted on a massive scale and covering 97% of the state's population, reveals that **Scheduled Castes** (SCs) and **Scheduled Tribes** (STs) face a systemic form of disadvantage far exceeding incremental differences in income.  This groundbreaking study provides a stark contrast to traditional measures of economic inequality.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
         "foreign_policy"
       ]
     }

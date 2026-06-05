@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.298205",
+  "generated_at": "2026-06-05 11:41:52.549883",
   "state": "Arunachal Pradesh",
   "capital": "Itanagar",
   "ruling_party": "BJP",
@@ -8,26 +8,86 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 49,
-    "articles_last_30d": 11
+    "total_articles": 51,
+    "articles_last_30d": 13
   },
   "top_cities_30d": {
     "Delhi": 5,
     "Mumbai": 2,
     "Chennai": 1,
     "Coimbatore": 1,
-    "Madurai": 1
+    "Madurai": 1,
+    "Jaipur": 1
   },
   "top_topics_30d": {
     "foreign_policy": 10,
-    "education": 4,
-    "protest_opposition": 2,
+    "education": 5,
+    "protest_opposition": 3,
     "infrastructure": 2,
     "crime_violence": 2,
     "corruption_scam": 1,
-    "health": 1
+    "health": 1,
+    "political_gaffe": 1
   },
   "recent_articles": [
+    {
+      "id": 65578,
+      "title": "BJP names Rajya Sabha candidates for five States; two Union Ministers left out - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bjp-names-rajya-sabha-candidates-for-five-states-two-union-ministers-left-out/article71061806.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kqp75p/article71062203.ece/alternates/LANDSCAPE_1200/20260526124L.jpg",
+      "scraped_at": "2026-06-05 05:01:04.555593",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** announced its candidates for the upcoming Rajya Sabha polls in five states.  The party nominated several younger leaders, including Rajubhai Shukla, Mukeshbhai Rathwa, Mansingh Parmar, and Jitendra Meghjibhai Kanzariya from Gujarat; Tarun Chugh and Rajneesh Agrawal from Madhya Pradesh; Alka Gurjar and Satish Poonia from Rajasthan; A. Sharda Devi from Manipur; and Tai Tagak from Arunachal Pradesh.  The party also accommodated Debashish Samantaray, who recently joined the BJP after leaving his seat in the Rajya Sabha as a Biju Janata Dal (BJD) MP. The Rajya Sabha polls will be held on June 18.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Gujarat",
+        "Haryana",
+        "Madhya Pradesh",
+        "Manipur",
+        "Odisha",
+        "Punjab",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
+    {
+      "id": 65458,
+      "title": "15 Illegal Mosques Sealed In Arunachal Amid Unauthorised Settlement Row",
+      "url": "https://www.ndtv.com/india-news/15-illegal-mosques-sealed-in-arunachal-amid-unauthorised-settlement-row-11593305#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-04 22:41:24.342503",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Arunachal Pradesh Government",
+      "rephrased_article": "The **Arunachal Pradesh** government has taken action against 15 unauthorized mosque structures in the Itanagar Capital Region, following pressure from the **Arunachal Pradesh Indigenous Youth Organisation (APIYO)**. The move comes after APIYO raised concerns about illegal settlements and demographic changes, leading to a 24-hour bandh across the capital region.  The government has completed legal proceedings for 12 of the identified structures and taken action against the remaining three. Officials stated that the concerns prompted by the proposed bandh have been addressed through lawful administrative measures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Arunachal Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65322,
       "title": "Mizoram Chief Minister Rings Alarm Bell Over Growing Myanmar Refugee Burden",

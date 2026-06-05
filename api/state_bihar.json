@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.308727",
+  "generated_at": "2026-06-05 11:41:52.560974",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 258,
+    "total_articles": 259,
     "articles_last_30d": 106
   },
   "top_cities_30d": {
-    "Delhi": 42,
+    "Delhi": 43,
     "Patna": 15,
-    "Mumbai": 12,
+    "Mumbai": 11,
     "Kolkata": 8,
     "Hyderabad": 7,
     "Chennai": 5,
@@ -28,14 +28,45 @@
     "education": 32,
     "crime_violence": 25,
     "economy": 18,
-    "infrastructure": 17,
     "protest_opposition": 17,
-    "health": 15,
+    "infrastructure": 16,
+    "health": 16,
     "corruption_scam": 11,
     "farmer_agriculture": 7,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 65627,
+      "title": "Maharashtra Sex Ratio At Birth Raises Alarm Over Urban-Rural Divide",
+      "url": "https://www.ndtv.com/india-news/maharashtra-sex-ratio-at-birth-raises-alarm-over-urban-rural-divide-11594830#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-12/lqcc3gok_newborn-baby_625x300_15_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 08:52:13.146961",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "**Maharashtra**'s sex ratio at birth remained below the national average, with a rural figure of 910 girls per 1,000 boys and an urban figure of 885. This trend contrasts with national trends, where urban areas have higher sex ratios. The state ranks among the bottom five for sex ratio, alongside Bihar, Haryana, Delhi, and Uttarakhand. **Maharashtra**'s Health Minister, **Prakash Abitkar**, has acknowledged the issue and plans to tighten existing regulations against sex-selective practices.  Despite a Total Fertility Rate (TFR) below the national average, the skewed sex ratio at birth suggests persistent son preference remains a concern.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Haryana",
+        "Himachal Pradesh",
+        "Kerala",
+        "Maharashtra",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65330,
       "title": "106 Reservoirs Below 40% As Weather Office Flags Weak Monsoon Risk",
@@ -6001,41 +6032,6 @@
         "Delhi"
       ],
       "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 47312,
-      "title": "The burden of the new Bihar Chief Minister - The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/the-burden-of-the-new-bihar-chief-minister/article70812833.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/migration_catalog/article11164838.ece/alternates/LANDSCAPE_1200/LALU-NITISH",
-      "scraped_at": "2026-04-01 20:11:55.974788",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Nitish Kumar",
-      "rephrased_article": "**Bihar** is set to elect a new Chief Minister after **Nitish Kumar** stepped down, marking the end of his 20-year rule. The change signifies a shift in power from the RJD to the BJP, with Delhi now calling the shots for the first time since 1990.  The incoming Chief Minister will face challenges in maintaining communal harmony and addressing Bihar's high migration rate while navigating potential social anxieties over reservation policies. While the Congress could potentially fill the vacuum left by the JD(U), its future success hinges on breaking free from the RJD's shadow.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "RJD",
-        "Janata Dal"
-      ],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Patna"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "protest_opposition",
-        "economy",
         "foreign_policy"
       ]
     }

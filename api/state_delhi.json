@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.453831",
+  "generated_at": "2026-06-05 11:41:52.706136",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,912 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1138,
-    "articles_last_30d": 596
+    "total_articles": 1169,
+    "articles_last_30d": 625
   },
   "top_cities_30d": {
-    "Delhi": 590,
-    "Mumbai": 64,
-    "Bengaluru": 42,
+    "Delhi": 619,
+    "Mumbai": 66,
+    "Bengaluru": 45,
     "Kolkata": 34,
-    "Hyderabad": 32,
-    "Chennai": 26,
+    "Hyderabad": 31,
+    "Chennai": 28,
     "Jaipur": 15,
-    "Lucknow": 12,
-    "Agra": 11,
-    "Pune": 11
+    "Lucknow": 13,
+    "Pune": 12,
+    "Kanpur": 12
   },
   "top_topics_30d": {
-    "foreign_policy": 446,
-    "crime_violence": 184,
-    "economy": 127,
-    "education": 124,
-    "protest_opposition": 107,
-    "infrastructure": 67,
-    "corruption_scam": 62,
-    "health": 33,
-    "farmer_agriculture": 24,
-    "rape_sexual_crime": 16
+    "foreign_policy": 470,
+    "crime_violence": 192,
+    "economy": 130,
+    "education": 127,
+    "protest_opposition": 113,
+    "infrastructure": 66,
+    "corruption_scam": 64,
+    "health": 35,
+    "farmer_agriculture": 23,
+    "political_gaffe": 18
   },
   "recent_articles": [
+    {
+      "id": 65639,
+      "title": "‘Punjab Police, jail authorities defied high court order’: SAD worker’s father moves contempt petition | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/punjab-police-jail-authorities-defied-high-court-order-sad-workers-father-moves-contempt-petition-10725414/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/04/Punjab-and-haryana-HC.jpg",
+      "scraped_at": "2026-06-05 08:52:49.571919",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Punjab Police",
+      "rephrased_article": "**Jagpreet Singh Sandhu**, a Senior Correspondent at **The Indian Express**, based in Chandigarh, is a veteran reporter with over a decade of experience covering legal, crime, and environmental issues. His recent coverage has focused on significant judicial verdicts, major financial scams, public health concerns, and the intersection of technology and law enforcement.  Sandhu's reporting often highlights administrative lapses and his work has been recognized for its tenacious follow-up on cold cases and courtroom drama with a focus on victim rights.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 65638,
+      "title": "Vietnam’s Green SM Limo electric taxi service debuts in Delhi-NCR | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/green-sm-ev-cab-service-launch-delhi-ncr-india-vinfast-10725398/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/EV.jpg",
+      "scraped_at": "2026-06-05 08:52:45.942895",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Green SM",
+      "rephrased_article": "**Green SM**, a Vietnam-based mobility company, launched its electric taxi service, Green SM Limo, in the National Capital Region. The company plans to deploy around 10,000 vehicles and focus on daily commuting, airport transfers, and business travel initially. **GSM Global** CEO Nguyen Van Thanh expressed confidence in India's potential for green transportation and highlighted the company's commitment to working with local partners.  The launch also included the announcement of Green Alliance Frontier, a platform connecting businesses working on sustainability-related projects.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65633,
+      "title": "Delhi Hotel Fire, Flourish Stay BnB: Delhi Hotel Owner Lavkesh Bajaj Spent 15 Days In Tihar In 2025 For Fake Passports, Aadhaar Cards",
+      "url": "https://www.ndtv.com/india-news/delhi-hotel-fire-flourish-stay-bnb-delhi-hotel-owner-lavkesh-bajaj-spent-15-days-in-tihar-in-2025-for-fake-passports-aadhaar-cards-11594702#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/rsd7njik_delhi-fire_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 08:52:32.608794",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lavkesh Bajaj",
+      "rephrased_article": "**Lavkesh Bajaj**, owner of the Delhi bed-and-breakfast where a fire killed 21 people, is facing charges related to facilitating illegal immigration.  In 2025, **Bajaj** was arrested for procuring fake Indian documents for Bangladeshi nationals, and he has been implicated in another case involving the Flourish Stay's operation without a fire NOC. Following the deadly fire at his establishment, **Bajaj** is currently under police custody and has confessed to fleeing the scene instead of helping victims.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65629,
+      "title": "Trump's 'Forced Labour' Tariff Charge Against India Is Really About Something Else",
+      "url": "https://www.ndtv.com/opinion/trumps-forced-labour-tariff-charge-against-india-is-really-about-something-else-11594712#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/pu8rnq5_donald-trump_625x300_04_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 08:52:19.585317",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "US",
+      "rephrased_article": "The **US** is using Section 301 of the Trade Act of 1974 to impose tariffs on goods from 60 countries, including India, based on its import control regime and supply chain traceability. The proposed measure targets India's ability to detect tainted inputs before they reach global markets, arguing that it does not do enough to prevent forced labor in its exports.  While the US aims to eliminate forced labor, this approach risks becoming a trade filter rather than a solution, potentially harming honest exporters and undermining supply chain diversification efforts. The **US** is also investigating structural excess capacity in India's manufacturing sector, which could have significant implications for India's economic growth.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Surat"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65627,
+      "title": "Maharashtra Sex Ratio At Birth Raises Alarm Over Urban-Rural Divide",
+      "url": "https://www.ndtv.com/india-news/maharashtra-sex-ratio-at-birth-raises-alarm-over-urban-rural-divide-11594830#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-12/lqcc3gok_newborn-baby_625x300_15_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 08:52:13.146961",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Government",
+      "rephrased_article": "**Maharashtra**'s sex ratio at birth remained below the national average, with a rural figure of 910 girls per 1,000 boys and an urban figure of 885. This trend contrasts with national trends, where urban areas have higher sex ratios. The state ranks among the bottom five for sex ratio, alongside Bihar, Haryana, Delhi, and Uttarakhand. **Maharashtra**'s Health Minister, **Prakash Abitkar**, has acknowledged the issue and plans to tighten existing regulations against sex-selective practices.  Despite a Total Fertility Rate (TFR) below the national average, the skewed sex ratio at birth suggests persistent son preference remains a concern.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Haryana",
+        "Himachal Pradesh",
+        "Kerala",
+        "Maharashtra",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65621,
+      "title": "Former Tamil Nadu BJP chief Annamalai resignation Live Updates, K Annamalai Resigns From BJP, Says Will Contest Elections, PM Modi, Tamil nadu politics",
+      "url": "https://www.ndtv.com/india-news/former-tamil-nadu-bjp-chief-annamalai-resignation-live-updates-k-annamalai-resigns-from-bjp-says-will-contest-elections-pm-modi-tamil-nadu-politics-11594596#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/uqf6cqr4_annamalai_625x300_05_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 08:51:44.622548",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, former Tamil Nadu BJP president, resigned from the party on Friday. **Nitin Nabin**, BJP chief, accepted his resignation.  Annamalai cited disagreements with the party leadership over the direction of Tamil Nadu politics as the reason for his departure. He plans to launch a new political movement and contest the next Tamil Nadu Assembly elections. The move comes after the BJP's poor performance in the recent assembly elections and tensions with the AIADMK.",
+      "party_mentioned": [
+        "BJP",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65619,
+      "title": "K Annamalai Quits BJP, Party Says 'No Loss'",
+      "url": "https://www.ndtv.com/india-news/khan-sir-coaching-guards-detained-over-firing-during-attack-on-coaching-centre-11594828#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-04/s26fn6hs_k-annamalai_625x300_11_April_25.jpg",
+      "scraped_at": "2026-06-05 08:51:33.352764",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, BJP's most recognizable face in Tamil Nadu, has resigned from the party after disagreements with the top leadership over the future of the party in Tamil Nadu.  He announced his intention to launch a people's movement and contest the next state elections. **Nitin Nabin**, the **Bharatiya Janata Party** (BJP) national president, accepted Annamalai's resignation. The **Andhra Pradesh BJP** chief expressed hope that Annamalai would return to the party in the future.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65612,
+      "title": "K Annamalai Quits BJP, Party Says 'No Loss'",
+      "url": "https://www.ndtv.com/india-news/annamalai-quits-bjp-party-accepts-his-resignation-11594182#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-04/s26fn6hs_k-annamalai_625x300_11_April_25.jpg",
+      "scraped_at": "2026-06-05 08:51:16.041931",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, BJP's most recognizable face in Tamil Nadu, resigned from the party after disagreements with top leadership over the future of Tamil Nadu politics.  He stated that national parties do not speak the language understood by people in Tamil Nadu and he will start a movement to contest the next state election. **Nitin Nabin**, **BJP**'s National President, accepted his resignation. The **Andhra Pradesh BJP** chief expressed hope for Annamalai's return to the party in the future.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65590,
+      "title": "Delhi Malviya Nagar hotel fire: Head constables who were the first respondents - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/head-constables-who-were-the-first-responders/article71062734.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ahxj95/article71063780.ece/alternates/LANDSCAPE_1200/Fire%20Delhi%201.JPG",
+      "scraped_at": "2026-06-05 05:01:22.490466",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Police** personnel from the **Malviya Nagar police station** in south Delhi risked their lives to rescue guests trapped inside a bed-and-breakfast facility engulfed by fire on Wednesday morning.  Constables Dinesh Yadav and Kartar Yadav, wearing casual clothing and without protective gear, rescued several individuals from various floors using ladders, rainwater pipes, and mattresses. Head constable Rajveer Singh and others participated in the rescue effort, entering the burning building multiple times to pull out unconscious guests. The fire department was also called to the scene to extinguish the blaze.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65586,
+      "title": "AAP questions ‘delay’ in DFS response to Malviya Nagar fire - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-questions-delay-in-dfs-response-to-malviya-nagar-fire/article71062444.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9faxi4/article71062758.ece/alternates/LANDSCAPE_1200/FIRE%20MALVIYA%20NAGAR%20HOTEL%20DELHI%202026_04_06_40.jpg",
+      "scraped_at": "2026-06-05 05:01:15.260695",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Fire Services",
+      "rephrased_article": "The **Aam Aadmi Party (AAP)** has criticized the Delhi Fire Services' (DFS) response to the Malviya Nagar fire, alleging inconsistencies in their account of when they were alerted and how quickly personnel arrived.  **Saurabh Bharadwaj**, AAP’s Delhi unit president, questioned the government's timeline and suggested residents may have already alerted emergency services before 8:50 a.m., as claimed by DFS. The **Delhi Fire Services (DFS)** Deputy Chief Fire Officer A.K. Malik defended their response, stating that units from other stations were dispatched due to an existing fire at another location and traffic delays. He emphasized that seven units reached the scene within 19 minutes, carrying essential equipment and deploying a total of 38 personnel.  The incident has sparked debate between the AAP and BJP over the DFS's capabilities and past governance.",
+      "party_mentioned": [
+        "BJP",
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 65583,
+      "title": "Daily Briefing: Monsoon arrives in Kerala; 45 major paper leaks in 24 years, who’s accountable? | Live News - The Indian Express",
+      "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-today-10724873/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Newsletter-morning-expresso-Final-1600x900-2.jpg",
+      "scraped_at": "2026-06-05 05:01:11.134662",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "The India Meteorological Department (IMD) declared the onset of the southwest monsoon on Thursday, three days later than usual. The monsoon is expected to bring below-normal rainfall this year due to the El Niño weather pattern. **Prime Minister Narendra Modi** discussed deepening cooperation in energy and other areas with **Acting President Delcy Rodríguez** of Venezuela during talks in India.  The IMD has forecast below-normal rainfall this year at 90% of the long-period average, largely due to the developing El Niño weather pattern, which typically weakens monsoon rains and pushes temperatures higher. The monsoon is now expected to advance towards Goa, Maharashtra and more parts of southern India over the next few days.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "CPM"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Goa",
+        "Gujarat",
+        "Kerala",
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65582,
+      "title": "Flourish Stay owner sent to 4-day police custody; MCD finds 12 nearby B&Bs violating their permits - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/malviya-nagar-fire-court-sends-hotel-owner-to-4-days-police-custody/article71060810.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2jet6b/article71060846.ece/alternates/LANDSCAPE_1200/FIRE%20MALVIYA%20NAGAR%20HOTEL%20DELHI%202026_04_06_46.jpg",
+      "scraped_at": "2026-06-05 05:01:10.770682",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Lavkesh Bajaj",
+      "rephrased_article": "**Lavkesh Bajaj**, owner of the Delhi B&B where a fire killed 21 people, was remanded to four days of police custody on charges of culpable homicide. **Rakesh**, his manager, and **Jay Mishra**, his accountant, are still at large. The Delhi government will seal unauthorized constructions and buildings operating without fire safety equipment as part of a month-long crackdown.  The incident has prompted the MCD to cancel the licenses of 12 B&Bs in the area that were found to be operating illegally. Twelve foreign nationals among the victims have been identified, and their bodies have been handed over to their respective embassies.",
+      "party_mentioned": [
+        "AAP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 65577,
+      "title": "Fire breaks out in Tata Communications office in Nehru Place, no casualties | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/nehru-place-fire-tata-communications-office-delhi-10724921/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/fire-4.jpg",
+      "scraped_at": "2026-06-05 05:01:04.245870",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Delhi Fire Services",
+      "rephrased_article": "A fire broke out in the battery room of a five-story building at Nehru Place, near Savitri Cinema, around 2:47 AM on Friday.  **Delhi Fire Services** responded to the blaze and successfully extinguished it by 7:05 AM. No casualties were reported.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65575,
+      "title": "Delhi fire: FIR flags locked basement, 28 rooms at Malviya Nagar B&B",
+      "url": "https://indianexpress.com/article/business/rbi-repo-rate-10724915/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/05Delhi.jpg",
+      "scraped_at": "2026-06-05 05:01:00.353765",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Flourish Stays B&B",
+      "rephrased_article": "**Flourish Stays B&B** in Malviya Nagar, South Delhi, was found to have 28 rooms instead of the permitted six, leading to the deaths of 21 people in a fire on Wednesday morning. **The FIR**, registered at the Malviya Nagar police station, states that there was no ventilation and the basement door was locked.  Police officers rescued guests trapped inside after receiving a call from a caller reporting the fire. The investigation revealed that at least 18-19 rooms were occupied at the time of the incident.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65574,
+      "title": "Cockroach Janata Party attacks govt. on JEE data exposure, presses for Education Minister’s sacking - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cockroach-janata-party-press-conference-june-4-2026/article71060841.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/1qlrlj/article71060853.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-04%20at%2014.10.50.jpeg",
+      "scraped_at": "2026-06-05 05:00:59.243883",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Cockroach Janata Party (CJP)** criticized the government's handling of the JEE (Advanced) 2026 results portal data leak, claiming incompetence in cybersecurity and education. CJP spokesperson Ashutosh Ranka demanded Prime Minister Narendra Modi sack Education Minister Dharmendra Pradhan for failing to ensure accountability. The incident exposed nearly two lakh student records and prompted IIT Roorkee to acknowledge a cloud storage configuration issue.  Ranka called for transparency regarding data breaches and urged peaceful protests, while the party founder Abhijeet Dipke is expected to arrive in Delhi on June 6th to seek permission for a demonstration at Jantar Mantar.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 65565,
+      "title": "British Foreign Secretary's First Delhi Visit Strengthens India-UK Ties",
+      "url": "https://www.ndtv.com/india-news/british-foreign-secretarys-first-delhi-visit-strengthen-india-uk-ties-11593665#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/5g6br3vk_yvette-cooper-s-jaishankar_625x300_05_June_26.jpeg",
+      "scraped_at": "2026-06-05 05:00:25.606459",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India-UK relationship",
+      "rephrased_article": "**Yvette Cooper**, **Secretary of State for Foreign, Commonwealth and Development Affairs**, concluded a two-day official visit to India, leaving behind agreements that signal the rapid maturation of the bilateral partnership.  Cooper held extensive talks with **Dr S Jaishankar**, External Affairs Minister, and met with Prime Minister Narendra Modi, reviewing the five pillars of the India-UK Vision 2035 framework: Growth, Technology and Innovation, Defence and Security, Climate and Clean Energy, and Education. The visit included the handover of a Letter of Approval to the University of Liverpool for its new campus in Bengaluru, an agreement on a Regional Maritime Security Centre for Excellence between King's College London and India's National Maritime Foundation, and the launch of the UK-India Critical Minerals Supply Chain Observatory.  These agreements demonstrate the growing strategic importance of the India-UK relationship.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65561,
+      "title": "Nepal Foreign Minister Shisir Khanal On 3-Day India Visit To Reset Ties Amid Boundary Row",
+      "url": "https://www.ndtv.com/world-news/nepal-foreign-minister-shisir-khanal-on-3-day-india-visit-to-reset-ties-amid-boundary-row-11593593#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/8np36ngo_shishir_625x300_05_June_26.jpeg",
+      "scraped_at": "2026-06-05 05:00:13.222205",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Nepal",
+      "rephrased_article": "**Shisir Khanal**, **Nepal's Foreign Minister**, arrived in New Delhi for a three-day official visit at the invitation of **External Affairs Minister S Jaishankar**. The visit aims to repair strained diplomatic ties with India following a boundary row and a recent incident where India's Foreign Secretary failed to secure an audience with Nepal's Prime Minister.  **Khanal** will hold talks covering trade, investment, connectivity, energy, and people-to-people ties, signaling Kathmandu's commitment to re-engage New Delhi at the highest levels.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Shah",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65559,
+      "title": "Congress Betrayed By Supporting TVK, Will Never Forget: Udhayanidhi Stalin",
+      "url": "https://www.ndtv.com/tamil-nadu-news/congress-betrayed-by-supporting-tvk-will-never-forget-udhayanidhi-stalin-11593702#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-02/bnti32n4_udhayanidhi-stalin_625x300_02_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 05:00:06.882501",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Udhayanidhi Stalin**, leader of the **DMK**, accused the **Congress** of betraying the party by supporting Tamilaga Vettri Kazhagam (TVK) after the Tamil Nadu Assembly elections. He stated that elected Congress MLAs have not maintained contact with DMK leadership and criticized the Congress for failing to inform the DMK on key matters despite other alliance partners providing updates. This accusation has intensified tensions between the **DMK** and **Congress**, leading the **DMK** to skip the INDIA bloc meeting scheduled for June 8th in New Delhi.",
+      "party_mentioned": [
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65557,
+      "title": "Putin's word of caution on India-China ties; rejects notion that Pakistan is under Beijing's control - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-shuts-down-presidential-rumors-while-pushing-tucker-carlson-into-the-2028-conversation/articleshow/131518922.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131519489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-05 04:59:55.000194",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Vladimir Putin",
+      "rephrased_article": "**Vladimir Putin** stated that **Russia** would not interfere in the delicate relationship between **India** and **China**, expressing confidence in the efforts of **Prime Minister Narendra Modi** and **President Xi Jinping** to resolve outstanding issues, including the border dispute. He emphasized that Russia maintains strong ties with both countries and sees no reason to intervene in their bilateral matters.  Putin highlighted Russia's growing partnerships with both nations while also noting its commitment to expanding cooperation in defense technology and air-defense systems.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65553,
+      "title": "\"PM Modi A Good Friend\": Trump's Big Remark On India-US Trade Deal",
+      "url": "https://www.ndtv.com/world-news/pm-modi-a-good-friend-donald-trump-says-india-trade-deal-soon-amid-tariff-threat-11593553#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-01/9171qieo_trump-modi-_625x300_21_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 04:59:37.258449",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**President Donald Trump** expressed confidence in reaching a trade agreement with **Prime Minister Narendra Modi**, stating that the US will get to a deal because he \"likes your prime minister a lot.\"  Trump accused **India** of taking advantage of US policies for years by charging high tariffs and benefiting unfairly. A US delegation held cooperative trade talks with **India** on an interim bilateral agreement, reaffirming their commitment to concluding a mutually beneficial agreement that strengthens bilateral trade and economic ties. The US also announced additional tariffs on 54 countries alleging forced labor in goods imports.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65551,
+      "title": "Delhi fire: FIR flags locked basement, 28 rooms at Malviya Nagar B&B",
+      "url": "https://indianexpress.com/article/india/delhi-hotel-fire-fir-flourish-stays-safety-lapses-10724933/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/05Delhi.jpg",
+      "scraped_at": "2026-06-05 04:59:36.513870",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Flourish Stays B&B",
+      "rephrased_article": "A fire at **Flourish Stays B&B** in Malviya Nagar, South Delhi, killed 21 people on Wednesday morning. The **South District police** registered an FIR based on a PCR call reporting trapped guests. The FIR states that the establishment had 28 rooms instead of the permitted six and lacked proper fire safety arrangements, including ventilation and a locked basement door. Firefighters managed to enter after cutting the door.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65550,
+      "title": "Noida Sector 74 Ivy County fire, Video: Massive Fire Erupts On 12th Floor Of High-Rise Building In Noida",
+      "url": "https://www.ndtv.com/noida-news/noida-sector-74-ivy-county-fire-video-massive-fire-erupts-on-12th-floor-of-high-rise-building-in-noida-11593696#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/pjvvg0sk_noida-fire_625x300_05_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 04:59:29.901664",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**Firefighters** are battling two separate blazes in Noida, India. A massive fire broke out on the 12th floor of a residential building in Sector 74, while another fire occurred on the ground floor of a building in Sector 52.  No casualties have been reported in either incident. **Chief Minister Yogi Adityanath** directed officials to expedite relief and rescue operations. The cause of both fires remains unclear.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65548,
+      "title": "A day after Malviya nagar hotel fire | Committees formed to seal buildings in Capital flouting fire safety norms | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/a-day-after-malviya-nagar-hotel-fire-committees-formed-to-seal-buildings-in-capital-flouting-fire-safety-norms-10724905/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/malviya-nagar-fire-1-1_20260605041349.jpg",
+      "scraped_at": "2026-06-05 04:59:27.194913",
+      "category": "regional",
+      "sentiment": "neutral",
+      "sentiment_target": "Delhi Government",
+      "rephrased_article": "**Delhi**'s government has established committees to conduct a citywide survey of buildings with six or more floors, including hospitals and nursing homes. The **District Magistrates**, **MCD Deputy Commissioners**, and **Divisional Officer, Fire** will lead the district-level committees, while sub-division-level committees will be headed by **Sub-Divisional Magistrates (Revenue District)**. These committees aim to identify buildings violating fire safety norms and enforce sealing actions under existing laws. The drive began on Thursday and has led to evacuations of several B&B establishments in Malviya Nagar.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65546,
+      "title": "Putin's word of caution on India-China ties; rejects notion that Pakistan is under Beijing's control - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/europe/putins-word-of-caution-on-india-china-ties-rejects-notion-that-pakistan-is-under-beijings-control/articleshow/131519409.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131519489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-05 04:59:13.693620",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Vladimir Putin",
+      "rephrased_article": "**Vladimir Putin** stated that **Russia** would not interfere in the relationship between **India** and **China**, expressing confidence in their ability to resolve outstanding issues. He acknowledged the complex nature of these bilateral ties, noting that both countries are working towards resolving border disputes and other mutual interests. **Putin** emphasized that Russia maintains strong relationships with both nations and that its ties with India do not affect its relationship with China, nor vice versa.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65544,
+      "title": "DU assistant professor found murdered at East Delhi residence, police say sustained fatal head injury | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/du-assistant-professor-murder-east-delhi-residence-police-fatal-head-injury-10724948/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/du-prof-murder.jpg",
+      "scraped_at": "2026-06-05 04:59:12.936866",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "An assistant professor at **Shivaji College**, Devosmita Paul, was found murdered in her East Delhi apartment on Thursday afternoon.  Police suspect she was attacked with a blunt object and are investigating the case from all angles.  **Devarati Paul**, Devosmita's sister, discovered her body after breaking into the apartment. No valuables have been reported missing, and police have registered a case under Section 103(1) of the **Bhartiya Nyaya Sanhita**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65540,
+      "title": "J&K parties question NC move to hold protest in Delhi over Statehood - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-parties-question-nc-move-to-hold-protest-in-delhi-over-statehood/article71062428.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/yhvab4/article71062625.ece/alternates/LANDSCAPE_1200/12205_5_9_2024_18_7_0_2_12_NATIONAL_CONFERENCE_SGR_05_09_2024.JPG",
+      "scraped_at": "2026-06-05 00:16:52.368496",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "National Conference",
+      "rephrased_article": "Several opposition parties in Jammu and Kashmir, including the Peoples Democratic Party (PDP) and J&K Apni Party, criticized **National Conference**'s planned protest in New Delhi over statehood and constitutional guarantees. They argued that the protest lacks significance and reflects a pattern of disappointment for Kashmiris, citing past instances where **National Conference** has failed to deliver on promises.",
+      "party_mentioned": [
+        "PDP",
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65526,
+      "title": "Former Lok Sabha Secretary General, constitution expert Subhash Kashyap passes away - The Hindu",
+      "url": "https://www.thehindu.com/news/national/former-lok-sabha-secretary-general-constitution-expert-subhash-kashyap-passes-away/article71062609.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/exboig/article71062614.ece/alternates/LANDSCAPE_1200/05_FOR_FRONTLINE_SUBHASH_C_KASHYAP_09_10_DEL.jpg",
+      "scraped_at": "2026-06-05 00:16:13.855744",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Subhash Kashyap",
+      "rephrased_article": "**Subhash C. Kashyap**, a former **Lok Sabha Secretary General** and constitutional expert, passed away on June 4, 2026, at the age of 97. He died from cardio-pulmonary arrest after suffering from age-related issues.  **Kashyap** served Parliament for over 37 years and was part of a high-level committee to prepare a legal framework for simultaneous elections. He also received the Padma Bhushan and authored over 100 books. **Om Birla**, the **Lok Sabha Speaker**, expressed profound sadness at Kashyap's passing, stating it is a loss to Indian parliamentary democracy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Meerut",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65517,
+      "title": "Putin calls India reliable partner, hits out at Western interference - The Hindu",
+      "url": "https://www.thehindu.com/news/national/putin-calls-india-reliable-partner-hits-out-at-western-interference/article71062722.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3qww72/article71062743.ece/alternates/LANDSCAPE_1200/2026-06-04T174435Z_1167107877_RC25NLA3K6BY_RTRMADP_3_RUSSIA-FORUM-PUTIN-MEDIA.JPG",
+      "scraped_at": "2026-06-05 00:15:03.831366",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Russia",
+      "rephrased_article": "**Vladimir Putin**, Russian President, emphasized the strategic partnership between **Russia** and **India**, stating that Western attempts to pressure **India** into scaling back its cooperation with **Russia** are futile. He praised **India's** economic growth under Prime Minister **Narendra Modi** and expressed confidence in expanding bilateral trade to $100 billion.  **Putin** highlighted **India's** independent foreign policy, stating that it will prioritize its national interests while maintaining strong ties with both the United States and Russia.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65506,
+      "title": "Trump Hails 'Good Friend' PM Modi, Confident of US-India Trade Deal",
+      "url": "https://indianexpress.com/article/world/donald-trump-praises-pm-modi-confident-us-india-trade-deal-tariffs-10724680/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/US_7d2450.jpg",
+      "scraped_at": "2026-06-05 00:14:38.572297",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "US-India Trade Deal",
+      "rephrased_article": "**President Donald Trump** praised **Prime Minister Narendra Modi**, calling him a \"good friend\" and expressing confidence in reaching a trade agreement despite past differences.  He highlighted their personal rapport as a factor that could help resolve outstanding issues, including India's high tariffs on American goods. Despite these concerns, both sides remain engaged in finding common ground. US officials have indicated progress towards an interim agreement, while **India’s Commerce Minister Piyush Goyal** suggested most aspects of the agreement have been settled.  However, a parallel US review of tariffs under Section 301 of the Trade Act of 1974 remains a potential sticking point in concluding a broader agreement.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65472,
+      "title": "Key cancer drug shortage in India for 2 weeks, doctors raise alarm | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/cisplatin-carboplatin-chemotherapy-cancer-drug-shortage-india-dpco-hormuz-crisis-10724448/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/06/injection-957260_1280.jpg",
+      "scraped_at": "2026-06-04 22:42:06.741625",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Cisplatin** and **Carboplatin**, two commonly used, cheap chemotherapy medicines, have been completely unavailable across the country in recent weeks due to rising raw material costs fueled by the Hormuz crisis.  This shortage has led to concerns among oncologists who are seeing patients struggle to access these essential drugs. The price increases are attributed to global platinum shortages and a surge in demand for the metal in various sectors, while wholesalers and stockists have reported running out of supplies. **Anonna Dutt**, a **Principal Correspondent** at the **Indian Express**, has reported on this shortage and its impact on cancer patients.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Chennai",
+        "Pune"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 65455,
+      "title": "Delhi Confidential: Top Secret | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/delhi-confidential/delhi-confidential-top-secret-10724676/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/akhilesh-ill_20260428233441_20260604223239.jpg",
+      "scraped_at": "2026-06-04 22:41:20.310481",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Samajwadi Party",
+      "rephrased_article": "**Akhilesh Yadav**, president of the **Samajwadi Party**, has instructed party leaders to maintain confidentiality regarding their meetings and discussions, especially with journalists. He also urged probable candidates to begin preparations in their constituencies but keep communication confidential until seat-sharing agreements are finalized with the **Congress**.  The future of the **Cockroach Janta Party**’s protest at Jantar Mantar on Saturday remains uncertain as Delhi Police has begun tracking the group's activities.",
+      "party_mentioned": [
+        "Congress",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65427,
       "title": "3 killed as crane overturns on under construction flyover linking Noida airport to Faridabad | Delhi News - The Indian Express",
@@ -100,8 +978,7 @@
       "rephrased_article": "**Vladimir Putin** stated that **India** is a reliable partner and the two nations will continue to deepen their economic and diplomatic relations. He praised India's economic growth, stating it is one of the world's leading economies with impressive rates of growth.  **Putin** expressed confidence that bilateral trade between the two countries will reach $100 billion soon. **Putin** also asserted that Western attempts to pressure **India** into scaling back its cooperation with Russia are futile and damaging to global stability.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Delhi"
@@ -154,9 +1031,8 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Shah",
-        "Rahul Gandhi",
-        "Rahul"
+        "Amit Shah",
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Madhya Pradesh",
@@ -4588,863 +5464,6 @@
       ],
       "topic_tags": [
         "health"
-      ]
-    },
-    {
-      "id": 64081,
-      "title": "Delhi crime rate against women highest in 2024, Jaipur tops cities - India Today",
-      "url": "https://www.indiatoday.in/diu/story/delhi-crime-rate-against-women-highest-in-2024-jaipur-tops-cities-2918101-2026-05-27?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/hyderabad-rape-012148759-16x9.jpg?VersionId=TWOz9s6B4iFaKysr2XD921TGd7UgmDr2",
-      "scraped_at": "2026-06-01 00:13:22.012047",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Delhi** recorded the highest crime rate against women in India in 2024, with a rate of 130.7 cases per lakh women, according to the **National Crime Records Bureau**.  The city was followed by Telangana, Odisha, Haryana, and Rajasthan.  While some states saw declines in crime rates against women between 2020 and 2024, including Assam, Telangana experienced a significant increase. **Jaipur** reported the highest crime rate among surveyed cities at 199.6 cases per lakh women, while **Chennai** had one of the lowest rates.  Major crimes against women declined in 2024, with decreases seen in cruelty by husbands or relatives, kidnapping and abduction, assaults on women, and dowry-related crimes.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Gujarat",
-        "Haryana",
-        "Jharkhand",
-        "Manipur",
-        "Nagaland",
-        "Odisha",
-        "Rajasthan",
-        "Telangana",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai",
-        "Kolkata",
-        "Jaipur",
-        "Lucknow",
-        "Indore",
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64077,
-      "title": "Delhi CM visits building collapse site, orders action on all illegal buildings - Delhi News | India Today",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-saket-building-collapse-rekha-gupta-orders-fir-magisterial-inquiry-2919978-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/delhi-cm-rekha-gupta-during-a-visit-to-the-site-after-a-three-storey-commercial-building-collapsed-313754149-16x9_0.jpg?VersionId=9sSXjaBAUihcgQWMaY8GzetxJAfIjtWF",
-      "scraped_at": "2026-06-01 00:13:08.591175",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Delhi Government",
-      "rephrased_article": "**Delhi Chief Minister Rekha Gupta** visited the Saket building collapse site on Sunday, ordering a criminal case and a magisterial inquiry into the incident.  Following her visit, **Gupta** directed authorities to inspect dilapidated buildings in the area and take action against unauthorized constructions. The **CMO Delhi**, along with **Lieutenant Governor Taranjit Singh Sandhu** and **Home Minister Ashish Sood**, confirmed that rescue teams were continuing operations and providing medical assistance to those affected.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64067,
-      "title": "Ladakh: Towards People’s Rule",
-      "url": "https://www.greaterkashmir.com/opinion/ladakh-towards-peoples-rule-11894383",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2023/08/Ladakh_market.jpg",
-      "scraped_at": "2026-06-01 00:12:01.853236",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**The Centre** and representatives of the **Apex Body of Ladakh (ABL)** and **Kargil Democratic Alliance (KDA)** have reached an \"in-principle\" agreement on restoring democracy in Ladakh, providing constitutional safeguards under provisions similar to Article 371 A, F, and G.  These provisions are applicable in states like Nagaland, Sikkim, and Mizoram. The agreement includes granting legislative, executive, and financial powers to elected representatives through a UT-level Assembly, with the elected head having direct administrative control over the entire UT bureaucracy.  The agreement also safeguards land, environment, culture, and jobs under Article 371.  While both parties expressed optimism about this step forward, they emphasized that further discussions are needed before finalizing the proposal.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Mizoram",
-        "Nagaland",
-        "Sikkim",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64063,
-      "title": "Commercial LPG cylinder price hiked in Delhi, domestic LPG rates unchanged - India Today",
-      "url": "https://www.indiatoday.in/business/story/commercial-lpg-cylinder-price-hiked-in-delhi-domestic-lpg-rates-unchanged-2920031-2026-06-01?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/commercial-lpg-315626490-16x9_0.jpg?VersionId=Y91_sQN24X_l2aWTp_HI9wckBN_A0p9S",
-      "scraped_at": "2026-06-01 00:11:51.527772",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**The government** has increased the price of commercial LPG cylinders in Delhi and Kolkata, effective June 1st. The price hike for a 19 kg cylinder is Rs 42 in Delhi, reaching Rs 3,113.50, and Rs 53.50 in Kolkata, reaching Rs 3,255.50.  **The Joint Secretary in the Ministry of Petroleum and Natural Gas**, Sujata Sharma, stated that these price increases are part of efforts to strengthen fuel security and maintain adequate reserves. **Authorities** have also intensified inspections to prevent hoarding and diversion of LPG.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 64062,
-      "title": "Noida engineer missing near Pindari Glacier: Camera found on riverbank after he told porter to go ahead | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/noida-engineer-missing-near-pindari-glacier-camera-found-on-riverbank-after-he-told-porter-to-go-ahead-10717529/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Pindari-Glacier.jpeg",
-      "scraped_at": "2026-06-01 00:11:50.581394",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Abhishek Chauhan",
-      "rephrased_article": "A 36-year-old engineer, **Abhishek Chauhan**, has gone missing while on a trek from Pindari Glacier in Uttarakhand.  **Rescue personnel**, including members of the **State Disaster Response Force (SDRF)**, have been searching for him since Friday. His camera was found near the Pindar River, and his porter reported him missing after he failed to meet at a scheduled location. The search has been hampered by adverse weather conditions and inaccessible terrain.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Uttarakhand",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64029,
-      "title": "Nepal PM says India, Nepal ‘encroached’ each other’s territories, triggers row | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/nepal-pm-balen-shah-india-nepal-encroached-territories-triggers-row-10717172/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Balendra-Shah-Nepal-PM.jpg",
-      "scraped_at": "2026-05-31 22:36:27.557219",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Nepal PM Balendra Shah",
-      "rephrased_article": "**Nepal Prime Minister Balendra Shah** stated that he has learned of potential Nepalese encroachment on Indian territory, suggesting a complex border dispute. **Shah** emphasized the need for both countries to resolve the issue through diplomatic channels with expert assistance. He also revealed discussions with **China** and the **United Kingdom**, highlighting the historical context of the dispute.  However, several former diplomats and experts have questioned **Shah's** assertion, noting that most border issues have been resolved and cross-border farming arrangements do not constitute state encroachment.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Uttarakhand",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64022,
-      "title": "‘Father was a farmer, family hoped he would become a doctor’: Dreams, lives cut short in Saket building collapse | The Indian Express",
-      "url": "https://indianexpress.com/article/delhi/saidullajab-father-farmer-family-doctor-saket-building-collapse-10717229/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Saket-building-collapsed-1.jpg",
-      "scraped_at": "2026-05-31 22:36:08.548454",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Municipal Corporation of Delhi (MCD)",
-      "rephrased_article": "**Ravi Prakash** (26) and **Nalin** (22), both aspiring doctors, were among six people killed when a four-storey building collapsed in Saidullajab, Delhi. The incident occurred on Saturday evening as the victims gathered for dinner at a kitchen adjacent to the structure.  The building's collapse was attributed to illegal construction work that had been ongoing for several months, according to police. **Ekta**, **Alok**, and **Kapil** were also killed in the collapse, along with **Parvati**, who ran the kitchen where they were dining. The **Municipal Corporation of Delhi (MCD)** has suspended two engineers responsible for the area's dereliction of duty and negligence.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63992,
-      "title": "BJP to host Nepal ruling party delegation in outreach to new govt. - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bjp-to-host-nepal-ruling-party-delegation-in-outreach-to-new-govt/article71045466.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/u3x4kj/article71045606.ece/alternates/LANDSCAPE_1200/AFP__20260326__A4R798K__v1__HighRes__NepalPolitics.jpg",
-      "scraped_at": "2026-05-31 21:08:02.395565",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "A delegation from Nepal's ruling **Rastriya Swatantra Party (RSP)**, led by chairperson Rabi Lamichhane, will visit India at the invitation of **BJP** president Nitin Nabin. The visit aims to foster political dialogue between the two countries and explore organizational practices, democratic processes, and people-centric outreach.  This follows the cancellation of Indian Foreign Secretary Vikram Misri's planned visit to Kathmandu due to a lack of assurance over a meeting with Nepal's Prime Minister Balendra Shah.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63987,
-      "title": "From the Opinions Editor: What we don’t talk about when we talk about sexual violence | The Indian Express",
-      "url": "https://indianexpress.com/article/opinion/columns/vinesh-phogat-asian-games-wfi-brij-bhushan-sexual-violence-10717226/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/vinesh-phogat-1.jpg",
-      "scraped_at": "2026-05-31 21:07:50.325969",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Wrestling Federation of India",
-      "rephrased_article": "**Brij Bhushan Sharan Singh**, former president of the Wrestling Federation of India, and other powerful figures have been accused of sexual harassment by athletes.  The recent case of **Vinesh Phogat** highlights the challenges survivors face when reporting abuse due to institutional obstruction. The Delhi High Court and Supreme Court ruled against the WFI's actions, clearing Phogat's path to compete in the Asian Games. However, the incident raises questions about the trust survivors place in institutions and the consequences of their courage.  This underscores the need for accountability from powerful figures within organizations.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 63981,
-      "title": "Saket building collapse: One killed, eight rescued - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/saket-building-collapse-delhi-death-toll-may-31-2026/article71043893.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/cjw8zl/article71045710.ece/alternates/LANDSCAPE_1200/30_Building_Collapsed_31_05_Delhi.jpg",
-      "scraped_at": "2026-05-31 21:07:35.302898",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Municipal Corporation of Delhi (MCD)",
-      "rephrased_article": "A five-storeyed building collapsed in Mehrauli, Delhi on Saturday evening, killing six people including five doctors and a canteen owner. Residents reported the building was uninhabitable and illegal construction had been ongoing despite a notice issued by **the Municipal Corporation of Delhi (MCD)** to the building's owner.  **The Delhi government** suspended two MCD engineers in response to the incident and police have registered a case of negligence.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63979,
-      "title": "JEE Advanced 2026 Results Out: Check category wise qualifying marks | Education News - The Indian Express",
-      "url": "https://indianexpress.com/article/education/jee-advanced-results-declared-2026-check-scorecards-qualifying-marks-jeeadv-ac-in-10708253/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/JEE-Advanced-results-declared-2026.jpg",
-      "scraped_at": "2026-05-31 21:07:32.753093",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "JEE Advanced",
-      "rephrased_article": "**IIT Roorkee** has declared the results for the **JEE Advanced** exam, with over 56,000 students qualifying.  The top three rankers are from the IIT Delhi zone: Shubham Kumar (All India Rank 1), Kabeer Chhillar, and Jatin Chahar. The results are available on the official website: jeeadv.ac.in. Candidates can access their scores by entering their roll number, date of birth, and registered mobile number.  The admission process will begin soon, but qualifying does not guarantee a seat at an **IIT**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63977,
-      "title": "Deepak Punia changes weight category but qualifies for Asian Games | Sports News - The Indian Express",
-      "url": "https://indianexpress.com/article/sports/deepak-punia-changes-weight-category-but-qualifies-for-asian-games-10717412/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/deepak-punia.jpg",
-      "scraped_at": "2026-05-31 21:07:26.362509",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Deepak Punia",
-      "rephrased_article": "**Deepak Punia**, a Tokyo Olympian wrestler, secured his spot at the Asian Games after winning the 97kg category trials in Lucknow.  He overcame multiple setbacks including injuries and weight category changes to reach the finals where he defeated Jointy Kumar. **Azamat**, a Russian coach hired by the Services Sports Control Board, has been guiding Punia's training.  **Aman Sehrawat** and **Sujeet Kalkal** also secured their spots in the 57kg and 65kg categories respectively.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Lucknow"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 63966,
-      "title": "Sitting Vice-Chancellor on search panel raises conflict of interest concerns, says expert - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/sitting-vc-on-search-panel-raises-conflict-of-interest-concerns-says-expert/article71044153.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ieeimq/article71045769.ece/alternates/LANDSCAPE_1200/10510_6-7-2020_20-5-14_5_TNPRAKASHKAMMARDI_10.JPG",
-      "scraped_at": "2026-05-31 21:06:47.282348",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "Dr. S.V. Suresh",
-      "rephrased_article": "**T.N. Prakash Kammardi**, an agri-economist and member of the **Karnataka State Policy and Planning Commission**, has criticized the appointment of **Dr. S.V. Suresh**, the current Vice-Chancellor of the **University of Agricultural Sciences (UAS), Bengaluru**, as chairman of the search committee for the **Vice-Chancellor of Keladi Shivappa Nayaka University of Agricultural and Horticultural Sciences (KSNUAHS)** in Shivamogga.  **Dr. Kammardi** argues that this appointment raises concerns about the selection process's credibility, citing UGC regulations and ICAR Model Act guidelines regarding the independence of search committee chairpersons. He has called for Dr. Suresh to step down from his role and urged the government to reconsider its decision.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Madhya Pradesh",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63958,
-      "title": "NSA Ajit Doval meets Myanmar President Aung Hlaing - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/lok-adalats-dlsas-have-no-authority-to-grant-divorce-allahabad-high-court/article71045869.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/tsdbto/article71045910.ece/alternates/LANDSCAPE_1200/20260531332L.jpg",
-      "scraped_at": "2026-05-31 21:06:10.648623",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Ajit Doval**, **India's National Security Advisor**, met with **Myanmar's President U. Min Aung Hlaing** on Sunday, May 31, 2026, to discuss bilateral ties.  The meeting focused on key issues like trade, connectivity, border security, and defense. **U. Min Aung Hlaing** is in India for a five-day visit, which includes talks with **Prime Minister Narendra Modi**. The Myanmarese leader's trip comes less than two months after he assumed office following Myanmar's parliamentary elections.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Manipur",
-        "Nagaland",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63956,
-      "title": "NSA Ajit Doval meets Myanmar President Aung Hlaing - The Hindu",
-      "url": "https://www.thehindu.com/news/national/nsa-ajit-doval-meets-myanmar-president-aung-hlaing/article71045747.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/tsdbto/article71045910.ece/alternates/LANDSCAPE_1200/20260531332L.jpg",
-      "scraped_at": "2026-05-31 21:05:57.348110",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Ajit Doval**, **India's National Security Advisor**, met with **Myanmar's President U. Min Aung Hlaing** on Sunday, May 31, 2026, to discuss bilateral ties.  The meeting comes ahead of **President Hlaing's** visit to India, where he will meet with **Prime Minister Narendra Modi** and hold talks focusing on trade, connectivity, border security, and defense. The Myanmarese leader is accompanied by a delegation including Cabinet Ministers, senior officials, and business leaders.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Manipur",
-        "Nagaland",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63941,
-      "title": "JEE Advanced Results 2026: Here’s what IIT Roorkee has to say on CBSE Class 12th scores",
-      "url": "https://indianexpress.com/article/education/jee-advanced-results-2026-iit-roorkee-josaa-counselling-cbse-class-12-scores-osm-jeeadv-ac-in-10717420/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/jee-advanced-2.jpg",
-      "scraped_at": "2026-05-31 19:52:59.384264",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "IIT Roorkee",
-      "rephrased_article": "**The Indian Institute of Technology-Roorkee** released the results for the **JEE Advanced 2026**, amidst controversy surrounding the CBSE Class 12th OSM evaluation. The institute advises all qualified candidates to register for the Joint Seat Allocation Authority (JoSAA) 2026 counselling process, regardless of their Class 12 scores. However, final seat confirmation depends on meeting the percentage-related eligibility criteria outlined in the **JEE (Advanced) 2026 Information Brochure**.  **Shubham Kumar**, from the IIT Delhi zone, achieved the top score with 330 out of 360 marks, while **Arohi Deshpande**, also from the IIT Delhi zone, secured the top female position with a score of 280 out of 360.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63933,
-      "title": "JEE Advanced 2026 results out at jeeadv.ac.in. Direct link, toppers, scorecards, josaa counselling - India Today",
-      "url": "https://www.indiatoday.in/education-today/news/story/jee-advanced-2026-results-out-at-jeeadvacin-direct-link-toppers-scorecards-josaa-counselling-2919899-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/iit-delhi-open-house-for-jee-2026-aspirants-to-be-held-in-kota-on-january-31-26483537-16x9.jpg?VersionId=mYRF.cwQ25uSb9s7O3ja0nq_Gp4UajYj",
-      "scraped_at": "2026-05-31 19:52:38.028513",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "JEE Advanced 2026",
-      "rephrased_article": "**IIT Roorkee** has declared the results for the JEE Advanced 2026 exam. Candidates who took the exam on May 17 can access their scorecards and ranks on the official website, jeeadv.ac.in. The institute also released the names of top-performing candidates.  The results will be used to determine admissions to **IITs** through the upcoming JoSAA counselling process. Qualified candidates should prepare for the counselling rounds and carefully analyze previous years' opening and closing ranks before making their choices.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Hyderabad",
-        "Kanpur",
-        "Varanasi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63931,
-      "title": "JEE Advanced 2026 Results Declared: Shubham Kumar Tops Exam With 330/360, Over 56,000 Qualify - India Today",
-      "url": "https://www.indiatoday.in/education-today/news/story/jee-advanced-2026-results-declared-shubham-kumar-tops-exam-with-330360-over-56000-qualify-2920015-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/jee-advanced-2025-important-dates-out-210238928-16x9.jpg?VersionId=i4bkLMjgkZY29taPkcUN77IVI5hTEpFu",
-      "scraped_at": "2026-05-31 19:52:35.050146",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "JEE Advanced 2026",
-      "rephrased_article": "**Shubham Kumar** of the IIT Delhi zone topped the JEE Advanced 2026 with a score of 330 out of 360 marks, securing All India Rank (AIR) 1.  A total of 56,880 candidates qualified from among 1.79 lakh test-takers, including Arohi Deshpande who ranked highest among female candidates. The results were announced on Sunday and saw strong participation with 1,87,389 candidates registering for the exam. Qualified candidates are now encouraged to participate in the Joint Seat Allocation Authority (JoSAA) 2026 counselling process.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63922,
-      "title": "Nepal has also encroached upon Indian territory, says PM Balendra Shah - The Hindu",
-      "url": "https://www.thehindu.com/news/international/nepal-pm-says-nepal-has-also-encroached-upon-indian-territory-sparks-uproar-in-parliament/article71044625.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/lhkhv5/article71044677.ece/alternates/LANDSCAPE_1200/PTI03_27_2026_000166A.jpg",
-      "scraped_at": "2026-05-31 19:52:07.272433",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Balendra Shah",
-      "rephrased_article": "**Nepal Prime Minister Balendra Shah** sparked controversy in Parliament on Sunday by stating that Nepal has encroached upon Indian territories.  The statement, which was met with uproar from opposition lawmakers, prompted demands for clarification and the removal of his remarks from parliamentary records. **Mr. Shah**, who made the comments during a session where he addressed questions from lawmakers, claimed that Nepal's encroachment on Indian territory is related to \"cross-border occupation\" and \"encroachment in the Dasgaja area.\" The Ministry of Foreign Affairs later clarified that the Prime Minister's statement was based on technical realities regarding land use and border demarcation.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63915,
-      "title": "India-Oman CEPA trade deal takes effect on Monday - Telangana Today",
-      "url": "https://telanganatoday.com/india-oman-cepa-trade-deal-takes-effect-on-monday",
-      "source": "Telangana Today",
-      "image_url": "https://media.telanganatoday.com/wp-content/uploads/2026/06/India-Oman.jpg",
-      "scraped_at": "2026-05-31 19:51:42.103967",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India** and **Oman**’s Comprehensive Economic Partnership Agreement (CEPA) takes effect on June 1, 2026, offering zero-duty access to a range of Indian labor-intensive exports. The agreement expands opportunities in services and professional mobility, strengthening bilateral trade and economic ties.  The Finance Ministry issued notification on duty concessions for Omani goods under the trade pact, which will come into force on June 1. **India** is offering tariff liberalisation on 77.79% of its total tariff lines, covering 94.81% of India’s imports from Oman by value.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 63910,
-      "title": "Pakistan Spy Agency's New Plan Involves Making Terrorists Join Political Parties",
-      "url": "https://www.ndtv.com/india-news/pakistan-spy-agencys-new-plan-involves-making-terrorists-join-political-parties-11572859#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2022-10/2kchu9r_isi-backed-terrorists_625x300_04_October_22.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 19:51:37.365672",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "ISI",
-      "rephrased_article": "**Pakistan's** spy agency, the **Inter-Services Intelligence (ISI)**, is attempting to use mainstream politics as camouflage for terror activities in India. The ISI has directed its overground workers (OGWs) in Jammu and Kashmir to infiltrate national political parties to mask terror recruitment, fundraising, and weapons movement.  This strategy aims to evade counter-terror surveillance by embedding operatives within political structures. **Former DGP S P Vaid** warned that the membership cards of national parties can shield OGWs from scrutiny by security forces.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63897,
-      "title": "What does Delhi Gymkhana actually look like from the inside? - India Today",
-      "url": "https://www.indiatoday.in/newsmo/video/what-does-delhi-gymkhana-actually-look-like-from-the-inside-2919648-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202605/gym-305342167-16x9_0.jpeg?VersionId=4ovCg2zPkUiHuH781ufK7.aPr_UZT0r5",
-      "scraped_at": "2026-05-31 18:09:52.726671",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Delhi Gymkhana",
-      "rephrased_article": "**Shape of Momo** director Tribeny Rai, reflecting on the lack of film schools in Northeast India, recently visited a prominent institution in Delhi.  The club is facing a government notice to vacate its premises and has been forced to consider alternative locations for its operations. Meanwhile, 14-year-old Shrey Parikh won the 2026 Scripps National Spelling Bee but faced online racist comments following his victory. A dust storm swept across Rajasthan's Churu district, causing widespread disruption and darkness.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab",
-        "Rajasthan",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63893,
-      "title": "NADA finds unused syringes and Russian medicines during checks at wrestling trials",
-      "url": "https://indianexpress.com/article/sports/nada-finds-unused-syringes-and-russian-medicines-during-checks-at-wrestling-trials-10717365/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/pritish-photo.jpg",
-      "scraped_at": "2026-05-31 18:09:47.173480",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "NADA",
-      "rephrased_article": "**National Anti-Doping Agency (NADA)** officials discovered unused syringes and Russian medicines in a bag during random checks at the SAI Center in Lucknow, where **Indian Express** staff member Pritish Raj works. The bag was found unattended after the checks, and NADA is unable to identify its owner.  The agency has increased surprise bag checks following WADA's report that India had the highest number of doping violations among countries globally.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Lucknow",
-        "Ranchi"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63891,
-      "title": "Legislative Council election: Seat sharing finalised but Mahayuti and MVA camps yet to announce candidates | Mumbai News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/mumbai/legislative-council-election-seat-sharing-finalised-but-mahayuti-and-mva-camps-yet-to-announce-candidates-10717373/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/mva-2.jpg",
-      "scraped_at": "2026-05-31 18:09:38.650032",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Mahayuti** and **Opposition MVA** alliances have finalized seat sharing agreements for the upcoming legislative council elections, but have yet to disclose most candidate names. The **BJP**, **Shiv Sena**, and **NCP** reached an agreement on 17 seats, with the **BJP** securing 11, **Shiv Sena** receiving 4, and the **NCP** getting 2. The disputes between the alliances revolve around seat allocation in specific districts, particularly over Chhatrapati Sambhajinagar —Jalna and Raigad-Ratnagiri-Sindhudurg.  The final candidate lists are expected to be announced on June 1st.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "SP",
-        "NCP",
-        "Nationalist Congress",
-        "Shiv Sena"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Pune",
-        "Nagpur",
-        "Thane",
-        "Nashik"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63886,
-      "title": "JEE Advanced Results 2026: How to check & download IIT Roorkee scorecards",
-      "url": "https://indianexpress.com/article/sports/cricket/ipl-full-list-winners-rcb-beat-gt-final-indian-premier-league-2026-10717066/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2025/05/jee-advanced-2025-Express-Photo-by-Tashi-Tobgyal.jpg",
-      "scraped_at": "2026-05-31 18:09:19.689207",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "JEE Advanced",
-      "rephrased_article": "The **Indian Institute of Technology Roorkee (IIT Roorkee)** has released the results for the 2026 JEE Advanced exam. A total of 56,880 candidates qualified out of the 179,694 who appeared in both papers.  **Shubham Kumar** from the IIT Delhi zone topped the list with a score of 330 out of 360 marks. The results are available on the official website jeeadv.ac.in and candidates are encouraged to participate in the JoSAA 2026 counselling process.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Gujarat",
-        "Haryana",
-        "Maharashtra",
-        "Odisha",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Hyderabad",
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63883,
-      "title": "Delhi: Woman befriends new mother, flees with her 7-month-old from Delhi's GTB hospital - Delhi News | India Today",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-gtb-hospital-baby-missing-kidnapping-case-unidentified-woman-2920005-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/infant-094710823-16x9_0.jpg?VersionId=fYoc4a_M0glG_VBW5UQF9.CkwE7v.gCy",
-      "scraped_at": "2026-05-31 18:09:10.446775",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "A seven-month-old child was allegedly stolen from **GTB Hospital** in Delhi on Saturday after his mother, Nazreen, handed him to an unknown woman she had befriended.  Police are investigating the incident and have registered a kidnapping case. The missing infant and the unidentified woman are being sought by authorities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63873,
-      "title": "Goodbye Western Disturbance: North India's rain party ends late Monday night - India Today",
-      "url": "https://www.indiatoday.in/science/story/western-disturbance-north-india-rain-weather-update-june-2026-monday-night-hail-storm-2920010-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/goodbye-western-disturbance-the-system-that-brought-relief-to-north-india-is-heading-out-on-monday-315414208-16x9_0.jpg?VersionId=npRoaxn7uOkyHvOuRslw14tLWX2b1WH2",
-      "scraped_at": "2026-05-31 18:08:37.727240",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "Western Disturbance",
-      "rephrased_article": "**The Western Disturbance**, a low-pressure system originating from the Mediterranean Sea, is expected to exit the Indian subcontinent by Monday night. This weather phenomenon, responsible for bringing rain, dust storms, and gusty winds to North India this week, will leave behind lingering rainfall before clearing. The **India Meteorological Department (IMD)** continues to monitor the system's movement to ensure no unexpected severe weather spikes occur during its exit.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Punjab",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63862,
-      "title": "6 Children Among 45 Killed In Myanmar Building Blast | OdishaBytes",
-      "url": "https://odishabytes.com/6-children-among-45-killed-in-myanmar-building-blast/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/Myanmar-building-explosion.webp",
-      "scraped_at": "2026-05-31 18:07:58.453356",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Ta’ang National Liberation Army (TNLA)",
-      "rephrased_article": "A massive explosion at a building in Kaungtup village, Myanmar, killed over 45 people and injured more than 70. The blast occurred at a site storing explosives for mining operations, according to **rescue workers** and independent media reports. The **Ta’ang National Liberation Army (TNLA)**, an ethnic armed group that controls the area, is under investigation for the cause of the explosion.  The incident highlights ongoing tensions in Myanmar following the military coup in 2021.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63860,
-      "title": "JEE Advanced Results 2026: How to check & download IIT Roorkee scorecards",
-      "url": "https://indianexpress.com/article/education/jee-advanced-results-2026-how-to-check-download-iit-roorkee-btech-score-jeeadv-ac-in-10708157/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2025/05/jee-advanced-2025-Express-Photo-by-Tashi-Tobgyal.jpg",
-      "scraped_at": "2026-05-31 18:07:56.246244",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "JEE Advanced",
-      "rephrased_article": "The **Indian Institute of Technology Roorkee** (IIT Roorkee) released the results for the JEE Advanced exam 2026 today. A total of 56,880 candidates qualified out of 179,694 who appeared in both papers.  **Shubham Kumar**, from the IIT Delhi zone, topped the list with a score of 330 out of 360 marks. Candidates are encouraged to participate in the JoSAA 2026 counselling and seat allocation process based on their results. The JEE Advanced rank list is based on marks and All India Rank obtained by the candidates.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Gujarat",
-        "Haryana",
-        "Maharashtra",
-        "Odisha",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Hyderabad",
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63848,
-      "title": "‘Some resentment natural … reuniting party is priority’: New Goa Congress chief Chodankar amid unease over his appointment | Political Pulse News - The Indian Express",
-      "url": "https://indianexpress.com/article/political-pulse/some-resentment-natural-reuniting-party-is-priority-new-goa-congress-chief-chodankar-amid-unease-over-his-appointment-10717244/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/chodankar.jpg",
-      "scraped_at": "2026-05-31 16:47:07.655180",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Goa Congress",
-      "rephrased_article": "**Girish Chodankar**, newly appointed **Goa Congress** president, acknowledged the \"natural response\" to his appointment following a loss in the 2022 elections. He promised a consultative leadership style and hinted at an alliance with other Opposition parties for the 2027 Assembly elections.  Chodankar addressed concerns from his predecessor, **Amit Patkar**, who criticized the lack of consultation on the leadership change. Chodankar also emphasized uniting Congress workers and addressing issues like unemployment and land conversions, while stating a commitment to exposing government corruption. He expressed optimism about defeating the BJP in future elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Goa",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "protest_opposition",
-        "economy"
-      ]
-    },
-    {
-      "id": 63843,
-      "title": "June 1 New Rule Changes: LPG Cylinder Rates, PAN Update, Advance Tax Deadline and CBSE Guidelines",
-      "url": "https://indianexpress.com/article/india/june-1-changes-2026-income-tax-deadlines-annapurna-yojana-lpg-noida-airport-flights-10717167/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/june-1.jpg",
-      "scraped_at": "2026-05-31 16:46:39.853574",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**The Central Board of Secondary Education (CBSE)** will open the re-evaluation process for Class 12 students from June 1, while **Southern Railway** has revised schedules for over 200 suburban train services on the Chennai Beach–Tambaram–Chengalpattu corridor.  **Commercial flight services** are scheduled to begin at Noida International Airport in Jewar on June 15, becoming the second international airport serving the Delhi-NCR region. **The Indian government** is implementing new rules requiring the use of domestically manufactured solar cells for all net-metering and open-access projects commissioned after June 1.  These changes affect various sectors including transportation, energy, education, and welfare programs.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy",
-        "economy"
       ]
     }
   ]

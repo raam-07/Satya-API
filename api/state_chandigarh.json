@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.474378",
+  "generated_at": "2026-06-05 11:41:52.727378",
   "state": "Chandigarh",
   "capital": "Chandigarh",
   "ruling_party": "Central Govt",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 78,
-    "articles_last_30d": 55
+    "total_articles": 82,
+    "articles_last_30d": 59
   },
   "top_cities_30d": {
-    "Delhi": 26,
+    "Delhi": 27,
     "Ludhiana": 11,
+    "Amritsar": 10,
     "Bengaluru": 10,
-    "Amritsar": 9,
     "Ahmedabad": 8,
     "Chennai": 7,
     "Mumbai": 5,
@@ -24,18 +24,121 @@
     "Pune": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 37,
-    "crime_violence": 16,
+    "foreign_policy": 38,
+    "crime_violence": 18,
     "education": 15,
-    "economy": 12,
+    "economy": 13,
     "protest_opposition": 7,
     "health": 7,
+    "corruption_scam": 5,
     "infrastructure": 4,
-    "corruption_scam": 4,
     "farmer_agriculture": 4,
-    "rape_sexual_crime": 2
+    "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 65644,
+      "title": "Court Martial orders to fire Colonel, awards 3 years in jail for outraging modesty of woman officers | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/court-martial-fire-colonel-jail-outraging-modesty-woman-officers-10725284/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/prison.jpg",
+      "scraped_at": "2026-06-05 08:52:59.579508",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Colonel",
+      "rephrased_article": "A **Colonel** of the Army Medical Corps was sentenced to three years rigorous imprisonment for outraging the modesty of two female officers at a General Court Martial. The Colonel was found guilty on five charges under the Army Act, including using criminal force against the Major and sending obscene material via WhatsApp. He was also accused of making sexually colored remarks through messages and violating the character expected of an officer.  The Colonel's defense team argued that the trial suffered from irregularities and procedural violations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 65643,
+      "title": "Gambhir on Pant losing Test vice-captaincy: 'Everyone is judged on performance'",
+      "url": "https://indianexpress.com/article/sports/cricket/gautam-gambhir-rishabh-pant-india-vice-captain-sack-judged-on-performance-10725302/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/pant-express-photo-kamleshwar-singh.jpg",
+      "scraped_at": "2026-06-05 08:52:57.309331",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "Rishabh Pant",
+      "rephrased_article": "**Gautam Gambhir**, **India's head coach**, stated that the team expects **Rishabh Pant** to maintain his aggressive batting style in Test cricket, emphasizing the importance of adapting to the situation.  Gambhir clarified that while Pant is encouraged to play according to the game's demands, he won't be asked to change his natural game. The comments come ahead of India's upcoming one-off Test against Afghanistan, where **Pant** has lost the vice-captaincy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 65639,
+      "title": "‘Punjab Police, jail authorities defied high court order’: SAD worker’s father moves contempt petition | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/punjab-police-jail-authorities-defied-high-court-order-sad-workers-father-moves-contempt-petition-10725414/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/04/Punjab-and-haryana-HC.jpg",
+      "scraped_at": "2026-06-05 08:52:49.571919",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Punjab Police",
+      "rephrased_article": "**Jagpreet Singh Sandhu**, a Senior Correspondent at **The Indian Express**, based in Chandigarh, is a veteran reporter with over a decade of experience covering legal, crime, and environmental issues. His recent coverage has focused on significant judicial verdicts, major financial scams, public health concerns, and the intersection of technology and law enforcement.  Sandhu's reporting often highlights administrative lapses and his work has been recognized for its tenacious follow-up on cold cases and courtroom drama with a focus on victim rights.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 65588,
+      "title": "Punjab’s border bloodshed: Guns, grenades and a trail police can’t crack | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/punjab-border-belt-violence-gurdaspur-ferozpur-amritsar-targeted-killings-grenade-blast-modular-gangs-10724900/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Punjab-police-2.jpg",
+      "scraped_at": "2026-06-05 05:01:18.752887",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Kamaldeep Singh Brar**, a Principal Correspondent for **The Indian Express**, has been covering the sensitive socio-political issues of the border districts in Punjab. His recent reports have focused on judicial developments, local body elections, and religious controversies, including the Akal Takht's pronouncement against former Jathedar Giani Gurbachan Singh and the SGPC's suspension for a week over a video on the 1984 Army action. Brar also covers national security issues like cross-border drug smuggling and drone activities from Pakistan, as well as regional politics in the Majha belt.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "economy",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65434,
       "title": "Amritsar tourists booked for assaulting HRTC driver, conductor near Himachal’s Parwanoo | Chandigarh News - The Indian Express",

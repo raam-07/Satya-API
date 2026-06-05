@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.414491",
+  "generated_at": "2026-06-05 11:41:52.667962",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "DMK",
@@ -8,34 +8,428 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1076,
-    "articles_last_30d": 299
+    "total_articles": 1090,
+    "articles_last_30d": 309
   },
   "top_cities_30d": {
-    "Chennai": 70,
-    "Delhi": 39,
-    "Coimbatore": 19,
-    "Bengaluru": 16,
-    "Madurai": 15,
+    "Chennai": 75,
+    "Delhi": 43,
+    "Coimbatore": 21,
+    "Bengaluru": 18,
+    "Madurai": 16,
     "Hyderabad": 13,
     "Mumbai": 8,
-    "Kolkata": 4,
+    "Kolkata": 3,
     "Visakhapatnam": 2,
     "Kanpur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 222,
+    "foreign_policy": 224,
     "education": 59,
-    "protest_opposition": 57,
-    "economy": 43,
+    "protest_opposition": 59,
+    "economy": 44,
     "crime_violence": 41,
-    "infrastructure": 35,
+    "infrastructure": 37,
     "farmer_agriculture": 28,
-    "corruption_scam": 26,
-    "health": 22,
-    "rape_sexual_crime": 12
+    "corruption_scam": 27,
+    "health": 23,
+    "political_gaffe": 17
   },
   "recent_articles": [
+    {
+      "id": 65621,
+      "title": "Former Tamil Nadu BJP chief Annamalai resignation Live Updates, K Annamalai Resigns From BJP, Says Will Contest Elections, PM Modi, Tamil nadu politics",
+      "url": "https://www.ndtv.com/india-news/former-tamil-nadu-bjp-chief-annamalai-resignation-live-updates-k-annamalai-resigns-from-bjp-says-will-contest-elections-pm-modi-tamil-nadu-politics-11594596#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/uqf6cqr4_annamalai_625x300_05_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 08:51:44.622548",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, former Tamil Nadu BJP president, resigned from the party on Friday. **Nitin Nabin**, BJP chief, accepted his resignation.  Annamalai cited disagreements with the party leadership over the direction of Tamil Nadu politics as the reason for his departure. He plans to launch a new political movement and contest the next Tamil Nadu Assembly elections. The move comes after the BJP's poor performance in the recent assembly elections and tensions with the AIADMK.",
+      "party_mentioned": [
+        "BJP",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65619,
+      "title": "K Annamalai Quits BJP, Party Says 'No Loss'",
+      "url": "https://www.ndtv.com/india-news/khan-sir-coaching-guards-detained-over-firing-during-attack-on-coaching-centre-11594828#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-04/s26fn6hs_k-annamalai_625x300_11_April_25.jpg",
+      "scraped_at": "2026-06-05 08:51:33.352764",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, BJP's most recognizable face in Tamil Nadu, has resigned from the party after disagreements with the top leadership over the future of the party in Tamil Nadu.  He announced his intention to launch a people's movement and contest the next state elections. **Nitin Nabin**, the **Bharatiya Janata Party** (BJP) national president, accepted Annamalai's resignation. The **Andhra Pradesh BJP** chief expressed hope that Annamalai would return to the party in the future.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65612,
+      "title": "K Annamalai Quits BJP, Party Says 'No Loss'",
+      "url": "https://www.ndtv.com/india-news/annamalai-quits-bjp-party-accepts-his-resignation-11594182#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-04/s26fn6hs_k-annamalai_625x300_11_April_25.jpg",
+      "scraped_at": "2026-06-05 08:51:16.041931",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, BJP's most recognizable face in Tamil Nadu, resigned from the party after disagreements with top leadership over the future of Tamil Nadu politics.  He stated that national parties do not speak the language understood by people in Tamil Nadu and he will start a movement to contest the next state election. **Nitin Nabin**, **BJP**'s National President, accepted his resignation. The **Andhra Pradesh BJP** chief expressed hope for Annamalai's return to the party in the future.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65560,
+      "title": "Madras High Court criticises Supreme Court for ignoring its own observations on early disposal of election disputes - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-criticises-supreme-court-for-ignoring-its-own-observations-on-early-disposal-of-election-disputes/article71063828.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nbc4ao/article71063909.ece/alternates/LANDSCAPE_1200/2315_7_2_2026_15_43_25_2_SPEAKER2_4.JPG",
+      "scraped_at": "2026-06-05 05:00:07.227241",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Supreme Court",
+      "rephrased_article": "The **Madras High Court** criticized the **Supreme Court** for delaying a 2016 election dispute case involving former Tamil Nadu Legislative Assembly Speaker M. Appavu, citing its failure to address a crucial legal question about the authority of headmasters of government middle schools to attest postal votes. Justice G. Jayachandran expressed concern that this delay undermines democracy and the spirit of adult franchise, highlighting the need for expedited resolution of election disputes as outlined in the Representation of the People Act of 1951.  The judge's ruling declared Mr. Appavu elected and invalidated Mr. Inbadurai's victory, emphasizing the importance of upholding the Constitution and democratic principles.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65559,
+      "title": "Congress Betrayed By Supporting TVK, Will Never Forget: Udhayanidhi Stalin",
+      "url": "https://www.ndtv.com/tamil-nadu-news/congress-betrayed-by-supporting-tvk-will-never-forget-udhayanidhi-stalin-11593702#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-02/bnti32n4_udhayanidhi-stalin_625x300_02_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-05 05:00:06.882501",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Udhayanidhi Stalin**, leader of the **DMK**, accused the **Congress** of betraying the party by supporting Tamilaga Vettri Kazhagam (TVK) after the Tamil Nadu Assembly elections. He stated that elected Congress MLAs have not maintained contact with DMK leadership and criticized the Congress for failing to inform the DMK on key matters despite other alliance partners providing updates. This accusation has intensified tensions between the **DMK** and **Congress**, leading the **DMK** to skip the INDIA bloc meeting scheduled for June 8th in New Delhi.",
+      "party_mentioned": [
+        "Congress",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65515,
+      "title": "Key stretch near Katpadi on Pallikonda-Gudiyatham road widened to prevent accidents - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/key-stretch-near-katpadi-on-pallikonda-gudiyatham-road-widened-to-prevent-accidents/article71061230.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/hkkrwd/article71061751.ece/alternates/LANDSCAPE_1200/widening.jpg",
+      "scraped_at": "2026-06-05 00:14:52.671232",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "State Highways",
+      "rephrased_article": "**State Highways** widened a 10-meter stretch of the Pallikonda-Gudiyatham High Road near Katpadi to improve safety for vehicles traveling from Karnataka and Andhra Pradesh to southern Tamil Nadu districts. The project, costing ₹5 crore and funded by the Comprehensive Road Infrastructure Development Programme 2025-26, aims to prevent accidents and ensure safe travel for all road users. **Collector S. Leela Alex** and **Assistant Executive Engineer of State Highways (Katpadi), S. Ashok Kumar**, are overseeing the work.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 65486,
+      "title": "Fire breaks out at old Corporation dump yard in Pallikaranai - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/fire-breaks-out-at-old-corporation-dump-yard-in-pallikaranai/article71059790.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/9uetdg/article71060448.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-04%20at%201.38.04%20PM.jpeg",
+      "scraped_at": "2026-06-04 22:42:46.138164",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Greater Chennai Corporation",
+      "rephrased_article": "A fire broke out in a plastic waste stockpile at an old dump yard in Pallikaranai, causing smoke and disrupting traffic during peak hours. **Greater Chennai Corporation (GCC)** personnel, along with firefighters and the Chennai Metropolitan Water Supply and Sewerage Board, responded to the incident.  The fire was successfully extinguished around 11 a.m., but the cause remains under investigation. Traffic on Velachery-Tambaram High Road was affected by smoke and emergency response operations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65484,
+      "title": "Chief Minister Vijay reviews functioning of Natural Resources Department - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-reviews-functioning-of-natural-resources-department/article71061547.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/ld1ava/article71062753.ece/alternates/LANDSCAPE_1200/JUN-04-D%201.jpg",
+      "scraped_at": "2026-06-04 22:42:40.950690",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, convened a meeting with officials to discuss the proper and sustainable use of mineral resources and prevent illegal transportation. The review focused on the functioning of the **Department of Geology and Mining**, efforts to make Tamil Nadu a leading state in mineral resource management, and the use of modern technologies to combat illegal mining.  The meeting also addressed increasing revenue from mineral extraction.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 65483,
+      "title": "Tiruchi MP and MDMK leader Durai Vaiko calls on CM Vijay - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tiruchi-mp-and-mdmk-leader-durai-vaiko-calls-on-cm-vijay/article71062384.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/hg8ic0/article71062685.ece/alternates/LANDSCAPE_1200/durai%20vaiko.jpg",
+      "scraped_at": "2026-06-04 22:42:38.041787",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**Durai Vaiko**, MDMK principal secretary and Tiruchi Lok Sabha Member, met with **Chief Minister C. Joseph Vijay** in Chennai on Thursday evening to discuss 12 demands related to agriculture, infrastructure development, and other issues affecting his constituency. The demands included the creation of a separate TNSTC division for Tiruchi, a metro rail project for Tiruchi, development of Manapparai SIPCOT, and expansion of Tiruchi Airport runway.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "infrastructure",
+        "economy"
+      ]
+    },
+    {
+      "id": 65480,
+      "title": "Hard disk theft at TNPDCL: Data backup initiated, probe under way, says Tamil Nadu Minister Nirmalkumar - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-hard-disk-theft-data-backup-initiated-probe-under-way-says-minister-nirmalkumar/article71059863.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bjhv8s/article71059961.ece/alternates/LANDSCAPE_1200/4871_25_5_2026_15_38_30_1_DSC_8337.JPG",
+      "scraped_at": "2026-06-04 22:42:26.832051",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Tamil Nadu Power Distribution Corporation Limited (TNPDCL)",
+      "rephrased_article": "The **Greater Chennai Police** (GCP) arrested a contract employee, Gopinath, in connection with the theft of 18 hard disks from the **Tamil Nadu Power Distribution Corporation Limited (TNPDCL)** headquarters.  Police suspect individuals linked to contractors and beneficiaries involved in procurement and tender-related activities may have orchestrated the theft for sensitive information related to contracts and purchases. The GCP is expanding the investigation, seeking assistance from cyber forensic specialists and questioning additional suspects.  The **Minister for Energy Resources and Law R. Nirmalkumar** has ordered the safe custody of all files and backup copies of data stored in computers.",
+      "party_mentioned": [
+        "BJP",
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Chennai",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 65477,
+      "title": "Annamalai to address public on social media on June 5 amid speculation over BJP exit | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/annamalai-bjp-resignation-rumours-social-media-interaction-tamil-nadu-10724401/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/K-Annamalai-X_20260604152953.jpg",
+      "scraped_at": "2026-06-04 22:42:21.925367",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "K. Annamalai",
+      "rephrased_article": "**K.Annamalai**, former IPS officer and a key figure in BJP Tamil Nadu politics, announced on social media that he will interact with the public on June 5th to discuss his decision to leave the party.  He has reportedly decided to depart the BJP, but his resignation is yet to be accepted by the party leadership. **Annamalai** met with **Nitin Gadkari**, **BL Santhosh**, and **Amit Shah** in recent days to discuss his desire to leave the party while maintaining open communication about potential future collaboration.  Discussions are ongoing between **Annamalai** and the BJP leadership regarding his resignation.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65475,
+      "title": "Monsoon sets in over Kerala three days late amid concerns over El Nino impact - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/monsoon-reaches-kerala-on-june-4-four-days-behind-the-imds-own-forecast/article71060091.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qtj3wa/article71060180.ece/alternates/LANDSCAPE_1200/Monsoon_Rain_05.JPG",
+      "scraped_at": "2026-06-04 22:42:16.964081",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** announced that the southwest monsoon arrived in Kerala on June 4, 2026, three days later than the normal onset date and five days behind its forecast. The IMD's operational forecasts had been accurate for every year since 2005, but this year marked the first time they missed their onset call beyond the error margin.  The monsoon is expected to advance into parts of central Arabian Sea, Goa, Maharashtra, Andhra Pradesh, Karnataka, Tamil Nadu, and much of the Bay of Bengal over the next two to three days. The IMD declared the onset after its formal criteria were met, which included widespread rainfall in Kerala and favorable wind conditions.  The arrival comes under the shadow of a strengthening El Niño, which is expected to suppress Indian rainfall.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 65463,
+      "title": "Kharge and Praveen Chakravarty among Congress Rajya Sabha nominees - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/union-minister-bittu-packs-bag-to-home-state-punjab-ahead-of-2027-assembly-polls/article71061937.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7gga9n/article71062762.ece/alternates/LANDSCAPE_1200/2699_24_1_2026_20_39_33_1_25HUBLIKHARGESPEECH_2.JPG",
+      "scraped_at": "2026-06-04 22:41:37.865708",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** announced seven candidates for the upcoming Rajya Sabha elections on June 18th, across five states.  The party selected **Mallikarjun Kharge**, **Pawan Khera**, and **Mansoor Ali Khan** from Karnataka, **Praveen Chakravarty** from Tamil Nadu, **Meenakshi Natarajan** in Madhya Pradesh, **Pranav Jha** in Jharkhand, and **Neeraj Dangi** in Rajasthan. The candidates were chosen to represent the party's interests across various states.",
+      "party_mentioned": [
+        "Congress",
+        "Jharkhand Mukti Morcha"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65459,
+      "title": "Kharge and Praveen Chakravarty among Congress Rajya Sabha nominees - The Hindu",
+      "url": "https://www.thehindu.com/news/national/mallikarjun-kharge-pawan-khera-among-seven-congress-nominees-for-rajya-sabha-elections/article71062516.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7gga9n/article71062762.ece/alternates/LANDSCAPE_1200/2699_24_1_2026_20_39_33_1_25HUBLIKHARGESPEECH_2.JPG",
+      "scraped_at": "2026-06-04 22:41:28.341740",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** announced seven candidates for the upcoming Rajya Sabha elections on June 18th, across five states.  The party nominated **Mallikarjun Kharge** from Karnataka, along with Pawan Khera and Mansoor Ali Khan. In Tamil Nadu, **Praveen Chakravarty**, All India Professionals’ Congress chief, was chosen.  In Madhya Pradesh, **Meenakshi Natarajan** was selected, while in Jharkhand, **Pranav Jha** was nominated. Rajasthan's **Neeraj Dangi** will be returning for another term.",
+      "party_mentioned": [
+        "Congress",
+        "Jharkhand Mukti Morcha"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 65379,
       "title": "M Kharge, Pawan Khera Among 7 Congress Nominees For Rajya Sabha Elections",
@@ -83,7 +477,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -4995,351 +5388,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 59133,
-      "title": "Sri Lanka’s Fisheries Minister urges CM Vijay to ban bottom trawling - The Hindu",
-      "url": "https://www.thehindu.com/news/international/sri-lankas-fisheries-minister-urges-cm-vijay-to-ban-bottom-trawling/article70979174.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/otjbii/article70980299.ece/alternates/LANDSCAPE_1200/IMG_Ramalingam_Chandrase_2_1_AODN89BL.jpg",
-      "scraped_at": "2026-05-14 21:01:21.073696",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu",
-      "rephrased_article": "**Sri Lanka’s** Fisheries Minister Ramalingam Chandrasekar urged **Tamil Nadu Chief Minister C. Joseph Vijay** to ban bottom trawling fishing, a practice prohibited in Sri Lanka since 2017, as he believes it is the root cause of ongoing conflict between the two states.  Chandrasekar expressed hope for diplomatic resolution and a meeting with Vijay, congratulating him on his recent election win. He praised Vijay's letter to **External Affairs Minister S. Jaishankar** seeking intervention in the release of six Tamil Nadu fishermen arrested by the Sri Lankan Navy for fishing illegally in Sri Lankan waters. Chandrasekar stated that arrests are made because bottom trawling destroys marine resources and threatens livelihoods, emphasizing the need for a ban on this practice in Tamil Nadu to prevent future conflicts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59092,
-      "title": "Tasmac shuts 150 outlets in three days; salesmen face challenges from customers - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-shuts-150-outlets-in-three-days-salesmen-face-challenges-from-customers/article70979751.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/dgpw15/article70979793.ece/alternates/LANDSCAPE_1200/9712_14_5_2026_16_41_14_2__DSC5078.JPG",
-      "scraped_at": "2026-05-14 19:22:46.344677",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu State Marketing Corporation Limited",
-      "rephrased_article": "**Chief Minister C. Joseph Vijay** has ordered the closure of over 150 liquor outlets in Tamil Nadu, citing proximity to educational institutions and places of worship. The **Tamil Nadu State Marketing Corporation Limited** (Tasmac) is responsible for identifying and closing these shops based on multiple criteria, including distance from public spaces and average sales figures.  The government has also issued a circular warning against selling liquor above the Maximum Retail Price (MRP), with officials instructed to conduct surprise inspections across the state.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education"
-      ]
-    },
-    {
-      "id": 59076,
-      "title": "Jayalalithaa’s picture still remains in my pocket: Sengottaiyan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/jayalalithaas-picture-still-remains-in-my-pocket-sengottaiyan/article70980028.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-14 17:26:03.575863",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "J. Jayalalithaa",
-      "rephrased_article": "**K.A. Sengottaiyan**, Minister and TVK chief coordinator, stated that he still carries a photo of former Chief Minister **J. Jayalalithaa** in his pocket despite the AIADMK's general secretary **Edappadi K. Palaniswami** claiming that photos were unnecessary for success.  He praised **C. Joseph Vijay**, Tamil Nadu's current Chief Minister, for eliminating cash-for-votes practices and creating history with TVK's victory.",
-      "party_mentioned": [
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 59040,
-      "title": "Nainar Nagenthran questions Vijay’s statement on minority government - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-questions-vijays-statement-on-minority-government/article70978684.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/fkftxk/article70978783.ece/alternates/LANDSCAPE_1200/Nainar%20Nagenthran.jpg",
-      "scraped_at": "2026-05-14 13:04:20.522714",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**Nainar Nagenthran**, BJP State president, criticized **C. Joseph Vijay's** statement characterizing his government as \"a government for minorities,\" questioning if it aims to suppress the majority. He accused the **DMK** of insulting Hindu sentiments while in power and demanded action against a Tamilaga Vettri Kazhagam MLA who allegedly made derogatory remarks about Sanatana Dharma.  Nagenthran urged the party to prevent such statements from being made in the future.",
-      "party_mentioned": [
-        "BJP",
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59033,
-      "title": "Drop mall proposal in Koyambedu, develop green space instead: Anbumani - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/drop-mall-proposal-in-koyambedu-develop-green-space-instead-anbumani/article70978107.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/5nmq9w/article70978795.ece/alternates/LANDSCAPE_1200/IMG_9868_3_6_2022_14_5_5_2_1_4FDVRG0H.jpg",
-      "scraped_at": "2026-05-14 13:01:53.045407",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Tamil Nadu government",
-      "rephrased_article": "**Anbumani Ramadoss**, leader of the PMK, urged the **Tamil Nadu government** to develop a large urban green park instead of converting the existing Koyambedu bus terminus land into a commercial mall.  The **CMDA** reportedly proposed three options for the 36-acre site: an urban green park, a mixed-use commercial complex, and a shopping mall. Ramadoss argued that these commercial proposals would worsen environmental stress in the city and called on the government to merge the bus terminus land with the surrounding omni bus stand area to create a larger green space.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 59000,
-      "title": "Vijay govt. says it needs time to ‘restructure’ Magalir Urimai Thogai programme; funds to be disbursed soon - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-govtsays-it-needs-time-to-restructure-magalir-urimai-thogai-programme-funds-to-be-disbursed-soon/article70977449.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/s5jeu6/article70977535.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000110B.jpg",
-      "scraped_at": "2026-05-14 08:14:15.931137",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Madhippumigu Magalir Thittam",
-      "rephrased_article": "The **Tamil Nadu** government announced it needs time to restructure the 'Kalaignar Magalir Urimai Thogai' program, which provides a monthly grant of ₹1,000 to eligible women heads of families.  **Chief Minister C. Joseph Vijay** had previously promised an increase to ₹2,500 per month under the new \"Madhippumigu Magalir Thittam\" program for women over 21 years old with family incomes below ₹2.5 lakh. The government stated that the May grant will be credited into beneficiaries' bank accounts soon.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58969,
-      "title": "NEET-UG, 2026 paper leak: Experts call for reforms in exam process, exemption of State-government seats - The Hindu",
-      "url": "https://www.thehindu.com/education/neet-ug-2026-paper-leak-experts-call-for-reforms-in-exam-process-exemption-of-state-government-seats/article70976952.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/fu7iv8/article70977013.ece/alternates/LANDSCAPE_1200/NEET%20PROTEST%20DELHI%2011.JPG",
-      "scraped_at": "2026-05-14 05:13:55.818561",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "NEET",
-      "rephrased_article": "**Doctors’ Association for Social Equality (DASE)** general secretary G.R. Ravindranath and **Indian Medical Association (IMA)** former president Rajeev Jayadevan have called for compulsory registration of all medical entrance exam coaching centers, a computerised NEET exam, and exemption of state-government controlled medical seats from the single-window national system to prevent malpractices in the exam.  They also suggested free coaching centers with boarding facilities for poor students and the use of technology like encrypted questions and multi-session testing to ensure a fair and merit-based process.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Pune"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "health",
-        "education"
-      ]
-    },
-    {
-      "id": 58957,
-      "title": "DMK boycotts floor test; urges CM to continue with Dravidian model welfare schemes - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-boycotts-floor-test-urges-cm-to-continue-with-dravidian-model-welfare-schemes/article70973514.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/eh8b9/article70974873.ece/alternates/LANDSCAPE_1200/UDSTALIN_DSC_8655.JPG",
-      "scraped_at": "2026-05-14 01:32:21.349660",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**Udhayanidhi Stalin**, leader of the **Tamil Nadu** opposition, led his party members in a boycott of a confidence motion presented by Chief Minister **C. Joseph Vijay**.  The walkout occurred after **Stalin** stated that the majority did not vote for the Tamilaga Vettri Kazhagam (TVK).",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58940,
-      "title": "Vijay Narayan earns rare distinction of being Advocate General under two different governments - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-narayan-earns-rare-distinction-of-being-advocate-general-under-two-different-governments/article70975506.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/whxlz/article70975579.ece/alternates/LANDSCAPE_1200/Advocate%20General%20Vijay%20Narayan.jpg",
-      "scraped_at": "2026-05-13 23:15:20.838349",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Vijay Narayan",
-      "rephrased_article": "**Tamil Nadu**'s government appointed senior counsel Vijay Narayan as its Advocate General. This marks a rare distinction for Mr. Narayan, who previously served in this role under the **All India Anna Dravida Munnetra Kazhagam** regime from 2017 to 2021.  Mr. Narayan is the nephew of former Attorney General K.K. Venugopal and grandson of M.K. Nambyar, a renowned lawyer. He has extensive experience in various legal fields, including service law, labor law, and constitutional law, having argued cases at both the Supreme Court and several High Courts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 58938,
-      "title": "Scrap NEET-based admissions, allow States to fill up medical seats, Vijay appeals to Centre - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/scrap-neet-based-admissions-allow-states-to-fill-up-medical-seats-vijay-appeals-to-centre/article70974418.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-13 23:14:50.269678",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**Tamil Nadu Chief Minister C. Joseph Vijay** urged the **Union government** to cancel the NEET-based admissions in medical courses and allow states to fill seats based on Class 12 marks.  Vijay cited multiple instances of NEET paper leaks, including a recent cancellation following investigations by law enforcement agencies, as evidence of the exam's flaws. He emphasized that the introduction of NEET has disadvantaged students from rural areas and socio-economically disadvantaged backgrounds. The **NEET-UG 2026** was conducted on May 3, 2026, with over 22 million candidates appearing nationwide, including 140,000 from Tamil Nadu.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "health",
-        "education",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 58927,
-      "title": "How the anti-defection law is going to operate in the AIADMK case? - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/how-the-anti-defection-law-is-going-to-operate-in-the-aiadmk-case/article70975597.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/purfq1/article70975631.ece/alternates/LANDSCAPE_1200/DSC_9240.JPG",
-      "scraped_at": "2026-05-13 23:12:06.015692",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "**Edappadi K. Palaniswami**, the general secretary of the AIADMK, removed 26 rebel district secretaries, including former Ministers C.Ve. Shanmugam and S.P. Velumani, from their positions on Wednesday night (May 13, 2026).  This action followed a division within the party's Assembly members, with 22 supporting **Palaniswami** and 25 opposing the trust motion moved by the **Tamilaga Vettri Kazhagam**. The Tenth Schedule of the Constitution and the Members of the Tamil Nadu Legislative Assembly (Disqualification Ground of Defection) Rules, 1986, outline grounds for disqualification in cases of defection.",
-      "party_mentioned": [
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58880,
-      "title": "Udhayachandran to assume office as CMD of TNIICL - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayachandran-to-assume-office-as-cmd-of-tniicl/article70974360.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-13 20:23:51.860561",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "None",
-      "rephrased_article": "**T. Udhayachandran**, the former Finance Secretary, will assume the role of Chairman and Managing Director of **Tamil Nadu Industrial Investment Corporation Limited (TNIICL)**.  **M. Sai Kumar**, Chief Secretary, also appointed **Darez Ahamed** as Secretary of the Health and Family Welfare Department and **Mariam Pallavi Baldev** as Secretary of the Social Welfare and Women Empowerment Department.  **Kumar Jayant** will become Chairman and Managing Director of **Tamil Nadu Newsprint and Papers Limited**.  **Anu George** was appointed Secretary of the Animal Husbandry, Dairying and Fisheries and Fishermen Welfare Department.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58862,
-      "title": "Behind TVK Vijay’s rise is a generation drawn to “cinematic politics” amid a growing crisis of purpose - The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/tvk-vijay-tamizhaga-vettri-kazhagam-tamil-nadu-elections-cinematic-politics-crisis-of-purpose/article70956218.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8530ga/article70956214.ece/alternates/LANDSCAPE_1200/DSC_0304.JPG",
-      "scraped_at": "2026-05-13 20:20:17.090927",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "TVK Vijay",
-      "rephrased_article": "**Joseph Vijay**, leader of the Tamilaga Vettri Kazhagam (TVK), won a significant number of seats in the recent Tamil Nadu election, capitalizing on a sense of restlessness and disillusionment among youth voters.  The victory was attributed to his ability to connect with young voters through a narrative of change that resonated with their desire for purpose and direction amidst routine life. This trend highlights the growing influence of social media and escapist entertainment in shaping political discourse and voter engagement, as evidenced by the TVK's successful campaign strategy.  However, critics argue that this \"change\" is superficial and lacks concrete solutions to address pressing issues like gender-based violence.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "crime_violence",
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58780,
-      "title": "AIADMK legislature party splits vertically during trust vote in Tamil Nadu Assembly - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-legislature-party-splits-vertically-during-trust-vote-in-tn-assembly-25-voted-in-favour-of-tvk-govt-22-voted-against/article70973315.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/wz4dak/article70973681.ece/alternates/LANDSCAPE_1200/20260513079L.jpg",
-      "scraped_at": "2026-05-13 10:36:49.625040",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "The **All India Anna Dravida Munnetra Kazhagam (AIADMK)** legislature party in Tamil Nadu experienced a significant split during a trust vote.  **25 MLAs**, led by rebel leader S.P. Velumani, voted in favor of the motion moved by Chief Minister C. Joseph Vijay while 22 MLAs, led by AIADMK general secretary Edappadi K. Palaniswami, voted against it. The division within the party highlights a growing rift between factions within the AIADMK.",
-      "party_mentioned": [
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "farmer_agriculture"
       ]
     }
   ]

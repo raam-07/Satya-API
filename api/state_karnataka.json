@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04 22:58:59.349705",
+  "generated_at": "2026-06-05 11:41:52.603330",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,34 +8,555 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 763,
-    "articles_last_30d": 279
+    "total_articles": 782,
+    "articles_last_30d": 295
   },
   "top_cities_30d": {
-    "Bengaluru": 95,
-    "Delhi": 54,
-    "Bangalore": 16,
+    "Bengaluru": 100,
+    "Delhi": 57,
+    "Bangalore": 18,
     "Hyderabad": 11,
     "Mumbai": 10,
     "Ahmedabad": 9,
-    "Chennai": 7,
+    "Chennai": 8,
     "Coimbatore": 4,
     "Kolkata": 4,
     "Pune": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 171,
-    "education": 60,
-    "protest_opposition": 58,
+    "foreign_policy": 177,
+    "education": 64,
+    "protest_opposition": 60,
+    "infrastructure": 43,
     "economy": 43,
-    "infrastructure": 42,
-    "crime_violence": 37,
+    "crime_violence": 38,
+    "political_gaffe": 32,
     "farmer_agriculture": 28,
-    "health": 24,
-    "political_gaffe": 23,
+    "health": 25,
     "corruption_scam": 18
   },
   "recent_articles": [
+    {
+      "id": 65646,
+      "title": "Why Kodagu homestay worker was denied bail in US tourist assault case",
+      "url": "https://indianexpress.com/article/cities/bangalore/kodagu-sexual-assault-case-bail-rejected-homestay-worker-10725348/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/05Kodagu.jpg",
+      "scraped_at": "2026-06-05 08:53:05.000711",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "homestay worker",
+      "rephrased_article": "A district court in Karnataka's Kodagu has rejected the bail plea of a 25-year-old resort worker accused of sexually assaulting an American tourist at a homestay facility. The worker, who hails from Jharkhand, was arrested on April 22 for allegedly spiking the victim's drink and committing sexual assault.  The homestay owner, previously granted bail, is also facing charges related to withholding information about the alleged crime. The case came to light after the victim alerted US embassy officials following her departure from the homestay.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 65619,
+      "title": "K Annamalai Quits BJP, Party Says 'No Loss'",
+      "url": "https://www.ndtv.com/india-news/khan-sir-coaching-guards-detained-over-firing-during-attack-on-coaching-centre-11594828#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-04/s26fn6hs_k-annamalai_625x300_11_April_25.jpg",
+      "scraped_at": "2026-06-05 08:51:33.352764",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, BJP's most recognizable face in Tamil Nadu, has resigned from the party after disagreements with the top leadership over the future of the party in Tamil Nadu.  He announced his intention to launch a people's movement and contest the next state elections. **Nitin Nabin**, the **Bharatiya Janata Party** (BJP) national president, accepted Annamalai's resignation. The **Andhra Pradesh BJP** chief expressed hope that Annamalai would return to the party in the future.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65612,
+      "title": "K Annamalai Quits BJP, Party Says 'No Loss'",
+      "url": "https://www.ndtv.com/india-news/annamalai-quits-bjp-party-accepts-his-resignation-11594182#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-04/s26fn6hs_k-annamalai_625x300_11_April_25.jpg",
+      "scraped_at": "2026-06-05 08:51:16.041931",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**K Annamalai**, BJP's most recognizable face in Tamil Nadu, resigned from the party after disagreements with top leadership over the future of Tamil Nadu politics.  He stated that national parties do not speak the language understood by people in Tamil Nadu and he will start a movement to contest the next state election. **Nitin Nabin**, **BJP**'s National President, accepted his resignation. The **Andhra Pradesh BJP** chief expressed hope for Annamalai's return to the party in the future.",
+      "party_mentioned": [
+        "BJP",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65584,
+      "title": "First resignation in 2-day-old DKS cabinet, Ramalinga Reddy resigns over portfolio | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/ramalinga-reddy-first-resignation-dks-cabinet-over-portfolio-10724914/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Ramalinga-Reddy_20260605041950.jpeg",
+      "scraped_at": "2026-06-05 05:01:14.326506",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Ramalinga Reddy",
+      "rephrased_article": "**Ramalinga Reddy**, **Karnataka**'s Minister, resigned after being denied the **Bengaluru Development** portfolio.  He had previously requested this position and was offered the **Water Resources** portfolio as a compromise. **D K Shivakumar**, the Chief Minister, allocated portfolios to his 13 ministers, including **Priyank Kharge** as Home Minister and **Dr G Parameshwara** as Revenue Minister.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65580,
+      "title": "Karnataka Cabinet portfolios row emerges after Shivakumar Government swearing-in | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/dk-shivakumar-cabinet-portfolio-allocation-delay-karnataka-congress-government-10724875/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/DKshivakuma_20260604192638.jpg",
+      "scraped_at": "2026-06-05 05:01:08.152354",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Karnataka Government",
+      "rephrased_article": "Newly elected **Karnataka** Chief Minister D K Shivakumar is facing challenges in allocating portfolios to his cabinet.  **Ramalinga Reddy**, a newly inducted minister, reportedly resigned after not being allocated the Bengaluru Development portfolio, which he had sought. Sources suggest that attempts were made to appease **Reddy** with other ministerial positions, but ultimately, **Krishna Byre Gowda** was chosen for the role. Other ministers are also reported to have expressed dissatisfaction with their assigned portfolios.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65578,
+      "title": "BJP names Rajya Sabha candidates for five States; two Union Ministers left out - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bjp-names-rajya-sabha-candidates-for-five-states-two-union-ministers-left-out/article71061806.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kqp75p/article71062203.ece/alternates/LANDSCAPE_1200/20260526124L.jpg",
+      "scraped_at": "2026-06-05 05:01:04.555593",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** announced its candidates for the upcoming Rajya Sabha polls in five states.  The party nominated several younger leaders, including Rajubhai Shukla, Mukeshbhai Rathwa, Mansingh Parmar, and Jitendra Meghjibhai Kanzariya from Gujarat; Tarun Chugh and Rajneesh Agrawal from Madhya Pradesh; Alka Gurjar and Satish Poonia from Rajasthan; A. Sharda Devi from Manipur; and Tai Tagak from Arunachal Pradesh.  The party also accommodated Debashish Samantaray, who recently joined the BJP after leaving his seat in the Rajya Sabha as a Biju Janata Dal (BJD) MP. The Rajya Sabha polls will be held on June 18.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Arunachal Pradesh",
+        "Gujarat",
+        "Haryana",
+        "Madhya Pradesh",
+        "Manipur",
+        "Odisha",
+        "Punjab",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
+    {
+      "id": 65566,
+      "title": "New principal for 170 year-old-school in Belagavi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/new-principal-for-170-year-old-school-in-belagavi/article71061791.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o6k5vb/article71062359.ece/alternates/LANDSCAPE_1200/9727_4_6_2026_19_50_19_1_05BGMBARMANISTPAUL1JPG.JPEG",
+      "scraped_at": "2026-06-05 05:00:28.309678",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "St. Paul’s High School",
+      "rephrased_article": "**Reverend Father Eric Mathias** assumed the role of Principal at **St. Paul’s High School** in Belagavi, Karnataka, on June 4th.  A Jesuit priest with extensive experience in education and social work, **Mathias** has served as principal for several institutions across Karnataka. He was welcomed by outgoing Principal **Rev. Fr. Simon Fernandes**, who will now lead at **St. Loyola High School** in Goa. **Mathias** also met with local authorities and community leaders.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65523,
+      "title": "CM asks officials to protect voters’ rights during SIR - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/cm-asks-officials-to-protect-voters-rights-during-sir/article71062084.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bpepgo/article71062692.ece/alternates/LANDSCAPE_1200/1013857.jpg",
+      "scraped_at": "2026-06-05 00:16:07.245518",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**Chief Minister D.K. Shivakumar** held a meeting with senior officials to discuss the upcoming Special Intensive Revision (SIR) of electoral rolls in Karnataka. He emphasized protecting voting rights during the process, urging officials to establish SIR help desks and provide necessary documentation assistance to voters who may need it. **Shivakumar** expressed concern about voter disenfranchisement in previous SIRs across other states, emphasizing his commitment to ensuring this does not occur in Karnataka.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65520,
+      "title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wj6ylo/article71062718.ece/alternates/LANDSCAPE_1200/1014370A.jpg",
+      "scraped_at": "2026-06-05 00:15:34.835256",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka Government",
+      "rephrased_article": "**Mr. Shivakumar**, the newly sworn-in **Karnataka** Chief Minister, allocated portfolios to his cabinet on Thursday (June 5, 2026).  The most contested portfolio, Bengaluru Development, was given to **Krishna Byre Gowda**. Senior Minister **Ramalinga Reddy** received Major and Medium Irrigation. **Priyank Kharge** will be the new Home Minister, while **G. Parameshwara** has been assigned Revenue and Sports. **Eshwar Khandre** is in charge of Rural Development and Panchayat Raj, and **Byrathi Suresh** holds Transport.  The allocation of Bengaluru Development portfolio remains a contentious issue.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65519,
+      "title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/wj6ylo/article71062718.ece/alternates/LANDSCAPE_1200/1014370A.jpg",
+      "scraped_at": "2026-06-05 00:15:23.494826",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka Government",
+      "rephrased_article": "**Mr. Shivakumar**, the newly-sworn in **Karnataka** Chief Minister, allocated portfolios to his cabinet on Thursday after a day of negotiations and discontent among some ministers.  **Krishna Byre Gowda** received the coveted Bengaluru Development portfolio previously held by Mr. Shivakumar. **Ramalinga Reddy**, who had sought the portfolio, was given Major and Medium Irrigation. Other key changes included **Priyank Kharge** as Home Minister and **G. Parameshwara** as Revenue and Sports Minister. The allocation of the Bengaluru Development portfolio is likely to remain a contentious issue in the lead-up to upcoming civic polls.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65518,
+      "title": "Free bus pass for all students: Educationists and student organisations welcome move - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/free-bus-pass-for-all-students-educationists-and-student-organisations-welcome-move/article71062304.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-05 00:15:13.786844",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka State Government",
+      "rephrased_article": "**State government** has extended its free bus pass scheme to all students of schools and colleges in **Karnataka**.  **Niranjanaradhya V.P.**, a developmental educationist, praised the decision, stating it will benefit poor and underprivileged students. Student organizations like **AIDSO** and **ABVP** also welcomed the move, urging for smooth implementation from the start of the academic year.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 65515,
+      "title": "Key stretch near Katpadi on Pallikonda-Gudiyatham road widened to prevent accidents - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/key-stretch-near-katpadi-on-pallikonda-gudiyatham-road-widened-to-prevent-accidents/article71061230.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/hkkrwd/article71061751.ece/alternates/LANDSCAPE_1200/widening.jpg",
+      "scraped_at": "2026-06-05 00:14:52.671232",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "State Highways",
+      "rephrased_article": "**State Highways** widened a 10-meter stretch of the Pallikonda-Gudiyatham High Road near Katpadi to improve safety for vehicles traveling from Karnataka and Andhra Pradesh to southern Tamil Nadu districts. The project, costing ₹5 crore and funded by the Comprehensive Road Infrastructure Development Programme 2025-26, aims to prevent accidents and ensure safe travel for all road users. **Collector S. Leela Alex** and **Assistant Executive Engineer of State Highways (Katpadi), S. Ashok Kumar**, are overseeing the work.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 65478,
+      "title": "Karnataka govt. announces 50% waiver on pending traffic fines - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-govt-announces-50-fine-waiver-on-pending-traffic-fines/article71062545.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ohhmbj/article71062703.ece/alternates/LANDSCAPE_1200/_JAI5081.JPG",
+      "scraped_at": "2026-06-04 22:42:22.589537",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka government",
+      "rephrased_article": "The **Karnataka** government announced a 50% concession on pending traffic e-challan fines and certain transport department penalty cases from June 21 to July 10. This waiver, proposed by the **Karnataka State Legal Services Authority**, aims to encourage motorists to settle long-pending violations and reduce the backlog of cases. The scheme applies to all pending traffic e-challan cases registered by the police department up to May 2026, as well as unpaid cases from 1991 to 2022 recorded by the Transport Department.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 65475,
+      "title": "Monsoon sets in over Kerala three days late amid concerns over El Nino impact - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/monsoon-reaches-kerala-on-june-4-four-days-behind-the-imds-own-forecast/article71060091.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/qtj3wa/article71060180.ece/alternates/LANDSCAPE_1200/Monsoon_Rain_05.JPG",
+      "scraped_at": "2026-06-04 22:42:16.964081",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** announced that the southwest monsoon arrived in Kerala on June 4, 2026, three days later than the normal onset date and five days behind its forecast. The IMD's operational forecasts had been accurate for every year since 2005, but this year marked the first time they missed their onset call beyond the error margin.  The monsoon is expected to advance into parts of central Arabian Sea, Goa, Maharashtra, Andhra Pradesh, Karnataka, Tamil Nadu, and much of the Bay of Bengal over the next two to three days. The IMD declared the onset after its formal criteria were met, which included widespread rainfall in Kerala and favorable wind conditions.  The arrival comes under the shadow of a strengthening El Niño, which is expected to suppress Indian rainfall.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 65474,
+      "title": "Karnataka Chief Minister D.K. Shivakumar announces exclusive secretariats to address public grievances, issues of NRIs - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-announces-exclusive-secretariats-to-address-public-grievances-issues-of-nris/article71061817.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/phbj6o/article71062416.ece/alternates/LANDSCAPE_1200/1013871.jpg",
+      "scraped_at": "2026-06-04 22:42:13.390534",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**D.K. Shivakumar**, the new Chief Minister of **Karnataka**, met with senior officials on Thursday to discuss his government's priorities. He announced plans for two exclusive secretariats: one to address public grievances and another to handle issues related to NRIs.  He also directed district in-charge Secretaries to submit proposals within 25 days, and asked all departments to create action plans within 15 days on programs listed in the State Budget. **Shivakumar** emphasized transparency and adherence to legal frameworks while addressing concerns about misuse of government schemes like the Gruha Jyothi program. He also instructed police to establish anti-rowdy squads in every taluk.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 65470,
+      "title": "Will usher in ‘Yuva Yuga’, promises new Karnataka Chief Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/will-usher-in-yuva-yuga-promises-new-karnataka-chief-minister/article71058422.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ilqnhn/article71058484.ece/alternates/LANDSCAPE_1200/20260603028L_cDuBRUC.jpg",
+      "scraped_at": "2026-06-04 22:42:05.284210",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**Chief Minister D.K. Shivakumar** announced a series of new programs aimed at addressing unemployment, rural distress, and youth development in Karnataka. These include the establishment of a private employment exchange, funding for 10,000 Bharat Jodo Yuvakara Sanghas, and a waiver for completion certificates to ensure electricity and water connections for properties violating building bylaws. The new programs are expected to cost at least ₹3,250 crore.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "economy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 65463,
+      "title": "Kharge and Praveen Chakravarty among Congress Rajya Sabha nominees - The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/union-minister-bittu-packs-bag-to-home-state-punjab-ahead-of-2027-assembly-polls/article71061937.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7gga9n/article71062762.ece/alternates/LANDSCAPE_1200/2699_24_1_2026_20_39_33_1_25HUBLIKHARGESPEECH_2.JPG",
+      "scraped_at": "2026-06-04 22:41:37.865708",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** announced seven candidates for the upcoming Rajya Sabha elections on June 18th, across five states.  The party selected **Mallikarjun Kharge**, **Pawan Khera**, and **Mansoor Ali Khan** from Karnataka, **Praveen Chakravarty** from Tamil Nadu, **Meenakshi Natarajan** in Madhya Pradesh, **Pranav Jha** in Jharkhand, and **Neeraj Dangi** in Rajasthan. The candidates were chosen to represent the party's interests across various states.",
+      "party_mentioned": [
+        "Congress",
+        "Jharkhand Mukti Morcha"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65459,
+      "title": "Kharge and Praveen Chakravarty among Congress Rajya Sabha nominees - The Hindu",
+      "url": "https://www.thehindu.com/news/national/mallikarjun-kharge-pawan-khera-among-seven-congress-nominees-for-rajya-sabha-elections/article71062516.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/7gga9n/article71062762.ece/alternates/LANDSCAPE_1200/2699_24_1_2026_20_39_33_1_25HUBLIKHARGESPEECH_2.JPG",
+      "scraped_at": "2026-06-04 22:41:28.341740",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** announced seven candidates for the upcoming Rajya Sabha elections on June 18th, across five states.  The party nominated **Mallikarjun Kharge** from Karnataka, along with Pawan Khera and Mansoor Ali Khan. In Tamil Nadu, **Praveen Chakravarty**, All India Professionals’ Congress chief, was chosen.  In Madhya Pradesh, **Meenakshi Natarajan** was selected, while in Jharkhand, **Pranav Jha** was nominated. Rajasthan's **Neeraj Dangi** will be returning for another term.",
+      "party_mentioned": [
+        "Congress",
+        "Jharkhand Mukti Morcha"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65455,
+      "title": "Delhi Confidential: Top Secret | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/delhi-confidential/delhi-confidential-top-secret-10724676/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/akhilesh-ill_20260428233441_20260604223239.jpg",
+      "scraped_at": "2026-06-04 22:41:20.310481",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Samajwadi Party",
+      "rephrased_article": "**Akhilesh Yadav**, president of the **Samajwadi Party**, has instructed party leaders to maintain confidentiality regarding their meetings and discussions, especially with journalists. He also urged probable candidates to begin preparations in their constituencies but keep communication confidential until seat-sharing agreements are finalized with the **Congress**.  The future of the **Cockroach Janta Party**’s protest at Jantar Mantar on Saturday remains uncertain as Delhi Police has begun tracking the group's activities.",
+      "party_mentioned": [
+        "Congress",
+        "Samajwadi Party",
+        "SP"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65424,
       "title": "DK Shivakumar Keeps Finance, Priyank Kharge Is Karnataka's New Home Minister",
@@ -4989,496 +5510,6 @@
       ],
       "topic_tags": [
         "crime_violence"
-      ]
-    },
-    {
-      "id": 61618,
-      "title": "Karnataka’s hijab row: A rollback, at last - The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/a-rollback-at-last-in-karnatakas-hijab-row/article71017855.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pndt95/article71018811.ece/alternates/LANDSCAPE_1200/_DSC5572.JPG",
-      "scraped_at": "2026-05-25 12:55:30.152118",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Congress party",
-      "rephrased_article": "**Karnataka's** Minister for School Education and Literacy Madhu Bangarappa announced the rollback of a 2022 order banning hijab in schools and pre-university colleges. The controversial order, implemented by the previous **BJP** government, sparked protests across the state after six Muslim girls were barred from entering their classrooms in Udupi.  The move was a manifesto promise of the Congress party but had been delayed for nearly three years.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61558,
-      "title": "Petrol price crosses ₹110 mark in Bengaluru, fourth hike in 10 days - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/petrol-price-crosses-110-mark-in-bengaluru-fourth-hike-in-10-days/article71019811.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/uxe9fx/article71019837.ece/alternates/LANDSCAPE_1200/DSC_3668.JPG",
-      "scraped_at": "2026-05-25 05:10:14.898396",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Fuel prices in Bengaluru** saw a sharp increase on May 25th, with petrol and diesel prices hiked for the fourth time in ten days. The **Karnataka State Travel Operators’ Association (KSTOA)** urged the government to intervene and ease the burden on the transport sector, citing increased operational costs and rising commodity prices. KSTOA president Radhakrishna Holla called for a reconsideration of fuel taxes and reduction of unnecessary government spending.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 61544,
-      "title": "CBSE again extends deadline for scanned answer book requests till May 25 - The Hindu",
-      "url": "https://www.thehindu.com/education/cbse-again-extends-deadline-for-scanned-answer-book-requests-till-may-25/article71018829.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/kwjyr5/article71019031.ece/alternates/LANDSCAPE_1200/DSC_9531.JPG",
-      "scraped_at": "2026-05-25 00:05:36.321385",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "CBSE",
-      "rephrased_article": "The **Central Board of Secondary Education (CBSE)** extended the deadline for students to request scanned copies of their evaluated answer books for Class 12 board exams until May 25 midnight. The extension follows complaints from students about difficulties accessing the portal.  **Union Education Minister Dharmendra Pradhan** sought support from the **Union Finance Ministry** to overhaul the CBSE payment gateway system and has directed IIT-Madras and IIT-Kanpur teams to assist in resolving technical issues.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nirmala Sitharaman"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 61541,
-      "title": "SDMC Coordination Committee welcomes extension of RTE Act up to class 10 for SC/ST students - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/sdmc-coordination-committee-welcomes-extension-of-rte-act-up-to-class-10-for-scst-students/article71017698.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/32ygnb/article71018552.ece/alternates/LANDSCAPE_1200/School_Bag_Uniforms_04.jpg",
-      "scraped_at": "2026-05-24 22:39:18.049106",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka State Government",
-      "rephrased_article": "**Karnataka State School Development and Monitoring Committees (SDMCs) Co-ordination Committee** welcomed the state government's decision to extend free education to **Scheduled Caste/Scheduled Tribes (SC/ST)** students up to class 10 under the Right to Education (RTE) Act, 2009.  The committee's patron, **Niranjanaradhya V.P.**, stated that this move is a progressive step and does not contradict the core provisions of the Act. He emphasized that delegated powers under administrative law allow for effective implementation through gazette notifications.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 61526,
-      "title": "Rural roads in Belagavi to be developed under Pragatipath - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/rural-roads-in-belagavi-to-be-developed-under-pragatipath/article71011340.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/13ubqv/article71018622.ece/alternates/LANDSCAPE_1200/9727_22_5_2026_19_39_2_2_23BGMPRAGATIPATHAROAD2.JPEG",
-      "scraped_at": "2026-05-24 21:35:49.294511",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka Government",
-      "rephrased_article": "**The Belagavi Zilla Panchayat** will construct 481.14 km of rural roads in the district under the **State government’s Pragatipath scheme**, costing ₹350 crore. The project, funded by a loan from the **Asian Development Bank** and a state share, aims to improve rural connectivity and is being overseen by the **Karnataka Rural Road Development Corporation**.  The first phase of construction will involve 230.54 km at a cost of ₹163 crore.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 61520,
-      "title": "Disambiguating a year of flux: expert panels at The Hindu Huddle, 2026 - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/disambiguating-a-year-of-flux-expert-panels-at-the-hindu-huddle-2026/article71018047.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/itvub5/article71018873.ece/alternates/LANDSCAPE_1200/Logo%20Unit%20ILU%201.pdf.jpg",
-      "scraped_at": "2026-05-24 21:33:30.294464",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "The Hindu Huddle",
-      "rephrased_article": "The sixth edition of The Hindu Group's ideas conclave, The Hindu Huddle, will be held in Bengaluru on June 5 and 6, 2026.  **Siddaramaiah**, **D.K. Shivakumar**, and other Chief Ministers from across the country will participate alongside Union Minister of State for Skill Development and Entrepreneurship **Jayant Chaudhary**, **Omar Abdullah**, **A. Revanth Reddy**, and **K.G. Arunraj**. The event will feature discussions on topics such as tariffs' impact on the Indian economy, diplomacy in managing crises, and artificial intelligence's influence on various aspects of life.  **The Hindu Huddle** is presented by the Sami-Sabinsa Group and co-powered by the Government of Telangana.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah",
-        "Omar Abdullah"
-      ],
-      "states_mentioned": [
-        "Meghalaya",
-        "Tamil Nadu",
-        "Telangana",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61496,
-      "title": "National president Nabin asks BJP State unit not to be complacent while citing T.N. example of Opposition not benefitting from DMK’s failure - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/national-president-nabin-asks-bjp-state-unit-not-to-be-complacent-while-citing-tn-example-of-opposition-not-benefitting-from-dmks-failure/article71018535.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/db6sis/article71018586.ece/alternates/LANDSCAPE_1200/DSC_3996.JPG",
-      "scraped_at": "2026-05-24 18:47:08.092407",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Nitin Nabin**, **BJP** national president, warned the Karnataka unit to avoid complacency after the Tamil Nadu elections where the opposition AIADMK did not benefit despite anti-incumbency. He urged them to project themselves as a strong alternative and focus on public awareness against the Congress government's failures.  He also emphasized the need for a pro-people struggle and a comprehensive action plan for upcoming elections, including bypolls and Legislative Council elections. **Nabin** accused the Congress of using its government as an ATM to fund its national activities.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 61494,
-      "title": "Vijay should strongly oppose Mekedatu dam plan: Seeman - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-should-strongly-oppose-mekedatu-dam-plan-seeman/article71017971.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-24 18:46:19.014493",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Karnataka",
-      "rephrased_article": "**Seeman**, chief co-ordinator of **Naam Tamilar Katchi**, criticized **D.K. Shivakumar**, Karnataka's deputy Chief Minister, for his statement that Tamil Nadu does not have the right to oppose the Karnataka government's plan to build a dam at Mekedatu across the Cauvery river.  **Seeman** called the statement arrogant and said it indicated an attempt by **Karnataka** to claim exclusive ownership over the Cauvery river water rights. He urged **Chief Minister C. Joseph Vijay** to register strong opposition to the project.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 61470,
-      "title": "Congress asks its rank and file to be alert against deletion of voters ahead of SIR exercise in Karnataka - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-asks-its-rank-and-file-to-be-alert-against-deletion-of-voters-ahead-of-sir-exercise-in-karnataka/article71018538.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/71w5fq/article71018683.ece/alternates/LANDSCAPE_1200/IMG_0880.JPG.jpeg",
-      "scraped_at": "2026-05-24 17:11:40.570269",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Karnataka State Government",
-      "rephrased_article": "**Congress** leaders are concerned about the Special Intensive Revision (SIR) exercise in Karnataka, fearing voter suppression similar to what happened in West Bengal. The party has urged its rank and file to remain vigilant and is preparing for potential challenges. **Randeep Surjewala**, Congress general secretary in charge of Karnataka, emphasized the importance of educating voters about SIR's implications.  The State government is expected to respond to the concerns raised by the party soon.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Goa",
-        "Karnataka",
-        "Kerala",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 61454,
-      "title": "Janivara and hijab row: KEA to turn down demand by 3 students for re-exam in all subjects - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/janivara-and-hijab-row-kea-to-turn-down-demand-by-3-students-for-re-exam-in-all-subjects/article71017626.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/b16v5l/article71018465.ece/alternates/LANDSCAPE_1200/DSC_0397.JPG",
-      "scraped_at": "2026-05-24 15:51:39.664284",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "KEA",
-      "rephrased_article": "Three students who were forced to remove their janivara during the Physics Common Entrance Test (CET-2026) in Bengaluru have rejected **KEA’s** offer for a re-examination of just the Physics paper. They instead demanded a re-examination for all four subjects and the best of two scores be considered for ranking.  The **Higher Education Department** has suspended staff at Krupanidhi College, while the parents of the student who refused to remove her hijab have requested help from the **KEA**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 61416,
-      "title": "Nine dead in Bhatkal estuary, two missing - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/nine-dead-in-bhatkal-estuary-two-missing/article71017552.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9y5bx0/article71018131.ece/alternates/LANDSCAPE_1200/9727_24_5_2026_19_11_43_2_25BGMBHATKALSHELLFISHDEATHS1.JPEG",
-      "scraped_at": "2026-05-24 14:10:29.426027",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Chief Minister of Karnataka",
-      "rephrased_article": "**Nine people**, including eight from an extended family, died in a tragic incident near Shirali in Uttara Kannada, **India**. The victims were reportedly collecting shellfish when they were swept away by strong currents caused by recent rainfall.  The deceased have been identified as Malati Jattappa Naik, Laxmi Mahadev Naik, and others.  **Police**, **SDRF**, and **Fire and Emergency Services** are searching for two missing individuals while the **Chief Minister of Karnataka**, **Siddaramaiah**, expressed condolences to the families of the victims.",
-      "party_mentioned": [
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61316,
-      "title": "Kasaragod district administration prepares railway master plan to end travel hardships - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kasaragod-district-administration-prepares-railway-master-plan-to-end-travel-hardships/article71010151.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jldfic/article71010673.ece/alternates/LANDSCAPE_1200/State-revenue-aGHIFKBTTL.3.jpg.jpg",
-      "scraped_at": "2026-05-24 04:04:58.702871",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Kasaragod district administration",
-      "rephrased_article": "The **Kasaragod** district administration has proposed a comprehensive railway master plan to address travel hardships faced by passengers in the northern Kerala region. The proposals, submitted to **Palakkad Divisional Railway Manager (DRM) Madhukar Rawat**, include extending eight trains currently terminating at Kannur and Mangaluru Central/Junction to Kasaragod, as well as restoring discontinued passenger services. The administration also seeks stoppages for three major superfast trains that currently bypass Kasaragod station. These proposals aim to benefit passengers travelling for work, education, medical treatment, pilgrimage, and trade.  The district administration has requested the railway authorities to consider these proposals for improved convenience and efficient travel for residents of Kasaragod.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Goa",
-        "Gujarat",
-        "Karnataka",
-        "Kerala"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Bengaluru",
-        "Ahmedabad",
-        "Surat",
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 61290,
-      "title": "Congress slams Centre over rising fuel prices, questions PM for not disclosing seriousness of crisis - The Hindu",
-      "url": "https://www.thehindu.com/news/national/congress-chief-mallikarjun-kharge-post-after-third-fuel-price-hike/article71013977.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/a0ri8m/article71014026.ece/alternates/LANDSCAPE_1200/TH11-Phukan-KhaGHUFVFTB4.3.jpg.jpg",
-      "scraped_at": "2026-05-23 22:33:05.662781",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Prime Minister Narendra Modi government",
-      "rephrased_article": "**Congress** leaders criticized the **Prime Minister Narendra Modi** government for its handling of rising fuel prices, accusing it of \"looting\" consumers with high taxes and failing to pass on benefits during periods of low global crude prices.  **Congress** president Mallikarjun Kharge accused the government of timing fuel price reductions around elections and resuming hikes after polling concluded. **Rajeev Gowda**, a Congress research department chairman, argued that rising fuel prices and the depreciating rupee reflected broader economic distress and called for greater transparency from the government regarding its energy policies.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "education"
-      ]
-    },
-    {
-      "id": 61282,
-      "title": "U.P. Congress chief Ajay Rai booked over ‘objectionable’ comment on PM Modi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-chief-ajay-rai-booked-over-abusive-remarks-against-pm-modi/article71013749.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/vs3j52/article71015523.ece/alternates/LANDSCAPE_1200/PTI05_23_2026_000152B.jpg",
-      "scraped_at": "2026-05-23 22:30:10.080475",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Ajay Rai**, **Uttar Pradesh Congress president**, is facing an FIR after a complaint from **Neeraj Kumar Rawat**, a BJP district working committee member, alleging abusive remarks against **Prime Minister Narendra Modi**.  The complaint claims that Mr. Rai obstructed government work and blocked a public road with his convoy of vehicles and supporters. The police registered the case based on a video circulating online showing Mr. Rai making objectionable statements. Mr. Rai denies the allegations, calling it a tactic to silence him and accusing the BJP government of using state apparatus against opponents.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61274,
-      "title": "Karnataka to soon get India’s second largest international cricket stadium - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-have-second-largest-international-cricket-stadium-in-india/article71014440.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/7dv9mr/article71014532.ece/alternates/LANDSCAPE_1200/_JAI1458.jpeg",
-      "scraped_at": "2026-05-23 21:33:40.778202",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Siddaramaiah",
-      "rephrased_article": "**Siddaramaiah**, the Chief Minister of **Karnataka**, announced the construction of a new international cricket stadium in Suryanagar, Anekal Taluk. The 80,000-seat stadium will be the second largest in India and is expected to boost sports development, tourism, and economic growth in the area.  The project has faced opposition from some farmers and environmentalists who raised concerns about the impact on wildlife and land value. **Siddaramaiah** assured that farmers would receive fair compensation and land allocation for their surrendered properties. The CM also launched the 'Namma Mane' housing programme, which will provide affordable housing to residents of Suryanagar.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61271,
-      "title": "`Quality seeds and scientific sowing’ fair on May 26 in Ballari - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/quality-seeds-and-scientific-sowing-fair-on-may-26-in-ballari/article71014492.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xf7dz2/article71015241.ece/alternates/LANDSCAPE_1200/10258_23_5_2026_17_32_14_1_BDCCI_1.JPEG",
-      "scraped_at": "2026-05-23 21:32:35.753806",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "N. Cheluvarayaswamy",
-      "rephrased_article": "**Ballari District Chamber of Commerce and Industry (BDCCI)**, in collaboration with the district administration and various government departments and farmers' organizations, will host an agriculture fair on \"Quality Seeds and Scientific Sowing\" at the APMC premises in Ballari on May 26. The event, supported by **Minister for Agriculture N. Cheluvarayaswamy**, **District in-charge Minister B.Z. Zameer Ahmed Khan** and **Vice-Chancellor of Raichur University of Agricultural Sciences M. Hanumanthappa**, will feature a farmers' rally, lectures from agricultural scientists, and the participation of nearly 10,000 farmers.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 61269,
-      "title": "Hubballi Dharwad Central MLA tells officials to facilitate export of mangoes grown in region - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/hubballi-dharwad-central-mla-tells-officials-to-facilitate-export-of-mangoes-grown-in-region/article71015035.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/t27pls/article71015090.ece/alternates/LANDSCAPE_1200/2699_23_5_2026_20_4_41_1_24HUBLIMANGOMELA.JPG",
-      "scraped_at": "2026-05-23 21:31:54.827221",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka Agriculture Marketing Board",
-      "rephrased_article": "**MLA Mahesh Tenginakai** inaugurated the Dharwad district-level ‘Mango Mela-2026’ to support local mango farmers. The event, organized by **Karnataka Agriculture Marketing Board**, **KCCI**, and other organizations, aimed to facilitate mango exports and increase awareness about value addition.  **I.G. Sanadi** emphasized the importance of planting more saplings for a sustainable future. **G.K. Adappagoudar** highlighted the need to eliminate middlemen in the mango market.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61265,
-      "title": "Petrol, diesel prices hiked again in Bengaluru; transport sector warns of ripple effect - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/fuel-price-hike-petrol-in-bengaluru-at-10809-diesel-at-9599/article71013768.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/5cmh2a/article71013774.ece/alternates/LANDSCAPE_1200/_JAI8945.JPG",
-      "scraped_at": "2026-05-23 21:30:32.180132",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Oil marketing companies** raised petrol and diesel prices in **Bengaluru** for the third time this month, increasing prices by an average of 90 paise per litre. This latest increase has added to concerns about rising inflation and its impact on commuters, transport operators, businesses, and consumers.  The president of the **Karnataka State Travel Owners’ Association**, **K. Radhakrishna Holla**, called for immediate government intervention to reduce fuel taxes and provide relief measures for the transportation sector. Ride-hailing cab drivers in **Bengaluru** also expressed concern over the impact on their earnings, while consumers reported that the price hikes were affecting grocery expenses.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 61235,
-      "title": "Communities around two lakes flag concerns over BWSSB STPs coming up on lake beds - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/communities-around-two-lakes-flag-concerns-over-bwssb-stps-coming-up-on-lake-beds/article71002445.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/92j9ns/article71015686.ece/alternates/LANDSCAPE_1200/Hulimavu_Lake_05.jpg",
-      "scraped_at": "2026-05-23 18:41:25.656734",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "BWSSB",
-      "rephrased_article": "**Bangalore Water Supply and Sewerage Board (BWSSB)** is planning to construct new sewage treatment plants (STPs) inside the lake beds of **Soulkere** and **Hulimavu** lakes, prompting concerns from communities and the **Federation of Bengaluru Lakes**.  The Federation argues that building STPs on the lakebeds violates protected zones and wetland regulations, potentially harming biodiversity and flood mitigation capabilities. **BWSSB** Chairman V. Ram Prasath Manohar maintains that the Board is not violating any norms and their projects are approved by the Karnataka Tank Conservation and Development Authority.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bangalore",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]
