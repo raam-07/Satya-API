@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 18:29:19.869997",
+  "generated_at": "2026-06-05 22:47:18.669169",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 509,
+    "total_articles": 510,
     "articles_last_30d": 218
   },
   "top_cities_30d": {
@@ -25,17 +25,44 @@
   },
   "top_topics_30d": {
     "foreign_policy": 176,
-    "crime_violence": 64,
+    "crime_violence": 65,
     "education": 62,
     "economy": 60,
-    "protest_opposition": 41,
+    "protest_opposition": 40,
     "infrastructure": 34,
-    "health": 23,
+    "health": 24,
+    "farmer_agriculture": 19,
     "corruption_scam": 19,
-    "farmer_agriculture": 18,
     "political_gaffe": 8
   },
   "recent_articles": [
+    {
+      "id": 65867,
+      "title": "Former Deputy AG booked over complaint against ex-Chief Secretary | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-legal-battle-fir-former-deputy-ag-vinay-sharma-sanjay-gupta-10726219/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/gavel-759_014d98_20260605153355.jpg",
+      "scraped_at": "2026-06-05 22:01:29.626055",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Former Deputy AG",
+      "rephrased_article": "**Saurabh Parashar**, an Assistant Editor at **The Indian Express**, focuses on the socio-political landscape of Himachal Pradesh. He has over 17 years of experience in print media, specializing in crime, legal affairs, and investigative reporting.  His recent articles have explored issues such as drug trafficking, environmental concerns, and the impact of development projects on the state's unique geography. **Parashar** is known for his tenacious reporting on the state's drug epidemic and his ability to access remote regions like Spiti and Pangi.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "health",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65755,
       "title": "Drug smugglers Baltej Singh and Himatjit Kahlon lose final bid to overturn jail terms in NZ’s largest meth importation case - The Times of India",
@@ -5454,29 +5481,6 @@
       "topic_tags": [
         "foreign_policy",
         "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58167,
-      "title": "Governor Kundi meets PTI leaders, asserts KP's case should be presented 'firmly, collectively' to the Centre - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/1999182/governor-kundi-meets-pti-leaders-asserts-kps-case-should-be-presented-firmly-collectively-to-the-centre",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/102051208174627.webp",
-      "scraped_at": "2026-05-10 16:03:27.457723",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "KP",
-      "rephrased_article": "**Khyber Pakhtunkhwa** Governor Faisal Karim Kundi met with **PTI** leaders, including former National Assembly speaker Asad Qaiser and MNA Junaid Akber, to discuss the province's constitutional and economic rights. The meeting addressed issues such as CNG closures, wheat concerns, NFC matters, and challenges faced by merged districts and the business community.  The discussions followed KP Chief Minister Sohail Afridi's announcement of a province-wide pen-down strike over alleged federal government discrimination in the NFC Award, electricity, and gas. Governor Kundi urged for a firm presentation of the province's case to ensure justice and fair treatment before the federal government.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
         "protest_opposition"
       ]
     }

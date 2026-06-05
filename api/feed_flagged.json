@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-06-05 18:29:19.548065",
-  "total": 579,
+  "generated_at": "2026-06-05 22:47:18.381851",
+  "total": 583,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 462,
+    "power_abuse": 466,
     "institutional_failure": 63,
     "scale_of_harm": 34,
     "suppression": 20
   },
   "articles": [
+    {
+      "id": 65846,
+      "title": "‘Exceptionally cruel, cold-blooded’: Jalgaon court awards death penalty to man for raping minor tribal girl, killing her and her 3 siblings | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/jalgaon-court-death-penalty-four-siblings-murder-raver-taluka-10726254/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/gavel_4ef968_20260501134056_20260507001555_20260605162915.jpg",
+      "scraped_at": "2026-06-05 20:08:54.215321",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Ujjwal Nikam",
+      "rephrased_article": "A special court in Jalgaon, India, sentenced a man to death for the rape and murder of a 13-year-old tribal girl and her two minor siblings. The judge deemed the crime \"rarest of the rare\" due to its brutality and premeditated nature. Ujjwal Nikam, former Special Public Prosecutor who is now a BJP Rajya Sabha MP, argued for the death penalty. The court also recommended compensation for the father of the victims under the Victim Compensation Scheme.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article reports the brutal murder of a minor and her siblings, highlighting a serious failure of justice and protection."
+    },
+    {
+      "id": 65817,
+      "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists | Human Rights News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260523__B3TZ9GZ__v1__HighRes__FrancePoliticsIsraelPalestinianConflictDemo-1780686165.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-06-05 20:06:50.118125",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "France has opened a preliminary investigation into suspected “torture” and “war crimes” related to the alleged mistreatment of French activists who participated in a Gaza-bound aid flotilla. The probe was initiated following a referral from the foreign ministry, after activists accused Israel of severe mistreatment during their detention.  The incident has drawn condemnation from several countries, including France, which banned Itamar Ben-Gvir, the Israeli National Security Minister, and summoned the Israeli ambassador over his mocking video of the flotilla activists.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of war crimes and torture warrant urgent attention."
+    },
     {
       "id": 65665,
       "title": "Fury in France after child murder suspect's criminal record released",
@@ -4531,6 +4590,67 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 65848,
+      "title": "Gadchiroli farmers intensify agitation against airport, industrial projects | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/gadchiroli-farmers-protest-land-acquisition-airport-jsw-steel-pesa-10726233/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Protest.jpg",
+      "scraped_at": "2026-06-05 20:09:04.960933",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Farmers in Gadchiroli are protesting against the government's land acquisition for an airport, industrial projects, and mining activities. The farmers allege that fertile farmland is being acquired without their consent or proper gram sabha approval.  Vivek Khobragade, leader of the Azad Samaj Party, stated that over 6,000 farmers have joined the protest, demanding the cancellation of land acquisition for these projects and immediate measures to address the issue of wild elephants. Ashish Jaiswal, co-guardian minister of Gadchiroli, visited the protest site and assured farmers their concerns would be addressed.  Avishyant Panda, the Gadchiroli Collector, stated that the land acquisition process provides stakeholders an opportunity to express their reservations but denied claims of misinformation and provocation.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam",
+        "protest_opposition",
+        "farmer_agriculture"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Land acquisition without consent and proper procedures raises concerns about abuse of power."
+    },
+    {
+      "id": 65809,
+      "title": "‘Gurdwara is empty’: Sikhs scared to come out of houses in Southampton after Vickrum Digwa killed Henry Nowak - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/gurdwara-is-empty-sikhs-scared-to-come-out-of-houses-in-southampton-after-vickrum-digwa-killed-henry-nowak/articleshow/131535017.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131536197,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-05 18:01:18.424205",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Sikhs",
+      "rephrased_article": "Sikhs in Southampton are experiencing heightened fear and intimidation following the murder of student Henry Nowak by Vickrum Singh Digwa, a Sikh man who was sentenced to life imprisonment. Community leaders have reported increased racial abuse, with incidents occurring at workplaces, public spaces, and even within gurdwaras. The situation has led to many Sikhs avoiding leaving their homes, fearing for their safety. This fear is fueled by the ongoing public discussion surrounding the murder case, which has been heavily criticized by community members who feel targeted and unfairly blamed for Digwa's actions.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article reports racial abuse and fear targeting Sikhs after a crime committed by a Sikh individual."
     },
     {
       "id": 65760,
@@ -15312,112 +15432,6 @@
       "civic_flag_score": 8,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "The article highlights potential misuse of Aadhaar and lax border control."
-    },
-    {
-      "id": 64023,
-      "title": "Taiwan condemns China after New York Times reporter expelled after presidential interview | World News - The Indian Express",
-      "url": "https://indianexpress.com/article/world/taiwan-condemns-china-nyt-reporter-expulsion-lai-ching-te-interview-10717230/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/01/US-6-10.jpg",
-      "scraped_at": "2026-05-31 22:36:15.538525",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "China",
-      "rephrased_article": "Taiwan’s presidential office condemned China for expelling its reporter, Vivian Wang, following an interview with President Lai Ching-te. The New York Times reported that the Chinese government cited the interview as the reason for Wang's expulsion.  Karen Kuo, spokesperson for the Taiwan presidential office, stated that China’s actions are a violation of press freedom and highlight its instability on the world stage. Neither China’s foreign ministry nor the US State Department responded to requests for comment.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ],
-      "is_india": false,
-      "civic_flag": true,
-      "civic_flag_score": 8,
-      "civic_flag_category": "suppression",
-      "civic_flag_reason": "Expulsion of a journalist for interviewing a president is a clear suppression of press freedom."
-    },
-    {
-      "id": 63485,
-      "title": "No insurance, no MIS: Kashmir fruit growers count mounting losses",
-      "url": "https://www.greaterkashmir.com/business/no-insurance-no-mis-kashmir-fruit-growers-count-mounting-losses-11891747",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/31/insurance-fruit-growers-2026-05-31-07-46-32.png",
-      "scraped_at": "2026-05-31 09:35:29.797825",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Kashmir fruit growers",
-      "rephrased_article": "Fruit growers in Kashmir's apple belt are facing mounting losses due to repeated hailstorms and erratic weather conditions, prompting concerns about the sector's stability.  The absence of crop insurance and the non-implementation of the Market Intervention Scheme (MIS) leave growers vulnerable to financial distress. Bashir Ahmad Basheer, chairman of the Kashmir Valley Fruit Growers-cum-Dealers Association, warns that climate-related disruptions could destabilize the rural economy if immediate action is not taken.  Horticulture, which supports nearly 35 lakh people in Jammu and Kashmir, faces significant losses due to these weather events, with estimates suggesting economic activity of around Rs 10,000 crore annually.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 8,
-      "civic_flag_category": "scale_of_harm",
-      "civic_flag_reason": "Lack of insurance and intervention leaves farmers vulnerable to financial ruin."
-    },
-    {
-      "id": 63323,
-      "title": "West Bengal SIR | A glaring gap - This SIR has dug a hole in the electoral system - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ21EaUpYNGtEaXg0dE1jQmVvVjE0TzdMeXZiZF8teUpsc3hGRGZPc1cxdUhTdU1tVkhSUnVIWW4wOEhmbDlBTGUtZFoxRWJpWGJYWWNFWWNGZS1Ic1NDTERsV1hhSVVNMWRJMXMwSjJhV003ZTRnSkRzcm9LZm5LM3h0T04zMmpINGJOS3BzRmRhZDNkSHB3SnhTSWw4V2diOFlXamZfTmk5TjM4WEFuSkZEX1p5YVllb3lKMlR0TmhfcnZRWnVjSC1VVkR6MXBWMVNLTGR6cDJOb1E1XzFKQ1g0TllKcjRj0gHuAUFVX3lxTE5ZNUFFTFBDRV8wYk10MUJDX3RtaVlqYjNPQ0Vtbmc2SHpxY1ZwVjZObUJsZWZtS3RpNmt6TmZELTBzQmhObjR3Nm52SVdYZHdTQkcyeDk3Z0ZvS3JKRFRWOHRwd0V2U0tKd0Rid1ZmNFcxdzJTU0Z2NG9yVHFYRmxLOHF5Mk45bGNzZXhWbGdzWG1uVjFxck0yckVBeEpLZWR2eXdxMVphRDJvSmhQeF9NeEZMb1h1TVQtbDBYYUNQQlFSSE9Fd19UZmUwNks3Q2J5VkQtSTh1MHpwVWtkLTEweFgtWndHeXEyb0h2LVE?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1777862703_new-project-2026-05-04t045338-695.jpg",
-      "scraped_at": "2026-05-31 01:41:14.544661",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "The Election Commission of India has suspended the voting rights of over 27.16 lakh citizens in West Bengal, citing \"logical discrepancies\" in their voter registration records. The tribunal hearings are currently underway, and while many have been restored to the rolls, a significant number remain disenfranchised due to minor inconsistencies like spelling variations or age differences between parents and children. This raises concerns about the effectiveness of the electoral process and its impact on democratic principles.  The issue has sparked debate about the fairness of the system and the potential for future misuse.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "education"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 8,
-      "civic_flag_category": "scale_of_harm",
-      "civic_flag_reason": "Mass voter disenfranchisement due to minor discrepancies raises serious concerns about electoral integrity."
-    },
-    {
-      "id": 63291,
-      "title": "West Bengal SIR | A glaring gap - This SIR has dug a hole in the electoral system - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHVJZm1jd1lYUEhPejRlV1F5ZFgtMG5WbXFidnd5MnlEUzY0SG1VOVhmVW9aRklIQmlOWXJncldQSmh6a0xYeU1YY0V5dlMweUNldF9lU21uUU1iRU9TZlJvLWgtcjNqTkUweWZvNTJOWFhhTVhCZzVobEpvQ2pGMkNLNldvbHdqcmc5ZUZyMlhYdkg1ZzRUVjFPT09LOG82WXA4TWhfUi14aGpjZGRXVUZJOGI4akExMmlnRXhXT0h2ZjMzZ01uMElXSlpWd1paTnhYbU14dmFEZURt0gHiAUFVX3lxTE8xeWJ1Qjd5THhtY0M2T0xlc2pJRWJ5NXpaS0o5cUZJTzB6bE4yWFkxbFlJSUEzbV9pcnU2ZHpnOFNpSGFkeHBqeG5XQ1ZObFUzQWRtajlydEh6elNoR3NFYlVESlVYOGZWeEpfMEpTdEV4MURKV3Job19wQU1pRHNZWWpTVVU3V0lFdGFpN1lWUnN3VnZTSnZsZ0hYdW1ETERYbXhrd19WLWlSejhOU194ejUtMV9vMzVncU8ydk9VZEV6elZQMm9hVGthZEl6TFJkM1RJSlkzVUJabEZHT09BWGc?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1777862703_new-project-2026-05-04t045338-695.jpg",
-      "scraped_at": "2026-05-31 01:39:32.689002",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "The Election Commission of India has disenfranchised over 27.16 lakh voters in West Bengal, citing \"logical discrepancies\" in their voter registration records.  Sukanta Chaudhuri, Professor Emeritus at Jadavpur University, argues that these discrepancies are often minor and based on spelling variations or inconsistencies in documents, highlighting the flawed nature of the electoral process and its potential impact on election results. He calls for a review of all cases and suggests possible solutions like restoring names with only spelling differences or allowing families to vote if one member is already registered.  The current situation raises concerns about the fairness and effectiveness of India's electoral system, potentially impacting future elections and undermining public trust in democratic processes.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 8,
-      "civic_flag_category": "scale_of_harm",
-      "civic_flag_reason": "Disenfranchisement of over 27 lakh voters raises serious concerns about electoral integrity."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 18:29:19.783800",
+  "generated_at": "2026-06-05 22:47:18.582797",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 260,
+    "total_articles": 261,
     "articles_last_30d": 107
   },
   "top_cities_30d": {
     "Delhi": 44,
-    "Patna": 16,
+    "Patna": 15,
     "Mumbai": 11,
     "Kolkata": 8,
     "Hyderabad": 7,
@@ -24,18 +24,40 @@
     "Ahmedabad": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 78,
-    "education": 32,
-    "crime_violence": 26,
+    "foreign_policy": 77,
+    "education": 33,
+    "crime_violence": 27,
     "economy": 18,
     "protest_opposition": 17,
-    "infrastructure": 16,
     "health": 16,
+    "infrastructure": 15,
     "corruption_scam": 11,
     "farmer_agriculture": 7,
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 65874,
+      "title": "Bihar ICU fire: ‘Absent’ on-duty doctor among 3 hospital staff held for ‘negligence’ leading to 6 deaths",
+      "url": "https://indianexpress.com/article/india/bihar-icu-fire-absent-duty-doctor-hospital-staff-held-negligence-deaths-10726172/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/01/Police-2.jpg",
+      "scraped_at": "2026-06-05 22:01:52.823374",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Prasad Hospital",
+      "rephrased_article": "Following a fire at **Prasad Hospital** in Muzaffarpur that killed six people, police arrested three members of the hospital's management and medical staff.  The arrests are related to alleged negligence in patient care and emergency response, including the absence of the on-duty doctor. The investigation is examining potential violations of building regulations and fire safety standards, with the hospital owner also facing scrutiny.  Authorities are conducting a fire safety audit and have cancelled the hospital's license.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "education"
+      ]
+    },
     {
       "id": 65700,
       "title": "Khan Sir booked for attempted murder after ‘shooting orders’ — ‘Fire, I’ll handle what happens’",
@@ -5980,29 +6002,6 @@
       "topic_tags": [
         "corruption_scam"
       ]
-    },
-    {
-      "id": 47495,
-      "title": "As Rajya Sabha member, Nitish Kumar to get Z-Plus security - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajya-sabha-member-nitish-kumar-z-plus-security-bihar/article70815210.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rkxfrl/article70815255.ece/alternates/LANDSCAPE_1200/20260328026L.jpg",
-      "scraped_at": "2026-04-02 11:01:12.309414",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Nitish Kumar",
-      "rephrased_article": "**Nitish Kumar**, the Chief Minister of Bihar, will receive Z-Plus security after entering the **Rajya Sabha**. The decision was made in light of his impending move to Parliament and the subsequent relinquishment of his Chief Minister position.  The notification from the State Home Department cites the **Bihar Special Security Act** as the basis for this enhanced security detail.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [
-        "Patna"
-      ],
-      "topic_tags": []
     }
   ]
 }

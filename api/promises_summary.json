@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-05 18:29:20.305686",
+  "generated_at": "2026-06-05 22:47:19.099314",
   "stats": {
-    "total_promises": 139,
+    "total_promises": 141,
     "kept": 2,
     "broken": 12,
-    "ongoing": 123
+    "ongoing": 125
   },
   "by_status": {
     "broken": [
@@ -56,7 +56,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -131,7 +131,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -367,7 +367,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p013",
@@ -392,7 +392,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "p019",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and worker dominance continue in Bengal."
+        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
       },
       {
         "id": "p020",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing work on the promise."
       },
       {
         "id": "promise_1780208617_8",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780373808_3",
@@ -1235,7 +1235,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
+        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
       },
       {
         "id": "promise_1780376713_4",
@@ -1635,7 +1635,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+        "gemma_reasoning": "Shah met with the Chief Minister to discuss peace process, implying continued work on the promise."
       },
       {
         "id": "promise_1780436701_3",
@@ -1948,7 +1948,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is contesting the West Bengal assembly elections."
+        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing processes."
       },
       {
         "id": "promise_1780521517_7",
@@ -2226,6 +2226,45 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780686215_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "The joint action plan aims to double bilateral trade, investments, and the number of Swedish companies in India by 2030.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780686372_1",
+        "person": "Bhagwant Mann",
+        "party": "",
+        "promise": "Bhagwant Mann promised to provide monthly financial assistance to women registered under the Mukh Mantri Mawan Dheeyan Satkar Yojna starting July 1st.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.ndtv.com/india-news/women-in-punjab-to-get-rs-1-000-per-month-from-july-1-bhagwant-mann-11596603#publisher=newsstand",
+            "title": "97% Of Women In Punjab To Get Financial Aid From July 1: Bhagwant Mann",
+            "source": "NDTV",
+            "scraped_at": "2026-06-05 15:39:22.414556",
+            "relevance_score": 83,
+            "gemma_validated": true,
+            "rephrased": "**Bhagwant Mann**, the **Punjab Chief Minister**, announced that women registered under the Mukh Mantri Mawan Dheeyan Satkar Yojna will receive monthly financial assistance starting July 1st. The sche",
+            "content": "Punjab Chief Minister Bhagwant Mann has said women registered under the Mukh Mantri Mawan Dheeyan Satkar Yojna will start getting Rs 1,000 monthly financial assistance from July 1. Under the state government's ambitious scheme, women beneficiaries from the general category will receive a monthly assistance of Rs 1,000, while those from the scheduled castes will get Rs 1,500. \"Funds will be directly transferred to beneficiaries' bank accounts, and women who are already receiving social security pensions will also be eligible under the scheme. Around 97 per cent of women in Punjab are expected to benefit from this initiative, and the Punjab Government has allocated Rs 9,300 crore in the budget for its implementation,\" he stated. There were a total of 52 lakh women beneficiaries, Mann said, of which 36 lakh have been issued cards under the scheme. \"From July 1, the money will be transferred to their bank accounts,\" he said. The chief minister asserted that the scheme will not be stopped. \"We started this scheme when we had a proper budget for it,\" he told reporters here. \"Women deserve the highest respect because they are the source of life itself. The blessings of mothers and sisters can help overcome every challenge in the world. Strengthening women's financial autonomy is essential for improving household welfare, promoting gender equity and enhancing women's participation in social and economic decision-making,\" he said. Women aged 18 years or above, who are registered as voters in Punjab and possess valid Aadhaar cards reflecting Punjab residency, will be eligible to be enrolled as a beneficiary. \"Around two lakh Mahila Satkar Sakhis have been assigned the responsibility of registering eligible beneficiaries,\" he said. Those excluded from the scheme include regular or retired employees of the Punjab government, Central government or any other state or UT governments; elected MLAs or MPs; and spouses of serving ministers, MPs or MLAs. The Rs 1,000 monthly assistance per woman was a key poll promise of the ruling Aam Aadmi Party before the 2022 Punjab assembly elections. \"This initiative will go a long way in empowering women across Punjab and ensuring that they are able to lead their lives with dignity and confidence,\" he added. Track Latest News Live on NDTV.com and get news updates from India and around the world"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The promise was announced with a start date of July 1st, 2026."
       }
     ],
     "kept": [
@@ -2304,7 +2343,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party."
       },
       {
         "id": "promise_1780413185_3",
@@ -2383,7 +2422,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -2458,7 +2497,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -2483,7 +2522,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -2592,7 +2631,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -2916,6 +2955,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780686215_0",
+        "person": "Narendra Modi",
+        "party": "",
+        "promise": "The joint action plan aims to double bilateral trade, investments, and the number of Swedish companies in India by 2030.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Amit Shah": [
@@ -2942,7 +2995,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "promise_1780277157_4",
@@ -3020,7 +3073,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780383641_1",
@@ -3087,7 +3140,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+        "gemma_reasoning": "Shah met with the Chief Minister to discuss peace process, implying continued work on the promise."
       },
       {
         "id": "promise_1780443870_2",
@@ -3244,7 +3297,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party."
       },
       {
         "id": "promise_1780292965_2",
@@ -3382,7 +3435,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and worker dominance continue in Bengal."
+        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
       },
       {
         "id": "promise_1780207073_7",
@@ -3407,7 +3460,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing work on the promise."
       },
       {
         "id": "promise_1780332240_0",
@@ -3513,7 +3566,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is contesting the West Bengal assembly elections."
+        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing processes."
       }
     ],
     "Revanth Reddy": [
@@ -3680,7 +3733,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
+        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
       },
       {
         "id": "promise_1780383936_2",
@@ -4704,6 +4757,33 @@
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "AIMIM is currently leading a door-to-door voter registration drive."
       }
+    ],
+    "Bhagwant Mann": [
+      {
+        "id": "promise_1780686372_1",
+        "person": "Bhagwant Mann",
+        "party": "",
+        "promise": "Bhagwant Mann promised to provide monthly financial assistance to women registered under the Mukh Mantri Mawan Dheeyan Satkar Yojna starting July 1st.",
+        "category": "economy",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 1,
+        "evidence_articles": [
+          {
+            "url": "https://www.ndtv.com/india-news/women-in-punjab-to-get-rs-1-000-per-month-from-july-1-bhagwant-mann-11596603#publisher=newsstand",
+            "title": "97% Of Women In Punjab To Get Financial Aid From July 1: Bhagwant Mann",
+            "source": "NDTV",
+            "scraped_at": "2026-06-05 15:39:22.414556",
+            "relevance_score": 83,
+            "gemma_validated": true,
+            "rephrased": "**Bhagwant Mann**, the **Punjab Chief Minister**, announced that women registered under the Mukh Mantri Mawan Dheeyan Satkar Yojna will receive monthly financial assistance starting July 1st. The sche",
+            "content": "Punjab Chief Minister Bhagwant Mann has said women registered under the Mukh Mantri Mawan Dheeyan Satkar Yojna will start getting Rs 1,000 monthly financial assistance from July 1. Under the state government's ambitious scheme, women beneficiaries from the general category will receive a monthly assistance of Rs 1,000, while those from the scheduled castes will get Rs 1,500. \"Funds will be directly transferred to beneficiaries' bank accounts, and women who are already receiving social security pensions will also be eligible under the scheme. Around 97 per cent of women in Punjab are expected to benefit from this initiative, and the Punjab Government has allocated Rs 9,300 crore in the budget for its implementation,\" he stated. There were a total of 52 lakh women beneficiaries, Mann said, of which 36 lakh have been issued cards under the scheme. \"From July 1, the money will be transferred to their bank accounts,\" he said. The chief minister asserted that the scheme will not be stopped. \"We started this scheme when we had a proper budget for it,\" he told reporters here. \"Women deserve the highest respect because they are the source of life itself. The blessings of mothers and sisters can help overcome every challenge in the world. Strengthening women's financial autonomy is essential for improving household welfare, promoting gender equity and enhancing women's participation in social and economic decision-making,\" he said. Women aged 18 years or above, who are registered as voters in Punjab and possess valid Aadhaar cards reflecting Punjab residency, will be eligible to be enrolled as a beneficiary. \"Around two lakh Mahila Satkar Sakhis have been assigned the responsibility of registering eligible beneficiaries,\" he said. Those excluded from the scheme include regular or retired employees of the Punjab government, Central government or any other state or UT governments; elected MLAs or MPs; and spouses of serving ministers, MPs or MLAs. The Rs 1,000 monthly assistance per woman was a key poll promise of the ruling Aam Aadmi Party before the 2022 Punjab assembly elections. \"This initiative will go a long way in empowering women across Punjab and ensuring that they are able to lead their lives with dignity and confidence,\" he added. Track Latest News Live on NDTV.com and get news updates from India and around the world"
+          }
+        ],
+        "gemma_suggestion": "ongoing",
+        "gemma_reasoning": "The promise was announced with a start date of July 1st, 2026."
+      }
     ]
   },
   "by_party": {
@@ -4756,7 +4836,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -4831,7 +4911,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and GDP remains below $5 trillion."
+        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
       },
       {
         "id": "p006",
@@ -4856,7 +4936,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -4965,7 +5045,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -5040,7 +5120,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah's directive to deport Rohingyas is an ongoing action."
+        "gemma_reasoning": "Amit Shah is in power and actively directing deportations."
       },
       {
         "id": "p018",
@@ -5193,7 +5273,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party."
       }
     ],
     "TMC": [
@@ -5220,7 +5300,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and worker dominance continue in Bengal."
+        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
       }
     ]
   }
