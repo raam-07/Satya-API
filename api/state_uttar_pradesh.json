@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 16:43:11.991775",
+  "generated_at": "2026-06-06 20:48:19.092965",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 414,
-    "articles_last_30d": 190
+    "total_articles": 416,
+    "articles_last_30d": 191
   },
   "top_cities_30d": {
     "Delhi": 67,
     "Lucknow": 31,
-    "Kanpur": 13,
-    "Ghaziabad": 11,
-    "Kolkata": 10,
+    "Kanpur": 14,
+    "Ghaziabad": 12,
+    "Kolkata": 11,
     "Mumbai": 10,
     "Bengaluru": 9,
     "Agra": 7,
@@ -25,17 +25,72 @@
   },
   "top_topics_30d": {
     "foreign_policy": 138,
-    "crime_violence": 73,
+    "crime_violence": 74,
     "education": 49,
-    "protest_opposition": 44,
-    "infrastructure": 29,
-    "economy": 26,
+    "protest_opposition": 45,
+    "infrastructure": 28,
+    "economy": 27,
     "farmer_agriculture": 15,
     "corruption_scam": 15,
     "health": 14,
     "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 66219,
+      "title": "Heavy rain alert for Bengal in next 7 days: Kolkata to see intense spells, heavy downpour in North | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-weather-forecast-imd-heavy-rain-thunderstorm-kolkata-darjeeling-alipurduar-10727561/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/rainfall-1600.jpg",
+      "scraped_at": "2026-06-06 18:51:06.281039",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "The **India Meteorological Department (IMD)** predicts heavy rainfall with thunderstorms and lightning across West Bengal for the next seven days.  **Regional Meteorological Centre (RMC), Kolkata**, forecasts strong moisture incursion from the Bay of Bengal to sustain thunderstorm activity through June 12th. The heaviest rainfall is expected in North Bengal, while South Bengal districts may experience isolated heavy rain. **IMD** has issued a heavy rain warning for Darjeeling, Kalimpong, Jalpaiguri, Alipurduar and Cooch Behar from June 7th onward. Fishermen have been warned against venturing into the sea due to rough conditions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jharkhand",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66195,
+      "title": "‘Officers more loyal to establishment than Constitution’: Allahabad HC quashes proceedings in Gangsters Act FIR | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/allahabad-hc-quashes-up-gangsters-act-fir-reprimands-police-loyalty-establishment-constitution-10727588/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/allahabad-HC.jpg",
+      "scraped_at": "2026-06-06 17:20:55.122122",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh Government",
+      "rephrased_article": "The **Allahabad High Court** has quashed the trial proceedings against five members of a Ghaziabad-based family, finding that officers in Uttar Pradesh have been using their positions for political patronage rather than merit. The court observed that many FIRs are registered or suppressed with ulterior motives and preventive detention provisions are invoked arbitrarily.  The **High Court** also criticized the state apparatus for being susceptible to deep political penetration, citing instances of selective crackdowns and targeted use of laws like the Gangsters Act.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Kanpur",
+        "Ghaziabad",
+        "Allahabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "political_gaffe",
+        "protest_opposition",
+        "economy"
+      ]
+    },
     {
       "id": 66135,
       "title": "Cracks widen in INDIA bloc before meet as CPI(M), JMM call out Congress moves | Political Pulse News - The Indian Express",
@@ -364,8 +419,7 @@
       "rephrased_article": "**Firefighters** are battling two separate blazes in Noida, India. A massive fire broke out on the 12th floor of a residential building in Sector 74, while another fire occurred on the ground floor of a building in Sector 52.  No casualties have been reported in either incident. **Chief Minister Yogi Adityanath** directed officials to expedite relief and rescue operations. The cause of both fires remains unclear.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Yogi Adityanath",
-        "Yogi"
+        "Yogi Adityanath"
       ],
       "states_mentioned": [
         "Uttar Pradesh",
@@ -425,8 +479,7 @@
       ],
       "ministers_mentioned": [
         "Siddaramaiah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -5841,54 +5894,6 @@
         "foreign_policy",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 56429,
-      "title": "Counting of votes to be held at three centres in Ernakulam - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/counting-of-votes-to-be-held-at-three-centres-in-ernakulam/article70936072.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-03 20:56:55.976429",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Assembly elections",
-      "rephrased_article": "**District Collector G. Priyanka**, the **District Election Officer**, announced that vote counting for the Assembly elections held on April 9th in 14 constituencies will take place at three centers: **Cochin University of Science and Technology (Cusat)**, **Union Christian College**, and **Mar Athanasius College**. Counting will begin at 8 a.m., with postal ballots being counted first followed by EVM votes. Initial trends are expected around 10 a.m.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 56286,
-      "title": "Independent media outlets and online critics: Far from a safe harbour - The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/technology/independent-media-outlets-and-online-critics-far-from-a-safe-harbour/article70929031.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8kbmy1/article70929026.ece/alternates/LANDSCAPE_1200/Sanjay%202%2011908_1_5_2026_18_46_40_1_DSC_6199.JPG",
-      "scraped_at": "2026-05-03 11:58:51.263454",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Akhilesh Yadav",
-      "rephrased_article": "**Sanjay Sharma**, editor of an evening newspaper in Lucknow, recounted being summoned by a senior official close to the **Chief Minister’s Office** six months after the 2017 Uttar Pradesh Assembly elections. The official told Sharma that the **Chief Minister** was upset with him and believed he was aligned with **Akhilesh Yadav**, the Samajwadi Party chief who served as Chief Minister from 2012 to 2017.",
-      "party_mentioned": [
-        "BJP",
-        "Samajwadi Party"
-      ],
-      "ministers_mentioned": [
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Lucknow"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

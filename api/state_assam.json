@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 16:43:11.916909",
+  "generated_at": "2026-06-06 20:48:18.957054",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 297,
-    "articles_last_30d": 78
+    "total_articles": 298,
+    "articles_last_30d": 79
   },
   "top_cities_30d": {
     "Delhi": 21,
@@ -26,7 +26,7 @@
   "top_topics_30d": {
     "foreign_policy": 60,
     "economy": 23,
-    "crime_violence": 17,
+    "crime_violence": 18,
     "infrastructure": 14,
     "protest_opposition": 14,
     "education": 13,
@@ -36,6 +36,29 @@
     "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 66205,
+      "title": "Army officer dies after falling into gorge during anti-militancy operation in J&K’s Rajouri | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/army-officer-dies-operation-sheruwali-rajouri-militants-search-bsf-10727565/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/army.jpg",
+      "scraped_at": "2026-06-06 17:21:10.438945",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Army",
+      "rephrased_article": "An **Army** lieutenant from the **Assam Rifles** died after falling into a gorge during a search operation for militants in Rajouri district. The operation, part of **Operation Sheruwali**, involves the Army, **J&K Police**, and the CRPF, with assistance from sniffer dogs, drones, and helicopters.  The searches are ongoing to locate and eliminate the suspected five-member militant group believed to have moved to lower reaches of the Pir Panjal mountains. The Northern Army Commander, Lt Gen Pratik Sharma, visited the BSF headquarters to chair a joint meeting of security agencies, emphasizing inter-agency coordination and vigilance in response to emerging threats.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 66082,
       "title": "Kaziranga National Park records 30 raptor and six stork species - The Hindu",
@@ -5950,33 +5973,6 @@
         "crime_violence",
         "protest_opposition",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 48312,
-      "title": "Assam Assembly election: Less than a week before polls, BJP shifts focuses to youth empowerment, floods - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-less-than-a-week-before-polls-bjp-shifts-focuses-to-youth-empowerment-floods/article70823457.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/d3z66z/article70824547.ece/alternates/LANDSCAPE_1200/PTI04_04_2026_000686A.jpg",
-      "scraped_at": "2026-04-04 20:44:44.830674",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**The Bharatiya Janata Party (BJP)** in Assam has shifted its election focus from infiltrators and identity politics to youth empowerment and flood mitigation. **Information Minister Pijush Hazarika**, seeking re-election, highlighted the government's achievements in job creation, skill development initiatives like the Chief Minister Flight program, and flood management efforts.  He emphasized a commitment to exceeding two lakh jobs in the next five years and investing over ₹18,000 crore in the Flood-Free Assam Mission. The party also acknowledged the concerns of Gen Z and Gen Alpha regarding the late singer **Zubeen Garg**, and pledged to address them as part of its new campaign strategy.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "education",
-        "economy"
       ]
     }
   ]

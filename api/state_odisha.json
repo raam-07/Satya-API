@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 16:43:11.967519",
+  "generated_at": "2026-06-06 20:48:19.049009",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 317,
+    "total_articles": 319,
     "articles_last_30d": 139
   },
   "top_cities_30d": {
@@ -24,18 +24,72 @@
     "Ghaziabad": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 93,
+    "foreign_policy": 92,
     "education": 54,
-    "protest_opposition": 31,
-    "infrastructure": 18,
+    "protest_opposition": 32,
+    "corruption_scam": 19,
     "crime_violence": 18,
-    "corruption_scam": 18,
+    "infrastructure": 17,
     "economy": 15,
     "health": 13,
     "political_gaffe": 5,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 66171,
+      "title": "From Rs 6,000 Salary To Rs 2 Crore In Assets: Odisha Engineer Under Scanner",
+      "url": "https://www.ndtv.com/india-news/from-rs-6-000-salary-to-rs-2-crore-in-assets-odisha-engineer-under-scanner-11601160#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ol39f2_odisha-engg_625x300_06_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 17:19:39.500817",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Baikuntha Nath Behera",
+      "rephrased_article": "**Odisha Vigilance** conducted simultaneous raids at nine locations linked to Assistant Executive Engineer Baikuntha Nath Behera, uncovering multiple luxury properties, high-value land holdings, and a significant amount of cash.  The searches, carried out across Bhubaneswar, Balasore, Jajpur, and Baliguda districts, are in response to allegations that Behera possessed assets disproportionate to his known sources of income. The operation is ongoing, with investigators examining the valuation of gold ornaments, bank deposits, investments, and other financial assets.  The total value of the assets allegedly accumulated by Behera is expected to become clearer once the searches and valuation process are completed.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66166,
+      "title": "CJP warns of nationwide agitation if Education Minister Pradhan not removed in seven days - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-warns-of-nationwide-agitation-if-education-minister-pradhan-not-removed-in-seven-days/article71070836.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mdzhdc/article71070898.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2011.JPG",
+      "scraped_at": "2026-06-06 17:19:28.881956",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "The **Cockroach Janta Party** (CJP), an online campaign, organized a protest in **New Delhi** demanding the resignation of **Education Minister Dharmendra Pradhan**. The CJP, which garnered over 22 million followers on Instagram, claims to represent the concerns of young people regarding irregularities in examinations and recruitment tests.  The group gave the government a seven-day deadline to address their demands or face nationwide protests. They emphasized that this is just the beginning of a broader youth movement focused on education and governance issues.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66159,
       "title": "Goa’s early date with monsoon, Maharashtra sees onset too | Bangalore News - The Indian Express",
@@ -604,8 +658,7 @@
       "rephrased_article": "The **Cockroach Janata Party (CJP)** criticized the government's handling of the JEE (Advanced) 2026 results portal data leak, claiming incompetence in cybersecurity and education. CJP spokesperson Ashutosh Ranka demanded Prime Minister Narendra Modi sack Education Minister Dharmendra Pradhan for failing to ensure accountability. The incident exposed nearly two lakh student records and prompted IIT Roorkee to acknowledge a cloud storage configuration issue.  Ranka called for transparency regarding data breaches and urged peaceful protests, while the party founder Abhijeet Dipke is expected to arrive in Delhi on June 6th to seek permission for a demonstration at Jantar Mantar.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Delhi"
@@ -636,9 +689,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Madhya Pradesh"
@@ -5400,120 +5451,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 50720,
-      "title": "Consolidated voters’ list of 9 States and 3 UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
-      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-9-states-and-3-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
-      "scraped_at": "2026-04-12 21:46:55.817029",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls in nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by **West Bengal**, with a net deletion of 83.86 lakh. The SIR phase II identified 67 lakh deceased voters and 1.28 crore duplicate voters across these states and UTs.  The consolidated electoral rolls saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 50564,
-      "title": "Consolidated voters’ list of 12 States and UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
-      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-12-states-and-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
-      "scraped_at": "2026-04-12 13:26:11.869691",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls, which saw a significant reduction in voter numbers across nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by West Bengal with 83.86 lakh.  The revision identified 67 lakh deceased voters and 1.28 crore duplicate voters for removal. The consolidated electoral rolls across these regions saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 16:43:11.976056",
+  "generated_at": "2026-06-06 20:48:19.064601",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 250,
-    "articles_last_30d": 141
+    "total_articles": 251,
+    "articles_last_30d": 142
   },
   "top_cities_30d": {
     "Delhi": 47,
@@ -24,10 +24,10 @@
     "Ludhiana": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 103,
+    "foreign_policy": 104,
     "education": 30,
-    "crime_violence": 24,
-    "infrastructure": 22,
+    "crime_violence": 25,
+    "infrastructure": 23,
     "economy": 19,
     "protest_opposition": 16,
     "health": 13,
@@ -36,6 +36,31 @@
     "corruption_scam": 10
   },
   "recent_articles": [
+    {
+      "id": 66224,
+      "title": "Kota priest hacked to death inside monastery, saints launch protest over delayed arrests | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/kota-priest-murder-mahant-devanand-maharaj-attack-10727493/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/kota-mahant-express-photo.jpg",
+      "scraped_at": "2026-06-06 18:51:17.795512",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "A priest, Mahant Devanand Maharaj, was found critically injured and later died at a monastery in Kota, Rajasthan after being attacked by assailants. The attack occurred late Friday night while he was asleep, and police suspect an internal conflict within the Math committee as a possible motive.  Religious leaders are protesting the delayed arrests of those responsible for the murder. **Ramdas Ji Maharaj**, general secretary of the All India Sant Samiti (Hadoti Division), stated that they will not accept the body until the culprits are apprehended.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66071,
       "title": "Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad | Cricket News | Al Jazeera",
@@ -352,8 +377,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Gujarat",
@@ -5876,40 +5900,6 @@
       ],
       "topic_tags": [
         "crime_violence"
-      ]
-    },
-    {
-      "id": 48318,
-      "title": "Snow in hills, rain in plains as western disturbance sweeps north India - The Hindu",
-      "url": "https://www.thehindu.com/news/national/snow-in-hills-rain-in-plains-as-western-disturbance-sweeps-north-india/article70824685.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/425zt6/article70824687.ece/alternates/LANDSCAPE_1200/20260404289L.jpg",
-      "scraped_at": "2026-04-04 21:39:10.341052",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "weather",
-      "rephrased_article": "Heavy rainfall and snowfall impacted northern India, bringing down temperatures and causing disruptions. **The Met Office** issued warnings of flash floods and landslides in vulnerable areas due to the wet weather.  **Himachal Pradesh** and **Jammu and Kashmir** experienced fresh snowfall, leading to road closures. The national capital saw rain during the night, but temperatures dropped due to cloudy conditions.  **Punjab**, **Haryana**, and **Rajasthan** faced rainfall and hailstorms, causing damage to crops. \nThe weather is expected to remain below normal for the next few days.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Ashok Gehlot"
-      ],
-      "states_mentioned": [
-        "Haryana",
-        "Himachal Pradesh",
-        "Punjab",
-        "Rajasthan",
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Jaipur",
-        "Srinagar",
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

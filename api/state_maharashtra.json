@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 16:43:11.958376",
+  "generated_at": "2026-06-06 20:48:19.032360",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 420,
-    "articles_last_30d": 194
+    "total_articles": 424,
+    "articles_last_30d": 197
   },
   "top_cities_30d": {
-    "Mumbai": 61,
-    "Delhi": 51,
-    "Pune": 39,
+    "Mumbai": 63,
+    "Delhi": 52,
+    "Pune": 41,
     "Nashik": 14,
     "Bengaluru": 11,
     "Kolkata": 11,
@@ -24,18 +24,130 @@
     "Chennai": 7
   },
   "top_topics_30d": {
-    "foreign_policy": 142,
-    "education": 51,
-    "crime_violence": 51,
-    "infrastructure": 41,
+    "foreign_policy": 143,
+    "education": 53,
+    "crime_violence": 53,
+    "infrastructure": 42,
     "economy": 35,
-    "protest_opposition": 33,
+    "protest_opposition": 34,
     "corruption_scam": 22,
     "farmer_agriculture": 15,
     "health": 15,
     "rape_sexual_crime": 11
   },
   "recent_articles": [
+    {
+      "id": 66217,
+      "title": "Mumbai tanker operators announce indefinite strike from midnight amid water crisis | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-water-tanker-strike-lake-levels-plunge-cgwa-rules-10727557/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/ch1939087.jpeg",
+      "scraped_at": "2026-06-06 18:51:01.778787",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Mumbai Water Tanker Association",
+      "rephrased_article": "The **Mumbai Water Tanker Association (MWTA)** announced an indefinite strike starting midnight on June 7th due to notices issued by authorities requiring well operators to obtain no-objection certificates (NOC) and comply with CGWA guidelines.  **Ankur Sharma**, spokesperson for the MWTA, stated that these notices have been issued to nearly 250 well operators over the past week, leading to the association's decision to halt water supply services. The strike comes amid a severe water shortage in Mumbai, with lake levels falling below 15% and impacting various sectors like infrastructure projects and commercial activities.  The BMC has expressed its inability to intervene without government approval, highlighting the complex nature of the situation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66204,
+      "title": "At private university event, Maharashtra minister Chandrakant Patil blasts public universities | Pune News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/chandrakant-patil-criticises-sppu-research-maharashtra-public-universities-faculty-reaction-10727576/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/pune-11.jpg",
+      "scraped_at": "2026-06-06 17:21:08.244158",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Chandrakant Patil",
+      "rephrased_article": "**Soham Shah**, a correspondent for **The Indian Express**, based in Pune, has transitioned his reporting from education to investigative and human rights stories. His recent work includes investigations into the Pune Municipal Corporation's policy changes on birth certificates and real estate irregularities involving political families.  He also published articles about faculty vacancies at Savitribai Phule Pune University, Maharashtra's controversial third language policy, and discrepancies in state education data despite rising student numbers. **Shah** is known for his focus on civil liberties and has championed the rights of marginalized groups through his reporting.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "education"
+      ]
+    },
+    {
+      "id": 66200,
+      "title": "First phase of Pune’s Hinjawadi–Shivajinagar Metro set for July 15 launch | Pune News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/pune-metro-line-3-hinjawadi-shivajinagar-july-15-launch-10727579/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Pune-metro-file-photo.jpg",
+      "scraped_at": "2026-06-06 17:21:04.802171",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "PMRDA",
+      "rephrased_article": "The first phase of the Hinjawadi–Shivajinagar Metro (Line 3), covering a 12-kilometer stretch, is scheduled to begin operations on July 15th. **PMRDA** Commissioner Abhijit Chaudhari confirmed that the launch is contingent upon final safety clearance from the **Railway Safety Commission**.  The project, developed under a Public-Private Partnership (PPP) model and costing Rs 8,313 crore, aims to ease traffic congestion in Pune's Hinjawadi IT hub. The full 23.2-kilometer elevated corridor is expected to be operational within the next one-and-a-half to two months.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Pune"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66166,
+      "title": "CJP warns of nationwide agitation if Education Minister Pradhan not removed in seven days - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-warns-of-nationwide-agitation-if-education-minister-pradhan-not-removed-in-seven-days/article71070836.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mdzhdc/article71070898.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2011.JPG",
+      "scraped_at": "2026-06-06 17:19:28.881956",
+      "category": "education",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "The **Cockroach Janta Party** (CJP), an online campaign, organized a protest in **New Delhi** demanding the resignation of **Education Minister Dharmendra Pradhan**. The CJP, which garnered over 22 million followers on Instagram, claims to represent the concerns of young people regarding irregularities in examinations and recruitment tests.  The group gave the government a seven-day deadline to address their demands or face nationwide protests. They emphasized that this is just the beginning of a broader youth movement focused on education and governance issues.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66160,
       "title": "Monsoon advances into parts of Maharashtra | The Indian Express",
@@ -703,8 +815,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Goa",
@@ -5714,134 +5825,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 57227,
-      "title": "Congress leader Varsha Gaikwad writes to Maharashtra Governor, seeks immediate enactment of Shakti Bill - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/mumbai/congress-leader-varsha-gaikwad-writes-to-maharashtra-governor-seeks-immediate-enactment-of-shakti-bill/article70947949.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8phb6f/article70948537.ece/alternates/LANDSCAPE_1200/Varsha%20Gaikwad.jpeg",
-      "scraped_at": "2026-05-07 01:24:45.841870",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Varsha Gaikwad**, **Mumbai Congress president** and MP, has written to **Maharashtra Governor Jishnu Dev Varma** urging urgent action on rising crimes against women in the state.  Gaikwad requested the Governor's intervention regarding the **Shakti Criminal Laws (Maharashtra Amendment) Bill, 2020**, which awaits presidential assent, and urged the government to take strict action against atrocities against women. The letter comes amid protests following a four-year-old girl's alleged rape and murder in Pune district.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Pune"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "crime_violence",
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56960,
-      "title": "Maharashtra to upgrade 19 secondary ashram schools to junior college for tribals - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-to-upgrade-19-secondary-ashram-schools-to-junior-college-for-tribals/article70943366.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-05 23:56:03.151419",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Maharashtra government",
-      "rephrased_article": "The **Maharashtra** government approved upgrading 19 secondary schools and 5 primary ashram schools to higher levels under the Tribal Development Department.  This decision aims to prevent dropouts and improve educational progress for tribal students in remote areas. The upgrades will create new positions and funding for these schools, which currently serve over 2.6 million students across the state.  The **Maharashtra** government's decision is part of a larger effort to provide quality education to all students, particularly those from marginalized communities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Pune",
-        "Nagpur",
-        "Nashik"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 56928,
-      "title": "Bombay High Court directs Maharashtra government to ease travel curbs on Sangram Patil, U.K.-based doctor booked for posts on PM Modi - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-directs-maharashtra-to-ease-travel-curbs-on-uk-based-doctor-booked-for-posts-on-pm-modi/article70943727.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ottnub/article70944592.ece/alternates/LANDSCAPE_1200/IMG_Bombay-HC-strik_G59D_2_1_NUELFO0R.jpg",
-      "scraped_at": "2026-05-05 21:12:32.038590",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Sangram Patil",
-      "rephrased_article": "The **Bombay High Court** ordered the Maharashtra government to modify a lookout circular (LOC) against **Sangram Patil**, a UK-based doctor and YouTuber, so he can return to the United Kingdom by May 11th.  **Patil**, who is named in an FIR for alleged posts critical of Prime Minister Narendra Modi and BJP leaders, was prevented from returning to the UK after immigration authorities cited the LOC. The court heard arguments from **Patil's** legal team and the state government, with the main petition seeking quashing of the FIR still pending after the summer vacation.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56880,
-      "title": "Put petty politics aside, says Rahul Gandhi, as he backs Mamata Banerjee - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-accorded-rousing-reception-in-kolathur/article70944083.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/y0m2gp/article70941846.ece/alternates/LANDSCAPE_1200/West%20Bengal%20Assembly%20elections%202026%20%2032.JPG",
-      "scraped_at": "2026-05-05 18:04:07.102138",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Rahul Gandhi**, leader of the Opposition in the Lok Sabha, criticized the **BJP's** victory in the West Bengal and Assam Assembly elections as a \"theft\" of the popular mandate, alleging it marks a step towards destroying Indian democracy. He expressed support for the Trinamool Congress (TMC) and cautioned against political schadenfreude over the party's defeat.  Gandhi urged political parties to prioritize India above partisan considerations.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Rahul Gandhi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Haryana",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
       ]
     }
   ]
