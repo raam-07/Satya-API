@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 08:18:53.140104",
+  "generated_at": "2026-06-06 12:20:19.921000",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,17 +8,17 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 497,
-    "articles_last_30d": 147
+    "total_articles": 499,
+    "articles_last_30d": 148
   },
   "top_cities_30d": {
-    "Delhi": 33,
+    "Delhi": 34,
     "Visakhapatnam": 22,
     "Hyderabad": 17,
     "Chennai": 11,
     "Mumbai": 7,
+    "Bengaluru": 6,
     "Madurai": 6,
-    "Bengaluru": 5,
     "Kolkata": 5,
     "Coimbatore": 4,
     "Ludhiana": 3
@@ -27,15 +27,78 @@
     "foreign_policy": 95,
     "education": 34,
     "economy": 27,
-    "infrastructure": 21,
+    "infrastructure": 22,
     "crime_violence": 19,
-    "health": 14,
+    "health": 15,
     "protest_opposition": 14,
     "farmer_agriculture": 12,
     "rape_sexual_crime": 6,
     "political_gaffe": 5
   },
   "recent_articles": [
+    {
+      "id": 66020,
+      "title": "NFHS collected data on COVID deaths, toilets and fuel, but information missing from factsheets - The Hindu",
+      "url": "https://www.thehindu.com/news/national/nfhs-collected-data-on-covid-deaths-toilets-and-fuel-but-information-missing-from-factsheets/article71069343.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4z729v/article71069453.ece/alternates/LANDSCAPE_1200/07_RVM_9189.jpg",
+      "scraped_at": "2026-06-06 10:57:03.895531",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "National Family Health Survey-6",
+      "rephrased_article": "The **National Family Health Survey-6 (NFHS-6)**, conducted by **Sigma**, a Delhi-based social research organization, collected data on COVID-19 and other health topics. The survey gathered information from 6,79,238 households across India, including questions about COVID-19 infection status, hospitalizations, and economic impact. However, the data related to COVID-19 is not included in the released factsheets despite its collection.  The **Ministry of Health and Family Welfare** published the NFHS-6 factsheets with only 101 parameters compared to the previous survey's 131. The NFHS-6 also omitted details on neonatal mortality rate, infant mortality rate, under-five mortality rate, sanitation data, and adult literacy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Delhi",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 65957,
+      "title": "Regional parties assert independence, stress national interest at Hindu Huddle 2026 - The Hindu",
+      "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-the-role-of-regional-politics-in-strengthening-democracy/article71069093.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/w6ih7b/article71068743.ece/alternates/LANDSCAPE_1200/nurturing%20pluralist.jpeg",
+      "scraped_at": "2026-06-06 08:39:32.448622",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Regional parties",
+      "rephrased_article": "**Regional party leaders**, including **K.R. Suresh Reddy** of the BRS, **Dr. Santrupt Misra** of the Biju Janata Dal, and **Javed Ali Khan** of the Samajwadi Party, asserted that their parties continue to play a significant role in shaping India's political landscape. They emphasized that their choices are driven by national interest rather than opportunism, citing examples like the BRS's opposition to the Kisan Bill but support for demonetization and its stance on Telangana's statehood demand.  They also cautioned against double standards in coalition politics while advocating for a nuanced approach towards One Nation One Election, highlighting the potential impact on local issues and assembly terms.",
+      "party_mentioned": [
+        "Congress",
+        "Samajwadi Party",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal",
+        "NDA",
+        "UPA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Meghalaya",
+        "Odisha",
+        "Telangana",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "infrastructure"
+      ]
+    },
     {
       "id": 65910,
       "title": "Moving fast to close ‘open-ends’; first tranche of India-US trade deal by mid-July: Piyush Goyal | Business News - The Indian Express",
@@ -5394,65 +5457,6 @@
         "Hyderabad"
       ],
       "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 54018,
-      "title": "BJP staring at electoral losses in West Bengal, Tamil Naidu, Kerala: Farooq Abdullah - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bjp-staring-at-electoral-losses-in-west-bengal-tamil-naidu-kerala-farooq-abdullah/article70902896.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/wq3dp4/article70903296.ece/alternates/LANDSCAPE_1200/Nearby1--2-_G1SGFHFN7RRB.3.jpg.jpg",
-      "scraped_at": "2026-04-24 22:49:09.419026",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Dr. Farooq Abdullah**, president of the **National Conference**, predicted electoral victories for the Congress party in Kerala and Tamil Nadu, while also stating that the BJP would likely experience losses in West Bengal and Tamil Nadu during the 2024 elections.  He attributed this to the people's rejection of divisive politics.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "National Conference"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "M.K. Stalin",
-        "Chandrababu Naidu",
-        "Farooq Abdullah"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Srinagar"
-      ],
-      "topic_tags": [
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 53801,
-      "title": "AP Ministers continue Singapore training on governance, development models - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-ministers-continue-singapore-training-on-governance-development-models/article70900517.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9jymd2/article70900928.ece/alternates/LANDSCAPE_1200/Ministers.jpeg",
-      "scraped_at": "2026-04-24 08:17:03.488088",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Singapore government",
-      "rephrased_article": "**Andhra Pradesh** Ministers, led by **Municipal Administration and Urban Development Minister P. Narayana**, are participating in a four-day training program in Singapore focusing on governance, industrial growth, and sustainable development practices. The delegation is studying Singapore's approaches to economic development, technological advancement, and environmentally sustainable governance, with former **Singapore Prime Minister’s Office** minister **Lim Swee Say** delivering a session outlining the city-state's transformation.  The program, hosted by the **Singapore government** and the **World Bank**, aims to help the delegation adapt these models to Andhra Pradesh's administrative framework.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
         "infrastructure",
         "foreign_policy"
       ]

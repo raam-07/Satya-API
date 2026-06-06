@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 08:18:53.271105",
+  "generated_at": "2026-06-06 12:20:20.033949",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 501,
-    "articles_last_30d": 146
+    "total_articles": 507,
+    "articles_last_30d": 152
   },
   "top_cities_30d": {
-    "Hyderabad": 48,
-    "Delhi": 19,
+    "Hyderabad": 49,
+    "Delhi": 20,
     "Mumbai": 11,
-    "Bengaluru": 8,
+    "Bengaluru": 11,
     "Chennai": 4,
     "Kolkata": 3,
     "Kanpur": 3,
@@ -24,18 +24,174 @@
     "Ludhiana": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 99,
-    "infrastructure": 32,
+    "foreign_policy": 101,
+    "infrastructure": 34,
     "education": 29,
     "economy": 28,
-    "crime_violence": 20,
-    "protest_opposition": 17,
+    "crime_violence": 21,
+    "protest_opposition": 18,
     "farmer_agriculture": 16,
     "rape_sexual_crime": 13,
-    "health": 12,
-    "political_gaffe": 9
+    "health": 13,
+    "political_gaffe": 10
   },
   "recent_articles": [
+    {
+      "id": 66020,
+      "title": "NFHS collected data on COVID deaths, toilets and fuel, but information missing from factsheets - The Hindu",
+      "url": "https://www.thehindu.com/news/national/nfhs-collected-data-on-covid-deaths-toilets-and-fuel-but-information-missing-from-factsheets/article71069343.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4z729v/article71069453.ece/alternates/LANDSCAPE_1200/07_RVM_9189.jpg",
+      "scraped_at": "2026-06-06 10:57:03.895531",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "National Family Health Survey-6",
+      "rephrased_article": "The **National Family Health Survey-6 (NFHS-6)**, conducted by **Sigma**, a Delhi-based social research organization, collected data on COVID-19 and other health topics. The survey gathered information from 6,79,238 households across India, including questions about COVID-19 infection status, hospitalizations, and economic impact. However, the data related to COVID-19 is not included in the released factsheets despite its collection.  The **Ministry of Health and Family Welfare** published the NFHS-6 factsheets with only 101 parameters compared to the previous survey's 131. The NFHS-6 also omitted details on neonatal mortality rate, infant mortality rate, under-five mortality rate, sanitation data, and adult literacy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Delhi",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 66014,
+      "title": "Envoys call for ‘rules-based global order’ in era of ‘paradox and polarisation’ - The Hindu",
+      "url": "https://www.thehindu.com/the-huddle/envoys-call-for-rules-based-global-order-in-era-of-paradox-and-polarisation/article71065355.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/gd3sks/article71065350.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-05%20at%201.04.36%20PM.jpeg",
+      "scraped_at": "2026-06-06 08:41:34.535392",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "India",
+      "rephrased_article": "**EU**, **Australia**, and **India** envoys at The Hindu Huddle 2026 emphasized the importance of a rules-based international order and economic integration. They highlighted the growing India-EU and India-Australia partnerships as key drivers for future cooperation, with **EU Ambassador to India Harve Delphin** advocating for collaboration with countries demonstrating intent, capability, and willingness to cooperate.  **Australian High Commissioner to India Philip Green** stressed the need to strengthen existing rules while acknowledging that global rulemaking has slowed but not stopped. Former Indian Foreign Secretary **Nirupama Rao** urged India to maintain its influence through dialogue and diplomacy, emphasizing its pivotal role in the Indo-Pacific region.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Meghalaya",
+        "Telangana",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66008,
+      "title": "Beyond short circuit: Potential fire accidents lurk behind old and overloaded electric wires in Telangana’s building - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/beyond-short-circuit-potential-fire-accidents-lurk-behind-old-and-overloaded-electric-wires-in-telanganas-building/article71065863.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/38mqub/article71065740.ece/alternates/LANDSCAPE_1200/08hyngg_Charminar%20%2001.jpg",
+      "scraped_at": "2026-06-06 08:41:07.695701",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Electricity department",
+      "rephrased_article": "**Telangana** is grappling with a surge in electrical fires attributed to \"short circuits\", which experts say often mask deeper problems like aging wiring and overloaded systems.  The National Crime Records Bureau (NCRB) reported 1,042 electrical short circuit incidents in the country in 2024, resulting in 1,012 deaths and 52 injuries. **State Fire Department** officials emphasize the need for regular rewiring assessments, especially in buildings over 10-15 years old, to ensure safety.  However, concerns persist about the availability of cheaper, substandard electrical materials that often lack proper BIS certification.  The Electricity department acknowledges a regulatory blind spot, with most residential installations relying on self-certification and owner responsibility rather than routine inspections.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66000,
+      "title": "Telangana approves 12,000 LIG houses construction in CURE under pilot project - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-approves-12000-lig-houses-construction-in-cure-under-pilot-project/article71066715.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/46um0o/article71069053.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-06%20at%201.26.06%20PM.jpeg",
+      "scraped_at": "2026-06-06 08:40:52.357571",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Telangana Government",
+      "rephrased_article": "The **Telangana Government** has approved a pilot project for the construction of 12,000 houses under the Indiramma Houses - Lower Income Group (LIG) Housing Scheme.  Housing Department Secretary **V.P. Gautham** visited Khairatabad Assembly constituency to identify suitable lands for slum redevelopment and LIG housing construction. The project aims to construct one lakh LIG houses in 24 Assembly constituencies within the Core Urban Area (CURE).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 65996,
+      "title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+      "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/opmao8/article71068972.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-06%20at%2012.58.31%20PM.jpeg",
+      "scraped_at": "2026-06-06 08:40:42.964767",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Revanth Reddy",
+      "rephrased_article": "The sixth edition of **The Hindu Group**’s annual ideas conclave, The Hindu Huddle, is being held in Bengaluru on June 5th and 6th.  **Karnataka Chief Minister D.K. Shivakumar** formally inaugurated the event on Friday morning. Day 1 featured discussions by leading Indian and global voices on important issues. Day 2 will include **Telangana Chief Minister Revanth Reddy**, Members of Parliament, industry leaders, sports persons, actors, and artists.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 65957,
+      "title": "Regional parties assert independence, stress national interest at Hindu Huddle 2026 - The Hindu",
+      "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-the-role-of-regional-politics-in-strengthening-democracy/article71069093.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/w6ih7b/article71068743.ece/alternates/LANDSCAPE_1200/nurturing%20pluralist.jpeg",
+      "scraped_at": "2026-06-06 08:39:32.448622",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Regional parties",
+      "rephrased_article": "**Regional party leaders**, including **K.R. Suresh Reddy** of the BRS, **Dr. Santrupt Misra** of the Biju Janata Dal, and **Javed Ali Khan** of the Samajwadi Party, asserted that their parties continue to play a significant role in shaping India's political landscape. They emphasized that their choices are driven by national interest rather than opportunism, citing examples like the BRS's opposition to the Kisan Bill but support for demonetization and its stance on Telangana's statehood demand.  They also cautioned against double standards in coalition politics while advocating for a nuanced approach towards One Nation One Election, highlighting the potential impact on local issues and assembly terms.",
+      "party_mentioned": [
+        "Congress",
+        "Samajwadi Party",
+        "Janata Dal",
+        "BJD",
+        "Biju Janata Dal",
+        "NDA",
+        "UPA"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Meghalaya",
+        "Odisha",
+        "Telangana",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "infrastructure"
+      ]
+    },
     {
       "id": 65940,
       "title": "Mind Games: Mentalist leaves audience spellbound - The Hindu",
@@ -5171,145 +5327,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 54498,
-      "title": "Celebrate Foundation Day at every level: KTR - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/celebrate-foundation-day-at-every-level-ktr/article70909020.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-26 15:53:49.266225",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BRS",
-      "rephrased_article": "**BRS** leadership has instructed its cadre and leaders to hoist the party flag on April 27th in celebration of the party's Silver Jubilee. **K.T. Rama Rao**, working president, held a teleconference with party leaders across the state, urging them to celebrate at all levels.  The plenary-cum-State executive meeting will be held at the party office and only those invited have been asked to attend.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54484,
-      "title": "Govt. to restore 10th century Siddheswara Swamy temple in Nellore district - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-to-restore-10th-century-siddheswara-swamy-temple-in-nellore-district/article70908765.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2lm64k/article70909058.ece/alternates/LANDSCAPE_1200/10215_26_4_2026_19_0_30_1_WHATSAPPIMAGE2026_04_26AT65520PM.JPEG",
-      "scraped_at": "2026-04-26 14:57:43.329933",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Andhra Pradesh** Minister for Endowments, Anam Ramanarayana Reddy, visited the 10th century **Siddheswara Swamy temple** at Krishnapatnam Port area with officials from various states and the **Archaeological Survey of India (ASI)** to inspect its heritage status and discuss development plans. The visit included representatives from Andhra Pradesh, Karnataka, Tamil Nadu, and Telangana.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Karnataka",
-        "Tamil Nadu",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 54476,
-      "title": "Telangana IT Minister Sridhar Babu calls for stricter curbs against gutka, pan masala, khaini and drugs in State - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-it-minister-calls-for-stricter-curbs-against-gutka-pan-masala-khaini-and-drugs-in-telangana/article70909030.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i4m65a/article70909035.ece/alternates/LANDSCAPE_1200/HG0q-cBaUAA360w.jpg",
-      "scraped_at": "2026-04-26 14:54:38.008489",
-      "category": "health",
-      "sentiment": "positive",
-      "sentiment_target": "Telangana IT Minister Sridhar Babu",
-      "rephrased_article": "**Duddilla Sridhar Babu**, **Telangana IT Minister**, warned against the consumption of gutka, pan masala, khaini, and narcotics, emphasizing their serious health risks. He urged young people to avoid addiction and adopt healthier lifestyles during an Oral Cancer Awareness Marathon in Hyderabad organized by the **Global Oral Cancer Trust**.  **Cyberabad Police Commissioner M. Ramesh** also participated in the event, flagging off a 5K run.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "health"
-      ]
-    },
-    {
-      "id": 54324,
-      "title": "Kavitha’s ‘TRS’ may face ECI scrutiny over acronym similarity - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/kavithas-trs-may-face-eci-scrutiny-over-acronym-similarity/article70906336.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qb5ckd/article70907583.ece/alternates/LANDSCAPE_1200/_NGP5948.jpg",
-      "scraped_at": "2026-04-26 03:29:49.290985",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Election Commission of India (ECI)** may reject the proposed name \"Telangana Rashtra Sena\" for **Kalvakuntla Kavitha's** new political outfit due to its resemblance to the existing **Bharat Rashtra Samithi (BRS)**. The ECI scrutinizes party names for potential voter confusion, examining phonetic similarity and visual resemblance. While the BRS is not objecting to the name, some sources suggest that the ECI may approve it if Kavitha has good relations with New Delhi. However, **Karthik Reddy**, son of a BRS MLA, believes the ECI's decision could be a deliberate tactic to delay registration.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 54292,
-      "title": "Telangana IAS Transfers Apr 2026 | Major reshuffle; Priyanka Ala is Hyderabad Collector - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/major-ias-reshuffle-in-telangana-priyanka-ala-is-hyderabad-collector/article70906424.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/yytb1e/article70906426.ece/alternates/LANDSCAPE_1200/Priyanka%20Ala%20Khairtabad%20Zonal%20Commissioner.jpg",
-      "scraped_at": "2026-04-25 21:44:55.320793",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "The **Telangana** government has announced a major reshuffle of IAS officers, transferring and appointing officials across various departments.  **Sanjay Kumar**, Special Chief Secretary in several departments, has been transferred to **Telangana Bhavan** in New Delhi, while **M. Dana Kishore** will replace him as Special Chief Secretary for the **Labour, Employment, Training and Factories (LET&F)** Department. Other key postings include **B. Viziendira** as Secretary to the Social Welfare Department, and **Harichandana Dasari**, Hyderabad Collector, moving to the **LET&F** Department.  The reshuffle also saw several collectors being transferred to different districts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 54253,
-      "title": "eKYC related delay compounds domestic LPG consumer woes - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/ekyc-related-delay-compounds-domestic-lpg-consumer-woes/article70898669.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ij4qtb/article70906532.ece/alternates/LANDSCAPE_1200/06_LPG_Cylinders_23_04_Delhi.jpg",
-      "scraped_at": "2026-04-25 19:08:27.984240",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Thousands** of domestic LPG consumers in **Telangana** are experiencing difficulties accessing cooking gas refills due to the incomplete e-KYC process.  **Oil Marketing Companies (OMCs)** have implemented restrictions on refills and delays in service for those who haven't completed the e-KYC, following an advisory issued earlier. The enforcement of e-KYC is crucial given the impact of the war in West Asia on LPG supply.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]

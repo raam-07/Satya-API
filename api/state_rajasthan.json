@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 08:18:53.252856",
+  "generated_at": "2026-06-06 12:20:20.018985",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 245,
-    "articles_last_30d": 136
+    "total_articles": 249,
+    "articles_last_30d": 140
   },
   "top_cities_30d": {
-    "Delhi": 46,
-    "Bengaluru": 19,
+    "Delhi": 47,
+    "Bengaluru": 20,
     "Ahmedabad": 16,
+    "Jaipur": 15,
     "Mumbai": 13,
-    "Jaipur": 12,
     "Chennai": 9,
     "Pune": 6,
     "Hyderabad": 6,
@@ -24,18 +24,132 @@
     "Ludhiana": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 99,
+    "foreign_policy": 102,
     "education": 30,
     "crime_violence": 24,
-    "infrastructure": 21,
-    "economy": 18,
+    "infrastructure": 22,
+    "economy": 19,
     "protest_opposition": 16,
-    "health": 12,
-    "political_gaffe": 11,
-    "corruption_scam": 10,
-    "farmer_agriculture": 9
+    "health": 13,
+    "political_gaffe": 12,
+    "farmer_agriculture": 10,
+    "corruption_scam": 10
   },
   "recent_articles": [
+    {
+      "id": 66050,
+      "title": "Importance of being Satish Poonia: Why BJP’s key Rajasthan Jat face is its Rajya Sabha pick | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/satish-poonia-bjp-key-rajasthan-jat-face-rajya-sabha-pick-10727236/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Untitled-design-10.png",
+      "scraped_at": "2026-06-06 10:58:27.186838",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The **BJP** has nominated **Satish Poonia**, a prominent Jat leader, to the Rajya Sabha from Rajasthan as a way to appease the community while keeping him away from direct involvement in state politics. This move comes after the BJP's 2024 Lok Sabha election loss in Rajasthan where the **INDIA alliance** swept the Jat belt and the party faced criticism for its handling of Jat concerns, including the denial of tickets to prominent Jat leaders and a perceived lack of representation. Poonia has been instrumental in navigating internal power struggles within the party, particularly against former Chief Minister Vasundhara Raje, but his influence may be limited by the BJP's desire to avoid alienating traditional vote banks.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul",
+        "Ashok Gehlot"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66033,
+      "title": "Adani Enterprises Ltd Plants 1.6 Million Trees To Turn Chhattisgarh Coal Mine Green",
+      "url": "https://www.ndtv.com/india-news/adani-enterprises-ltd-plants-1-6-million-trees-to-turn-chhattisgarh-coal-mine-green-11599618#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/uui6kumo_adani-green_625x300_06_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 10:57:37.871160",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Adani Enterprises Ltd.",
+      "rephrased_article": "**Adani Enterprises Ltd.** has planted over 1.6 million trees at its Parsa East and Kanta Basan (PEKB) mine in Chhattisgarh, aiming to restore mined land and boost biodiversity. The company's greening project involves replicating native species like Sal, Mahua, and Tendu, with a survival rate of about 88% for the re-planted trees. **The Union Coal Ministry** praised the initiative as a \"remarkable\" example of responsible mining practices.  This restoration effort is part of a broader program that includes community development initiatives focused on education, healthcare, and livelihoods in the region.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 65993,
+      "title": "PM Narendra Modi's Yoga Guru HR Nagendra To Lead International Day of Yoga Event At New York's Times Square",
+      "url": "https://www.ndtv.com/world-news/pm-narendra-modis-yoga-guru-hr-nagendra-to-lead-international-day-of-yoga-event-at-new-yorks-times-square-11598816#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/4tb9um88_idy_625x300_06_June_26.jpeg",
+      "scraped_at": "2026-06-06 08:40:35.160638",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Prime Minister Narendra Modi",
+      "rephrased_article": "**HR Nagendra**, yoga guru to **Prime Minister Narendra Modi**, will lead International Day of Yoga (IDY) celebrations at Times Square in New York on June 21.  He will also inaugurate a special Yoga and wellness retreat in Monticello, New York, from June 12 to 14. The retreat is organized by the Rajasthan Association of North America (RANA), BRUHUD NY Seniors, and Jaipur Foot USA. **Nagendra** will be joined at Times Square by **Prem Bhandari**, President of RANA.  The theme for this year's IDY is 'Yoga for Healthy Aging'.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 65990,
+      "title": "National Awards for e-Governance 2026 | UPSC Knowledge Nugget",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-e-governance-awards-2026-india-dpi-10726828/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/national-e-governance-awards-2026.jpg",
+      "scraped_at": "2026-06-06 08:40:29.699287",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Union government",
+      "rephrased_article": "The **Union government** has announced the winners of the 29th National Conference on e-Governance, recognizing excellence in e-governance initiatives. The awards include a trophy, certificate, and an incentive for Gold awardees.  This year's winners are projects from various ministries including the Agriculture Ministry's AgriStack platform, the Consumer Affairs Ministry's e-Jagriti portal, and the Prayagraj Mela Authority's conduct of the Mahakumbh 2025. E-governance in India has evolved since computerization in the 1970s, with key milestones including the establishment of the National Informatics Centre (NIC) and the launch of the National e-Governance Plan (NeGP).  Digital Public Infrastructure (DPI), a set of foundational digital systems, plays a crucial role in modern society. India's DPI is built on the JAM trinity—Jan Dhan bank accounts, Aadhaar enrolment, and widespread mobile phone penetration.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Jaipur",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 65898,
       "title": "Correcting ‘discrepancies’ is normal practice in statistical exercise, says Census official - The Hindu",
@@ -5800,119 +5914,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 48260,
-      "title": "Rajasthan High Court upholds cancellation of 2021 police Sub-Inspector exam over paper leak - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-upholds-cancellation-of-2021-policesub-inspector-exam-over-paper-leak/article70823951.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/tw7k76/article70824509.ece/alternates/LANDSCAPE_1200/01_Congress_government_20_JPR.jpg",
-      "scraped_at": "2026-04-04 17:40:40.117212",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Rajasthan Public Service Commission (RPSC)",
-      "rephrased_article": "The **Rajasthan High Court** upheld the cancellation of the 2021 Sub-Inspector recruitment examination, citing large-scale irregularities and paper leakage. The court ruled that there should be no political appointments within the **Rajasthan Public Service Commission (RPSC)** and directed the state government to enact a new law governing its selection process.  The decision follows an earlier order by a Single Judge Bench, which had cancelled the examination in August 2025 after finding evidence of widespread misconduct. The court also set aside the suo motu cognisance taken against some members of the RPSC.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "education",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 48252,
-      "title": "Congress alleges police inaction, shielding of accused in Ajmer Dalit rape case - The Hindu",
-      "url": "https://www.thehindu.com/news/national/congress-alleges-police-inaction-shielding-of-accused-in-ajmer-dalit-rape-case/article70823608.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nxb9y/article70824519.ece/alternates/LANDSCAPE_1200/20250611039L.jpg",
-      "scraped_at": "2026-04-04 17:37:18.446596",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The **Congress** on Saturday accused the **BJP** government in Rajasthan of shielding the accused in an alleged gang rape and attack on a Dalit girl's family.  AICC Scheduled Castes Department chairman Rajendra Pal Gautam claimed that the police failed to act despite the survivor’s statement and repeated complaints, leading to only one arrest so far. He also alleged violations of the SC/ST (Prevention of Atrocities) Act and demanded security and compensation for the survivor and her family.  Gautam thanked Rahul Gandhi for his letter to Prime Minister Narendra Modi regarding the withdrawal of cases linked to 2018 protests against the dilution of the SC/ST Act.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 48146,
-      "title": "Cyclonic circulation brings rain in parts of Rajasthan; forecast of thunderstorms and hail - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/cyclonic-circulation-brings-rain-in-parts-of-rajasthan-forecast-of-thunderstorms-and-hail/article70822729.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/465r1m/article70822743.ece/alternates/LANDSCAPE_1200/PTI04_03_2026_000339A.jpg",
-      "scraped_at": "2026-04-04 11:08:09.364897",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "IMD",
-      "rephrased_article": "**The India Meteorological Department (IMD)** warned of heavy rainfall and gusty winds in parts of **Rajasthan** over the next few days.  **Western Rajasthan** saw the highest rainfall, with **Karanpur** recording 11.5 mm, while **Udaipur** received up to 32 mm. The IMD predicts thunderstorms accompanied by strong winds and hailstorms for several districts including Jaipur, Ajmer, Bharatpur, Kota, and Udaipur.  A new western disturbance is expected to bring further rain to the region from April 6th.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan",
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Jaipur"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 48003,
-      "title": "NSUI workers clash with police over RSS-linked event in Rajasthan University - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/nsui-workers-clash-with-police-over-rss-linked-event-in-rajasthan-university/article70820406.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-03 22:41:01.094596",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "**NSUI** members clashed with police at **Rajasthan University** on Friday, protesting a seminar organized by the **Marudhara Nari Sashaktikaran Sangathan**, a group affiliated with the **Rashtriya Swayamsevak Sangh**.  The protest stemmed from concerns that the event promoted RSS ideology and was inappropriate for the university's academic environment. **NSUI** leader Amardeep Parihar demanded the program be canceled, citing a similar event in September 2025 that led to a confrontation.  Senior Congress leaders **Ashok Gehlot**, **Govind Singh Dotasra**, and **Tika Ram Jully** condemned the police action and called for the release of detained protesters.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Ashok Gehlot"
-      ],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "crime_violence"
       ]
     }
   ]

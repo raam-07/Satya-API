@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 08:18:53.301754",
+  "generated_at": "2026-06-06 12:20:20.060074",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,379 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1197,
-    "articles_last_30d": 645
+    "total_articles": 1209,
+    "articles_last_30d": 657
   },
   "top_cities_30d": {
-    "Delhi": 639,
-    "Mumbai": 66,
+    "Delhi": 651,
+    "Mumbai": 67,
     "Bengaluru": 45,
-    "Kolkata": 36,
+    "Kolkata": 37,
     "Hyderabad": 30,
     "Chennai": 27,
-    "Jaipur": 15,
-    "Kanpur": 13,
+    "Jaipur": 16,
+    "Kanpur": 14,
     "Lucknow": 13,
     "Ahmedabad": 12
   },
   "top_topics_30d": {
-    "foreign_policy": 483,
+    "foreign_policy": 490,
     "crime_violence": 200,
-    "economy": 133,
-    "education": 129,
-    "protest_opposition": 116,
-    "infrastructure": 64,
-    "corruption_scam": 64,
-    "health": 35,
+    "economy": 135,
+    "education": 135,
+    "protest_opposition": 123,
+    "infrastructure": 67,
+    "corruption_scam": 66,
+    "health": 36,
     "farmer_agriculture": 22,
-    "political_gaffe": 20
+    "political_gaffe": 21
   },
   "recent_articles": [
+    {
+      "id": 66056,
+      "title": "At Jantar Mantar, Abhijeet Dipke says ‘can’t erase us’ — then ultimatum to Dharmendra Pradhan to resign | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/jantar-mantar-protest-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-resignation-wangchuk-10727226/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/cjp_03eb18.jpg",
+      "scraped_at": "2026-06-06 10:58:38.883539",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Abhijeet Dipke**, founder of the online youth movement **Cockroach Janta Party (CJP)**, arrived at Jantar Mantar after a delay caused by police interference.  Dipke delivered an ultimatum to **Dharmendra Pradhan**, Education Minister, demanding his resignation by 5 pm or face continued protests across India. The crowd chanted slogans calling for Pradhan's resignation and the unity of youth. Dipke was lifted onto protestors' shoulders in a celebratory gesture, highlighting the movement's growing momentum.",
+      "party_mentioned": [
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 66052,
+      "title": "CJP at Jantar Mantar: How Jantar Mantar became Delhi's protest hub",
+      "url": "https://indianexpress.com/article/explained/jantar-mantar-protest-site-history-delhi-explained-10727221/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/jantarmantar.jpeg",
+      "scraped_at": "2026-06-06 10:58:30.661235",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "Hundreds gathered at Delhi's Jantar Mantar on Saturday to protest irregularities in examinations and demand the resignation of **Union Education Minister Dharmendra Pradhan**. The protest, organized by online youth movement Cockroach Janta Party (CJP), founder Abhijeet Dipke,  was a symbolic move as it took place at the site where social activist Anna Hazare began his hunger strike against corruption in 2011. The CJP's first on-ground action follows its rapid rise to prominence online after being inspired by Chief Justice of India Surya Kant's courtroom comment comparing some youth to cockroaches.  The protest is part of a long history of demonstrations at Jantar Mantar, which has hosted protests against corruption, farm distress, and other social issues.",
+      "party_mentioned": [
+        "Congress",
+        "AAP"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "infrastructure",
+        "education",
+        "protest_opposition",
+        "foreign_policy",
+        "rape_sexual_crime"
+      ]
+    },
+    {
+      "id": 66028,
+      "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi | Politics News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a23d985c54d-1780734341.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-06-06 10:57:15.644557",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Hundreds of supporters of the **Cockroach Janta Party** (CJP), a satirical political movement in India, gathered in New Delhi to protest Education Minister Dharmendra Pradhan.  The CJP, inspired by comments made by India's Chief Justice Surya Kant, has gained widespread online support among young Indians frustrated with job opportunities and limited education access. Organisers of the march encouraged peaceful demonstrations and urged participants to bring national flags and books symbolizing the right to education. The group’s rise echoes similar trends in South Asia where youth movements have played a key role in anti-government protests.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "economy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 66020,
+      "title": "NFHS collected data on COVID deaths, toilets and fuel, but information missing from factsheets - The Hindu",
+      "url": "https://www.thehindu.com/news/national/nfhs-collected-data-on-covid-deaths-toilets-and-fuel-but-information-missing-from-factsheets/article71069343.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/4z729v/article71069453.ece/alternates/LANDSCAPE_1200/07_RVM_9189.jpg",
+      "scraped_at": "2026-06-06 10:57:03.895531",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "National Family Health Survey-6",
+      "rephrased_article": "The **National Family Health Survey-6 (NFHS-6)**, conducted by **Sigma**, a Delhi-based social research organization, collected data on COVID-19 and other health topics. The survey gathered information from 6,79,238 households across India, including questions about COVID-19 infection status, hospitalizations, and economic impact. However, the data related to COVID-19 is not included in the released factsheets despite its collection.  The **Ministry of Health and Family Welfare** published the NFHS-6 factsheets with only 101 parameters compared to the previous survey's 131. The NFHS-6 also omitted details on neonatal mortality rate, infant mortality rate, under-five mortality rate, sanitation data, and adult literacy.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Delhi",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 66017,
+      "title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ncjwrs/article71068895.ece/alternates/LANDSCAPE_1200/IMG_Sakina_Itoo_addresse_2_1_L5DRQ4NO.jpg",
+      "scraped_at": "2026-06-06 08:41:43.929151",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mehbooba Mufti",
+      "rephrased_article": "**Sakeena Itoo**, **Jammu and Kashmir Health Minister**, criticized former Chief Minister **Mehbooba Mufti** for visiting the under-construction AIIMS, Awantipora site.  Itoo accused those who delayed the project of now attempting to claim credit for its progress. **Mufti Muhammad Sayeed**, a PDP leader, had envisioned the project in 2015. **Ms. Mufti** visited the site and requested **J.P. Nadda**, **Union Health Minister**, to expedite its completion.",
+      "party_mentioned": [
+        "BJP",
+        "PDP"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah",
+        "Mehbooba Mufti"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66013,
+      "title": "CJP founder Abhijeet Dipke arrives at Jantar Mantar for Pradhan resignation protest - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-jantar-mantar-dharmendra-pradhan-exam-leaks/article71068441.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3nvqyf/article71068980.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20DELHI_06_06_31.jpg",
+      "scraped_at": "2026-06-06 08:41:30.779171",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Abhijeet Dipke**, founder of the **Cockroach Janta Party (CJP)**, arrived in New Delhi on Saturday morning to lead a protest demanding the resignation of **Education Minister Dharmendra Pradhan**.  The CJP movement, which has garnered over 2 crore followers online, is protesting irregularities in multiple competitive and school examinations. The protest took place at Jantar Mantar, with heavy security measures in place. Counter-protesters were detained by police.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 66009,
+      "title": "Sixty next-generation trains to be introduced for Kolkata Metro in 5 years: Vaishnaw - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/sixty-next-generation-trains-to-be-introduced-for-kolkata-metro-in-5-years-vaishnaw/article71068997.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/nttmlf/article71069011.ece/alternates/LANDSCAPE_1200/20260603232L.jpg",
+      "scraped_at": "2026-06-06 08:41:11.665941",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Union Minister Ashwini Vaishnaw** announced plans to introduce 60 next-generation trains for the Kolkata Metro over the next five years, aiming to revitalize railway projects in West Bengal. **Vaishnaw**, who visited the state secretariat Nabanna with **Chief Minister Suvendu Adhikari**, highlighted the progress made since 2014, including the addition of 45 km of metro lines. He also discussed proposed bullet train services between Delhi–Varanasi and Varanasi–Siliguri, which aim to reduce travel time significantly.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata",
+        "Varanasi"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 65997,
+      "title": "Gurgaon deploys IIT-backed AI sewer sensors in posh colonies to stop monsoon waterlogging | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/gurgaon-gurugram-ai-sewer-sensors-monsoon-waterlogging-prevention-10726957/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/gurgaon-sewer.jpg",
+      "scraped_at": "2026-06-06 08:40:44.148077",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Municipal Corporation of Gurugram",
+      "rephrased_article": "The **Municipal Corporation of Gurugram (MCG)** is installing advanced monitoring sensors across critical sewer lines to prevent waterlogging and sewer overflows during the upcoming monsoon. The project, in collaboration with AIResQ, a startup incubated at IIT Gandhinagar, uses sensor-based systems to monitor real-time technical parameters.  The MCG aims to provide citizens with better sewerage services by identifying potential overflow situations and allowing field response teams to address blockages before they escalate. This initiative prioritizes vulnerable locations across the city, including upscale colonies like Sushant Lok and Golf Course Extension Road, as well as critical traffic corridors.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Faridabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 65992,
+      "title": "Cockroach Janta Party protest LIVE: 'Youth of the country will no longer fear' Abhijeet Dipke leads students, youth at Jantar Mantar protest - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cockroach-janta-party-abhijeet-dipke-cjp-protest-in-delhi-jantar-mantar-live-updates-june-6-2026/article71068317.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/vzpwke/article71068803.ece/alternates/LANDSCAPE_1200/Abhijeet%20Dipke%20Jantar%20Mantar%20protest",
+      "scraped_at": "2026-06-06 08:40:34.850880",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Delhi Police** and **paramilitary forces** have been deployed across key locations in the national capital as members of the Cockroach Janta Party (CJP) began a protest at Jantar Mantar. The protest is being led by Abhijeet Dipke, founder of the satirical online \"Cockroach Janta Party\", who arrived from the United States to demand the resignation of **Union Education Minister Dharmendra Pradhan** over examination-related lapses.  Education reformer and climate activist Sonam Wangchuk has pledged to join the protest if the minister does not step down by June 5th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65990,
+      "title": "National Awards for e-Governance 2026 | UPSC Knowledge Nugget",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-e-governance-awards-2026-india-dpi-10726828/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/national-e-governance-awards-2026.jpg",
+      "scraped_at": "2026-06-06 08:40:29.699287",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Union government",
+      "rephrased_article": "The **Union government** has announced the winners of the 29th National Conference on e-Governance, recognizing excellence in e-governance initiatives. The awards include a trophy, certificate, and an incentive for Gold awardees.  This year's winners are projects from various ministries including the Agriculture Ministry's AgriStack platform, the Consumer Affairs Ministry's e-Jagriti portal, and the Prayagraj Mela Authority's conduct of the Mahakumbh 2025. E-governance in India has evolved since computerization in the 1970s, with key milestones including the establishment of the National Informatics Centre (NIC) and the launch of the National e-Governance Plan (NeGP).  Digital Public Infrastructure (DPI), a set of foundational digital systems, plays a crucial role in modern society. India's DPI is built on the JAM trinity—Jan Dhan bank accounts, Aadhaar enrolment, and widespread mobile phone penetration.",
+      "party_mentioned": [
+        "National Conference"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Jaipur",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 65987,
+      "title": "Cockroach Janta Party stages protest, demands Dharmendra Pradhan’s resignation: 7 things you need to know | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/cockroach-janta-party-protest-jantar-mantar-dharmendra-pradhan-resignation-all-you-need-to-know-10726744/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/dipke-protest-6.jpg",
+      "scraped_at": "2026-06-06 08:40:22.042184",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**Members** of the **Cockroach Janta Party (CJP)** are protesting at Jantar Mantar on Saturday, demanding the resignation of **Union Minister of Education Dharmendra Pradhan**. The group claims **Pradhan** is responsible for recent national-level exam paper leaks, including NEET.  The protest was granted permission by the Delhi Police after founder **Abhijeet Dipke** arrived from the United States and the party has received support from several public figures, including social activist Sonam Wangchuk and actor Prakash Raj.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kanpur"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65986,
+      "title": "Lalu Yadav, Rabri Devi's Z-plus Cover Withdrawn, RJD Workers Guard Bungalow With Sticks",
+      "url": "https://www.ndtv.com/india-news/upset-over-z-plus-cover-withdrawal-lalu-yadav-wife-rabri-yadav-remove-new-security-detail-tejashwi-follows-move-11599013#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/cp8llrmk_lalu-rabri-z_625x300_06_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 08:40:18.807400",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bihar Government",
+      "rephrased_article": "**Lalu Prasad Yadav** and **Rabri Devi**, former Bihar Chief Ministers, removed their new security detail after the state government withdrew their Z-plus protection.  The decision came after the state government reviewed VIP security arrangements and reduced the level of protection for the senior RJD leaders. Their daughter, **Rohini Acharya**, stated that the removal was done with malicious intent to harm them and their family. She urged supporters to gather outside their residence to send a message of support.",
+      "party_mentioned": [
+        "RJD",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Patna"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65954,
       "title": "Lodhi Crematorium wall collapse: As a labourer dies, a family loses its home | Delhi News - The Indian Express",
@@ -5148,334 +5493,6 @@
       "topic_tags": [
         "protest_opposition",
         "education"
-      ]
-    },
-    {
-      "id": 64294,
-      "title": "‘She has kept the best room for herself’: Inside Harsh Beniwal’s lavish family home in Delhi | Art-and-culture News - The Indian Express",
-      "url": "https://indianexpress.com/article/political-pulse/swapan-dasguptas-long-arc-key-conservative-voice-to-first-time-bengal-bjp-mla-minister-10718977/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Farah-and-Harsh.jpg",
-      "scraped_at": "2026-06-01 16:43:22.169273",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Harsh Beniwal",
-      "rephrased_article": "**Farah Khan**, **Harsh Beniwal**, and his family welcomed **Farah Khan** into their Delhi home for a video tour. The home features warm neutral tones, curved seating, layered lighting, and natural light, creating a comfortable and inviting atmosphere.  The space reflects Harsh's personality and career journey, with a gaming room that he rarely uses due to his focus on family time. **Athul Raj**, a counselling psychologist, emphasizes the impact of home environments on emotional health, suggesting personalized spaces like cozy corners and quiet lounges can reduce mental fatigue and provide emotional relief.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64291,
-      "title": "Twelve years of dedication, a legacy of achievement - The Hindu",
-      "url": "https://www.thehindu.com/news/national/twelve-years-of-dedication-a-legacy-of-achievement/article71049786.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/8drjx5/article71049790.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-      "scraped_at": "2026-06-01 16:43:11.501477",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Prime Minister Narendra Modi** received accolades from Norway and Sweden, joining a list of 32 international honors he has been awarded during his 12-year term.  His leadership has been praised for its focus on national development, with achievements including economic reforms, infrastructure projects, and initiatives aimed at empowering women and farmers. The Shiv Sena, a political party within the National Democratic Alliance, continues to support **Modi**, recognizing his dedication to the nation's progress. Despite facing criticism from the opposition, **Modi** remains committed to serving the people and has implemented policies that have improved the lives of millions.  His unwavering commitment to India's development and strong leadership style have earned him widespread admiration both domestically and internationally.",
-      "party_mentioned": [
-        "Shiv Sena"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Didi",
-        "Eknath Shinde"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "infrastructure",
-        "economy",
-        "education",
-        "farmer_agriculture",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64287,
-      "title": "After Water Crisis, Delhi Plans 1,500 Rainwater Harvesting Projects Before Monsoon",
-      "url": "https://www.ndtv.com/india-news/after-water-crisis-delhi-plans-1-500-rainwater-harvesting-projects-before-monsoon-11576323#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-01/9kqn5aho_delhi-rain-news_625x300_31_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-01 16:42:47.957195",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Delhi Jal Board",
-      "rephrased_article": "The **Delhi Jal Board (DJB)** has launched a pre-monsoon rainwater harvesting drive to improve groundwater recharge. The initiative, which will see the construction of 500 new structures and restoration of 1,000 non-functional systems across government buildings by June 30th, aims to capture rainwater that would otherwise flow into drains. **Delhi Water Minister Parvesh Verma** emphasized the importance of continuous water conservation efforts, highlighting that every drop of rain is a valuable resource. The project is expected to recharge around 733 million liters of water annually and address concerns over declining groundwater levels in the city.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 64283,
-      "title": "Why Congress Needs Overhaul In Punjab: Challenges Ahead Of 2027",
-      "url": "https://www.ndtv.com/india-news/why-congress-needs-overhaul-in-punjab-challenges-ahead-of-2027-11576743#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2022-02/qnep0vn8_charanjit-channi_640x480_06_February_22.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-01 16:42:35.179543",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "The **Aam Aadmi Party (AAP)** secured a decisive victory in the Punjab local body elections, winning 958 seats and demonstrating strong dominance. The Congress party saw its seat count plummet from 1,399 to just 397, highlighting internal factionalism issues within the party. The **BJP** gained urban ground, increasing its seats from 49 to 172.  The Akali Dal also experienced a decline in its electoral performance.  The Congress High Command is preparing for significant changes within the Punjab unit, including potential replacements for the state president and leadership positions.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "Akali Dal"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64282,
-      "title": "‘She has kept the best room for herself’: Inside Harsh Beniwal’s lavish family home in Delhi | Art-and-culture News - The Indian Express",
-      "url": "https://indianexpress.com/article/lifestyle/art-and-culture/harsh-beniwal-delhi-home-family-bonding-comfort-stress-interiors-10694067/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/Farah-and-Harsh.jpg",
-      "scraped_at": "2026-06-01 16:42:34.549525",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Harsh Beniwal",
-      "rephrased_article": "**Farah Khan**, **Harsh Beniwal**, and his family showcased their Delhi home in a recent video, highlighting how personal interiors can impact emotional comfort.  The living area featured warm neutral tones and open conversational seating arrangements, while the kitchen was spacious and organized. **Harsh Beniwal** discussed the pressure of online content creation and how it affects his mental health, revealing that he built a gaming room but rarely uses it due to family time. **Athul Raj**, a counselling psychologist, emphasizes that homes influence emotional well-being significantly, suggesting personalized spaces like cozy corners or quiet family lounges can reduce stress and create psychological comfort.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64281,
-      "title": "Delhi Records Coolest June Start In 3 Years With Below Normal Temperatures",
-      "url": "https://www.ndtv.com/india-news/delhi-records-coolest-june-start-in-3-years-with-below-normal-temperatures-11576658#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/m051llms_delhi-weather-_625x300_31_May_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-01 16:42:27.613977",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**The national capital** experienced the coolest June 1st in three years, with **Safdarjung observatory** recording a maximum temperature of 36.3 degrees Celsius, 3.7 degrees below seasonal norm.  No rainfall was recorded across five monitoring stations over the past 24 hours. The India Meteorological Department (IMD) predicts temperatures to gradually rise from tomorrow as the current rain activity weakens.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health"
-      ]
-    },
-    {
-      "id": 64279,
-      "title": "‘Old enough to pull trigger’: Delhi teen dies 4 days after being shot, family demands minor accused be tried as adult | The Indian Express",
-      "url": "https://indianexpress.com/article/delhi/delhi-amar-colony-market-shooting-class-12-student-dies-juvenile-arrested-10718989/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/amar-colony-delhi.jpg",
-      "scraped_at": "2026-06-01 16:42:26.645813",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Delhi Police Crime Branch",
-      "rephrased_article": "A 17-year-old boy, who was shot in the head outside a Delhi eatery on May 27th while with a friend, died from his injuries on Monday. **The victim's family** demanded that one of the accused, a 16-year-old juvenile, be tried as an adult.  **The Delhi Police Crime Branch** is investigating the case and is expected to add murder charges to the existing FIR. Two other suspects, aged 18 and 24, were arrested for the murder. An automatic pistol was recovered from the juvenile's possession.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64272,
-      "title": "‘Make in Haryana’ Industrial Policy eyes future-ready industries with AI-driven ecosystem | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/world/iran-suspends-us-peace-talks-israel-lebanon-offensive-strait-of-hormuz-blockade-10718960/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/anant-raj.jpg",
-      "scraped_at": "2026-06-01 16:42:12.783577",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Haryana Government",
-      "rephrased_article": "**Chief Minister Nayab Singh Saini** launched the 'Make in Haryana' Industrial Policy, aiming to attract Rs 5 lakh crore in investments and position the state as a powerhouse for future-ready manufacturing. The policy focuses on data centers, GCCs, AI-driven investment facilitation, and emerging technologies. **Rao Narbir Singh**, the Industries and Commerce Minister, emphasized the need for speed and trust in attracting global investors.  **Anant Raj Limited** signed an MoU with the Haryana government to invest ₹20,000 crore in data center infrastructure, while other companies like **Reliance MET City** and **India Cellular and Electronics Association (ICEA)** also pledged investments.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 64271,
-      "title": "India, Myanmar Vow Deeper Ties On Security, Trade And Connectivity",
-      "url": "https://www.ndtv.com/world-news/india-myanmar-vow-deeper-ties-on-security-trade-and-connectivity-11576904#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/3ggq8e08_min-aung-hlaing-modi_625x300_29_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-01 16:42:09.407088",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Prime Minister Narendra Modi** and **Myanmar President U Min Aung Hlaing** met in New Delhi, where they pledged deeper cooperation in security, trade, and infrastructure.  **Modi** positioned Myanmar as a key partner in India's foreign policy initiatives, including Neighbourhood First, Act East, and MAHASAGAR. Both sides reaffirmed their commitment to each other's sovereignty and territorial integrity, while also emphasizing the importance of preventing misuse of sovereign territory for activities threatening national security. The visit included discussions on connectivity projects like the Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand Trilateral Highway, as well as trade facilitation and people-to-people initiatives.  **Modi** announced an expansion of scholarships for Myanmar students, while **Min Aung Hlaing** offered prayers at Buddhist sites in Bodh Gaya.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 64266,
-      "title": "I came to know about my brother’s death only through Google search: Himachal Pradesh accident victim’s sister - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/meeting-with-rahul-for-final-call-on-cabinet-formation-today/article71049772.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/z3c2l4/article71049825.ece/alternates/LANDSCAPE_1200/20260531285L.jpg",
-      "scraped_at": "2026-06-01 16:41:56.008459",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "**Jayanthashree G.**, sister of accident victim **Karthigeyan P.G.**, discovered her brother's death through his YouTube search history and news reports on Google after their taxi plunged into a 500-meter deep gorge in Himachal Pradesh. The incident occurred on May 29 while the families were traveling to Dalhousie for a National Taekwondo Competition.  **Karthigeyan**, who ran a food catering business, was accompanied by his wife **Manimala**, and their son **Nandan**.  The accident claimed the lives of seven people, including **Karthigeyan**'s family and other passengers.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Chhattisgarh",
-        "Himachal Pradesh",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru",
-        "Amritsar",
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64264,
-      "title": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi | Narendra Modi News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a1d773b69ae-1780315963.jpg?resize=1200%2C675",
-      "scraped_at": "2026-06-01 16:41:47.412355",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Indian Prime Minister Narendra Modi** met with **Myanmar’s military leader Min Aung Hlaing** in New Delhi, despite criticism from opposition groups.  **India** stated its policy is not intended to comment on the internal political arrangements in Myanmar and believes engagement is the best way forward. During their meeting, the leaders discussed trade, defense, security cooperation, border management, and regional issues. **India** and **Myanmar** also agreed to deepen collaboration across sectors, including trade, energy, and critical minerals, as well as accelerate major connectivity projects.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "S. Jaishankar"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam",
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64263,
-      "title": "‘Make in Haryana’ Industrial Policy eyes future-ready industries with AI-driven ecosystem | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/delhi/make-in-haryana-industrial-policy-eyes-future-ready-industries-with-ai-driven-ecosystem-10718995/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/anant-raj.jpg",
-      "scraped_at": "2026-06-01 16:41:46.611216",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Haryana Government",
-      "rephrased_article": "**Chief Minister Nayab Singh Saini** launched the ‘Make in Haryana’ Industrial Policy, aiming to attract **Rs 5 lakh crore** in investments and position the state as a hub for future-ready industries. The policy focuses on data centers, global capability centers (GCCs), mega industrial parks, and next-generation technology, with incentives including capital subsidies, R&D support, tax benefits, and sustainability subsidies.  The government also unveiled a revamped “Single Window 2.0” system and a new logo for the state's upcoming Global Investors Summit.  Major companies like **National Australia Bank (NAB)** and **Reliance MET City** have pledged investments in the state.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
       ]
     }
   ]

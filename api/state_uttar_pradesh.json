@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 08:18:53.281353",
+  "generated_at": "2026-06-06 12:20:20.042279",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 412,
-    "articles_last_30d": 188
+    "total_articles": 413,
+    "articles_last_30d": 189
   },
   "top_cities_30d": {
     "Delhi": 67,
@@ -18,14 +18,14 @@
     "Ghaziabad": 11,
     "Kolkata": 10,
     "Mumbai": 10,
-    "Bengaluru": 8,
+    "Bengaluru": 9,
     "Agra": 7,
     "Prayagraj": 7,
     "Hyderabad": 6
   },
   "top_topics_30d": {
     "foreign_policy": 137,
-    "crime_violence": 71,
+    "crime_violence": 72,
     "education": 49,
     "protest_opposition": 43,
     "infrastructure": 29,
@@ -36,6 +36,27 @@
     "rape_sexual_crime": 7
   },
   "recent_articles": [
+    {
+      "id": 66042,
+      "title": "Woman, Lover Accused Of Killing Her 5-Year-Old Daughter In Bengaluru",
+      "url": "https://www.ndtv.com/bangalore-news/woman-lover-accused-of-killing-her-5-year-old-daughter-in-bengaluru-11599423#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/l819dkac_bengaluru-child-murder_625x300_06_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 10:58:09.392295",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Priyanka",
+      "rephrased_article": "**Priyanka**, a woman from Bengaluru, and her alleged lover **Mohan** have been accused of murdering her five-year-old daughter, Vennila. The child died on March 24th, but the case was reported by the father, Praveen, nearly three months later.  Police arrested **Mohan** while **Priyanka** is currently at large.  The investigation is ongoing and awaits a report from the Forensic Science Laboratory (FSL).",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 65935,
       "title": "11 Days After Their Deaths, Man Found Dead Clutching Wife, Son's Graves In Uttar Pradesh",
@@ -5857,33 +5878,6 @@
         "crime_violence",
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 56108,
-      "title": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bail-order-reminder-that-personal-liberty-cant-be-sacrificed-for-political-vendetta-pawan-khera/article70932791.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/eqy4wa/article70933120.ece/alternates/LANDSCAPE_1200/T-gana-HC-breatGP6FR905R.3.jpg.jpg",
-      "scraped_at": "2026-05-02 18:14:31.909107",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Pawan Khera**, a Congress leader, was granted anticipatory bail by the **Supreme Court** after allegations were made against him regarding his comments on Assam Chief Minister **Himanta Biswa Sarma's** wife. The court found that the matter appeared to stem from political rivalry and granted pre-arrest bail with certain conditions.  **Abhishek Singhvi**, along with other legal representatives, defended Khera's liberty amidst threats and intimidation. The Congress hailed the decision as a victory for the rule of law, urging **Sarma** to reconsider his language and apologize.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Sonia Gandhi",
-        "Priyanka Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]
