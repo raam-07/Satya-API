@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 12:20:19.942579",
+  "generated_at": "2026-06-06 16:43:11.925683",
   "state": "Chhattisgarh",
   "capital": "Raipur",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 109,
-    "articles_last_30d": 39
+    "total_articles": 111,
+    "articles_last_30d": 41
   },
   "top_cities_30d": {
     "Delhi": 19,
     "Bengaluru": 9,
+    "Chennai": 4,
     "Amritsar": 4,
     "Hyderabad": 3,
-    "Chennai": 3,
     "Coimbatore": 3,
     "Pune": 2,
     "Ludhiana": 2,
@@ -31,11 +31,72 @@
     "protest_opposition": 7,
     "infrastructure": 7,
     "corruption_scam": 5,
-    "farmer_agriculture": 3,
+    "farmer_agriculture": 4,
     "rape_sexual_crime": 3,
-    "political_gaffe": 1
+    "health": 2
   },
   "recent_articles": [
+    {
+      "id": 66159,
+      "title": "Goa’s early date with monsoon, Maharashtra sees onset too | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/southwest-monsoon-advance-maharashtra-konkan-imd-heavy-rain-alert-10727530/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Moonsoon.jpg",
+      "scraped_at": "2026-06-06 15:53:33.102275",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** reported that the southwest monsoon further advanced into parts of Maharashtra, Karnataka, Goa, Andhra Pradesh, Mizoram and Manipur on Saturday. The monsoon may have arrived over northeast India but its progress into the entire region is delayed.  Heavy rainfall has been reported in Kerala, Meghalaya, Andaman and Nicobar islands, Odisha and Bihar since Friday due to an upper-air circulation off Kerala coast. The IMD predicts heavy rainfall for the next five days in Kerala, Karnataka, Mahe, Tamil Nadu, Puducherry and Karaikal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 66099,
+      "title": "Centre praises Chhattisgarh's M-CAD initiative to boost irrigation efficiency - The Hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/centre-praises-chhattisgarhs-m-cad-initiative-to-boost-irrigation-efficiency/article71069324.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8sfygh/article71069371.ece/alternates/LANDSCAPE_1200/PTI04_25_2026_000171B.jpg",
+      "scraped_at": "2026-06-06 12:10:53.560541",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Chhattisgarh Government",
+      "rephrased_article": "**The Centre** has praised **Chhattisgarh's** efforts to improve irrigation efficiency under the M-CAD scheme, advising other states and UTs to emulate its model.  **Chief Minister Vishnu Deo Sai** highlighted this national recognition for Chhattisgarh's commitment to farmers' welfare, water conservation, and good governance. The Ministry of Jal Shakti commended **Chhattisgarh's** initiative, noting its focus on expanding irrigation capacity and encouraging other states to adopt similar strategies based on their own resources.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 66033,
       "title": "Adani Enterprises Ltd Plants 1.6 Million Trees To Turn Chhattisgarh Coal Mine Green",

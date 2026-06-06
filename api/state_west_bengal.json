@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 12:20:20.052051",
+  "generated_at": "2026-06-06 16:43:11.998438",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 0.8,
   "stats": {
-    "total_articles": 600,
-    "articles_last_30d": 234
+    "total_articles": 605,
+    "articles_last_30d": 239
   },
   "top_cities_30d": {
     "Kolkata": 95,
     "Delhi": 43,
     "Mumbai": 10,
     "Bengaluru": 10,
-    "Chennai": 8,
+    "Chennai": 9,
     "Hyderabad": 7,
     "Ghaziabad": 4,
     "Ahmedabad": 4,
@@ -24,18 +24,172 @@
     "Surat": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 180,
-    "education": 138,
-    "protest_opposition": 98,
+    "foreign_policy": 184,
+    "education": 141,
+    "protest_opposition": 100,
     "crime_violence": 78,
     "economy": 39,
-    "corruption_scam": 32,
+    "corruption_scam": 33,
     "infrastructure": 27,
     "farmer_agriculture": 13,
     "rape_sexual_crime": 13,
-    "health": 11
+    "health": 12
   },
   "recent_articles": [
+    {
+      "id": 66159,
+      "title": "Goa’s early date with monsoon, Maharashtra sees onset too | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/southwest-monsoon-advance-maharashtra-konkan-imd-heavy-rain-alert-10727530/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Moonsoon.jpg",
+      "scraped_at": "2026-06-06 15:53:33.102275",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** reported that the southwest monsoon further advanced into parts of Maharashtra, Karnataka, Goa, Andhra Pradesh, Mizoram and Manipur on Saturday. The monsoon may have arrived over northeast India but its progress into the entire region is delayed.  Heavy rainfall has been reported in Kerala, Meghalaya, Andaman and Nicobar islands, Odisha and Bihar since Friday due to an upper-air circulation off Kerala coast. The IMD predicts heavy rainfall for the next five days in Kerala, Karnataka, Mahe, Tamil Nadu, Puducherry and Karaikal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 66132,
+      "title": "Trinamool Congress West Bengal MLA Ritabrata Banerjee To NDTV On What Next, \"Backstabber\" Label",
+      "url": "https://www.ndtv.com/india-news/delhi-hotel-fire-1-injured-still-critical-5-successfully-taken-off-ventilator-11600190#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/46at4tmc_ritabrata-banerjee_625x300_06_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 14:19:18.974337",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Ritabrata Banerjee**, expelled Trinamool Congress MLA, is challenging the **Calcutta High Court** recognition of a rebel bloc as the main Opposition party in West Bengal.  **Kalyan Banerjee**, a senior Trinamool MP, has filed a petition contesting his claim to the post. **Ritabrata Banerjee** alleges forged signatures on party documents and claims that the rebel bloc's strength is higher than what was publicly acknowledged. The case hinges on whether the political party or the legislature party appoints the whip and leader, with parallels drawn from the Maharashtra political saga.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool",
+        "NCP",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66126,
+      "title": "Trinamool Congress West Bengal MLA Ritabrata Banerjee To NDTV On What Next, \"Backstabber\" Label",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-west-bengal-mla-ritabrata-banerjee-to-ndtv-on-what-next-backstabber-label-11600102#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/46at4tmc_ritabrata-banerjee_625x300_06_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 14:19:03.122475",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Abhishek Banerjee",
+      "rephrased_article": "**Ritabrata Banerjee**, expelled Trinamool Congress MLA, is challenging the recognition of a rebel bloc as the main Opposition party in West Bengal's assembly. **Kalyan Banerjee**, a senior Trinamool MP and lawyer, filed a petition in the Calcutta High Court contesting the Speaker's decision. **Ritabrata Banerjee** alleges forged signatures on party documents and claims that the rebellion is a result of a \"boss culture\" and mistreatment by Abhishek Banerjee, who he credits with bringing him into the Trinamool. He also suggests that former Chief Minister Mamata Banerjee should remain as \"chief advisor\" to the rebel bloc despite her criticism of his actions.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool",
+        "NCP",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66083,
+      "title": "Relief material recoveries put several Trinamool leaders under scanner; many arrested, others face protest - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/relief-material-recoveries-put-several-trinamool-leaders-under-scanner-many-arrested-others-face-protest/article71069180.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/w9c9yt/article71069568.ece/alternates/LANDSCAPE_1200/20260606103L.jpg",
+      "scraped_at": "2026-06-06 12:10:28.004942",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** leaders across West Bengal have faced scrutiny and protests following allegations of hoarding and diverting government relief materials meant for disaster-stricken residents.  Recovered supplies included blankets, tarpaulins, clothes, rice, and wheat from the residences and quarters of several prominent figures, including **Udeep Singh**, **Giasuddin Molla**, and **Narendranath Chakraborty**. Protests erupted outside these locations as locals expressed frustration over the lack of relief aid.  The incidents have sparked criticism in political circles, with some accusing the party of prioritizing personal gain over the needs of vulnerable communities.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 66078,
+      "title": "US Iran War Peace Talks \"Just Courier Service\": Ex-Army Chief On Pakistan's Role In US-Iran Talks",
+      "url": "https://www.ndtv.com/india-news/us-iran-war-peace-talks-just-courier-service-ex-army-chief-on-pakistans-role-in-us-iran-talks-11599930#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2021-01/g9crkhno_army-chief-general-mm-naravane-pti-650_625x300_15_January_21.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 12:10:15.614126",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "**Former Indian Army chief General (Retired) MM Naravane** stated that **Pakistan** is not a true interlocutor but rather a \"courier service\" in its attempts to mediate between the United States and Iran.  He emphasized the interconnectedness of national security and economic security, urging India to focus on self-reliance and diversifying sources and supply chains. **Naravane** also highlighted the need for adaptability in a constantly changing geopolitical landscape while prioritizing national interests.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66048,
       "title": "Suresh Wadkar met wife Padma when she was 8: ‘Why shouldn’t I marry her?’ | Bollywood News - The Indian Express",
@@ -5938,151 +6092,6 @@
         "foreign_policy",
         "farmer_agriculture",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 58753,
-      "title": "Berger Paints shares soar over 9% after Q4 net profit jumps 27% to Rs 335 crore - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/berger-paints-shares-soar-over-9-after-q4-net-profit-jumps-27-to-rs-335-crore/articleshow/131056215.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131056607,width-1200,height-630,imgsize-15424,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-13 07:41:54.821992",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Berger Paints India",
-      "rephrased_article": "**Berger Paints India** reported a 6.1% increase in consolidated revenue for the March quarter, driven by healthy volume growth and favorable product mix. The company's gross margin reached its highest level in three years, aided by lower raw material prices and partial benefits from anti-dumping duty removal on titanium dioxide. Despite this positive performance, **Berger Paints India** saw a 4.6% decline in net profit for the fiscal year due to implementation of new labor codes and a warehouse fire. The company expects staggered price hikes to support gross margins and ongoing cost optimization efforts to maintain operating margins within their guided range.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 58726,
-      "title": "Supreme Court to hear ED plea against bail granted to accused in West Bengal coal scam case - The Hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-ed-plea-against-bail-granted-to-accused-in-west-bengal-coal-scam-case/article70968999.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/sqe6z4/article70971471.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
-      "scraped_at": "2026-05-13 00:10:28.039683",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "ED",
-      "rephrased_article": "The **Supreme Court** agreed to hear the **Enforcement Directorate’s** (ED) appeal against the grant of anticipatory bail to Anup Majee, accused of leading a coal mining scam in West Bengal. The **ED** claims that Mr. Majee operated with the “active” assistance of several leaders from the **All India Trinamool Congress**.  The court sought Mr. Majee’s response to the agency's plea challenging a June 2025 order granting him bail in a money laundering case registered in 2020.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 58655,
-      "title": "Trinamool’s land policy delayed West Bengal border fencing: MHA’s 2023 affidavit in Supreme Court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/trinamools-land-policy-delayed-west-bengal-border-fencing-mhas-2023-affidavit-in-supreme-court/article70971241.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mcdfyi/article70971565.ece/alternates/LANDSCAPE_1200/Border07.jpg",
-      "scraped_at": "2026-05-12 21:29:45.458181",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "The **Ministry of Home Affairs (MHA)** stated in a Supreme Court affidavit that the former **Trinamool Congress** government's slow and complex Direct Land Purchase Policy hindered land acquisition for border fencing along the Bangladesh border. The **BJP** government, after assuming power, announced plans to transfer land to the **Border Security Force (BSF)** within 45 days.  The West Bengal government has handed over 78 km of border land to the BSF in the past three years, while 121 km remains to be transferred. The Calcutta High Court is currently reviewing the applicability and feasibility of acquiring land using Section 40 of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (LARR Act), 2013.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education"
-      ]
-    },
-    {
-      "id": 58650,
-      "title": "‘Bangla Pokkho’ founder Garga Chatterjee arrested for spreading EVM misinformation - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/bangla-pokkho-foundergarga-chatterjee-arrested-for-spreading-evm-misinformation/article70970619.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-12 21:28:50.357590",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Garga Chatterjee**, founder of the pro-Bengali advocacy organization **Bangla Pokkho**, was arrested by the **Kolkata Police** on Tuesday for allegedly spreading misinformation about EVM manipulation during the recent West Bengal Assembly elections. The arrest followed a complaint filed by the District Election Officer of Kolkata North and comes after Mr. Chatterjee's previous arrest in 2022 for alleged community-based hate speech.  Former Trinamool Congress Minister **Sujit Bose** was also sent to 10-day ED custody on Tuesday, accused of illegally recommending candidates for South Dum Dum Municipality positions in exchange for financial benefits. Newly appointed West Bengal Sports Minister **Nisith Pramanik** has requested the file related to the Lionel Messi event in Kolkata and plans to take action if necessary.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58639,
-      "title": "Election results 2026: Why welfare policies aren't winning polls in India like it used to",
-      "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f797/live/bdf1a730-ccf5-11f0-9fb5-5f3a3703a365.jpg",
-      "scraped_at": "2026-05-12 21:26:51.516646",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "India's welfare politics, once a key electoral tool, is facing challenges. While cash transfers and subsidized services have become the norm across parties, recent state elections suggest that extensive welfare delivery alone is no longer enough to secure incumbency.  **Mamata Banerjee's Trinamool Congress**, for example, lost power in West Bengal despite its women-centric welfare schemes. **The Bharatiya Janata Party** has capitalized on expanding welfare architecture, including women's self-help groups and administrative efficiency, while voters are increasingly demanding more than just welfare benefits.  Political scientists argue that this shift signifies a move from the floor of Indian politics to the ceiling, where parties must build coalitions around broader issues like job creation and economic mobility.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Karnataka",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
       ]
     }
   ]

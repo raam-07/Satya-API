@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 12:20:19.971765",
+  "generated_at": "2026-06-06 16:43:11.945075",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,34 +8,191 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 799,
-    "articles_last_30d": 308
+    "total_articles": 804,
+    "articles_last_30d": 313
   },
   "top_cities_30d": {
-    "Bengaluru": 107,
+    "Bengaluru": 109,
     "Delhi": 58,
-    "Bangalore": 19,
-    "Hyderabad": 11,
+    "Bangalore": 22,
+    "Hyderabad": 12,
     "Ahmedabad": 10,
     "Mumbai": 9,
-    "Chennai": 8,
+    "Chennai": 9,
     "Coimbatore": 4,
     "Kolkata": 4,
     "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 184,
+    "foreign_policy": 187,
     "education": 66,
-    "protest_opposition": 57,
+    "protest_opposition": 58,
     "economy": 45,
     "infrastructure": 42,
-    "crime_violence": 39,
-    "political_gaffe": 37,
+    "crime_violence": 40,
+    "political_gaffe": 38,
     "farmer_agriculture": 27,
-    "health": 24,
+    "health": 26,
     "corruption_scam": 20
   },
   "recent_articles": [
+    {
+      "id": 66159,
+      "title": "Goa’s early date with monsoon, Maharashtra sees onset too | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/southwest-monsoon-advance-maharashtra-konkan-imd-heavy-rain-alert-10727530/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Moonsoon.jpg",
+      "scraped_at": "2026-06-06 15:53:33.102275",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** reported that the southwest monsoon further advanced into parts of Maharashtra, Karnataka, Goa, Andhra Pradesh, Mizoram and Manipur on Saturday. The monsoon may have arrived over northeast India but its progress into the entire region is delayed.  Heavy rainfall has been reported in Kerala, Meghalaya, Andaman and Nicobar islands, Odisha and Bihar since Friday due to an upper-air circulation off Kerala coast. The IMD predicts heavy rainfall for the next five days in Kerala, Karnataka, Mahe, Tamil Nadu, Puducherry and Karaikal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 66135,
+      "title": "Cracks widen in INDIA bloc before meet as CPI(M), JMM call out Congress moves | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/india-bloc-rift-cpim-jmm-dmk-boycott-june-8-meeting-congress-rahul-gandhi-kharge-10727442/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2023/12/PTI12_19_2023_000155B.jpg",
+      "scraped_at": "2026-06-06 14:19:28.127002",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "Fresh rifts have emerged within the INDIA bloc as the CPI(M) and JMM criticize the Congress's actions. The CPI(M) accuses the Congress of making false allegations against its leader, Pinarayi Vijayan, during the Kerala Assembly elections, while the JMM is upset over the Congress's unilateral decision to nominate a candidate for one of the two Rajya Sabha seats from Jharkhand.  The CPI(M) has written to Congress President Mallikarjun Kharge demanding clarity on these issues and urging the Congress to ensure cohesion within the bloc. The DMK’s recent announcement to boycott the June 8 meeting further complicates the alliance's future.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPI",
+        "DMK",
+        "JMM",
+        "Jharkhand Mukti Morcha",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Priyanka Gandhi",
+        "Hemant Soren",
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Jharkhand",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66130,
+      "title": "Karnataka Congress says all is well day after Ramalinga Reddy sends resignation over WhatsApp | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/karnataka-cabinet-crisis-ramalinga-reddy-portfolio-row-10727445/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Ramalinga-Reddy-PTI-screenshot-AI-enhance.jpg",
+      "scraped_at": "2026-06-06 14:19:12.430725",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Karnataka Congress",
+      "rephrased_article": "**Congress party leaders**, including **Randeep Surjewala** and **Chief Minister D K Shivakumar**, resolved a crisis in the Karnataka government triggered by **Ramalinga Reddy's** resignation.  Reddy, who had publicly announced his resignation over the refusal of his demand for the Bengaluru Development minister portfolio, was granted the Irrigation Ministry instead. The resolution involved discussions between **Reddy, Shivakumar, Hariprasad**, and former CM **Siddaramaiah**.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66080,
+      "title": "Signals from the sea: why sardines, jellyfish are washing ashore - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/signals-from-the-sea-why-sardines-jellyfish-are-washing-ashore/article71061429.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/p0k4i3/article71067269.ece/alternates/LANDSCAPE_1200/IMG_NH14Fishing002_2_1_4NFMVJHK.jpg",
+      "scraped_at": "2026-06-06 12:10:17.686601",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**Indian National Centre for Ocean Information Services (INCOIS)** scientists have identified a complex interplay of factors causing unusual sardine strandings along the west coast of India. These include marine heatwaves, coastal upwelling, ocean currents, tidal forcing, and extreme weather events.  The findings suggest these disruptions are impacting the marine ecosystem and affecting fishing communities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 66076,
+      "title": "Bengaluru gains dubious first place in Karnataka with over 6,700 NDPS cases, warns high court judge | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-gains-dubious-first-place-in-karnataka-with-over-6700-ndps-cases-warns-high-court-judge-10727347/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/01/indian-express-47.jpg",
+      "scraped_at": "2026-06-06 12:10:10.324590",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "drug abuse",
+      "rephrased_article": "**Justice Jayant Banerji**, of the **Karnataka High Court**, emphasized that the fight against drug abuse is a public health crisis impacting youth, families, and the future of the nation.  He highlighted the alarming increase in NDPS Act cases in Bengaluru, urging for effective treatment and rehabilitation opportunities. **John Michael Cunha**, Chairman of NALSA’s DAWN Scheme, stressed the need for special protection and rehabilitation measures for women and children struggling with addiction. **Justice Anu Sivaraman**, Executive Chairperson of the KSLSA, proposed establishing dedicated de-addiction centers for juveniles.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
     {
       "id": 66057,
       "title": "‘Wants electrical engineering over CSE ‘: KCET 2026 topper Srajan BS spills his success secrets",
@@ -5392,129 +5549,6 @@
       "topic_tags": [
         "education"
       ]
-    },
-    {
-      "id": 62047,
-      "title": "Congress urges ECI to defer SIR in Maharashtra; cites Ashadhi Wari, monsoon rains - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/congress-urges-eci-to-defer-sir-in-maharashtra-cites-ashadhi-wari-monsoon-rains/article71029078.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ipkui5/article71029159.ece/alternates/LANDSCAPE_1200/PTI05_22_2026_000279B.jpg",
-      "scraped_at": "2026-05-27 11:59:26.434824",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission",
-      "rephrased_article": "The **Opposition Congress** in Maharashtra requested the **Election Commission** to postpone the Special Intensive Revision (SIR) of electoral rolls by a month. The party cited the annual pilgrimage, Ashadhi Wari, and potential heavy monsoon rains during the revision process as reasons for their request.  They argued that millions of warkaris participating in the pilgrimage may be absent from their homes during the second phase of the SIR program, potentially leading to voter exclusion.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Pune"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61976,
-      "title": "72.97% pass in Plus Two higher secondary exam in Thiruvananthapuram district - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/7297-pass-in-plus-two-higher-secondary-exam-in-thiruvananthapuram-district/article71026485.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-26 23:48:09.673645",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Kerala's education system",
-      "rephrased_article": "**Kerala's** Plus Two examinations saw a significant increase in eligible students for higher education, with 72.97% of the total 30,585 candidates qualifying this year compared to last year's 71.73%.  Four schools achieved 100% success: Government VHSS for the Deaf, Jagathy; Nirmala Bhavan EM HSS, Kowdiar; Sarvodaya Vidyalaya HSS, Nalanchira; and Carmel Girls HSS, Vazhuthacaud.  The technical school category saw a decline in pass percentage from 89.29% to 68%, while the open school category registered a slight decrease from 48.8% to 47.89%. The vocational higher secondary education (VHSE) examinations also saw an increase in pass percentage, reaching 76.72%.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 61973,
-      "title": "Taint of defection is not vaporised by resignation, Supreme Court had said in a judgment - The Hindu",
-      "url": "https://www.thehindu.com/news/national/defection-taint-not-vaporised-by-resignation-supreme-court-had-said-in-a-judgment/article71026150.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mt9pu/article71026445.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGRCG0OSNB.3.jpg.jpg",
-      "scraped_at": "2026-05-26 23:47:17.103146",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "AIADMK",
-      "rephrased_article": "In Tamil Nadu, the Speaker has accepted resignations from four AIADMK legislators who joined the Tamilaga Vettri Kazhagam (TVK) after voting against the ruling coalition. The **AIADMK** leadership is appealing to the Speaker to reconsider their acceptance and adjudicate on petitions for their disqualification. This situation raises questions about the Speaker's role in accepting resignations while pending disqualification proceedings, as seen in a 2019 Supreme Court case where the court ruled that the Speaker cannot consider extraneous factors when evaluating a resignation.  The outcome of this case will likely impact the fate of these legislators and their ability to hold office.",
-      "party_mentioned": [
-        "Congress",
-        "Janata Dal",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 61943,
-      "title": "Banners warn of ‘property seizure’ for cattle slaughter in Karnataka - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/banners-warn-of-property-seizure-for-cattle-slaughter-in-hassan-city-in-karnataka/article71024484.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3x86a0/article71024573.ece/alternates/LANDSCAPE_1200/9911_26_5_2026_15_34_32_1_BANNER_1.JPEG",
-      "scraped_at": "2026-05-26 22:29:54.396625",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Hassan City Corporation",
-      "rephrased_article": "**Banners** put up by **Hassan City Corporation** and the district administration in certain areas of Hassan city, Karnataka, ahead of Bakrid, sparked controversy after they threatened to seize property for cattle slaughter violations. The banners contained a claim that violated the **Karnataka Prevention of Slaughter and Preservation of Cattle Act, 2020**, which prohibits the slaughter of cattle but does not allow for the seizure of property as punishment.  **Advocate Anshad Palya**, State convener of the Federation of Muslim Organisations, criticized the banners as targeting a specific community and demanded clarification on the legality of the threat to seize property. The banners were later removed.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61938,
-      "title": "Leadership tussle in Karnataka: Congress high command wants Siddaramaiah to move to Rajya Sabha, sources say, even as party officially denies - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/amid-official-denials-sources-say-congress-high-command-nudges-karnataka-chief-ministersiddaramaiah-to-come-to-the-rajya-sabha/article71025684.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8jar2i/article71026463.ece/alternates/LANDSCAPE_1200/PTI05_26_2026_000365B.jpg",
-      "scraped_at": "2026-05-26 22:28:51.165985",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Siddaramaiah**, the current Chief Minister of **Karnataka**, is facing pressure to step down after a meeting with the **Congress** high command in New Delhi. The discussions centered on selecting candidates for Rajya Sabha and Legislative Council elections, but sources suggest that leadership change was also a key topic.  Despite official denials, there are indications that the party may be considering a shift in leadership if **Siddaramaiah** doesn't agree to step down.  The high command is facing pressure to make a decision before June 8th deadline for Rajya Sabha nominations.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Karnataka",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
     }
   ]
 }

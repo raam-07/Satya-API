@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 12:20:20.006093",
+  "generated_at": "2026-06-06 16:43:11.967519",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 315,
-    "articles_last_30d": 137
+    "total_articles": 317,
+    "articles_last_30d": 139
   },
   "top_cities_30d": {
-    "Delhi": 48,
+    "Delhi": 49,
     "Bengaluru": 10,
+    "Chennai": 8,
     "Kolkata": 8,
     "Kanpur": 8,
-    "Chennai": 7,
     "Hyderabad": 6,
     "Mumbai": 4,
     "Jaipur": 3,
@@ -24,18 +24,83 @@
     "Ghaziabad": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 92,
+    "foreign_policy": 93,
     "education": 54,
     "protest_opposition": 31,
     "infrastructure": 18,
+    "crime_violence": 18,
     "corruption_scam": 18,
-    "crime_violence": 17,
-    "economy": 14,
-    "health": 12,
+    "economy": 15,
+    "health": 13,
     "political_gaffe": 5,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 66159,
+      "title": "Goa’s early date with monsoon, Maharashtra sees onset too | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/southwest-monsoon-advance-maharashtra-konkan-imd-heavy-rain-alert-10727530/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Moonsoon.jpg",
+      "scraped_at": "2026-06-06 15:53:33.102275",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** reported that the southwest monsoon further advanced into parts of Maharashtra, Karnataka, Goa, Andhra Pradesh, Mizoram and Manipur on Saturday. The monsoon may have arrived over northeast India but its progress into the entire region is delayed.  Heavy rainfall has been reported in Kerala, Meghalaya, Andaman and Nicobar islands, Odisha and Bihar since Friday due to an upper-air circulation off Kerala coast. The IMD predicts heavy rainfall for the next five days in Kerala, Karnataka, Mahe, Tamil Nadu, Puducherry and Karaikal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 66134,
+      "title": "Delhi Court Rules Husband Cannot Cite Unemployment To Evade Family Duty",
+      "url": "https://www.ndtv.com/india-news/delhi-court-rules-husband-cannot-cite-unemployment-to-evade-family-duty-11600091#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-08/0tjadu2g_indian-rupee-generic_625x300_08_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 14:19:25.951647",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Delhi Court",
+      "rephrased_article": "A **Delhi** court ruled that a husband cannot avoid his financial responsibility towards his minor son by claiming unemployment. The court ordered the man to pay Rs 6,000 per month in maintenance for the child until he reaches adulthood.  The appellate court overturned a trial court's decision denying the woman relief under the Protection of Women from Domestic Violence (PWDV) Act, finding that the husband had failed to financially support the child since 2015. The court emphasized that the husband was capable of paying maintenance and directed him to do so.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66056,
       "title": "At Jantar Mantar, Abhijeet Dipke says ‘can’t erase us’ — then ultimatum to Dharmendra Pradhan to resign | Delhi News - The Indian Express",
@@ -5447,62 +5512,6 @@
         "Delhi"
       ],
       "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 50539,
-      "title": "BJP wants to carry out delimitation exercise to trifurcate Bengal: Mamata - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/mamata-banerjee-rally-west-bengal-election-delimitation-row-updates/article70853825.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/lmzz1j/article70853863.ece/alternates/LANDSCAPE_1200/TH11-Shiv-SahayG3NFRBPNU.3.jpg.jpg",
-      "scraped_at": "2026-04-12 12:00:53.747238",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Mamata Banerjee**, **West Bengal's Chief Minister**, accused the **BJP government at the Centre** of planning to divide the state into three parts and merge portions with Bihar or Odisha, causing hardships for Bengali residents. She alleged a ₹1,000-crore deal was struck to unseat her party, the Trinamool Congress (TMC), and that central forces were disrespecting women during searches. **Banerjee** also accused the BJP of bribing voters, manipulating polling processes, and offering spiked tea and sweets to steal votes. She urged citizens to remain vigilant against these tactics.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Odisha",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam",
-        "education"
-      ]
-    },
-    {
-      "id": 50477,
-      "title": "Unions, experts blame delay in Aavin milk supply on poor man-management - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/unions-experts-blame-delay-in-aavin-milk-supply-on-poor-man-management/article70851698.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/bvi737/article70852094.ece/alternates/LANDSCAPE_1200/WEATHER%20RAIN%20WATER%20MICHAUNG%20MONSOON%20FLOOD%20PEOPLE%20FOOD_16.jpg",
-      "scraped_at": "2026-04-12 08:09:23.571692",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Aavin",
-      "rephrased_article": "**Aavin**, the state's milk major, has been facing delays in milk supply due to issues with labor management. Experts and unions have pointed to a lack of supervision, non-implementation of manpower checklists, and reliance on outsourced laborers as contributing factors. These problems led to a system collapse where drivers and cleaners from wholesalers had to pick up the slack.  **Aavin** is now addressing the issue by engaging local casual laborers and expecting contract workers from Odisha.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Odisha",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
         "economy"
       ]
     }

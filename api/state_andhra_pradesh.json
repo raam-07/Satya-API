@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 12:20:19.921000",
+  "generated_at": "2026-06-06 16:43:11.911334",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 499,
-    "articles_last_30d": 148
+    "total_articles": 500,
+    "articles_last_30d": 149
   },
   "top_cities_30d": {
     "Delhi": 34,
     "Visakhapatnam": 22,
     "Hyderabad": 17,
-    "Chennai": 11,
+    "Chennai": 12,
     "Mumbai": 7,
     "Bengaluru": 6,
     "Madurai": 6,
@@ -29,13 +29,53 @@
     "economy": 27,
     "infrastructure": 22,
     "crime_violence": 19,
-    "health": 15,
+    "health": 16,
     "protest_opposition": 14,
     "farmer_agriculture": 12,
     "rape_sexual_crime": 6,
     "political_gaffe": 5
   },
   "recent_articles": [
+    {
+      "id": 66159,
+      "title": "Goa’s early date with monsoon, Maharashtra sees onset too | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/southwest-monsoon-advance-maharashtra-konkan-imd-heavy-rain-alert-10727530/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Moonsoon.jpg",
+      "scraped_at": "2026-06-06 15:53:33.102275",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "India Meteorological Department (IMD)",
+      "rephrased_article": "The **India Meteorological Department (IMD)** reported that the southwest monsoon further advanced into parts of Maharashtra, Karnataka, Goa, Andhra Pradesh, Mizoram and Manipur on Saturday. The monsoon may have arrived over northeast India but its progress into the entire region is delayed.  Heavy rainfall has been reported in Kerala, Meghalaya, Andaman and Nicobar islands, Odisha and Bihar since Friday due to an upper-air circulation off Kerala coast. The IMD predicts heavy rainfall for the next five days in Kerala, Karnataka, Mahe, Tamil Nadu, Puducherry and Karaikal.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Odisha",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Puducherry",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 66020,
       "title": "NFHS collected data on COVID deaths, toilets and fuel, but information missing from factsheets - The Hindu",
@@ -5432,33 +5472,6 @@
       "topic_tags": [
         "crime_violence",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 54023,
-      "title": "Commuters say free rides won’t fix Hyderabad’s MMTS problem - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/commuters-say-free-rides-wont-fix-hyderabads-mmts-problem/article70902934.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/p0z5cr/article70903321.ece/alternates/LANDSCAPE_1200/23hyngg_MMTS%20trains%2010.jpg",
-      "scraped_at": "2026-04-24 23:44:56.509927",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "South Central Railway (SCR)",
-      "rephrased_article": "Despite the **Hyderabad Metro Rail Limited**'s efforts to provide additional services during the ongoing strike by the **Telangana State Road Transport Corporation (TGSRTC)** workers, the **South Central Railway (SCR)** has not announced any augmentation of its suburban train service, the **MMTS**.  Critics argue that while MMTS fares are affordable, unreliable schedules and inadequate frequency have led to a decline in ridership. They suggest expanding services on key sections, improving connectivity to major hubs, and prioritizing dedicated tracks for increased efficiency. The issue has been brought to the attention of senior officials, who have acknowledged the need for improvements but cite operational constraints as a reason for limited service expansion.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 12:20:19.929585",
+  "generated_at": "2026-06-06 16:43:11.916909",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 296,
-    "articles_last_30d": 77
+    "total_articles": 297,
+    "articles_last_30d": 78
   },
   "top_cities_30d": {
     "Delhi": 21,
@@ -24,18 +24,40 @@
     "Lucknow": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 59,
+    "foreign_policy": 60,
     "economy": 23,
     "crime_violence": 17,
     "infrastructure": 14,
     "protest_opposition": 14,
     "education": 13,
     "farmer_agriculture": 9,
-    "health": 5,
+    "health": 6,
     "political_gaffe": 5,
     "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 66082,
+      "title": "Kaziranga National Park records 30 raptor and six stork species - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kaziranga-national-park-records-30-raptor-and-six-stork-species/article71069139.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/aq05cy/article71069384.ece/alternates/LANDSCAPE_1200/Black-necked%20stork.jpeg",
+      "scraped_at": "2026-06-06 12:10:21.690163",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Kaziranga National Park",
+      "rephrased_article": "A recent survey conducted by **Kaziranga National Park and Tiger Reserve** in collaboration with researchers from **Gauhati University** revealed the presence of 217 individual raptors across 30 species and 266 individual storks across six species within the park. The study, which spanned between late February and March, found that the Eastern Assam Wildlife Division recorded the highest number of raptor and stork species.  The survey also highlighted Kaziranga's role as a critical habitat for several endangered bird species, including the Pallas’s fish eagle.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
     {
       "id": 65949,
       "title": "Assam cabinet Hikes Dearness Allowance To 60 percent, Over 8 Lakh Employees, pensioners To Benefit",
@@ -5954,33 +5976,6 @@
       "topic_tags": [
         "infrastructure",
         "education",
-        "economy"
-      ]
-    },
-    {
-      "id": 48281,
-      "title": "Assam town rides BJP’s development showcase - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-town-rides-bjps-development-showcase/article70823910.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ivhs82/article70824082.ece/alternates/LANDSCAPE_1200/20250201348L.jpg",
-      "scraped_at": "2026-04-04 18:58:04.598664",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Jursing Bordoloi**, an advisor to the **Tiwa king**, and local residents in Jagiroad, Assam are cautiously optimistic about the potential of a new semiconductor plant being developed by the **Tata Group**.  The project, approved in March 2024, is expected to create employment for over 26,000 people. While some residents hope the plant will revitalize the town's economy and provide more job opportunities than the previous paper mill, others remain skeptical about its long-term impact. **Pijush Hazarika**, the **Information Minister** of Assam, has touted the project as a major economic development for the state.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
         "economy"
       ]
     }
