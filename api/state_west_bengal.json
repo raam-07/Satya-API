@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-05 22:47:18.714154",
+  "generated_at": "2026-06-06 08:18:53.292765",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
   "cm": "Suvendu Adhikari",
   "region": "East",
   "cm_confidence": null,
-  "party_confidence": 1.0,
+  "party_confidence": 0.79,
   "stats": {
-    "total_articles": 595,
-    "articles_last_30d": 238
+    "total_articles": 598,
+    "articles_last_30d": 234
   },
   "top_cities_30d": {
     "Kolkata": 95,
@@ -19,23 +19,128 @@
     "Chennai": 8,
     "Hyderabad": 7,
     "Ghaziabad": 4,
+    "Ahmedabad": 4,
     "Ludhiana": 3,
-    "Ahmedabad": 3,
-    "Rajkot": 3
+    "Surat": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 186,
-    "education": 143,
-    "protest_opposition": 104,
-    "crime_violence": 83,
-    "economy": 41,
-    "corruption_scam": 31,
+    "foreign_policy": 182,
+    "education": 139,
+    "protest_opposition": 100,
+    "crime_violence": 79,
+    "economy": 40,
+    "corruption_scam": 32,
     "infrastructure": 26,
     "farmer_agriculture": 14,
-    "rape_sexual_crime": 14,
-    "health": 13
+    "rape_sexual_crime": 13,
+    "health": 11
   },
   "recent_articles": [
+    {
+      "id": 65924,
+      "title": "PM Narendra Modi: Congress spread chaos, its parasitic politics won’t work | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-congress-spread-chaos-its-parasitic-politics-wont-work-10726391/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/PM-5COL-ANI.jpg",
+      "scraped_at": "2026-06-06 01:31:52.004206",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** addressed a public meeting in Surat, Gujarat, where he criticized the **Congress** for \"spreading chaos and uncertainty\" and highlighted the people's dissatisfaction with their governance. He emphasized India's energy self-reliance efforts since 2014, citing increased investments in renewable energy and securing oil and gas supplies from various parts of the world.  The Prime Minister also addressed the global crisis caused by the West Asia conflict, emphasizing India's resilience in facing challenges like fluctuating petrol prices and disrupted supply chains. **Kamal Saiyed**, a senior correspondent for The Indian Express, provides extensive coverage on industrial, social, and political developments in Surat and the surrounding region.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Punjab",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Surat"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65917,
+      "title": "NIA Arrests Ex-Trinamool MLA Saokat Molla In Bhangar Blast Case",
+      "url": "https://www.ndtv.com/india-news/nia-arrests-ex-trinamool-mla-saokat-molla-in-bhangar-blast-case-11598260#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2018-12/9ouoc87_nia-generic_625x300_19_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 01:31:05.504256",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Saokat Molla",
+      "rephrased_article": "**The National Investigation Agency (NIA)** arrested former Trinamool Congress MLA Saokat Molla, a prime suspect in the Bhangar bomb blast case, from West Bengal's South 24 Parganas district.  Molla was declared 'absconding' earlier this week after the agency conducted searches at his residence and other locations linked to him. The arrest brings the total number of individuals held in connection with the case to four. Molla will be produced before a court tomorrow, and further legal proceedings will follow.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65905,
+      "title": "TMC parliamentary split ‘just a matter of time’: As Mamata fights back, cracks grow | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/tmc-parliamentary-split-matter-of-time-as-mamata-fights-back-cracks-grow-10726163/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tmc-mamata-abhishek-banerjee-3.jpg_e894b0.jpeg",
+      "scraped_at": "2026-06-05 23:21:29.866653",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "**Mamata Banerjee** is facing growing dissent within the **Trinamool Congress (TMC)**, with 60 of its 80 MLAs in West Bengal signaling rebellion.  Senior TMC leader Sukhendu Sekhar Roy believes a similar reaction could occur in the Lok Sabha, where the party has 28 MPs and faces potential defections under anti-defection laws. The rebel faction is seeking to retain **Mamata Banerjee** as chairperson of the party, while others within the party are calling for her removal from leadership positions.  The situation remains fluid with some rebels expressing a desire to remain under **Mamata Banerjee's** leadership but disagreeing with Abhishek Banerjee's role as national general secretary.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "corruption_scam",
+        "education"
+      ]
+    },
     {
       "id": 65852,
       "title": "Kolkata to get water metro, will be the 18th city to be linked, says CM Adhikari | Kolkata News - The Indian Express",
@@ -6025,99 +6130,6 @@
         "foreign_policy",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 58476,
-      "title": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/will-hear-trinamool-pleas-on-victory-margins-being-less-than-deleted-votes-in-sir-says-supreme-court/article70965914.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9iambz/article70954324.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_I6FONF9M.jpg",
-      "scraped_at": "2026-05-11 22:40:30.666506",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Trinamool Congress",
-      "rephrased_article": "**Mamata Banerjee**, leader of the **Trinamool Congress**, appeared before the Supreme Court on Monday, May 11, 2026, to argue that deletions made during the Special Intensive Revision (SIR) of electoral rolls in West Bengal affected election results.  Senior advocate Kalyan Bandhopadhyay argued that in some seats, the BJP's victory margin was less than the number of votes deleted. The court asked for an application from **Banerjee** to address the issue and promised to seek information about pending appeals from the Chief Justice of the Calcutta High Court. The Supreme Court also gave the National Investigation Agency two months to complete its probe into the case of seven judicial officers who were gheraoed in Malda on April 1.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58455,
-      "title": "CM is unsettled by PM’s remarks: BJP - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/cm-is-unsettled-by-pms-remarks-bjp/article70966902.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/51pbal/article70967122.ece/alternates/LANDSCAPE_1200/DSC_6638.JPG",
-      "scraped_at": "2026-05-11 22:36:41.538246",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The **BJP** in Karnataka responded to **Chief Minister Siddaramaiah's** criticism of **Prime Minister Narendra Modi**, stating that the Prime Minister's speech at a BJP event was within his democratic right. The opposition leader, R. Ashok, argued that the Prime Minister spoke about issues affecting 7 crore Kannadigas and that Siddaramaiah should focus on addressing real concerns in Karnataka rather than being rattled by the remarks.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Karnataka",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58334,
-      "title": "Telangana BJP distances itself from POCSO case against Bandi Sanjay’s son, calls it legal issue - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-bjp-distances-itself-from-pocso-case-against-bandi-sanjays-son-calls-it-legal-issue/article70965280.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nn3jcz/article70965507.ece/alternates/LANDSCAPE_1200/25hyngg_NEC%20of%20the%20party%2001.jpg",
-      "scraped_at": "2026-05-11 11:49:06.880166",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The **Bharatiya Janata Party** (BJP) in Telangana distanced itself from a POCSO case involving the son of Union Minister of State for Home Affairs, Bandi Sanjay Kumar. The state BJP president, N. Ramchander Rao, stated that the party has no connection to the matter and will investigate if any family member is involved.  Rao also addressed allegations of discrepancies in the Special Intensive Revision (SIR) conducted during the recent Assembly elections, claiming it was a clean-up exercise approved by the Election Commission and Supreme Court. He asserted that the SIR aimed to eliminate \"bogus\" voters and that the results reflected the mandate of genuine voters.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Telangana",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "foreign_policy"
       ]
     }
   ]

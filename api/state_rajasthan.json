@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 22:47:18.676378",
+  "generated_at": "2026-06-06 08:18:53.252856",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,34 +8,57 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 244,
-    "articles_last_30d": 138
+    "total_articles": 245,
+    "articles_last_30d": 136
   },
   "top_cities_30d": {
-    "Delhi": 48,
+    "Delhi": 46,
     "Bengaluru": 19,
-    "Ahmedabad": 17,
-    "Mumbai": 14,
+    "Ahmedabad": 16,
+    "Mumbai": 13,
     "Jaipur": 12,
     "Chennai": 9,
-    "Hyderabad": 7,
     "Pune": 6,
+    "Hyderabad": 6,
     "Kolkata": 5,
     "Ludhiana": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 102,
-    "education": 31,
-    "crime_violence": 25,
+    "foreign_policy": 99,
+    "education": 30,
+    "crime_violence": 24,
     "infrastructure": 21,
-    "economy": 19,
-    "protest_opposition": 17,
+    "economy": 18,
+    "protest_opposition": 16,
     "health": 12,
-    "corruption_scam": 11,
     "political_gaffe": 11,
-    "farmer_agriculture": 10
+    "corruption_scam": 10,
+    "farmer_agriculture": 9
   },
   "recent_articles": [
+    {
+      "id": 65898,
+      "title": "Correcting ‘discrepancies’ is normal practice in statistical exercise, says Census official - The Hindu",
+      "url": "https://www.thehindu.com/news/national/field-supervision-correcting-discrepancies-are-normal-practice-in-statistical-exercise-says-rgcci-director/article71066680.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/atib76/article71067287.ece/alternates/LANDSCAPE_1200/20260519178L.jpg",
+      "scraped_at": "2026-06-05 23:21:09.174779",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Census",
+      "rephrased_article": "The **House Listing Operation** in Rajasthan is still underway as part of the multi-pronged Census process, according to an official from the **Registrar General and Census Commissioner of India (RG&CCI)**. Enumerators are collecting data through house-to-house visits and supervisors are conducting field inspections to ensure accuracy.  However, reports have emerged suggesting that enumerators in Uttar Pradesh and Rajasthan are being asked to revisit households and correct data discrepancies, particularly on issues like open defecation and access to electricity or cooking gas connections.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
     {
       "id": 65849,
       "title": "'Don't care who we're leaving out': Hussain wants IND to fast-track Sooryavanshi",
@@ -5889,28 +5912,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 47913,
-      "title": "Man found dead in Cubbon Park - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/man-found-dead-in-cubbon-park/article70820274.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-03 16:54:05.172378",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Suresh Kumar Purohit",
-      "rephrased_article": "**Suresh Kumar Purohit**, a worker at a shop on S.P. Road in **Rajasthan**, was found dead by hanging in **Cubbon Park** on Friday morning.  Police are treating the death as a self-harm case and have registered an unnatural death report. Purohit had been missing since Thursday night, prompting a search initiated by his friends who filed a missing person complaint at the Halasur Gate Police Station. The police have informed his family members and await their arrival to complete further procedures.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
         "crime_violence"
       ]
     }

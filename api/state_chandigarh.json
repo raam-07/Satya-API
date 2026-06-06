@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 22:47:18.743570",
+  "generated_at": "2026-06-06 08:18:53.322395",
   "state": "Chandigarh",
   "capital": "Chandigarh",
   "ruling_party": "Central Govt",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 86,
-    "articles_last_30d": 63
+    "total_articles": 90,
+    "articles_last_30d": 67
   },
   "top_cities_30d": {
     "Delhi": 27,
@@ -24,18 +24,100 @@
     "Pune": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 41,
-    "crime_violence": 21,
+    "foreign_policy": 45,
+    "crime_violence": 23,
     "education": 15,
     "economy": 15,
+    "protest_opposition": 9,
     "health": 8,
-    "protest_opposition": 7,
+    "infrastructure": 6,
     "corruption_scam": 5,
     "farmer_agriculture": 5,
-    "infrastructure": 4,
-    "rape_sexual_crime": 4
+    "political_gaffe": 5
   },
   "recent_articles": [
+    {
+      "id": 65943,
+      "title": "Earthquake Of Magnitude 5 Hits Himachal Pradesh",
+      "url": "https://www.ndtv.com/india-news/earthquake-of-magnitude-5-hits-himachal-pradesh-11598386#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-03/9p4mj938_earthquake-generic_625x300_18_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 05:39:11.084190",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "A 5.0 magnitude earthquake struck near Dharamsala, Himachal Pradesh on Friday night at 10:04 pm, causing tremors felt in Kangra, Chamba, and adjoining districts. The epicenter was located near Dhar Godoi in Kangra district, with a depth of 5 km. **The National Center for Seismology** reported the earthquake's intensity as moderate.  While no casualties or significant damage have been reported, officials noted that the region falls within Seismic Zone 5, which poses high risk of damage from earthquakes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65918,
+      "title": "40 years ago, June 6, 1986: Haryana ministry sworn in | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/editorials/rbi-does-well-to-hold-rates-shift-focus-to-foreign-capital-10726322/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/06-Jun-1986_IE_001.jpg",
+      "scraped_at": "2026-06-06 01:31:34.370833",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Bansi Lal",
+      "rephrased_article": "**Bansi Lal**, the new chief minister of **Haryana**, swore in a 13-member, two-tier ministry and declared that Chandigarh would remain the state's capital for at least five years.  Prime Minister Rajiv Gandhi planted a \"Tree for Peace\" at Indira Gandhi's memorial on World Environment Day, urging a nationwide movement to protect the environment. Violence erupted again in the Belgaum border region after protesters clashed with police, damaging property and injuring officers. In Sri Lanka, Tamil militants killed 16 people in Andankulam and abducted passengers from a bus traveling to Trincomalee.",
+      "party_mentioned": [
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy",
+        "infrastructure",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 65914,
+      "title": "40 years ago, June 6, 1986: Haryana ministry sworn in | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-6-1986-haryana-ministry-sworn-in-10726323/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/06-Jun-1986_IE_001.jpg",
+      "scraped_at": "2026-06-06 01:30:58.121617",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Bansi Lal",
+      "rephrased_article": "**Bansi Lal** was sworn in as the new chief minister of **Haryana**, stating that Chandigarh would remain the state's capital for at least five years.  **Rajiv Gandhi** planted a \"Tree for Peace\" at Indira Gandhi's memorial, calling for nationwide environmental protection efforts and emphasizing education on conservation. Violence erupted again in Belgaum after a train derailment and arrests of activists, while Sri Lanka saw 16 deaths attributed to Tamil militants in Andankulam.",
+      "party_mentioned": [
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Maharashtra",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy",
+        "infrastructure",
+        "crime_violence",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 65872,
       "title": "In Haryana, suspended Congress MLA’s husband joins BJP, hits out at Hooda | Chandigarh News - The Indian Express",
@@ -85,6 +167,30 @@
         "farmer_agriculture",
         "health",
         "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65855,
+      "title": "Moderate quake hits Himachal districts; tremors felt in neighbouring States - The Hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/moderate-quake-hits-himachal-districts-tremors-felt-in-neighbouring-states/article71067343.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/w6dscj/article71067344.ece/alternates/LANDSCAPE_1200/Quake.jpg",
+      "scraped_at": "2026-06-05 22:00:57.277819",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "earthquake",
+      "rephrased_article": "A 5.0 magnitude earthquake struck near the Kangra-Chamba border in Himachal Pradesh on Friday night, causing tremors felt in parts of Punjab, Haryana, and Chandigarh. The epicenter was located near Dhar Godoi in Kangra, with a depth of 5 km.  **The meteorological office** reported that the tremor occurred at 10:04 pm and caused residents to evacuate their homes in panic. No injuries or significant damage have been reported so far.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
         "foreign_policy"
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 22:47:18.565792",
+  "generated_at": "2026-06-06 08:18:53.140104",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 496,
-    "articles_last_30d": 148
+    "total_articles": 497,
+    "articles_last_30d": 147
   },
   "top_cities_30d": {
-    "Delhi": 32,
+    "Delhi": 33,
     "Visakhapatnam": 22,
     "Hyderabad": 17,
     "Chennai": 11,
-    "Mumbai": 8,
+    "Mumbai": 7,
     "Madurai": 6,
     "Bengaluru": 5,
     "Kolkata": 5,
@@ -25,17 +25,42 @@
   },
   "top_topics_30d": {
     "foreign_policy": 95,
-    "education": 35,
-    "economy": 26,
+    "education": 34,
+    "economy": 27,
     "infrastructure": 21,
-    "crime_violence": 21,
-    "protest_opposition": 15,
+    "crime_violence": 19,
     "health": 14,
+    "protest_opposition": 14,
     "farmer_agriculture": 12,
-    "rape_sexual_crime": 7,
+    "rape_sexual_crime": 6,
     "political_gaffe": 5
   },
   "recent_articles": [
+    {
+      "id": 65910,
+      "title": "Moving fast to close ‘open-ends’; first tranche of India-US trade deal by mid-July: Piyush Goyal | Business News - The Indian Express",
+      "url": "https://indianexpress.com/article/business/india-us-bilateral-trade-tariffs-piyush-goyal-10726135/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Piyush-Goyal-1.jpg",
+      "scraped_at": "2026-06-05 23:21:39.874175",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "India-US trade deal",
+      "rephrased_article": "**Piyush Goyal**, India's Commerce Minister, announced that the country and the **US** will sign the initial phase of their trade agreement by mid-July.  **Donald Trump**, US President, stated that a deal is in progress and he has confidence in the relationship between the two countries. The **Office of the United States Trade Representative (USTR)** led a delegation to India from June 1st to 4th to discuss the trade agreement. Experts warn that Section 301 tariffs are more powerful than previous measures, giving the USTR wide powers to impose restrictions and retaliate against unfair trade practices.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
     {
       "id": 65733,
       "title": "State govt. rejects claims of irregularities in DSC-2025 teacher recruitment - The Hindu",
@@ -5429,29 +5454,6 @@
       "topic_tags": [
         "economy",
         "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 53734,
-      "title": "Visakhapatnam sees record participation for State football selections - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-sees-record-participation-for-state-football-selections/article70898417.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/wyy2gh/article70898955.ece/alternates/LANDSCAPE_1200/9604_23_4_2026_21_39_10_1_IMG_20260423_WA0028.JPG",
-      "scraped_at": "2026-04-23 23:55:36.098441",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "Sports Authority of Andhra Pradesh (SAAP)",
-      "rephrased_article": "**Visakhapatnam** emerged as the top-performing district in **Andhra Pradesh** for football league selections, with 232 children participating in district-level trials. The **Sports Authority of Andhra Pradesh (SAAP)** conducted the trials at the Indira Priyadarshini Stadium to identify teams for upcoming State-level competitions.  The selection process included Under-15 and Under-21 categories for both boys and girls, with a strong presence from schools and parents. A total of 64 players were selected to represent **Visakhapatnam** at the State-level competitions in Anantapur.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [
-        "Visakhapatnam"
-      ],
-      "topic_tags": [
         "foreign_policy"
       ]
     }

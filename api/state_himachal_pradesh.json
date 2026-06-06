@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 22:47:18.612026",
+  "generated_at": "2026-06-06 08:18:53.186494",
   "state": "Himachal Pradesh",
   "capital": "Shimla",
   "ruling_party": "INC",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 165,
-    "articles_last_30d": 85
+    "total_articles": 168,
+    "articles_last_30d": 88
   },
   "top_cities_30d": {
     "Delhi": 30,
@@ -24,18 +24,83 @@
     "Mumbai": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 62,
+    "foreign_policy": 65,
     "education": 18,
     "health": 17,
     "crime_violence": 15,
     "protest_opposition": 13,
     "economy": 12,
     "farmer_agriculture": 11,
-    "political_gaffe": 9,
+    "political_gaffe": 10,
     "infrastructure": 5,
     "rape_sexual_crime": 3
   },
   "recent_articles": [
+    {
+      "id": 65943,
+      "title": "Earthquake Of Magnitude 5 Hits Himachal Pradesh",
+      "url": "https://www.ndtv.com/india-news/earthquake-of-magnitude-5-hits-himachal-pradesh-11598386#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-03/9p4mj938_earthquake-generic_625x300_18_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-06 05:39:11.084190",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "A 5.0 magnitude earthquake struck near Dharamsala, Himachal Pradesh on Friday night at 10:04 pm, causing tremors felt in Kangra, Chamba, and adjoining districts. The epicenter was located near Dhar Godoi in Kangra district, with a depth of 5 km. **The National Center for Seismology** reported the earthquake's intensity as moderate.  While no casualties or significant damage have been reported, officials noted that the region falls within Seismic Zone 5, which poses high risk of damage from earthquakes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65924,
+      "title": "PM Narendra Modi: Congress spread chaos, its parasitic politics won’t work | Ahmedabad News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-congress-spread-chaos-its-parasitic-politics-wont-work-10726391/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/PM-5COL-ANI.jpg",
+      "scraped_at": "2026-06-06 01:31:52.004206",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** addressed a public meeting in Surat, Gujarat, where he criticized the **Congress** for \"spreading chaos and uncertainty\" and highlighted the people's dissatisfaction with their governance. He emphasized India's energy self-reliance efforts since 2014, citing increased investments in renewable energy and securing oil and gas supplies from various parts of the world.  The Prime Minister also addressed the global crisis caused by the West Asia conflict, emphasizing India's resilience in facing challenges like fluctuating petrol prices and disrupted supply chains. **Kamal Saiyed**, a senior correspondent for The Indian Express, provides extensive coverage on industrial, social, and political developments in Surat and the surrounding region.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Punjab",
+        "West Bengal",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Surat"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 65867,
       "title": "Former Deputy AG booked over complaint against ex-Chief Secretary | Chandigarh News - The Indian Express",
@@ -60,6 +125,30 @@
         "farmer_agriculture",
         "health",
         "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 65855,
+      "title": "Moderate quake hits Himachal districts; tremors felt in neighbouring States - The Hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/moderate-quake-hits-himachal-districts-tremors-felt-in-neighbouring-states/article71067343.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/w6dscj/article71067344.ece/alternates/LANDSCAPE_1200/Quake.jpg",
+      "scraped_at": "2026-06-05 22:00:57.277819",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "earthquake",
+      "rephrased_article": "A 5.0 magnitude earthquake struck near the Kangra-Chamba border in Himachal Pradesh on Friday night, causing tremors felt in parts of Punjab, Haryana, and Chandigarh. The epicenter was located near Dhar Godoi in Kangra, with a depth of 5 km.  **The meteorological office** reported that the tremor occurred at 10:04 pm and caused residents to evacuate their homes in panic. No injuries or significant damage have been reported so far.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Himachal Pradesh",
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
         "foreign_policy"
       ]
     },
