@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 08:39:23.066334",
+  "generated_at": "2026-06-07 15:11:06.459470",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 300,
-    "articles_last_30d": 81
+    "total_articles": 301,
+    "articles_last_30d": 82
   },
   "top_cities_30d": {
     "Delhi": 22,
@@ -27,8 +27,8 @@
     "foreign_policy": 62,
     "economy": 23,
     "crime_violence": 18,
+    "infrastructure": 15,
     "protest_opposition": 15,
-    "infrastructure": 14,
     "education": 14,
     "farmer_agriculture": 9,
     "health": 6,
@@ -36,6 +36,32 @@
     "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 66398,
+      "title": "Indian Railways nears 100% electrification: Only 269 Route Km left across 5 states",
+      "url": "https://indianexpress.com/article/india/indian-railways-nears-100-percent-electrification-only-269-route-km-left-across-5-states-10728120/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/electrification.jpg",
+      "scraped_at": "2026-06-07 09:51:38.426059",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Railways",
+      "rephrased_article": "**Indian Railways** has achieved 99.6% electrification of its Broad Gauge network, with only 269 route kilometers remaining across five states.  The Ministry of Railways reports that these final sections are in Rajasthan, Tamil Nadu, Assam, Karnataka, and Goa. Electrification is crucial for improving train efficiency, reducing fossil fuel dependence, and advancing sustainability goals.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Goa",
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
     {
       "id": 66303,
       "title": "‘Identifying any irregularities or unlawful activities’: Bengal government orders survey of madrasas | Kolkata News - The Indian Express",
@@ -5930,33 +5956,6 @@
       ],
       "topic_tags": [
         "corruption_scam"
-      ]
-    },
-    {
-      "id": 48435,
-      "title": "Assam Assembly polls: Like Zubeen Garg, Cong works to unite people, says Rahul Gandhi - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-polls-like-zubeen-garg-cong-works-to-unite-people-says-rahul-gandhi/article70826244.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/a2thbg/article70826258.ece/alternates/LANDSCAPE_1200/80692_31_3_2026_20_5_57_1_01TVKZRAHULGANDHI.JPG",
-      "scraped_at": "2026-04-05 09:46:31.078131",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Himanta Biswa Sarma",
-      "rephrased_article": "**Rahul Gandhi**, leader of the **Congress party**,  compared his party's philosophy to that of musician **Zubeen Garg**, who worked to unite Assam. He accused **Himanta Biswa Sarma**, the current Chief Minister of Assam, of being the \"most corrupt CM in India\" and promised legal action against him after the Congress forms a government. Gandhi also alleged that the BJP government led by Sarma is spreading hatred against people and communities.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "protest_opposition"
       ]
     }
   ]

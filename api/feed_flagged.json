@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07 08:39:22.856665",
-  "total": 601,
+  "generated_at": "2026-06-07 15:11:06.165246",
+  "total": 605,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 482,
+    "power_abuse": 485,
+    "scale_of_harm": 35,
     "institutional_failure": 65,
-    "scale_of_harm": 34,
     "suppression": 20
   },
   "articles": [
@@ -4674,6 +4674,135 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 66494,
+      "title": "Penguin India's Rejection of Joe Sacco's Muzaffarnagar Riot Book Matters",
+      "url": "https://indianexpress.com/article/opinion/columns/joe-sacco-book-penguin-the-once-and-future-riot-muzaffarnagar-10728578/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/P1-sacco-3col_20260607130928.jpg",
+      "scraped_at": "2026-06-07 14:04:32.163799",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Penguin India",
+      "rephrased_article": "Joe Sacco, a renowned comics journalist, had his book \"The Once and Future Riot\" rejected for distribution in India by Penguin India. The publisher cited technicalities regarding an image on the book's map but this decision raises concerns about censorship and the accessibility of truth-telling in the country.  Sacco's meticulous research involved interviewing people affected by the 2013 Muzaffarnagar riots, highlighting the importance of comics journalism for capturing complex narratives and personal experiences within political contexts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "scale_of_harm",
+      "civic_flag_reason": "The article suggests censorship of a book about a sensitive topic raises concerns about freedom of expression."
+    },
+    {
+      "id": 66487,
+      "title": "In a first, Maharashtra minister joins Operation Blue Star anniversary at Damdami Taksal | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/maharashtra-minister-girish-mahajan-operation-blue-star-damdami-taksal-10728595/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/girish-mahajan_20260127091102_20260607133827.jpg",
+      "scraped_at": "2026-06-07 14:04:17.666236",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Girish Mahajan",
+      "rephrased_article": "Girish Mahajan, Maharashtra’s Minister for Water Resources, became the first state government representative to attend the Operation Blue Star anniversary commemoration at the headquarters of Damdami Taksal in Amritsar.  He addressed the gathering, calling June 6th a “kaala din” and drawing parallels between the violence inflicted on Sikhs after Indira Gandhi's assassination and the invasion of Ahmed Shah Abdali. Mahajan also highlighted Maharashtra’s commitment to Sikh history with programs commemorating Guru Tegh Bahadur Sahib and announced new initiatives in Guru Tegh Bahadur’s name. He concluded his address by appealing for help tackling drug abuse among Punjab’s youth.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Punjab",
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Nagpur",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "A minister attending a commemoration of a controversial military operation could signal normalization of violence."
+    },
+    {
+      "id": 66387,
+      "title": "Who Is Baikuntha Nath Behera, Odisha Engineer Found With Crores In Cash, 13 Plots in raids",
+      "url": "https://www.ndtv.com/india-news/who-is-baikuntha-nath-behera-odisha-engineer-found-with-crores-in-cash-13-plots-in-raids-11602440#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/cceletcc_odisha-engineer_625x300_07_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 09:50:14.204693",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Baikuntha Nath Behera",
+      "rephrased_article": "Baikuntha Nath Behera, an Assistant Executive Engineer with the Integrated Tribal Development Agency (ITDA) in Odisha's Kandhamal district, is under investigation for alleged disproportionate assets. During raids at nine locations linked to him, Odisha Vigilance officials discovered assets worth crores, including cash, multi-storey buildings, and land holdings. The total value of the assets is still being determined as the investigation continues.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Alleged disproportionate assets by a government official raise concerns about corruption and abuse of power."
+    },
+    {
+      "id": 66371,
+      "title": "Arrest Liquor Shop TASMAC Leakages: Tamil Nadu Chief Minister Vijay's Big Crackdown On 'Party Fund' System In 1st Cabinet Meeting",
+      "url": "https://www.ndtv.com/india-news/arrest-liquor-shop-tasmac-leakages-tamil-nadu-chief-minister-vijays-big-crackdown-on-party-fund-system-in-1st-cabinet-meeting-11601809#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/h7kq09nc_vijay_625x300_25_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 09:49:18.287071",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Tamil Nadu State Marketing Corporation (TASMAC)",
+      "rephrased_article": "Tamil Nadu Chief Minister Vijay launched a crackdown on alleged fund leakages and unofficial collections within the Tamil Nadu State Marketing Corporation (TASMAC), aiming to ensure that all liquor sales revenue reaches the state treasury.  The government estimates nearly Rs 1,600 crore has been diverted through \"party fund\" collections over five years, with officials alleging that around Rs 102 crore is allegedly being diverted monthly. Minister K Vignesh, overseeing the reforms, stated his commitment to dismantling informal collection systems and implementing a transparent revenue tracking mechanism. The crackdown also includes reviewing the controversial empty bottle deposit-and-buyback system at TASMAC outlets, which has been linked to significant corruption.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Alleged large-scale financial diversion from public funds raises serious concerns."
     },
     {
       "id": 66341,
@@ -15325,130 +15454,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "scale_of_harm",
       "civic_flag_reason": "Escalating violence threatens civil war and displaces thousands of civilians."
-    },
-    {
-      "id": 42356,
-      "title": "State universities suffering from ‘serious chronic ailments’, need long-term treatment: M.C. Sudhakar - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/state-universities-suffering-from-serious-chronic-ailments-need-long-term-treatment-mc-sudhakar/article70750091.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8gnomu/article70750992.ece/alternates/LANDSCAPE_1200/council%204.JPEG",
-      "scraped_at": "2026-03-16 23:01:57.649926",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "Karnataka State Universities",
-      "rephrased_article": "State universities in Karnataka are facing serious problems, according to Higher Education Minister M.C. Sudhakar, who stated that they require sustained treatment rather than temporary fixes.  The minister acknowledged the issues of caste-based conflicts and corruption, as well as a decline in overall university functioning. He proposed a detailed discussion in the Legislative Council but emphasized the need for accepting government decisions after deliberations.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "corruption_scam"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "The article highlights systemic issues like corruption and caste conflicts in state universities."
-    },
-    {
-      "id": 42242,
-      "title": "Left activist Mathur Sathya removed from primary membership of CPI following sexual harassment charges - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/left-activist-mathur-sathya-removed-from-primary-membership-of-cpi-following-sexual-harassment-charges/article70750895.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-16 19:01:49.477508",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Mathur Sathya",
-      "rephrased_article": "S.K. Siva, secretary of the CPI South Chennai district, announced the removal of Mathur Sathya from the party's primary membership and affiliated organizations following allegations of sexual harassment. A police complaint was filed against Mathur Sathya, who maintains his innocence, stating he has always obtained explicit consent before interacting with others.",
-      "party_mentioned": [
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Allegations of sexual harassment should always be taken seriously and investigated thoroughly."
-    },
-    {
-      "id": 42239,
-      "title": "Five convicted in 2016 Una flogging case; Gujarat court to announce punishment - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/five-convicted-in-2016-una-flogging-case-gujarat-court-to-announce-punishment/article70750930.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/9h8w65/article70751346.ece/alternates/LANDSCAPE_1200/iStock-2192979063.jpg",
-      "scraped_at": "2026-03-16 19:01:28.576580",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Gujarat court",
-      "rephrased_article": "A Gujarat court convicted five individuals and acquitted 35 others in the 2016 Una Dalit flogging case. The convictions were based on charges of assault, wrongful confinement, and intentional insult under the Indian Penal Code and the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act.  The incident occurred when members of a Dalit family were attacked by upper caste men who accused them of slaughtering a cow. The court did not find the accused guilty of attempted murder or other serious offenses.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Conviction of only five individuals in a brutal caste-based attack raises concerns about justice."
-    },
-    {
-      "id": 42236,
-      "title": "ED arrests Madhya Pradesh food company owner for money laundering, selling adulterated dairy products - The Hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/ed-arrests-madhya-pradesh-food-company-owner-for-money-laundering-selling-adulterated-dairy-products/article70751069.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/eoimqh/article70751363.ece/alternates/LANDSCAPE_1200/iStock-611631070%204.jpg",
-      "scraped_at": "2026-03-16 19:01:08.221294",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Kishan Modi",
-      "rephrased_article": "Enforcement Directorate (ED) arrested Kishan Modi, owner of M/s Jayshri Gayatri Food Products Pvt. Ltd. (JGFPPL), in Bhopal for money laundering and selling adulterated dairy products. The arrest followed investigations into two separate cases lodged by the Bhopal police and the Economic Offences Wing.  Modi was presented before a special PMLA court and is currently under ED custody until March 18.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh"
-      ],
-      "cities_mentioned": [
-        "Indore",
-        "Bhopal"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "corruption_scam"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Selling adulterated food products poses a serious health risk to citizens."
     }
   ]
 }

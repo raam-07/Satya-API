@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 08:39:23.074054",
+  "generated_at": "2026-06-07 15:11:06.467467",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 274,
-    "articles_last_30d": 116
+    "total_articles": 275,
+    "articles_last_30d": 117
   },
   "top_cities_30d": {
     "Delhi": 50,
-    "Patna": 18,
+    "Patna": 19,
     "Mumbai": 12,
-    "Kolkata": 9,
-    "Chennai": 7,
+    "Kolkata": 10,
+    "Chennai": 8,
     "Hyderabad": 7,
     "Bengaluru": 5,
     "Ahmedabad": 4,
@@ -24,9 +24,9 @@
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 82,
+    "foreign_policy": 83,
+    "education": 34,
     "crime_violence": 33,
-    "education": 33,
     "protest_opposition": 19,
     "economy": 18,
     "health": 16,
@@ -36,6 +36,35 @@
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 66433,
+      "title": "The Most Dangerous Thing About Vaibhav Sooryavanshi Isn't Really His Age",
+      "url": "https://www.ndtv.com/opinion/the-most-dangerous-thing-about-vaibhav-sooryavanshi-isnt-really-his-age-11602816#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/9l21g8l8_vaibhav-sooryavanshi_625x300_04_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 11:54:02.541203",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Vaibhav Sooryavanshi",
+      "rephrased_article": "**Vaibhav Sooryavanshi**, a young Indian cricketer, has earned a spot on the national team at age 18.  His unique ability to process information quickly and anticipate pitches makes him stand out as a powerful hitter with exceptional batting technique. He's known for his composure and strategic thinking, which have led to comparisons to legendary players like Sachin Tendulkar. Sooryavanshi is poised to make an impact on the international stage, particularly in T20 cricket.  He has already achieved success in the IPL and is eager to continue developing his skills across all formats of the game.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Kolkata",
+        "Patna"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education"
+      ]
+    },
     {
       "id": 66341,
       "title": "Bihar BJP MLA Raju Kumar Singh Convicted For Woman's Death In 2018 Celebratory Firing",
@@ -109,8 +138,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "Bihar",
@@ -5934,37 +5962,6 @@
         "Kolkata"
       ],
       "topic_tags": []
-    },
-    {
-      "id": 48833,
-      "title": "Pakistani handler was planning ‘Jihadi activities’, say police - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pakistani-handler-accused-of-planning-jihadi-activities-in-india/article70829807.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-06 16:58:02.690821",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Al-Hakim-Sukoor",
-      "rephrased_article": "**Al-Hakim-Sukoor**, an alleged handler from Pakistan, was arrested for his online communication with terror suspects. The **West Zone police** of Vijayawada Commissionerate in Andhra Pradesh arrested 12 individuals suspected of links to ISIS and AQIS.  The accused allegedly planned to create a Caliphate in India, recruit members, spread their ideology, and receive weapons from **Sukoor**.  The investigation is ongoing with the CI Cell and other agencies planning to question the remaining suspects once they are granted police custody.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Gujarat",
-        "Karnataka",
-        "Maharashtra",
-        "Rajasthan",
-        "Telangana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
     }
   ]
 }

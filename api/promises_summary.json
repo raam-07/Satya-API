@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-07 08:39:23.631018",
+  "generated_at": "2026-06-07 15:11:07.062912",
   "stats": {
-    "total_promises": 148,
+    "total_promises": 150,
     "kept": 2,
     "broken": 12,
-    "ongoing": 132
+    "ongoing": 134
   },
   "by_status": {
     "broken": [
@@ -56,7 +56,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals occurred during Modi's tenure."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
       },
       {
         "id": "p007",
@@ -342,7 +342,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "National UCC implementation is ongoing, as per news articles."
+        "gemma_reasoning": "National UCC implementation is not yet completed."
       },
       {
         "id": "p010",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and dominance continue, making a full assessment impossible."
       },
       {
         "id": "p020",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       },
       {
         "id": "promise_1780208617_8",
@@ -897,7 +897,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No evidence suggests the promise was fulfilled or abandoned."
+        "gemma_reasoning": "I-PAC continues to manage the Trinamool Congress campaign."
       },
       {
         "id": "promise_1780334199_1",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780373808_3",
@@ -1302,7 +1302,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Congress is still in power and has not missed the 2029 deadline."
+        "gemma_reasoning": "The Congress is in opposition and the deadline is in the future."
       },
       {
         "id": "promise_1780383641_1",
@@ -1635,7 +1635,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying work is ongoing."
       },
       {
         "id": "promise_1780436701_3",
@@ -1959,7 +1959,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
+        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing processes."
       },
       {
         "id": "promise_1780521517_7",
@@ -2275,7 +2275,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise has a start date of July 1st, 2026, and is actively being implemented."
+        "gemma_reasoning": "The promise was announced with a start date of July 1st, 2026."
       },
       {
         "id": "promise_1780697691_0",
@@ -2328,7 +2328,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre is actively working to provide surface water for drinking purposes in rural areas."
+        "gemma_reasoning": "Khandre is actively working to provide surface water for drinking in rural areas."
       },
       {
         "id": "promise_1780745252_0",
@@ -2378,6 +2378,34 @@
         "party": "",
         "promise": "Devendra Fadnavis promised to introduce a bill in Parliament to stop horse-trading.",
         "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780827335_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy will participate in a ceremony for road infrastructure projects and the Malkajgiri Municipal Corporation building on Sunday, June 7, 2026.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780827401_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy will lay the foundation stone for an alternate road around the AOC Centre and MMC office in Uppal Bhagayath.",
+        "category": "infrastructure",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -2463,7 +2491,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
+        "gemma_reasoning": "Congress lost the 2019 election, so the NYAY scheme was not implemented."
       },
       {
         "id": "promise_1780413185_3",
@@ -2488,7 +2516,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The Congress party did not form the government."
+        "gemma_reasoning": "The Congress party did not form a government."
       }
     ]
   },
@@ -2542,7 +2570,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -2642,7 +2670,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals occurred during Modi's tenure."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
       },
       {
         "id": "p007",
@@ -2726,7 +2754,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "National UCC implementation is ongoing, as per news articles."
+        "gemma_reasoning": "National UCC implementation is not yet completed."
       },
       {
         "id": "p010",
@@ -3193,7 +3221,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780383641_1",
@@ -3260,7 +3288,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying continued work on the promise."
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying work is ongoing."
       },
       {
         "id": "promise_1780443870_2",
@@ -3417,7 +3445,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
+        "gemma_reasoning": "Congress lost the 2019 election, so the NYAY scheme was not implemented."
       },
       {
         "id": "promise_1780292965_2",
@@ -3555,7 +3583,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and dominance continue, making a full assessment impossible."
       },
       {
         "id": "promise_1780207073_7",
@@ -3580,7 +3608,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims of fish restrictions, indicating ongoing policy work."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       },
       {
         "id": "promise_1780332240_0",
@@ -3605,7 +3633,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "No evidence suggests the promise was fulfilled or abandoned."
+        "gemma_reasoning": "I-PAC continues to manage the Trinamool Congress campaign."
       },
       {
         "id": "promise_1780336330_4",
@@ -3686,7 +3714,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
+        "gemma_reasoning": "TMC announced contesting 291 seats, elections are ongoing processes."
       }
     ],
     "Revanth Reddy": [
@@ -4070,6 +4098,34 @@
         "person": "Revanth Reddy",
         "party": "",
         "promise": "Revanth Reddy laid the foundation for a fruit market and a Sub-Registrar office complex at Koheda.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780827335_0",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy will participate in a ceremony for road infrastructure projects and the Malkajgiri Municipal Corporation building on Sunday, June 7, 2026.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780827401_1",
+        "person": "Revanth Reddy",
+        "party": "",
+        "promise": "Revanth Reddy will lay the foundation stone for an alternate road around the AOC Centre and MMC office in Uppal Bhagayath.",
         "category": "infrastructure",
         "status": "ongoing",
         "made_on": "",
@@ -4680,7 +4736,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The Congress is still in power and has not missed the 2029 deadline."
+        "gemma_reasoning": "The Congress is in opposition and the deadline is in the future."
       },
       {
         "id": "promise_1780718650_0",
@@ -4705,7 +4761,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre is actively working to provide surface water for drinking purposes in rural areas."
+        "gemma_reasoning": "Khandre is actively working to provide surface water for drinking in rural areas."
       }
     ],
     "Pinarayi Vijayan": [
@@ -4778,7 +4834,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The Congress party did not form the government."
+        "gemma_reasoning": "The Congress party did not form a government."
       },
       {
         "id": "promise_1780428926_0",
@@ -5022,7 +5078,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise has a start date of July 1st, 2026, and is actively being implemented."
+        "gemma_reasoning": "The promise was announced with a start date of July 1st, 2026."
       }
     ]
   },
@@ -5076,7 +5132,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -5176,7 +5232,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals occurred during Modi's tenure."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and government contracts occurred."
       },
       {
         "id": "p007",
@@ -5260,7 +5316,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "National UCC implementation is ongoing, as per news articles."
+        "gemma_reasoning": "National UCC implementation is not yet completed."
       },
       {
         "id": "p010",
@@ -5513,7 +5569,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was made by an opposition party that lost the election."
+        "gemma_reasoning": "Congress lost the 2019 election, so the NYAY scheme was not implemented."
       }
     ],
     "TMC": [
@@ -5540,7 +5596,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and dominance continue, making a full assessment impossible."
       }
     ]
   }

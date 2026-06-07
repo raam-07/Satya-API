@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 08:39:23.131376",
+  "generated_at": "2026-06-07 15:11:06.528161",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 191,
-    "articles_last_30d": 104
+    "total_articles": 193,
+    "articles_last_30d": 106
   },
   "top_cities_30d": {
     "Delhi": 32,
-    "Bhopal": 29,
+    "Bhopal": 30,
     "Indore": 7,
     "Mumbai": 7,
     "Bengaluru": 5,
@@ -24,18 +24,75 @@
     "Coimbatore": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 76,
+    "foreign_policy": 78,
     "crime_violence": 35,
     "education": 31,
+    "health": 17,
     "economy": 16,
-    "health": 16,
     "rape_sexual_crime": 16,
     "protest_opposition": 12,
     "infrastructure": 11,
-    "farmer_agriculture": 8,
-    "corruption_scam": 8
+    "political_gaffe": 9,
+    "farmer_agriculture": 8
   },
   "recent_articles": [
+    {
+      "id": 66429,
+      "title": "Dead Snake Found In Food Packet Given To Pregnant Woman At Madhya Pradesh Anganwadi Centre",
+      "url": "https://www.ndtv.com/india-news/dead-snake-found-in-food-packet-given-to-pregnant-woman-at-madhya-pradesh-anganwadi-centre-11602876#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/rpl2fh1k_dead-snake_625x300_07_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 11:53:51.955537",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Madhya Pradesh Government",
+      "rephrased_article": "A dead baby snake was found inside a packet of nutritional food distributed to a pregnant woman in Madhya Pradesh's Pandhurna district. **Vachhala Bai Dhurve**, the recipient, had not consumed the food and alerted authorities after discovering the snakelet.  **Project Officer Usha Pandre** from the **Women and Child Development Department** along with local officials seized the packet and initiated an investigation. The incident has sparked outrage among residents demanding stricter measures to ensure food safety in Anganwadi centers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66414,
+      "title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
+      "url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/e3sen70k_hemant-soren_625x300_07_June_26.jpeg",
+      "scraped_at": "2026-06-07 11:52:49.380769",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Hemant Soren** and the **Jharkhand Mukti Morcha (JMM)** have finalized a seat-sharing agreement for two Rajya Sabha seats in Jharkhand.  **Hemant Soren** agreed to concede one seat to the **Congress**, with the party's candidate being Pranav Jha. The deal was reached after discussions between **Hemant Soren** and Congress observers Bhupesh Baghel and Ajay Sharma, who met with him on Sunday morning. The JMM has nominated Baijnath Ram for the elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "RJD",
+        "JMM",
+        "Jharkhand Mukti Morcha",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Hemant Soren",
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Jharkhand",
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 66220,
       "title": "MP teen battling for life after ‘stalker’ attacks her with axe, hangs her from rooftop | India News - The Indian Express",
