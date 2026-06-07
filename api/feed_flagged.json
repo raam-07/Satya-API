@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07 22:39:08.869329",
-  "total": 613,
+  "generated_at": "2026-06-07 23:46:36.609902",
+  "total": 614,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 493,
+    "power_abuse": 494,
     "scale_of_harm": 35,
     "institutional_failure": 65,
     "suppression": 20
@@ -4782,6 +4782,42 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 66684,
+      "title": "Early warning bells for AAP in Punjab? Why groups that powered its 2022 win are protesting | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/punjab-assembly-elections-aap-government-employee-protests-linemen-da-10728357/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Bhagwant-Mann-5_20260513030331_20260607104046.jpg",
+      "scraped_at": "2026-06-07 23:12:22.864999",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "AAP",
+      "rephrased_article": "Bhagwant Mann's Aam Aadmi Party (AAP) government in Punjab is facing growing discontent from various groups, including government employees, contractual workers, and unemployed youth. Protests have intensified over pending demands for jobs, wages, promotions, dearness allowance (DA), and pension benefits.  The PSPCL apprenticeship linemen union has been protesting outside the headquarters of the power corporations, while thousands of outsourced Sewa Kendra employees are on strike demanding enhanced wages. The Berozgar Sanjha Morcha has also staged a prolonged dharna demanding government job reforms, including an increase in the upper age limit for recruitment and more opportunities.  The protests have drawn criticism from the Opposition parties, who accuse the AAP government of failing to fulfill its election promises.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "economy",
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Protests highlight potential institutional failure to address citizen demands."
     },
     {
       "id": 66613,
@@ -15413,34 +15449,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "The article alleges political interference in a crucial democratic process."
-    },
-    {
-      "id": 43120,
-      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row | Global development | The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/fc10be130ea3af35d158d5f12a4e700bdda1c277/852_1007_2632_2105/master/2632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec6533f8ef63a7e3029dffc8d6a17311",
-      "scraped_at": "2026-03-19 10:47:36.497625",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Lemi Limbu",
-      "rephrased_article": "A Tanzanian woman, Lemi Limbu, who was sentenced to death for the murder of her daughter in 2015, had her conviction and death sentence quashed by a court on March 4th. Lemi Limbu, now in her early 30s, has intellectual disabilities and a developmental age equivalent to a child.  Legal and Human Rights Centre, a Tanzanian human rights advocacy organization, expressed concern that the retrial will likely prolong an already lengthy process. The case highlights concerns about the justice system's effectiveness in Tanzania, where the death penalty is mandatory for murder.",
-      "party_mentioned": [
-        "SAD"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "A person with intellectual disabilities was sentenced to death, highlighting potential abuse of justice."
     }
   ]
 }

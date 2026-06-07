@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 22:39:09.275525",
+  "generated_at": "2026-06-07 23:46:37.003451",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1282,
+    "total_articles": 1283,
     "articles_last_30d": 716
   },
   "top_cities_30d": {
-    "Delhi": 710,
+    "Delhi": 709,
     "Mumbai": 73,
     "Bengaluru": 52,
     "Kolkata": 42,
@@ -26,7 +26,7 @@
   "top_topics_30d": {
     "foreign_policy": 523,
     "crime_violence": 226,
-    "education": 148,
+    "education": 149,
     "economy": 139,
     "protest_opposition": 135,
     "infrastructure": 70,
@@ -36,6 +36,38 @@
     "farmer_agriculture": 22
   },
   "recent_articles": [
+    {
+      "id": 66685,
+      "title": "Mamata Banerjee meets Kejriwal ahead of INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/news/national/mamata-banerjee-meets-kejriwal-ahead-of-india-bloc-meeting/article71073783.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/550t61/article71073821.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-07%20210812.png",
+      "scraped_at": "2026-06-07 23:12:26.334895",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "**Mamata Banerjee**, chief of the **Trinamool Congress**, met with **Arvind Kejriwal**, convener of the **Aam Aadmi Party**, in Delhi on Sunday. The meeting, described as \"warm,\" focused on the future direction of the opposition bloc **INDIA**.  The two leaders discussed the road ahead for the group, which will meet on Monday to strategize against the BJP and address differences arising from recent Assembly election results.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66653,
       "title": "Latest trouble for Khan Sir’s institute: Fire safety ‘shortcomings’ | India News - The Indian Express",
@@ -91,18 +123,15 @@
         "INDIA Alliance"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
-        "Stalin",
+        "M.K. Stalin",
         "Pinarayi Vijayan",
         "Uddhav Thackeray",
         "Omar Abdullah",
         "Mehbooba Mufti",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Bihar",
@@ -5563,30 +5592,6 @@
       ],
       "topic_tags": [
         "health"
-      ]
-    },
-    {
-      "id": 64948,
-      "title": "CarryMen: India start-up offering shopping bag carriers sparks debate on entitlement",
-      "url": "https://www.bbc.com/news/articles/cx21vd880ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/da97/live/e48db250-5f06-11f1-b682-cf91850925ea.jpg",
-      "scraped_at": "2026-06-03 15:21:51.557679",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "CarryMen",
-      "rephrased_article": "A new start-up called CarryMen in Delhi offers shoppers assistance with carrying bags and navigating crowded markets. The service, launched in April, provides male and female assistants for up to four hours at a cost of 79 rupees ($0.83; £0.62) for 30 minutes or 149 rupees for an hour.  While some customers praise the service as helpful, others criticize it as indicative of entitlement and exploitative labor practices. The founders argue that the service is simply providing assistance to those who need help navigating crowded markets and are not exploiting workers. CarryMen plans to expand its services in other markets across India.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
       ]
     }
   ]
