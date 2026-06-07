@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 21:24:36.054846",
+  "generated_at": "2026-06-07 22:39:09.129099",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 276,
-    "articles_last_30d": 117
+    "total_articles": 279,
+    "articles_last_30d": 119
   },
   "top_cities_30d": {
-    "Delhi": 49,
-    "Patna": 19,
+    "Delhi": 51,
+    "Patna": 21,
     "Mumbai": 12,
     "Kolkata": 10,
     "Chennai": 8,
@@ -24,18 +24,131 @@
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 83,
-    "crime_violence": 34,
+    "foreign_policy": 85,
+    "crime_violence": 36,
     "education": 34,
-    "protest_opposition": 19,
-    "economy": 19,
+    "protest_opposition": 20,
+    "economy": 20,
     "health": 16,
     "infrastructure": 14,
     "corruption_scam": 11,
-    "farmer_agriculture": 6,
-    "rape_sexual_crime": 5
+    "farmer_agriculture": 5,
+    "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 66658,
+      "title": "Beyond remittances: Why experts say Bihar can no longer rely solely on exporting its labour | Patna News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/patna/bihar-economic-growth-industrialisation-investment-migration-10728490/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Bihar-industries.avif",
+      "scraped_at": "2026-06-07 21:47:28.755834",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Bihar",
+      "rephrased_article": "**Former Chief Justice Sanjay Kumar**, while delivering the keynote address at **Grand Trunk Road Initiatives (GTRI)** 6.0, emphasized the importance of institutional trust, governance, and law and order for economic development.  Delegates discussed Bihar's financial architecture, migration patterns, and dependence on external revenue sources. They highlighted the need for stronger institutions, increased investment, and large-scale industrialization to convert human resources into sustainable economic growth. The conference also addressed technology, financial inclusion, entrepreneurship, and the role of artificial intelligence in boosting Bihar's economy.  Delegates concluded that sustained economic transformation requires coordinated efforts across government, industry, and civil society.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [
+        "Patna"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66653,
+      "title": "Latest trouble for Khan Sir’s institute: Fire safety ‘shortcomings’ | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/khan-sirs-institute-fire-safety-shortcomings-10728506/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/khan-global-series.jpg",
+      "scraped_at": "2026-06-07 21:47:16.750347",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Khan Global Studies",
+      "rephrased_article": "**Bihar Fire Services** conducted a fire safety audit at Khan Global Studies in Patna, identifying multiple deficiencies and issuing a notice requiring the institution to rectify them within a week. The inspection follows recent fatal fire incidents in Delhi and Muzaffarpur, prompting the state government to intensify fire safety checks across Bihar. **Assistant District Fire Officer Ajay Kumar Sharma** stated that the institute lacked a fire alarm system, fire pump, and inadequate water tank capacity.  **Bihar Fire Services DIG Manoj Kumar Nut** emphasized the department's stricter approach following recent tragedies, warning of potential sealing action if compliance is not ensured.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Patna"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66652,
+      "title": "DMK absent, allies restive, INDIA bloc braces for a difficult conversation at today’s meeting | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/dmk-absent-allies-restive-india-bloc-braces-for-a-difficult-conversation-at-tomorrows-meeting-10728517/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/INDIA.jpg",
+      "scraped_at": "2026-06-07 21:47:12.463811",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "The Opposition INDIA bloc is set to meet in Delhi on Monday, facing a weakened position after the recent Assembly elections and internal tensions. The absence of the DMK due to its disagreement with the Congress over the Tamil Nadu government's formation has added to the complexity.  **Mamata Banerjee**, **Abhishek Banerjee**, and other leaders are expected to play a mediating role as the bloc grapples with issues including electoral rolls, delimitation, simultaneous elections, education system concerns, and coordination.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "NCP",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "DMK",
+        "PDP",
+        "National Conference",
+        "JMM",
+        "Jharkhand Mukti Morcha",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Stalin",
+        "Pinarayi Vijayan",
+        "Uddhav Thackeray",
+        "Omar Abdullah",
+        "Mehbooba Mufti",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66551,
       "title": "J&K tribal leader who protested at demolition site faces charges of ‘attempt to murder, rioting with deadly weapons’ - The Hindu",
@@ -5870,101 +5983,6 @@
       "topic_tags": [
         "education",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 48945,
-      "title": "Tamil Nadu CM, Congress in tacit understanding with BJP: Mamata - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/tamil-nadu-cm-congress-in-tacit-understanding-with-bjp-mamata/article70831415.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/zbkzqz/article70831621.ece/alternates/LANDSCAPE_1200/PTI04_06_2026_000254B.jpg",
-      "scraped_at": "2026-04-06 22:08:04.979274",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Mamata Banerjee**, the chief minister of West Bengal, accused the **BJP** and its allies of colluding with the **Congress** and **Tamil Nadu Chief Minister MK Stalin** to manipulate the election process in her state. She alleged that many West Bengal-cadre officers were sent as poll observers to Tamil Nadu, hindering development work.  Banerjee also criticized the Election Commission's handling of voter lists and accused the BJP of attempting to divide voters based on religion. She vowed to tour the country forging opposition unity against the saffron party and pledged to fight for the rights of West Bengal citizens.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "DMK",
-        "AIADMK",
-        "AIMIM",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 48926,
-      "title": "In Bihar, the prohibition law has become a joke, says Tejashwi Yadav - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/in-bihar-the-prohibition-law-has-become-a-joke-says-tejashwi-yadav/article70830799.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/u5tzpj/article70831860.ece/alternates/LANDSCAPE_1200/20260316575L.jpg",
-      "scraped_at": "2026-04-06 21:12:34.743101",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Bihar state government",
-      "rephrased_article": "**Tejashwi Yadav**, leader of the **opposition** in Bihar, criticized the state government's 10-year prohibition policy, accusing it of being \"institutional corruption\" and enabling a multi-billion rupee illegal liquor market. He cited data showing an increase in seizures and consumption despite the law's implementation, alleging that the government has failed to curb illicit liquor trade and instead is promoting corruption. **Yadav** also pointed out that the prohibition policy has disproportionately targeted poor communities and led to deaths from spurious liquor.",
-      "party_mentioned": [
-        "SP"
-      ],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 48921,
-      "title": "Bihar BJP president Sanjay Saraogi hints party will get the top post soon - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-bjp-president-sanjay-saraogi-hints-party-will-get-the-top-post-soon/article70830436.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pumszj/article70831867.ece/alternates/LANDSCAPE_1200/20260406140L.jpg",
-      "scraped_at": "2026-04-06 21:10:46.943682",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Sanjay Saraogi**, **President of the Bharatiya Janata Party (BJP)** in Bihar, indicated that the BJP is poised to take control of the state's top political position.  He stated this during the party's 47th foundation day celebrations, where **Deputy Chief Minister Samrat Choudhary**, considered a frontrunner for the next chief minister role, also spoke. The current chief minister, **Nitish Kumar**, is expected to step down on April 12 and be replaced by a BJP candidate, potentially taking oath on April 14.  **Mr. Saraogi** praised the party's growth and emphasized its commitment to national development.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [
-        "Patna"
-      ],
-      "topic_tags": [
-        "education"
       ]
     }
   ]
