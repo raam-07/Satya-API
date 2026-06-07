@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 20:02:57.150764",
+  "generated_at": "2026-06-07 21:24:36.142508",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 544,
-    "articles_last_30d": 245
+    "total_articles": 545,
+    "articles_last_30d": 246
   },
   "top_cities_30d": {
-    "Delhi": 69,
+    "Delhi": 70,
     "Amritsar": 21,
     "Bengaluru": 17,
     "Ludhiana": 16,
@@ -31,11 +31,46 @@
     "protest_opposition": 44,
     "infrastructure": 30,
     "health": 24,
-    "farmer_agriculture": 19,
+    "farmer_agriculture": 20,
     "corruption_scam": 18,
-    "political_gaffe": 13
+    "political_gaffe": 14
   },
   "recent_articles": [
+    {
+      "id": 66635,
+      "title": "‘AI platform to connect Parliament, Assemblies’: Haryana Speaker Harvinder Kalyan | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/chandigarh/haryana-speaker-harvinder-kalyan-conference-parliament-ai-platform-10728616/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Harvinder-Kalyan.jpg",
+      "scraped_at": "2026-06-07 20:16:44.789230",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Haryana Legislative Assembly",
+      "rephrased_article": "**Sukhbir Siwach**, a journalist, has extensively covered farmer agitation against three farm laws. **Om Birla**, the Lok Sabha Speaker, will inaugurate the North Zone Conference of the Commonwealth Parliamentary Association (CPA) in Chandigarh from June 8 to 10. The conference focuses on strengthening democratic institutions and addressing future challenges through collaboration among legislatures and an informed society.  The conference aims to connect Parliament and State Assemblies through a common AI-enabled digital platform, facilitating knowledge sharing and best practices across states. **Harvinder Kalyan**, the Haryana Assembly Speaker, highlights the importance of capacity building, research support, committee system improvement, and coordination between legislature and executive as priorities for the Haryana Legislative Assembly.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "farmer_agriculture",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 66589,
       "title": "Casualty Of Punjab BJP's Kewal Singh Dhillion Move: Internal Cohesion",
@@ -54,7 +89,6 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
         "JP Nadda"
       ],
       "states_mentioned": [
@@ -5457,30 +5491,6 @@
         "infrastructure",
         "health",
         "education"
-      ]
-    },
-    {
-      "id": 59329,
-      "title": "Punjab govt lifts market closure timing restrictions until June 1 - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2000486/punjab-govt-lifts-market-closure-timing-restrictions-until-june-1",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/15184805b387467.webp",
-      "scraped_at": "2026-05-15 15:45:04.778466",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Punjab government",
-      "rephrased_article": "The **Punjab** government has lifted the 8pm business closure restriction for markets, shopping malls, and other businesses until June 1st. The decision follows protests from traders and public groups who argued that the earlier closure times were detrimental to their businesses and daily life.  However, the federal government's energy conservation measures remain in effect, with all markets closing by 8pm throughout the week.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "health",
-        "protest_opposition"
       ]
     }
   ]

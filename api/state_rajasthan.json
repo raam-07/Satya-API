@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 20:02:57.158293",
+  "generated_at": "2026-06-07 21:24:36.149867",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 262,
-    "articles_last_30d": 152
+    "total_articles": 266,
+    "articles_last_30d": 156
   },
   "top_cities_30d": {
-    "Delhi": 49,
+    "Delhi": 50,
+    "Jaipur": 21,
     "Bengaluru": 21,
-    "Jaipur": 18,
     "Ahmedabad": 16,
     "Mumbai": 14,
     "Chennai": 11,
@@ -24,18 +24,125 @@
     "Ludhiana": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 107,
-    "education": 32,
+    "foreign_policy": 111,
+    "education": 34,
     "crime_violence": 26,
     "infrastructure": 25,
     "economy": 21,
-    "protest_opposition": 16,
+    "protest_opposition": 17,
     "political_gaffe": 14,
     "health": 13,
     "farmer_agriculture": 11,
     "corruption_scam": 9
   },
   "recent_articles": [
+    {
+      "id": 66640,
+      "title": "Sharp spin at 90 kph: Manav Suthar teases India's spin future in New Chandigarh",
+      "url": "https://indianexpress.com/article/sports/cricket/manav-suthar-sharp-spin-90kph-india-future-afg-test-10728519/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Manav-Suthar.jpg",
+      "scraped_at": "2026-06-07 20:16:57.312779",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Cricket Team",
+      "rephrased_article": "**India** declared their first innings at 567 for eight after 127 overs, with **Shubman Gill** scoring a century and **Mohammed Siraj** taking three wickets.  **Manav Suthar**, a debutant left-arm spinner from Rajasthan, took three wickets for India. **Mohammad Saleem**, making his return to international cricket after two years, claimed six wickets for Afghanistan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Rajasthan",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66629,
+      "title": "This palace in Rajasthan has been underwater for 200 years",
+      "url": "https://indianexpress.com/article/world/bhutan-earthquake-magnitude-gfz-depth-tremors-10728773/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/jal-mahal.jpg",
+      "scraped_at": "2026-06-07 20:16:31.722554",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Jal Mahal",
+      "rephrased_article": "**Jal Mahal**, a palace located in the middle of Man Sagar Lake in Jaipur, Rajasthan, is a testament to Indo-Saracenic architecture.  Built in 1699 and renovated in the 18th century, the palace's top floor is visible above water, creating the illusion of floating on the lake. The **Jai Mahal Palace**, now owned by the **Taj Hotels Group**, offers accommodations, fine dining options, and a spa. The palace is a popular tourist destination and serves as a symbol of Jaipur's rich history and culture.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66627,
+      "title": "\"Sachin Pilot Should Forgive, Forget\": Ashok Gehlot Talks Of 2022 Stand-Off",
+      "url": "https://www.ndtv.com/india-news/sachin-pilot-should-forgive-forget-ashok-gehlot-talks-of-2022-stand-off-11604566#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-12/7196ns2k_ashok-gehlot-sachin-pilot_625x300_02_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 20:16:30.545572",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Sachin Pilot",
+      "rephrased_article": "**Ashok Gehlot** denied revolting against the **Congress** high command, stating that the rebellion of 100 MLAs was directed at **Sachin Pilot**.  He claimed that the September 25, 2022 incident was against Pilot who was being considered as the next Chief Minister. Sources suggest the party may replace **Govind Singh Dotasara** and reinstate **Sachin Pilot**, but no official confirmation has been made. The situation remains tense in Rajasthan with Gehlot expressing personal affection for Pilot while criticizing his political advisors.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Ashok Gehlot"
+      ],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 66622,
+      "title": "This palace in Rajasthan has been underwater for 200 years",
+      "url": "https://indianexpress.com/article/lifestyle/destination-of-the-week/jaipur-rajasthan-underwater-history-of-jal-mahal-palace-10721625/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/jal-mahal.jpg",
+      "scraped_at": "2026-06-07 20:16:15.530824",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Jal Mahal",
+      "rephrased_article": "**Jal Mahal**, a palace in the middle of Man Sagar Lake, is a landmark in Rajasthan known for its Indo-Saracenic architecture and unique submerged structure.  The palace was originally built in 1699 and later renovated by **His Highness Jai Singh II**. Today, it is operated as a heritage destination by the **Taj Hotels Group** offering accommodations, dining options, and spa services. The hotel is located in Jaipur's historic center and is near other famous landmarks like Hawa Mahal, Amber Fort, and City Palace.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66595,
       "title": "There was no revolt against party high command in September 2022, says Congress veteran Ashok Gehlot - The Hindu",
@@ -113,15 +220,12 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Arvind Kejriwal",
-        "Kejriwal",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu",
@@ -5743,140 +5847,6 @@
       ],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 50655,
-      "title": "Markets in Kochi come alive with Vishu buzz - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/markets-in-kochi-come-alive-withvishubuzz/article70854665.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/74ub73/article70854975.ece/alternates/LANDSCAPE_1200/Vishu02.JPG",
-      "scraped_at": "2026-04-12 19:26:08.383109",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "None",
-      "rephrased_article": "**Resmi Balakrishnan's** family has maintained a tradition of sharing yellow flowers from their 'Kanikonna' tree with neighbors and strangers on the day before Vishu. **Mr. Rathore**, a wayside seller, reports increased sales of Krishna idols in the city due to the festival.  The vegetable market is preparing for Vishu with festival-specific produce arriving at higher prices.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 50564,
-      "title": "Consolidated voters’ list of 12 States and UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
-      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-12-states-and-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
-      "scraped_at": "2026-04-12 13:26:11.869691",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls, which saw a significant reduction in voter numbers across nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by West Bengal with 83.86 lakh.  The revision identified 67 lakh deceased voters and 1.28 crore duplicate voters for removal. The consolidated electoral rolls across these regions saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 50153,
-      "title": "Voters' lists in 12 States, Union Territories shrink by over 6 crore post SIR - The Hindu",
-      "url": "https://www.thehindu.com/news/national/voters-lists-in-12-states-union-territories-shrink-by-over-6-crore-post-sir/article70850161.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/gbnk9n/article70850174.ece/alternates/LANDSCAPE_1200/6607_10_4_2026_16_28_27_1_10_04_UPCEOSIRPCLUCKNOW_A.JPG",
-      "scraped_at": "2026-04-11 06:11:01.951751",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**The Election Commission of India** announced that the combined voters' list for nine states and three union territories has decreased by nearly 6.08 crore after the completion of the Special Intensive Revision (SIR) exercise on Friday, April 10, 2026. The final electoral rolls for Uttar Pradesh, West Bengal, Tamil Nadu, Rajasthan, Chhattisgarh, Kerala, Puducherry, the Andaman and Nicobar Islands, Lakshadweep, Gujarat, Madhya Pradesh, and Goa have been published.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Chhattisgarh",
-        "Gujarat",
-        "Kerala",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Puducherry",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 50126,
-      "title": "Focus on innovation and entrepreneurship in farm sector through agritech meet in Rajasthan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/focus-on-innovation-and-entrepreneurship-in-farm-sector-through-agritech-meet-in-rajasthan/article70848059.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/wo43dy/article70848200.ece/alternates/LANDSCAPE_1200/gram_1.jpeg",
-      "scraped_at": "2026-04-11 02:42:04.136140",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Mr. Sharma",
-      "rephrased_article": "**Chief Minister Bhajan Lal Sharma** and other policymakers, industry leaders, and experts gathered for the curtain-raiser event of the upcoming **Global Rajasthan Agritech Meet (GRAM)** 2026 in Jaipur. The three-day event, scheduled from May 23 to 25, aims to promote innovation, technology, entrepreneurship, and collaborative efforts within the agriculture sector.  **Mr. Sharma** highlighted the importance of modern irrigation techniques and emphasized the need for farmers to adopt sustainable practices while promoting self-reliance in agriculture. **Mr. Sharma** also announced the deployment of ‘raths’ to disseminate information about GRAM-2026 and gather farmer feedback.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Jaipur"
-      ],
-      "topic_tags": [
-        "farmer_agriculture",
-        "crime_violence"
       ]
     }
   ]

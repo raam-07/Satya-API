@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 20:02:57.126530",
+  "generated_at": "2026-06-07 21:24:36.118925",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 442,
-    "articles_last_30d": 214
+    "total_articles": 443,
+    "articles_last_30d": 215
   },
   "top_cities_30d": {
     "Mumbai": 69,
     "Delhi": 56,
     "Pune": 43,
     "Nashik": 15,
-    "Nagpur": 12,
+    "Nagpur": 13,
     "Thane": 11,
     "Bengaluru": 11,
     "Kolkata": 11,
@@ -24,8 +24,8 @@
     "Ahmedabad": 8
   },
   "top_topics_30d": {
-    "foreign_policy": 151,
-    "crime_violence": 57,
+    "foreign_policy": 152,
+    "crime_violence": 58,
     "education": 55,
     "infrastructure": 46,
     "economy": 40,
@@ -36,6 +36,32 @@
     "rape_sexual_crime": 12
   },
   "recent_articles": [
+    {
+      "id": 66637,
+      "title": "Nagpur boys steal Rs 11-lakh luxury taps to buy iPhones for girlfriends | Trending News - The Indian Express",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/nagpur-boys-steal-rs-11-lakh-luxury-taps-to-buy-iphones-for-girlfriends-10728562/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Nagpur-theft-iPhone-girlfriend.jpg",
+      "scraped_at": "2026-06-07 20:16:52.596543",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**Three boys** from Nagpur, India, were apprehended for stealing over Rs 11 lakh worth of luxury sanitary fittings from a warehouse owned by **Rahul Jaichand Brahma**. The incident occurred on May 27 and 28, with the boys allegedly entering the warehouse through a cut roof to steal premium agricultural and household taps. They admitted to the theft to purchase iPhones for their girlfriends, according to police.  The stolen items have been recovered, and the investigation is ongoing.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66615,
       "title": "MEIL-led Zojila tunnel set for final breakthrough on June 9 - The Hindu",
@@ -5728,30 +5754,6 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 58724,
-      "title": "Over ₹1 crore cash, AK-47 rifles recovered from Maoist hideouts, say police - The Hindu",
-      "url": "https://www.thehindu.com/news/national/chhattisgarh/over-1-crore-cash-ak-47-rifles-recovered-from-maoist-hideouts-say-police/article70970806.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jykk1o/article70971480.ece/alternates/LANDSCAPE_1200/PTI05_12_2026_000441B.jpg",
-      "scraped_at": "2026-05-13 00:09:44.792881",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Maoist",
-      "rephrased_article": "**Police** in **Narayanpur district**, **Chhattisgarh**, have recovered over ₹1.01 crore in cash and a significant amount of arms and ammunition, including AK-47 and SLR rifles, from former Maoist hideouts or dumps in the past month.  The largest recovery was made on May 9th at Nelangur village near the Chhattisgarh-Maharashtra border, where ₹84 lakh in cash was found alongside two AK-47 rifles.",
-      "party_mentioned": [
-        "SP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Chhattisgarh",
-        "Maharashtra"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

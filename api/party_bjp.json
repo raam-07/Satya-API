@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 20:02:56.933768",
+  "generated_at": "2026-06-07 21:24:35.939640",
   "party": "BJP",
   "full_name": "Bharatiya Janata Party",
   "ideology": "Hindu nationalism, right-wing",
@@ -26,11 +26,11 @@
   ],
   "color": "#FF9933",
   "stats": {
-    "total_articles": 2437,
-    "articles_last_30d": 967,
+    "total_articles": 2442,
+    "articles_last_30d": 968,
     "sentiment_breakdown_30d": {
-      "positive": 336,
-      "neutral": 244,
+      "positive": 338,
+      "neutral": 243,
       "negative": 387
     }
   },
@@ -137,6 +137,13 @@
       "name": "Kiren Rijiju",
       "role": "Parliamentary Affairs Minister",
       "state": "Arunachal Pradesh",
+      "criminal_cases": 0,
+      "criminal_cases_in_news": 0
+    },
+    {
+      "name": "G. Kishan Reddy",
+      "role": "Union Minister for Coal & Mines",
+      "state": null,
       "criminal_cases": 0,
       "criminal_cases_in_news": 0
     },
@@ -572,6 +579,114 @@
   ],
   "recent_articles": [
     {
+      "id": 66640,
+      "title": "Sharp spin at 90 kph: Manav Suthar teases India's spin future in New Chandigarh",
+      "url": "https://indianexpress.com/article/sports/cricket/manav-suthar-sharp-spin-90kph-india-future-afg-test-10728519/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Manav-Suthar.jpg",
+      "scraped_at": "2026-06-07 20:16:57.312779",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Cricket Team",
+      "rephrased_article": "**India** declared their first innings at 567 for eight after 127 overs, with **Shubman Gill** scoring a century and **Mohammed Siraj** taking three wickets.  **Manav Suthar**, a debutant left-arm spinner from Rajasthan, took three wickets for India. **Mohammad Saleem**, making his return to international cricket after two years, claimed six wickets for Afghanistan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Rajasthan",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66635,
+      "title": "‘AI platform to connect Parliament, Assemblies’: Haryana Speaker Harvinder Kalyan | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/chandigarh/haryana-speaker-harvinder-kalyan-conference-parliament-ai-platform-10728616/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Harvinder-Kalyan.jpg",
+      "scraped_at": "2026-06-07 20:16:44.789230",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Haryana Legislative Assembly",
+      "rephrased_article": "**Sukhbir Siwach**, a journalist, has extensively covered farmer agitation against three farm laws. **Om Birla**, the Lok Sabha Speaker, will inaugurate the North Zone Conference of the Commonwealth Parliamentary Association (CPA) in Chandigarh from June 8 to 10. The conference focuses on strengthening democratic institutions and addressing future challenges through collaboration among legislatures and an informed society.  The conference aims to connect Parliament and State Assemblies through a common AI-enabled digital platform, facilitating knowledge sharing and best practices across states. **Harvinder Kalyan**, the Haryana Assembly Speaker, highlights the importance of capacity building, research support, committee system improvement, and coordination between legislature and executive as priorities for the Haryana Legislative Assembly.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Haryana",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "farmer_agriculture",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66634,
+      "title": "PM congratulates Major Abhilasha Barak for receiving UN Military Gender Advocate of the Year Award | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/pm-congratulates-major-abhilasha-barak-for-receiving-un-military-gender-advocate-of-the-year-award-10728619/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/major-abhilasha-modi.jpg",
+      "scraped_at": "2026-06-07 20:16:42.241916",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Major Abhilasha Barak",
+      "rephrased_article": "**Prime Minister Narendra Modi** congratulated **Major Abhilasha Barak**, the first woman combat helicopter pilot in the **Indian Army**, on receiving the UN Military Gender Advocate of the Year Award.  The award recognizes Major Barak's outreach efforts and community engagement activities for women and adolescent girls, as well as her gender sensitization training for peacekeepers. She has been serving with the **United Nations Interim Force in Lebanon (UNIFIL)** since June 2025 and is currently an Engagement Team Commander and Gender Focal Point within the mission.  The award follows previous recipients from India, Major Suman Gawani and Major Radhika Sen.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66623,
+      "title": "How A Bid To Help Iran Left Two Indian Brothers In Detention In Saudi Arabia",
+      "url": "https://www.ndtv.com/india-news/how-a-bid-to-help-iran-left-two-indian-brothers-in-detention-in-saudi-arabia-11604539#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/s0j98f08_iran_625x300_07_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 20:16:18.265154",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Saudi Government",
+      "rephrased_article": "**Mohammad Rahib** and **Mohammad Zafar**, two Indian nationals from Uttar Pradesh, were detained by **Saudi** police in Dammam after sending money to the Iranian embassy's bank account.  Their family has not received any information about their whereabouts since March 30th. The brothers' father, Hassan Abbas, appealed to **External Affairs Minister S Jaishankar**, while the All India Shia Personal Law Board (AIMPLB) raised the issue with **Defence Minister Rajnath Singh**. The Indian Embassy in Riyadh is also investigating the situation and awaiting further information from the **Saudi Foreign Ministry**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rajnath Singh",
+        "S. Jaishankar"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 66617,
       "title": "4,800 illegal infiltrators deported to Bangladesh, says Bengal CM Suvendu - The Hindu",
       "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-suvendu-on-illegal-infiltrators-deported-to-bangladesh/article71073344.ece",
@@ -682,10 +797,8 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
-        "S. Jaishankar",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Delhi"
@@ -713,8 +826,7 @@
         "BJP"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Jharkhand"
@@ -776,7 +888,6 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
         "JP Nadda"
       ],
       "states_mentioned": [
@@ -808,9 +919,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Uttar Pradesh"
@@ -834,8 +943,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Delhi"
@@ -892,7 +1000,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -967,9 +1075,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -1017,8 +1123,7 @@
         "Telugu Desam"
       ],
       "ministers_mentioned": [
-        "Chandrababu Naidu",
-        "Naidu"
+        "Chandrababu Naidu"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -1046,10 +1151,8 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
-        "Stalin",
+        "M.K. Stalin",
         "Pinarayi Vijayan",
         "Farooq Abdullah"
       ],
@@ -1270,15 +1373,12 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Arvind Kejriwal",
-        "Kejriwal",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [
         "Tamil Nadu",
@@ -5876,124 +5976,6 @@
       "topic_tags": [
         "crime_violence",
         "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65423,
-      "title": "Putin Calls India Reliable Partner, Slams \"Detrimental\" Western Interference",
-      "url": "https://www.ndtv.com/world-news/putin-calls-india-reliable-partner-slams-detrimental-western-interference-11593017#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2025-11/652akph8_putin-modi-afp_625x300_28_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-04 21:01:07.372539",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Russia",
-      "rephrased_article": "**Vladimir Putin** stated that **India** is a reliable partner and the two nations will continue to deepen their economic and diplomatic relations. He praised India's economic growth, stating it is one of the world's leading economies with impressive rates of growth.  **Putin** expressed confidence that bilateral trade between the two countries will reach $100 billion soon. **Putin** also asserted that Western attempts to pressure **India** into scaling back its cooperation with Russia are futile and damaging to global stability.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65420,
-      "title": "Bengal Ex-Minister's Brother Arrested Over Extortion Charges In Kolkata",
-      "url": "https://www.ndtv.com/india-news/bengal-minister-aroop-biswas-brother-held-on-extortion-charges-in-kolkata-11592955#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/9d8m3e3_swarup-biswas_625x300_04_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-04 21:00:56.289058",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Swarup Biswas",
-      "rephrased_article": "**Swarup Biswas**, brother of former West Bengal Sports Minister **Aroop Biswas**, was arrested by **Kolkata Police** on Thursday night in connection with allegations of extortion against technicians from the Bengali film industry. The arrest followed a complaint filed by a female make-up artist who alleged that **Swarup Biswas** had conspired to prevent her from receiving makeup assignments and extorted money from her through intimidation.  The case is being investigated at New Alipore Police Station, and **Swarup Biswas** will be produced before a lower court in Kolkata on Friday.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 65416,
-      "title": "Congress Picks Ex-MP, BJP 2 Top Leaders For Rajya Sabha From Madhya Pradesh",
-      "url": "https://www.ndtv.com/india-news/bjp-picks-chugh-agarwal-congress-bets-on-meenakshi-natarajan-as-rajya-sabha-battle-moves-beyond-numbers-11593014#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/etc035bk_madhya-pradesh-rajya-saha_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-04 21:00:33.423417",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Congress** nominated former Mandsaur MP Meenakshi Natarajan for the Rajya Sabha seat vacated by Digvijaya Singh. The **BJP** has fielded Tarun Chugh and Rajneesh Agarwal, with the potential for a third candidate to influence the closely contested election in Madhya Pradesh.  While the BJP is expected to win two seats comfortably, the Congress appears poised to retain one.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh",
-        "Punjab",
-        "Telangana",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "political_gaffe"
-      ]
-    },
-    {
-      "id": 65415,
-      "title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
-      "url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3ck5jf/article71062777.ece/alternates/LANDSCAPE_1200/18_BJP_Delegation_11_03_Delhi.jpg",
-      "scraped_at": "2026-06-04 21:00:28.253561",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Rahul Gandhi",
-      "rephrased_article": "The **Bharatiya Janata Party (BJP)** accused **Rahul Gandhi** of promoting fear and baseless conspiracy theories about the Indian economy and institutions.  **Amit Malviya**, BJP IT Cell head, countered that Mr. Gandhi's claims about an \"economic tsunami\" and a collapsing system were unfounded. He highlighted India's resilience in the face of global challenges, citing strong reserves, low inflation, and robust economic indicators.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "UPA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "political_gaffe",
         "foreign_policy"
       ]
     }
