@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 15:11:06.635937",
+  "generated_at": "2026-06-07 20:02:57.219900",
   "state": "Ladakh",
   "capital": "Leh",
   "ruling_party": "Central Govt",
@@ -8,15 +8,16 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 71,
-    "articles_last_30d": 38
+    "total_articles": 73,
+    "articles_last_30d": 39
   },
   "top_cities_30d": {
-    "Delhi": 14,
+    "Delhi": 13,
     "Srinagar": 5,
     "Coimbatore": 2,
     "Ludhiana": 1,
-    "Amritsar": 1
+    "Amritsar": 1,
+    "Hyderabad": 1
   },
   "top_topics_30d": {
     "foreign_policy": 25,
@@ -24,11 +25,60 @@
     "economy": 8,
     "crime_violence": 6,
     "protest_opposition": 6,
-    "infrastructure": 4,
+    "infrastructure": 5,
     "political_gaffe": 3,
     "health": 1
   },
   "recent_articles": [
+    {
+      "id": 66615,
+      "title": "MEIL-led Zojila tunnel set for final breakthrough on June 9 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/meil-led-zojila-tunnel-set-for-final-breakthrough-on-june-9/article71073829.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-07 18:52:20.155255",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Megha Engineering & Infrastructure Ltd. (MEIL)** and the **National Highways & Infrastructure Development Corporation Ltd. (NHIDCL)** are set to celebrate a key milestone with the final breakthrough of the Zojila Tunnel scheduled for June 9th. The tunnel, spanning 13.153 km and connecting Jammu & Kashmir and Ladakh, will provide all-weather connectivity at an elevation of 11,578 feet above sea level. **Union Minister for Road Transport and Highways Nitin Gadkari** is expected to attend the ceremony.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66576,
+      "title": "Kargil seminary wants new liquor policy shelved, warns of protests - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh/kargil-seminary-wants-new-liquor-policy-shelved-warns-of-protests/article71073760.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/f1rpxo/article71074166.ece/alternates/LANDSCAPE_1200/20260518469L.jpg",
+      "scraped_at": "2026-06-07 18:50:24.857898",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Lieutenant Governor’s administration",
+      "rephrased_article": "**The Jamiat Ul Ulama Isna Asharia Kargil (JUIAK)**, a prominent seminary in Ladakh's Kargil region, has threatened protests if the **Lieutenant Governor’s administration** does not withdraw its new excise policy. The organization argues that promoting liquor sales is against Ladakhi culture and values, and will have negative consequences for younger generations.  **JUIAK** leaders are meeting with the **Lieutenant Governor** to demand a complete ban on liquor in the region.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66276,
       "title": "CJP founder applied for permission at Delhi airport, got it within minutes - The Hindu",

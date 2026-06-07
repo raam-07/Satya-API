@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 15:11:06.528161",
+  "generated_at": "2026-06-07 20:02:57.118331",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 193,
+    "total_articles": 194,
     "articles_last_30d": 106
   },
   "top_cities_30d": {
-    "Delhi": 32,
+    "Delhi": 31,
     "Bhopal": 30,
-    "Indore": 7,
+    "Indore": 8,
     "Mumbai": 7,
     "Bengaluru": 5,
     "Pune": 4,
@@ -27,15 +27,40 @@
     "foreign_policy": 78,
     "crime_violence": 35,
     "education": 31,
-    "health": 17,
-    "economy": 16,
+    "health": 18,
+    "economy": 17,
     "rape_sexual_crime": 16,
-    "protest_opposition": 12,
     "infrastructure": 11,
+    "protest_opposition": 11,
     "political_gaffe": 9,
     "farmer_agriculture": 8
   },
   "recent_articles": [
+    {
+      "id": 66473,
+      "title": "No Staff, No Ambulance: Indore Couple Carries 12-year-old Son On Stretcher Between government Hospitals In Heat",
+      "url": "https://www.ndtv.com/india-news/no-staff-no-ambulance-indore-couple-carries-12-year-old-son-on-stretcher-between-government-hospitals-in-heat-11602754#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/nr4umulk_mp-hospital-_625x300_07_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 14:03:16.435027",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "MY Hospital",
+      "rephrased_article": "In Indore, **parents** of a 12-year-old child were forced to push his stretcher for nearly a kilometer between **MY Hospital** and the Super Speciality Hospital under scorching heat. The child was referred for a spinal issue but denied admission at the Super Speciality Hospital.  **Dr Ashok Yadav**, Superintendent of **MY Hospital**, confirmed the incident, while **Dr Piyush Panchariya**, In-charge Superintendent of the Super Speciality Hospital, is investigating the matter and its connection to the referral. This incident follows other controversies involving patient handling failures at **MY Hospital**, including instances of staff negligence and alleged rat infestations in the NICU.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Indore"
+      ],
+      "topic_tags": [
+        "economy",
+        "health",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66429,
       "title": "Dead Snake Found In Food Packet Given To Pregnant Woman At Madhya Pradesh Anganwadi Centre",

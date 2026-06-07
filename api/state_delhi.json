@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 15:11:06.622739",
+  "generated_at": "2026-06-07 20:02:57.207199",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,340 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1264,
-    "articles_last_30d": 700
+    "total_articles": 1277,
+    "articles_last_30d": 712
   },
   "top_cities_30d": {
-    "Delhi": 694,
-    "Mumbai": 71,
+    "Delhi": 706,
+    "Mumbai": 73,
     "Bengaluru": 52,
-    "Kolkata": 40,
-    "Hyderabad": 31,
-    "Chennai": 28,
-    "Jaipur": 16,
-    "Pune": 15,
+    "Kolkata": 42,
+    "Hyderabad": 32,
+    "Chennai": 29,
+    "Jaipur": 17,
+    "Pune": 16,
     "Kanpur": 15,
-    "Lucknow": 14
+    "Ahmedabad": 14
   },
   "top_topics_30d": {
-    "foreign_policy": 511,
-    "crime_violence": 221,
-    "education": 145,
-    "economy": 138,
-    "protest_opposition": 132,
+    "foreign_policy": 520,
+    "crime_violence": 224,
+    "education": 147,
+    "economy": 139,
+    "protest_opposition": 133,
+    "infrastructure": 70,
     "corruption_scam": 68,
-    "infrastructure": 67,
     "health": 38,
-    "political_gaffe": 27,
+    "political_gaffe": 29,
     "farmer_agriculture": 21
   },
   "recent_articles": [
+    {
+      "id": 66607,
+      "title": "After TMC MLAs, MPs may be next: Mamata lands in Delhi amid fears of a repeat in Parliament | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/tmc-split-crisis-mamata-banerjee-delhi-rebel-mps-lok-sabha-10728675/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Mamata-Banerjee-2_20260607155645.jpg",
+      "scraped_at": "2026-06-07 18:52:03.328004",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "**Mamata Banerjee**, the **TMC** chief, arrived in Delhi to meet with **Arvind Kejriwal** and discuss the future of the INDIA bloc.  She is facing a potential split within her party as some MPs are reportedly dissatisfied with **Abhishek Banerjee**, the parliamentary party leader. Sources indicate that a section of MPs may approach Lok Sabha Speaker Om Birla on Monday, while others are in contact with him to explore options. The rebels have confidence that 20 MPs will join them, but **Mamata** believes at least 16 MPs will remain loyal to her.",
+      "party_mentioned": [
+        "Congress",
+        "AAP",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 66604,
+      "title": "India, Indonesia discuss PM Modi’s Jakarta visit, deepen cooperation in defence, maritime security | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/s-jaishankar-indonesia-foreign-minister-sugiono-modi-jakarta-10728687/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/jaishankar-Sugiono.jpg",
+      "scraped_at": "2026-06-07 18:51:57.655422",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**S Jaishankar** and **Sugiono**, the Indonesian Foreign Minister, co-chaired the 8th India-Indonesia Joint Commission Meeting in New Delhi on Sunday. The two leaders discussed strengthening cooperation in defense, maritime security, digital connectivity, infrastructure, trade, and people-to-people exchanges. They also agreed to deepen ties through a possible visit by **Prime Minister Narendra Modi** to Jakarta next month.  The meeting reaffirmed the Comprehensive Strategic Partnership between the two nations, which was bolstered by discussions between President Prabowo Subianto and **PM Modi**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "S. Jaishankar",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66602,
+      "title": "Wildlife sanctuaries to visit in and around Delhi this summer vacation | Pets-animals News - The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/pets-animals/wildlife-sanctuaries-to-visit-in-and-around-delhi-this-summer-vacation-10701157/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/04/IE-Image-2026-04-18T212333.163.jpg",
+      "scraped_at": "2026-06-07 18:51:54.300210",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "none",
+      "rephrased_article": "**Delhi** offers several wildlife sanctuaries that provide a respite from the city's hustle and bustle. **Bhindawas**, located near Delhi-Haryana border, is known for its diverse bird population and scenic landscapes, while **Surajpur Bird Sanctuary** boasts a calm lake ecosystem with impressive avian diversity.  **Delhi Zoo**, situated near Purana Qila, provides an accessible wildlife experience for families and children. These sanctuaries cater to various interests, from birdwatching to photography and trekking, offering unique opportunities to reconnect with nature.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66601,
+      "title": "Zverev makes belated Grand Slam breakthrough after five-set win over Cobolli",
+      "url": "https://indianexpress.com/article/sports/tennis/alexander-zverev-defeats-flavio-cobolli-maiden-grand-slam-french-open-10728677/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Zverev-4.jpg",
+      "scraped_at": "2026-06-07 18:51:52.575431",
+      "category": "sports",
+      "sentiment": "positive",
+      "sentiment_target": "Alexander Zverev",
+      "rephrased_article": "**Namit Kumar**, a Senior Sports Correspondent for **The Indian Express**, is known for his in-depth reporting on various sports, including cricket, football, and tennis. His recent work has focused on international cricket series, domestic tournaments, and major tennis events like the US Open.  He provides detailed match reports and analyses of key players and strategies, often highlighting technical aspects of the sport. **Kumar** also covers the Delhi sports scene, reporting on local matches and events such as the DP World India Championship golf event.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 66592,
+      "title": "Congress Bags TVK's First Rajya Sabha Seat. DMK Responds With Jibe",
+      "url": "https://www.ndtv.com/india-news/congress-bags-tvks-first-rajya-sabha-seat-dmk-responds-with-jibe-11604175#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/pn3mucmo_rahul-gandhi-vijay_625x300_10_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 18:51:28.310998",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**TVK**, led by Chief Minister Vijay, has offered its first Rajya Sabha seat to the **Congress** party in Tamil Nadu as a gesture of gratitude for their support. This move comes after the DMK officially exited the INDIA alliance citing dissatisfaction with **Congress**'s post-election behavior. Despite this, both parties are keen on maintaining a long-term alliance. The DMK has criticized **TVK** for not opposing the BJP directly and believes the party is avoiding confrontation.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66583,
+      "title": "Nigerian National Dies Due To Burns From Delhi Hotel Fire, Death Count At 22",
+      "url": "https://www.ndtv.com/india-news/nigerian-national-dies-due-to-burns-from-delhi-hotel-fire-death-count-at-22-11604498#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/dqprljo4_image_160x120_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 18:50:39.947943",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "hotel owner",
+      "rephrased_article": "A Nigerian national, Okale, who was injured in a Delhi hotel fire that killed 21 people, died from his injuries on Saturday. **Okale** sustained severe burn injuries and was initially treated at Max Hospital before being transferred to the burn ward of Safdarjung Hospital. The Delhi Police have arrested the hotel owner and cook, alleging negligence may have caused the fire.  The investigation is focusing on safety violations, unauthorized room expansion, and lapses in fire safety measures.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66582,
+      "title": "S Jaishankar And Indonesia's Foreign Minister Hold Key Bilateral",
+      "url": "https://www.ndtv.com/world-news/s-jaishankar-and-indonesias-foreign-minister-hold-key-bilateral-11604519#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/7jr8csfg_indonesia_625x300_07_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 18:50:28.906611",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** and **Indonesia** held their 8th Joint Commission Meeting in New Delhi to strengthen their Comprehensive Strategic Partnership.  **External Affairs Minister S Jaishankar** and **Indonesian Foreign Minister Sugiono** co-chaired the meeting, which covered a wide range of topics including defense, trade, maritime affairs, health, digital infrastructure, and education. The meeting aimed to produce tangible outcomes from discussions on political ties, security cooperation, and economic collaboration ahead of Prime Minister Modi's anticipated visit to Jakarta next month.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Jaishankar"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66570,
+      "title": "Fire breaks out at house in New Friends Colony; 8 rescued, 2 pets killed | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/fire-nfc-8-rescued-2-pets-killed-10728699/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/nfc-fire.jpg",
+      "scraped_at": "2026-06-07 17:24:17.799077",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Delhi Fire Services",
+      "rephrased_article": "**Eight** people, including four children, were rescued from a fire that broke out in a residential building in South Delhi's New Friends Colony on Sunday afternoon.  The **Delhi Fire Services (DFS)** responded to the blaze, which started on the first floor due to a malfunctioning air-conditioner unit. Two pet dogs trapped inside the building died as a result of smoke inhalation. The fire was extinguished within half an hour and all residents escaped unharmed.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66545,
+      "title": "‘If he made mistake, he should admit it’: Gehlot’s remarks on Pilot marks latest chapter in Rajasthan Congress drama | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/ashok-gehlot-sachin-pilot-rajasthan-congress-manesar-rebellion-pcc-chief-10728631/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Ashok-Gehlot-Sachin-Pilot-Congress-Rajasthan.jpg",
+      "scraped_at": "2026-06-07 15:54:18.216245",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Sachin Pilot",
+      "rephrased_article": "**Ashok Gehlot**, former Chief Minister of Rajasthan, addressed the ongoing controversy surrounding his relationship with **Sachin Pilot**. Gehlot stated that the 2022 incident was against Pilot himself and not against the party high command. He criticized Pilot's advisors for letting the issue persist and claimed that Pilot had not accepted the truth about their past disagreements. Gehlot expressed his affection for Pilot, highlighting their childhood bond but questioned who is guiding him in politics.  He also accused media of creating speculation about Pilot's future roles within the party.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Ashok Gehlot"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66543,
+      "title": "Delhi govt to induct 2,800 low-floor electric buses into city’s fleet under Centre’s PM E-DRIVE scheme | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-govt-to-induct-2800-low-floor-electric-buses-into-citys-fleet-under-centres-pm-e-drive-scheme-10728612/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/delhi-bus.jpg",
+      "scraped_at": "2026-06-07 15:54:14.431858",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Delhi Government",
+      "rephrased_article": "The **Delhi** government plans to induct 2,800 air-conditioned low-floor electric buses under the **PM E-DRIVE** scheme. The mix of nine-meter and twelve-meter buses will improve connectivity across the city, particularly in underserved areas.  This expansion aims to increase Delhi's electric bus fleet to nearly 7,500 by year end, as part of a long-term goal of reaching 14,000 buses by 2028-29. The government is also pursuing the induction of additional electric buses under the next phase of the **PM E-DRIVE** scheme.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Hyderabad",
+        "Chennai",
+        "Kolkata",
+        "Pune",
+        "Ahmedabad",
+        "Surat"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66540,
+      "title": "UPSC Essentials subject wise Quiz: International Relations (Week 165)",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-essentials-daily-subject-quiz-international-relations-week-165-10728643/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/United-Nations-General-Assembly.jpg",
+      "scraped_at": "2026-06-07 15:54:10.877332",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**Khalilur Rahman**, the 81st president of the United Nations General Assembly, was elected after a contested vote.  The Quadrilateral Security Dialogue, formed following the Indian Ocean tsunami in 2004, has expanded to include Australia and is focused on maritime security and geopolitical developments. India and Russia have signed agreements for the S-400 missile system, MiG-29 jets, and a lease agreement for Akula-class nuclear-powered attack submarines.  The Colombo Process is a regional consultative forum for managing foreign employment and workforce mobility in Asian countries.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66496,
       "title": "If Modi can stop wars, why can’t he stop paper leaks? Cockroach party’s Dipke targets PM | The Indian Express",
@@ -52,8 +358,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Delhi"
@@ -107,7 +412,6 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
         "Devendra Fadnavis"
       ],
       "states_mentioned": [
@@ -125,6 +429,75 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
+      ]
+    },
+    {
+      "id": 66459,
+      "title": "INDIA Bloc Meet Tomorrow, Mamata Banerjee Eyes Help From Frenemy Congress",
+      "url": "https://www.ndtv.com/india-news/india-bloc-meet-tomorrow-mamata-banerjee-eyes-help-from-frenemy-congress-11603497#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2023-07/j5iaj1lg_opposition-bengaluru-pti_625x300_18_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 14:02:23.600768",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "**Congress** leader Jairam Ramesh announced that 23 political parties will participate in the INDIA bloc's meeting tomorrow, with some parties declining attendance due to their own reasons. **DMK** and **AAP**, led by MK Stalin and Arvind Kejriwal respectively, are not attending due to political differences and recent alliance changes.  The meeting is being held at the Constitution Club in Delhi at the behest of **Trinamool Congress** leader Mamata Banerjee who needs support from the bloc to fight the BJP in Bengal.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66458,
+      "title": "Tunnel To Connect Delhi And Noida Airports? Inside Centre's Big Plan",
+      "url": "https://www.ndtv.com/india-news/tunnel-to-connect-delhi-and-noida-airports-inside-centres-big-plan-11603507#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/n12knvss_noida-airport_625x300_29_March_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 14:02:13.018745",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Union Ministry of Road Transport and Highways** and the **National Highways Authority of India (NHAI)** have initiated feasibility studies for a Noida-Delhi tunnel to reduce traffic congestion. The project, divided into two phases, will initially focus on a tunnel route from Talkatora Stadium to Gurugram via IGI Airport, with plans to extend it further to Sarai Kale Khan and connect to the Delhi-Mumbai Expressway.  The first phase aims to evaluate the feasibility of this route, while future phases will involve detailed project reports and construction planning.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
       ]
     },
     {
@@ -222,8 +595,8 @@
       "rephrased_article": "**Nepal's** Foreign Minister Shishir Khanal visited **India** to strengthen bilateral ties amid a recent boundary row controversy. He emphasized a mutually beneficial relationship, stating that no problem is too large if both sides sit down with an \"open heart.\"  Khanal also praised India's economic growth and expressed Nepal's desire to engage with India's technological advancements.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah",
-        "Jaishankar"
+        "Amit Shah",
+        "S. Jaishankar"
       ],
       "states_mentioned": [
         "Delhi"
@@ -5169,342 +5542,6 @@
         "foreign_policy",
         "protest_opposition",
         "crime_violence"
-      ]
-    },
-    {
-      "id": 64895,
-      "title": "‘Unrecognisable, everyone severely burnt’: Relatives rush to hospital after Delhi fire - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/parliamentary-exchange-programmes-aid-india-norway-bilateral-relations-sribharat/article71056064.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/7rclug/article71056341.ece/alternates/LANDSCAPE_1200/PTI06_03_2026_000130B.jpg",
-      "scraped_at": "2026-06-03 10:24:48.966876",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "**Max Hospital** in Saket was overwhelmed with grief-stricken relatives and friends searching for loved ones after a massive fire at a hotel in south Delhi's Malviya Nagar area. At least 21 people were confirmed dead, with **Namit Goel**, whose family members were staying at the hotel, struggling to identify his six relatives among the victims.  **Vivek**, another individual searching for his friend Sujita, reported difficulties identifying her amidst the chaos and uncertainty surrounding the cause of the fire. The fire broke out at the Flourish Stay bed-and-breakfast hotel in Hauz Rani, with authorities confirming 21 fatalities and over 40 rescues. An investigation is underway to determine the cause of the blaze.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64894,
-      "title": "Malviya Nagar Hotel Fire: \"We Can't Recognise Them\": Families Search For Loved Ones After Delhi Fire",
-      "url": "https://www.ndtv.com/india-news/malviya-nagar-hotel-fire-we-cant-recognise-them-families-search-for-loved-ones-after-delhi-fire-11585196#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/2lefqem8_delhi-hotel-fire-_625x300_03_June_26.jpeg",
-      "scraped_at": "2026-06-03 10:24:42.502776",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "**Grief-stricken relatives** and friends gathered at **Max Hospital** in Delhi after a deadly fire at a hotel in Malviya Nagar left at least 21 people dead.  The fire broke out at the Flourish Stay bed-and-breakfast, trapping occupants inside and causing severe burns to victims. While four bodies have been identified, two remain unidentified, leaving families in agonizing uncertainty. **Police officials** are investigating the cause of the blaze.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64893,
-      "title": "‘Unrecognisable, everyone severely burnt’: Relatives rush to hospital after Delhi fire - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/unrecognisable-everyone-severely-burnt-relatives-rush-to-hospital-after-delhi-fire/article71056295.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/7rclug/article71056341.ece/alternates/LANDSCAPE_1200/PTI06_03_2026_000130B.jpg",
-      "scraped_at": "2026-06-03 10:24:33.846545",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "**Max Hospital** in Saket was overwhelmed with relatives and friends of victims from the **Flourish Stay** bed-and-breakfast fire in south Delhi's Malviya Nagar area. At least 21 people died, and over 40 were rescued, with more than 20 brought to **Max Saket**.  Relatives struggled to identify their loved ones due to severe burns, while some like **Namit Goel** reported six family members among the deceased. **Vivek**, another victim's friend, was unable to locate his missing friend in photographs provided by police officials. An investigation is underway to determine the cause of the fire.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64887,
-      "title": "Foreign nationals among 21 dead in fire in Indian capital | Gallery News | Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/3/foreign-nationals-among-21-dead-in-new-delhi-building-fire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26154210653718-1780474508.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-06-03 10:24:17.757003",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "A fire in a multistorey building in New Delhi's Malviya Nagar neighborhood has claimed the lives of at least 21 people, including several foreign nationals who were visiting India for medical treatment. **Delhi police** responded with eight fire engines and rescued over 40 individuals trapped inside. The cause of the blaze is under investigation, but officials have noted that fires are a recurring issue in India due to lax building regulations and safety codes.  Prime Minister **Narendra Modi** expressed condolences and offered financial assistance to the families of the deceased.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64886,
-      "title": "Flourish Stay Hotel Fire: 20 Killed In Massive Fire At Delhi Restaurant In Malviya Nagar",
-      "url": "https://www.ndtv.com/india-news/micasa-inn-hotel-fire-20-killed-in-massive-fire-at-delhi-restaurant-in-malviya-nagar-11584430#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/9n4sg5cg_micasa-inn-hotel-fire_625x300_03_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-03 10:24:14.147871",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Lavkesh Bajaj",
-      "rephrased_article": "A fire broke out in the basement restaurant of a hotel in Delhi's Malviya Nagar, killing 21 people including foreign nationals. The fire spread to another hotel next door, Micasa Inn.  **PM Narendra Modi** and **Delhi Chief Minister Rekha Gupta** expressed condolences and announced financial aid for the victims and their families. **Lavkesh Bajaj**, owner of the Flourish Stay hotel, is facing scrutiny over the hotel's licensing and safety protocols.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64878,
-      "title": "Foreign Medical Tourists Were Staying At Delhi Hotel Where Fire Killed 21, Flourist Inn Hotel, Micasa Inn, Malviya Nagar hotel fire",
-      "url": "https://www.ndtv.com/india-news/foreign-medical-tourists-were-staying-at-delhi-hotel-where-fire-killed-21-florist-inn-hotel-micasa-inn-malviya-nagar-hotel-fire-11584932#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/j42hoi0o_delhi-fire_625x300_03_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-03 10:24:02.048681",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "A fire broke out in the basement restaurant of the **Florist Inn Hotel** in Delhi's Malviya Nagar, killing 21 people. The fire, which started around 8:50 am, was reported to have been caused by an electrical stove.  Over 40 people were rescued by firefighting units from the hotel and a neighboring hotel, **Micasa Inn**. The cause of the fire is under investigation.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64876,
-      "title": "Delhi hotel fire LIVE: At least 21 people killed, several foreigners among those dead - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/d-k-shivakumar-invites-siddaramaiah-bs-yediyurappa-hd-deve-gowda-to-swearing-in-ceremony-in-bengaluru/article71056508.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qhq4pj/article71056482.ece/alternates/LANDSCAPE_1200/photo-collage.png.png",
-      "scraped_at": "2026-06-03 10:23:50.108364",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "A devastating fire broke out at a hotel in Delhi's Malviya Nagar on Wednesday morning, resulting in the deaths of at least 21 people, including many foreign nationals. **Prime Minister Narendra Modi** announced financial aid for victims and rescue efforts were led by **Delhi Fire Services**. The cause of the fire is yet to be determined.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64874,
-      "title": "Peddi Movie Box Office Collection Prediction Day 1: Ram Charan's film earns Rs 35 cr worldwide",
-      "url": "https://indianexpress.com/article/entertainment/telugu/peddi-box-office-collection-prediction-day-1-ram-charans-rs-35-cr-10721627/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Ram-Charan-Peddi-box-office.jpg",
-      "scraped_at": "2026-06-03 10:23:48.250115",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Peddi",
-      "rephrased_article": "**Ram Charan**'s film \"Peddi\" has earned Rs 35 crore in its first day of advance bookings, with Rs 8.55 crores without block bookings and Rs 13.54 crores with block bookings. The action sports drama is scheduled for release on June 4th and has generated significant buzz despite a security breach at a promotional event in Vijayawada.  The film will be released in Hindi, Tamil, Telugu, Kannada, and Malayalam versions and has a total of 4248 shows across India.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Telangana",
-        "Delhi",
-        "Andaman"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64871,
-      "title": "Fire at New Delhi hotel kills at least 21 people | News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/fire-at-new-delhi-hotel-kills-at-least-21-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a1ff092095be-1780478098.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-06-03 10:23:41.787477",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "A fire at a hotel in New Delhi's Malviya Nagar neighborhood resulted in the deaths of at least 21 people, with over 40 others rescued and hospitalized.  **Delhi police** confirmed the tragic incident, stating that the blaze was extinguished with the help of eight fire engines. **Prime Minister Narendra Modi** expressed condolences for the victims and wished a speedy recovery to those injured. The cause of the fire is still under investigation but local officials suspect it may have originated from a restaurant on the ground floor.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64868,
-      "title": "Delhi Restautant Fire Live Updates Flourish Stay B&B Fire Live: 21 Killed In Delhi Hotel Fire, PM Modi Announces Rs 2 Lakh Compensation",
-      "url": "https://www.ndtv.com/india-news/delhi-fire-delhi-restautant-fire-micasa-inn-flourish-restaurant-20-killed-in-delhi-hotel-fire-pm-modi-announces-rs-2-lakh-compensation-11584599#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/j1ivtnvs_delhi-hotel-fire-micasa-inn_625x300_03_June_26.jpeg",
-      "scraped_at": "2026-06-03 10:23:37.631872",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Delhi Government",
-      "rephrased_article": "At least 21 people died in a fire at a hotel in Delhi's Malviya Nagar. The fire, which started in the basement and spread to the upper floors of the five-story building, was extinguished with the help of eight fire engines.  **Lovkesh Bajaj**, owner of the hotel, is on the run. **Delhi Police** are investigating the cause of the fire. **NDTV** reported that 37 people were rescued from the building and 17 fire tenders were deployed. The victims included foreign nationals who were in the city for medical treatment.  The Delhi government has announced compensation of Rs 2 lakh to the families of those killed and Rs 50,000 to those injured. **President Droupadi Murmu** expressed condolences over the tragedy.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Amit Shah",
-        "Rajnath Singh"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64866,
-      "title": "Malviya Nagar: At least 21 people killed in Delhi restaurant fire",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/89f0/live/0ba018f0-5f2b-11f1-9b94-1bf27e494d9e.png",
-      "scraped_at": "2026-06-03 10:23:34.903354",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "At least 21 people have been killed and several others injured in a fire that engulfed a multi-storey building in Delhi, **India**.  **Foreign nationals** from South Asian countries who were traveling to India for medical treatment or to accompany relatives undergoing care are among the victims. The cause of the fire is still unknown, but authorities are investigating whether the building had the necessary permissions to operate as a bed-and-breakfast facility. **Prime Minister Narendra Modi** expressed condolences and announced compensation for the families of those killed and injured.  Rescue operations are continuing at the site.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64862,
-      "title": "Delhi hotel fire LIVE: At least 21 people killed, several foreigners among those dead - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-malviya-nagar-restaurant-fire-live-updates-june-3-2026/article71056012.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/qhq4pj/article71056482.ece/alternates/LANDSCAPE_1200/photo-collage.png.png",
-      "scraped_at": "2026-06-03 10:23:30.455925",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "A devastating fire broke out at a hotel in Delhi's Malviya Nagar on Wednesday morning, killing at least 21 people and injuring over 40. **Prime Minister Narendra Modi** offered financial assistance to the victims, with ₹2 lakh for families of those killed and ₹50,000 for injured individuals. The cause of the fire is still under investigation.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64857,
-      "title": "Vedanta, Hindustan Zinc shares fall after metals giant confirms ED visits to offices - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-hindustan-zinc-shares-in-focus-after-metals-giant-confirms-ed-visits-to-offices/articleshow/131475129.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131475160,width-1200,height-630,imgsize-200624,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-06-03 05:31:02.007062",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "Vedanta Group",
-      "rephrased_article": "**Vedanta Group**, a company led by **Anil Agarwal**, stated that its offices and those of its subsidiary, **Hindustan Zinc**, were visited by officials from the **Enforcement Directorate (ED)** as part of a Foreign Exchange Management Act (FEMA) investigation. The company is cooperating with authorities and providing all requested information.  **Vedanta Group** also confirmed that proceedings are underway and reiterated its commitment to complying with applicable laws and regulations.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
       ]
     }
   ]

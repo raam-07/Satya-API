@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 15:11:06.520588",
+  "generated_at": "2026-06-07 20:02:57.110972",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1208,
-    "articles_last_30d": 402
+    "total_articles": 1219,
+    "articles_last_30d": 413
   },
   "top_cities_30d": {
-    "Delhi": 75,
+    "Delhi": 77,
     "Bengaluru": 33,
     "Chennai": 22,
     "Hyderabad": 20,
@@ -24,18 +24,245 @@
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 259,
-    "protest_opposition": 100,
-    "education": 97,
-    "crime_violence": 81,
-    "economy": 64,
-    "health": 39,
-    "infrastructure": 37,
+    "foreign_policy": 268,
+    "protest_opposition": 102,
+    "education": 100,
+    "crime_violence": 82,
+    "economy": 65,
+    "health": 40,
+    "infrastructure": 39,
     "corruption_scam": 34,
-    "political_gaffe": 28,
-    "farmer_agriculture": 19
+    "political_gaffe": 31,
+    "farmer_agriculture": 20
   },
   "recent_articles": [
+    {
+      "id": 66610,
+      "title": "How farming made Salim Kumar a ‘billionaire’ and earned even Mammootty’s praise | Malayalam News - The Indian Express",
+      "url": "https://indianexpress.com/article/entertainment/malayalam/salim-kumar-death-farming-philosophy-pokkali-cultivation-mammootty-tribute-agriculture-10728363/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/salim-kumar-death-farming-philosophy-pokkali-cultivation-mammootty-tribute-agriculture.jpg",
+      "scraped_at": "2026-06-07 18:52:07.773721",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Salim Kumar",
+      "rephrased_article": "**Salim Kumar**, a legendary actor from Kerala, passed away on June 6th.  Known for his comedic roles and outspoken political views, **Kumar** was deeply passionate about agriculture and actively practiced farming for many years. He believed that farming provided immense satisfaction and even claimed it could make someone a billionaire, earning praise from fellow actor **Mammootty**.  **Kumar** owned agricultural land in Kerala where he cultivated Pokkali rice, vegetables, and fish, often speaking out on issues facing farmers.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 66598,
+      "title": "Kerala government issues orders reinstating suspended IAS officers B. Ashok and N. Prasanth in service - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-government-issues-orders-reinstating-suspended-ias-officers-b-ashok-and-n-prasanth-in-service/article71072702.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/9f7am7/article71072877.ece/alternates/LANDSCAPE_1200/B%20Ashok%20and%20Prasanth%20Nair.jpg",
+      "scraped_at": "2026-06-07 18:51:47.592176",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Government",
+      "rephrased_article": "**Kerala**'s **Chief Secretary A. Jayathilak** revoked the suspensions of IAS officers **B. Ashok** and **N. Prasanth**, who had been suspended during the **Left Democratic Front (LDF)** government's term. The orders, issued on June 6th, stated that disciplinary proceedings against the officers would continue as per service rules.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66592,
+      "title": "Congress Bags TVK's First Rajya Sabha Seat. DMK Responds With Jibe",
+      "url": "https://www.ndtv.com/india-news/congress-bags-tvks-first-rajya-sabha-seat-dmk-responds-with-jibe-11604175#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/pn3mucmo_rahul-gandhi-vijay_625x300_10_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 18:51:28.310998",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**TVK**, led by Chief Minister Vijay, has offered its first Rajya Sabha seat to the **Congress** party in Tamil Nadu as a gesture of gratitude for their support. This move comes after the DMK officially exited the INDIA alliance citing dissatisfaction with **Congress**'s post-election behavior. Despite this, both parties are keen on maintaining a long-term alliance. The DMK has criticized **TVK** for not opposing the BJP directly and believes the party is avoiding confrontation.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "DMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66591,
+      "title": "DNA test planned to verify woman’s claim to child - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/dna-test-to-be-conducted-as-woman-from-kozhikode-reclaims-child-placed-in-ammathottil/article71073294.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bkzvy8/article71074093.ece/alternates/LANDSCAPE_1200/80692_7_6_2026_18_50_6_1_08TVKZAMMATHOTTIL.JPG",
+      "scraped_at": "2026-06-07 18:51:24.653556",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "The Kerala State Council for Child Welfare",
+      "rephrased_article": "**The authorities** are planning to conduct a DNA test on a woman from Kozhikode seeking custody of an eight-day-old child found in an Ammathottil cradle at the Government General Hospital. The woman claims to be the child's mother and requested to reclaim him after being separated for over one and a half months.  **The Kerala State Council for Child Welfare**, which maintains the cradle, forwarded her application to the police who will conduct an inquiry and test her DNA samples.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66530,
+      "title": "Govt steps in to prevent salary disruption in cultural institutions - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/govt-steps-in-to-prevent-salary-disruption-in-cultural-institutions/article71073405.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/8ev5kn/article71073738.ece/alternates/LANDSCAPE_1200/20260518175L.jpg",
+      "scraped_at": "2026-06-07 15:53:52.976908",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Tourism and Culture Minister P. C. Vishnunath** has directed temporary assignments for vacant leadership positions at major cultural institutions in the state, including the Kerala Sahitya Akademi and Kerala Sangeetha Nataka Akademi. This decision aims to ensure uninterrupted salary disbursement and routine administrative functions amidst concerns about potential gaps in administration affecting these institutions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66527,
+      "title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/d6swiq/article71073744.ece/alternates/LANDSCAPE_1200/20260603126L.jpg",
+      "scraped_at": "2026-06-07 15:53:40.880614",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Rahul Gandhi",
+      "rephrased_article": "**Rahul Gandhi**, Leader of the Opposition in the Lok Sabha, praised 18-year-old student **Sarthak Siddhant** and ethical hacker **Nisarg Adhikari** for exposing irregularities in the Central Board of Secondary Education’s (CBSE) On Screen Marking System (OSM).  Gandhi highlighted their courage and determination in uncovering a potential collusion between the CBSE and COEMPT, an edtech company. He emphasized that these young individuals challenged the government's agenda by questioning and investigating, ultimately proving to be a victory for India's youth power.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66526,
+      "title": "Govt. has stepped up preventive measures against Shigella: Kerala Health Minister - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/govt-has-stepped-up-preventive-measures-against-shigella-kerala-health-minister/article71073636.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/v5l6t8/article71073727.ece/alternates/LANDSCAPE_1200/80692_21_2_2024_12_27_33_1_KMURALEEDHARAN.JPG",
+      "scraped_at": "2026-06-07 15:53:32.911553",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Kerala Government",
+      "rephrased_article": "Following the death of a four-year-old girl from Shigella infection in Kozhikode, **Kerala Health Minister K. Muraleedharan** announced increased preventive measures.  The **Food Safety department** will conduct checks at restaurants and wayside eateries to ensure food safety norms are followed.  **Mr. Muraleedharan** also emphasized the importance of clean water sources and hygiene in public spaces for preventing further outbreaks.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 66525,
+      "title": "Motorists flag dangerous aquaplaning hotspots on NH 66 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/motorists-flag-dangerous-aquaplaning-hotspots-on-nh-66/article71073063.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-07 15:53:29.937874",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "National Highways Authority of India (NHAI)",
+      "rephrased_article": "**Motorists** on the newly widened National Highway-66 between Kozhikode and Malappuram districts are raising concerns about aquaplaning hotspots, particularly along the overtaking lane where speeds frequently exceed 80 kmph. Drivers warn that water accumulation during monsoon season can lead to sudden loss of control, posing a significant safety risk.  **National Highways Authority of India (NHAI)** officials acknowledge the issue and plan to inspect suspected hotspots for remedial measures. **Kerala State Road Transport Corporation** drivers suggest warning blinkers or signboards as immediate solutions while **Motor Vehicles department (MVD)** officers have already brought the matter to higher authorities' attention.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66512,
+      "title": "INDIA Bloc To Meet Tomorrow - A Regrouping After Assembly Polls, DMK Walkout",
+      "url": "https://www.ndtv.com/india-news/india-bloc-to-meet-tomorrow-a-regrouping-after-assembly-polls-dmk-walkout-11603609#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/n28hvrq4_india-bloc-meet-_625x300_16_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 15:52:43.487953",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Congress** announced that 23 parties will attend a strategy meeting to prepare for the upcoming monsoon session of parliament, which is expected to begin in July. **MK Stalin**, DMK leader, confirmed his party's absence due to alliance issues. The meeting comes amid speculation that the government might reintroduce two Constitution Amendment Bills previously failed to pass during the budget session.  The **CPM** will also attend, while **Mamata Banerjee**, **Akhileh Yadav**, and **Tejashvi Yadav** are expected to be present.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "CPM",
+        "DMK",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Stalin",
+        "Pinarayi Vijayan",
+        "Farooq Abdullah"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66502,
       "title": "Kerala Agricultural University releases new green chilli variety - The Hindu",
@@ -92,7 +319,7 @@
       "rephrased_article": "**Afghanistan**'s captain, **Hashamtullah Shahidi**, faced criticism for his team's lack of DRS usage during the ongoing Test match against **India**.  The coach, **Richard Pybus**, acknowledged the team's \"rusty\" decision-making process and highlighted the need for more conviction in their review calls. Despite a strong bowling performance from **Mohammad Saleem**, who took five wickets, **Afghanistan** struggled to capitalize on early momentum and ultimately fell short of India's first innings total.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Himachal Pradesh",
@@ -153,6 +380,71 @@
       ]
     },
     {
+      "id": 66472,
+      "title": "Rajan Gurukkal, Rajan Varughese step down as KSHEC vice-chairperson, member secretary - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/rajan-gurukkal-rajan-varughese-step-down-as-kshec-vice-chairperson-member-secretary/article71073308.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/hpp9in/article71073420.ece/alternates/LANDSCAPE_1200/IMG_Rajan_Gurukkal.jpg_2_1_M6BOMT45.jpg",
+      "scraped_at": "2026-06-07 14:03:14.607468",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala State Higher Education Council (KSHEC)",
+      "rephrased_article": "**Rajan Gurukkal** and **Rajan Varughese**, the vice-chairperson and member secretary of the **Kerala State Higher Education Council (KSHEC)**, have resigned from their positions. The duo led the council since 2017 and played a key role in implementing several reforms including the Four-Year Undergraduate Programme (FYUGP), the establishment of the SAAC, and the KIRF.  The KSHEC also facilitated digital transformation initiatives and launched programs like the Kairali Research Awards and Chief Minister’s Nava Kerala Postdoctoral Fellowships.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 66459,
+      "title": "INDIA Bloc Meet Tomorrow, Mamata Banerjee Eyes Help From Frenemy Congress",
+      "url": "https://www.ndtv.com/india-news/india-bloc-meet-tomorrow-mamata-banerjee-eyes-help-from-frenemy-congress-11603497#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2023-07/j5iaj1lg_opposition-bengaluru-pti_625x300_18_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 14:02:23.600768",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "**Congress** leader Jairam Ramesh announced that 23 political parties will participate in the INDIA bloc's meeting tomorrow, with some parties declining attendance due to their own reasons. **DMK** and **AAP**, led by MK Stalin and Arvind Kejriwal respectively, are not attending due to political differences and recent alliance changes.  The meeting is being held at the Constitution Club in Delhi at the behest of **Trinamool Congress** leader Mamata Banerjee who needs support from the bloc to fight the BJP in Bengal.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Arvind Kejriwal",
+        "Kejriwal",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Stalin"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
       "id": 66427,
       "title": "Kerala Nurses Jobless As Dubai Hospital Shuts, Chief Minister Seeks PM Modi's Help",
       "url": "https://www.ndtv.com/india-news/kerala-nurses-jobless-as-dubai-hospital-shuts-chief-minister-seeks-pm-modis-help-11602877#publisher=newsstand",
@@ -166,7 +458,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -5010,354 +5301,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 63655,
-      "title": "'A chat with my fellow anti-national Soros agents': Rahul Gandhi meets students affected by CBSE OSM row - The South First | News, Politics, Sports, Entertainment & Live Updates",
-      "url": "https://thesouthfirst.com/beyond-south/a-chat-with-my-fellow-anti-national-soros-agents-rahul-gandhi-meets-students-affected-by-cbse-osm-row/",
-      "source": "The South First",
-      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/Rahul-Gandhi.jpg",
-      "scraped_at": "2026-05-31 13:53:40.585561",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Rahul Gandhi",
-      "rephrased_article": "**Rahul Gandhi** met with students who were labeled \"anti-national\" and \"deep state agents\" after raising concerns about the CBSE's On-Screen Marking system.  Gandhi criticized the abuse directed at these students, stating that they deserve a bright future and that the government must acknowledge problems to solve them. The incident follows ongoing criticism of the OSM system from students and parents, with some schools being urged by **CBSE** to defend the system publicly.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 63639,
-      "title": "Black flags waived, called ‘thief’: TMC MP Kalyan Banerjee claims BJP supporters attacked him outside police station | Today News",
-      "url": "https://www.livemint.com/news/india/black-flags-waived-called-thief-tmc-mp-kalyan-banerjee-claims-bjp-supporters-attacked-him-outside-police-station-11780215903907.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/hqdefault_1780221222637_1780221228925_3eda1977-4d1f-4164-988c-397211a735a8.jpg",
-      "scraped_at": "2026-05-31 11:46:30.259350",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Kalyan Banerjee**, a **Trinamool Congress (TMC)** MP, alleged he was attacked by a crowd outside a police station in West Bengal's Hooghly district while protesting the arrest of party workers. The incident occurred after protesters greeted him with black flags and chanted \"thief\" slogans.  He claimed the attack was orchestrated by **BJP** supporters. **Abhishek Banerjee**, another TMC leader, also reported being manhandled during a visit to Sonarpur. He accused the BJP of political violence and state-sponsored terrorism. **Rahul Gandhi**, Congress leader, condemned the attacks on both leaders, calling them \"utterly reprehensible.\"",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63634,
-      "title": "From corridors of power: Sunil Jakhar’s tragedy, CM Mann’s walk that never was and Rahul Gandhi’s ‘third warning’ | Chandigarh News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/chandigarh/punjab-political-corridors-sunil-jakhar-rahul-gandhi-bhagwant-mann-10717023/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/04/sunil-jakhar.jpg",
-      "scraped_at": "2026-05-31 11:46:09.451130",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Punjab Congress",
-      "rephrased_article": "**Sunil Jakhar**, a prominent figure in Punjab politics, has faced repeated setbacks as he continues to be passed over for leadership positions.  **Rahul Gandhi** delivered a \"third warning\" to **Punjab Congress** leaders regarding their performance in the recent municipal elections, which saw significant losses. Meanwhile, **CM Bhagwant Mann's** planned early-morning walk with morning walkers was canceled at the last minute. The relationship between former Chief Minister **Captain Amarinder Singh** and newly appointed **BJP** chief **Kewal Dhillon** has been strained by **Amarinder's** public criticism of **Dhillon's** appointment.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "Akali Dal",
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63629,
-      "title": "Is Premalu 2, sequel to 2024 Malayalam hit, shelved? Actor Naslen breaks silence - India Today",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/is-premalu-2-sequel-to-2024-malayalam-hit-shelved-actor-naslen-breaks-silence-2919900-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/premalu-2-020506243-16x9.jpg?VersionId=4Fl6chc3BZtY6IdmGcM4lNY24xIcQMnW",
-      "scraped_at": "2026-05-31 11:45:52.621060",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Premalu 2",
-      "rephrased_article": "**Naslen**, the lead actor of the 2024 Malayalam blockbuster \"Premalu,\" confirmed that the sequel, \"Premalu 2\", has been shelved temporarily due to script issues. **Dileesh Pothan**, the producer of the film, had previously expressed uncertainty about the project's future.  The decision comes as a disappointment for fans hoping to see Sachin and Reenu return in a new story. However, **Naslen** clarified that \"Premalu 2\" has not been abandoned permanently and could potentially be revived if the team finds a suitable script.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63572,
-      "title": "Predator at cricket nets: How a coach weaponised a 7th-grader’s ambitions and her fight for survival - The South First | News, Politics, Sports, Entertainment & Live Updates",
-      "url": "https://thesouthfirst.com/kerala/predator-at-cricket-nets-how-a-coach-weaponised-a-7th-graders-ambitions-and-her-fight-for-survival/",
-      "source": "The South First",
-      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/Manu.jpg",
-      "scraped_at": "2026-05-31 11:44:03.199791",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "M Manu",
-      "rephrased_article": "A special court in Thiruvananthapuram sentenced former Trivandrum District Cricket Association coach M Manu to 16 years of rigorous imprisonment for systematically abusing a minor trainee. The verdict, delivered by Fast-Track Special Court Judge Anju Meera Birla, also included provisions for mandatory financial compensation and a ₹24,000 penalty.  The court's decision comes after a sweeping police investigation uncovered a pattern of child exploitation at the Kerala Cricket Association (KCA) headquarters, with four other cases completed. The case exposed how Manu used his position to exploit aspiring athletes from 2012 to 2024 and was further compounded by institutional negligence from the KCA.  The court recognized the survivor's courage in confronting her abuser and breaking free from the cycle of abuse.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 63567,
-      "title": "Former Chalakudy MP and veteran Congress leader KP Dhanapalan dies aged 76 - The South First | News, Politics, Sports, Entertainment & Live Updates",
-      "url": "https://thesouthfirst.com/kerala/former-mp-and-veteran-congress-leader-kp-dhanapalan-dies-aged-76/",
-      "source": "The South First",
-      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/Dhanpalan.jpg",
-      "scraped_at": "2026-05-31 11:43:54.820912",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "KP Dhanapalan",
-      "rephrased_article": "**KP Dhanapalan**, a prominent Congress leader and former Chalakudy MP, passed away at the age of 76 on Saturday while receiving treatment.  He served as president of the Ernakulam District Congress Committee and vice-president of the Kerala Pradesh Congress Committee. **Dhanapalan** was known for his strong organizational skills and close association with former Kerala Chief Minister AK Antony. Political leaders, party workers, and members of the public paid their final respects before his funeral in North Paravur.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 63557,
-      "title": "Spectrum News | Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ST0dlOThYdnRwQlNEdDFuZTB2ZEVrUXJuejQ1ZVdzWlRJaVZSeXZ2Y2NGZU9zbEtuU0hLU2EwdTVDb3p1QVRoVFp2NGZoUzJ5UXBzdDd4dVZGTFhNc0Rhag?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-31 09:40:56.967975",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Roopinder Singh",
-      "rephrased_article": "**Roopinder Singh**’s book, “Gurdwaras: Abodes of the Guru,” illustrates how the Sikh community’s spiritual DNA remains consistent worldwide.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Mamata Banerjee",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Chhattisgarh",
-        "Haryana",
-        "Himachal Pradesh",
-        "Madhya Pradesh",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Ludhiana",
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63538,
-      "title": "Spectrum News | Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRTBFX2VnVnlfbUp5QlpKX2YteDBCR0RTLVBhMWFMMmFCcDA0SWVsZkI1Zk1YS0g3Y1Y2VG05alB1OW9jYU5OTS12aVBnWjREWm5EMkJUQVVvalM5UmVCcQ?oc=5",
-      "source": "The Tribune",
-      "image_url": "No image available",
-      "scraped_at": "2026-05-31 09:39:09.605835",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Roopinder Singh",
-      "rephrased_article": "**Roopinder Singh's** book \"Gurdwaras: Abodes of the Guru\" illustrates how the Sikh community's spiritual DNA remains consistent worldwide.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Mamata Banerjee",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Chhattisgarh",
-        "Haryana",
-        "Himachal Pradesh",
-        "Madhya Pradesh",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Ludhiana",
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63493,
-      "title": "CBSE Class 12 Physics marks row: Rahul Gandhi backs students over evaluation - India Today",
-      "url": "https://www.indiatoday.in/india/story/cbse-class-12-physics-marks-row-rahul-gandhi-backs-students-over-evaluation-2919865-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/rahul-gandhi-interaction-with-students-314950200-16x9_0.jpeg?VersionId=8iVA58NZYJOpJeOJzKa.HxP.oJfzwAxJ",
-      "scraped_at": "2026-05-31 09:36:07.647876",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "CBSE",
-      "rephrased_article": "**Rahul Gandhi**, Leader of the Opposition, shared a video of his conversation with **CBSE Class 12 students** who questioned their examination results and alleged discrepancies in the board's evaluation process. The students claimed they found handwriting mismatches and answers not evaluated on their re-evaluation applications.  The controversy has sparked debate over the accuracy and transparency of the **On-Screen Marking (OSM)** system, prompting an investigation by the **Ministry of Education**.  **Union Education Minister Dharmendra Pradhan** assured that any irregularities will be addressed and promised corrective action.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 63472,
-      "title": "LoP Sunil Sharma targets Abdullahs, says Omar ready to settle for anything short of statehood",
-      "url": "https://www.greaterkashmir.com/politics/lop-sunil-sharma-targets-abdullahs-says-omar-ready-to-settle-for-anything-short-of-statehood-11892404",
-      "source": "Greater Kashmir",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2025/04/JK-LOP-Sunil-Sharma.jpg",
-      "scraped_at": "2026-05-31 09:35:04.629306",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Omar Abdullah",
-      "rephrased_article": "**Sunil Sharma**, leader of the opposition in the Jammu and Kashmir Assembly, criticized **Omar Abdullah**, the Chief Minister, for his stance on restoring statehood to Jammu and Kashmir. **Sharma** alleged that the Abdullah family prioritizes maintaining power and privileges over the interests of the people, accusing them of misleading the public on key political issues. He stated that the BJP remains committed to development, transparency, and strengthening democratic institutions in the region while criticizing the ruling National Conference for creating confusion about constitutional matters.",
-      "party_mentioned": [
-        "BJP",
-        "National Conference"
-      ],
-      "ministers_mentioned": [
-        "Omar Abdullah"
-      ],
-      "states_mentioned": [
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63396,
-      "title": "Abhishek Banerjee attack: Can Mamata Banerjee rebuild INDIA bloc after TMC poll rout? - India Today",
-      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-egg-hurt-injured-hospitalised-attack-mamata-banerjee-india-bloc-tmc-poll-rout-2919776-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/mamata-312622934-16x9_0.jpg?VersionId=3pGpUqsFxdIznQMwL6h8ew3A9qevcWrr",
-      "scraped_at": "2026-05-31 06:27:32.756831",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "INDIA bloc",
-      "rephrased_article": "The attack on **Abhishek Banerjee**, nephew of **Mamata Banerjee**, has sparked unexpected support for her from across the Opposition, including **Rahul Gandhi** and **Mallikarjun Kharge**.  This show of solidarity, despite past tensions between the **Trinamool Congress** and other parties like the **Congress**, raises questions about the future of the fractured **INDIA bloc** and its potential to challenge the BJP. The attack has also highlighted the vulnerability of the **Trinamool Congress** after a devastating defeat in the Bengal Assembly elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "TMC",
-        "Trinamool",
-        "Samajwadi Party",
-        "RJD"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Mamata Banerjee",
-        "Didi",
-        "Rahul Gandhi",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Hyderabad",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "protest_opposition",
-        "education"
       ]
     }
   ]

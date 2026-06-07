@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 15:11:06.536605",
+  "generated_at": "2026-06-07 20:02:57.126530",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,34 +8,134 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 438,
-    "articles_last_30d": 210
+    "total_articles": 442,
+    "articles_last_30d": 214
   },
   "top_cities_30d": {
-    "Mumbai": 68,
+    "Mumbai": 69,
     "Delhi": 56,
-    "Pune": 42,
-    "Nashik": 14,
+    "Pune": 43,
+    "Nashik": 15,
+    "Nagpur": 12,
     "Thane": 11,
-    "Nagpur": 11,
     "Bengaluru": 11,
     "Kolkata": 11,
-    "Ahmedabad": 8,
-    "Surat": 8
+    "Hyderabad": 8,
+    "Ahmedabad": 8
   },
   "top_topics_30d": {
-    "foreign_policy": 150,
-    "crime_violence": 56,
+    "foreign_policy": 151,
+    "crime_violence": 57,
     "education": 55,
-    "infrastructure": 45,
-    "economy": 38,
+    "infrastructure": 46,
+    "economy": 40,
     "protest_opposition": 37,
     "corruption_scam": 23,
-    "farmer_agriculture": 18,
+    "farmer_agriculture": 19,
     "health": 16,
     "rape_sexual_crime": 12
   },
   "recent_articles": [
+    {
+      "id": 66615,
+      "title": "MEIL-led Zojila tunnel set for final breakthrough on June 9 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/meil-led-zojila-tunnel-set-for-final-breakthrough-on-june-9/article71073829.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-07 18:52:20.155255",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Megha Engineering & Infrastructure Ltd. (MEIL)** and the **National Highways & Infrastructure Development Corporation Ltd. (NHIDCL)** are set to celebrate a key milestone with the final breakthrough of the Zojila Tunnel scheduled for June 9th. The tunnel, spanning 13.153 km and connecting Jammu & Kashmir and Ladakh, will provide all-weather connectivity at an elevation of 11,578 feet above sea level. **Union Minister for Road Transport and Highways Nitin Gadkari** is expected to attend the ceremony.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66572,
+      "title": "Bombay High Court to consider interim safeguards for advocates as protection law put on hold | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/maharashtra-advocates-protection-bill-stalled-bombay-high-court-safety-10728694/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Lawyers-.jpg",
+      "scraped_at": "2026-06-07 17:24:32.182084",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Bombay High Court",
+      "rephrased_article": "The **Bombay High Court** is considering interim safeguards for advocates in Maharashtra, where a bill protecting them from violence and intimidation has been introduced but not yet enacted. The court heard arguments from the Bar Council of Maharashtra and Goa, who argued that existing provisions are inadequate, and representatives of the central government, who stated the legislation is pending with the Law Commission. **Senior advocate Rajiv Chavan** and **advocate Satyavrat Joshi**, appointed as amici curiae, suggested guidelines for protecting advocates until a law is enacted, including police protection and grievance redressal mechanisms. The court will deliberate on the issue at its next hearing on June 18th.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Karnataka",
+        "Maharashtra",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Nagpur"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "economy"
+      ]
+    },
+    {
+      "id": 66538,
+      "title": "Focused on securing best deal, says Piyush Goyal on India-US trade deal | Business News - The Indian Express",
+      "url": "https://indianexpress.com/article/business/piyush-goyal-india-us-trade-deal-negotiations-no-deadline-chinese-investment-10728628/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/piyush.jpg",
+      "scraped_at": "2026-06-07 15:54:08.584254",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Piyush Goyal**, India's Commerce and Industry Minister, emphasized the government's commitment to securing a favorable trade deal with the United States, stating that he prioritizes achieving the best possible outcome for Indian economic interests. **Goyal** also highlighted India's expansion of preferential trade discussions with various countries globally, aiming to broaden market access for Indian exporters.  He expressed confidence in India's ability to navigate external shocks due to its robust foreign exchange reserves and significant remittance inflows.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 66534,
+      "title": "Nashik farmers say Rs 15.80/kg rate does not cover input costs | Pune News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/nashik-onion-procurement-nafed-nccf-price-crisis-lasalgaon-10728647/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/onion-farmers_20260607152702.jpg",
+      "scraped_at": "2026-06-07 15:54:02.430317",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Centre** has relaxed procurement norms for onions under **NAFED (National Agricultural Cooperative Marketing Federation of India Ltd)** and **NCCF (National Cooperative Consumers’ Federation of India Ltd)**, expanding permissible size limits and easing quality criteria.  However, farmers in Nashik district remain skeptical about the real impact of these changes, citing a significant price gap between market rates and government procurement prices. The Maharashtra government has waived the 0.75 per cent APMC market fee on onion procurement by **NAFED** and **NCCF**, but farmers argue that this benefit will not be passed on to growers unless the purchase price is raised accordingly.  Farmers are urging for a minimum procurement price of Rs 30 per kg, citing rising input costs and concerns about delayed procurement impacting their ability to prepare for the next season.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 66489,
       "title": "Cotton sowing area likely to rise by 10-15% this kharif season: Officials | Mumbai News - The Indian Express",
@@ -81,7 +181,6 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
         "Devendra Fadnavis"
       ],
       "states_mentioned": [
@@ -5653,123 +5752,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 58676,
-      "title": "NEET-UG examination 2026: One suspect arrested from Nashik - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/neet-ug-examination-2026-one-suspect-arrested-from-nashik/article70970833.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/r8zhcf/article70971719.ece/alternates/LANDSCAPE_1200/20260512519L.jpg",
-      "scraped_at": "2026-05-12 22:43:26.884397",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "NEET-UG examination",
-      "rephrased_article": "**The National Testing Agency (NTA)** cancelled the NEET-UG examination for 2026 after an alleged paper leak, leading to the arrest of a suspect in **Maharashtra**. The Rajasthan Police requested the **Maharashtra police** to detain the individual who was apprehended after changing his appearance.  The cancellation has drawn criticism from opposition leaders, including **Rohit Pawar**, who pointed out that the state government's new law against paper leaks is insufficient and called for stricter action against those involved. A CBI inquiry into the matter has been initiated.",
-      "party_mentioned": [
-        "SP",
-        "NCP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Nashik"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58618,
-      "title": "A society at large under question: rebuild a culture where safety of children is collective responsibility - The Hindu",
-      "url": "https://www.thehindu.com/news/national/a-society-at-large-under-question-rebuild-a-culture-where-safety-of-children-is-collective-responsibility/article70971537.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/cities/Delhi/o91kay/article70971538.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-      "scraped_at": "2026-05-12 20:01:04.481920",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "A **three- to four-year-old girl** was allegedly sexually assaulted and murdered in Maharashtra's Pune district, highlighting the fragility of social trust and safety for children. The incident has prompted calls for a more comprehensive approach to dealing with repeat sexual offenders, including stricter parole restrictions, enhanced monitoring by law enforcement, and expedited justice processes.  The **National Commission for Women** is working closely with authorities to ensure a timely investigation and swift proceedings.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Pune"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 58528,
-      "title": "Assam swearing-in LIVE: Himanta Biswa Sarma takes oath as Assam CM; Four MLAs sworn in as Ministers - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-bjp-government-formation-himanta-biswa-sarma-swearing-in-oath-ceremony-live-updates-may-12-2026/article70968167.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/610qgk/article70968733.ece/alternates/LANDSCAPE_1200/20260512028L.jpg",
-      "scraped_at": "2026-05-12 07:29:42.619275",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Himanta Biswa Sarma** was sworn in as the Chief Minister of Assam for a second consecutive term on Tuesday, May 2, 2026. **Governor Lakshman Prasad Acharya** administered the oath of office at a ceremony held at the Veterinary Ground in Guwahati.  Joining **Sarma** were four other MLAs who took oaths as Ministers: **Rameswar Teli**, **Ajanta Neog**, **Atul Bora**, and **Charan Boro**. The event was attended by prominent figures including **Prime Minister Narendra Modi**, **Union Ministers Amit Shah, Rajnath Singh, Nitin Gadkari, Sarbananda Sonowal, Pabitra Margherita**, and **BJP president Nitin Nabin**. This marks the formation of a third successive NDA government in the state.",
-      "party_mentioned": [
-        "BJP",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Nitin Gadkari"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 58513,
-      "title": "Union Minister Pemmasani urges Nitin Gadkari to resolve traffic woes at Guntur bypass - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-pemmasani-urges-nitin-gadkari-to-resolve-traffic-woes-at-guntur-bypass/article70968131.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ya72m0/article70715449.ece/alternates/LANDSCAPE_1200/VSP09_Meeting-1.JPG",
-      "scraped_at": "2026-05-12 04:31:11.754146",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Nitin Gadkari",
-      "rephrased_article": "**Chandra Sekhar Pemmasani**, Union Minister of State for Rural Development and Communications, met with **Nitin Gadkari**, Union Minister for Road Transport and Highways, to address traffic congestion and road safety concerns at the Chinnakakani junction near Kaza tollgate on the Guntur-Vijayawada National Highway.  **Pemmasani** requested the Ministry to construct either a grade-separated interchange or a uni-directional flyover to improve vehicular movement and enhance commuter safety. **Gadkari** responded positively, directing officials to examine the issue and initiate necessary action.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nitin Gadkari"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
       ]
     }
   ]
