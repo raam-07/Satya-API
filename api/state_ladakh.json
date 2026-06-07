@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 20:48:19.127246",
+  "generated_at": "2026-06-07 08:39:23.236494",
   "state": "Ladakh",
   "capital": "Leh",
   "ruling_party": "Central Govt",
@@ -8,28 +8,53 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 70,
+    "total_articles": 71,
     "articles_last_30d": 38
   },
   "top_cities_30d": {
-    "Delhi": 13,
+    "Delhi": 14,
     "Srinagar": 5,
     "Coimbatore": 2,
     "Ludhiana": 1,
     "Amritsar": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 26,
-    "education": 11,
-    "economy": 9,
+    "foreign_policy": 25,
+    "education": 12,
+    "economy": 8,
+    "crime_violence": 6,
     "protest_opposition": 6,
-    "crime_violence": 5,
-    "infrastructure": 5,
+    "infrastructure": 4,
     "political_gaffe": 3,
-    "farmer_agriculture": 1,
     "health": 1
   },
   "recent_articles": [
+    {
+      "id": 66276,
+      "title": "CJP founder applied for permission at Delhi airport, got it within minutes - The Hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-founder-applied-for-permission-at-delhi-airport-got-it-within-minutes/article71070751.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/91e0xx/article71070956.ece/alternates/LANDSCAPE_1200/17_Abhijeet_Dipke_Arrival_IGI_Airport_06_06_Delhi.jpg",
+      "scraped_at": "2026-06-06 21:40:03.616511",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Dharmendra Pradhan",
+      "rephrased_article": "**The Delhi Police** granted permission for a protest by the online youth group, **Cockroach Janata Party (CJP)**, after analyzing social media chatter and concerns about recent NEET-UG paper leaks and examination glitches.  **Sonam Wangchuk**, a climate activist from Ladakh who had pledged support to the CJP, arrived at Jantar Mantar without incident. The protest saw around 1500-2000 people gather to demand the resignation of **Education Minister Dharmendra Pradhan**.  The CJP was granted permission despite not having formally applied for it beforehand.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Ladakh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66068,
       "title": "Ladakh Sees Historic 121% Jump In Tourists In May, 72,834 Arrivals Recorded",
@@ -89,9 +114,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Punjab",
@@ -122,9 +145,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Punjab",

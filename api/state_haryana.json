@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 20:48:18.989085",
+  "generated_at": "2026-06-07 08:39:23.097444",
   "state": "Haryana",
   "capital": "Chandigarh",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 178,
-    "articles_last_30d": 89
+    "total_articles": 180,
+    "articles_last_30d": 91
   },
   "top_cities_30d": {
-    "Delhi": 47,
+    "Delhi": 48,
     "Ludhiana": 7,
+    "Faridabad": 6,
     "Amritsar": 5,
     "Mumbai": 5,
-    "Faridabad": 5,
     "Bengaluru": 4,
     "Jaipur": 4,
     "Hyderabad": 4,
@@ -25,17 +25,79 @@
   },
   "top_topics_30d": {
     "foreign_policy": 67,
-    "education": 31,
+    "education": 32,
     "crime_violence": 23,
-    "economy": 17,
+    "economy": 18,
     "infrastructure": 16,
-    "protest_opposition": 14,
+    "protest_opposition": 15,
     "farmer_agriculture": 10,
     "political_gaffe": 10,
     "rape_sexual_crime": 6,
-    "health": 6
+    "corruption_scam": 6
   },
   "recent_articles": [
+    {
+      "id": 66280,
+      "title": "G S Malik appointed Gujarat DGP after leading Ahmedabad police",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/gyanender-singh-malik-appointed-gujarat-dgp-profile-career-achievements-10727372/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/06Gujarat.jpg",
+      "scraped_at": "2026-06-06 21:40:12.256012",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Gujarat Police",
+      "rephrased_article": "**Gyanender Singh Malik**, a 1993-batch IPS officer, has been appointed the director general of **Gujarat Police**.  He was selected from a panel of three names by the **Union Public Service Commission (UPSC)** following Supreme Court directions. Malik previously served as Ahmedabad police commissioner since July 2023 and oversaw the deportation of illegal Bangladeshi immigrants in a large-scale encroachment removal drive. He has also held various positions within the Gujarat Police, including serving as additional superintendent of police and inspector general.  Malik is expected to begin his new role on Saturday.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Haryana"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad",
+        "Surat",
+        "Vadodara",
+        "Faridabad"
+      ],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 66265,
+      "title": "Two protests, two responses: Delhi stays calm as Haryana turns water cannons on youth Congress demonstrators - The Hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/two-protests-two-responses-delhi-stays-calm-as-haryana-turns-water-cannons-on-youth-congress-demonstrators/article71070338.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/other-states/ilsyyy/article71070327.ece/alternates/LANDSCAPE_1200/IMG-20260606-WA0009.jpg",
+      "scraped_at": "2026-06-06 21:38:55.945406",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Youth Congress** and **National Student Union of India (NSUI)** workers staged protests in Delhi and Haryana on Saturday, June 6, 2026, demanding the resignation of **Union Education Minister Dharmendra Pradhan** over alleged irregularities in examinations.  In New Delhi, protesters were met with a restrained police response, while in Kurukshetra, water cannons were used to disperse the crowd. **Congress** Lok Sabha MP Deepender Hooda led the demonstration in Haryana, citing high unemployment and drug abuse as reasons for his call for action against the BJP government.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "economy"
+      ]
+    },
     {
       "id": 66050,
       "title": "Importance of being Satish Poonia: Why BJP’s key Rajasthan Jat face is its Rajya Sabha pick | Political Pulse News - The Indian Express",
@@ -54,8 +116,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Rahul",
+        "Rahul Gandhi",
         "Ashok Gehlot"
       ],
       "states_mentioned": [
@@ -141,7 +202,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [
@@ -307,7 +367,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [

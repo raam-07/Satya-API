@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-06-06 20:48:18.700338",
-  "total": 598,
+  "generated_at": "2026-06-07 08:39:22.856665",
+  "total": 601,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 479,
+    "power_abuse": 482,
     "institutional_failure": 65,
     "scale_of_harm": 34,
     "suppression": 20
   },
   "articles": [
+    {
+      "id": 66283,
+      "title": "‘Jo ukhadna hai ukhad lo’: Shilpa Shinde reacts to backlash over false allegation row | Television News - The Indian Express",
+      "url": "https://indianexpress.com/article/entertainment/television/shilpa-shinde-reacts-to-backlash-over-false-allegation-bhabiji-ghar-par-hain-10727352/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/shilpa-shinde.jpg",
+      "scraped_at": "2026-06-06 21:40:18.190414",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Shilpa Shinde",
+      "rephrased_article": "Shilpa Shinde, an actor, has faced backlash for admitting that sexual harassment allegations she made against a Bhabiji Ghar Par Hain producer were false. The controversy sparked criticism from the All Indian Cine Workers Association (AICWA) who expressed concern over her remarks and their potential impact on genuine complaints within the industry.  The AICWA urged Maharashtra Chief Minister Devendra Fadnavis to intervene in the matter, while Shinde defended her comments, arguing that they were taken out of context.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "False allegations undermine genuine cases of sexual harassment."
+    },
     {
       "id": 65913,
       "title": "Allahabad High Court grants bail to rape and murder accused over lack of scientific evidence - The Hindu",
@@ -4648,6 +4676,71 @@
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
     },
     {
+      "id": 66341,
+      "title": "Bihar BJP MLA Raju Kumar Singh Convicted For Woman's Death In 2018 Celebratory Firing",
+      "url": "https://www.ndtv.com/india-news/bihar-bjp-mla-raju-kumar-singh-convicted-for-womans-death-in-2018-celebratory-firing-11602052#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/8ta2vjt8_raju-kumar-singh-_625x300_07_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-07 06:31:53.245225",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Raju Kumar Singh",
+      "rephrased_article": "Raju Kumar Singh, a BJP MLA from Bihar, was convicted of culpable homicide for celebratory firing at a New Year party in 2018.  The court found him guilty under the Indian Penal Code and Arms Act for violating his arms licence conditions by firing a 0.22 bore pistol not allowed for such use. Singh's wife and two others were acquitted of related charges. The court noted that Singh, identified by multiple witnesses, fired the fatal bullet that killed Archana Gupta, a guest at the party.  The case is scheduled for sentencing on June 9th.",
+      "party_mentioned": [
+        "BJP",
+        "Janata Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "An elected official convicted for causing death due to reckless firearm use is a serious abuse of power."
+    },
+    {
+      "id": 66316,
+      "title": "Celebratory firing death: Bihar BJP MLA convicted | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/celebratory-firing-death-bihar-bjp-mla-convicted-10727686/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/gavel-file-photo-IE-1_20260604225702_20260607004802.jpg",
+      "scraped_at": "2026-06-07 01:40:12.595398",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Nirbhay Thakur",
+      "rephrased_article": "Nirbhay Thakur, a Senior Correspondent for The Indian Express, has been covering district courts in Delhi since 2023, focusing on high-profile cases.  He has written in-depth articles and investigations into several notable trials, including the acquittal of Surender Koli in the Nithari serial killings and an investigation into court acquittals in Delhi riots cases. Thakur is known for his procedural depth and ability to summarize complex legal documents for a general audience.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "An MLA convicted for celebratory firing resulting in death, highlighting potential abuse of power."
+    },
+    {
       "id": 66224,
       "title": "Kota priest hacked to death inside monastery, saints launch protest over delayed arrests | India News - The Indian Express",
       "url": "https://indianexpress.com/article/india/kota-priest-murder-mahant-devanand-maharaj-attack-10727493/",
@@ -4719,7 +4812,7 @@
       "rephrased_article": "Soham Shah, a correspondent for The Indian Express, based in Pune, has transitioned his reporting from education to investigative and human rights stories. His recent work includes investigations into the Pune Municipal Corporation's policy changes on birth certificates and real estate irregularities involving political families.  He also published articles about faculty vacancies at Savitribai Phule Pune University, Maharashtra's controversial third language policy, and discrepancies in state education data despite rising student numbers. Shah is known for his focus on civil liberties and has championed the rights of marginalized groups through his reporting.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Maharashtra"
@@ -4814,8 +4907,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Madhya Pradesh",
@@ -4875,7 +4967,7 @@
       "rephrased_article": "A boundary wall and storage room collapsed at the Lodhi Crematorium in Delhi during construction work, killing one laborer and injuring two others. PWD workers were using a JCB and Hydra machine for excavation and pipe-laying when the incident occurred at 1:08 am.  The deceased laborer was identified as Rahul Kharwan, while injured laborers Rajesh (48) and Umar (20) are receiving treatment. The police, fire department, and ambulance personnel conducted a joint rescue operation before securing the site.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Delhi"
@@ -4943,8 +5035,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -15358,94 +15449,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Selling adulterated food products poses a serious health risk to citizens."
-    },
-    {
-      "id": 42211,
-      "title": "10 dead in hospital fire in India’s Odisha - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/1982610/10-dead-in-hospital-fire-in-indias-odisha",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/03/16114932194d85f.webp",
-      "scraped_at": "2026-03-16 18:58:22.095583",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "A fire at SCB Medical College and Hospital in Cuttack, Odisha, killed at least 10 critically ill patients in the trauma care unit.  The cause was an electrical short circuit, according to Chief Minister Mohan Charan Majhi.  At least 23 patients were present on the floor when the fire broke out, and 11 staff members sustained burn injuries while attempting rescues. Indian Prime Minister Narendra Modi expressed condolences and offered compensation for the victims' families.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Odisha",
-        "Tamil Nadu",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "health"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Hospital fire killing critically ill patients points to systemic failures."
-    },
-    {
-      "id": 42208,
-      "title": "Thoothukudi schoolgirl’s murder: HC directs Vilathikulam DSP to take up probe - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Madurai/thoothukudi-schoolgirls-murder-hc-directs-vilathikulam-dsp-to-take-up-probe/article70750921.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-16 18:58:02.278011",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Vilathikulam DSP",
-      "rephrased_article": "The Madurai Bench of the Madras High Court ordered a Vilathikulam Deputy Superintendent of Police (DSP) to investigate the murder of a 17-year-old girl in Thoothukudi. The court directed the DSP to record statements from the girl's parents and requested their cooperation with the investigation.  The State government suspended two police officials for delaying the FIR registration and initiated departmental proceedings against them. A postmortem was conducted, DNA samples were sent for analysis",
-      "party_mentioned": [
-        "SP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Police officials were suspended for delaying an FIR in a murder case."
-    },
-    {
-      "id": 42162,
-      "title": "US responsible for deadly attack on Iranian school: Amnesty International | US-Israel war on Iran News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/epa_69b82c46ae32-1773677638.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-03-16 17:38:17.542188",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "United States",
-      "rephrased_article": "Amnesty International has accused the United States of responsibility for a deadly attack on an Iranian primary school in Minab, killing at least 170 people, mostly children. The rights group's investigation suggests a Tomahawk missile, manufactured by the US, was likely used in the February 28th strike.  Satellite imagery and video footage, along with expert analysis, support the claim that the school building was directly targeted alongside other structures within an adjacent **Islamic Revolutionary",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Alleged US missile strike on a school killing many children is a serious human rights concern."
     }
   ]
 }
