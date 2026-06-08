@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 02:06:36.854508",
+  "generated_at": "2026-06-08 07:03:58.824099",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 512,
-    "articles_last_30d": 154
+    "total_articles": 513,
+    "articles_last_30d": 155
   },
   "top_cities_30d": {
     "Delhi": 31,
@@ -26,9 +26,9 @@
   "top_topics_30d": {
     "foreign_policy": 94,
     "education": 32,
-    "economy": 28,
+    "economy": 29,
     "infrastructure": 22,
-    "crime_violence": 19,
+    "crime_violence": 20,
     "health": 18,
     "protest_opposition": 14,
     "farmer_agriculture": 12,
@@ -36,6 +36,30 @@
     "rape_sexual_crime": 5
   },
   "recent_articles": [
+    {
+      "id": 66719,
+      "title": "In cotton fields, policy is undoing what science built. That’s the challenge for the Cotton Productivity Mission | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/columns/in-cotton-fields-policy-is-undoing-what-science-built-thats-the-challenge-for-the-cotton-productivity-mission-10728759/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/cotton_20260607181123.jpg",
+      "scraped_at": "2026-06-08 01:44:38.809497",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Indian government",
+      "rephrased_article": "The **Indian government** launched the Cotton Productivity Mission with an aim to increase lint productivity from 441 kg/ha to 755 kg/ha by 2031. However, this mission faces challenges as previous policies aimed at price control have stifled innovation in seed technology.  This has led to a decline in cotton production and India's inability to compete with other countries like Brazil, China, and Australia. The success of the Cotton Productivity Mission hinges on whether it can address these policy issues and foster private sector investment in new seed varieties.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66669,
       "title": "Yogandhra-2026 launches in Andhra Pradesh with 25,000 registrations - The Hindu",
@@ -5445,30 +5469,6 @@
         "foreign_policy",
         "protest_opposition",
         "education"
-      ]
-    },
-    {
-      "id": 54535,
-      "title": "Trial run commences on section of Chittoor - Thatchur National Highway - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/trial-run-commences-on-section-of-chittoor-thatchur-national-highway/article70909253.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/wz5yvs/article70909585.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-26%20at%209.49.23%20PM.jpeg",
-      "scraped_at": "2026-04-26 19:03:05.285272",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Chittoor - Thatchur National Highway",
-      "rephrased_article": "**The Chittoor - Thatchur National Highway**, a 92-kilometer stretch connecting Uthukottai and Chittoor in Andhra Pradesh, has been opened to vehicular traffic on a trial basis. The six-lane access controlled road will eventually connect to the new Bengaluru - Chennai Expressway by August.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "infrastructure"
       ]
     }
   ]

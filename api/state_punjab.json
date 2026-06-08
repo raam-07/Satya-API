@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 02:06:36.955976",
+  "generated_at": "2026-06-08 07:03:58.934402",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 547,
-    "articles_last_30d": 247
+    "total_articles": 548,
+    "articles_last_30d": 246
   },
   "top_cities_30d": {
     "Delhi": 70,
-    "Amritsar": 21,
+    "Amritsar": 22,
     "Bengaluru": 17,
-    "Ludhiana": 16,
     "Mumbai": 16,
+    "Ludhiana": 15,
     "Ahmedabad": 10,
     "Chennai": 8,
     "Kolkata": 6,
@@ -24,18 +24,43 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 191,
+    "foreign_policy": 190,
     "crime_violence": 72,
-    "education": 64,
     "economy": 63,
-    "protest_opposition": 45,
+    "education": 62,
+    "protest_opposition": 44,
     "infrastructure": 29,
     "health": 24,
     "farmer_agriculture": 20,
-    "corruption_scam": 17,
+    "corruption_scam": 16,
     "political_gaffe": 14
   },
   "recent_articles": [
+    {
+      "id": 66716,
+      "title": "40 years ago June 8, 1986: Ten shot dead in Punjab | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-8-1986-ten-shot-dead-in-punjab-10728753/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/express-archive-June-8-1986.jpg",
+      "scraped_at": "2026-06-08 01:44:30.673155",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "India",
+      "rephrased_article": "**Ten** people were killed by suspected terrorists in Punjab over the past 24 hours, including **Rahim**, an Iranian student who was shot while seeking admission at **Punjabi University**.  The **Aid India** consortium will meet in Paris to discuss a new aid package for India, which is expected to be close to $3.9 billion. Queen Elizabeth II urged **Margaret Thatcher**, the British Prime Minister, to impose economic sanctions against South Africa.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66684,
       "title": "Early warning bells for AAP in Punjab? Why groups that powered its 2022 win are protesting | Political Pulse News - The Indian Express",
@@ -5468,30 +5493,6 @@
         "economy",
         "foreign_policy",
         "health",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59444,
-      "title": "‘If KP govt is blamed for terror, why not Balochistan?’ - Newspaper - DAWN.COM",
-      "url": "https://www.dawn.com/news/2000628/if-kp-govt-is-blamed-for-terror-why-not-balochistan",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/16072111eea1a8a.webp",
-      "scraped_at": "2026-05-16 03:47:12.367504",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Centre",
-      "rephrased_article": "**PTI** lawmakers questioned the **Centre's** handling of law and order in both provinces, particularly highlighting the worsening situation in Balochistan.  They accused the government of a \"double standard\" regarding security measures and blamed the **Centre** for failing to address terrorism concerns. **Parliamentary Affairs Minister Tariq Fazal Chaudhry** responded by stating that the issues were provincial subjects and offered to arrange a meeting with the **Balochistan Chief Minister**. However, this sparked heated exchanges between lawmakers from both sides.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
         "protest_opposition"
       ]
     }

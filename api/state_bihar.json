@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 02:06:36.870988",
+  "generated_at": "2026-06-08 07:03:58.841993",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 279,
-    "articles_last_30d": 118
+    "total_articles": 282,
+    "articles_last_30d": 120
   },
   "top_cities_30d": {
     "Delhi": 51,
@@ -24,11 +24,11 @@
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 85,
-    "crime_violence": 36,
+    "foreign_policy": 86,
+    "crime_violence": 38,
     "education": 34,
-    "economy": 20,
     "protest_opposition": 19,
+    "economy": 19,
     "health": 16,
     "infrastructure": 14,
     "corruption_scam": 11,
@@ -36,6 +36,74 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 66718,
+      "title": "NFHS-6 data on child nutrition carries sobering warnings | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/columns/nfhs-6-data-on-child-nutrition-carries-sobering-warnings-10728763/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/children-express-photo_20260607181433.jpeg",
+      "scraped_at": "2026-06-08 01:44:35.909688",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**NFHS-6** data reveals mixed results on child nutrition in India. While stunting has declined nationally, severe wasting and underweight prevalence remain concerning.  Several large states have seen deterioration in these areas, including Jharkhand, UP, and Rajasthan.  Exclusive breastfeeding rates have also fallen sharply in some states, raising concerns about the effectiveness of postnatal support programs. Despite progress in vaccination coverage, the decline in breastfeeding and continued high levels of wasting and underweight suggest that more needs to be done to address these issues.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Kerala",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 66711,
+      "title": "33 years later, a conviction in Bihar’s Vaishali district - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-plans-to-set-up-nieit-centre-in-pithapuram/article71073547.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/oowgtn/article71070929.ece/alternates/LANDSCAPE_1200/12015_6_6_2026_19_38_55_2_DEEPRAI.JPG",
+      "scraped_at": "2026-06-08 01:42:57.733983",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Deep Rai",
+      "rephrased_article": "**Deep Rai**, an 85-year-old man, is serving a three-year prison sentence for attempted murder and violations of the Arms Act in Bihar's Vaishali district. He was convicted by the **Vaishali Court** on June 2, 2026, along with four other individuals. Rai's daughter, **Uma Devi**, attempts to provide comfort to her father amidst the sweltering heat and the lack of relief from the oppressive conditions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66705,
+      "title": "33 years later, a conviction in Bihar’s Vaishali district - The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/33-years-later-a-conviction-in-bihars-vaishali-district/article71070924.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/oowgtn/article71070929.ece/alternates/LANDSCAPE_1200/12015_6_6_2026_19_38_55_2_DEEPRAI.JPG",
+      "scraped_at": "2026-06-08 01:42:41.077792",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Deep Rai",
+      "rephrased_article": "**Deep Rai**, an 85-year-old man, is serving a three-year prison sentence for attempted murder and violations of the Arms Act.  He was convicted by the **Vaishali Court** on June 2, 2026, and is currently confined to his home in Jurawanpur village, Bihar. His daughter, **Uma Devi**, attempts to provide comfort as they endure the intense heat.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66658,
       "title": "Beyond remittances: Why experts say Bihar can no longer rely solely on exporting its labour | Patna News - The Indian Express",
@@ -5865,121 +5933,6 @@
         "crime_violence",
         "foreign_policy",
         "economy"
-      ]
-    },
-    {
-      "id": 49208,
-      "title": "Iran war: Indian migrant workers hit by cooking gas cylinder shortages leave cities",
-      "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8f41/live/fac9bfc0-3259-11f1-bdf9-bf5479a63eec.jpg",
-      "scraped_at": "2026-04-07 22:45:37.805003",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Indian** migrant workers are facing difficulties accessing cooking gas due to global shipping disruptions caused by the war in the Middle East.  The shortage has forced many to return to their villages, citing concerns about running out of gas and struggling to afford alternative fuels like firewood. **Shakuntala Devi**, a domestic worker in Delhi, and others like her are worried about the long-term impact on their livelihoods as they face uncertainty about when cooking gas supplies will improve. The government has assured that there is no shortage but has urged people to stop panic ordering.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Jharkhand",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Bengaluru",
-        "Hyderabad",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 49157,
-      "title": "Class 4 student comes home drunk; 23 liquor cartons seized from Bihar govt. school toilet - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/class-4-student-comes-home-drunk-23-liquor-cartons-seized-from-bihargovt-school-toilet/article70834342.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nla6nn/article70835040.ece/alternates/LANDSCAPE_1200/PTI04_05_2026_000501B.jpg",
-      "scraped_at": "2026-04-07 20:00:50.107604",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Bihar Government",
-      "rephrased_article": "A **Class 4** student in Begusarai, Bihar was found intoxicated and consuming illicit liquor from a dilapidated school toilet.  Police seized 23 cartons containing 204 liters of the illegal alcohol after the student's family reported his disorientation. The incident comes amid ongoing concerns about the continued smuggling of illicit liquor into the state despite a decade-long prohibition policy. **Tejashwi Yadav**, leader of the opposition in the Bihar Assembly, has criticized the government's handling of the issue, alleging institutional corruption and ineffective enforcement.",
-      "party_mentioned": [
-        "Janata Dal"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [
-        "Patna"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 49077,
-      "title": "Assembly elections 2026: ECI may roll out SIR in remaining 17 States, 5 UTs post polls - The Hindu",
-      "url": "https://www.thehindu.com/news/national/eci-may-roll-out-sir-in-remaining-17-states-5-uts-post-assembly-polls/article70834100.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9wocac/article70834156.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202025_13_08_9.jpg",
-      "scraped_at": "2026-04-07 12:15:40.083203",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission",
-      "rephrased_article": "The **Election Commission** is considering rolling out the third and final phase of Special Intensive Revision (SIR) for voters' lists in 22 states and Union territories after the Assembly elections this month. The exercise, which aims to clean up electoral rolls, could begin after the polls conclude on April 29th or after the declaration of results.  The **Election Commission** has already conducted SIR in 10 states and three Union Territories, covering nearly 60 crore voters.",
-      "party_mentioned": [
-        "BJP",
-        "TMC"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Bihar",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
       ]
     }
   ]

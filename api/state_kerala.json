@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 02:06:36.918819",
+  "generated_at": "2026-06-08 07:03:58.894346",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1227,
-    "articles_last_30d": 416
+    "total_articles": 1228,
+    "articles_last_30d": 417
   },
   "top_cities_30d": {
     "Delhi": 79,
@@ -29,13 +29,37 @@
     "education": 99,
     "crime_violence": 84,
     "economy": 64,
-    "health": 40,
+    "health": 41,
     "infrastructure": 37,
     "corruption_scam": 33,
     "political_gaffe": 32,
     "farmer_agriculture": 20
   },
   "recent_articles": [
+    {
+      "id": 66718,
+      "title": "NFHS-6 data on child nutrition carries sobering warnings | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/columns/nfhs-6-data-on-child-nutrition-carries-sobering-warnings-10728763/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/children-express-photo_20260607181433.jpeg",
+      "scraped_at": "2026-06-08 01:44:35.909688",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**NFHS-6** data reveals mixed results on child nutrition in India. While stunting has declined nationally, severe wasting and underweight prevalence remain concerning.  Several large states have seen deterioration in these areas, including Jharkhand, UP, and Rajasthan.  Exclusive breastfeeding rates have also fallen sharply in some states, raising concerns about the effectiveness of postnatal support programs. Despite progress in vaccination coverage, the decline in breastfeeding and continued high levels of wasting and underweight suggest that more needs to be done to address these issues.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Kerala",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 66680,
       "title": "Blue economy offers unlimited opportunities for ‘Puthuyuga Keralam’: Chief Minister V.D. Satheesan - The Hindu",
@@ -5301,27 +5325,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63763,
-      "title": "N. Devidas assumes charge as KILA Director General - The Hindu",
-      "url": "https://www.thehindu.com/news/national/enumeration-phase-of-sir-begins-in-four-states/article71044518.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/vgig62/article71045351.ece/alternates/LANDSCAPE_1200/80688_30_5_2026_20_16_2_1_DEVIDAS_KKN.JPEG",
-      "scraped_at": "2026-05-31 15:22:13.802309",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "N. Devidas",
-      "rephrased_article": "**N. Devidas**, a 2015-batch IAS officer of the Kerala cadre, has assumed his role as Director General of the **Kerala Institute of Local Administration (KILA)**.  He was welcomed by KILA staff under the leadership of Registrar **K.R. Sumesh**.  Devidas previously served as District Collector of Kollam and held various positions in government including Director of Mining and Geology, Managing Director of the State Backward Classes Development Corporation, Housing Commissioner, Secretary of the Housing Board, and Director of the Backward Classes Development department.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
         "foreign_policy"
       ]
     }

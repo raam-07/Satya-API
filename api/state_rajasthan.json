@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 02:06:36.962990",
+  "generated_at": "2026-06-08 07:03:58.941933",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 266,
+    "total_articles": 267,
     "articles_last_30d": 156
   },
   "top_cities_30d": {
@@ -24,11 +24,11 @@
     "Ludhiana": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 111,
+    "foreign_policy": 110,
     "education": 34,
     "crime_violence": 26,
     "infrastructure": 25,
-    "economy": 21,
+    "economy": 20,
     "protest_opposition": 17,
     "political_gaffe": 14,
     "health": 13,
@@ -36,6 +36,30 @@
     "corruption_scam": 9
   },
   "recent_articles": [
+    {
+      "id": 66718,
+      "title": "NFHS-6 data on child nutrition carries sobering warnings | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/columns/nfhs-6-data-on-child-nutrition-carries-sobering-warnings-10728763/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/children-express-photo_20260607181433.jpeg",
+      "scraped_at": "2026-06-08 01:44:35.909688",
+      "category": "health",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**NFHS-6** data reveals mixed results on child nutrition in India. While stunting has declined nationally, severe wasting and underweight prevalence remain concerning.  Several large states have seen deterioration in these areas, including Jharkhand, UP, and Rajasthan.  Exclusive breastfeeding rates have also fallen sharply in some states, raising concerns about the effectiveness of postnatal support programs. Despite progress in vaccination coverage, the decline in breastfeeding and continued high levels of wasting and underweight suggest that more needs to be done to address these issues.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Kerala",
+        "Rajasthan"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 66640,
       "title": "Sharp spin at 90 kph: Manav Suthar teases India's spin future in New Chandigarh",
@@ -5790,63 +5814,6 @@
       "topic_tags": [
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 50720,
-      "title": "Consolidated voters’ list of 9 States and 3 UTs that underwent SIR Phase II trimmed by 10.2% - The Hindu",
-      "url": "https://www.thehindu.com/news/national/consolidated-voters-list-of-9-states-and-3-uts-that-underwent-sir-phase-ii-trimmed-by-102/article70853877.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/i8n8yb/article70854102.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000308B.jpg",
-      "scraped_at": "2026-04-12 21:46:55.817029",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**The Election Commission of India** announced the results of the Special Intensive Revision (SIR) of electoral rolls in nine states and three Union Territories. **Uttar Pradesh** recorded the highest net deletion of voters at 2.04 crore, followed by **West Bengal**, with a net deletion of 83.86 lakh. The SIR phase II identified 67 lakh deceased voters and 1.28 crore duplicate voters across these states and UTs.  The consolidated electoral rolls saw a reduction of 10.2%, bringing the number of active voters down to 45.81 crore.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Assam",
-        "Chhattisgarh",
-        "Goa",
-        "Gujarat",
-        "Haryana",
-        "Himachal Pradesh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Manipur",
-        "Meghalaya",
-        "Mizoram",
-        "Nagaland",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Tamil Nadu",
-        "Telangana",
-        "Tripura",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Puducherry",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]
