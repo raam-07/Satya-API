@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-08 18:41:55.680087",
+  "generated_at": "2026-06-08 21:10:21.967894",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
   "cm": "Bhagwant Mann",
   "region": "North",
   "cm_confidence": null,
-  "party_confidence": null,
+  "party_confidence": 1.0,
   "stats": {
-    "total_articles": 553,
+    "total_articles": 554,
     "articles_last_30d": 250
   },
   "top_cities_30d": {
@@ -17,7 +17,7 @@
     "Bengaluru": 17,
     "Mumbai": 16,
     "Ludhiana": 15,
-    "Ahmedabad": 10,
+    "Ahmedabad": 11,
     "Chennai": 8,
     "Kolkata": 6,
     "Hyderabad": 5,
@@ -25,17 +25,44 @@
   },
   "top_topics_30d": {
     "foreign_policy": 194,
-    "crime_violence": 76,
+    "crime_violence": 77,
     "education": 64,
     "economy": 62,
     "protest_opposition": 44,
     "infrastructure": 28,
     "health": 24,
     "farmer_agriculture": 20,
-    "corruption_scam": 18,
+    "corruption_scam": 19,
     "political_gaffe": 16
   },
   "recent_articles": [
+    {
+      "id": 66935,
+      "title": "Bhagwant Mann Hands Over Appointment Letters To 355 Government Employees",
+      "url": "https://www.ndtv.com/india-news/355-employees-newly-recruited-to-different-government-departments-11609345#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/gdnqbdso_bhagwant-mann_625x300_30_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 19:25:20.825567",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Bhagwant Mann",
+      "rephrased_article": "**Bhagwant Mann**, the **Punjab** Chief Minister, stated that his government has not witnessed a single paper leak since assuming power in 2022.  He highlighted this while handing out appointment letters to newly recruited employees across various government departments, emphasizing the merit-based recruitment process and transparency within the administration.  Mann also emphasized Punjab's progress in education, citing its rise to number one in school education according to NITI Aayog, as well as initiatives like \"Schools of Eminence\" that provide opportunities for underprivileged students. He further underscored the government's commitment to skill development through new ITIs and upgrades to existing institutes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 66866,
       "title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
@@ -58,9 +85,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -101,9 +126,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -137,8 +160,7 @@
         "AAP"
       ],
       "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Kejriwal"
+        "Arvind Kejriwal"
       ],
       "states_mentioned": [
         "Punjab"
@@ -5507,28 +5529,6 @@
       "sentiment": "neutral",
       "sentiment_target": "India",
       "rephrased_article": "**Sialkot Deputy Commissioner Saba Asghar** issued a high alert for the Chenab River following an advisory from **India** warning of potential emergency silt flushing at the Indian Salal Dam. The rising water level has prompted restrictions on movement along the river and its banks, with authorities urging citizens to avoid unnecessary visits to rivers and canals.  Asghar also activated the District Emergency Control Room and directed all relevant departments to monitor the situation 24/7.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 60635,
-      "title": "Punjab govt imposes Section 144 around airports, PAF bases for 30 days - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2001994/punjab-govt-imposes-section-144-around-airports-paf-bases-for-30-days",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/2111021310bb728.webp",
-      "scraped_at": "2026-05-21 08:40:44.476346",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Pakistan",
-      "rephrased_article": "**Punjab**'s government has implemented a 30-day ban on pigeon homing, laser light usage by businesses, and meat disposal near airports and **Pakistan Air Force** bases. The order, issued under Section 144 of the Code of Criminal Procedure (CrPC), aims to prevent disruptions to public peace, safety, and tranquility.  The ban is effective immediately and applies within a 13km radius around all PAF bases and commercial airports in the province.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [

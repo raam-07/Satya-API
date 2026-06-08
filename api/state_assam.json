@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 18:41:55.600932",
+  "generated_at": "2026-06-08 21:10:21.865317",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 310,
-    "articles_last_30d": 81
+    "total_articles": 311,
+    "articles_last_30d": 82
   },
   "top_cities_30d": {
     "Delhi": 22,
     "Kolkata": 6,
+    "Mumbai": 4,
     "Chennai": 4,
     "Bengaluru": 4,
-    "Mumbai": 3,
     "Hyderabad": 3,
     "Jaipur": 3,
     "Varanasi": 1,
@@ -24,18 +24,44 @@
     "Lucknow": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 60,
+    "foreign_policy": 61,
     "economy": 21,
-    "crime_violence": 16,
+    "crime_violence": 17,
     "protest_opposition": 13,
     "infrastructure": 12,
     "education": 12,
     "farmer_agriculture": 9,
     "political_gaffe": 6,
-    "corruption_scam": 4,
+    "corruption_scam": 5,
     "health": 3
   },
   "recent_articles": [
+    {
+      "id": 66964,
+      "title": "Worli concert tragedy: Victim’s brother blames organizers for delayed medical aid | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-worli-techno-concert-death-organisers-booked-negligence-10730261/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/mumbai-police-14_20260305210425_20260507204010_20260512223954_20260518194259_20260608170150.jpg",
+      "scraped_at": "2026-06-08 19:27:18.827932",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Space Bound Web Labs Private Limited",
+      "rephrased_article": "**Karan Singh** and **Parag Uke**, CEO and senior manager of Space Bound Web Labs Private Limited, were booked by the **Tardeo police** for alleged negligence after a 28-year-old law graduate died at a music concert in Mumbai. The deceased, Rushil Mahendra Gangurde, allegedly fell ill during the event and was taken to Jaslok Hospital but later declared dead.  The FIR alleges that medical assistance was delayed and inadequate safety arrangements were present despite a large crowd attending the event. A post-mortem examination is pending, with blood samples sent for chemical analysis.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Thane"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 66879,
       "title": "Guns N’ Roses lock in mega 2026 India tour with stops in Bengaluru and Guwahati | Music News - The Indian Express",
@@ -5901,33 +5927,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 48826,
-      "title": "Congress petitions Election Commission to cancel Assam CM’s candidature over ‘undisclosed assets’ - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/congress-petitions-election-commission-to-cancel-assam-cms-candidature-over-undisclosed-assets/article70830940.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/n1r2u/article70831592.ece/alternates/LANDSCAPE_1200/PTI03_23_2026_000159B.jpg",
-      "scraped_at": "2026-04-06 16:56:21.937619",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Himanta Biswa Sarma",
-      "rephrased_article": "**Himanta Biswa Sarma**, the Chief Minister of Assam, is facing a petition from the **Assam Congress** to cancel his candidacy for the upcoming Assembly election. The petition alleges that he failed to disclose his wife's alleged offshore assets in his affidavit, violating the Representation of the People Act, 1951. A delegation led by former Chhattisgarh Chief Minister **Bhupesh Baghel** submitted the complaint to the Assam Chief Electoral Officer.  Sarma denies the allegations.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Bhupesh Baghel"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Chhattisgarh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy"
-      ]
     }
   ]
 }

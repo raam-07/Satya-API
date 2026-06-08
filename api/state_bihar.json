@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 18:41:55.607054",
+  "generated_at": "2026-06-08 21:10:21.873071",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 284,
-    "articles_last_30d": 122
+    "total_articles": 285,
+    "articles_last_30d": 123
   },
   "top_cities_30d": {
     "Delhi": 52,
@@ -24,10 +24,10 @@
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 88,
-    "crime_violence": 40,
+    "foreign_policy": 89,
+    "crime_violence": 41,
     "education": 35,
-    "protest_opposition": 20,
+    "protest_opposition": 21,
     "economy": 19,
     "health": 16,
     "infrastructure": 14,
@@ -36,6 +36,30 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 66929,
+      "title": "4 Migrant Workers From Bengal Caught With 35 Kg Marijuana In Kerala",
+      "url": "https://www.ndtv.com/india-news/4-migrant-workers-from-bengal-caught-with-35-kg-marijuana-in-kerala-11609489#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/gd0o6eqo_kerala_625x300_08_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 19:24:59.537592",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Police** in Kerala seized 35 kilograms of marijuana and arrested four West Bengal migrant workers during an anti-narcotics operation called \"Operation Toofan\". The arrests were made in Perumbavoor, where the migrants had allegedly transported the drugs from West Bengal by train and autorickshaw. The contraband was concealed in travel bags and is estimated to be worth Rs 10 lakh. Authorities suspect the accused were planning to sell the narcotics through local networks targeting migrant workers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66882,
       "title": "Phone theft claim, train chase, then a fatal shove: Cops solve Bihar cleric’s murder | Lucknow News - The Indian Express",
@@ -5917,40 +5941,6 @@
         "education",
         "corruption_scam",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 49571,
-      "title": "M. Sai Kumar to be Tamil Nadu Chief Secretary; Sandeep Mittal to head Armed Police, DVAC - The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/m-sai-kumar-to-be-tamil-nadu-chief-secretary-sandeep-mittal-to-head-armed-police-dvac/article70837981.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/tnj4tp/article70841411.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-08%20at%2022.27.29.jpeg",
-      "scraped_at": "2026-04-09 07:04:22.204067",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Election Commission (EC)",
-      "rephrased_article": "**Election Commission (EC)** of India transferred **Tamil Nadu Chief Secretary N. Muruganandam** and appointed his successor, **M. Sai Kumar**.  The **EC** also appointed senior IPS officer **Sandeep Mittal** as the Director-General of Police (DGP), Armed Police, and Director (in-charge), Vigilance and Anti-Corruption. **DMK President M.K. Stalin** criticized the transfers, calling them \"arbitrary\" and a \"political act\" and accusing the **EC** of acting in favor of the BJP. He also stated that these actions reflect the abuse of power by the government and are detrimental to fair elections.",
-      "party_mentioned": [
-        "BJP",
-        "DMK",
-        "AIADMK",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam",
-        "economy"
       ]
     }
   ]

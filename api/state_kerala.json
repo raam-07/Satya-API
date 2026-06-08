@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 18:41:55.648008",
+  "generated_at": "2026-06-08 21:10:21.926875",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,34 +8,172 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1238,
-    "articles_last_30d": 417
+    "total_articles": 1243,
+    "articles_last_30d": 420
   },
   "top_cities_30d": {
-    "Delhi": 81,
+    "Delhi": 80,
     "Bengaluru": 33,
+    "Hyderabad": 22,
     "Chennai": 22,
-    "Hyderabad": 21,
     "Mumbai": 20,
-    "Kolkata": 17,
-    "Ahmedabad": 6,
+    "Kolkata": 16,
+    "Ahmedabad": 7,
     "Bangalore": 6,
     "Pune": 4,
     "Nagpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 269,
-    "education": 99,
-    "protest_opposition": 99,
-    "crime_violence": 91,
+    "foreign_policy": 272,
+    "education": 100,
+    "protest_opposition": 100,
+    "crime_violence": 94,
     "economy": 64,
     "health": 39,
+    "infrastructure": 36,
+    "corruption_scam": 36,
     "political_gaffe": 36,
-    "infrastructure": 35,
-    "corruption_scam": 35,
-    "farmer_agriculture": 19
+    "farmer_agriculture": 17
   },
   "recent_articles": [
+    {
+      "id": 66962,
+      "title": "H-1B $100,000 fee struck down as illegal: What happens next? - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/h-1b-100000-fee-struck-down-as-illegal-what-happens-next/articleshow/131594260.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131594289,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-08 19:27:06.032401",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "President Donald Trump",
+      "rephrased_article": "A federal judge ruled that the $100,000 fee imposed by **President Donald Trump** on new H-1B visas for highly skilled foreign workers is unlawful.  The ruling invalidates the fee and was issued in a lawsuit filed by 20 **Democratic state attorneys general**. The **US Department of Homeland Security (DHS)** has not yet reacted to the decision, but the administration can appeal. Immigration attorney Rahul Reddy stated that the court determined the $100,000 charge is a tax, not a penalty, and therefore must be addressed by Congress rather than through presidential proclamation.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66945,
+      "title": "NHAI floats tender for Vizhinjam–Navaikulam Outer Ring Road project - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/nhai-floats-tender-for-vizhinjamnavaikulam-outer-ring-road-project/article71077663.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:26:00.476738",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "NHAI",
+      "rephrased_article": "The **National Highways Authority of India (NHAI)** has invited tenders for the ₹8,004.72-crore Build-Operate-Transfer (BOT) project to construct the 62.7-km Vizhinjam–Navaikulam Outer Ring Road (ORR). The project aims to facilitate port-related development in the capital region and is expected to bring economic growth to the underutilized areas.  The **Public Private Partnership Appraisal Committee (PPPAC)** approved the project, which will connect Vizhinjam Port at the southern end with Navaikulam at the northern end.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 66935,
+      "title": "Bhagwant Mann Hands Over Appointment Letters To 355 Government Employees",
+      "url": "https://www.ndtv.com/india-news/355-employees-newly-recruited-to-different-government-departments-11609345#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/gdnqbdso_bhagwant-mann_625x300_30_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 19:25:20.825567",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Bhagwant Mann",
+      "rephrased_article": "**Bhagwant Mann**, the **Punjab** Chief Minister, stated that his government has not witnessed a single paper leak since assuming power in 2022.  He highlighted this while handing out appointment letters to newly recruited employees across various government departments, emphasizing the merit-based recruitment process and transparency within the administration.  Mann also emphasized Punjab's progress in education, citing its rise to number one in school education according to NITI Aayog, as well as initiatives like \"Schools of Eminence\" that provide opportunities for underprivileged students. He further underscored the government's commitment to skill development through new ITIs and upgrades to existing institutes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 66929,
+      "title": "4 Migrant Workers From Bengal Caught With 35 Kg Marijuana In Kerala",
+      "url": "https://www.ndtv.com/india-news/4-migrant-workers-from-bengal-caught-with-35-kg-marijuana-in-kerala-11609489#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/gd0o6eqo_kerala_625x300_08_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 19:24:59.537592",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Police** in Kerala seized 35 kilograms of marijuana and arrested four West Bengal migrant workers during an anti-narcotics operation called \"Operation Toofan\". The arrests were made in Perumbavoor, where the migrants had allegedly transported the drugs from West Bengal by train and autorickshaw. The contraband was concealed in travel bags and is estimated to be worth Rs 10 lakh. Authorities suspect the accused were planning to sell the narcotics through local networks targeting migrant workers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66924,
+      "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/news/national/analysis-india-bloc-closes-ranks-around-congress-but-not-without-caveats/article71077850.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:24:36.087942",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Twenty-three Opposition parties**, including the **Congress**, **Samajwadi Party**, and **Trinamool Congress**, met in New Delhi on Monday to address concerns about economic distress, inflation, and educational chaos.  The bloc resolved to write to the Chief Justice of India over electoral fraud allegations, demand the resignation of the Union Education Minister, call for an all-party meeting to discuss the economic crisis, agree to hold coordination meetings every two months, and commit to daily parliamentary coordination during sessions. The meeting followed recent fissures within the alliance, including the absence of the **DMK** and the **Aam Aadmi Party**, highlighting the fragility of the coalition.  Despite these challenges, there is a broad consensus on the need to checkmate the **BJP** for political survival and the health of Indian democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66885,
       "title": "Who is Indian-origin Nithya Raman who made Donald Trump, Elon Musk jittery over LA mayor primary? - The Times of India",
@@ -79,9 +217,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -122,9 +258,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -181,8 +315,7 @@
         "Congress"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -5247,133 +5380,6 @@
         "corruption_scam",
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 63964,
-      "title": "Rashmika Mandanna shares vacation pics featuring Vijay Deverakonda Japan was extra fun - India Today",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-shares-vacation-pics-featuring-vijay-deverakonda-japan-was-extra-fun-2920006-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/rashmika-mandanna--vijay-deverakonda-313447257-16x9_0.jpg?VersionId=kMT1TtZWHJVVZXPUI1eAOBl4dDLlcuvE",
-      "scraped_at": "2026-05-31 21:06:42.939587",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Rashmika Mandanna",
-      "rephrased_article": "**Rashmika Mandanna** shared new photos and videos from her Japan trip, showcasing her time exploring the country's culture and cuisine with her husband, **Vijay Deverakonda**.  The couple, who married in February, appeared to be enjoying their vacation together. They also shared glimpses of their recent airport encounter, further fueling fan speculation about their relationship.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63950,
-      "title": "Opposition targets Mahayuti over ‘exclusion’ of 80 lakh women from Ladki Bahin Yojana; Shinde says scheme will continue | Pune News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/pune/opposition-targets-mahayuti-over-exclusion-of-80-lakh-women-from-ladki-bahin-yojana-shinde-says-scheme-will-continue-10717389/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/05/eknath-shinde-4.jpg",
-      "scraped_at": "2026-05-31 21:05:37.914504",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Mahayuti",
-      "rephrased_article": "**Manoj Dattatrye More**, a veteran journalist and Senior Editor at **The Indian Express**, has dedicated his career to investigative reporting, particularly in the areas of road safety, environmental protection, and anti-corruption.  His work has led to significant social change, including the reconstruction of the Pune-Mumbai highway after years of campaigning on its dangerous state. More's recent focus is on the shifting political landscape of Maharashtra, particularly the civic governance in Pimpri-Chinchwad, where he reports on local elections and issues like infrastructure development and civic accountability.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "SP",
-        "NCP"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Pune",
-        "Nashik"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "corruption_scam",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 63916,
-      "title": "Granite quarries in north Kerala under increased surveillance after NIA raids - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/granite-quarries-in-north-kerala-under-increased-surveillance-after-nia-raids/article71044547.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-31 19:51:46.075706",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Kerala police",
-      "rephrased_article": "Following the seizure of explosives in Malappuram, **Kerala** police have intensified surveillance at granite quarries across the state. The focus is on monitoring transportation, storage, and use of explosives for quarrying operations, following unconfirmed reports of diversion for anti-social activities.  Special inspections will be conducted to verify stock positions and ensure compliance with regulations governing explosive handling. Officials emphasize that any violations will result in legal action.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63899,
-      "title": "Indian man awarded nearly £30,000 by UK tribunal after employer failed to provide work - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/uk/indian-man-awarded-nearly-30000-by-uk-tribunal-after-employer-failed-to-provide-work/articleshow/131426073.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131426081,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-05-31 18:09:55.474200",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Shabin Shaji",
-      "rephrased_article": "An Indian man, Shabin Shaji, was awarded nearly £30,000 by an employment tribunal after his employer, **Swan Care Solutions Ltd**, failed to provide him with work for a year despite issuing him a sponsorship visa.  The tribunal found that the company withheld work from Shaji and did not pay him wages, breaching its contractual obligations and grievance procedures. The judge stated that Shaji had done everything required to start working but was left without income or employment.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63837,
-      "title": "Youth may end up following 'Cockroach' if positive news is ignored, says Vice President Radhakrishnan | Today News",
-      "url": "https://www.livemint.com/news/india/youth-may-end-up-following-cockroach-if-positive-news-is-ignored-says-vice-president-radhakrishnan-11780231858644.html",
-      "source": "Livemint",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/PTI05-30-2026-000204B-0_1780240304407_1780240316252_3d928fc3-1005-42f5-9866-239085046d60.jpg",
-      "scraped_at": "2026-05-31 16:46:12.337024",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Vice President CP Radhakrishnan** urged young people to be exposed to positive information and role models, warning that following negative or sensationalized content could lead them astray. He emphasized the importance of constructive journalism in guiding society and fostering public trust, particularly during a time when India is progressing under Prime Minister Narendra Modi's leadership. **Radhakrishnan** also expressed concern over the spread of misinformation and the blurring of opinion with news reporting, calling for greater objectivity and fact-based reporting.  He commended the Malayalam daily **Deepika** for its role in promoting social harmony and fostering public discourse.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "economy"
       ]
     }
   ]

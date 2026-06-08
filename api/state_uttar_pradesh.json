@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 18:41:55.708009",
+  "generated_at": "2026-06-08 21:10:22.004268",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 433,
-    "articles_last_30d": 202
+    "total_articles": 435,
+    "articles_last_30d": 204
   },
   "top_cities_30d": {
     "Delhi": 68,
@@ -20,15 +20,15 @@
     "Kolkata": 10,
     "Bengaluru": 9,
     "Agra": 7,
-    "Prayagraj": 7,
-    "Hyderabad": 6
+    "Hyderabad": 7,
+    "Prayagraj": 7
   },
   "top_topics_30d": {
-    "foreign_policy": 142,
+    "foreign_policy": 144,
     "crime_violence": 85,
-    "education": 53,
-    "protest_opposition": 44,
-    "economy": 29,
+    "education": 54,
+    "protest_opposition": 45,
+    "economy": 30,
     "infrastructure": 26,
     "farmer_agriculture": 14,
     "health": 14,
@@ -36,6 +36,66 @@
     "rape_sexual_crime": 9
   },
   "recent_articles": [
+    {
+      "id": 66926,
+      "title": "Israel And Iran Halt Attacks On Each Other, But Not Before Issuing Warnings",
+      "url": "https://www.ndtv.com/world-news/israel-and-iran-halt-attacks-on-each-other-but-not-before-issuing-warnings-11609493#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/tp29r2b_iran-israel_625x300_08_June_26.jpeg",
+      "scraped_at": "2026-06-08 19:24:49.267219",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Israel",
+      "rephrased_article": "**Iran** and **Israel** announced a halt to hostilities after exchanging missile strikes over the Hezbollah conflict.  **Israel** Prime Minister Benjamin Netanyahu stated that the \"fire on that front is contained\" while **Iran**'s military command said it would respond with more severe measures if attacks continued. Despite US President Donald Trump's attempts to de-escalate the situation, both sides vowed to continue operations against Hezbollah and maintain their respective defenses. The ceasefire has led to some normalcy returning in Tehran, but tensions remain high as oil prices surged on fears of a renewed conflict.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66924,
+      "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/news/national/analysis-india-bloc-closes-ranks-around-congress-but-not-without-caveats/article71077850.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:24:36.087942",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Twenty-three Opposition parties**, including the **Congress**, **Samajwadi Party**, and **Trinamool Congress**, met in New Delhi on Monday to address concerns about economic distress, inflation, and educational chaos.  The bloc resolved to write to the Chief Justice of India over electoral fraud allegations, demand the resignation of the Union Education Minister, call for an all-party meeting to discuss the economic crisis, agree to hold coordination meetings every two months, and commit to daily parliamentary coordination during sessions. The meeting followed recent fissures within the alliance, including the absence of the **DMK** and the **Aam Aadmi Party**, highlighting the fragility of the coalition.  Despite these challenges, there is a broad consensus on the need to checkmate the **BJP** for political survival and the health of Indian democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66882,
       "title": "Phone theft claim, train chase, then a fatal shove: Cops solve Bihar cleric’s murder | Lucknow News - The Indian Express",
@@ -5775,66 +5835,6 @@
         "health",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 58256,
-      "title": "Suvendu Adhikari to chair first Cabinet meeting on May 11, 2026 - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-to-chair-first-cabinet-meeting-on-may-11-2026/article70963091.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/x8dzq9/article70963252.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000753B.jpg",
-      "scraped_at": "2026-05-10 22:00:54.592772",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Suvendu Adhikari",
-      "rephrased_article": "**Suvendu Adhikari**, the newly elected Chief Minister of **West Bengal**, will hold his first cabinet meeting on Monday, May 11, at Nabanna.  The meeting will see the allocation of portfolios to five ministers who were sworn in with him on Saturday. The cabinet is expected to establish inquiry commissions into atrocities against women during the **Trinamool Congress** regime. Adhikari also plans to meet with top officials from various departments including the police and district magistrates.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
-      ]
-    },
-    {
-      "id": 58184,
-      "title": "WB CM Suvendu Adhikari to chair first cabinet meeting today - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/wb-cm-suvendu-adhikari-to-chair-first-cabinet-meeting-today/article70963091.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/x8dzq9/article70963252.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000753B.jpg",
-      "scraped_at": "2026-05-10 17:09:51.796512",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Suvendu Adhikari",
-      "rephrased_article": "**Suvendu Adhikari**, the newly elected Chief Minister of West Bengal, will hold his first cabinet meeting on Monday (May 11, 2026) at Nabanna. The meeting is expected to allocate portfolios to five ministers who were sworn in alongside him on Saturday (May 9). **Adhikari** also plans to establish inquiry commissions into atrocities against women during the previous Trinamool Congress regime and meet with top officials of various departments including police, district magistrates, and the Director General of West Bengal police.",
-      "party_mentioned": [
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
       ]
     }
   ]

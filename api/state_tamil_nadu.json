@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 18:41:55.694137",
+  "generated_at": "2026-06-08 21:10:21.986053",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,34 +8,119 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1134,
+    "total_articles": 1137,
     "articles_last_30d": 312
   },
   "top_cities_30d": {
-    "Chennai": 73,
+    "Chennai": 72,
     "Delhi": 48,
     "Coimbatore": 23,
     "Bengaluru": 20,
+    "Hyderabad": 14,
     "Madurai": 14,
-    "Hyderabad": 13,
     "Mumbai": 10,
     "Kolkata": 3,
     "Amritsar": 3,
     "Varanasi": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 212,
-    "protest_opposition": 71,
+    "foreign_policy": 211,
+    "protest_opposition": 72,
     "education": 58,
-    "economy": 48,
+    "economy": 49,
     "crime_violence": 48,
     "infrastructure": 37,
-    "corruption_scam": 27,
+    "corruption_scam": 28,
     "farmer_agriculture": 24,
     "health": 22,
     "political_gaffe": 18
   },
   "recent_articles": [
+    {
+      "id": 66976,
+      "title": "House pattas will be given to eligible SC/ST families within 5 years: Minister Vanni Arasu - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/house-pattas-will-be-given-to-eligible-scst-families-within-5-years-minister-vanni-arasu/article71077011.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3a8dbm/article71077652.ece/alternates/LANDSCAPE_1200/DSC_9093.JPG",
+      "scraped_at": "2026-06-08 19:27:41.304126",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "**Minister for Social Justice Vanni Arasu** stated that the government aims to provide house pattas to all eligible SC/ST families within five years. He emphasized this initiative as a top priority, and plans to implement it after consultations with **Chief Minister C. Joseph Vijay**.  The minister also highlighted his commitment to addressing caste-based conflicts in schools and colleges, reviewing police station transfers, and improving the conditions of SC/ST hostels and schools.",
+      "party_mentioned": [
+        "DMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 66965,
+      "title": "Heads of sugar mills sector call on Chief Minister Vijay - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/heads-of-sugar-mills-sector-call-on-chief-minister-vijay/article71078192.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/yazh76/article71078194.ece/alternates/LANDSCAPE_1200/01_WhatsApp%20Image%202026-06-08%20at%207.39.47%20PM.jpg",
+      "scraped_at": "2026-06-08 19:27:22.522190",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**R. Varadharajan**, president of the **South Indian Sugar Mills Association** (Tamil Nadu), and other association office-bearers met with **C. Joseph Vijay**, Chief Minister of Tamil Nadu, at the Secretariat in Chennai on Monday. The meeting included representatives from various sugar mills including **Rajshree Pathy**, **M. Manickam**, **Muthiah Murgappan**, **Arjun Kothari**, **N. Ramanathan**, **M. Silvester**, **A.H. Ashiq**, **Aditya Pathi**, and **G. Sathyamurthy**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 66924,
+      "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/news/national/analysis-india-bloc-closes-ranks-around-congress-but-not-without-caveats/article71077850.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:24:36.087942",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Twenty-three Opposition parties**, including the **Congress**, **Samajwadi Party**, and **Trinamool Congress**, met in New Delhi on Monday to address concerns about economic distress, inflation, and educational chaos.  The bloc resolved to write to the Chief Justice of India over electoral fraud allegations, demand the resignation of the Union Education Minister, call for an all-party meeting to discuss the economic crisis, agree to hold coordination meetings every two months, and commit to daily parliamentary coordination during sessions. The meeting followed recent fissures within the alliance, including the absence of the **DMK** and the **Aam Aadmi Party**, highlighting the fragility of the coalition.  Despite these challenges, there is a broad consensus on the need to checkmate the **BJP** for political survival and the health of Indian democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66783,
       "title": "KABIL acquires five critical mineral blocks in Argentina - The Hindu",
@@ -5434,84 +5519,6 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 61496,
-      "title": "National president Nabin asks BJP State unit not to be complacent while citing T.N. example of Opposition not benefitting from DMK’s failure - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/national-president-nabin-asks-bjp-state-unit-not-to-be-complacent-while-citing-tn-example-of-opposition-not-benefitting-from-dmks-failure/article71018535.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/db6sis/article71018586.ece/alternates/LANDSCAPE_1200/DSC_3996.JPG",
-      "scraped_at": "2026-05-24 18:47:08.092407",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Nitin Nabin**, **BJP** national president, warned the Karnataka unit to avoid complacency after the Tamil Nadu elections where the opposition AIADMK did not benefit despite anti-incumbency. He urged them to project themselves as a strong alternative and focus on public awareness against the Congress government's failures.  He also emphasized the need for a pro-people struggle and a comprehensive action plan for upcoming elections, including bypolls and Legislative Council elections. **Nabin** accused the Congress of using its government as an ATM to fund its national activities.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 61495,
-      "title": "MMK will continue its alliance with DMK, says Jawahirullah - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/mmk-will-continue-its-alliance-with-dmk-says-jawahirullah/article71018075.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-24 18:46:43.673579",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "MMK",
-      "rephrased_article": "**Manithaneya Makkal Katchi (MMK)** president M.H. Jawahirullah clarified that the party's recent resolution to contest on its own symbol was not due to disappointment over a lack of ministerial positions in the Tamilaga Vettri Kazhagam government. The MMK contested under the DMK’s ‘Rising Sun’ symbol in previous elections, and this decision was made based on ground realities and political circumstances.  The party's registration was cancelled after failing to contest on its own symbol, prompting the resolution for future elections.",
-      "party_mentioned": [
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61494,
-      "title": "Vijay should strongly oppose Mekedatu dam plan: Seeman - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-should-strongly-oppose-mekedatu-dam-plan-seeman/article71017971.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-24 18:46:19.014493",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Karnataka",
-      "rephrased_article": "**Seeman**, chief co-ordinator of **Naam Tamilar Katchi**, criticized **D.K. Shivakumar**, Karnataka's deputy Chief Minister, for his statement that Tamil Nadu does not have the right to oppose the Karnataka government's plan to build a dam at Mekedatu across the Cauvery river.  **Seeman** called the statement arrogant and said it indicated an attempt by **Karnataka** to claim exclusive ownership over the Cauvery river water rights. He urged **Chief Minister C. Joseph Vijay** to register strong opposition to the project.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "farmer_agriculture"
       ]
     }
   ]

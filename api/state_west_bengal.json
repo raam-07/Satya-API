@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 18:41:55.717265",
+  "generated_at": "2026-06-08 21:10:22.016535",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,34 +8,122 @@
   "cm_confidence": null,
   "party_confidence": 0.8,
   "stats": {
-    "total_articles": 640,
-    "articles_last_30d": 255
+    "total_articles": 643,
+    "articles_last_30d": 257
   },
   "top_cities_30d": {
-    "Kolkata": 103,
-    "Delhi": 54,
+    "Kolkata": 102,
+    "Delhi": 53,
     "Mumbai": 14,
     "Bengaluru": 11,
     "Chennai": 9,
-    "Hyderabad": 7,
+    "Hyderabad": 8,
     "Ghaziabad": 4,
     "Ahmedabad": 4,
     "Surat": 4,
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 198,
-    "education": 151,
-    "protest_opposition": 111,
-    "crime_violence": 82,
-    "economy": 40,
+    "foreign_policy": 200,
+    "education": 152,
+    "protest_opposition": 112,
+    "crime_violence": 84,
+    "economy": 41,
     "corruption_scam": 39,
     "infrastructure": 27,
     "rape_sexual_crime": 14,
     "health": 13,
-    "farmer_agriculture": 10
+    "farmer_agriculture": 9
   },
   "recent_articles": [
+    {
+      "id": 66929,
+      "title": "4 Migrant Workers From Bengal Caught With 35 Kg Marijuana In Kerala",
+      "url": "https://www.ndtv.com/india-news/4-migrant-workers-from-bengal-caught-with-35-kg-marijuana-in-kerala-11609489#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/gd0o6eqo_kerala_625x300_08_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 19:24:59.537592",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Police** in Kerala seized 35 kilograms of marijuana and arrested four West Bengal migrant workers during an anti-narcotics operation called \"Operation Toofan\". The arrests were made in Perumbavoor, where the migrants had allegedly transported the drugs from West Bengal by train and autorickshaw. The contraband was concealed in travel bags and is estimated to be worth Rs 10 lakh. Authorities suspect the accused were planning to sell the narcotics through local networks targeting migrant workers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66925,
+      "title": "Visa Expired, Abused By In-Laws: Bangladeshi Woman's Crisis In Bengal",
+      "url": "https://www.ndtv.com/india-news/visa-expired-abused-by-in-laws-bangladeshi-womans-crisis-in-bengal-11609507#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/tahjbk44_bengal-woman_625x300_08_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 19:24:42.545091",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Riya Sharma",
+      "rephrased_article": "A Bangladeshi woman, Riya Sharma, has alleged that she was assaulted by her husband and father-in-law in Nadia district, West Bengal.  Sharma claims she was severely beaten and abandoned unconscious near her relatives' home after a dispute. Her expired visa prevents her from returning to Bangladesh, leaving her in an uncertain legal situation. Local authorities are investigating the incident while Sharma’s family seeks understanding of the events and potential legal action.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66924,
+      "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/news/national/analysis-india-bloc-closes-ranks-around-congress-but-not-without-caveats/article71077850.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:24:36.087942",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Twenty-three Opposition parties**, including the **Congress**, **Samajwadi Party**, and **Trinamool Congress**, met in New Delhi on Monday to address concerns about economic distress, inflation, and educational chaos.  The bloc resolved to write to the Chief Justice of India over electoral fraud allegations, demand the resignation of the Union Education Minister, call for an all-party meeting to discuss the economic crisis, agree to hold coordination meetings every two months, and commit to daily parliamentary coordination during sessions. The meeting followed recent fissures within the alliance, including the absence of the **DMK** and the **Aam Aadmi Party**, highlighting the fragility of the coalition.  Despite these challenges, there is a broad consensus on the need to checkmate the **BJP** for political survival and the health of Indian democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66866,
       "title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
@@ -58,9 +146,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -101,9 +187,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -6188,84 +6272,6 @@
         "education",
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 61963,
-      "title": "CBSE refutes claim that its marking portal was compromised - The Hindu",
-      "url": "https://www.thehindu.com/education/cbse-refutes-claim-that-its-marking-portal-was-compromised/article71025885.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8sp4ta/article71026578.ece/alternates/LANDSCAPE_1200/CBSE_10_RESULTS.jpg",
-      "scraped_at": "2026-05-26 23:44:54.977579",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "CBSE",
-      "rephrased_article": "The **Central Board of Secondary Education (CBSE)** has rejected claims that its Onscreen Marking System (OSM) portal was compromised.  **Nisarga Adhikary**, a West Bengal-based ethical hacker, alleged vulnerabilities in the portal and claimed to have hacked into it, but the **CBSE** stated that the URL mentioned by Mr. Adhikary was only for internal testing purposes and did not hold any actual evaluation data. The **CBSE** is investigating whether the OSM portal suffered a security breach and has received over 11 lakh applications from students requesting scanned copies of answer books.  The **CBSE** plans to fulfill pending requests by May 27th and launch a new portal for verification and re-evaluation on May 29th.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 61938,
-      "title": "Leadership tussle in Karnataka: Congress high command wants Siddaramaiah to move to Rajya Sabha, sources say, even as party officially denies - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/amid-official-denials-sources-say-congress-high-command-nudges-karnataka-chief-ministersiddaramaiah-to-come-to-the-rajya-sabha/article71025684.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8jar2i/article71026463.ece/alternates/LANDSCAPE_1200/PTI05_26_2026_000365B.jpg",
-      "scraped_at": "2026-05-26 22:28:51.165985",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Siddaramaiah**, the current Chief Minister of **Karnataka**, is facing pressure to step down after a meeting with the **Congress** high command in New Delhi. The discussions centered on selecting candidates for Rajya Sabha and Legislative Council elections, but sources suggest that leadership change was also a key topic.  Despite official denials, there are indications that the party may be considering a shift in leadership if **Siddaramaiah** doesn't agree to step down.  The high command is facing pressure to make a decision before June 8th deadline for Rajya Sabha nominations.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Karnataka",
-        "Tamil Nadu",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 61923,
-      "title": "Supreme Court to pronounce verdict on Bihar SIR on May 27 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-verdict-bihar-sirmay-27/article71026534.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rvbwyk/article71026654.ece/alternates/LANDSCAPE_1200/Bihar%20SIR.jpg",
-      "scraped_at": "2026-05-26 21:04:24.883798",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Supreme Court",
-      "rephrased_article": "The **Supreme Court** will rule on Wednesday on petitions challenging the constitutionality of the Special Intensive Revision (SIR) exercise in Bihar. The petitions, filed by the **Association for Democratic Reforms**, accused the **Election Commission of India (ECI)** of exceeding its powers and lacking transparency.  The court's decision could impact future SIR rounds across several states. The inclusion of Aadhaar as a proof of identity was one significant judicial intervention during the hearings.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Bihar",
-        "Tamil Nadu",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]

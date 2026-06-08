@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 18:41:55.724646",
+  "generated_at": "2026-06-08 21:10:22.026332",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1312,
+    "total_articles": 1313,
     "articles_last_30d": 739
   },
   "top_cities_30d": {
     "Delhi": 731,
     "Mumbai": 78,
     "Bengaluru": 55,
-    "Kolkata": 45,
+    "Kolkata": 44,
     "Hyderabad": 35,
     "Chennai": 30,
     "Jaipur": 18,
@@ -26,7 +26,7 @@
   "top_topics_30d": {
     "foreign_policy": 540,
     "crime_violence": 229,
-    "education": 155,
+    "education": 154,
     "economy": 142,
     "protest_opposition": 138,
     "infrastructure": 73,
@@ -36,6 +36,38 @@
     "rape_sexual_crime": 22
   },
   "recent_articles": [
+    {
+      "id": 66933,
+      "title": "Omar Abdullah Invites INDIA Bloc To Join J&K Statehood Protest",
+      "url": "https://www.ndtv.com/india-news/omar-abdullah-invites-india-bloc-to-join-j-k-statehood-protest-11609352#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-08/a67eor1o_omar-abdullah_625x300_31_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 19:25:13.537659",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Omar Abdullah",
+      "rephrased_article": "**Omar Abdullah**, the **Chief Minister of Jammu and Kashmir**, invited members of the **INDIA bloc** to join his planned protest for the restoration of J&K's statehood at the start of the Monsoon session of parliament next month.  Abdullah, who attended today's INDIA bloc meeting, will write to opposition parties to participate in the march. This move comes after Abdullah distanced himself from the **Congress** and the **INDIA bloc** for the past 19 months, but now seeks support for his agenda.",
+      "party_mentioned": [
+        "Congress",
+        "National Conference"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Srinagar"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66879,
       "title": "Guns N’ Roses lock in mega 2026 India tour with stops in Bengaluru and Guwahati | Music News - The Indian Express",
@@ -132,9 +164,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -175,9 +205,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Punjab",
@@ -211,8 +239,7 @@
         "AAP"
       ],
       "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Kejriwal"
+        "Arvind Kejriwal"
       ],
       "states_mentioned": [
         "Punjab"
@@ -5632,30 +5659,6 @@
       "topic_tags": [
         "education",
         "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65210,
-      "title": "\"We Are Scared\": Nepal Family Relocates After Deadly Delhi Hotel Fire",
-      "url": "https://www.ndtv.com/india-news/we-are-scared-nepal-family-relocates-after-deadly-delhi-hotel-fire-11589826#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/67idtp_delhi-hospital-foreigner-_625x300_04_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-04 09:14:47.140048",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "A massive fire at the Flourish Inn Hotel in Delhi's Malviya Nagar has tragically killed 21 people, including 12 foreigners. **Ravi Lal Sarpota**, a Nepali national who traveled to India for medical treatment with his family, expressed fear after witnessing the incident and concerns about safety violations in hotels in the area. The fire started in the restaurant area of the hotel and rapidly spread through the building, prompting police to order the closure of nearby Green Residency Hotel, allegedly linked to the same owner. Authorities are investigating the tragedy and have indicated that several hotels in the locality may be operating without mandatory fire clearances.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
         "foreign_policy"
       ]
     }
