@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 12:08:22.190377",
+  "generated_at": "2026-06-08 16:20:31.092729",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,16 +8,16 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 431,
-    "articles_last_30d": 201
+    "total_articles": 432,
+    "articles_last_30d": 202
   },
   "top_cities_30d": {
     "Delhi": 68,
     "Lucknow": 34,
     "Ghaziabad": 13,
     "Kanpur": 12,
+    "Mumbai": 11,
     "Kolkata": 10,
-    "Mumbai": 10,
     "Bengaluru": 9,
     "Agra": 7,
     "Prayagraj": 7,
@@ -25,7 +25,7 @@
   },
   "top_topics_30d": {
     "foreign_policy": 142,
-    "crime_violence": 83,
+    "crime_violence": 84,
     "education": 53,
     "protest_opposition": 44,
     "economy": 29,
@@ -36,6 +36,27 @@
     "rape_sexual_crime": 9
   },
   "recent_articles": [
+    {
+      "id": 66814,
+      "title": "Priyanka Chopra once 'kicked' designer shoes on set, says Quantico stylist Cary Tauben",
+      "url": "https://indianexpress.com/article/lifestyle/workplace/priyanka-chopra-quantico-stylist-cary-tauben-shoot-prep-pep-talk-10729274/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Priyanka-Chopra-in-Quantico.jpg",
+      "scraped_at": "2026-06-08 12:04:12.386267",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Priyanka Chopra",
+      "rephrased_article": "**Priyanka Chopra**, styled by **Cary Tauben**, impressed audiences with her performance in the action thriller \"Quantico\".  Tauben shared anecdotes about Chopra's demanding nature during fittings, while **Dr Rimpa Sarkar**, a clinical psychologist, explained how pep talks and affirmations can help individuals manage stress and boost confidence. These techniques, according to **Sarkar**, can improve concentration, reduce anxiety, and increase motivation, ultimately leading to better performance outcomes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Mumbai"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 66755,
       "title": "Delhi government ITI admission 2026: Registration opens today at itidelhi.admissions.nic.in",
@@ -5814,38 +5835,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 58075,
-      "title": "NDA leaders stake claim to form Assam government - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-government-formation-himanta-biswa-sarma-legislature-party-leader-bjp-nda-alliance/article70961689.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/7rl29/article70961697.ece/alternates/LANDSCAPE_1200/20260510043L.jpg",
-      "scraped_at": "2026-05-10 09:21:43.990318",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Himanta Biswa Sarma**, leader of the **Bharatiya Janata Party (BJP)**-led **National Democratic Alliance (NDA)**, was unanimously elected as the leader of the Assam Legislature Party.  Following this, the NDA staked a claim to form the government in Assam with the support of 102 MLAs. The swearing-in ceremony for the new council of ministers is scheduled for May 12th. **J.P. Nadda**, Union Minister and central observer for the BJP Legislature Party meeting, announced that eight BJP legislators proposed Sarma's name as their leader.  The newly elected members of the BJP and its regional allies — **Asom Gana Parishad (AGP)** and **Bodoland People’s Front (BPF)** — chose their leaders in the morning.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Haryana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
       ]
     }
   ]

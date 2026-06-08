@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08 12:08:21.818098",
-  "total": 618,
+  "generated_at": "2026-06-08 16:20:30.661167",
+  "total": 621,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 497,
+    "power_abuse": 500,
     "scale_of_harm": 35,
     "institutional_failure": 66,
     "suppression": 20
@@ -4813,6 +4813,98 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 66810,
+      "title": "Court quashes anti-Islamic speech case against BJP leader, says ‘not a theatre for political rivalry’ | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/court-anti-islamic-speech-bjp-leader-theatre-political-rivalry-10729788/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Madras-High-court-BJP-political-rivalry.jpg",
+      "scraped_at": "2026-06-08 12:03:48.847741",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The Madras High Court quashed criminal proceedings against a BJP functionary and a Hindu Munnani office-bearer accused of delivering anti-Islamic hate speech. The court ruled that criminal courts should not be used as \"theatres for political rivalry\" and that prosecutions based on vague allegations cannot proceed.  The court emphasized the importance of precise facts, lawful procedure, and adherence to statutory safeguards in protecting communal harmony while ensuring individual liberties are protected.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The court dismisses hate speech charges, potentially emboldening future bigotry."
+    },
+    {
+      "id": 66805,
+      "title": "Messi event case: Calcutta High Court rejects former minister Aroop Biswas’s ‘urgent’ plea for protection from arrest | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chennai/madras-high-court-sun-tv-defamation-judgement-actor-sukanya-veerappan-10729870/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/12/Aroop.jpg",
+      "scraped_at": "2026-06-08 12:03:30.672800",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Aroop Biswas",
+      "rephrased_article": "The Calcutta High Court rejected former West Bengal sports minister Aroop Biswas's plea for an urgent hearing on protection from arrest in a case related to the Messi visit fiasco.  Biswas, represented by senior advocate Kishore Datta, argued for urgency due to his apprehension of arrest but the court declined, stating that matters cannot be taken up urgently and directing him to file anticipatory bail through regular channels. The police have summoned Biswas to appear before them on Monday after he skipped a summons earlier.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence",
+        "education",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "A former minister seeks protection from arrest in a case involving misuse of public funds."
+    },
+    {
+      "id": 66777,
+      "title": "Messi event case: Calcutta High Court rejects former minister Aroop Biswas’s ‘urgent’ plea for protection from arrest | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/calcutta-hc-rejects-aroop-biswas-arrest-protection-plea-messi-kolkata-case-10729883/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/12/Aroop.jpg",
+      "scraped_at": "2026-06-08 12:01:53.249854",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Aroop Biswas",
+      "rephrased_article": "The Calcutta High Court rejected former West Bengal sports minister Aroop Biswas's plea for an urgent hearing on protection from arrest in a case related to the Messi visit fiasco.  Biswas was summoned by police after he skipped a Friday summons, and the court ordered him to appear before them on Monday. The complainant, Satadru Dutta, accused Biswas of threatening and extorting passes from him.  The case file was reopened after the BJP took office in the state.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "education",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Abuse of power by a former minister is being reported as routine."
     },
     {
       "id": 66748,
@@ -15347,101 +15439,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "The bill undermines the Supreme Court's ruling on CAPF officer appointments."
-    },
-    {
-      "id": 43600,
-      "title": "Three members of inter-State human trafficking racket arrested, two women rescued - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/three-members-of-inter-state-human-trafficking-racket-arrested-two-women-rescued/article70766787.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-20 17:14:42.940702",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "human traffickers",
-      "rephrased_article": "Two tribal women from Bejjur mandal in Kumram Bheem Asifabad district, India were rescued by local police after being allegedly kidnapped and trafficked to Madhya Pradesh. Prashanth alias Bablu and his wife Savitha, residents of Kistampet in Mancherial district, along with Mahesh from Sironcha in Maharashtra, were arrested for their involvement in the human trafficking case.  The women were reportedly lured by the couple on the pretext of a better life and forced into marriage against their will. The accused are now facing charges while Rahul, another suspect, remains at large.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Human trafficking is a serious crime and a grave abuse of power."
-    },
-    {
-      "id": 43513,
-      "title": "Uttam Nagar violence: Mehbooba Mufti seeks PM Modi's intervention ahead of Id - The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/uttam-nagar-violence-mehbooba-mufti-seeks-pm-modis-intervention-ahead-of-id/article70765408.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/7kan7i/article70765418.ece/alternates/LANDSCAPE_1200/PTI03_01_2026_000271A.jpg",
-      "scraped_at": "2026-03-20 12:01:39.024099",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "Mehbooba Mufti, president of the PDP, called for intervention from Prime Minister Narendra Modi and Union Home Minister Amit Shah to quell communal tensions in Delhi's Uttam Nagar.  She expressed concern over escalating violence following a Holi clash, urging authorities to prevent further bloodshed before Eid. The tension stems from the death of Tarun, who was killed in a dispute with his neighbors, which escalated into protests and vandalism by Hindu groups.",
-      "party_mentioned": [
-        "BJP",
-        "PDP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Amit Shah",
-        "Rahul Gandhi",
-        "Mehbooba Mufti"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Escalating communal violence ahead of Eid raises concerns about public safety."
-    },
-    {
-      "id": 43467,
-      "title": "Eid celebrations dimmed by war and displacement across Middle East | US-Israel war on Iran News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/873A1842-1773951784.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-03-20 10:08:20.809151",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Israel",
-      "rephrased_article": "Economic crises and conflict have dimmed traditional Eid celebrations in Iran, Gaza, and Lebanon. Alaa, a Syrian refugee in Beirut, is homeless after fleeing attacks on his home in Dahiyeh. In Gaza, the economic crisis exacerbated by Israel's war has made it difficult for Palestinians to afford even basic necessities.  Khaled Deeb, a 62-year-old resident of Gaza City, can no longer afford the fruit and vegetables he would typically buy for Eid. Shireen Shreim, another Palestinian mother in Gaza, echoes these sentiments, describing her family's hardship as they struggle to survive amidst ongoing violence.  Despite these challenges, some individuals like Karim Safieddine are choosing to celebrate Eid with their families, emphasizing the importance of communal solidarity during times of conflict.",
-      "party_mentioned": [
-        "SAD"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "The article highlights the suffering of civilians due to war and displacement."
     }
   ]
 }

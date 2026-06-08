@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 12:08:22.172485",
+  "generated_at": "2026-06-08 16:20:31.075122",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,27 +8,27 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1133,
-    "articles_last_30d": 314
+    "total_articles": 1134,
+    "articles_last_30d": 312
   },
   "top_cities_30d": {
-    "Chennai": 74,
-    "Delhi": 49,
+    "Chennai": 73,
+    "Delhi": 48,
     "Coimbatore": 23,
     "Bengaluru": 20,
     "Madurai": 14,
-    "Hyderabad": 12,
+    "Hyderabad": 13,
     "Mumbai": 10,
     "Kolkata": 3,
     "Amritsar": 3,
     "Varanasi": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 214,
+    "foreign_policy": 212,
     "protest_opposition": 71,
     "education": 58,
+    "economy": 48,
     "crime_violence": 48,
-    "economy": 47,
     "infrastructure": 37,
     "corruption_scam": 27,
     "farmer_agriculture": 24,
@@ -36,6 +36,36 @@
     "political_gaffe": 18
   },
   "recent_articles": [
+    {
+      "id": 66783,
+      "title": "KABIL acquires five critical mineral blocks in Argentina - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kabil-acquires-five-critical-mineral-blocks-in-argentina/article71076400.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/tmac0r/article71076572.ece/alternates/LANDSCAPE_1200/_DSC3516.JPG",
+      "scraped_at": "2026-06-08 12:02:11.753196",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Khanij Bidesh India Limited (KABIL)**, a joint venture of **National Aluminium Company Ltd. (NALCO)** and **Hindustan Copper Ltd. (HCL)**, has secured five critical mineral blocks in Argentina, marking a significant step towards reducing India's heavy reliance on imports.  Union Minister for Coal and Mines G. Kishan Reddy announced the acquisition during a press conference in Hyderabad, emphasizing the importance of securing overseas mineral assets to bolster domestic capabilities and achieve long-term self-reliance. The **National Critical Minerals Mission**, with an outlay of ₹32,000 crore, aims to strengthen domestic capabilities and achieve long-term self-reliance by addressing India's current dependence on imports for nearly 93% of its critical mineral requirements.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Maharashtra",
+        "Odisha",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66749,
       "title": "INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting",
@@ -5482,39 +5512,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 61487,
-      "title": "BJP tried to stitch coalition govt. in Tamil Nadu with DMK and AIADMK on election result day: Congress MP Manickam Tagore - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-tried-to-stitch-coalition-govt-in-tamil-nadu-with-dmk-and-aiadmk-on-election-result-day-congress-mp-manickam-tagore/article71017525.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/kkxxek/article71017761.ece/alternates/LANDSCAPE_1200/9864_25_3_2024_15_49_18_2_IMG_20240325_142620.JPG",
-      "scraped_at": "2026-05-24 18:43:39.476929",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**BJP** MP B. Manickam Tagore accused **DMK** leader Udhayanidhi Stalin of attempting to form a coalition government with the **AIADMK** to prevent TVK president C. Joseph Vijay from becoming Chief Minister.  He claimed that the **DMK**'s actions were orchestrated by the **BJP**, and that they will soon strike an understanding with the party, potentially leading to DMK MPs abstaining from voting against the BJP-led government in Parliament.  **Girish Chodankar**, Congress's in-charge for Tamil Nadu and Puducherry, responded to the accusations by stating that the attacks on the Congress should not be directed at the people of Tamil Nadu who voted.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI",
-        "DMK",
-        "AIADMK",
-        "INDIA Alliance"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
       ]
     }
   ]

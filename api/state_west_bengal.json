@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 12:08:22.202627",
+  "generated_at": "2026-06-08 16:20:31.104579",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": 0.8,
   "stats": {
-    "total_articles": 631,
-    "articles_last_30d": 251
+    "total_articles": 638,
+    "articles_last_30d": 255
   },
   "top_cities_30d": {
-    "Kolkata": 98,
-    "Delhi": 49,
-    "Mumbai": 12,
+    "Kolkata": 103,
+    "Delhi": 52,
+    "Mumbai": 14,
     "Bengaluru": 11,
     "Chennai": 9,
     "Hyderabad": 7,
@@ -24,18 +24,249 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 193,
-    "education": 142,
-    "protest_opposition": 106,
-    "crime_violence": 79,
-    "economy": 38,
-    "corruption_scam": 34,
-    "infrastructure": 29,
+    "foreign_policy": 197,
+    "education": 149,
+    "protest_opposition": 111,
+    "crime_violence": 80,
+    "economy": 40,
+    "corruption_scam": 37,
+    "infrastructure": 28,
     "health": 13,
     "rape_sexual_crime": 12,
     "farmer_agriculture": 10
   },
   "recent_articles": [
+    {
+      "id": 66805,
+      "title": "Messi event case: Calcutta High Court rejects former minister Aroop Biswas’s ‘urgent’ plea for protection from arrest | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chennai/madras-high-court-sun-tv-defamation-judgement-actor-sukanya-veerappan-10729870/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/12/Aroop.jpg",
+      "scraped_at": "2026-06-08 12:03:30.672800",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Aroop Biswas",
+      "rephrased_article": "The **Calcutta High Court** rejected former West Bengal sports minister Aroop Biswas's plea for an urgent hearing on protection from arrest in a case related to the Messi visit fiasco.  Biswas, represented by senior advocate Kishore Datta, argued for urgency due to his apprehension of arrest but the court declined, stating that matters cannot be taken up urgently and directing him to file anticipatory bail through regular channels. The police have summoned Biswas to appear before them on Monday after he skipped a summons earlier.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "crime_violence",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66796,
+      "title": "Trinamool Rebel, 10 MPs Meet BJP Leaders As Mamata Banerjee Attends INDIA Meet",
+      "url": "https://www.ndtv.com/india-news/uttarakhands-disaster-management-model-gets-global-recognition-at-brics-11606646#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/vch80rts_tmc-mps-meeting_625x300_08_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 12:03:00.972340",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** is facing internal unrest following their defeat in the West Bengal assembly elections. At least 20 of its 41 MPs are reportedly in contact with the **BJP**, possibly planning to defect, and a closed-door meeting between at least 10 rebel MPs and **BJP** leaders in Delhi has intensified the turmoil. The rebels, including Kakoli Ghosh Dastidar, Shatabdi Roy, and others, plan to inform the Speaker tomorrow that they are the \"real Trinamool\" and form their own bloc within parliament.  This shift in focus from West Bengal to Delhi comes after reports of dissent within the party, with some MPs refusing to attend party activities or addressing their leader by her usual title.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66792,
+      "title": "Trinamool Rebel, 10 MPs Meet BJP Leaders As Mamata Banerjee Attends INDIA Meet",
+      "url": "https://www.ndtv.com/india-news/phone-switched-off-a-connecting-flight-inside-trinamool-congress-tmc-rumblings-11605922#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/vch80rts_tmc-mps-meeting_625x300_08_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 12:02:45.561397",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Trinamool Congress** MPs are reportedly planning to defect from the party after their recent election defeat in West Bengal, with at least 20 of the 41 MPs possibly joining forces with the **BJP**.  A closed-door meeting between these rebel MPs and **BJP** leaders is taking place in Delhi, led by **Shatabdi Roy**, **Kakoli Ghosh Dastidar**, and others. The rebels aim to form a separate bloc within Parliament and are planning to inform the Speaker of their intentions tomorrow. This internal unrest follows reports of dissent among party members, including some MPs who have switched off their phones or attended meetings with opposing figures.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66788,
+      "title": "After Bengal Defeat, Is Mamata Banerjee Preparing For National Politics?",
+      "url": "https://www.ndtv.com/opinion/after-bengal-defeat-is-mamata-banerjee-preparing-for-national-politics-11607266#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2023-08/tc8b0jl8_mamata-banerjee_625x300_22_August_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 12:02:33.103921",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "**Mamata Banerjee**, after a difficult election in West Bengal, is shifting her political focus to national opposition coordination through the **INDIA alliance**. This move comes after the 2026 assembly elections and following internal divisions within the Trinamool Congress.  She is actively attending **INDIA** meetings, seeking to build broader solidarity among opposition parties and position herself as a cooperative participant in the anti-BJP platform rather than a direct leader. The goal is to leverage national issues like unemployment, inflation, and foreign policy to counter the BJP's narrative. This strategy aims to address internal party concerns and regain lost political ground both within West Bengal and nationally.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 66778,
+      "title": "Trinamool Congress Crisis Sharmila Sarkar: \"20 Trinamool MPs Forming New Bloc, Will Support NDA\": Rebel MP To NDTV",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-sharmila-sarkar-20-trinamool-mps-forming-new-bloc-will-support-nda-rebel-mp-to-ndtv-11607268#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/vch80rts_tmc-mps-meeting_625x300_08_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 12:01:54.895435",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "**Kakoli Ghosh Dastidar** and 20 other **Trinamool Congress** MPs plan to join the **NDA coalition**, formally writing to Speaker **Om Birla**. The group, led by **Ghosh Dastidar** as chief whip, will form a separate bloc with **Shatabdi Roy** as deputy leader. This move follows similar actions in West Bengal where 58 MLAs formed a rival bloc, mirroring the Shiv Sena's strategy.  The decision comes after discussions and is seen as a response to Mamata Banerjee's leadership style and recent party decisions.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "Shiv Sena",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66777,
+      "title": "Messi event case: Calcutta High Court rejects former minister Aroop Biswas’s ‘urgent’ plea for protection from arrest | Legal News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/calcutta-hc-rejects-aroop-biswas-arrest-protection-plea-messi-kolkata-case-10729883/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2025/12/Aroop.jpg",
+      "scraped_at": "2026-06-08 12:01:53.249854",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Aroop Biswas",
+      "rephrased_article": "The **Calcutta High Court** rejected former West Bengal sports minister Aroop Biswas's plea for an urgent hearing on protection from arrest in a case related to the Messi visit fiasco.  Biswas was summoned by police after he skipped a Friday summons, and the court ordered him to appear before them on Monday. The complainant, Satadru Dutta, accused Biswas of threatening and extorting passes from him.  The case file was reopened after the BJP took office in the state.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66775,
+      "title": "Trinamool rebellion reaches Delhi: 20 party MPs in talks with Union Minister Bhupendra Yadav - The Hindu",
+      "url": "https://www.thehindu.com/news/national/trinamool-rebellion-reaches-delhi-as-20-party-mps-hold-meeting-at-union-minister-bhupendra-yadavs-residence/article71076265.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/o3uxb6/article71076569.ece/alternates/LANDSCAPE_1200/24_All_Party_Leaders_Meeting_30_01_Delhi.jpg",
+      "scraped_at": "2026-06-08 12:01:49.495803",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "BJP",
+      "rephrased_article": "Several Trinamool Congress MPs, including Howrah MP Prasun Banerjee and Bankura MP Anup Chakraborty, held a meeting at **Bhupendra Yadav’s** residence on June 8th, 2026. The meeting, which included 20 Lok Sabha MPs, aims to form a separate bloc and support the BJP-led NDA government.  The rebellion comes after nearly 60 Trinamool MLAs elected Ritabrata Banerjee as Leader of Opposition, signaling a growing rift within the party. **Suvendu Adhikari**, who was likely present at the meeting, is emerging as a potential leader of this new bloc.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66749,
       "title": "INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting",
@@ -6005,195 +6236,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 61690,
-      "title": "India orders migrant detention centres in West Bengal, sparking arbitrary explusion fears - World - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002999/india-orders-migrant-detention-centres-in-west-bengal-sparking-arbitrary-explusion-fears",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/25131904ae58849.webp",
-      "scraped_at": "2026-05-25 17:54:19.369974",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India’s ruling Bharatiya Janata Party (BJP)** has ordered the establishment of detention centers for undocumented Bangladeshis and Rohingyas in West Bengal state, sparking fear among minorities. The directive comes after the BJP won power in the eastern state for the first time since independence.  The government defends its \"detect, delete, deport\" principle, arguing that those targeted are illegal migrants. Critics argue the policy reflects a hardline stance on immigration and disproportionately impacts Muslims, while rights activists raise concerns about potential human rights violations.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 61649,
-      "title": "Cattle market empties as fear grips Eid preparations in India’s West Bengal | Religion News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/cattle-market-empties-as-fear-grips-eid-preparations-in-indias-west-bengal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/At-the-Dhulagarh-market-3-1779695979-e1779710047424.jpg?resize=1200%2C675",
-      "scraped_at": "2026-05-25 15:58:23.800393",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The Dhulagarh cattle market in West Bengal, India, is deserted as the Hindu-majority BJP government's new regulations on cattle slaughter have disrupted Eid al-Adha preparations.  **Prime Minister Narendra Modi**, a Hindu nationalist leader, and his party have implemented stricter laws prohibiting cattle slaughter without proper certification, leading to economic hardship for Muslim traders who rely on selling beef for the festival. **Chief Minister Suvendu Adhikari** has ordered strict enforcement of these laws, resulting in many Muslims closing their shops and businesses.  The BJP's victory has also led to restrictions on street prayers in Muslim neighborhoods, further exacerbating tensions.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "crime_violence",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61636,
-      "title": "CPI(M) sees silver lining in Falta Assembly re-poll results - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/cpim-sees-silver-lining-in-falta-assembly-re-poll-results/article71021729.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/tvwidg/article71022146.ece/alternates/LANDSCAPE_1200/20260524288L.jpg",
-      "scraped_at": "2026-05-25 15:56:16.407286",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "CPI(M)",
-      "rephrased_article": "**The Communist Party of India (Marxist)** (CPI(M)) is celebrating the significant increase in vote share for its candidate in the re-poll at Falta assembly constituency.  **Sambhu Nath Kurmi**, a CPI(M) candidate, secured the runner-up position after the BJP's **Debangshu Panda** won by a large margin. The party's state secretary, **Md. Salim**, attributed this success to the CPI(M)'s focus on the poor and marginalized, while criticizing the Trinamool Congress for suppressing democratic rights.  The re-poll followed allegations of electoral malpractice during the second phase of West Bengal assembly elections in April.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61590,
-      "title": "‘Needless fuss’: Kerala CM V.D. Satheesan defends posting former State poll chief Rathan Kelkar as his Secretary - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/needless-fuss-kerala-cm-vd-satheesan-defends-posting-former-state-poll-chief-rathan-kelkar-as-his-secretary/article71020418.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1lxoqx/article71020436.ece/alternates/LANDSCAPE_1200/Satheesan08.JPG",
-      "scraped_at": "2026-05-25 09:17:28.180790",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "V.D. Satheesan",
-      "rephrased_article": "**Kerala Chief Minister V.D. Satheesan** stated that the appointment of **Rathan U. Kelkar**, former Chief Electoral Officer (Kerala), as his Secretary was not a cause for concern and dismissed criticisms from the opposition.  He emphasized that no political party in Kerala had accused Mr. Kelkar of election manipulation, noting that he was appointed by the previous CPI(M)-led LDF government. **Mr. Satheesan** further highlighted that Mr. Kelkar's appointment is not comparable to similar controversies in West Bengal where allegations against the CEO were made.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool",
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61570,
-      "title": "BJP MLA insulted migrant workers in Hubballi assuming they are infiltrators: Congress leader - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bjp-mla-mahesh-tenginakai-insulted-migrant-workers-in-hubballi-assuming-they-are-infiltrators-says-congress-leader-rajat-ullagaddimath/article71018193.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/uqznm0/article71019826.ece/alternates/LANDSCAPE_1200/2699_3_5_2023_19_58_38_2_04HUBLIMAHESHTENGINAKAI.JPG",
-      "scraped_at": "2026-05-25 05:12:37.312883",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Mahesh Tenginakai",
-      "rephrased_article": "**Congress** leader Rajat Ullagaddimath has accused **Mahesh Tenginakai**, a **Hubballi-Dharwad Central MLA**, of insulting migrant workers by interrogating them in an inhumane manner at a bus stand.  Ullagaddimath criticized both the MLA and police officers for failing to uphold the law, claiming that the police appeased the MLA despite witnessing his actions. Ullagaddimath expressed concern over the treatment of laborers and questioned the future of infrastructure projects in Hubballi if such behavior continues.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61564,
-      "title": "Former Kerala Chief Electoral Officer Rathan U. Kelkar takes charge as Secretary to CM Satheesan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/former-kerala-chief-electoral-officer-rathan-u-kelkar-takes-charge-as-secretary-to-chief-minister/article71017928.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/kerala/w53305/article71017925.ece/alternates/LANDSCAPE_1200/kel.jpg",
-      "scraped_at": "2026-05-25 05:11:22.702336",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Rathan U. Kelkar**, former Chief Electoral Officer of Kerala, assumed the role of Secretary to **Chief Minister V.D. Satheesan**.  The appointment has been met with criticism from the **CPI(M)** and **BJP**, who accuse the Congress of rewarding officials for election results. However, **Congress** leaders defend the decision, highlighting **Kelkar's** reputation as an efficient officer.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61489,
-      "title": "Govt. plans to complete paddy procurement over next 10 days: Uttam Kumar Reddy - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/govt-plans-to-complete-paddy-procurement-over-next-10-days-uttam-kumar-reddy/article71018436.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/telangana/qo643b/article71018432.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-24%20at%207.26.47%20PM.jpeg",
-      "scraped_at": "2026-05-24 18:44:16.988961",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "**N. Uttam Kumar Reddy**, **Minister for Civil Supplies and Irrigation** of **Telangana**, warned rice millers against deducting weight from paddy brought by farmers during the current procurement season. He emphasized that the government is committed to ensuring no farmer suffers losses due to any discrepancies in weight deductions.  He also stated that despite facing operational and financial pressures, the government aims to procure 75 lakh tonnes of paddy within the next 10 days. The Minister highlighted the unprecedented agricultural output this Rabi season, urging officials to complete procurement operations swiftly.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "farmer_agriculture"
       ]
     }
   ]
