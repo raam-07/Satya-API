@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 16:20:31.017390",
+  "generated_at": "2026-06-08 18:41:55.648008",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1233,
-    "articles_last_30d": 414
+    "total_articles": 1238,
+    "articles_last_30d": 417
   },
   "top_cities_30d": {
-    "Delhi": 80,
+    "Delhi": 81,
     "Bengaluru": 33,
     "Chennai": 22,
     "Hyderabad": 21,
@@ -24,18 +24,174 @@
     "Nagpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 265,
-    "protest_opposition": 100,
-    "education": 98,
-    "crime_violence": 87,
+    "foreign_policy": 269,
+    "education": 99,
+    "protest_opposition": 99,
+    "crime_violence": 91,
     "economy": 64,
     "health": 39,
+    "political_gaffe": 36,
     "infrastructure": 35,
-    "corruption_scam": 33,
-    "political_gaffe": 33,
+    "corruption_scam": 35,
     "farmer_agriculture": 19
   },
   "recent_articles": [
+    {
+      "id": 66885,
+      "title": "Who is Indian-origin Nithya Raman who made Donald Trump, Elon Musk jittery over LA mayor primary? - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/who-is-indian-origin-nithya-raman-who-made-donald-trump-elon-musk-jittery-over-la-mayor-primary/articleshow/131588022.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131588050,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-08 16:38:31.322036",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Nithya Raman",
+      "rephrased_article": "**President Donald Trump** and **Elon Musk** have revived their election fraud claims in the Los Angeles mayoral primary, despite an ongoing count that has projected **Karen Bass** and **Nithya Raman** to advance to a run-off.  **Nithya Raman**, a progressive who is now second in the race, initially faced challenges but has surged ahead of Republican candidate **Spencer Pratt**. The Department of Justice sent an Assistant U.S. Attorney to observe vote counting, while **California Attorney General Rob Bonta** reassured the public about election integrity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66866,
+      "title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+      "url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/hemt335_hardeep-puri_625x300_08_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 16:37:44.754918",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "INDIA alliance",
+      "rephrased_article": "**Hardeep Singh Puri**, Union Minister, stated that the **INDIA alliance** is facing internal contradictions and appears to be unravelling. He cited public criticism of **Mamata Banerjee** by **Rahul Gandhi** and the resignation of Trinamool Congress MP Sukhendu Sekhar Roy as evidence of this weakening.  Puri believes the BJP's recent victory in West Bengal has emboldened them to contest half the seats in Punjab, where they are targeting the AAP government's fiscal irresponsibility, law and order issues, and drug crisis. He predicts that the alliance will continue to struggle, with more constituent parties drifting toward new formulations.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "CPM",
+        "DMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "rape_sexual_crime",
+        "crime_violence",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66861,
+      "title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+      "url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/hemt335_hardeep-puri_625x300_08_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 16:37:22.533409",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "INDIA alliance",
+      "rephrased_article": "**Hardeep Singh Puri**, Union Minister, stated that the **INDIA alliance** is unraveling due to internal contradictions and party conflicts. He highlighted the Trinamool Congress's internal revolt, exemplified by the resignation of MP Sukhendu Sekhar Roy, citing corruption, political killings, and atrocities against women as reasons for his exit.  Puri also criticized the AAP government in Punjab for fiscal irresponsibility, worsening law and order, and a deepening drug crisis. He predicted that the **INDIA alliance** will \"stutter along,\" with more constituent parties drifting toward new formulations.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "CPM",
+        "DMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "rape_sexual_crime",
+        "crime_violence",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66847,
+      "title": "They Stole Wallet Loaded With Cash On A Bus. Then Luck Ran Out",
+      "url": "https://www.ndtv.com/india-news/2-arrested-in-kerala-for-stealing-wallet-full-of-cash-on-bus-11608853#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/eln4nbe4_kerala_625x300_08_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 16:36:37.727727",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Radha and Ratheesh",
+      "rephrased_article": "**Radha** and **Ratheesh**, a woman and her male accomplice, were arrested in Kerala's Ernakulam district for allegedly stealing a wallet from a passenger on a private bus in Perumbavoor. The incident occurred as passengers disembarked at the Perumbavoor private bus stand.  CCTV footage captured the theft, prompting police to launch an investigation that led to the suspects' arrest.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 66839,
+      "title": "Name Congress as “All India Nazi Party”, says KTR - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/name-congress-as-all-india-nazi-party-says-ktr/article71078009.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 16:36:17.323420",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, demanded an explanation from **Rahul Gandhi**, leader of the opposition in Lok Sabha, regarding **A. Revanth Reddy's** controversial remarks comparing India to a Nazi regime. **Rao** criticized **Revanth Reddy's** ideology and called for **Gandhi's** intervention, stating that such statements are a confession of fascist governance.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66800,
       "title": "Left-Leaning Social Media Group Admins Under Scanner In Kerala \"Kafir\" Case",
@@ -5219,140 +5375,6 @@
         "education",
         "economy"
       ]
-    },
-    {
-      "id": 63824,
-      "title": "RCB vs GT: How RCB's bowlers out thought and outplayed Gujarat Titans in IPL final - India Today",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shekhar-kapur-wants-to-cast-ipl-sensation-vaibhav-suryavanshi-in-masoom-2919954-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/josh-hazlewood-314047746-16x9_0.jpg?VersionId=55UvshSFdgfkZ2g.xi_zoXKMsKr7fO6i",
-      "scraped_at": "2026-05-31 16:45:21.234140",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "RCB",
-      "rephrased_article": "**Royal Challengers Bengaluru's** pace attack dominated the Gujarat Titans in the IPL 2026 final, restricting them to 155 for 8.  The **RCB** bowlers exploited a sluggish Ahmedabad surface by consistently bowling hard lengths and short balls, forcing batters into uncomfortable shots and leading to several dismissals. **Josh Hazlewood**, **Rasikh Salam Dar**, and **Bhuvneshwar Kumar** were key contributors in dismantling the Gujarat Titans' batting lineup.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63821,
-      "title": "Attack On Abhishek Banerjee In Bengal Gives INDIA Bloc Fresh Momentum",
-      "url": "https://www.ndtv.com/india-news/attack-on-abhishek-banerjee-in-bengal-gives-india-bloc-fresh-momentum-11572450#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/pm4gn4hc_abhishek-banerjee-_625x300_31_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 16:45:05.656690",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Abhishek Banerjee**, a **Trinamool Congress** MP, was assaulted while visiting the family of a deceased party leader in Bengal. Opposition leaders condemned the attack as an example of the BJP's \"politics of vendetta\" and expressed concern about its implications for democracy.  The incident has sparked sympathy for **Mamata Banerjee** within the **INDIA alliance**, prompting some leaders to rally in her support. While the future of the **INDIA alliance** remains uncertain, the attack on **Banerjee** may have served as a catalyst for renewed cohesion among opposition parties.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "Samajwadi Party",
-        "DMK",
-        "INDIA Alliance"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Rahul Gandhi",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "education",
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63819,
-      "title": "Rising dengue cases cause concern in Thripunithura municipality - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/rising-dengue-cases-cause-concern-in-thripunithura-municipality/article71045515.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-31 16:44:53.357330",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "**Residents**, **civic representatives**, and health authorities in Thripunithura municipality are concerned about a cluster of dengue cases reported from Ward 1.  **Dr. Sona Rajan Manamel**, medical officer at the Urban Primary Health Centre, identified 12 cases, primarily concentrated on Parayapparambil Lane and Pulse Nagar Road in Kozhivettumveli. **Civic representatives** have expressed frustration with residents' lack of cooperation in eliminating mosquito breeding sites. **Dr. Rajeev Jayadevan**, convener of the Research Cell of the Kerala State IMA, urges caution as the monsoon approaches, emphasizing the importance of maintaining clean surroundings to prevent disease spread.  The **Kochi Corporation** has initiated source reduction activities in all wards to contain the outbreak.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63816,
-      "title": "Vice President's 'Youngsters Will Follow The Cockroach' Warning To Media",
-      "url": "https://www.ndtv.com/india-news/vice-presidents-youngsters-will-follow-the-cockroach-warning-to-media-11572500#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2025-08/tiup9dk_cp-radhakrishnan_625x300_17_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-31 16:44:44.403823",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "C P Radhakrishnan",
-      "rephrased_article": "**Vice President C P Radhakrishnan** urged media to focus on positive news and constructive journalism to guide youth effectively. He criticized overemphasis on fleeting issues like the Cockroach Janata Party satire, stating that youngsters would follow such \"cockroaches\" if not exposed to positive information. **Radhakrishnan** emphasized that national development requires collective effort and stressed the role of responsible media institutions in building public confidence.  He also highlighted the importance of editorial space for opinion while urging objectivity in news reporting.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Kerala",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "economy"
-      ]
-    },
-    {
-      "id": 63810,
-      "title": "RCB vs GT: How RCB's bowlers out thought and outplayed Gujarat Titans in IPL final - India Today",
-      "url": "https://www.indiatoday.in/sports/cricket/story/how-rcb-bowlers-dismantled-gujarat-titans-in-ipl-2026-final-2919993-2026-05-31?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/josh-hazlewood-314047746-16x9_0.jpg?VersionId=55UvshSFdgfkZ2g.xi_zoXKMsKr7fO6i",
-      "scraped_at": "2026-05-31 16:44:34.034092",
-      "category": "sports",
-      "sentiment": "positive",
-      "sentiment_target": "RCB",
-      "rephrased_article": "**Royal Challengers Bengaluru's** pace attack dominated the **Gujarat Titans** in the IPL 2026 final, restricting them to a below-par 155 for 8 at the Narendra Modi Stadium.  The team utilized a sluggish Ahmedabad surface by consistently bowling hard lengths and short balls, forcing batters into uncomfortable shots and resulting in multiple dismissals. **Josh Hazlewood**, **Rajat Patidar**, and **Rasikh Salam Dar** were key contributors to RCB's victory.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": []
     }
   ]
 }

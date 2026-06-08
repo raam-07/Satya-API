@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 16:20:30.965161",
+  "generated_at": "2026-06-08 18:41:55.607054",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 283,
-    "articles_last_30d": 121
+    "total_articles": 284,
+    "articles_last_30d": 122
   },
   "top_cities_30d": {
     "Delhi": 52,
@@ -19,13 +19,13 @@
     "Chennai": 8,
     "Hyderabad": 7,
     "Bengaluru": 5,
+    "Lucknow": 5,
     "Ahmedabad": 4,
-    "Lucknow": 4,
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 87,
-    "crime_violence": 39,
+    "foreign_policy": 88,
+    "crime_violence": 40,
     "education": 35,
     "protest_opposition": 20,
     "economy": 19,
@@ -36,6 +36,33 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 66882,
+      "title": "Phone theft claim, train chase, then a fatal shove: Cops solve Bihar cleric’s murder | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/up-bihar-cleric-pushed-moving-train-accused-arrested-grp-10730218/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/man-who-pushed-Bihar-cleric.jpg",
+      "scraped_at": "2026-06-08 16:38:22.916819",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Pankaj Rajput",
+      "rephrased_article": "The **Government Railway Police (GRP)** in Uttar Pradesh have arrested a suspect, **Pankaj Rajput**, for the death of Bihar cleric, Maulana Tauseef Raza.  Raza was fatally pushed from a train in Bareilly on April 26th after an altercation over a stolen mobile phone. The GRP identified Rajput through a video recorded by Home Guards exam aspirants who witnessed the incident and scanned CCTV footage from railway platforms.  Rajput admitted to pushing Raza after assaulting him while intoxicated.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66749,
       "title": "INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting",
@@ -5923,36 +5950,6 @@
       "topic_tags": [
         "protest_opposition",
         "corruption_scam",
-        "economy"
-      ]
-    },
-    {
-      "id": 49461,
-      "title": "States to be pushed for ‘utility led aggregation’ to meet PM Surya Ghar targets - The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/states-to-be-pushed-for-utility-led-aggregation-to-meet-pm-surya-ghar-targets/article70838602.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/peui8k/article70839353.ece/alternates/LANDSCAPE_1200/2026-03-16T230431Z_1282920369_RC2GXHAR2HH3_RTRMADP_3_INDIA-COALMINE-CLOSURE.JPG",
-      "scraped_at": "2026-04-08 21:02:39.271860",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "PM Surya Ghar program",
-      "rephrased_article": "The **Ministry of New and Renewable Energy (MNRE)** is seeking to boost the adoption of its **PM Surya Ghar** program, which aims to provide solar energy access to one crore households by March 2027. The MNRE is encouraging states to adopt a “utility-led aggregation (ULA)” model where electricity distribution companies will pay for rooftop solar installations in eligible households.  The program has seen limited uptake but the MNRE is proposing incentives to increase participation. Despite this, India's renewable energy growth was significant in 2025-26, adding 55.3 gigawatts of non-fossil capacity, with solar power accounting for 44.6 GW.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Bihar",
-        "Kerala",
-        "Odisha",
-        "Telangana",
-        "Tripura",
-        "Jammu",
-        "Kashmir",
-        "Ladakh",
-        "Andaman"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
         "economy"
       ]
     }

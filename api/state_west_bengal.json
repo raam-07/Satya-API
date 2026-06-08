@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 16:20:31.104579",
+  "generated_at": "2026-06-08 18:41:55.717265",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 0.8,
   "stats": {
-    "total_articles": 638,
+    "total_articles": 640,
     "articles_last_30d": 255
   },
   "top_cities_30d": {
     "Kolkata": 103,
-    "Delhi": 52,
+    "Delhi": 54,
     "Mumbai": 14,
     "Bengaluru": 11,
     "Chennai": 9,
@@ -24,18 +24,104 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 197,
-    "education": 149,
+    "foreign_policy": 198,
+    "education": 151,
     "protest_opposition": 111,
-    "crime_violence": 80,
+    "crime_violence": 82,
     "economy": 40,
-    "corruption_scam": 37,
-    "infrastructure": 28,
+    "corruption_scam": 39,
+    "infrastructure": 27,
+    "rape_sexual_crime": 14,
     "health": 13,
-    "rape_sexual_crime": 12,
     "farmer_agriculture": 10
   },
   "recent_articles": [
+    {
+      "id": 66866,
+      "title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+      "url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/hemt335_hardeep-puri_625x300_08_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 16:37:44.754918",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "INDIA alliance",
+      "rephrased_article": "**Hardeep Singh Puri**, Union Minister, stated that the **INDIA alliance** is facing internal contradictions and appears to be unravelling. He cited public criticism of **Mamata Banerjee** by **Rahul Gandhi** and the resignation of Trinamool Congress MP Sukhendu Sekhar Roy as evidence of this weakening.  Puri believes the BJP's recent victory in West Bengal has emboldened them to contest half the seats in Punjab, where they are targeting the AAP government's fiscal irresponsibility, law and order issues, and drug crisis. He predicts that the alliance will continue to struggle, with more constituent parties drifting toward new formulations.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "CPM",
+        "DMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "rape_sexual_crime",
+        "crime_violence",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66861,
+      "title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+      "url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/hemt335_hardeep-puri_625x300_08_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 16:37:22.533409",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "INDIA alliance",
+      "rephrased_article": "**Hardeep Singh Puri**, Union Minister, stated that the **INDIA alliance** is unraveling due to internal contradictions and party conflicts. He highlighted the Trinamool Congress's internal revolt, exemplified by the resignation of MP Sukhendu Sekhar Roy, citing corruption, political killings, and atrocities against women as reasons for his exit.  Puri also criticized the AAP government in Punjab for fiscal irresponsibility, worsening law and order, and a deepening drug crisis. He predicted that the **INDIA alliance** will \"stutter along,\" with more constituent parties drifting toward new formulations.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "CPM",
+        "DMK",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "education",
+        "rape_sexual_crime",
+        "crime_violence",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 66805,
       "title": "Messi event case: Calcutta High Court rejects former minister Aroop Biswas’s ‘urgent’ plea for protection from arrest | Legal News - The Indian Express",
@@ -6180,62 +6266,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 61805,
-      "title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/j5w9fx/article71022323.ece/alternates/LANDSCAPE_1200/20260514514L.jpg",
-      "scraped_at": "2026-05-26 04:51:03.882465",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "TMC",
-      "rephrased_article": "**Kolkata Police** officials visited **Abhishek Banerjee's** residence on Monday to collect security equipment, part of a continued crackdown on illegal construction by the new **West Bengal** government.  The demolition of an illegally constructed **TMC** party office in Konnagar district and multiple multi-storeyed buildings across the state have been carried out since the BJP assumed power on May 4, 2026. **Minister Agnimitra Paul** stated that those responsible for illegal construction will face consequences.  The crackdown has led to arrests of several local leaders, including a TMC councillor's husband and another leader accused of extortion. The **TMC** is facing internal turmoil with many councillors resigning and party members being arrested.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61771,
-      "title": "Amit Shah to visit border areas over next three weeks - The Hindu",
-      "url": "https://www.thehindu.com/news/national/amit-shah-to-visit-border-areas-over-next-three-weeks/article71022402.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3tte0m/article71022465.ece/alternates/LANDSCAPE_1200/Modi-to-launch-GBUG10OD6.4.jpg.jpg",
-      "scraped_at": "2026-05-25 22:42:07.159461",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Amit Shah",
-      "rephrased_article": "**Union Home Minister Amit Shah** began a three-week tour of India's border areas on Tuesday, May 26, 2026, visiting Rajasthan and Gujarat. He will meet with state officials, BSF officers, and representatives from the Union Home Ministry to assess security situations along the Pakistan and Bangladesh borders. **Shah** plans to unveil a \"Smart Border Concept\" soon, equipped with drones, radars, cameras, and other technology to enhance border security.  He also stated that a high-powered demography mission will be announced soon to identify infiltration routes.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "Rajasthan",
-        "Tripura",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

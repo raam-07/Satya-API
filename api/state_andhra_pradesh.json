@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 16:20:30.947312",
+  "generated_at": "2026-06-08 18:41:55.593020",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 517,
+    "total_articles": 518,
     "articles_last_30d": 157
   },
   "top_cities_30d": {
     "Delhi": 32,
-    "Visakhapatnam": 22,
+    "Visakhapatnam": 23,
     "Hyderabad": 18,
     "Chennai": 12,
     "Mumbai": 7,
@@ -25,17 +25,47 @@
   },
   "top_topics_30d": {
     "foreign_policy": 96,
-    "education": 32,
+    "education": 31,
     "economy": 30,
     "infrastructure": 22,
+    "crime_violence": 20,
     "health": 19,
-    "crime_violence": 19,
     "protest_opposition": 15,
     "farmer_agriculture": 12,
     "political_gaffe": 6,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 66853,
+      "title": "8 Workers Killed At Vizag Steel Plant As Molten Iron Spills",
+      "url": "https://www.ndtv.com/india-news/5-workers-killed-at-vizag-steel-plant-as-molten-iron-spills-11607919#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/04i02l9k_molten-iron_625x300_08_June_26.jpeg",
+      "scraped_at": "2026-06-08 16:36:58.390240",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "Eight workers at the **Rashtriya Ispat Nigam Ltd (Vizag Steel Plant)** were killed and six others injured when molten iron spilled on them.  **Prime Minister Narendra Modi** expressed condolences and offered an ex-gratia of Rs 2 lakh to the families of the deceased and Rs 50,000 to the injured. **Andhra Pradesh Chief Minister Chandrababu Naidu** also expressed his grief and directed relief measures. The incident occurred at 4:15 pm on Monday when molten iron was being moved in a bucket by a crane.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66783,
       "title": "KABIL acquires five critical mineral blocks in Argentina - The Hindu",
@@ -5462,29 +5492,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 54690,
-      "title": "Naidu sets ₹4.60-a-unit power purchase target for Andhra Pradesh by year-end - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-sets-460-a-unit-power-purchase-target-for-andhra-pradesh-by-year-end/article70911413.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/todays-paper/2lx7g/article70903771.ece/alternates/LANDSCAPE_1200/Naidu-calls-forG03FT6R71.3.jpg.jpg",
-      "scraped_at": "2026-04-27 14:09:53.068208",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "N. Chandrababu Naidu",
-      "rephrased_article": "**Andhra Pradesh Chief Minister N. Chandrababu Naidu** directed officials to reduce the state's power purchase cost to ₹4.60 per unit by year-end and increase renewable energy generation.  He emphasized technology-driven reforms in the power sector, urging officials to study cost-effective methods globally and prioritize research and analysis within the department. **Naidu** also called for expanding renewable energy sources to over 50% of the state's power generation by 2028-29 and setting up a dedicated Energy University.  The meeting was attended by Energy Minister Gottipati Ravi Kumar and senior officials from various departments.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 16:20:31.082785",
+  "generated_at": "2026-06-08 18:41:55.700198",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 530,
-    "articles_last_30d": 169
+    "total_articles": 531,
+    "articles_last_30d": 168
   },
   "top_cities_30d": {
     "Hyderabad": 61,
@@ -24,18 +24,44 @@
     "Jaipur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 99,
-    "infrastructure": 35,
+    "foreign_policy": 98,
     "economy": 34,
-    "education": 28,
-    "crime_violence": 26,
+    "infrastructure": 34,
+    "education": 27,
+    "crime_violence": 27,
     "protest_opposition": 19,
-    "farmer_agriculture": 18,
+    "farmer_agriculture": 17,
+    "political_gaffe": 15,
     "health": 14,
-    "political_gaffe": 14,
     "rape_sexual_crime": 13
   },
   "recent_articles": [
+    {
+      "id": 66839,
+      "title": "Name Congress as “All India Nazi Party”, says KTR - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/name-congress-as-all-india-nazi-party-says-ktr/article71078009.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 16:36:17.323420",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, demanded an explanation from **Rahul Gandhi**, leader of the opposition in Lok Sabha, regarding **A. Revanth Reddy's** controversial remarks comparing India to a Nazi regime. **Rao** criticized **Revanth Reddy's** ideology and called for **Gandhi's** intervention, stating that such statements are a confession of fascist governance.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
     {
       "id": 66738,
       "title": "Resident doctor assaulted at Hyderabad’s Niloufer Hospital by patient’s attendants - The Hindu",
@@ -5344,51 +5370,6 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 55833,
-      "title": "Census 2027: Around 82 lakh households have opted for self enumeration as field visits begin in 5 states - The Hindu",
-      "url": "https://www.thehindu.com/news/national/census-2027-around-82-lakh-households-have-opted-for-self-enumeration-as-field-visits-begin-in-5-states/article70929763.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/h39h07/article70929765.ece/alternates/LANDSCAPE_1200/CENSUS%20DIGITAL%20MAPPING%20DELHI%202026_27_04_26.jpg",
-      "scraped_at": "2026-05-01 21:01:16.172783",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**The Union government** announced that over 82 lakh households have utilized the self-enumeration facility during the initial Houselisting and Housing Operations (HLO) phase of Census 2027. The exercise, which commenced on May 1st in several states including Andhra Pradesh, Haryana, Chandigarh, Madhya Pradesh, Chhattisgarh, and Rajasthan, aims to collect data about household facilities and demographics.  The HLO will continue until May 30th, with trained enumerators visiting each house for verification.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Bihar",
-        "Chhattisgarh",
-        "Goa",
-        "Haryana",
-        "Jharkhand",
-        "Karnataka",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Meghalaya",
-        "Mizoram",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Telangana",
-        "Uttarakhand",
-        "Delhi",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]
