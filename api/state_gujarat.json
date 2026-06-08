@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 21:10:21.890137",
+  "generated_at": "2026-06-08 22:52:37.095686",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,24 +8,24 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1260,
-    "articles_last_30d": 567
+    "total_articles": 1261,
+    "articles_last_30d": 566
   },
   "top_cities_30d": {
-    "Delhi": 160,
+    "Delhi": 159,
     "Ahmedabad": 78,
-    "Bengaluru": 77,
+    "Bengaluru": 76,
     "Mumbai": 44,
     "Chennai": 33,
-    "Hyderabad": 29,
-    "Kolkata": 27,
+    "Hyderabad": 30,
+    "Kolkata": 26,
     "Surat": 24,
     "Jaipur": 12,
     "Vadodara": 11
   },
   "top_topics_30d": {
-    "foreign_policy": 407,
-    "economy": 142,
+    "foreign_policy": 406,
+    "economy": 141,
     "crime_violence": 106,
     "education": 101,
     "infrastructure": 85,
@@ -36,6 +36,57 @@
     "health": 26
   },
   "recent_articles": [
+    {
+      "id": 67009,
+      "title": "INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-leaders-unanimous-statement-on-june-8-2026/article71076046.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/k7dq1/article71076061.ece/alternates/LANDSCAPE_1200/Kharge.jpg",
+      "scraped_at": "2026-06-08 21:24:49.014590",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The INDIA bloc, led by **Congress** president Mallikarjun Kharge, met to discuss concerns over the special intensive revision (SIR) and alleged 'vote loot'. The meeting saw criticism of the Congress's handling of the recent Rajya Sabha election in Bihar, with leaders calling for a more concrete organizational structure.  The bloc also discussed the post-poll violence in West Bengal and called for an all-party meeting to address the current economic situation. **Mamata Banerjee**, who led the charge for unity after her party's defeat in the recent Assembly elections, urged the alliance to respond to youth protests under the banner of the Cockroach Janta Party.  The bloc will meet again in August.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "Janata Dal",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Nitish Kumar",
+        "Nitish",
+        "Pinarayi Vijayan",
+        "Uddhav Thackeray",
+        "Omar Abdullah",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66946,
       "title": "A boost for the Karnataka workforce - The Hindu",
@@ -74,9 +125,7 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "S. Jaishankar",
-        "Jaishankar"
+        "S. Jaishankar"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -5472,31 +5521,6 @@
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 64691,
-      "title": "India Rejects \"Third Party Roles\" To Resolve Boundary Row With Nepal",
-      "url": "https://www.ndtv.com/india-news/india-rejects-third-party-roles-to-resolve-boundary-row-with-nepal-11582745#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2024-12/em8kj2ro_randhir-jaiswal_625x300_20_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-02 19:45:14.427334",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India** rejected **Nepal's** request for third-party involvement in its boundary dispute, stating that bilateral mechanisms are sufficient to address the issue. The **External Affairs Ministry** spokesperson confirmed that 98% of the India-Nepal border has been demarcated, with some unresolved segments due to the shifting of the Gandak river and cross-border occupation.  **Nepal's** Prime Minister Balendra Shah had sought involvement from China and the UK, but **India** maintains that there is no role for third parties in this bilateral matter.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Uttarakhand"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
     }
   ]
 }

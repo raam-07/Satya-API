@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 21:10:21.986053",
+  "generated_at": "2026-06-08 22:52:37.188797",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1137,
-    "articles_last_30d": 312
+    "total_articles": 1139,
+    "articles_last_30d": 310
   },
   "top_cities_30d": {
     "Chennai": 72,
     "Delhi": 48,
     "Coimbatore": 23,
     "Bengaluru": 20,
-    "Hyderabad": 14,
+    "Hyderabad": 16,
     "Madurai": 14,
     "Mumbai": 10,
     "Kolkata": 3,
@@ -24,10 +24,10 @@
     "Varanasi": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 211,
-    "protest_opposition": 72,
-    "education": 58,
-    "economy": 49,
+    "foreign_policy": 209,
+    "protest_opposition": 74,
+    "education": 59,
+    "economy": 50,
     "crime_violence": 48,
     "infrastructure": 37,
     "corruption_scam": 28,
@@ -36,6 +36,57 @@
     "political_gaffe": 18
   },
   "recent_articles": [
+    {
+      "id": 67009,
+      "title": "INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-leaders-unanimous-statement-on-june-8-2026/article71076046.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/k7dq1/article71076061.ece/alternates/LANDSCAPE_1200/Kharge.jpg",
+      "scraped_at": "2026-06-08 21:24:49.014590",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The INDIA bloc, led by **Congress** president Mallikarjun Kharge, met to discuss concerns over the special intensive revision (SIR) and alleged 'vote loot'. The meeting saw criticism of the Congress's handling of the recent Rajya Sabha election in Bihar, with leaders calling for a more concrete organizational structure.  The bloc also discussed the post-poll violence in West Bengal and called for an all-party meeting to address the current economic situation. **Mamata Banerjee**, who led the charge for unity after her party's defeat in the recent Assembly elections, urged the alliance to respond to youth protests under the banner of the Cockroach Janta Party.  The bloc will meet again in August.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "Janata Dal",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Nitish Kumar",
+        "Nitish",
+        "Pinarayi Vijayan",
+        "Uddhav Thackeray",
+        "Omar Abdullah",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66976,
       "title": "House pattas will be given to eligible SC/ST families within 5 years: Minister Vanni Arasu - The Hindu",
@@ -101,12 +152,47 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 66907,
+      "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/unity-in-diversity-on-the-india-bloc-meeting/article71076818.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:24:13.989866",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bharatiya Janata Party (BJP)",
+      "rephrased_article": "**Twenty-three Opposition parties**, including **Congress president Mallikarjun Kharge** and **Leader of the Opposition (Lok Sabha) Rahul Gandhi**, met in Delhi on Monday to address concerns about economic distress, inflation, and educational chaos. The bloc resolved to write to the Chief Justice of India regarding electoral fraud, demand the resignation of Union Education Minister Dharmendra Pradhan, call for an all-party meeting to address the economic crisis, agree to hold coordination meetings every two months, and commit to daily parliamentary coordination.  The meeting aimed to strengthen institutional framework for Opposition coordination and press the ruling **Bharatiya Janata Party (BJP)** on governance failures.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Sonia Gandhi",
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -5465,60 +5551,6 @@
         "foreign_policy",
         "crime_violence",
         "corruption_scam"
-      ]
-    },
-    {
-      "id": 61540,
-      "title": "Man held on charge of theft - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/man-held-on-charge-of-theft/article71017168.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-24 22:38:59.168143",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Bekal police",
-      "rephrased_article": "**Rajan alias Natarajan**, a 61-year-old Tamil Nadu native, has been arrested in connection with the theft of 45 sovereigns of gold ornaments from a house in Bekal.  The **Bekal police** recovered the stolen jewelry from a hideout on Netaji Road near Kannur railway station following a complaint filed by the homeowner.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61520,
-      "title": "Disambiguating a year of flux: expert panels at The Hindu Huddle, 2026 - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/disambiguating-a-year-of-flux-expert-panels-at-the-hindu-huddle-2026/article71018047.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/itvub5/article71018873.ece/alternates/LANDSCAPE_1200/Logo%20Unit%20ILU%201.pdf.jpg",
-      "scraped_at": "2026-05-24 21:33:30.294464",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "The Hindu Huddle",
-      "rephrased_article": "The sixth edition of The Hindu Group's ideas conclave, The Hindu Huddle, will be held in Bengaluru on June 5 and 6, 2026.  **Siddaramaiah**, **D.K. Shivakumar**, and other Chief Ministers from across the country will participate alongside Union Minister of State for Skill Development and Entrepreneurship **Jayant Chaudhary**, **Omar Abdullah**, **A. Revanth Reddy**, and **K.G. Arunraj**. The event will feature discussions on topics such as tariffs' impact on the Indian economy, diplomacy in managing crises, and artificial intelligence's influence on various aspects of life.  **The Hindu Huddle** is presented by the Sami-Sabinsa Group and co-powered by the Government of Telangana.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah",
-        "Omar Abdullah"
-      ],
-      "states_mentioned": [
-        "Meghalaya",
-        "Tamil Nadu",
-        "Telangana",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
       ]
     }
   ]

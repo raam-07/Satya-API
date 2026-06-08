@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 21:10:21.918129",
+  "generated_at": "2026-06-08 22:52:37.122819",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 834,
-    "articles_last_30d": 329
+    "total_articles": 840,
+    "articles_last_30d": 334
   },
   "top_cities_30d": {
     "Bengaluru": 116,
     "Delhi": 61,
     "Bangalore": 27,
-    "Hyderabad": 15,
+    "Hyderabad": 17,
     "Ahmedabad": 10,
     "Mumbai": 9,
     "Chennai": 9,
@@ -24,18 +24,173 @@
     "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 188,
-    "education": 68,
-    "protest_opposition": 60,
-    "economy": 52,
-    "crime_violence": 46,
+    "foreign_policy": 191,
+    "education": 70,
+    "protest_opposition": 63,
+    "economy": 56,
+    "crime_violence": 45,
+    "political_gaffe": 44,
     "infrastructure": 43,
-    "political_gaffe": 43,
     "health": 25,
     "farmer_agriculture": 25,
     "corruption_scam": 23
   },
   "recent_articles": [
+    {
+      "id": 67043,
+      "title": "Congress workers seek Cabinet berth for Belur Gopala Krishna - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-workers-seek-cabinet-berth-for-belur-gopala-krishna/article71076025.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/y9sejz/article71076778.ece/alternates/LANDSCAPE_1200/gopalakrishna_07.jpg",
+      "scraped_at": "2026-06-08 21:26:27.915873",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Belur Gopala Krishna",
+      "rephrased_article": "**B.R. Jayanth**, a senior Congress leader, urged the party's high command to appoint **Belur Gopala Krishna**, a Congress MLA for Sagar and Belur, to the Karnataka State Cabinet.  Jayanth argued that Gopala Krishna, who has been elected three times, deserves an opportunity similar to **Madhu Bangarappa**, who served as Minister for Education for three years.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67040,
+      "title": "Solar firms move Karnataka HC over “unreasonable” domestic-cell mandate - The Hindu",
+      "url": "https://www.thehindu.com/business/solar-firms-move-karnataka-hc-over-unreasonable-domestic-cell-mandate/article71077405.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/dplf66/article69970784.ece/alternates/LANDSCAPE_1200/iStock-1660573741.jpg",
+      "scraped_at": "2026-06-08 21:26:13.731920",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Karnataka Government",
+      "rephrased_article": "**KRESMA**, a group of solar manufacturers and developers, has filed a petition in the **Karnataka High Court** to delay a new rule requiring most new solar projects to use domestically made cells. The petitioners argue that the price difference between Indian-made and imported solar cells is significant, with domestic prices around ₹13 per watt compared to international prices of about ₹5 per watt.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 67009,
+      "title": "INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-leaders-unanimous-statement-on-june-8-2026/article71076046.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/k7dq1/article71076061.ece/alternates/LANDSCAPE_1200/Kharge.jpg",
+      "scraped_at": "2026-06-08 21:24:49.014590",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The INDIA bloc, led by **Congress** president Mallikarjun Kharge, met to discuss concerns over the special intensive revision (SIR) and alleged 'vote loot'. The meeting saw criticism of the Congress's handling of the recent Rajya Sabha election in Bihar, with leaders calling for a more concrete organizational structure.  The bloc also discussed the post-poll violence in West Bengal and called for an all-party meeting to address the current economic situation. **Mamata Banerjee**, who led the charge for unity after her party's defeat in the recent Assembly elections, urged the alliance to respond to youth protests under the banner of the Cockroach Janta Party.  The bloc will meet again in August.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "Janata Dal",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Nitish Kumar",
+        "Nitish",
+        "Pinarayi Vijayan",
+        "Uddhav Thackeray",
+        "Omar Abdullah",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67004,
+      "title": "28 lakh candidates for 32,679 vacancies: Oppn. attacks U.P. govt. over ‘mounting unemployment’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/president-murmu-confers-7-kirti-chakras-iaf-pilot-gaganyatri-prasanth-nair-among-recipients/article71078197.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2efifa/article71078311.ece/alternates/LANDSCAPE_1200/PTI06_08_2026_000567A.jpg",
+      "scraped_at": "2026-06-08 21:24:25.671284",
+      "category": "economy",
+      "sentiment": "negative",
+      "sentiment_target": "Uttar Pradesh Government",
+      "rephrased_article": "Over 28.8 million candidates have applied for the Uttar Pradesh Police Constable (Civil Police) Direct Recruitment-2025, creating unprecedented rush at transportation hubs across the state. **Opposition parties**, including the Congress and Samajwadi Party, criticize the BJP government's handling of unemployment, attributing the high numbers to a lack of opportunities and economic distress.  The **Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)** has implemented measures like additional security personnel and metal detectors to ensure the integrity of the exam.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66994,
+      "title": "28 lakh candidates for 32,679 vacancies: Oppn. attacks U.P. govt. over ‘mounting unemployment’ - The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/28-lakh-candidates-for-32679-vacancies-oppn-attacks-up-govt-over-mounting-unemployment/article71077434.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/2efifa/article71078311.ece/alternates/LANDSCAPE_1200/PTI06_08_2026_000567A.jpg",
+      "scraped_at": "2026-06-08 21:24:08.185555",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP government",
+      "rephrased_article": "Over 28.8 million candidates have applied for the Uttar Pradesh Police Constable (Civil Police) Direct Recruitment-2025, creating unprecedented crowds at transportation hubs across the state. **Opposition parties** like the Congress and Samajwadi Party criticized the **BJP government** for failing to address unemployment, attributing the high numbers of applicants to a lack of job opportunities. The **UPPRPB**, responsible for the exam, has implemented measures to ensure integrity, including metal detectors and increased security personnel.  The Uttar Pradesh government is offering 50% bus fare concessions for candidates traveling to take the exam.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party"
+      ],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "economy",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66946,
       "title": "A boost for the Karnataka workforce - The Hindu",
@@ -105,12 +260,47 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 66907,
+      "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/unity-in-diversity-on-the-india-bloc-meeting/article71076818.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:24:13.989866",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bharatiya Janata Party (BJP)",
+      "rephrased_article": "**Twenty-three Opposition parties**, including **Congress president Mallikarjun Kharge** and **Leader of the Opposition (Lok Sabha) Rahul Gandhi**, met in Delhi on Monday to address concerns about economic distress, inflation, and educational chaos. The bloc resolved to write to the Chief Justice of India regarding electoral fraud, demand the resignation of Union Education Minister Dharmendra Pradhan, call for an all-party meeting to address the economic crisis, agree to hold coordination meetings every two months, and commit to daily parliamentary coordination.  The meeting aimed to strengthen institutional framework for Opposition coordination and press the ruling **Bharatiya Janata Party (BJP)** on governance failures.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Sonia Gandhi",
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -5405,187 +5595,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 62885,
-      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-will-face-setback-in-2028-assembly-elections-former-bjp-mla-narasimha-naik/article71041874.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-30 21:32:51.714766",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Narasimha Naik**, former **BJP** MLA, claims that the **Congress** will face a setback in the 2028 Assembly elections without outgoing Chief Minister **Siddaramaiah**.  He argues that **Siddaramaiah's** forced resignation weakens the party and presents challenges for new leader **D.K. Shivakumar**. Naik believes this situation mirrors the impact of former Chief Minister **B.S. Yediyurappa's** resignation, suggesting a potential victory for the **BJP** in 2028.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 62881,
-      "title": "INDIA Bloc Revival In Bengal? Support For Mamata Banerjee Over Nephew's Assault",
-      "url": "https://www.ndtv.com/india-news/india-revival-in-bengal-support-for-mamata-banerjee-over-nephews-assault-11569753#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-01/pc6t8224_mamata-banerjee_160x120_05_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-30 21:32:40.041062",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "Despite losing the Bengal election, **Mamata Banerjee**'s stature within the **INDIA** bloc remains strong. Opposition leaders condemned the assault on her nephew, **Abhishek Banerjee**, by a mob in Sonarpur, South 24 Parganas.  **Mallikarjun Kharge**, **Akhilesh Yadav**, and **Arvind Kejriwal** accused the BJP of fostering political violence, while the ruling party denied involvement and blamed the TMC for mischaracterizing public anger. The incident has led to calls for stronger law-and-order measures in West Bengal.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "Samajwadi Party"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Mamata Banerjee",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 62875,
-      "title": "Congress’s message to Siddaramaiah as DKS takes charge: Won’t allow you to rest - Karnataka News | India Today",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-new-chief-minister-dk-shivakumar-kc-venugopal-backs-siddaramaiah-national-level-2919738-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/outgoing-karnataka-chief-minister-siddaramaiah-and-congress-leader-kc-venugopal-photo-pti-301446421-16x9_0.jpg?VersionId=LaODvILdWdPV8gb6ojhD8VucwZbS8NSl",
-      "scraped_at": "2026-05-30 21:32:22.009994",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DK Shivakumar",
-      "rephrased_article": "**Congress** general secretary **KC Venugopal** declared that the party will not allow former Karnataka Chief Minister Siddaramaiah to rest, urging him to continue playing an active role in both state and national politics.  After Siddaramaiah's resignation, **DK Shivakumar** was unanimously elected as the new CLP leader and formally named Karnataka’s next Chief Minister.  Siddaramaiah congratulated Shivakumar and called for a \"second freedom struggle\" to protect the country's unity and integrity. The Congress leadership expressed confidence that under Shivakumar's leadership, they will return to power in the 2028 elections.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 62873,
-      "title": "SF Campaign: Andhra has more obese men among large states, Kerala tops among women - The South First | News, Politics, Sports, Entertainment & Live Updates",
-      "url": "https://thesouthfirst.com/bold/sf-campaign-andhra-has-more-obese-men-among-large-states-kerala-tops-among-women/",
-      "source": "The South First",
-      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/05/SouthernKey.jpeg",
-      "scraped_at": "2026-05-30 21:32:19.905721",
-      "category": "health",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "The National Family Health Survey-6 (NFHS-6) revealed that **Andhra Pradesh** has the highest prevalence of overweight or obese men among large Indian states, with 47.9% of men aged 15 to 49 years classified as such.  Kerala leads in female obesity prevalence, with 46.7% of women in that age group classified as overweight or obese. The survey highlights a growing obesity burden across southern states, with rising prevalence in both urban and rural areas, raising concerns over lifestyle-related diseases. Public health experts have warned that obesity is becoming a widespread challenge across rural India as well.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Goa",
-        "Gujarat",
-        "Karnataka",
-        "Kerala",
-        "Tamil Nadu",
-        "Telangana",
-        "West Bengal",
-        "Puducherry",
-        "Chandigarh",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "health"
-      ]
-    },
-    {
-      "id": 62871,
-      "title": "DK Shivakumar To Be Sworn In As Karnataka CM On June 3 | OdishaBytes",
-      "url": "https://odishabytes.com/dk-shivakumar-to-be-sworn-in-as-karnataka-cm-on-june-3/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/DK-Shivakumar.webp",
-      "scraped_at": "2026-05-30 21:32:16.583017",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "DK Shivakumar",
-      "rephrased_article": "**Siddaramaiah** resigned as chief minister of **Karnataka**, paving the way for **DK Shivakumar** to become the new leader of the **Congress Legislative Party**.  The formal election took place on Saturday with **Shivakumar** being elected by a unanimous vote from the CLP. He will be sworn in as the next **Karnataka** chief minister on June 3rd. The focus now shifts to selecting deputy chief ministers under **Shivakumar**.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 62860,
-      "title": "Reported spousal violence declines across India, but rises sharply in Kerala: NFHS-6 - The South First | News, Politics, Sports, Entertainment & Live Updates",
-      "url": "https://thesouthfirst.com/karnataka/reported-spousal-violence-declines-across-india-but-rises-sharply-in-kerala-nfhs-6/",
-      "source": "The South First",
-      "image_url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/11/Violence-against-women.-Representative-image.-iStock.jpg",
-      "scraped_at": "2026-05-30 21:32:05.694706",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "The National Family Health Survey (NFHS-6) reveals a mixed picture of spousal violence against married women in India. While the national rate declined from 29.2% to 22.3%, Kerala saw a sharp increase, while Telangana remained among the worst-affected states with 30.8% reporting abuse.  **Karnataka** recorded one of the steepest declines, falling from 44.4% to 14.1%. The survey also found a rural-urban divide in domestic violence, with higher rates in rural areas across most states. Despite improvements nationwide, **Telangana**, **Bihar**, and **Uttar Pradesh** continue to have alarmingly high levels of spousal violence.  The survey also examined sexual violence before the age of 18 among young women aged 18-29, revealing a national decline from 1.2% to 0.7%.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Assam",
-        "Bihar",
-        "Goa",
-        "Haryana",
-        "Karnataka",
-        "Kerala",
-        "Odisha",
-        "Tamil Nadu",
-        "Telangana",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Mumbai"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime"
       ]
     }
   ]

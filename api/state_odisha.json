@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 21:10:21.960008",
+  "generated_at": "2026-06-08 22:52:37.163500",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 336,
-    "articles_last_30d": 151
+    "total_articles": 338,
+    "articles_last_30d": 153
   },
   "top_cities_30d": {
     "Delhi": 54,
+    "Hyderabad": 10,
     "Kolkata": 10,
     "Chennai": 8,
     "Bengaluru": 8,
-    "Hyderabad": 8,
     "Kanpur": 8,
     "Mumbai": 4,
     "Jaipur": 3,
@@ -24,18 +24,69 @@
     "Varanasi": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 95,
-    "education": 63,
-    "protest_opposition": 36,
+    "foreign_policy": 97,
+    "education": 65,
+    "protest_opposition": 38,
     "crime_violence": 21,
     "infrastructure": 20,
     "corruption_scam": 19,
-    "economy": 18,
+    "economy": 19,
     "health": 10,
     "political_gaffe": 5,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67009,
+      "title": "INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-leaders-unanimous-statement-on-june-8-2026/article71076046.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/k7dq1/article71076061.ece/alternates/LANDSCAPE_1200/Kharge.jpg",
+      "scraped_at": "2026-06-08 21:24:49.014590",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The INDIA bloc, led by **Congress** president Mallikarjun Kharge, met to discuss concerns over the special intensive revision (SIR) and alleged 'vote loot'. The meeting saw criticism of the Congress's handling of the recent Rajya Sabha election in Bihar, with leaders calling for a more concrete organizational structure.  The bloc also discussed the post-poll violence in West Bengal and called for an all-party meeting to address the current economic situation. **Mamata Banerjee**, who led the charge for unity after her party's defeat in the recent Assembly elections, urged the alliance to respond to youth protests under the banner of the Cockroach Janta Party.  The bloc will meet again in August.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Samajwadi Party",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "Janata Dal",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Nitish Kumar",
+        "Nitish",
+        "Pinarayi Vijayan",
+        "Uddhav Thackeray",
+        "Omar Abdullah",
+        "Akhilesh Yadav",
+        "Akhilesh"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66924,
       "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
@@ -57,12 +108,47 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "economy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 66907,
+      "title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/unity-in-diversity-on-the-india-bloc-meeting/article71076818.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-08 19:24:13.989866",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Bharatiya Janata Party (BJP)",
+      "rephrased_article": "**Twenty-three Opposition parties**, including **Congress president Mallikarjun Kharge** and **Leader of the Opposition (Lok Sabha) Rahul Gandhi**, met in Delhi on Monday to address concerns about economic distress, inflation, and educational chaos. The bloc resolved to write to the Chief Justice of India regarding electoral fraud, demand the resignation of Union Education Minister Dharmendra Pradhan, call for an all-party meeting to address the economic crisis, agree to hold coordination meetings every two months, and commit to daily parliamentary coordination.  The meeting aimed to strengthen institutional framework for Opposition coordination and press the ruling **Bharatiya Janata Party (BJP)** on governance failures.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Sonia Gandhi",
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Tamil Nadu"
@@ -5421,54 +5507,6 @@
       ],
       "topic_tags": [
         "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 54008,
-      "title": "Birds of Mangalajodi: A visual journey into Chilika’s avian paradise - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/birds-of-mangalajodi-a-visual-journey-into-chilikas-avian-paradise/article70902037.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/e8f4j5/article70902270.ece/alternates/LANDSCAPE_1200/Birds%20of%20Mangalajodi%20%2002.jpg",
-      "scraped_at": "2026-04-24 22:45:18.225520",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Birds of Mangalajodi",
-      "rephrased_article": "**Dr. Srinivasa Rao Somanchi** and his late wife, **Dr. Seetha Khambhampati**, authored the photographic book \"Birds of Mangalajodi,\" a tribute to the wetlands' birdlife. The book features striking photographs capturing the diverse species found in this significant waterfowl habitat.  The couple spent years documenting the wetlands together, with **Mr. Srinivasa Reddy**, Fellow of The Royal Photographic Society of Great Britain, praising their dedication and the book's message of passion overcoming age. Wildlife photography enthusiasts will find \"Birds of Mangalajodi\" invaluable for its insights into capturing birds in their natural habitat.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Odisha"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 53477,
-      "title": "Mahanadi tribunal gives last opportunity to Odisha, Chhattisgarh to settle river water dispute - The Hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/mahanadi-tribunal-gives-last-opportunity-to-odisha-chhattisgarh-to-settle-river-water-dispute/article70893266.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/zzxff/article70894505.ece/alternates/LANDSCAPE_1200/90092_22_7_2023_18_9_46_3_MONSOON_FLOODING_7.JPG",
-      "scraped_at": "2026-04-23 00:14:47.332313",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Mahanadi Water Disputes Tribunal",
-      "rephrased_article": "The **Mahanadi Water Disputes Tribunal (MWDT)**, chaired by former Supreme Court Judge Justice Bela M. Trivedi, is nearing a decision on the water sharing formula between **Odisha** and **Chhattisgarh**. The tribunal has given both states one last opportunity to finalize their proposals for mutual settlement by May 2, 2026, or face its own formulation.  The MWDT expressed dissatisfaction with the lack of concrete proposals and urged both parties to address the issues promptly.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Chhattisgarh",
-        "Odisha"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
         "foreign_policy"
       ]
     }
