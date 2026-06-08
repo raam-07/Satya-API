@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 07:03:58.910026",
+  "generated_at": "2026-06-08 12:08:22.130241",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,24 +8,24 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 449,
+    "total_articles": 450,
     "articles_last_30d": 220
   },
   "top_cities_30d": {
-    "Mumbai": 72,
-    "Delhi": 57,
-    "Pune": 43,
+    "Mumbai": 71,
+    "Delhi": 56,
+    "Pune": 42,
     "Nashik": 15,
-    "Nagpur": 13,
     "Kolkata": 13,
+    "Nagpur": 12,
     "Thane": 11,
     "Bengaluru": 11,
     "Hyderabad": 8,
     "Ahmedabad": 8
   },
   "top_topics_30d": {
-    "foreign_policy": 154,
-    "crime_violence": 59,
+    "foreign_policy": 153,
+    "crime_violence": 60,
     "education": 56,
     "infrastructure": 48,
     "economy": 41,
@@ -36,6 +36,31 @@
     "rape_sexual_crime": 12
   },
   "recent_articles": [
+    {
+      "id": 66734,
+      "title": "Shivam Associates collected Rs 2,400 crore, diverted Rs 55 to personal accounts: police | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/shivam-associates-scam-cid-rs-2400-crore-40000-investors-10729280/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Belagavi-Shivanand-Neelannavar.jpg",
+      "scraped_at": "2026-06-08 06:49:50.480855",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Shivam Associates",
+      "rephrased_article": "The **Karnataka Police**’s Criminal Investigation Department (CID) has revealed that **Shivam Associates**, a Belagavi-based firm, collected approximately Rs 2,400 crore from over 40,000 investors through fraudulent investment schemes. The firm, which offered annual interest rates of 36 to 60 percent, was closed after complaints under the Banning of Unregulated Deposit Schemes (BUDS) Act and the Karnataka Protection of Interest of Depositors in Financial Establishments (KPID) Act. **Deputy Inspector-General of Police, CID**, Bheemashankar S Guled, stated that the firm’s promoter, **Shivanand Neelannavar**, had no business profits but diverted funds to his personal accounts. The investigation is ongoing and has identified assets worth Rs 390 crore, with Rs 660 crore still unaccounted for.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Bangalore"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 66719,
       "title": "In cotton fields, policy is undoing what science built. That’s the challenge for the Cotton Productivity Mission | The Indian Express",
@@ -5694,33 +5719,6 @@
       "topic_tags": [
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 59371,
-      "title": "Sebi approves IPO plans of Neolite Lightings, Aspri Spirits and SS Retail - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-ipo-plans-of-neolite-lightings-aspri-spirits-and-ss-retail/articleshow/131117351.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131117371,width-1200,height-630,imgsize-5912,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-15 19:51:34.250826",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "other",
-      "rephrased_article": "**Neolite ZKW Lightings**, a manufacturer of automotive lighting products, plans to raise Rs 600 crore through a combination of fresh issue and offer-for-sale. The IPO will be used for setting up a greenfield manufacturing facility in Kancheepuram, Tamil Nadu, expanding existing operations, and repaying borrowings. **Neolite ZKW Lightings** has a significant market share in India's commercial vehicle lighting segment and serves over 40 OEM customers. Meanwhile, **Aspri Spirits**, an importer and distributor of international wine and spirits, received Sebi approval for its public issue with a proposed IPO of up to Rs 140 crore.  SS Retail, another company seeking regulatory clearance, plans to raise Rs 500 crore through its IPO, which will be used for expansion and growth.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Goa",
-        "Karnataka",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 07:03:58.894346",
+  "generated_at": "2026-06-08 12:08:22.114657",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1228,
+    "total_articles": 1230,
     "articles_last_30d": 417
   },
   "top_cities_30d": {
-    "Delhi": 79,
+    "Delhi": 81,
     "Bengaluru": 33,
     "Chennai": 22,
     "Hyderabad": 20,
@@ -25,17 +25,99 @@
   },
   "top_topics_30d": {
     "foreign_policy": 268,
-    "protest_opposition": 100,
+    "protest_opposition": 101,
     "education": 99,
-    "crime_violence": 84,
+    "crime_violence": 85,
     "economy": 64,
-    "health": 41,
-    "infrastructure": 37,
+    "health": 40,
+    "infrastructure": 36,
     "corruption_scam": 33,
     "political_gaffe": 32,
-    "farmer_agriculture": 20
+    "farmer_agriculture": 19
   },
   "recent_articles": [
+    {
+      "id": 66749,
+      "title": "INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting",
+      "url": "https://www.ndtv.com/india-news/india-bloc-meet-live-updates-congress-tmc-dmk-aap-delhi-rahul-gandhi-mamata-banerjee-vijay-tvk-stalin-opposition-11605019#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/nhrc2qm_india-bloc_625x300_08_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 06:50:51.858697",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**23** opposition parties are expected to meet in Delhi on Monday to discuss their strategy for the upcoming state and national elections. The meeting, called \"Janbandhan,\" will focus on uniting against the **BJP** and addressing differences between alliance partners.  The **Congress**, **AAP**, **DMK**, and **TVK** are among the parties expected to attend.  **Mamata Banerjee** of the **TMC** is likely to raise concerns about attacks on her party's leaders in Bengal, while **John Brittas** of the **CPI(M)** will address alleged political understanding between the Left and the **BJP** during the Kerala polls.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "DMK",
+        "JMM",
+        "INDIA Alliance",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Arvind Kejriwal",
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Uddhav Thackeray",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66746,
+      "title": "Delhi-NCR Weather Today, 8 June Live: Weather Office Predicts More Rain In Delhi-NCR",
+      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-ncr-likely-to-receive-monsoon-between-june-25-30-11604994#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-03/mqspvt9g_delhi-generic-india-gate_625x300_10_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 06:50:37.930216",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "weather",
+      "rephrased_article": "**The India Meteorological Department (IMD)** has forecast very light to light rainfall, accompanied by thunderstorms and gusty winds of up to 60 kmph for Delhi-NCR on June 11 and 12.  These conditions are expected to bring down the maximum temperature to around 35-37 degrees Celsius on June 12. The southwest monsoon made its onset over Kerala on June 4, three days later than its normal date, but weather experts expect it to advance steadily and cover most parts of the country by the third week of June.  The Regional Meteorological Centre (RMC) has issued a warning for heavy to very heavy rainfall accompanied by thunderstorms, lightning and gusty winds reaching speeds of 40 to 50 kmph in parts of Tamil Nadu, particularly along the Western Ghats, over the next few days. The IMD also reported that rainfall continued at isolated places in Rajasthan with the maximum rain of 93.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66718,
       "title": "NFHS-6 data on child nutrition carries sobering warnings | The Indian Express",
@@ -5275,57 +5357,6 @@
       ],
       "topic_tags": [
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 63780,
-      "title": "FIR against man for facilitating transfer of cyber scam funds through his bank account - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/money-mule-account-used-to-route-cyber-scam-funds-case-registered/article71044251.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-31 15:23:02.554889",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Murali G. Reddygopal",
-      "rephrased_article": "**Whitefield Cyber Crime Police** have registered a case against Murali G. Reddygopal, a 37-year-old resident of Murthinagar Cross, Bengaluru, for allegedly providing his bank account and banking facilities to cybercriminals.  The investigation revealed that the account was being used as a \"money mule\" to receive and route funds obtained through online scams in various locations across India. The police suspect Reddygopal knowingly provided his banking credentials to facilitate illegal transactions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru",
-        "Pune"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63777,
-      "title": "Kottayam, Pathanamthitta intensify monsoon preparedness efforts - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kottayam-pathanamthitta-intensify-monsoon-preparedness-efforts/article71044528.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/b7yfqe/article71045313.ece/alternates/LANDSCAPE_1200/NH28Rain04.JPEG",
-      "scraped_at": "2026-05-31 15:22:57.964000",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "District administrations",
-      "rephrased_article": "**District administrations** in Kerala have intensified preparations for the approaching southwest monsoon, focusing on tree removal and road maintenance. **District Collector Chetan Kumar Meena** directed agencies to remove hazardous trees along roadsides and in public spaces, ensuring school campuses are safe before reopening.  The meeting also emphasized the need for swift completion of road repair works and clearing obstructions in rivers and streams to prevent flooding.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
       ]
     }
   ]

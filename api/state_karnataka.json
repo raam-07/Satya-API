@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 07:03:58.885830",
+  "generated_at": "2026-06-08 12:08:22.106013",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,34 +8,141 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 827,
-    "articles_last_30d": 329
+    "total_articles": 830,
+    "articles_last_30d": 331
   },
   "top_cities_30d": {
     "Bengaluru": 115,
-    "Delhi": 60,
-    "Bangalore": 26,
+    "Delhi": 62,
+    "Bangalore": 27,
     "Hyderabad": 14,
     "Ahmedabad": 10,
     "Mumbai": 9,
     "Chennai": 9,
-    "Coimbatore": 4,
+    "Coimbatore": 5,
     "Kolkata": 4,
     "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 190,
+    "foreign_policy": 191,
     "education": 68,
-    "protest_opposition": 58,
+    "protest_opposition": 59,
     "economy": 51,
     "infrastructure": 45,
+    "crime_violence": 44,
     "political_gaffe": 43,
-    "crime_violence": 42,
-    "farmer_agriculture": 27,
-    "health": 26,
-    "corruption_scam": 22
+    "farmer_agriculture": 26,
+    "health": 25,
+    "corruption_scam": 23
   },
   "recent_articles": [
+    {
+      "id": 66749,
+      "title": "INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting",
+      "url": "https://www.ndtv.com/india-news/india-bloc-meet-live-updates-congress-tmc-dmk-aap-delhi-rahul-gandhi-mamata-banerjee-vijay-tvk-stalin-opposition-11605019#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/nhrc2qm_india-bloc_625x300_08_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 06:50:51.858697",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**23** opposition parties are expected to meet in Delhi on Monday to discuss their strategy for the upcoming state and national elections. The meeting, called \"Janbandhan,\" will focus on uniting against the **BJP** and addressing differences between alliance partners.  The **Congress**, **AAP**, **DMK**, and **TVK** are among the parties expected to attend.  **Mamata Banerjee** of the **TMC** is likely to raise concerns about attacks on her party's leaders in Bengal, while **John Brittas** of the **CPI(M)** will address alleged political understanding between the Left and the **BJP** during the Kerala polls.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "DMK",
+        "JMM",
+        "INDIA Alliance",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Arvind Kejriwal",
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Uddhav Thackeray",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66746,
+      "title": "Delhi-NCR Weather Today, 8 June Live: Weather Office Predicts More Rain In Delhi-NCR",
+      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-ncr-likely-to-receive-monsoon-between-june-25-30-11604994#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-03/mqspvt9g_delhi-generic-india-gate_625x300_10_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 06:50:37.930216",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "weather",
+      "rephrased_article": "**The India Meteorological Department (IMD)** has forecast very light to light rainfall, accompanied by thunderstorms and gusty winds of up to 60 kmph for Delhi-NCR on June 11 and 12.  These conditions are expected to bring down the maximum temperature to around 35-37 degrees Celsius on June 12. The southwest monsoon made its onset over Kerala on June 4, three days later than its normal date, but weather experts expect it to advance steadily and cover most parts of the country by the third week of June.  The Regional Meteorological Centre (RMC) has issued a warning for heavy to very heavy rainfall accompanied by thunderstorms, lightning and gusty winds reaching speeds of 40 to 50 kmph in parts of Tamil Nadu, particularly along the Western Ghats, over the next few days. The IMD also reported that rainfall continued at isolated places in Rajasthan with the maximum rain of 93.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66734,
+      "title": "Shivam Associates collected Rs 2,400 crore, diverted Rs 55 to personal accounts: police | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/shivam-associates-scam-cid-rs-2400-crore-40000-investors-10729280/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Belagavi-Shivanand-Neelannavar.jpg",
+      "scraped_at": "2026-06-08 06:49:50.480855",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Shivam Associates",
+      "rephrased_article": "The **Karnataka Police**’s Criminal Investigation Department (CID) has revealed that **Shivam Associates**, a Belagavi-based firm, collected approximately Rs 2,400 crore from over 40,000 investors through fraudulent investment schemes. The firm, which offered annual interest rates of 36 to 60 percent, was closed after complaints under the Banning of Unregulated Deposit Schemes (BUDS) Act and the Karnataka Protection of Interest of Depositors in Financial Establishments (KPID) Act. **Deputy Inspector-General of Police, CID**, Bheemashankar S Guled, stated that the firm’s promoter, **Shivanand Neelannavar**, had no business profits but diverted funds to his personal accounts. The investigation is ongoing and has identified assets worth Rs 390 crore, with Rs 660 crore still unaccounted for.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Bangalore"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 66674,
       "title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
@@ -5467,74 +5574,6 @@
       "topic_tags": [
         "protest_opposition"
       ]
-    },
-    {
-      "id": 62822,
-      "title": "From collapse to comeback: Tungabhadra dam in Karnataka gets new lease of life - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/from-collapse-to-comeback-tungabhadra-dam-in-karnataka-gets-new-lease-of-life/article70958961.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/addtol/article70987331.ece/alternates/LANDSCAPE_1200/Irrigation-workGFDFM7TN7.3.jpg.jpg",
-      "scraped_at": "2026-05-30 20:17:17.830160",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "Tungabhadra Dam",
-      "rephrased_article": "A catastrophic breach of **Crest Gate No. 19** at the Tungabhadra Dam near Hosapete, Karnataka, on August 10, 2024, caused a massive release of water, threatening irrigation for thousands of farmers in the region. The incident occurred as the reservoir was at its full capacity, with nearly 35,000 cusecs of water gushing uncontrollably through the damaged bay. Engineers worked to open additional gates to alleviate pressure on the structure while concerns grew about potential downstream impacts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Karnataka",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 62811,
-      "title": "Four in 10 cancer cases in Karnataka linked to tobacco use, shows Kidwai data - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/four-in-10-cancer-cases-in-karnataka-linked-to-tobacco-use-shows-kidwai-data/article71042109.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/agsnse/article71042458.ece/alternates/LANDSCAPE_1200/_DSC5312.jpg",
-      "scraped_at": "2026-05-30 18:49:04.984607",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "tobacco use",
-      "rephrased_article": "**The State-run Kidwai Memorial Institute of Oncology (KMIO)** in Karnataka estimates that nearly 40% of new cancer cases in the state will be linked to tobacco use by 2025.  This projection, which accounts for 10,004 deaths from cancer in 2025, highlights the significant impact of tobacco on cancer rates and mortality in the state. **World No Tobacco Day** is approaching on Sunday.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health"
-      ]
-    },
-    {
-      "id": 62808,
-      "title": "Ahead of possible Cabinet reshuffle, community representatives back their leaders for top posts - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/ahead-of-possible-cabinet-reshuffle-community-representatives-back-their-leaders-for-top-posts/article71042096.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-30 18:47:50.443897",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Dashrat Kalgurti**, leader of the **Karnataka Rajya Madiga Samaj**, urged the **Congress** leadership to appoint **K.H. Muniyappa** as Deputy Chief Minister and **R.B. Timmapur** as Home Minister in the upcoming cabinet reshuffle, emphasizing the need for greater representation of **Scheduled Castes** and other backward communities in key positions.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 07:03:58.952090",
+  "generated_at": "2026-06-08 12:08:22.172485",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1131,
+    "total_articles": 1133,
     "articles_last_30d": 314
   },
   "top_cities_30d": {
     "Chennai": 74,
-    "Delhi": 47,
-    "Coimbatore": 22,
+    "Delhi": 49,
+    "Coimbatore": 23,
     "Bengaluru": 20,
     "Madurai": 14,
     "Hyderabad": 12,
@@ -25,17 +25,99 @@
   },
   "top_topics_30d": {
     "foreign_policy": 214,
-    "protest_opposition": 70,
+    "protest_opposition": 71,
     "education": 58,
-    "economy": 48,
     "crime_violence": 48,
+    "economy": 47,
     "infrastructure": 37,
-    "corruption_scam": 28,
+    "corruption_scam": 27,
     "farmer_agriculture": 24,
     "health": 22,
     "political_gaffe": 18
   },
   "recent_articles": [
+    {
+      "id": 66749,
+      "title": "INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting",
+      "url": "https://www.ndtv.com/india-news/india-bloc-meet-live-updates-congress-tmc-dmk-aap-delhi-rahul-gandhi-mamata-banerjee-vijay-tvk-stalin-opposition-11605019#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/nhrc2qm_india-bloc_625x300_08_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 06:50:51.858697",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**23** opposition parties are expected to meet in Delhi on Monday to discuss their strategy for the upcoming state and national elections. The meeting, called \"Janbandhan,\" will focus on uniting against the **BJP** and addressing differences between alliance partners.  The **Congress**, **AAP**, **DMK**, and **TVK** are among the parties expected to attend.  **Mamata Banerjee** of the **TMC** is likely to raise concerns about attacks on her party's leaders in Bengal, while **John Brittas** of the **CPI(M)** will address alleged political understanding between the Left and the **BJP** during the Kerala polls.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "TMC",
+        "Trinamool",
+        "Samajwadi Party",
+        "Shiv Sena",
+        "CPI",
+        "RJD",
+        "DMK",
+        "JMM",
+        "INDIA Alliance",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Arvind Kejriwal",
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Uddhav Thackeray",
+        "Akhilesh Yadav"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Jharkhand",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66746,
+      "title": "Delhi-NCR Weather Today, 8 June Live: Weather Office Predicts More Rain In Delhi-NCR",
+      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-ncr-likely-to-receive-monsoon-between-june-25-30-11604994#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-03/mqspvt9g_delhi-generic-india-gate_625x300_10_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-08 06:50:37.930216",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "weather",
+      "rephrased_article": "**The India Meteorological Department (IMD)** has forecast very light to light rainfall, accompanied by thunderstorms and gusty winds of up to 60 kmph for Delhi-NCR on June 11 and 12.  These conditions are expected to bring down the maximum temperature to around 35-37 degrees Celsius on June 12. The southwest monsoon made its onset over Kerala on June 4, three days later than its normal date, but weather experts expect it to advance steadily and cover most parts of the country by the third week of June.  The Regional Meteorological Centre (RMC) has issued a warning for heavy to very heavy rainfall accompanied by thunderstorms, lightning and gusty winds reaching speeds of 40 to 50 kmph in parts of Tamil Nadu, particularly along the Western Ghats, over the next few days. The IMD also reported that rainfall continued at isolated places in Rajasthan with the maximum rain of 93.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66716,
       "title": "40 years ago June 8, 1986: Ten shot dead in Punjab | The Indian Express",
@@ -5432,59 +5514,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61442,
-      "title": "SC’s revival of Section 124A for consenting accused brings back a colonial law the country did not want - The Hindu",
-      "url": "https://www.thehindu.com/news/national/sc-revival-of-section-124a-proceedings-revives-debate-over-colonial-era-sedition-law/article71017818.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/pu1mm9/article71018099.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_15_17_2_18_08_2025_SUPREME_COURT04.jpg",
-      "scraped_at": "2026-05-24 15:48:21.629137",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Supreme Court",
-      "rephrased_article": "The **Supreme Court** has revived Section 124A (sedition) proceedings, despite its previous agreement that the provision was outdated and oppressive. The court's May 21 clarification allows for trials under the section to proceed on merits, but this decision does not address the constitutionality of the law itself, which is still being challenged in separate petitions.  The court’s action has created practical challenges, particularly regarding situations where accused individuals may consent to proceedings while co-accused refuse.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 61391,
-      "title": "Congress factions in Kerala ‘wishcasting’ for their respective loyalists as KPCC president’s post comes up for grabs - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/congress-factions-in-kerala-wishcasting-for-their-respective-loyalists-as-kpcc-presidents-post-comes-up-for-grabs/article71017533.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/mxffl/article71017617.ece/alternates/LANDSCAPE_1200/JA26KPCC05.JPG",
-      "scraped_at": "2026-05-24 12:09:26.512356",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Congress** factions in Kerala are engaged in a power struggle for the upcoming KPCC president position, with **Sunny Joseph**, current KPCC president, joining the government. The **All India Congress Committee (AICC)** is reportedly set to intervene and re-organize the party's leadership structure, including the KPCC presidency, amidst concerns about internal divisions hindering past UDF governments.  The AICC has emphasized social demographics, caste balance, and merit as key considerations for selecting the next KPCC president.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Maharashtra",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
         "protest_opposition"
       ]
     }
