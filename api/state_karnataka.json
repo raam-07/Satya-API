@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07 23:46:36.899933",
+  "generated_at": "2026-06-08 02:06:36.910923",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 824,
-    "articles_last_30d": 326
+    "total_articles": 827,
+    "articles_last_30d": 329
   },
   "top_cities_30d": {
-    "Bengaluru": 113,
-    "Delhi": 57,
-    "Bangalore": 24,
-    "Hyderabad": 12,
+    "Bengaluru": 115,
+    "Delhi": 60,
+    "Bangalore": 26,
+    "Hyderabad": 14,
     "Ahmedabad": 10,
     "Mumbai": 9,
     "Chennai": 9,
@@ -24,18 +24,112 @@
     "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 188,
+    "foreign_policy": 190,
     "education": 68,
     "protest_opposition": 58,
-    "economy": 50,
+    "economy": 51,
     "infrastructure": 45,
+    "political_gaffe": 43,
     "crime_violence": 42,
-    "political_gaffe": 42,
     "farmer_agriculture": 27,
     "health": 26,
-    "corruption_scam": 20
+    "corruption_scam": 22
   },
   "recent_articles": [
+    {
+      "id": 66674,
+      "title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bcz6kj/article71072607.ece/alternates/LANDSCAPE_1200/LPG%20SHORTAGE%20%20DELHI%202026_11_04_1.jpg",
+      "scraped_at": "2026-06-07 23:12:01.064117",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Mallikarjun Kharge**, president of the **Congress party**, criticized the government's handling of rising LPG prices, questioning the rationale behind a price hike despite claims of diversifying fuel sources. He highlighted that the shortage persists in rural areas and cited statistics from the Ujjwala scheme showing millions of families receiving no refills.  Kharge accused the government of profiteering and questioned the lack of public outcry over the price increases.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "UPA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 66672,
+      "title": "Rs 39,437 cr, single firm, 30 years: Karnataka reviews Bengaluru garbage deals cleared despite warnings | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/sports/tennis/rafael-nadal-life-after-retirement-new-phase-10728489/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/04/waste_04cb24.jpg",
+      "scraped_at": "2026-06-07 23:11:53.424028",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Siddaramaiah",
+      "rephrased_article": "Following the inauguration of **D K Shivakumar** as Karnataka's chief minister, a panel was formed to investigate two large-scale solid waste management contracts awarded during **Siddaramaiah**'s tenure. The contracts, valued at Rs 39,437 crore, have drawn scrutiny for exceeding cost projections and potentially creating vendor lock-in. Concerns were raised about the long duration of the agreements (30 years) and a clause allowing costs to rise by five percent annually.  The panel is tasked with submitting its report within seven days. **Shobha Karandlaje**, a Union minister, has also expressed concern over the process's transparency and potential for manipulation.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bangalore",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 66665,
+      "title": "Rs 39,437 cr, single firm, 30 years: Karnataka reviews Bengaluru garbage deals cleared despite warnings | Bangalore News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/bangalore/rs-39437-cr-bengaluru-waste-management-tenders-contracts-under-review-10728492/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/04/waste_04cb24.jpg",
+      "scraped_at": "2026-06-07 23:11:02.286115",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Siddaramaiah",
+      "rephrased_article": "Following the inauguration of **D K Shivakumar** as Karnataka's chief minister, a panel was formed to investigate two large-scale solid waste management contracts awarded towards the end of **Siddaramaiah**'s tenure. The contracts, valued at Rs 39,437 crore, were criticized for exceeding cost projections and raising concerns about vendor lock-in and potential financial risks.  The panel will submit a report within seven days, with **Shobha Karandlaje**, a Union minister and BJP leader, expressing concerns about the process's transparency and alleging manipulation in technical evaluations.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bangalore",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 66635,
       "title": "‘AI platform to connect Parliament, Assemblies’: Haryana Speaker Harvinder Kalyan | India News - The Indian Express",
@@ -5441,78 +5535,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 62804,
-      "title": "Youth must believe in their potential, says Sharanbasappa Pappa - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/youth-must-believe-in-their-potential-says-sharanbasappa-pappa/article71042555.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-30 18:46:34.443257",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Sharanbasappa Pappa",
-      "rephrased_article": "**Sharanbasappa Pappa**, president of the **Kalyana Karnataka Chamber of Commerce and Industry (KKCCI)**, encouraged youth in the region to cultivate self-confidence and determination for success.  He praised the initiative of **Adhish Wali**, president of the **Rotary Club Bidar Silverstar**, who organized the two-day **Rise Kalyana Karnataka- an Educational Youth Summit 2026**. The summit featured a Mega Job Fair with over 50 companies, attracting more than 1,500 students and job aspirants.  **Tejasvi Surya**, MP for Bengaluru South, delivered a virtual address, alongside entrepreneurs **Karan Javali**, **Swathi Kulkarni**, and **Anilkumar Bidve**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 62779,
-      "title": "D.K. Shivakumar meets Governor Gehlot, stakes claim to form new govt in Karnataka - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-elected-leader-of-congress-legislative-party-in-karnataka/article71041528.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/oyz4d3/article71041898.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-30%20at%207.09.57%20PM.jpeg",
-      "scraped_at": "2026-05-30 17:16:25.430380",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "D.K. Shivakumar",
-      "rephrased_article": "**D.K. Shivakumar**, the newly elected leader of the **Karnataka Pradesh Congress Committee**, will be sworn in as Chief Minister on Wednesday, June 3rd at Lok Bhavan. The event is expected to be attended by the central leadership of the party and Governor Thaawarchand Gehlot has invited him to take the oath at 4:05 p.m.  The power transition was overseen by **Mallikarjun Kharge**, **Rahul Gandhi**, and **Sonia Gandhi**.  With Cabinet formation still under discussion, speculation remains about whether a full Cabinet will be sworn in and if there will be deputy Chief Ministers.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Sonia Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62747,
-      "title": "‘Super corruption government’ is coming to exist: Chalavadi Narayanaswamy - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/super-corruption-government-is-coming-to-exist-chalavadi-narayanaswamy/article71041618.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-30 14:22:16.066227",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Chalavadi Narayanaswamy**, leader of the Opposition in the Legislative Council, criticized the **BJP** for its handling of the dissolved government, alleging that corruption persists despite the change. He stated that officers continue to engage in corrupt practices and development projects remain stalled, emphasizing the need for systemic changes rather than superficial leadership shifts.  Narayanaswamy also accused the Congress of neglecting Dalits and failing to nominate a Dalit as Chief Minister.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam"
-      ]
     }
   ]
 }
