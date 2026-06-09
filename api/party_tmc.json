@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 08:08:21.209274",
+  "generated_at": "2026-06-09 11:33:06.102722",
   "party": "TMC",
   "full_name": "All India Trinamool Congress",
   "ideology": "Populism, Secularism",
@@ -8,10 +8,10 @@
   "ruling_states": [],
   "color": "#00FF00",
   "stats": {
-    "total_articles": 451,
-    "articles_last_30d": 174,
+    "total_articles": 452,
+    "articles_last_30d": 175,
     "sentiment_breakdown_30d": {
-      "negative": 112,
+      "negative": 113,
       "neutral": 42,
       "positive": 20
     }
@@ -62,6 +62,37 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 67157,
+      "title": "Trinamool Crisis: \"BJP Won't Take Them, Not Enough Numbers\": Team Mamata Banerjee On Rebels",
+      "url": "https://www.ndtv.com/india-news/trinamool-crisis-rebels-want-to-back-nda-team-mamata-banerjee-says-bjp-wont-take-them-11611282#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/gss78h2k_mamata-banerjee_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 08:33:49.580884",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The **Mamata Banerjee** camp condemned rebels who sought support from the BJP-led NDA, calling their actions a betrayal.  Senior MP Kalyan Banerjee stated that the rebels lack sufficient numbers to merge with another party and that they will not be accepted by the BJP. The rebels chose their own chief whip, Kakoli Ghosh Dastidar, defying **Mamata Banerjee's** decision for the post. **Abhishek Banerjee**, Lok Sabha MP, is attempting to convince them to return but they remain adamant.  The rebellion poses a threat to the party leadership and its image among voters.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam",
+        "education"
+      ]
+    },
     {
       "id": 67124,
       "title": "West Bengal Trinamool Leader Former Bidhannagar Mayor Sabyasachi Dutta Arrested On Extortion Charges",
@@ -6436,35 +6467,6 @@
         "foreign_policy",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 57217,
-      "title": "65% of newly elected Bengal MLAs face criminal cases; 61% are ‘crorepatis’: ADR - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/65-of-newly-elected-bengal-mlas-face-criminal-cases-61-are-crorepatis-adr/article70949403.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9zhzq0/article70949415.ece/alternates/LANDSCAPE_1200/PTI05_04_2026_000286B.jpg",
-      "scraped_at": "2026-05-07 01:21:21.420887",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "All India Trinamool Congress",
-      "rephrased_article": "**The Association for Democratic Reforms (ADR)** reported that 65% of newly elected legislators in the **West Bengal Assembly** have declared criminal cases, a significant increase from previous elections.  Of these, 58% face serious charges, including murder and attempt to murder. The report also found that 74% of winning candidates from the **Bharatiya Janata Party** and 43% from the **All India Trinamool Congress** have declared criminal cases.  The total assets of all winning candidates stand at ₹1,091 crore, with an average asset of Rs 3.73 crore per MLA. The report also highlighted concerns about the rising wealth among elected representatives and under-representation of women in the legislature.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "crime_violence",
-        "foreign_policy",
-        "education"
       ]
     }
   ]

@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-06-09 08:08:21.085888",
-  "total": 627,
+  "generated_at": "2026-06-09 11:33:05.982483",
+  "total": 629,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 506,
+    "power_abuse": 508,
     "scale_of_harm": 35,
     "institutional_failure": 66,
     "suppression": 20
   },
   "articles": [
+    {
+      "id": 67140,
+      "title": "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons | Investigation News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/Mohammed-Zaki-Al-Bakri_02-copy-1780484600.jpg?resize=1620%2C1080&quality=80",
+      "scraped_at": "2026-06-09 08:33:25.795336",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Former Palestinian prisoners have detailed accounts of systematic rape and sexual violence by Israeli soldiers, including the use of dogs, during their detention.  The UN has documented evidence of this widespread abuse since October 7, 2023, with reports from organizations like B’Tselem and Physicians for Human Rights Israel. Despite these allegations, Israel has not faced legal censure or sanctions for its actions in Gaza. The international community has condemned the violence and called for accountability, but attempts to investigate have been blocked by Israel.  The UN rapporteur on the occupied territories, Francesca Albanese, stated that the intention behind this abuse is to destroy the victims' sense of self-worth.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "economy",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Systematic rape and sexual abuse are grave human rights violations."
+    },
     {
       "id": 67016,
       "title": "Operation P-Hunt: 18 cases booked, two arrested in Ernakulam - The Hindu",
@@ -4842,6 +4869,36 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 67211,
+      "title": "Visakhapatnam steel plant blast: Pawan Kalyan, Lokesh meet injured and bereaved families - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-steel-plant-blast-pawan-kalyan-lokesh-meet-injured-and-bereaved-families/article71079561.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/jcyh7e/article71079645.ece/alternates/LANDSCAPE_1200/Lokesh.jpeg",
+      "scraped_at": "2026-06-09 08:35:50.396481",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Visakhapatnam Steel Plant",
+      "rephrased_article": "Pawan Kalyan and Nara Lokesh, the Deputy Chief Minister and IT and HRD Minister of Andhra Pradesh respectively, visited injured workers and families of those killed in a blast at the Visakhapatnam Steel Plant.  They assured support from the state government and directed authorities to provide adequate care to the injured. Lokesh also promised an inquiry into the cause of the accident and strong action against those responsible. The incident occurred on Monday, June 8, 2026, resulting in eight fatalities and six critical injuries.",
+      "party_mentioned": [
+        "TDP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Blast at a major industrial plant causing casualties warrants urgent attention."
     },
     {
       "id": 67088,
@@ -15406,63 +15463,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "institutional_failure",
       "civic_flag_reason": "Death in custody raises concerns about ICE detention conditions and potential abuse of power."
-    },
-    {
-      "id": 43879,
-      "title": "NHRC mandates teams of doctors from multiple institutions for custodial death autopsies - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/nhrc-mandates-teams-of-doctors-from-multiple-institutions-for-custodial-death-autopsies/article70768677.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/t48b5f/article70769066.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U4K3E6HIC_R1518606899_0_f05ffe0c-3db8-44e3-adbc-4cca91fde034.jpg",
-      "scraped_at": "2026-03-21 11:51:37.148696",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "National Human Rights Commission (NHRC)",
-      "rephrased_article": "Following autopsies of custodial death victims that revealed procedural lapses, the National Human Rights Commission (NHRC) has directed all states to strictly implement standardized protocols for post-mortem examinations in such cases. The NHRC's directive mandates a board of at least three doctors from different institutions, with postgraduate degrees and five years of experience in forensic medicine.  The move comes after concerns were raised about potential influence on the findings by senior doctors within the same institution. While acknowledging the importance of cross-institutional oversight, human rights advocate Henri Tiphagne suggested that stricter adherence to existing procedures and international standards like those in Minnesota and Istanbul protocols would be beneficial.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "health"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "institutional_failure",
-      "civic_flag_reason": "Custodial deaths are a serious human rights violation requiring urgent attention."
-    },
-    {
-      "id": 43846,
-      "title": "Suspected kidnapping bid on son of Himachal CM's aide, unknown persons booked - The Hindu",
-      "url": "https://www.thehindu.com/news/national/himachal-pradesh/suspected-kidnapping-bid-on-son-of-himachal-cms-aide-unknown-persons-booked/article70768693.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/6oe3lk/article70768742.ece/alternates/LANDSCAPE_1200/iStock-157404566.jpg",
-      "scraped_at": "2026-03-21 09:44:33.855949",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "unknown persons",
-      "rephrased_article": "Aryan Chauhan, general secretary of the Himachal Pradesh Youth Congress, was targeted in an attempted kidnapping near Mashobra, Himachal Pradesh. While driving from his hotel to Shimla, he came into contact with two masked men who brandished a gun and metal rod.  Chauhan escaped injury after jumping out of his car and onto the side of the road. The police have booked unknown persons in connection with the incident but haven't specified the charges.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Himachal Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Attempted kidnapping of a political figure's relative raises concerns about safety and potential abuse of power."
     }
   ]
 }

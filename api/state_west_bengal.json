@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 08:08:21.452441",
+  "generated_at": "2026-06-09 11:33:06.337858",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": 0.81,
   "stats": {
-    "total_articles": 653,
-    "articles_last_30d": 262
+    "total_articles": 654,
+    "articles_last_30d": 263
   },
   "top_cities_30d": {
     "Kolkata": 105,
@@ -25,17 +25,48 @@
   },
   "top_topics_30d": {
     "foreign_policy": 203,
-    "education": 154,
-    "protest_opposition": 114,
+    "education": 155,
+    "protest_opposition": 115,
     "crime_violence": 87,
     "economy": 42,
-    "corruption_scam": 40,
+    "corruption_scam": 41,
     "infrastructure": 26,
     "rape_sexual_crime": 15,
     "health": 14,
     "political_gaffe": 11
   },
   "recent_articles": [
+    {
+      "id": 67157,
+      "title": "Trinamool Crisis: \"BJP Won't Take Them, Not Enough Numbers\": Team Mamata Banerjee On Rebels",
+      "url": "https://www.ndtv.com/india-news/trinamool-crisis-rebels-want-to-back-nda-team-mamata-banerjee-says-bjp-wont-take-them-11611282#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/gss78h2k_mamata-banerjee_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 08:33:49.580884",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The **Mamata Banerjee** camp condemned rebels who sought support from the BJP-led NDA, calling their actions a betrayal.  Senior MP Kalyan Banerjee stated that the rebels lack sufficient numbers to merge with another party and that they will not be accepted by the BJP. The rebels chose their own chief whip, Kakoli Ghosh Dastidar, defying **Mamata Banerjee's** decision for the post. **Abhishek Banerjee**, Lok Sabha MP, is attempting to convince them to return but they remain adamant.  The rebellion poses a threat to the party leadership and its image among voters.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam",
+        "education"
+      ]
+    },
     {
       "id": 67124,
       "title": "West Bengal Trinamool Leader Former Bidhannagar Mayor Sabyasachi Dutta Arrested On Extortion Charges",
@@ -6264,33 +6295,6 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
-      ]
-    },
-    {
-      "id": 62301,
-      "title": "No legal action if infiltrators go back on their own: Amit Shah - The Hindu",
-      "url": "https://www.thehindu.com/news/national/no-legal-action-if-infiltrators-go-back-on-their-own-amit-shah/article71034572.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/pmuys0/article71034639.ece/alternates/LANDSCAPE_1200/PTI05_28_2026_000491B.jpg",
-      "scraped_at": "2026-05-28 17:00:38.029122",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Amit Shah",
-      "rephrased_article": "**Amit Shah**, **Union Home Minister**, announced the formation of a high-level committee to address demographic change and commit to deporting all infiltrators from the country. He stated that those who voluntarily return would not face legal action, citing an increase in voluntary returns since the BJP came to power in West Bengal.  **Suvendu Adhikari**, **West Bengal Chief Minister**, fulfilled a promise of providing land for border fencing within 45 days of his government's formation and handed over 600 hectares of land to the Border Security Force (BSF).",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

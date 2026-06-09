@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 08:08:21.365152",
+  "generated_at": "2026-06-09 11:33:06.252858",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1251,
-    "articles_last_30d": 425
+    "total_articles": 1255,
+    "articles_last_30d": 429
   },
   "top_cities_30d": {
     "Delhi": 82,
     "Bengaluru": 34,
     "Hyderabad": 25,
-    "Chennai": 22,
+    "Chennai": 23,
     "Mumbai": 20,
     "Kolkata": 16,
     "Ahmedabad": 7,
@@ -24,18 +24,116 @@
     "Nagpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 275,
+    "foreign_policy": 276,
+    "protest_opposition": 105,
     "education": 104,
-    "protest_opposition": 104,
     "crime_violence": 93,
     "economy": 65,
-    "health": 38,
+    "health": 40,
+    "corruption_scam": 37,
     "political_gaffe": 37,
-    "corruption_scam": 36,
     "infrastructure": 35,
     "farmer_agriculture": 17
   },
   "recent_articles": [
+    {
+      "id": 67216,
+      "title": "Drone squad formed to monitor wild elephants at Aralam in Kerala’s Kannur - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/drone-squad-formed-to-monitor-wild-elephants-at-aralam-in-keralas-kannur/article71079609.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/6q9lm1/article71079629.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-09%20at%2012.23.52.jpeg",
+      "scraped_at": "2026-06-09 08:36:02.330700",
+      "category": "environment",
+      "sentiment": "positive",
+      "sentiment_target": "Kerala Forest Department",
+      "rephrased_article": "**Kerala Forest Department** has established a special drone squad in Aralam and surrounding areas of Kannur district to address human-wildlife conflict. The initiative, led by the **Kannur Forest Division**, provides training on advanced wildlife monitoring equipment like thermal drones and night vision binoculars.  The squad aims to detect elephants entering residential areas at night, safely guide them back into protected forest areas, and improve surveillance efforts.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 67203,
+      "title": "Haunted by 2020, Congress flies Madhya Pradesh MLAs to Karnataka before Rajya Sabha vote | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/congress-relocates-mp-legislators-rajya-sabha-vote-10731152/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/meenakshi.jpg",
+      "scraped_at": "2026-06-09 08:35:36.056877",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "To secure a third seat in the June 18 Rajya Sabha election, the **BJP** needs additional votes.  The Congress has relocated nearly all of its 61 MLAs to Karnataka, citing concerns about potential BJP attempts to contact them. The move is seen as a precautionary measure to prevent defections and maintain party unity ahead of the vote.  Congress leaders have denied any discontent among their legislators and insist they are united in supporting their nominee, Meenakshi Natarajan.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Odisha"
+      ],
+      "cities_mentioned": [
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67202,
+      "title": "ED summons ex-Kerala CM Pinarayi Vijayan’s daughter T. Veena for questioning in CMRL pay-off case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/ed-summons-ex-kerala-cm-pinarayi-vijayans-daughter-t-veena-for-questioning-in-cmrl-pay-off-case/article71079295.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ahb949/article71079315.ece/alternates/LANDSCAPE_1200/Veena%20Vijayan3.jpg",
+      "scraped_at": "2026-06-09 08:35:34.493112",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Pinarayi Vijayan",
+      "rephrased_article": "**The Enforcement Directorate (ED)** has summoned **T. Veena**, daughter of former Kerala Chief Minister **Pinarayi Vijayan**, and other officials of **Cochin Minerals and Rutile Limited (CMRL)** to appear before investigators on June 12, 2026, in connection with a money-laundering case linked to the CMRL pay-off case.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 67181,
+      "title": "Shigella outbreak: ‘Operation Clean Kerala’ intensified in Thrissur; four eateries fined - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/shigella-outbreak-operation-clean-kerala-intensified-in-thrissur-four-eateries-fined/article71079628.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/pqfk8f/article71079812.ece/alternates/LANDSCAPE_1200/IMG_shigella-1184px1_2_1_5J9PCODJ.jpg",
+      "scraped_at": "2026-06-09 08:34:36.871086",
+      "category": "health",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala Food Safety department",
+      "rephrased_article": "**The Food Safety department in Kerala** has intensified inspections across Thrissur city limits following a Shigella outbreak.  Inspections have focused on hotels, restaurants, cool bars, and juice stalls, with **penalty notices issued to four establishments** found to have violated food safety norms. Additionally, **15 outlets received rectification notices** for minor lapses. Health authorities are urging the public to practice safe hygiene measures, including drinking boiled water and avoiding undercooked or unhygienic foods.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 67122,
       "title": "Kerala 'Islam-Friendly' Gym Row Deepens Amid Ownership Questions",
@@ -5296,112 +5394,6 @@
         "Karnataka"
       ],
       "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64136,
-      "title": "Karnataka Cabinet Formation News Siddaramaiah Yathindra DK Shivakumar Cabinet",
-      "url": "https://www.ndtv.com/india-news/karnataka-cabinet-formation-news-siddaramaiah-yathindra-dk-shivakumar-cabinet-11573694#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2025-11/uqqm6ta4_yathindra-siddaramaiah_160x120_27_November_25.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-01 05:29:23.753345",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DK Shivakumar",
-      "rephrased_article": "**Yathindra Siddaramaiah**, son of former Karnataka Chief Minister **Siddaramaiah**, and **Basavaraj Shivannavar**, a Congress MLA, have expressed interest in ministerial positions within the new **DK Shivakumar**-led cabinet.  **Shivakumar**, who will be sworn in as chief minister on Wednesday, has promised to prioritize a power-sharing arrangement that could see a Dalit leader and a minority community leader appointed as deputy chief ministers. The Congress is yet to formally announce its ministerial appointments.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64101,
-      "title": "'Beware of pickpockets': Rahul slams Govt. over CBSE re-evaluation cost - The Hindu",
-      "url": "https://www.thehindu.com/news/national/beware-of-pickpockets-rahul-slams-govt-over-cbse-re-evaluation-cost/article71047035.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/exed1b/article71047038.ece/alternates/LANDSCAPE_1200/PTI05_31_2026_000144B.jpg",
-      "scraped_at": "2026-06-01 05:28:05.060220",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Modi government",
-      "rephrased_article": "**Rahul Gandhi**, leader of the **Congress**, criticized the **Modi government** over the CBSE's re-evaluation process, alleging that errors are not corrected but multiplied due to treating education as a business.  He highlighted the financial burden on students who face costs for scanning, re-totalling, and re-evaluation, with some paying up to ₹2,000 for accurate evaluation of their answer sheets. **Gandhi** also criticized the centralized nature of the system, claiming it leads to critical failures when one node fails. He shared video clips from a conversation with students who experienced issues with the On-Screen Marking (OSM) system and expressed concern about the financialization of education.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 64100,
-      "title": "CBSE Class 12 OSM website tender row: Rahul Gandhi alleges answer sheets were scanned on phones - India Today",
-      "url": "https://www.indiatoday.in/india/story/cbse-class-12-osm-tender-row-rahul-gandhi-mobile-phone-answer-sheet-scanning-claims-2920084-2026-06-01?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/rahul-gandhi-014538744-16x9_0.jpg?VersionId=CE6Di1hQ9VZghmgjjWYSb9U9dLoUgfFM",
-      "scraped_at": "2026-06-01 05:28:04.466292",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "CBSE",
-      "rephrased_article": "**Rahul Gandhi**, Congress leader, has accused the **CBSE** and its vendor, **COEMPT Edu Teck**, of using mobile phones to scan Class 12 answer sheets instead of professional equipment.  Gandhi alleges that the tender process was manipulated to favor COEMPT, resulting in compromised security and inaccurate evaluation scores. Students are reporting blurred scans, missing pages, and discrepancies between their answers and the uploaded copies. **Nisarga Adhikary**, an ethical hacker, also exposed vulnerabilities in the OSM portal, raising concerns about data security. The **CBSE** has acknowledged these issues and is working to address them.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "education"
-      ]
-    },
-    {
-      "id": 64084,
-      "title": "Noida engineer missing near Pindari Glacier: Camera found on riverbank after he told porter to go ahead | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/pahalgam-terror-attack-nia-probe-phone-pakistan-bank-link-10717534/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Pindari-Glacier.jpeg",
-      "scraped_at": "2026-06-01 00:13:27.693584",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Abhishek Chauhan",
-      "rephrased_article": "A 36-year-old engineer, **Abhishek Chauhan**, has gone missing while on a trek from Pindari Glacier in Uttarakhand.  **Rescue personnel**, including members of the **State Disaster Response Force (SDRF)**, have been searching for him since Friday, when he failed to meet his porter at a designated point. The search effort has been hampered by heavy rainfall and adverse weather conditions. A drone was deployed to scan the area, but operations were called off on Saturday.  The operation is ongoing with teams from the forest department and police also involved in the search.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Uttarakhand",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
       "topic_tags": [
         "foreign_policy"
       ]
