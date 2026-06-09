@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.147023",
+  "generated_at": "2026-06-09 21:09:01.138608",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 469,
+    "total_articles": 470,
     "articles_last_30d": 234
   },
   "top_cities_30d": {
     "Mumbai": 78,
     "Delhi": 59,
-    "Pune": 43,
+    "Pune": 44,
     "Nashik": 14,
     "Kolkata": 13,
     "Nagpur": 12,
@@ -29,13 +29,37 @@
     "education": 59,
     "infrastructure": 50,
     "economy": 46,
-    "protest_opposition": 37,
+    "protest_opposition": 38,
     "corruption_scam": 23,
     "farmer_agriculture": 20,
     "health": 17,
     "political_gaffe": 13
   },
   "recent_articles": [
+    {
+      "id": 67385,
+      "title": "Pune RTO strike: Services hit as staff protest stalled restructuring | Pune News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/pune-rto-clerical-strike-registration-delays-promotion-dispute-10731995/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Pune-RTO-protest.jpg",
+      "scraped_at": "2026-06-09 18:12:37.159768",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Pune RTO",
+      "rephrased_article": "**Pune’s Regional Transport Office (RTO)** clerical staff went on strike on Tuesday, halting vehicle registration transfers, transport permits, duplicate RC issuance, and hypothecation cancellation. The strike stemmed from a four-year delay in implementing a revised recruitment policy for the RTO's clerical department, which resulted in promotions being temporary and subsequently reversed.  The union demands an extension for the 56 promoted officials and compensation for financial losses caused by their demotion. They also want the time-bound promotion policy implemented without further delay to ensure eligible employees receive pay hikes and career advancement.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra"
+      ],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67246,
       "title": "Worli Concert Death: After Mumbai Concert Death, Spotlight On Drugs, Safety Lapses",
@@ -5668,40 +5692,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 61837,
-      "title": "‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger | Education News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/come-back-my-son-indian-exam-leak-leaves-trail-of-death-despair-anger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/Ritik-Mishra-1779775673.jpg?resize=1200%2C675",
-      "scraped_at": "2026-05-26 08:41:05.243023",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "NTA",
-      "rephrased_article": "The National Eligibility cum Entrance Test (NEET) examination was cancelled after allegations of a paper leak, leading to the deaths of four students and widespread protests. The controversy stems from repeated accusations of irregularities in NTA-conducted exams, including the 2024 NEET where over 80 students reportedly scored perfect marks.  The NTA has acknowledged shortcomings and announced new exam dates, but experts argue that limited resources and outsourcing have contributed to vulnerabilities.  Students like Harsh Dubey and Ritik Mishra, who died by suicide after the cancellation, highlight the devastating impact of the system's failures on aspiring medical professionals.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Jharkhand",
-        "Karnataka",
-        "Maharashtra",
-        "Rajasthan",
-        "Tamil Nadu",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Thane"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
     }
   ]
 }

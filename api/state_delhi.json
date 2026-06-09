@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.231865",
+  "generated_at": "2026-06-09 21:09:01.217568",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1342,
-    "articles_last_30d": 759
+    "total_articles": 1346,
+    "articles_last_30d": 760
   },
   "top_cities_30d": {
-    "Delhi": 751,
+    "Delhi": 752,
     "Mumbai": 79,
     "Bengaluru": 56,
     "Kolkata": 45,
@@ -25,17 +25,132 @@
   },
   "top_topics_30d": {
     "foreign_policy": 553,
-    "crime_violence": 236,
-    "education": 156,
-    "economy": 144,
-    "protest_opposition": 135,
-    "infrastructure": 74,
-    "corruption_scam": 72,
+    "crime_violence": 237,
+    "education": 155,
+    "economy": 143,
+    "protest_opposition": 136,
+    "infrastructure": 73,
+    "corruption_scam": 71,
     "health": 39,
     "political_gaffe": 39,
     "rape_sexual_crime": 22
   },
   "recent_articles": [
+    {
+      "id": 67383,
+      "title": "Arunachal village sees violence over dam: Multiple houses vandalised, prohibitory orders issued | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/upper-siang-dam-violence-geku-protests-mla-oni-panyang-house-attacked-10731993/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Upper-Siang-dam-.jpg",
+      "scraped_at": "2026-06-09 18:12:33.592194",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Arunachal village",
+      "rephrased_article": "**Sukrita Baruah**, a Principal Correspondent for **The Indian Express**, based in Guwahati, provides comprehensive coverage of India's North East region. Her expertise spans ethnic and social dynamics, border and geopolitical issues, governance and policy, including reporting on state elections, tribal council decisions, and central scheme implementation.  Her background as an Education Correspondent in Delhi has equipped her with a sharp analytical lens for policy analysis, student affairs, and educational reforms.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Manipur",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67376,
+      "title": "Air India Passenger Breaks Window Pane Mid-Flight, No-Fly Action Looms",
+      "url": "https://www.ndtv.com/india-news/air-india-passenger-breaks-window-pane-mid-flight-no-fly-action-looms-11613422#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-07/10aofjvk_boeing-787-dreamliner_625x300_31_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:12:19.835214",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Air India passenger",
+      "rephrased_article": "An **Air India** passenger on flight AI1879 from Chandigarh to Delhi damaged the inner window pane of the aircraft during landing. The incident occurred after the passenger ignored repeated warnings from cabin crew, prompting the cockpit crew to alert security agencies and follow standard operating procedures.  The airline has referred the matter to its internal committee for further review, which will determine whether the passenger should be classified as unruly and placed on a no-fly list.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67358,
+      "title": "Congress, Trinamool Congress: After Hug At INDIA Huddle, A Mamata Banerjee-Sonia Gandhi Meet At 10 Janpath",
+      "url": "https://www.ndtv.com/india-news/congress-trinamool-congress-after-hug-at-india-huddle-a-mamata-banerjee-sonia-gandhi-meet-at-10-janpath-11613965#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/l8ij9f0c_mamata-banerjee-sonia-gandhi_625x300_09_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:11:18.129849",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Mamata Banerjee**, leader of the Trinamool Congress, met with **Sonia Gandhi**, chairperson of the **Congress Parliamentary Party**, at her residence in Delhi. The meeting followed a recent photo of their embrace at an INDIA bloc meeting and comes amid significant challenges for both parties, including rebellions within their ranks.  Experts suggest that no major discussions took place without **Rahul Gandhi**, Leader of the Opposition, present.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67354,
+      "title": "Meenakshi Natarajan's Nomination Scrapped, Congress Explores Legal Options",
+      "url": "https://www.ndtv.com/india-news/meenakshi-natarajans-nomination-scrapped-congress-explores-legal-option-11613979#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/2lni3rs_meenakshi-natarajan_625x300_09_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:11:08.499360",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "**Congress** leaders protested outside the **Election Commission** headquarters in Delhi after the rejection of their Rajya Sabha candidate, **Meenakshi Natarajan**,'s nomination papers.  The **Election Commission** acknowledged the Congress memorandum and is expected to seek a report from the Returning Officer over the controversy. Senior Congress leaders, including KC Venugopal, Jairam Ramesh, Sachin Pilot, and Bhupesh Baghel, staged a protest, while sources say the party is preparing for a legal challenge against the rejection.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67326,
       "title": "Fake IDs, Fake Cop Badges, Fake Money: Bengal Killer Couple's 'World Of Fake'",
@@ -5539,109 +5654,6 @@
       ],
       "topic_tags": [
         "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65546,
-      "title": "Putin's word of caution on India-China ties; rejects notion that Pakistan is under Beijing's control - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/europe/putins-word-of-caution-on-india-china-ties-rejects-notion-that-pakistan-is-under-beijings-control/articleshow/131519409.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131519489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-06-05 04:59:13.693620",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Vladimir Putin",
-      "rephrased_article": "**Vladimir Putin** stated that **Russia** would not interfere in the relationship between **India** and **China**, expressing confidence in their ability to resolve outstanding issues. He acknowledged the complex nature of these bilateral ties, noting that both countries are working towards resolving border disputes and other mutual interests. **Putin** emphasized that Russia maintains strong relationships with both nations and that its ties with India do not affect its relationship with China, nor vice versa.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65544,
-      "title": "DU assistant professor found murdered at East Delhi residence, police say sustained fatal head injury | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/delhi/du-assistant-professor-murder-east-delhi-residence-police-fatal-head-injury-10724948/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/du-prof-murder.jpg",
-      "scraped_at": "2026-06-05 04:59:12.936866",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "An assistant professor at **Shivaji College**, Devosmita Paul, was found murdered in her East Delhi apartment on Thursday afternoon.  Police suspect she was attacked with a blunt object and are investigating the case from all angles.  **Devarati Paul**, Devosmita's sister, discovered her body after breaking into the apartment. No valuables have been reported missing, and police have registered a case under Section 103(1) of the **Bhartiya Nyaya Sanhita**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65540,
-      "title": "J&K parties question NC move to hold protest in Delhi over Statehood - The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-parties-question-nc-move-to-hold-protest-in-delhi-over-statehood/article71062428.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/yhvab4/article71062625.ece/alternates/LANDSCAPE_1200/12205_5_9_2024_18_7_0_2_12_NATIONAL_CONFERENCE_SGR_05_09_2024.JPG",
-      "scraped_at": "2026-06-05 00:16:52.368496",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "National Conference",
-      "rephrased_article": "Several opposition parties in Jammu and Kashmir, including the Peoples Democratic Party (PDP) and J&K Apni Party, criticized **National Conference**'s planned protest in New Delhi over statehood and constitutional guarantees. They argued that the protest lacks significance and reflects a pattern of disappointment for Kashmiris, citing past instances where **National Conference** has failed to deliver on promises.",
-      "party_mentioned": [
-        "PDP",
-        "National Conference"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 65526,
-      "title": "Former Lok Sabha Secretary General, constitution expert Subhash Kashyap passes away - The Hindu",
-      "url": "https://www.thehindu.com/news/national/former-lok-sabha-secretary-general-constitution-expert-subhash-kashyap-passes-away/article71062609.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/exboig/article71062614.ece/alternates/LANDSCAPE_1200/05_FOR_FRONTLINE_SUBHASH_C_KASHYAP_09_10_DEL.jpg",
-      "scraped_at": "2026-06-05 00:16:13.855744",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Subhash Kashyap",
-      "rephrased_article": "**Subhash C. Kashyap**, a former **Lok Sabha Secretary General** and constitutional expert, passed away on June 4, 2026, at the age of 97. He died from cardio-pulmonary arrest after suffering from age-related issues.  **Kashyap** served Parliament for over 37 years and was part of a high-level committee to prepare a legal framework for simultaneous elections. He also received the Padma Bhushan and authored over 100 books. **Om Birla**, the **Lok Sabha Speaker**, expressed profound sadness at Kashyap's passing, stating it is a loss to Indian parliamentary democracy.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Meerut",
-        "Allahabad"
-      ],
-      "topic_tags": [
         "foreign_policy"
       ]
     }

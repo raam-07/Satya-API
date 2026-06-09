@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.137714",
+  "generated_at": "2026-06-09 21:09:01.130367",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 203,
-    "articles_last_30d": 111
+    "total_articles": 204,
+    "articles_last_30d": 112
   },
   "top_cities_30d": {
     "Bhopal": 36,
-    "Delhi": 30,
+    "Delhi": 31,
     "Indore": 8,
     "Bengaluru": 8,
     "Mumbai": 7,
@@ -25,17 +25,48 @@
   },
   "top_topics_30d": {
     "foreign_policy": 81,
-    "crime_violence": 36,
+    "crime_violence": 37,
     "education": 30,
     "economy": 16,
     "health": 16,
     "rape_sexual_crime": 16,
-    "protest_opposition": 14,
+    "protest_opposition": 15,
     "infrastructure": 11,
     "political_gaffe": 11,
     "corruption_scam": 8
   },
   "recent_articles": [
+    {
+      "id": 67354,
+      "title": "Meenakshi Natarajan's Nomination Scrapped, Congress Explores Legal Options",
+      "url": "https://www.ndtv.com/india-news/meenakshi-natarajans-nomination-scrapped-congress-explores-legal-option-11613979#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/2lni3rs_meenakshi-natarajan_625x300_09_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:11:08.499360",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "**Congress** leaders protested outside the **Election Commission** headquarters in Delhi after the rejection of their Rajya Sabha candidate, **Meenakshi Natarajan**,'s nomination papers.  The **Election Commission** acknowledged the Congress memorandum and is expected to seek a report from the Returning Officer over the controversy. Senior Congress leaders, including KC Venugopal, Jairam Ramesh, Sachin Pilot, and Bhupesh Baghel, staged a protest, while sources say the party is preparing for a legal challenge against the rejection.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67324,
       "title": "PM Modi speaks to Amir of Kuwait, expresses concern over escalation of tensions in West Asia | India News - The Indian Express",
@@ -5934,29 +5965,6 @@
       "topic_tags": [
         "crime_violence",
         "corruption_scam"
-      ]
-    },
-    {
-      "id": 42232,
-      "title": "M.P. High Court Bench to visit Bhojshala-Kamal Maula mosque site before April 2 hearing - The Hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-high-court-bench-to-visit-bhojshala-kamal-maula-mosque-site-before-april-2-hearing/article70750853.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/fa73tc/article70751367.ece/alternates/LANDSCAPE_1200/SC-2ND-LD-BHOJSG1KFFN7B3.3.jpg.jpg",
-      "scraped_at": "2026-03-16 19:00:41.273341",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Madhya Pradesh High Court",
-      "rephrased_article": "The **Madhya Pradesh High Court** will visit the Bhojshala-Kamal Maula mosque site before its next hearing on April 2nd. The court is reviewing a report from the **Archaeological Survey of India** (ASI) which concluded that the current structure was built over ancient temples.  Parties involved in the case, including Hindus and Muslims, are expected to submit their final arguments during the hearing.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Madhya Pradesh"
-      ],
-      "cities_mentioned": [
-        "Indore"
-      ],
-      "topic_tags": [
-        "crime_violence"
       ]
     }
   ]

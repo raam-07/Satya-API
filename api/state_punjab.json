@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.172970",
+  "generated_at": "2026-06-09 21:09:01.162598",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 562,
+    "total_articles": 563,
     "articles_last_30d": 251
   },
   "top_cities_30d": {
-    "Delhi": 71,
+    "Delhi": 70,
     "Amritsar": 25,
     "Bengaluru": 17,
-    "Ludhiana": 16,
     "Mumbai": 16,
+    "Ludhiana": 15,
     "Ahmedabad": 11,
     "Chennai": 8,
     "Kolkata": 6,
@@ -24,18 +24,47 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 191,
-    "crime_violence": 79,
-    "economy": 64,
+    "foreign_policy": 190,
+    "crime_violence": 78,
     "education": 64,
-    "protest_opposition": 44,
-    "infrastructure": 26,
+    "economy": 63,
+    "protest_opposition": 43,
+    "infrastructure": 25,
     "health": 24,
-    "farmer_agriculture": 21,
-    "corruption_scam": 18,
-    "political_gaffe": 17
+    "farmer_agriculture": 20,
+    "political_gaffe": 18,
+    "corruption_scam": 17
   },
   "recent_articles": [
+    {
+      "id": 67345,
+      "title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kzqgjj/article71082299.ece/alternates/LANDSCAPE_1200/80717_17_5_2025_12_33_24_5_SPOTLIGHTJAGANNATHMANDIRDIGHA20.JPG",
+      "scraped_at": "2026-06-09 18:10:55.701145",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "West Bengal government",
+      "rephrased_article": "**The West Bengal** government, led by Chief Minister Suvendu Adhikari, will remove the word “Dham” from the name of the Jagannath temple in Digha. The decision was prompted by a letter from **Odisha** Chief Minister Mohan Charan Majhi and follows objections from the state BJP leadership and religious authorities who argued that the term \"Dham\" is exclusive to the four sacred sites in Hinduism.  The government will maintain the temple's cultural center complex, but remove the word “Dham” from its name.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
     {
       "id": 67317,
       "title": "Punjab On Path To Becoming Startup Hub Of India: Bhagwant Mann",
@@ -5506,27 +5535,6 @@
         "health",
         "education",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 60956,
-      "title": "Actor Momina Iqbal seeks FIR against PML-N MPA over alleged blackmail and harassment - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002319/actor-momina-iqbal-seeks-fir-against-pml-n-mpa-over-alleged-blackmail-and-harassment",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/222335198deed91.webp",
-      "scraped_at": "2026-05-22 19:58:48.280964",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "PML-N MPA Saqib Chadhar",
-      "rephrased_article": "**Momina Iqbal**, an actor and model, filed a first information report (FIR) against **PML-N MPA Saqib Chadhar** for blackmail, harassment, and death threats.  Iqbal alleged that Chadhar began threatening her after she refused his marriage proposal, claiming he was already married to two women. She also provided evidence of the threats through WhatsApp messages and video calls. Punjab Chief Minister **Maryam Nawaz** warned against any political pressure or attempts to exploit the situation for personal gain, stating the matter will be addressed strictly according to law.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

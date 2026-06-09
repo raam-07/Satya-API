@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.130238",
+  "generated_at": "2026-06-09 21:09:01.123133",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1261,
-    "articles_last_30d": 431
+    "total_articles": 1262,
+    "articles_last_30d": 428
   },
   "top_cities_30d": {
-    "Delhi": 81,
+    "Delhi": 82,
     "Bengaluru": 37,
     "Hyderabad": 25,
-    "Chennai": 23,
+    "Chennai": 22,
     "Mumbai": 20,
     "Kolkata": 17,
     "Ahmedabad": 7,
@@ -24,18 +24,53 @@
     "Nagpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 276,
+    "foreign_policy": 273,
     "education": 104,
-    "protest_opposition": 104,
+    "protest_opposition": 103,
     "crime_violence": 94,
-    "economy": 64,
-    "health": 40,
+    "economy": 63,
+    "health": 39,
     "political_gaffe": 39,
     "corruption_scam": 37,
     "infrastructure": 34,
-    "farmer_agriculture": 16
+    "farmer_agriculture": 15
   },
   "recent_articles": [
+    {
+      "id": 67358,
+      "title": "Congress, Trinamool Congress: After Hug At INDIA Huddle, A Mamata Banerjee-Sonia Gandhi Meet At 10 Janpath",
+      "url": "https://www.ndtv.com/india-news/congress-trinamool-congress-after-hug-at-india-huddle-a-mamata-banerjee-sonia-gandhi-meet-at-10-janpath-11613965#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/l8ij9f0c_mamata-banerjee-sonia-gandhi_625x300_09_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:11:18.129849",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Mamata Banerjee**, leader of the Trinamool Congress, met with **Sonia Gandhi**, chairperson of the **Congress Parliamentary Party**, at her residence in Delhi. The meeting followed a recent photo of their embrace at an INDIA bloc meeting and comes amid significant challenges for both parties, including rebellions within their ranks.  Experts suggest that no major discussions took place without **Rahul Gandhi**, Leader of the Opposition, present.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67311,
       "title": "Meenakshi Natarajan, Madhya Pradesh, KC Venugopal: Rajya Sabha Pick Meenakshi Natarajan's Nomination Junked, Congress Protests",
@@ -5370,27 +5405,6 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
-      ]
-    },
-    {
-      "id": 64303,
-      "title": "388 cells on 2 floors, this cemetery beats the space crunch in Vallakkunnu - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/388-cells-on-2-floors-this-cemetery-beats-the-space-crunch-in-vallakkunnu/article71049525.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/4gf9ch/article71049757.ece/alternates/LANDSCAPE_1200/Cemetery%20St%20Alphonsqs%20Church.jpg",
-      "scraped_at": "2026-06-01 16:43:52.613823",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "St. Alphonsa’s Church",
-      "rephrased_article": "The **St. Alphonsa’s Church** in Vallakkunnu, Kerala, has opened a unique two-storey cemetery that stands out from traditional burial grounds. The 388 burial cells within the covered facility allow mourners to participate in ceremonies regardless of weather conditions. Designed by architect Manosh Thomas, the structure efficiently utilizes space while addressing environmental concerns.  The project cost ₹1.75 crore and has attracted attention from both parishioners and outsiders.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

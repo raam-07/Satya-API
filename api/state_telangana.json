@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.198875",
+  "generated_at": "2026-06-09 21:09:01.187189",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 542,
+    "total_articles": 543,
     "articles_last_30d": 173
   },
   "top_cities_30d": {
     "Hyderabad": 65,
-    "Delhi": 22,
+    "Delhi": 23,
     "Bengaluru": 18,
     "Mumbai": 11,
     "Chennai": 8,
@@ -24,8 +24,8 @@
     "Jaipur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 98,
-    "economy": 35,
+    "foreign_policy": 97,
+    "economy": 34,
     "infrastructure": 33,
     "education": 28,
     "crime_violence": 28,
@@ -36,6 +36,37 @@
     "rape_sexual_crime": 13
   },
   "recent_articles": [
+    {
+      "id": 67354,
+      "title": "Meenakshi Natarajan's Nomination Scrapped, Congress Explores Legal Options",
+      "url": "https://www.ndtv.com/india-news/meenakshi-natarajans-nomination-scrapped-congress-explores-legal-option-11613979#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/2lni3rs_meenakshi-natarajan_625x300_09_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:11:08.499360",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "**Congress** leaders protested outside the **Election Commission** headquarters in Delhi after the rejection of their Rajya Sabha candidate, **Meenakshi Natarajan**,'s nomination papers.  The **Election Commission** acknowledged the Congress memorandum and is expected to seek a report from the Returning Officer over the controversy. Senior Congress leaders, including KC Venugopal, Jairam Ramesh, Sachin Pilot, and Bhupesh Baghel, staged a protest, while sources say the party is preparing for a legal challenge against the rejection.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67311,
       "title": "Meenakshi Natarajan, Madhya Pradesh, KC Venugopal: Rajya Sabha Pick Meenakshi Natarajan's Nomination Junked, Congress Protests",
@@ -5365,28 +5396,6 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
-      ]
-    },
-    {
-      "id": 56267,
-      "title": "Telangana scorches as Mendora in Nizamabad hits 46℃; most districts record temperatures above 43℃ - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-scorches-as-mendora-in-nizamabad-hits-46%C2%B0c-most-districts-record-temperatures-above-43%C2%B0c/article70934547.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8f2039/article70934885.ece/alternates/LANDSCAPE_1200/_DSC9686.JPG",
-      "scraped_at": "2026-05-03 11:02:21.809876",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "Telangana",
-      "rephrased_article": "**Telangana** experienced extreme heat on May 2nd, with temperatures reaching a high of 46°C in Mendora.  The **Telangana Development Planning Society (TGDPS)** reported that ten districts recorded maximum temperatures above 45°C. The highest temperature was recorded in Mendora, followed by other locations across the state.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
       ]
     }
   ]

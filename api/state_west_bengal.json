@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.221393",
+  "generated_at": "2026-06-09 21:09:01.208456",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 0.82,
   "stats": {
-    "total_articles": 660,
-    "articles_last_30d": 268
+    "total_articles": 662,
+    "articles_last_30d": 269
   },
   "top_cities_30d": {
     "Kolkata": 108,
-    "Delhi": 57,
+    "Delhi": 58,
     "Mumbai": 13,
     "Bengaluru": 11,
     "Hyderabad": 10,
@@ -24,18 +24,82 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 205,
-    "education": 158,
-    "protest_opposition": 115,
+    "foreign_policy": 206,
+    "education": 159,
+    "protest_opposition": 116,
     "crime_violence": 89,
     "corruption_scam": 44,
     "economy": 43,
     "infrastructure": 26,
     "rape_sexual_crime": 15,
-    "health": 14,
-    "political_gaffe": 14
+    "political_gaffe": 15,
+    "health": 14
   },
   "recent_articles": [
+    {
+      "id": 67358,
+      "title": "Congress, Trinamool Congress: After Hug At INDIA Huddle, A Mamata Banerjee-Sonia Gandhi Meet At 10 Janpath",
+      "url": "https://www.ndtv.com/india-news/congress-trinamool-congress-after-hug-at-india-huddle-a-mamata-banerjee-sonia-gandhi-meet-at-10-janpath-11613965#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/l8ij9f0c_mamata-banerjee-sonia-gandhi_625x300_09_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:11:18.129849",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Mamata Banerjee**, leader of the Trinamool Congress, met with **Sonia Gandhi**, chairperson of the **Congress Parliamentary Party**, at her residence in Delhi. The meeting followed a recent photo of their embrace at an INDIA bloc meeting and comes amid significant challenges for both parties, including rebellions within their ranks.  Experts suggest that no major discussions took place without **Rahul Gandhi**, Leader of the Opposition, present.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "INDIA Alliance"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67345,
+      "title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/kzqgjj/article71082299.ece/alternates/LANDSCAPE_1200/80717_17_5_2025_12_33_24_5_SPOTLIGHTJAGANNATHMANDIRDIGHA20.JPG",
+      "scraped_at": "2026-06-09 18:10:55.701145",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "West Bengal government",
+      "rephrased_article": "**The West Bengal** government, led by Chief Minister Suvendu Adhikari, will remove the word “Dham” from the name of the Jagannath temple in Digha. The decision was prompted by a letter from **Odisha** Chief Minister Mohan Charan Majhi and follows objections from the state BJP leadership and religious authorities who argued that the term \"Dham\" is exclusive to the four sacred sites in Hinduism.  The government will maintain the temple's cultural center complex, but remove the word “Dham” from its name.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "Odisha",
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
     {
       "id": 67326,
       "title": "Fake IDs, Fake Cop Badges, Fake Money: Bengal Killer Couple's 'World Of Fake'",
@@ -6238,69 +6302,6 @@
         "education",
         "crime_violence"
       ]
-    },
-    {
-      "id": 62834,
-      "title": "Abhishek Banerjee Sonarpur attack: TMC leader alleges BJP wanted to kill him; shirt torn, specs broken, Stones, eggs and 'chor chor' chants - West Bengal News | India Today",
-      "url": "https://www.indiatoday.in/india/west-bengal/story/abhishek-banerjee-sonarpur-attack-tmc-leader-alleges-bjp-wanted-to-kill-him-shirt-torn-specs-broken-stones-eggs-and-chor-chor-chants-2919690-2026-05-30?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/stones--eggs-and-chor-chor-chants-greet-abhishek-banerjee-in-sonarpur-pti-304407147-16x9_0.jpg?VersionId=.i_SQfMxD_fG6DOLw5Yvfc0G_1CTQpvn",
-      "scraped_at": "2026-05-30 21:31:35.000321",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Abhishek Banerjee**, Trinamool Congress national general secretary, was attacked by a mob in Sonarpur, West Bengal, while visiting the family of a man allegedly killed in post-poll violence. The incident involved stones, eggs, and verbal abuse directed at Banerjee, who sustained injuries to his shirt and spectacles. **Mamata Banerjee**, Chief Minister of West Bengal, visited him at the hospital and accused the BJP of orchestrating the attack. The BJP denied involvement but condemned the violence, while **Derek O'Brien**, a Trinamool Congress Rajya Sabha MP, questioned the security arrangements.  The incident has escalated tensions between the ruling party and the opposition, with accusations of political vendetta and attempts to intimidate prominent figures.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "education",
-        "crime_violence",
-        "protest_opposition",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 62787,
-      "title": "Fair electoral rolls lead to fair polls: CEC - The Hindu",
-      "url": "https://www.thehindu.com/news/national/fair-electoral-rolls-lead-to-fair-polls-cec/article71042152.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/utu797/article71030106.ece/alternates/LANDSCAPE_1200/Gyanesh_kumar_07.JPG",
-      "scraped_at": "2026-05-30 17:19:33.524972",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Chief Election Commissioner (CEC) Gyanesh Kumar** stated that fair electoral rolls are essential for fair elections, highlighting India's current state in this regard. **Kumar** praised the role of Booth Level Officers and Booth Level Agents in electoral roll management during his inaugural speech at the second National Conference of Counsels representing the **Election Commission of India**. He also congratulated electors from Assam, Kerala, Puducherry, Tamil Nadu, and West Bengal for their historic participation in recent Assembly elections.",
-      "party_mentioned": [
-        "National Conference"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
     }
   ]
 }

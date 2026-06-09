@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 19:05:13.057963",
+  "generated_at": "2026-06-09 21:09:01.052865",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 524,
-    "articles_last_30d": 157
+    "total_articles": 527,
+    "articles_last_30d": 158
   },
   "top_cities_30d": {
     "Delhi": 32,
@@ -18,24 +18,96 @@
     "Chennai": 12,
     "Mumbai": 7,
     "Bengaluru": 6,
-    "Madurai": 6,
     "Coimbatore": 5,
+    "Madurai": 5,
     "Kolkata": 4,
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 93,
-    "economy": 30,
+    "foreign_policy": 91,
+    "economy": 28,
     "education": 27,
     "infrastructure": 21,
-    "crime_violence": 21,
-    "health": 18,
-    "protest_opposition": 15,
-    "farmer_agriculture": 10,
-    "political_gaffe": 7,
+    "health": 20,
+    "crime_violence": 20,
+    "protest_opposition": 14,
+    "farmer_agriculture": 9,
+    "political_gaffe": 8,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67370,
+      "title": "NDA Constituents To Meet Tomorrow For 12th Anniversary Of Modi Government",
+      "url": "https://www.ndtv.com/india-news/nda-constituents-to-meet-tomorrow-for-12th-anniversary-of-modi-government-11613766#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/e7sjkp9o_12-yrs-of-pm-modi_625x300_09_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 18:12:07.147297",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "A meeting of the **National Democratic Alliance (NDA)** will be held on Wednesday to celebrate 12 years of the government's rule and Prime Minister Narendra Modi becoming the longest continuously serving elected prime minister of India. The event, attended by all constituents of the ruling alliance besides top BJP leadership, including Prime Minister Modi, is expected to see a resolution praising his record.  Senior Union ministers like Rajnath Singh, Amit Shah, J P Nadda, and Shivraj Singh Chouhan are among those expected to attend.  The meeting will focus on boosting 'Ease of Living', 'Ease of Doing Business', and reforms towards realizing the shared dream of a 'Viksit Bharat' by 2047.",
+      "party_mentioned": [
+        "BJP",
+        "JDU",
+        "TDP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "PM Modi",
+        "Amit Shah",
+        "Rajnath Singh",
+        "Chandrababu Naidu"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67361,
+      "title": "Baba Ramdev to be chief guest at State-level Yogandhra event - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajya-sabha-election-meenakshi-natarajan-congress-candidate-madhya-pradesh-nomination-rejected/article71081481.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-09 18:11:25.883591",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Baba Ramdev",
+      "rephrased_article": "**Minister for Health, Family Welfare and Medical Education Satya Kumar Yadav** announced that **Baba Ramdev**, a yoga guru, has been invited as the chief guest for the State-level Yogandhra event on June 21.  The event is expected to host around 25,000 participants who will participate in group yoga demonstrations led by members of **Ramdev’s** team and students trained under his guidance.  **Mr. Yadav** stated that **Manthena Satyanarayana Raju**, a Government Advisor for Yoga and Naturopathy, along with officials from the AYUSH Department, will travel to Haridwar to formally invite **Baba Ramdev** to the event.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Chandrababu Naidu"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 67352,
+      "title": "Baba Ramdev to be chief guest at State-level Yogandhra event - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/baba-ramdev-to-be-chief-guest-at-state-level-yogandhra-event/article71081871.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-09 18:11:07.247596",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Baba Ramdev",
+      "rephrased_article": "**Minister for Health, Family Welfare and Medical Education Satya Kumar Yadav** announced that **Baba Ramdev**, a yoga guru, will be the chief guest at the State-level Yogandhra event on June 21.  The event is expected to host around 25,000 participants who will participate in guided yoga demonstrations by members of **Ramdev’s** team.  **Mr. Yadav** stated that officials from the AYUSH Department and **Manthena Satyanarayana Raju**, a government advisor for Yoga and Naturopathy, will travel to Haridwar to formally invite **Baba Ramdev**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Chandrababu Naidu"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
     {
       "id": 67288,
       "title": "‘Not just about giving money’: Lokesh pledges long-term support for steel blast families - The Hindu",
@@ -5359,102 +5431,6 @@
         "economy",
         "foreign_policy",
         "infrastructure"
-      ]
-    },
-    {
-      "id": 55833,
-      "title": "Census 2027: Around 82 lakh households have opted for self enumeration as field visits begin in 5 states - The Hindu",
-      "url": "https://www.thehindu.com/news/national/census-2027-around-82-lakh-households-have-opted-for-self-enumeration-as-field-visits-begin-in-5-states/article70929763.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/h39h07/article70929765.ece/alternates/LANDSCAPE_1200/CENSUS%20DIGITAL%20MAPPING%20DELHI%202026_27_04_26.jpg",
-      "scraped_at": "2026-05-01 21:01:16.172783",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Union government",
-      "rephrased_article": "**The Union government** announced that over 82 lakh households have utilized the self-enumeration facility during the initial Houselisting and Housing Operations (HLO) phase of Census 2027. The exercise, which commenced on May 1st in several states including Andhra Pradesh, Haryana, Chandigarh, Madhya Pradesh, Chhattisgarh, and Rajasthan, aims to collect data about household facilities and demographics.  The HLO will continue until May 30th, with trained enumerators visiting each house for verification.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Arunachal Pradesh",
-        "Bihar",
-        "Chhattisgarh",
-        "Goa",
-        "Haryana",
-        "Jharkhand",
-        "Karnataka",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Meghalaya",
-        "Mizoram",
-        "Odisha",
-        "Punjab",
-        "Rajasthan",
-        "Sikkim",
-        "Telangana",
-        "Uttarakhand",
-        "Delhi",
-        "Chandigarh",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 55824,
-      "title": "Summer coaching camps begin across Vizag district - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/summer-coaching-camps-begin-across-vizag-district/article70928916.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ou0evd/article70929759.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%2019.04.50.jpeg",
-      "scraped_at": "2026-05-01 19:54:27.091135",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "District Sports Authority of Visakhapatnam",
-      "rephrased_article": "**The District Sports Authority of Visakhapatnam** launched 65 annual summer coaching camps across 28 sports disciplines in rural and urban centers, running until May 31. The initiative, organized by the **Sports Authority of Andhra Pradesh (SAAP)**, aims to introduce children aged 8-16 to structured training and promote a healthy lifestyle through regular sporting activity.  **District Sports Development Officer June Gallyot** emphasized the camps' importance in identifying talent, encouraging constructive summer use, and instilling discipline from a young age. The camps are being conducted across multiple centers with support from the **Department of Ayush**, providing necessary equipment and emergency medical support through nearby Primary Health Centres.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [
-        "Visakhapatnam"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 55806,
-      "title": "TDP leaders meet at Pemmasani’s house in Guntur - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leaders-meet-at-pemmasanis-house-in-guntur/article70929435.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/456y2i/article70929652.ece/alternates/LANDSCAPE_1200/20260424067L.jpg",
-      "scraped_at": "2026-05-01 18:08:24.094934",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Pemmasani Chandrasekhar**, Union Minister of State for Rural Development and Communications, hosted a dinner-cum-review meeting for public representatives from the Guntur Parliamentary constituency.  The gathering included **Nara Lokesh**, Andhra Pradesh Minister for Education and IT, along with several MLAs and party leaders. Discussions focused on strengthening the party organization, recent political developments, and development programs in the district.  **Lokesh** assured continued support to public representatives and promised assistance to those facing challenges.",
-      "party_mentioned": [
-        "TDP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "farmer_agriculture",
-        "protest_opposition"
       ]
     }
   ]
