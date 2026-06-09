@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 22:52:37.131509",
+  "generated_at": "2026-06-09 00:03:16.898529",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1245,
-    "articles_last_30d": 421
+    "total_articles": 1247,
+    "articles_last_30d": 422
   },
   "top_cities_30d": {
-    "Delhi": 80,
+    "Delhi": 82,
     "Bengaluru": 33,
     "Hyderabad": 24,
     "Chennai": 22,
@@ -24,18 +24,88 @@
     "Nagpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 273,
-    "education": 102,
+    "foreign_policy": 274,
+    "education": 104,
     "protest_opposition": 102,
-    "crime_violence": 94,
+    "crime_violence": 93,
     "economy": 65,
     "health": 39,
+    "political_gaffe": 37,
     "infrastructure": 36,
     "corruption_scam": 36,
-    "political_gaffe": 36,
     "farmer_agriculture": 17
   },
   "recent_articles": [
+    {
+      "id": 67059,
+      "title": "Delhi Confidential: Communication Loss On All Fronts | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/world/dubai-emirates-road-accident-indian-workers-killed-minibus-truck-10730262/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Kalyan_20260608212354.jpg",
+      "scraped_at": "2026-06-08 22:59:11.437658",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**TMC** MPs Kalyan Banerjee and Dola Sen experienced difficulties making or receiving phone calls at the **INDIA** bloc meeting due to a weak mobile network.  **John Brittas**, a **CPI(M)** MP, questioned **Rahul Gandhi**'s remarks about the Left parties during the Kerala Assembly election campaign while **D Raja**, a **CPI** leader, joined in on the criticism. The event poster announcing an inauguration by **Arjun Ram Meghwal**, the **Union Law Minister**, and **CJI Surya Kant** in London was later found to be inaccurate as **Meghwal** was in India and **Kant** did not participate.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67054,
+      "title": "Delhi Confidential: Communication Loss On All Fronts | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/delhi-confidential/india-bloc-meeting-tmc-crisis-kalyan-banerjee-dola-sen-10730463/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Kalyan_20260608212354.jpg",
+      "scraped_at": "2026-06-08 22:58:49.829162",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "**Leaders** attending the **INDIA** bloc meeting at the Constitution Club of India faced difficulties with weak mobile network, leading to some being surrounded by journalists.  **TMC MPs Kalyan Banerjee** and **Dola Sen** were particularly affected as they sought to make or receive calls amidst media attention regarding the ongoing crisis in their party. Tensions between the **Left parties** and the **Congress** also surfaced during the meeting, with **John Brittas**, a **CPI(M)** MP, criticizing **Rahul Gandhi** for his remarks against the Left parties and questioning the Congress's decision to break its alliance with the DMK.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 67009,
       "title": "INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu",
@@ -58,18 +128,14 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Nitish Kumar",
-        "Nitish",
         "Pinarayi Vijayan",
         "Uddhav Thackeray",
         "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Bihar",
@@ -5348,65 +5414,6 @@
       "topic_tags": [
         "rape_sexual_crime",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 64007,
-      "title": "CBSE row: Rahul Gandhi Meets students, takes dig at government | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/cbse-row-rahul-gandhi-meets-students-takes-dig-at-government-10717562/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Leader-of-Opposition-in-Lok-Sabha-Rahul-Gandhi-interacts-with-a-group-of-students-in-Delhi-Sunday.-PTI.jpg",
-      "scraped_at": "2026-05-31 22:35:20.845484",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Rahul Gandhi**, Leader of the Opposition, criticized the **Centre** over the CBSE On-Screen Marking (OSM) controversy. He shared a video of an interaction with students who alleged issues with their answer scripts and claimed they were labeled as \"anti-nationals\" by the government.  Gandhi stated that he would ensure these students receive a bright future despite facing insults from authorities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 64001,
-      "title": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/five-arrested-for-attack-on-abhishek-mamata-says-police-pressurised-hospitals-not-to-admit-him/article71044003.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/bm119g/article71045399.ece/alternates/LANDSCAPE_1200/20260531166L.jpg",
-      "scraped_at": "2026-05-31 21:08:33.436413",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Trinamool Congress",
-      "rephrased_article": "The **West Bengal police** arrested five individuals in connection with the attack on Trinamool Congress leader and MP Abhishek Banerjee.  **Trinamool Congress** leader Kalyan Banerjee was also attacked by a mob while he was on his way to submit a deputation. **Mamata Banerjee**, the Trinamool Congress chairperson, alleged that hospitals were pressured not to admit her nephew, who suffered injuries during the attack. The incident has sparked accusations of political violence from both sides. BJP leaders condemned the attacks but also claimed they reflected public anger towards the **Trinamool Congress**.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Hyderabad",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "protest_opposition",
-        "education",
-        "foreign_policy"
       ]
     }
   ]

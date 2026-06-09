@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 22:52:37.188797",
+  "generated_at": "2026-06-09 00:03:16.957366",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1139,
-    "articles_last_30d": 310
+    "total_articles": 1141,
+    "articles_last_30d": 311
   },
   "top_cities_30d": {
     "Chennai": 72,
-    "Delhi": 48,
+    "Delhi": 50,
     "Coimbatore": 23,
     "Bengaluru": 20,
     "Hyderabad": 16,
@@ -24,18 +24,88 @@
     "Varanasi": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 209,
+    "foreign_policy": 210,
     "protest_opposition": 74,
-    "education": 59,
+    "education": 61,
     "economy": 50,
-    "crime_violence": 48,
+    "crime_violence": 47,
     "infrastructure": 37,
     "corruption_scam": 28,
     "farmer_agriculture": 24,
     "health": 22,
-    "political_gaffe": 18
+    "political_gaffe": 19
   },
   "recent_articles": [
+    {
+      "id": 67059,
+      "title": "Delhi Confidential: Communication Loss On All Fronts | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/world/dubai-emirates-road-accident-indian-workers-killed-minibus-truck-10730262/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Kalyan_20260608212354.jpg",
+      "scraped_at": "2026-06-08 22:59:11.437658",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**TMC** MPs Kalyan Banerjee and Dola Sen experienced difficulties making or receiving phone calls at the **INDIA** bloc meeting due to a weak mobile network.  **John Brittas**, a **CPI(M)** MP, questioned **Rahul Gandhi**'s remarks about the Left parties during the Kerala Assembly election campaign while **D Raja**, a **CPI** leader, joined in on the criticism. The event poster announcing an inauguration by **Arjun Ram Meghwal**, the **Union Law Minister**, and **CJI Surya Kant** in London was later found to be inaccurate as **Meghwal** was in India and **Kant** did not participate.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67054,
+      "title": "Delhi Confidential: Communication Loss On All Fronts | Delhi Confidential News - The Indian Express",
+      "url": "https://indianexpress.com/article/delhi-confidential/india-bloc-meeting-tmc-crisis-kalyan-banerjee-dola-sen-10730463/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Kalyan_20260608212354.jpg",
+      "scraped_at": "2026-06-08 22:58:49.829162",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "INDIA bloc",
+      "rephrased_article": "**Leaders** attending the **INDIA** bloc meeting at the Constitution Club of India faced difficulties with weak mobile network, leading to some being surrounded by journalists.  **TMC MPs Kalyan Banerjee** and **Dola Sen** were particularly affected as they sought to make or receive calls amidst media attention regarding the ongoing crisis in their party. Tensions between the **Left parties** and the **Congress** also surfaced during the meeting, with **John Brittas**, a **CPI(M)** MP, criticizing **Rahul Gandhi** for his remarks against the Left parties and questioning the Congress's decision to break its alliance with the DMK.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "CPI",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 67009,
       "title": "INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu",
@@ -58,18 +128,14 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Nitish Kumar",
-        "Nitish",
         "Pinarayi Vijayan",
         "Uddhav Thackeray",
         "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Bihar",
@@ -5502,55 +5568,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "infrastructure"
-      ]
-    },
-    {
-      "id": 61698,
-      "title": "Government polytechnics in Tamil Nadu record near total placement this year - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/government-polytechnics-in-tamil-nadu-record-near-total-placement-this-year/article71022141.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/31ivtm/article71022656.ece/alternates/LANDSCAPE_1200/2315_13_7_2025_18_52_34_1_THOOTHUKUDI_9.JPG",
-      "scraped_at": "2026-05-25 19:48:43.343659",
-      "category": "education",
-      "sentiment": "positive",
-      "sentiment_target": "Government polytechnic colleges",
-      "rephrased_article": "**Government polytechnic colleges** in Tamil Nadu have achieved over 93% placement for their diploma students in the academic year 2025-26, a notable development amidst rising interest in engineering.  The **Directorate of Technical Education (DoTE)** attributes this success to the vocational and trade-specific skills imparted by diploma courses, which often come with higher starting salaries than traditional engineering degrees. While some students opted for lateral entry into engineering programs, the placement rate remains high, with employers offering competitive packages. However, government-aided and self-financing polytechnics face challenges in attracting student patronage, leading to a phase-wise shutdown of some institutions.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61629,
-      "title": "T.N. Government appoints T.S Anbu as ADGP (Law and Order); Arun to head DVAC - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/ts-anbu-posted-as-adgp-law-and-order-arun-to-head-dvac/article71021636.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/xvv17d/article71021946.ece/alternates/LANDSCAPE_1200/TamilNadu.jpg",
-      "scraped_at": "2026-05-25 15:54:55.842938",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu government",
-      "rephrased_article": "**The Tamil Nadu government** appointed **T.S. Anbu**, a 2001-batch IPS officer, as the new ADGP, Law and Order, replacing **Maheshwar Dayal**.  **Anbu**, who has served in various capacities including Deputy Commissioner of Police and Superintendent of Police, Madurai, will oversee law and order amidst recent incidents of crime. The government also appointed **A. Arun**, former Chennai Police Commissioner, as Director, Directorate of Vigilance and Anti-Corruption (DVAC).",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "corruption_scam"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 22:52:37.079321",
+  "generated_at": "2026-06-09 00:03:16.846017",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,34 +8,65 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 287,
-    "articles_last_30d": 124
+    "total_articles": 288,
+    "articles_last_30d": 125
   },
   "top_cities_30d": {
     "Delhi": 51,
-    "Patna": 20,
+    "Patna": 21,
     "Mumbai": 12,
     "Kolkata": 9,
     "Chennai": 8,
     "Hyderabad": 8,
+    "Lucknow": 6,
     "Bengaluru": 5,
-    "Lucknow": 5,
     "Ahmedabad": 4,
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 89,
+    "foreign_policy": 90,
     "crime_violence": 41,
     "education": 36,
     "protest_opposition": 21,
     "economy": 18,
     "health": 16,
-    "infrastructure": 14,
+    "infrastructure": 15,
     "corruption_scam": 11,
     "farmer_agriculture": 5,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67051,
+      "title": "Uttar Pradesh may send satellite to space for weather warning: CM Yogi Adityanath | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/up-weather-satellite-isro-early-warning-system-yogi-adityanath-10730469/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Union-Science-Technology-Minister-Jitendra-Singh-and.jpg",
+      "scraped_at": "2026-06-08 22:58:36.627587",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Yogi Adityanath",
+      "rephrased_article": "**Yogi Adityanath**, the **Chief Minister of Uttar Pradesh**, inaugurated a newly upgraded Regional Meteorological Centre, emphasizing the importance of accurate weather forecasts for disaster management.  He highlighted the state's expanded weather observation network and plans to send a dedicated satellite to monitor weather parameters specific to Uttar Pradesh. The chief minister also acknowledged the role of early warning systems in preventing loss of life and property, citing instances where timely alerts saved lives and prevented damage. **Jitendra Singh**, the Union Science and Technology Minister, commended the progress made in weather forecasting and observation systems, emphasizing their impact on various sectors including disaster management, agriculture, tourism, and aviation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Yogi Adityanath",
+        "Yogi"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Patna",
+        "Varanasi",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
     {
       "id": 67035,
       "title": "Not named NDA nominee for Bihar Council poll, RLM chief’s son set to lose Cabinet berth - The Hindu",
@@ -83,18 +114,14 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Nitish Kumar",
-        "Nitish",
         "Pinarayi Vijayan",
         "Uddhav Thackeray",
         "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Bihar",
@@ -5934,32 +5961,6 @@
       "topic_tags": [
         "crime_violence"
       ]
-    },
-    {
-      "id": 49871,
-      "title": "Bihar Chief Minister Nitish Kumar takes oath as Rajya Sabha member - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar-chief-minister-nitish-kumar-takes-oath-as-rajya-sabha-member/article70846358.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/1rzrum/article70846361.ece/alternates/LANDSCAPE_1200/20260409462L.jpg",
-      "scraped_at": "2026-04-10 08:03:14.944838",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Nitish Kumar",
-      "rephrased_article": "**Nitish Kumar**, the Chief Minister of Bihar, was sworn in as a member of the Rajya Sabha on Friday. The ceremony was presided over by **C.P. Radhakrishnan**, the Rajya Sabha chairman, and witnessed by prominent figures including **J.P. Nadda**, **Nirmala Sitharaman**, and **Arjun Ram Meghwal**. Kumar's appointment marks the end of his tenure as Bihar's Chief Minister, with the NDA expected to elect a new leader on April 14th.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Nirmala Sitharaman",
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
     }
   ]
 }

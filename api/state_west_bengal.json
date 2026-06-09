@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 22:52:37.218504",
+  "generated_at": "2026-06-09 00:03:16.987403",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": 0.8,
   "stats": {
-    "total_articles": 647,
+    "total_articles": 648,
     "articles_last_30d": 259
   },
   "top_cities_30d": {
     "Kolkata": 102,
-    "Delhi": 53,
-    "Mumbai": 14,
+    "Delhi": 54,
+    "Mumbai": 13,
     "Bengaluru": 11,
     "Hyderabad": 10,
     "Chennai": 9,
@@ -26,7 +26,7 @@
   "top_topics_30d": {
     "foreign_policy": 202,
     "education": 152,
-    "protest_opposition": 113,
+    "protest_opposition": 114,
     "crime_violence": 86,
     "economy": 42,
     "corruption_scam": 39,
@@ -36,6 +36,42 @@
     "farmer_agriculture": 9
   },
   "recent_articles": [
+    {
+      "id": 67069,
+      "title": "TMC unravels: Inside party MPs’ revolt against Mamata Banerjee | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/tmc-unravels-inside-party-mps-revolt-against-mamata-banerjee-10730207/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/kakoli-dastidar.jpg",
+      "scraped_at": "2026-06-08 22:59:56.293497",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The Trinamool Congress (TMC) is experiencing a significant internal crisis with at least 14 MPs attending a meeting at Union Minister Bhupender Yadav's home, claiming to form a separate bloc aligned with the BJP-led NDA.  **Mamata Banerjee**, the party chief, claims the rebels do not have the support of two-thirds of the MPs. The dissidents, led by **Kakoli Ghosh Dastidar**, claim they have 20 MPs on their side and will formally support the NDA for West Bengal's development.  The rebellion has further weakened the TMC following its defeat in the recent West Bengal Assembly elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 67025,
       "title": "Toofan gains momentum as police intensify anti-drug operations in Ernakulam - The Hindu",
@@ -107,18 +143,14 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Modi",
+        "Narendra Modi",
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Nitish Kumar",
-        "Nitish",
         "Pinarayi Vijayan",
         "Uddhav Thackeray",
         "Omar Abdullah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Bihar",
@@ -6249,43 +6281,6 @@
         "corruption_scam",
         "protest_opposition",
         "crime_violence"
-      ]
-    },
-    {
-      "id": 62102,
-      "title": "CPI(M), CPI: India's communists once ruled millions. What happened to them?",
-      "url": "https://www.bbc.com/news/articles/cwy2gr1rpnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e8a4/live/9e369c20-5472-11f1-97ab-4b256b476233.jpg",
-      "scraped_at": "2026-05-27 18:31:45.258463",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "CPI(M)",
-      "rephrased_article": "India's communist parties, once dominant in several states, have lost their grip on power. The defeat of the Communist Party of India (Marxist)-led Left Democratic Front (LDF) in Kerala marks a significant shift, ending one of the world's longest-running experiments in democratic communism. While the party has seen its influence diminish across various regions, it remains politically relevant in Kerala and continues to hold onto some support in other states like Tamil Nadu. The decline is attributed to factors including economic stagnation, changing political landscapes, and a shift towards identity politics. Despite these challenges, the CPI (M) insists on adapting to the modern economy and seeks to revitalize its presence within the Indian political landscape.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Kerala",
-        "Tamil Nadu",
-        "Tripura",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "farmer_agriculture",
-        "education",
-        "economy"
       ]
     }
   ]
