@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 14:04:18.264134",
+  "generated_at": "2026-06-09 16:45:38.149887",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 0.81,
   "stats": {
-    "total_articles": 658,
-    "articles_last_30d": 267
+    "total_articles": 659,
+    "articles_last_30d": 268
   },
   "top_cities_30d": {
     "Kolkata": 108,
-    "Delhi": 56,
+    "Delhi": 57,
     "Mumbai": 13,
     "Bengaluru": 11,
     "Hyderabad": 10,
@@ -24,18 +24,44 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 204,
+    "foreign_policy": 205,
     "education": 158,
     "protest_opposition": 115,
-    "crime_violence": 88,
+    "crime_violence": 89,
     "economy": 43,
-    "corruption_scam": 42,
+    "corruption_scam": 43,
     "infrastructure": 26,
     "rape_sexual_crime": 15,
     "health": 14,
     "political_gaffe": 13
   },
   "recent_articles": [
+    {
+      "id": 67326,
+      "title": "Fake IDs, Fake Cop Badges, Fake Money: Bengal Killer Couple's 'World Of Fake'",
+      "url": "https://www.ndtv.com/india-news/fake-ids-fake-cop-badges-fake-money-bengal-killer-couples-world-of-fake-11613328#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/n1i22c4g_delhi-murder_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 15:42:03.704231",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Police",
+      "rephrased_article": "**Delhi Police** recovered fake IDs, police badges, counterfeit currency bundles, and over 100 shirts from the accused couple's home in connection with the murder of **Delhi University Assistant Professor Debosmita Paul**. The investigation revealed that the couple had planned the attack meticulously, conducting reconnaissance for several days before the murder. They also attempted to conceal their identities after the crime by changing clothes multiple times and taking a circuitous route to avoid suspicion.  The police are now investigating if the accused were involved in any other crimes.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67269,
       "title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
@@ -52,8 +78,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -83,8 +108,7 @@
         "Trinamool"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal",
@@ -115,7 +139,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Didi"
       ],
       "states_mentioned": [
@@ -6270,31 +6293,6 @@
         "crime_violence",
         "education",
         "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62784,
-      "title": "West Bengal Cabinet expansion on June 1 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-expansion-on-june-1/article71042329.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/z7rsqj/article71042490.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000232A.jpg",
-      "scraped_at": "2026-05-30 17:18:14.296598",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Suvendu Adhikari**, the West Bengal Chief Minister, is expected to expand his Cabinet on June 1st and allocate key portfolios to senior **BJP** leaders. The first **BJP** Cabinet in the state will likely have over 30 members, with names announced after approval from the party's central leadership.  The selection criteria for the new ministers will consider seniority, regional representation, and experience, aiming to ensure inclusion of Scheduled Castes, Scheduled Tribes, women, and representatives from northern and south western Bengal. The Cabinet expansion follows **Adhikari**'s recent swearing-in as a Minister and his oversight of 42 state departments.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
         "foreign_policy"
       ]
     }
