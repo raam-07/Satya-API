@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 00:03:16.846017",
+  "generated_at": "2026-06-09 04:22:24.060942",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,14 +8,14 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 288,
-    "articles_last_30d": 125
+    "total_articles": 289,
+    "articles_last_30d": 126
   },
   "top_cities_30d": {
     "Delhi": 51,
     "Patna": 21,
     "Mumbai": 12,
-    "Kolkata": 9,
+    "Kolkata": 10,
     "Chennai": 8,
     "Hyderabad": 8,
     "Lucknow": 6,
@@ -24,10 +24,10 @@
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 90,
+    "foreign_policy": 91,
     "crime_violence": 41,
-    "education": 36,
-    "protest_opposition": 21,
+    "education": 37,
+    "protest_opposition": 22,
     "economy": 18,
     "health": 16,
     "infrastructure": 15,
@@ -36,6 +36,37 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67082,
+      "title": "West Bengal: TMC out of Kolkata Municipal Corporation as CM Suvendu Adhikari dissolves Board, appoints administrator | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-tmc-out-of-kolkata-municipal-corporation-as-cm-suvendu-adhikari-dissolves-board-appoints-administrator-10730508/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Suvendu-Adhikari-1_20260608233755.jpg",
+      "scraped_at": "2026-06-09 00:12:46.140795",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "The **BJP** government in West Bengal dissolved the governing board of the Kolkata Municipal Corporation (KMC) after the TMC failed to name a replacement for its former mayor, Firhad Hakim. The state government appointed IAS officer Smita Pandey as administrator and this action marks the end of the TMC's 16-year rule in the civic body.  The move follows Hakim's resignation and a show-cause notice issued by the state government due to concerns about disrupted civic services.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67051,
       "title": "Uttar Pradesh may send satellite to space for weather warning: CM Yogi Adityanath | Lucknow News - The Indian Express",
@@ -49,8 +80,7 @@
       "rephrased_article": "**Yogi Adityanath**, the **Chief Minister of Uttar Pradesh**, inaugurated a newly upgraded Regional Meteorological Centre, emphasizing the importance of accurate weather forecasts for disaster management.  He highlighted the state's expanded weather observation network and plans to send a dedicated satellite to monitor weather parameters specific to Uttar Pradesh. The chief minister also acknowledged the role of early warning systems in preventing loss of life and property, citing instances where timely alerts saved lives and prevented damage. **Jitendra Singh**, the Union Science and Technology Minister, commended the progress made in weather forecasting and observation systems, emphasizing their impact on various sectors including disaster management, agriculture, tourism, and aviation.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Yogi Adityanath",
-        "Yogi"
+        "Yogi Adityanath"
       ],
       "states_mentioned": [
         "Bihar",
@@ -5939,27 +5969,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "corruption_scam"
-      ]
-    },
-    {
-      "id": 49921,
-      "title": "Bihar Assembly receives bomb threat, intensive search underway: Police - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-assembly-receives-bomb-threat-intensive-search-underway-police/article70846910.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/d6p6si/article70847150.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%2011.jpg",
-      "scraped_at": "2026-04-10 11:59:16.386917",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "**The Bihar Legislative Assembly** received a bomb threat via email on Friday, prompting police to launch an intensive search of the premises. **Police** are investigating and have deployed bomb and dog squad teams. This follows a similar hoax threat on March 13th.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
       ]
     }
   ]

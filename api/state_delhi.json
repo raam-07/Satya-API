@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 00:03:16.997020",
+  "generated_at": "2026-06-09 04:22:24.186050",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,16 +8,16 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1321,
+    "total_articles": 1322,
     "articles_last_30d": 745
   },
   "top_cities_30d": {
     "Delhi": 737,
     "Mumbai": 79,
     "Bengaluru": 55,
-    "Kolkata": 43,
+    "Kolkata": 44,
     "Hyderabad": 35,
-    "Chennai": 30,
+    "Chennai": 29,
     "Jaipur": 19,
     "Pune": 15,
     "Kanpur": 15,
@@ -27,15 +27,54 @@
     "foreign_policy": 545,
     "crime_violence": 230,
     "education": 156,
-    "economy": 142,
+    "economy": 141,
     "protest_opposition": 140,
     "infrastructure": 74,
-    "corruption_scam": 70,
+    "corruption_scam": 71,
     "health": 37,
-    "political_gaffe": 36,
+    "political_gaffe": 37,
     "rape_sexual_crime": 22
   },
   "recent_articles": [
+    {
+      "id": 67088,
+      "title": "Mamata Banerjee, TMC: How one of India's most successful female politicians is losing her party",
+      "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1b1f/live/465adfe0-6320-11f1-b31a-bb3d090df46a.jpg",
+      "scraped_at": "2026-06-09 00:12:51.482527",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The Trinamool Congress (TMC), led by Mamata Banerjee, is experiencing a significant internal crisis following its loss in the recent West Bengal elections.  Banerjee's party has faced a rebellion from many of its legislators and MPs, who have accused her and her nephew of corruption and forging signatures on legislative documents. This has resulted in several TMC members seeking to align with the BJP-led ruling alliance. Political analysts suggest that this is part of a broader trend of regional parties becoming more centralized and family-centric, making them vulnerable after losing power. Banerjee remains defiant, but the future of the party remains uncertain.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Uddhav Thackeray"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "corruption_scam",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67069,
       "title": "TMC unravels: Inside party MPs’ revolt against Mamata Banerjee | Political Pulse News - The Indian Express",
@@ -56,7 +95,6 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Didi"
       ],
       "states_mentioned": [
@@ -114,8 +152,7 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Kerala",
@@ -149,8 +186,7 @@
         "DMK"
       ],
       "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Kerala",
@@ -5645,32 +5681,6 @@
         "Ludhiana"
       ],
       "topic_tags": []
-    },
-    {
-      "id": 65270,
-      "title": "2020 Delhi riots: Court defers verdict in IB officer murder case for June 11 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/omalur-tvk-candidate-claims-cash-distribution-by-party-nominee-in-salem-west-led-to-his-defeat/article71060197.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ggxedk/article71060939.ece/alternates/LANDSCAPE_1200/DELHI%20ELECTION%20TAHIR%20HUSSAIN%20DELHI%202025_29_01_7.jpg",
-      "scraped_at": "2026-06-04 12:30:56.610357",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Tahir Hussain",
-      "rephrased_article": "**Delhi**'s Additional Sessions Judge Praveen Singh postponed the verdict in the murder case of Intelligence Bureau officer Ankit Sharma until June 11th. The case involves **Tahir Hussain**, a former AAP councillor, and ten other accused who are charged with rioting, murder, and criminal conspiracy related to the 2020 northeast Delhi riots.  **Mr. Kumar**, Ankit Sharma's father, filed a complaint alleging that his son was murdered by the group at **Hussain's** office. The case stems from the communal violence that erupted during protests against the Citizenship (Amendment) Act in February 2020.",
-      "party_mentioned": [
-        "AAP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
     }
   ]
 }

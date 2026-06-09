@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-09 00:03:16.987403",
+  "generated_at": "2026-06-09 04:22:24.177819",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
   "cm": "Suvendu Adhikari",
   "region": "East",
   "cm_confidence": null,
-  "party_confidence": 0.8,
+  "party_confidence": 0.81,
   "stats": {
-    "total_articles": 648,
-    "articles_last_30d": 259
+    "total_articles": 651,
+    "articles_last_30d": 262
   },
   "top_cities_30d": {
-    "Kolkata": 102,
-    "Delhi": 54,
+    "Kolkata": 104,
+    "Delhi": 55,
     "Mumbai": 13,
     "Bengaluru": 11,
     "Hyderabad": 10,
@@ -24,18 +24,109 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 202,
-    "education": 152,
-    "protest_opposition": 114,
+    "foreign_policy": 204,
+    "education": 154,
+    "protest_opposition": 115,
     "crime_violence": 86,
     "economy": 42,
-    "corruption_scam": 39,
+    "corruption_scam": 40,
     "infrastructure": 27,
     "rape_sexual_crime": 15,
-    "health": 13,
-    "farmer_agriculture": 9
+    "health": 14,
+    "political_gaffe": 10
   },
   "recent_articles": [
+    {
+      "id": 67088,
+      "title": "Mamata Banerjee, TMC: How one of India's most successful female politicians is losing her party",
+      "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1b1f/live/465adfe0-6320-11f1-b31a-bb3d090df46a.jpg",
+      "scraped_at": "2026-06-09 00:12:51.482527",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The Trinamool Congress (TMC), led by Mamata Banerjee, is experiencing a significant internal crisis following its loss in the recent West Bengal elections.  Banerjee's party has faced a rebellion from many of its legislators and MPs, who have accused her and her nephew of corruption and forging signatures on legislative documents. This has resulted in several TMC members seeking to align with the BJP-led ruling alliance. Political analysts suggest that this is part of a broader trend of regional parties becoming more centralized and family-centric, making them vulnerable after losing power. Banerjee remains defiant, but the future of the party remains uncertain.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Uddhav Thackeray"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "corruption_scam",
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67086,
+      "title": "West Bengal joins Ayushman Bharat scheme - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-joinsayushman-bharat-scheme/article71077491.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5yu530/article71078431.ece/alternates/LANDSCAPE_1200/MOS%20NADDA%20SUVENDU%20DELHI%202026_08_06_132.jpg",
+      "scraped_at": "2026-06-09 00:12:49.097438",
+      "category": "health",
+      "sentiment": "positive",
+      "sentiment_target": "Ayushman Bharat scheme",
+      "rephrased_article": "**J.P. Nadda**, Union Health Minister, and **Suvendu Adhikari**, Chief Minister of West Bengal, presided over the signing of a Memorandum of Understanding (MoU) between the **National Health Authority (NHA)** and the **Department of Health & Family Welfare, Government of West Bengal**. The ceremony marked West Bengal's implementation of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY), making it the 36th state/union territory to join the program.  The scheme aims to provide financial protection and access to quality healthcare for poor and vulnerable families, with over 12 crore treatments worth more than ₹1.82 lakh crore already provided since its launch in September 2018. The Union Health Minister highlighted the scheme's impact on reducing out-of-pocket healthcare expenditure.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 67082,
+      "title": "West Bengal: TMC out of Kolkata Municipal Corporation as CM Suvendu Adhikari dissolves Board, appoints administrator | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-tmc-out-of-kolkata-municipal-corporation-as-cm-suvendu-adhikari-dissolves-board-appoints-administrator-10730508/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Suvendu-Adhikari-1_20260608233755.jpg",
+      "scraped_at": "2026-06-09 00:12:46.140795",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "TMC",
+      "rephrased_article": "The **BJP** government in West Bengal dissolved the governing board of the Kolkata Municipal Corporation (KMC) after the TMC failed to name a replacement for its former mayor, Firhad Hakim. The state government appointed IAS officer Smita Pandey as administrator and this action marks the end of the TMC's 16-year rule in the civic body.  The move follows Hakim's resignation and a show-cause notice issued by the state government due to concerns about disrupted civic services.",
+      "party_mentioned": [
+        "BJP",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "Bihar",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67069,
       "title": "TMC unravels: Inside party MPs’ revolt against Mamata Banerjee | Political Pulse News - The Indian Express",
@@ -56,7 +147,6 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Didi"
       ],
       "states_mentioned": [
@@ -6194,93 +6284,6 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 62178,
-      "title": "Probe incidents of accused being paraded in underwear: APDR writes to West Bengal Human Rights Commission - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/probe-incidents-of-accused-being-paraded-in-underwear-apdr-writes-to-west-bengal-human-rights-commission/article71028010.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-27 20:41:42.811299",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "A civil rights organization, the **Association of Protection of Democratic Rights (APDR)**, has filed a complaint with the **West Bengal Human Rights Commission** alleging that police officers in Howrah district paraded two accused individuals in their underwear and vests. The APDR cites two incidents at Golabari and Sankrail police stations on May 24th and 25th respectively, where the accused were subjected to this treatment.  The organization argues that these actions violate human rights and are a form of \"criminal force\" by law enforcement.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 62176,
-      "title": "Rate at which West Bengal tribunals restoring names of deleted electors proves genuine voters not allowed to vote: Prasenjit Bose - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/rate-at-which-west-bengal-tribunals-restoring-names-of-deleted-electors-proves-genuine-voters-not-allowed-to-vote-prasenjit-bose/article71030409.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/k2l8gw/article71030929.ece/alternates/LANDSCAPE_1200/IMG_Prasenjit_Bose_2_1_3RET51RR.jpg",
-      "scraped_at": "2026-05-27 20:40:51.607995",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "West Bengal Government",
-      "rephrased_article": "**Prasenjit Bose**, chairperson of the SIR Committee of West Bengal Pradesh Congress Committee, stated that appellate tribunals have restored the names of 4,043 electors (61%) from over 25 lakh appeals against deletions in West Bengal.  He emphasized that this evidence demonstrates how genuine voters were wrongfully deleted during the Special Intensive Revision (SIR) process. **Bose** also pointed out that while the Supreme Court upheld the SIR exercise in Bihar, a clear judicial forum for electors to challenge decisions is necessary. The SIR resulted in 27 lakh voters being excluded from West Bengal electoral rolls on April 7th, weeks before the Assembly polls, with significant deletions occurring in two Muslim-dominated districts.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "economy"
-      ]
-    },
-    {
-      "id": 62109,
-      "title": "Trinamool MLA arrested, several leaders quit party post - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-mla-arrested-several-leaders-quit-party-post/article71030200.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/biy7fa/article71030846.ece/alternates/LANDSCAPE_1200/Screenshot%201879.png",
-      "scraped_at": "2026-05-27 18:33:12.733256",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Trinamool Congress",
-      "rephrased_article": "**Dilip Mondal**, a Trinamool Congress MLA from Bishnupur, was arrested by **West Bengal police** in Odisha on Wednesday (May 27, 2026) after days of evading arrest. The arrest follows an investigation into alleged threats against **BJP** workers during the West Bengal Assembly elections and a previous complaint filed against him.  The arrest marks the first time a sitting MLA has been apprehended by **West Bengal police**. This comes amidst a wave of arrests targeting local Trinamool Congress workers, including former Minister **Sujit Bose**, for their alleged involvement in corruption and post-poll violence. The situation is further complicated by mass resignations from Trinamool leaders, including senior leader **Kakoli Ghosh Dastidar** and several councillors.  The party's leadership is also facing criticism for the lack of a designated space for the Leader of Opposition, **Sovandeb Chattopadhyay**, in the West Bengal Assembly premises.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Odisha",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "protest_opposition",
-        "crime_violence"
       ]
     }
   ]

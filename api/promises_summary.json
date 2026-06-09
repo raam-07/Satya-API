@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09 00:03:17.417124",
+  "generated_at": "2026-06-09 04:22:24.541496",
   "stats": {
-    "total_promises": 153,
+    "total_promises": 154,
     "kept": 3,
     "broken": 12,
-    "ongoing": 136
+    "ongoing": 137
   },
   "by_status": {
     "broken": [
@@ -31,7 +31,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2022 has passed and farm income did not double."
+        "gemma_reasoning": "The target deadline of 2022 passed, and farm income did not double."
       },
       {
         "id": "p002",
@@ -131,7 +131,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
       },
       {
         "id": "p007",
@@ -281,7 +281,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       },
       {
         "id": "p018",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Mamata Banerjee is still in power and the promise is a broad policy goal."
       },
       {
         "id": "p020",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing work on the promise."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, suggesting ongoing policy work."
       },
       {
         "id": "promise_1780208617_8",
@@ -1087,7 +1087,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780361059_5",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780373808_3",
@@ -1235,7 +1235,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline year of 2027 has not passed."
+        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
       },
       {
         "id": "promise_1780376713_4",
@@ -1635,7 +1635,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying work is ongoing."
+        "gemma_reasoning": "Shah met with the Chief Minister to discuss the peace process, indicating ongoing discussion."
       },
       {
         "id": "promise_1780436701_3",
@@ -1755,7 +1755,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise was made in a manifesto and the politician is currently in power."
+        "gemma_reasoning": "The promise was made in a manifesto and the government is still in power."
       },
       {
         "id": "promise_1780451941_6",
@@ -1959,7 +1959,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is contesting the elections, and the results are pending."
+        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
       },
       {
         "id": "promise_1780521517_7",
@@ -2275,7 +2275,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise was announced with a start date of July 1st, 2026."
+        "gemma_reasoning": "The promise is set to begin July 1st, 2026, and is currently in progress."
       },
       {
         "id": "promise_1780697691_0",
@@ -2328,7 +2328,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre has identified clean drinking water access as a priority and is in power."
+        "gemma_reasoning": "Khandre is the Rural Development Minister and actively working on the promise."
       },
       {
         "id": "promise_1780745252_0",
@@ -2441,6 +2441,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780964125_0",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Yogi Adityanath plans to send a dedicated satellite to monitor weather parameters specific to Uttar Pradesh.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "kept": [
@@ -2544,7 +2558,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
       },
       {
         "id": "promise_1780413185_3",
@@ -2598,7 +2612,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2022 has passed and farm income did not double."
+        "gemma_reasoning": "The target deadline of 2022 passed, and farm income did not double."
       },
       {
         "id": "p002",
@@ -2698,7 +2712,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -2723,7 +2737,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
       },
       {
         "id": "p007",
@@ -3249,7 +3263,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780370419_2",
@@ -3274,7 +3288,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is ongoing as Amit Shah is still in power and news reports indicate implementation is underway."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780383641_1",
@@ -3341,7 +3355,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying work is ongoing."
+        "gemma_reasoning": "Shah met with the Chief Minister to discuss the peace process, indicating ongoing discussion."
       },
       {
         "id": "promise_1780443870_2",
@@ -3471,7 +3485,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "Rahul Gandhi": [
@@ -3498,7 +3512,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
       },
       {
         "id": "promise_1780292965_2",
@@ -3610,6 +3624,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1780964125_0",
+        "person": "Yogi Adityanath",
+        "party": "",
+        "promise": "Yogi Adityanath plans to send a dedicated satellite to monitor weather parameters specific to Uttar Pradesh.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Mamata Banerjee": [
@@ -3636,7 +3664,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Mamata Banerjee is still in power and the promise is a broad policy goal."
       },
       {
         "id": "promise_1780207073_7",
@@ -3661,7 +3689,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing work on the promise."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, suggesting ongoing policy work."
       },
       {
         "id": "promise_1780332240_0",
@@ -3767,7 +3795,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is contesting the elections, and the results are pending."
+        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
       }
     ],
     "Revanth Reddy": [
@@ -3934,7 +3962,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline year of 2027 has not passed."
+        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
       },
       {
         "id": "promise_1780383936_2",
@@ -4853,7 +4881,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre has identified clean drinking water access as a priority and is in power."
+        "gemma_reasoning": "Khandre is the Rural Development Minister and actively working on the promise."
       }
     ],
     "Pinarayi Vijayan": [
@@ -5036,7 +5064,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise was made in a manifesto and the politician is currently in power."
+        "gemma_reasoning": "The promise was made in a manifesto and the government is still in power."
       }
     ],
     "Sukhvinder Singh Sukhu": [
@@ -5184,7 +5212,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise was announced with a start date of July 1st, 2026."
+        "gemma_reasoning": "The promise is set to begin July 1st, 2026, and is currently in progress."
       }
     ]
   },
@@ -5213,7 +5241,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2022 has passed and farm income did not double."
+        "gemma_reasoning": "The target deadline of 2022 passed, and farm income did not double."
       },
       {
         "id": "p002",
@@ -5313,7 +5341,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -5338,7 +5366,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials contradict the promise."
       },
       {
         "id": "p007",
@@ -5648,7 +5676,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2025 has passed."
+        "gemma_reasoning": "Target deadline of 2025 has passed and the river remains polluted."
       }
     ],
     "INC": [
@@ -5675,7 +5703,7 @@
           }
         ],
         "gemma_suggestion": "void",
-        "gemma_reasoning": "The promise was a campaign promise made by the opposition party and they lost the election."
+        "gemma_reasoning": "The promise was a campaign promise made by the opposition party that lost the election."
       }
     ],
     "TMC": [
@@ -5702,7 +5730,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Mamata Banerjee is still in power and the promise is a broad policy goal."
       }
     ]
   }

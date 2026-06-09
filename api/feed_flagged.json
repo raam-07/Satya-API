@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-09 00:03:16.612485",
-  "total": 626,
+  "generated_at": "2026-06-09 04:22:23.867787",
+  "total": 627,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 505,
+    "power_abuse": 506,
     "scale_of_harm": 35,
     "institutional_failure": 66,
     "suppression": 20
@@ -4842,6 +4842,50 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 67088,
+      "title": "Mamata Banerjee, TMC: How one of India's most successful female politicians is losing her party",
+      "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1b1f/live/465adfe0-6320-11f1-b31a-bb3d090df46a.jpg",
+      "scraped_at": "2026-06-09 00:12:51.482527",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "The Trinamool Congress (TMC), led by Mamata Banerjee, is experiencing a significant internal crisis following its loss in the recent West Bengal elections.  Banerjee's party has faced a rebellion from many of its legislators and MPs, who have accused her and her nephew of corruption and forging signatures on legislative documents. This has resulted in several TMC members seeking to align with the BJP-led ruling alliance. Political analysts suggest that this is part of a broader trend of regional parties becoming more centralized and family-centric, making them vulnerable after losing power. Banerjee remains defiant, but the future of the party remains uncertain.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Mamata Banerjee",
+        "Rahul Gandhi",
+        "Uddhav Thackeray"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "education",
+        "corruption_scam",
+        "political_gaffe"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of corruption and abuse of power within a major political party warrant concern."
     },
     {
       "id": 66882,
@@ -15419,35 +15463,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Attempted kidnapping of a political figure's relative raises concerns about safety and potential abuse of power."
-    },
-    {
-      "id": 43837,
-      "title": "Modi government’s failure to condemn attacks on Iran shows betrayal of India’s civilisational values: Congress - The Hindu",
-      "url": "https://www.thehindu.com/news/national/modi-govts-failure-to-condemn-attacks-on-iran-shows-moral-cowardice-of-civilisational-values-congress/article70768790.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/bub2g/article70768798.ece/alternates/LANDSCAPE_1200/Nearby1--9-_G7JG7JFO6JES.3.jpg.jpg",
-      "scraped_at": "2026-03-21 09:40:33.867700",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Modi government",
-      "rephrased_article": "Congress general secretary Jairam Ramesh criticized the Modi government's inaction regarding the ongoing US-Israel aerial assault on Iran, stating that it reflects \"moral cowardice\" and \"political betrayal\" of India's civilisational values.  Ramesh questioned the government's lack of condemnation or diplomatic efforts to halt the war after 21 days, despite the escalating violence and its impact on India and other countries. The three-week conflict has resulted in a significant loss of life and displacement, with no signs of abating.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "The article alleges a betrayal of India's values through inaction on a humanitarian crisis."
     }
   ]
 }

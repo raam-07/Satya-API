@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 00:03:16.965183",
+  "generated_at": "2026-06-09 04:22:24.158806",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 534,
-    "articles_last_30d": 171
+    "total_articles": 535,
+    "articles_last_30d": 172
   },
   "top_cities_30d": {
-    "Hyderabad": 62,
+    "Hyderabad": 63,
     "Delhi": 22,
-    "Bengaluru": 16,
+    "Bengaluru": 17,
     "Mumbai": 11,
     "Chennai": 8,
     "Kolkata": 5,
@@ -29,13 +29,45 @@
     "infrastructure": 34,
     "education": 28,
     "crime_violence": 28,
-    "protest_opposition": 19,
+    "protest_opposition": 20,
     "farmer_agriculture": 17,
     "health": 15,
     "political_gaffe": 15,
     "rape_sexual_crime": 13
   },
   "recent_articles": [
+    {
+      "id": 67090,
+      "title": "Rajya Sabha polls: M.P. Congress mulls moving MLAs away as BJP fields candidate on third seat - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/rajya-sabha-polls-mp-congress-mulls-moving-mlas-away-as-bjp-fields-candidate-on-third-seat/article71077677.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rh3dfi/article71078428.ece/alternates/LANDSCAPE_1200/PTI06_08_2026_000329B.jpg",
+      "scraped_at": "2026-06-09 00:12:52.523910",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Bharatiya Janata Party (BJP)**'s Mahesh Kewat entered the race for one of three Rajya Sabha seats in **Madhya Pradesh**, following the announcement of his candidacy on Sunday. The move prompted the Congress to consider moving its MLAs to other states, while the party's leader of opposition, **Umang Singhar**, hosted a dinner meeting with MLAs and senior leaders to discuss election strategy.  The Congress candidate, **Meenakshi Natarajan**, is backed by all her party members and sees this as a battle between \"Gandhian ideology\" and the BJP's \"divisive politics.\"",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Hyderabad",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 66952,
       "title": "Vitamin deficiencies may raise dementia risk, finds ICMR-NIN study - The Hindu",
@@ -5340,33 +5372,6 @@
         "economy",
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 55897,
-      "title": "Govt. readying technical proposals for talks with Maharashtra on Pranahita-Chevella project - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/govt-readying-technical-proposals-for-talks-with-maharashtra-on-pranahita-chevella-project/article70929352.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/telangana/9390yt/article70929343.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%207.47.47%20PM.jpeg",
-      "scraped_at": "2026-05-02 00:05:25.908267",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "Pranahita-Chevella project",
-      "rephrased_article": "**N. Uttam Kumar Reddy**, **Minister for Irrigation and Civil Supplies** of **Telangana**, reaffirmed the government's commitment to reviving the Pranahita-Chevella project, aiming to provide irrigation to Adilabad and Rangareddy districts by constructing a barrage at Tummidihatti.  He instructed consultants from **Aarvee Associates** and **IIT Hyderabad** to prepare comprehensive technical proposals for consultation with **Maharashtra** regarding the construction of the barrage, emphasizing the need to minimize submergence in the Chapral wildlife sanctuary and offering appropriate compensation for affected lands.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra",
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "farmer_agriculture"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 00:03:16.889838",
+  "generated_at": "2026-06-09 04:22:24.096718",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,14 +8,14 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 840,
+    "total_articles": 841,
     "articles_last_30d": 334
   },
   "top_cities_30d": {
     "Bengaluru": 116,
     "Delhi": 61,
     "Bangalore": 27,
-    "Hyderabad": 17,
+    "Hyderabad": 18,
     "Ahmedabad": 10,
     "Mumbai": 9,
     "Chennai": 9,
@@ -24,18 +24,50 @@
     "Kanpur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 191,
-    "education": 70,
-    "protest_opposition": 63,
+    "foreign_policy": 190,
+    "education": 69,
+    "protest_opposition": 64,
     "economy": 56,
     "crime_violence": 45,
     "political_gaffe": 44,
     "infrastructure": 43,
-    "health": 25,
     "farmer_agriculture": 25,
+    "health": 24,
     "corruption_scam": 23
   },
   "recent_articles": [
+    {
+      "id": 67090,
+      "title": "Rajya Sabha polls: M.P. Congress mulls moving MLAs away as BJP fields candidate on third seat - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/rajya-sabha-polls-mp-congress-mulls-moving-mlas-away-as-bjp-fields-candidate-on-third-seat/article71077677.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/rh3dfi/article71078428.ece/alternates/LANDSCAPE_1200/PTI06_08_2026_000329B.jpg",
+      "scraped_at": "2026-06-09 00:12:52.523910",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Bharatiya Janata Party (BJP)**'s Mahesh Kewat entered the race for one of three Rajya Sabha seats in **Madhya Pradesh**, following the announcement of his candidacy on Sunday. The move prompted the Congress to consider moving its MLAs to other states, while the party's leader of opposition, **Umang Singhar**, hosted a dinner meeting with MLAs and senior leaders to discuss election strategy.  The Congress candidate, **Meenakshi Natarajan**, is backed by all her party members and sees this as a battle between \"Gandhian ideology\" and the BJP's \"divisive politics.\"",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Hyderabad",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 67043,
       "title": "Congress workers seek Cabinet berth for Belur Gopala Krishna - The Hindu",
@@ -5565,30 +5597,6 @@
       "topic_tags": [
         "foreign_policy",
         "education"
-      ]
-    },
-    {
-      "id": 62890,
-      "title": "Congress will face setback in 2028 Assembly elections: Former BJP MLA Narasimha Naik - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/traffic-constables-act-of-kindness-amid-flooded-road-wins-hearts-online/article71042485.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-30 21:33:06.304454",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Narasimha Naik**, a former **BJP** MLA, stated that the **Congress** will face a setback in the 2028 Assembly elections without outgoing Chief Minister Siddaramaiah.  He expressed disappointment over Mr. Siddaramaiah's resignation and believes it will be a challenge for the new leader, **D.K. Shivakumar**, to lead the party effectively. Naik compared this situation to former Chief Minister B.S. Yediyurappa's resignation, suggesting that the **Congress** will face similar consequences.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
       ]
     }
   ]
