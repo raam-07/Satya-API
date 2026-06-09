@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 11:33:06.337858",
+  "generated_at": "2026-06-09 14:04:18.264134",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 0.81,
   "stats": {
-    "total_articles": 654,
-    "articles_last_30d": 263
+    "total_articles": 658,
+    "articles_last_30d": 267
   },
   "top_cities_30d": {
-    "Kolkata": 105,
-    "Delhi": 55,
+    "Kolkata": 108,
+    "Delhi": 56,
     "Mumbai": 13,
     "Bengaluru": 11,
     "Hyderabad": 10,
@@ -24,18 +24,133 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 203,
-    "education": 155,
+    "foreign_policy": 204,
+    "education": 158,
     "protest_opposition": 115,
-    "crime_violence": 87,
-    "economy": 42,
-    "corruption_scam": 41,
+    "crime_violence": 88,
+    "economy": 43,
+    "corruption_scam": 42,
     "infrastructure": 26,
     "rape_sexual_crime": 15,
     "health": 14,
-    "political_gaffe": 11
+    "political_gaffe": 13
   },
   "recent_articles": [
+    {
+      "id": 67269,
+      "title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-mamata-banerjee-abhishek-banerjee-trinamool-congress-forgery-allegations/article71080396.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i7lt2f/article71080425.ece/alternates/LANDSCAPE_1200/20260608046L.jpg",
+      "scraped_at": "2026-06-09 12:10:11.000460",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Mamata Banerjee",
+      "rephrased_article": "**The Criminal Investigation Department (CID)** of **West Bengal Police** searched the residence of former Chief Minister **Mamata Banerjee** at 30B, Harish Chatterjee Street in connection with allegations of forged signatures from party MLAs.  **Subhasish Chakraborty**, a former Trinamool Congress MP, prevented the search and requested a return visit when either **Mamata Banerjee** or **Abhishek Banerjee** would be present. The CID has registered an FIR based on complaints by MLAs Ritabarta Banerjee and Sandipan Saha alleging forged signatures that led to their expulsion from the party.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "education"
+      ]
+    },
+    {
+      "id": 67262,
+      "title": "Trinamool, Abhishek Banerjee offices searched in signature forgery case | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/cid-search-trinamool-congress-abhishek-banerjee-offices-mamata-banerjee-signature-forgery-case-10731593/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/abhishek-banerjee.jpg",
+      "scraped_at": "2026-06-09 12:09:57.009221",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**The West Bengal CID** conducted searches at the **Trinamool Congress**'s central office in Kolkata and **Abhishek Banerjee's** office on Camac Street as part of its investigation into alleged Assembly signature forgery.  The searches followed a complaint filed by rebel TMC MLAs Ritabrata Banerjee and Sandipan Saha alleging fabricated signatures on a letter sent to the Assembly Speaker regarding the appointment of the Leader of Opposition. The CID has recorded statements from 13 TMC MLAs, with three disowning the signatures attributed to them. **Abhishek Banerjee** skipped a third summons issued by the Crime Investigation Department citing pending proceedings before the Calcutta High Court and his absence from the city.",
+      "party_mentioned": [
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "crime_violence",
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67251,
+      "title": "Gujarat identifies 5.96 lakh ‘Lakhpati Didis’ under rural livelihood mission - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-identifies-596-lakh-lakhpati-didis-under-rural-livelihood-mission/article71080182.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/u7byae/article71080442.ece/alternates/LANDSCAPE_1200/IMG_iStock-1688632180_2_1_0HFTE8IJ.jpg",
+      "scraped_at": "2026-06-09 12:09:37.627247",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Gujarat Government",
+      "rephrased_article": "**Gujarat** has identified over 5.96 lakh women as \"Lakhpati Didis\" under the state's rural livelihood program, aiming to help members of self-help groups (SHGs) achieve annual household incomes exceeding ₹1 lakh. The **Gujarat Livelihood Promotion Company** has trained over 10,000 community resource persons, including Krishi Sakhis, Pashu Sakhis and Bank Sakhis, to support the scheme's implementation.  The program provides training, financial assistance, credit support and market access to rural women entrepreneurs, with beneficiaries like Bhavnaben Patel and Shilpaben Pandya reporting annual earnings of ₹10.16 lakh and ₹10 lakh respectively through diverse livelihood activities.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 67224,
+      "title": "Former minister Indranil Sen swindled public funds using Durga Puja passes, Unesco claim: Complaint | Kolkata News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/kolkata/former-west-bengal-minister-indranil-sen-massart-fake-unesco-durga-puja-fraud-case-10731612/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/01/Durga-Puja.jpg",
+      "scraped_at": "2026-06-09 12:08:54.721081",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Indranil Sen",
+      "rephrased_article": "**Indranil Sen**, a former West Bengal minister, and members of the **Mahanirban Road Mass Art Society (massArt)** have been accused of misappropriating public funds and harming religious sentiments by falsely claiming the organization was an official partner with the **UNESCO**.  A complaint filed with the Kolkata police alleges that they used this false claim to sell tickets for \"Preview Shows\" at Durga Puja pandals, restricting access to the general public. The complaint also accuses them of exploiting state departments for financial gain and causing tension among devotees. The five individuals named in the complaint are being requested to face legal action.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 67157,
       "title": "Trinamool Crisis: \"BJP Won't Take Them, Not Enough Numbers\": Team Mamata Banerjee On Rebels",
@@ -54,8 +169,7 @@
         "NDA"
       ],
       "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Mamata"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
         "West Bengal"
@@ -6182,119 +6296,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 62759,
-      "title": "Transporters pause operations in Manipur in protest against trucker’s killing - The Hindu",
-      "url": "https://www.thehindu.com/news/national/manipur/transporters-pause-operations-in-manipur-in-protest-against-truckers-killing/article71042021.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xajwds/article71042267.ece/alternates/LANDSCAPE_1200/PTI05_30_2026_000185A.jpg",
-      "scraped_at": "2026-05-30 15:52:25.904372",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Kuki militants",
-      "rephrased_article": "**Transporters** in Manipur suspended operations on Saturday, May 30, 2026, protesting the killing of a trucker from West Bengal's Hooghly. The attack on a convoy of food trucks and oil tankers by **Kuki militants** on National Highway 202 disrupted essential supplies to Imphal and beyond.  The drivers demanded increased security measures and action against the attackers, while **Chief Minister Yumnam Khemchand Singh** assured the families of the slain driver that their safety is a priority.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Manipur",
-        "Nagaland",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62502,
-      "title": "Census in West Bengal to start from August 1: CM Suvendu - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/census-in-bengal-to-be-held-from-august-1-to-february-end-next-year-cm/article71036958.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/p6eswr/article71036998.ece/alternates/LANDSCAPE_1200/20260520353L.jpg",
-      "scraped_at": "2026-05-29 17:38:38.295279",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "West Bengal Government",
-      "rephrased_article": "**Suvendu Adhikari**, West Bengal Chief Minister, announced the commencement of the **West Bengal Census 2027** between August 1 and February 2028. He emphasized that the census is a constitutional obligation and urged citizens to participate.  Adhikari attributed demographic changes in parts of the state to cross-border infiltration due to an unfenced border with Bangladesh, stating that accurate data will be crucial for governance and planning. The **Census Director of West Bengal**, Rashmi Kamal, IAS officer of the 2006 batch, is overseeing the digital census, which allows for self-enumeration.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 62437,
-      "title": "Internal bickering, resignations and public anger, Trinamool battling on multiple fronts - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/internal-bickering-resignations-and-public-anger-trinamool-battling-on-multiple-fronts/article71034091.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8j4o5g/article71036081.ece/alternates/LANDSCAPE_1200/PTI05_27_2026_000152B.jpg",
-      "scraped_at": "2026-05-29 06:22:19.614741",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Trinamool Congress",
-      "rephrased_article": "**Trinamool Congress** continues to face internal turmoil following its electoral defeat in West Bengal.  Senior MPs **Kakoli Ghosh Dastidar** and **Kalyan Banerjee** engaged in a public dispute, while senior MP **Sougata Roy** faced protests and alleged attacks from BJP supporters.  The party also saw the arrest of **Baduria municipality chairperson Dipankar Bhattacharya**, who was allegedly found with over ₹2.24 crore hidden in a jute field.  Former Rajya Sabha MP **Santanu Sen** resigned, criticizing the party's handling of the RG Kar rape and murder case.  **Mamata Banerjee** shared a cryptic poem on social media, while **Kunal Ghosh** urged party leaders to focus on internal solutions.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "education",
-        "protest_opposition",
-        "foreign_policy",
-        "corruption_scam",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 62308,
-      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
-      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
-      "scraped_at": "2026-05-28 17:02:22.073062",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Goa",
-        "Gujarat",
-        "Karnataka",
-        "Kerala",
-        "Maharashtra",
-        "Odisha",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Mumbai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

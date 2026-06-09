@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-06-09 11:33:05.982483",
-  "total": 629,
+  "generated_at": "2026-06-09 14:04:17.880302",
+  "total": 633,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 508,
+    "power_abuse": 511,
     "scale_of_harm": 35,
-    "institutional_failure": 66,
+    "institutional_failure": 67,
     "suppression": 20
   },
   "articles": [
+    {
+      "id": 67279,
+      "title": "Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules | WIRED",
+      "url": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
+      "source": "Wired",
+      "image_url": "https://media.wired.com/photos/6a27d2a80d6aa02c6a8cda54/191:100/w_1280,c_limit/Politics_ThreatsAgainstPoliticiansSkyrocketedAfterMetaChangedItsSpeechRules_v2.jpg",
+      "scraped_at": "2026-06-09 12:10:34.426905",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Meta",
+      "rephrased_article": "Meta overhauled its content moderation rules last year, claiming to relax restrictions and promote free speech.  A new report from the Center for Countering Digital Hate (CCDH) found that abusive and racist comments targeting lawmakers tripled in the six months after the changes. The report also documented a significant increase in threats against President Trump and other hateful content. While Meta maintains its decision was driven by free speech principles, experts argue that relaxing moderation has led to an amplification of harmful content, potentially contributing to increased political violence and harassment.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "political_gaffe",
+        "crime_violence",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Increased threats against politicians signal a potential threat to democracy."
+    },
     {
       "id": 67140,
       "title": "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons | Investigation News | Al Jazeera",
@@ -4871,6 +4898,39 @@
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
     },
     {
+      "id": 67236,
+      "title": "BJP Leader Girish Mahajan Criticises Operation Bluestar In Big Shift In Punjab Strategy",
+      "url": "https://www.ndtv.com/india-news/bjp-leader-girish-mahajan-criticises-operation-bluestar-in-big-shift-in-punjab-strategy-11612219#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/u2rqtha8_girish-mahajan-golden-temple_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 12:09:09.859200",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The Bharatiya Janata Party (BJP) has shifted its Punjab strategy by publicly criticizing Operation Bluestar for the first time. Maharashtra minister Girish Mahajan, who visited the Damdami Taksal during the 42nd anniversary of the operation, described it as an attack on the Golden Temple and blamed former prime minister Indira Gandhi. This move signals an attempt to engage with Sikh sentiments that view the operation as a deep wound. However, the strategy has been met with criticism from Punjab Congress president Amarinder Singh Raja Warring, who accused the BJP of hypocrisy. Whether this outreach will be seen as reconciliation or electoral opportunism remains to be seen.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "political_gaffe",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Public criticism of Operation Bluestar is a significant shift in BJP's Punjab strategy."
+    },
+    {
       "id": 67211,
       "title": "Visakhapatnam steel plant blast: Pawan Kalyan, Lokesh meet injured and bereaved families - The Hindu",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-steel-plant-blast-pawan-kalyan-lokesh-meet-injured-and-bereaved-families/article71079561.ece",
@@ -4899,6 +4959,38 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Blast at a major industrial plant causing casualties warrants urgent attention."
+    },
+    {
+      "id": 67172,
+      "title": "CBI Begins Probe Into Tamil Nadu's Rs 397 Crore Transformer Tender Scam",
+      "url": "https://www.ndtv.com/tamil-nadu-news/cbi-begins-probe-into-tamil-nadus-rs-397-crore-transformer-tender-scam-11611336#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/u84ldgbk_cbi-generic-_625x300_13_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 08:34:17.033703",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "The Central Bureau of Investigation (CBI) registered an FIR following orders from the Madras High Court in response to complaints alleging corruption in Tamil Nadu's transformer procurement tenders. The case involves irregularities in the 2021, 2022 and 2023 tender processes, with allegations that the process was manipulated to favor select companies at the expense of the state exchequer. The CBI has booked officials from the Tamil Nadu Generation and Distribution Corporation Limited (TANGEDCO), members of the Tender Scrutiny Committee, government employees, and private contractors on charges of corruption, cheating, and criminal conspiracy. The investigation will examine whether procurement rules were violated, if public officials misused their positions, and if there was any collusion to provide undue benefits to specific companies.",
+      "party_mentioned": [
+        "AIADMK"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai",
+        "Madurai"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "corruption_scam"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of corruption in a large-scale government tender raise serious concerns about abuse of power."
     },
     {
       "id": 67088,
@@ -15376,93 +15468,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "The article suggests a politically motivated citizenship probe was used to suppress dissent."
-    },
-    {
-      "id": 44045,
-      "title": "Punjab Minister Bhullar resigns from Cabinet as Opposition demands murder case, CBI probe - The Hindu",
-      "url": "https://www.thehindu.com/news/national/punjab/punjab-minister-bhullar-resigns-from-cabinet-as-opposition-demands-murder-case-cbi-probe/article70769263.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-21 21:34:54.973775",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Laljit Singh Bhullar",
-      "rephrased_article": "Laljit Singh Bhullar, Punjab’s Transport Minister, resigned from the Aam Aadmi Party (AAP) government on Saturday after a video surfaced showing him allegedly pressuring district manager Gagandeep Singh Randhawa to award a tender to his associate. The incident led to calls for an FIR under murder charges against Bhullar and the transfer of the case to the Central Bureau of Investigation by opposition parties, including the Congress, Shiromani Akali Dal, and the Bharatiya Janata Party. Chief Minister Bhagwant Mann ordered an inquiry but faced criticism from opposition leaders who questioned his leadership and competence.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "Akali Dal",
-        "SAD"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence",
-        "economy"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "The article reports potential abuse of power and demands for a CBI probe."
-    },
-    {
-      "id": 44038,
-      "title": "‘Tears and grief’: Mother’s Day in Gaza marked by mourning | Israel-Palestine conflict News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/21/tears-and-grief-mothers-day-in-gaza-marked-by-mourning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/03/2025-12-11T124840Z_1583692154_RC27EIA4Y258_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1774121348.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-03-21 21:31:51.167796",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Israel",
-      "rephrased_article": "Mothers in Gaza marked Mother's Day with grief and mourning, as the conflict continues to devastate families.  Em Rami Dawwas, a mother who lost three sons in Israeli attacks, described her pain of missing them on this day. UNICEF estimates that 64,000 children have been killed or wounded in the war since October 2023. Amnesty International reported that Palestinian women and girls face compounded consequences due to the ongoing conflict, including mass displacement, healthcare disruption, and heightened exposure to disease.  The fragile ceasefire between Israel and Hamas has been repeatedly violated, leading to further suffering for civilians.",
-      "party_mentioned": [
-        "SAD"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Large-scale harm to children is being reported as routine."
-    },
-    {
-      "id": 44025,
-      "title": "Found unresponsive in Florida: 19-year-old Mexican teen youngest to die in ICE custody - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/found-unresponsive-in-florida-19-year-old-mexican-teen-youngest-to-die-in-ice-custody/articleshow/129724141.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-129724141,width-1280,height-720,imgsize-108132,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-03-21 19:33:39.645817",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "ICE",
-      "rephrased_article": "A 19-year-old Mexican national, Royer Perez-Jimenez, died in ICE custody at the Glades County Detention Center in Florida, raising concerns about conditions within immigration detention facilities.  ICE officials described the death as a \"presumed suicide\" but investigations are ongoing. Mexican authorities have demanded a thorough investigation and the Mexican consulate has visited the facility to request documentation. Advocacy groups criticize the isolation of detainees and the abysmal conditions they face, while data indicates over 40 migrant deaths in ICE custody since early 2025.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "institutional_failure",
-      "civic_flag_reason": "Death in custody raises concerns about ICE detention conditions and potential abuse of power."
     }
   ]
 }

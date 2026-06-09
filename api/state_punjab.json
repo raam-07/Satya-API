@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 11:33:06.291891",
+  "generated_at": "2026-06-09 14:04:18.215967",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 559,
+    "total_articles": 560,
     "articles_last_30d": 251
   },
   "top_cities_30d": {
@@ -24,18 +24,46 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 193,
-    "crime_violence": 78,
+    "foreign_policy": 192,
+    "crime_violence": 79,
     "education": 65,
     "economy": 62,
     "protest_opposition": 45,
-    "infrastructure": 28,
+    "infrastructure": 27,
     "health": 24,
-    "farmer_agriculture": 20,
+    "farmer_agriculture": 21,
     "corruption_scam": 18,
-    "political_gaffe": 16
+    "political_gaffe": 17
   },
   "recent_articles": [
+    {
+      "id": 67236,
+      "title": "BJP Leader Girish Mahajan Criticises Operation Bluestar In Big Shift In Punjab Strategy",
+      "url": "https://www.ndtv.com/india-news/bjp-leader-girish-mahajan-criticises-operation-bluestar-in-big-shift-in-punjab-strategy-11612219#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/u2rqtha8_girish-mahajan-golden-temple_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 12:09:09.859200",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**The Bharatiya Janata Party (BJP)** has shifted its Punjab strategy by publicly criticizing **Operation Bluestar** for the first time. Maharashtra minister Girish Mahajan, who visited the Damdami Taksal during the 42nd anniversary of the operation, described it as an attack on the Golden Temple and blamed former prime minister Indira Gandhi. This move signals an attempt to engage with Sikh sentiments that view the operation as a deep wound. However, the strategy has been met with criticism from **Punjab Congress president Amarinder Singh Raja Warring**, who accused the BJP of hypocrisy. Whether this outreach will be seen as reconciliation or electoral opportunism remains to be seen.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Akali Dal"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "Punjab"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67128,
       "title": "Ayali switches to Amritpal’s party, puts panthic unity to another political test | Chandigarh News - The Indian Express",
@@ -5499,36 +5527,6 @@
         "crime_violence",
         "foreign_policy",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 60860,
-      "title": "Slow-moving bands of heavy rain trigger flooding and landslides in parts of China | China | The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/22/slow-moving-bands-heavy-rain-flooding-landslides-china",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/02310edecdd6baf3d7725717dcde8561ed4635e3/100_0_2183_1746/master/2183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ad54e8d3f124d5b73ed8112943cbb70",
-      "scraped_at": "2026-05-22 09:39:39.875419",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "weather",
-      "rephrased_article": "Heavy rainfall across southern and central China has led to flash flooding, landslides, and waterlogging. The **Bay of Bengal**, **South China Sea**, and **Pacific Ocean** contributed to the prolonged downpour that caused 12 deaths and forced evacuations.  Meanwhile, extreme heat warnings have been issued for northern India, with temperatures exceeding 40°C (104°F) in several regions. These conditions are expected to persist until Wednesday when thunderstorms may develop.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Punjab",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure",
-        "education",
-        "farmer_agriculture"
       ]
     }
   ]

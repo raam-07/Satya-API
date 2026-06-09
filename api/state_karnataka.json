@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 11:33:06.244639",
+  "generated_at": "2026-06-09 14:04:18.167349",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,34 +8,169 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 846,
-    "articles_last_30d": 337
+    "total_articles": 851,
+    "articles_last_30d": 341
   },
   "top_cities_30d": {
-    "Bengaluru": 116,
+    "Bengaluru": 118,
     "Delhi": 62,
     "Bangalore": 28,
-    "Hyderabad": 18,
+    "Hyderabad": 17,
+    "Chennai": 10,
     "Ahmedabad": 10,
     "Mumbai": 9,
-    "Chennai": 9,
     "Coimbatore": 5,
     "Kolkata": 4,
-    "Kanpur": 3
+    "Bhopal": 4
   },
   "top_topics_30d": {
     "foreign_policy": 192,
+    "protest_opposition": 69,
     "education": 68,
-    "protest_opposition": 65,
-    "economy": 56,
-    "crime_violence": 47,
-    "infrastructure": 44,
+    "economy": 55,
+    "crime_violence": 48,
     "political_gaffe": 44,
+    "infrastructure": 43,
     "health": 25,
     "farmer_agriculture": 24,
-    "corruption_scam": 23
+    "corruption_scam": 24
   },
   "recent_articles": [
+    {
+      "id": 67290,
+      "title": "DSS to hold rallies on June 16 seeking Karnataka Cabinet berth for H.C. Mahadevappa - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/dss-to-hold-rallies-on-june-16-seeking-karnataka-cabinet-berth-for-hc-mahadevappa/article71077572.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/f2urx5/article71078115.ece/alternates/LANDSCAPE_1200/10258_8_6_2026_19_16_58_1_KLB_KSDSS_DG_SAGAR_1.JPG",
+      "scraped_at": "2026-06-09 12:10:55.030469",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "H.C. Mahadevappa",
+      "rephrased_article": "**Dalit Sangharsha Samiti**, a Karnataka-based organization, announced a statewide rally on June 16th to demand a Cabinet berth for **H.C. Mahadevappa**, a senior Congress leader and former Minister. The group highlighted **Mahadevappa's** contributions to Dalit welfare and social justice during his tenure as Minister, citing specific initiatives like securing funds for the Dr B.R. Ambedkar Bhavan and strengthening enforcement of laws against atrocities against Scheduled Castes. They urged the state Congress leadership to accommodate **Mahadevappa** in the next Cabinet expansion and provide adequate representation for Dalits in other positions of power.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67288,
+      "title": "‘Not just about giving money’: Lokesh pledges long-term support for steel blast families - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/not-just-about-giving-money-lokesh-pledges-long-term-support-for-steel-blast-families/article71080028.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/l90qr9/article71080327.ece/alternates/LANDSCAPE_1200/lokesh.jpeg",
+      "scraped_at": "2026-06-09 12:10:52.304203",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**IT Minister Nara Lokesh** and **Union Minister for Steel H. D. Kumaraswamy** visited the Visakhapatnam Steel Plant (VSP) following a recent blast, where they announced immediate financial compensation of ₹25 lakh to families of the victims.  The government is committed to securing the future of the affected families, including providing education and welfare support for their children. **Mr. Lokesh** also highlighted the NDA government's swift response to the incident, emphasizing continuous monitoring by senior ministers and the announcement of permanent employment for one member from each affected family. Workers expressed concern about the plant's future, particularly regarding potential privatization, while **Mr. Lokesh** assured them that the government is committed to safeguarding VSP.",
+      "party_mentioned": [
+        "YSRCP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Nirmala Sitharaman",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Visakhapatnam"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67283,
+      "title": "Anbumani meets T.N. CM Vijay, urges caste-based survey announcement in Governor’s address - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-meets-tn-cm-vijay-urges-caste-based-survey-announcement-in-governors-address/article71079843.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/1dd6r0/article71080438.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-09%20at%2015.39.50.jpeg",
+      "scraped_at": "2026-06-09 12:10:42.401824",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "**Anbumani Ramadoss**, leader of the **Pattali Makkal Katchi (PMK)**, met with **Chief Minister C. Joseph Vijay** in Chennai to urge the state government to announce a caste-based survey during the Governor’s address on June 18th.  Mr. Ramadoss stated that the resolution passed at a multi-party meeting last week, which included representatives from 42 political parties and organizations, unanimously supported conducting a caste-based survey in Tamil Nadu. He argued that the existing reservation policies were based on outdated data collected during the British period and that a modern survey would provide accurate socio-economic and educational details of the state's population.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 67244,
+      "title": "Rajya Sabha polls: Amid fears of cross-voting, Madhya Pradesh Congress MLAs leave for Bengaluru - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-politics-congress-mlas-rajya-sabha-polls/article71080570.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/r6lkwu/article71080561.ece/alternates/LANDSCAPE_1200/PTI06_09_2026_000174A.jpg",
+      "scraped_at": "2026-06-09 12:09:28.542177",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Congress** MLAs in Madhya Pradesh are traveling to Bengaluru by chartered flight to avoid potential cross-voting in the upcoming Rajya Sabha elections.  The **Air Traffic Control (ATC)** has delayed the takeoff, causing frustration among the lawmakers.  **Umang Singhar**, Leader of Opposition in the state Assembly, stated that several BJP offers have been made to Congress MLAs, but they are united and confident in their support.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67242,
+      "title": "Congress MLAs Stranded At Bhopal Airport Over Plane Mix-up",
+      "url": "https://www.ndtv.com/india-news/congress-mlas-stranded-at-bhopal-airport-over-plane-mix-up-11612125#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/qnpckv4c_bhopal-airport_625x300_09_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 12:09:22.228934",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Congress** MLAs and their families faced confusion at Bhopal Airport due to a smaller aircraft than expected for their travel to Bengaluru. The **Congress** had arranged two batches of flights, with the first flight accommodating 76 MLAs and family members, while another was planned later in the evening for the remaining MLAs.  The move came amid heightened political tension after the BJP fielded Mahesh Kevat as a candidate for the Rajya Sabha seat against Congress's Meenakshi Natarajan. The **Congress** is concerned about potential cross-voting and has decided to send its MLAs to Karnataka.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Shah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [
+        "Bengaluru",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67214,
       "title": "Chief Minister travels by Metro to avoid Zero-Traffic arrangements in Bengaluru - The Hindu",
@@ -5430,157 +5565,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 63113,
-      "title": "CBSE OSM Coempt TCS row | CBSE on screen marking row: Rahul Gandhi says ‘rules’ bent to favour Coempt, cites TCS loss in auction - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMENGbkhaSm1tRzE5ZXdlQkV6WU5UMVFtdl8zTzZ2QmJJbE96VUZxc1dsazFNX3hfalFZVjB3NE12c2stUjlhRTduMTlvLUZVY1lMRGNscGVucFNnU1pIeXNOY1RfbUZlN3NTNTBkR19SdEVvN3RzdlB5SFVaS1oyNjNWZUplU2E0YzZ6T3kzYmFxVDdGTVB0aHl6VDlaY2dEZnB0cHVMY0o1X1UwRkl6MHg5NlctYlJiamFqSW9ERGZ6Q2s0TzZUTnVONEdBMlJLc1ZYd3dQX3llSnpvWDAxU9IB5gFBVV95cUxOVHlIMjA4OUstVG14VEN1c29BdXFuWFc4ME1PYnFwLUk2d2FTc1l2enBtZFJtX2hWOFFTekg0VHdWbk82T3hhbzFVc3lvblJQUkN3aXZCR2lKOUdvcGZiZVBqbFlDZTQxbmNCLUt1VkZzTW1wV0EtZzRNZUlMS0Vpd3N5emtyeVI1SkozM2YzOHhpTmlGdGloR2h3NXA3YVZDc0VmdXlrWEVDc01hSFF2MGdheF9sNjBONzZ5cHlhTXYzT21kanQ3U01JZGxhY2s2YXVmRlhXeHA3VDBnZDE3b3pva0t0UQ?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1778054511_rahul-gandhi.gif",
-      "scraped_at": "2026-05-30 21:57:37.274581",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Modi government",
-      "rephrased_article": "**Rahul Gandhi** criticized the **Modi government** over the CBSE exam evaluation controversy, alleging that the board lowered technical requirements to favor **COEMPT Eduteck Private Limited**, a company with a poor track record. He demanded an independent judicial probe into the contract awarding process and accused the government of prioritizing its survival over student well-being.  **Piyush Goyal**, the Union commerce minister, countered Gandhi's claims, accusing him of \"propaganda\" while **Dharmendra Pradhan**, the Union education minister, defended the board's actions. Other prominent figures like **Priyanka Chaturvedi** and **Mohammed Zubair** have also raised concerns about potential manipulation and a coordinated campaign to promote the OSM system.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Shiv Sena"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Arunachal Pradesh",
-        "Karnataka",
-        "Manipur",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "corruption_scam",
-        "education"
-      ]
-    },
-    {
-      "id": 63111,
-      "title": "Rivalry with Siddaramaiah, succession drama: DK Shivakumar's biography to hit the stands in mid-July",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9DM3hvZGpwanFUQndDZllSZ1A5UjZMOWt0bFZMeFlicDI5b0pMYU82YU9Id3pid084cHhMZ041dG1UX1U?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-28%2Ffvjtao6b%2FBeFunky-collage-78.jpg?rect=0%2C0%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 21:57:35.132269",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "D K Shivakumar",
-      "rephrased_article": "**Rasheed Kidwai**, a senior journalist, will publish his biography of **D K Shivakumar**, titled \"Congress's Crisis Manager, Karnataka's Kingmaker,\" in mid-July. The book chronicles Shivakumar's rise as a prominent politician, detailing his involvement in various crises within the party and his role as a crisis manager.  The book explores Shivakumar's political journey from student leader to a figure of national interest, highlighting his connections with the Gandhi family and his contrasting roles as a strongman and strategist.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63097,
-      "title": "Rivalry with Siddaramaiah, succession drama: DK Shivakumar's biography to hit the stands in mid-July",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGtkSVRzd05tTDctRFdocV9CcXJtc2RFSnpCRFBfU01FRWhDUFdWU2x2OFZRRGRTMW9LdERRZlcyaGZCSVpRUU1JNmRfTG11VXpOQXEwY3A0dDM5R294MlFzVHExSVlGb2x1engwc1VDdHZzTE5TQXZWLThYZ1BlTWY2YVBDQnozODExRGVUczlWYVBGZDktdlNnOGFrTUh0YWg1SE1pUnJodU9wdFM3a0tnSWJwYmgwQlRKOHhnN1pjYWhmdDNBblB0YnlVZVlSb2pj?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-28%2Ffvjtao6b%2FBeFunky-collage-78.jpg?rect=0%2C0%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 21:56:56.603991",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "D K Shivakumar",
-      "rephrased_article": "A biography of **D K Shivakumar**, a prominent Congress leader in Karnataka, will be published in mid-July. The book, titled \"Congress's Crisis Manager, Karnataka's Kingmaker,\" by senior journalist Rasheed Kidwai, details Shivakumar's rise to power and his rivalry with outgoing Chief Minister Siddaramaiah.  Kidwai highlights Shivakumar's reputation as a crisis manager, citing examples from his work in the Rajya Sabha election and Maharashtra. The book also explores Shivakumar's personal life and political journey, including his college days and close ties to the Gandhi family.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63088,
-      "title": "Cyber Breach On CBSE Portal Lets Students See Erratic Charges, HDFC Gateway Blamed | OdishaBytes",
-      "url": "https://odishabytes.com/cyber-breach-on-cbse-portal-lets-students-see-erratic-charges-hdfc-gateway-blamed/",
-      "source": "Odisha Bytes",
-      "image_url": "https://assets.odishabytes.com/wp-content/uploads/2026/05/CBSE-4.webp",
-      "scraped_at": "2026-05-30 21:56:44.717006",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "CBSE",
-      "rephrased_article": "A **malicious attack** on the payment system of the **Central Board of Secondary Education (CBSE)**'s revaluation portal, using the HDFC payment gateway, caused erratic fee displays for approximately 50 students. The breach occurred after a period of non-functionality and authorities are investigating the issue with experts from IIT Madras and IIT Kanpur, alongside the Digital Infrastructure Corporation of India.  To address the vulnerability, four public sector banks have been added as alternate payment gateways. Officials also noted infrastructure changes to improve capacity by shifting the portal to Amazon Web Services.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Nirmala Sitharaman"
-      ],
-      "states_mentioned": [
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63077,
-      "title": "Rivalry with Siddaramaiah, succession drama: DK Shivakumar's biography to hit the stands in mid-July",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcXF6V0Q3SGlzWkdIS1JRNm5BNS1ydGo4cVRHcncxOXRIQ2dXTVFkTGRiQ25FNWxYZDFNWEtXZGRRSGcyMUl3cmtSVGJKdHBSNkJSZTNiYlMyOGtBaE01OHJ2RzlQSVRJaTdzaGl6SDdmeWR0TVFJTFVuSmlWSFFXWVY0LWwwcW5hdUVJd2VBMkJFUUlfd0tQVmtYcXFLS0xXMHpPVWpDRUczOVlGeEZrY3piQXhCSkpVUzI1em43bkJZMDllWUkxNDVRYTI?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-28%2Ffvjtao6b%2FBeFunky-collage-78.jpg?rect=0%2C0%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 21:54:57.257654",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "D K Shivakumar",
-      "rephrased_article": "**Rasheed Kidwai**, a senior journalist, will publish his biography of **D K Shivakumar**, titled \"Congress’s Crisis Manager, Karnataka’s Kingmaker,\" in mid-July. The book details Shivakumar's rise as a prominent politician, from student leader to crisis manager for the party, and explores his complex personality.  The book will cover key moments in Shivakumar's life, including his political career, personal experiences, and relationships with influential figures like **Ahmed Patel** and the **Gandhi family**.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "crime_violence"
       ]
     }
   ]

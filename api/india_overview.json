@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 11:33:06.060824",
+  "generated_at": "2026-06-09 14:04:17.971453",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,271 +7,281 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 24476,
-    "articles_last_7_days": 2428,
-    "articles_last_30_days": 7898,
-    "civic_flags_last_30_days": 245,
-    "civic_flags_today": 11
+    "total_articles_classified": 24546,
+    "articles_last_7_days": 2498,
+    "articles_last_30_days": 7930,
+    "civic_flags_last_30_days": 249,
+    "civic_flags_today": 12
   },
   "civic_alert": {
-    "flagged_count_30d": 245,
-    "flagged_today": 11,
+    "flagged_count_30d": 249,
+    "flagged_today": 12,
     "top_flag_categories": {
-      "power_abuse": 209,
-      "institutional_failure": 19,
+      "power_abuse": 212,
+      "institutional_failure": 20,
       "scale_of_harm": 14,
       "suppression": 3
     }
   },
   "top_stories": [
     {
-      "id": 67213,
-      "title": "Indian diaspora groups welcome court ruling striking down $100,000 H-1B visa fee - The Hindu",
-      "url": "https://www.thehindu.com/news/national/indian-diaspora-groups-welcome-court-ruling-striking-down-100000-h-1b-visa-fee/article71079145.ece",
+      "id": 67290,
+      "title": "DSS to hold rallies on June 16 seeking Karnataka Cabinet berth for H.C. Mahadevappa - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/dss-to-hold-rallies-on-june-16-seeking-karnataka-cabinet-berth-for-hc-mahadevappa/article71077572.ece",
       "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/society/1dex0r/article71079169.ece/alternates/LANDSCAPE_1200/H1BVisa1.jpg",
-      "scraped_at": "2026-06-09 08:35:53.913633",
-      "category": "international",
+      "image_url": "https://th-i.thgim.com/public/incoming/f2urx5/article71078115.ece/alternates/LANDSCAPE_1200/10258_8_6_2026_19_16_58_1_KLB_KSDSS_DG_SAGAR_1.JPG",
+      "scraped_at": "2026-06-09 12:10:55.030469",
+      "category": "politics",
       "sentiment": "positive",
-      "sentiment_target": "US Government",
-      "rephrased_article": "A federal court in Massachusetts ruled that the $100,000 fee imposed by the Trump administration on H-1B visas was unlawful because it lacked congressional approval. **Khanderao Kand**, Chief of Policy and Strategy at the **Foundation for India and Indian Diaspora Studies (FIIDS)**, welcomed the decision, stating it restores predictability and fairness to the employment-based immigration system.  **Sanjeev Joshipura**, Executive Director of **Indiaspora**, expressed cautious optimism, noting that the administration could still impose procedural hurdles on H-1B visa holders.",
+      "sentiment_target": "H.C. Mahadevappa",
+      "rephrased_article": "**Dalit Sangharsha Samiti**, a Karnataka-based organization, announced a statewide rally on June 16th to demand a Cabinet berth for **H.C. Mahadevappa**, a senior Congress leader and former Minister. The group highlighted **Mahadevappa's** contributions to Dalit welfare and social justice during his tenure as Minister, citing specific initiatives like securing funds for the Dr B.R. Ambedkar Bhavan and strengthening enforcement of laws against atrocities against Scheduled Castes. They urged the state Congress leadership to accommodate **Mahadevappa** in the next Cabinet expansion and provide adequate representation for Dalits in other positions of power.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67287,
+      "title": "Two held for posing as Kala Jathedi gang members to issue extortion threat to Delhi businessman - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/two-held-for-posing-as-kala-jathedi-gang-members-to-issue-extortion-threat-to-delhi-businessman/article71080242.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/68nfhz/article71080277.ece/alternates/LANDSCAPE_1200/iStock-2103527306.jpg",
+      "scraped_at": "2026-06-09 12:10:49.231637",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Rajan Kalra",
+      "rephrased_article": "**Delhi Police** arrested two Haryana-based businessmen, Rajan Kalra (26) and Sahil Garg (38), for allegedly impersonating members of the notorious Kala Jathedi gang and extorting money from a Delhi businessman.  The accused used international and Indian phone numbers to threaten Rohit Jain, who had an ongoing dispute with Garg over a disputed ₹2.95 crore payment. **Police** recovered two mobile phones from Kalra and another from Garg during raids in Haryana. The case was registered under the Bharatiya Nyaya Sanhita (BNS) for extortion and criminal intimidation.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 67285,
+      "title": "Security forces recover huge cache of arms, ammunition from Maoist dump in Odisha's Malkangiri - The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/security-forces-recover-huge-cache-of-arms-ammunition-from-maoist-dump-in-odishas-malkangiri/article71080031.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/5qthpo/article70456505.ece/alternates/LANDSCAPE_1200/20250912131L.jpg",
+      "scraped_at": "2026-06-09 12:10:46.268314",
+      "category": "crime",
+      "sentiment": "positive",
+      "sentiment_target": "Security forces",
+      "rephrased_article": "**Security forces** in Odisha and Chhattisgarh recovered a large cache of weapons, explosives, and equipment from a Maoist dump. The items included an INSAS light machine gun, two INSAS rifles, tiffin bombs, IEDs, and other materials.  The **District Voluntary Force (DVF)** and **Border Security Force (BSF)** conducted the search operation based on information provided by surrendered Maoists. This seizure is considered a significant blow to the insurgency's destructive activities in the region.",
+      "party_mentioned": [
+        "SP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Odisha"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67283,
+      "title": "Anbumani meets T.N. CM Vijay, urges caste-based survey announcement in Governor’s address - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-meets-tn-cm-vijay-urges-caste-based-survey-announcement-in-governors-address/article71079843.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/1dd6r0/article71080438.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-09%20at%2015.39.50.jpeg",
+      "scraped_at": "2026-06-09 12:10:42.401824",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Tamil Nadu Government",
+      "rephrased_article": "**Anbumani Ramadoss**, leader of the **Pattali Makkal Katchi (PMK)**, met with **Chief Minister C. Joseph Vijay** in Chennai to urge the state government to announce a caste-based survey during the Governor’s address on June 18th.  Mr. Ramadoss stated that the resolution passed at a multi-party meeting last week, which included representatives from 42 political parties and organizations, unanimously supported conducting a caste-based survey in Tamil Nadu. He argued that the existing reservation policies were based on outdated data collected during the British period and that a modern survey would provide accurate socio-economic and educational details of the state's population.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 67279,
+      "title": "Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules | WIRED",
+      "url": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
+      "source": "Wired",
+      "image_url": "https://media.wired.com/photos/6a27d2a80d6aa02c6a8cda54/191:100/w_1280,c_limit/Politics_ThreatsAgainstPoliticiansSkyrocketedAfterMetaChangedItsSpeechRules_v2.jpg",
+      "scraped_at": "2026-06-09 12:10:34.426905",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Meta",
+      "rephrased_article": "**Meta** overhauled its content moderation rules last year, claiming to relax restrictions and promote free speech.  A new report from the Center for Countering Digital Hate (CCDH) found that abusive and racist comments targeting lawmakers tripled in the six months after the changes. The report also documented a significant increase in threats against President Trump and other hateful content. While **Meta** maintains its decision was driven by free speech principles, experts argue that relaxing moderation has led to an amplification of harmful content, potentially contributing to increased political violence and harassment.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
+        "rape_sexual_crime",
+        "political_gaffe",
         "crime_violence",
-        "education",
         "foreign_policy"
       ]
     },
     {
-      "id": 67210,
-      "title": "ED summoned Zepto founders under FEMA ahead of IPO: Here’s what the updated DRHP reveals - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ed-summoned-zepto-founders-under-fema-ahead-of-ipo-heres-what-the-updated-drhp-reveals/articleshow/131601441.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131601508,width-1200,height-630,imgsize-23310,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-06-09 08:35:48.262231",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Zepto",
-      "rephrased_article": "**Zepto**, a quick commerce company, filed an updated Draft Red Herring Prospectus (DRHP) with **SEBI** for a $1 billion initial public offering. The company stated that it provided relevant documents to the **Enforcement Directorate (ED)** in response to summons and assured there would be no further inquiries or investigations.  The IPO will comprise a fresh issue of shares worth Rs 8,010 crore and an offer-for-sale (OFS) of nearly 11.35 crore shares by existing shareholders. Zepto aims to debut on stock markets in July.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 67209,
-      "title": "Foreigners who returned after voting in T.N. Assembly election come under the scanner - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/foreigners-who-returned-after-voting-in-tn-assembly-election-come-under-the-scanner/article71076640.ece",
+      "id": 67278,
+      "title": "T.N. govt. must ensure senior citizens are provided safe shelter, food, and medical care: Tamilisai Soundararajan - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-must-ensure-senior-citizens-are-provided-safe-shelter-food-and-medical-care-tamilisai-soundararajan/article71079615.ece",
       "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/zcian3/article71076784.ece/alternates/LANDSCAPE_1200/DSC_1571.JPG",
-      "scraped_at": "2026-06-09 08:35:47.902154",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Election Commission of India",
-      "rephrased_article": "**Central and State law-enforcement agencies** are collaborating with the **Election Commission of India** to investigate potential voter fraud in the recent Tamil Nadu Assembly elections.  The focus is on foreign nationals of Indian origin who returned to their home countries shortly after voting, with investigators seeking assistance from the **Bureau of Immigration**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-09 12:10:33.916126",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Tamil Nadu Chief Minister C. Joseph Vijay",
+      "rephrased_article": "**Dr. Tamilisai Soundararajan**, BJP leader, expressed deep concern over the suicides of three elderly persons in Namakkal and urged **Tamil Nadu Chief Minister C. Joseph Vijay** to address the issue by identifying vulnerable seniors and providing them with support services.  She called for government action to ensure adequate care, including shelter, food, medical attention, and emotional assistance. Soundararajan also highlighted the importance of protecting senior citizens' dignity and well-being.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
       "states_mentioned": [
         "Tamil Nadu"
       ],
       "cities_mentioned": [],
       "topic_tags": [
+        "health",
         "foreign_policy"
       ]
     },
     {
-      "id": 67208,
-      "title": "Last date to buy these 3 Tata Group stocks for dividends worth Rs 89. Do you own any? - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/last-date-to-buy-these-3-tata-group-stocks-for-dividends-worth-rs-89-do-you-own-any/articleshow/131600546.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131600560,width-1200,height-630,imgsize-2569547,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-06-09 08:35:43.579881",
-      "category": "economy",
+      "id": 67277,
+      "title": "Asteroid alert! NASA tracks two aeroplane-sized asteroids passing Earth today; know if they pose any risk | - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/science/asteroid-alert-nasa-tracks-two-aeroplane-sized-asteroids-passing-earth-today-know-if-they-pose-any-risk/articleshow/131605417.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131605509,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-09 12:10:28.560174",
+      "category": "international",
       "sentiment": "neutral",
-      "sentiment_target": "Tata Group",
-      "rephrased_article": "**SEBI**'s T+1 settlement cycle has limited investors' ability to purchase shares for upcoming dividends, as the last trading day before the record date (June 10) is crucial. **Tata Chemicals**, **Tata Elxsi**, and **Tata Investment Corporation** have all announced dividend payouts this year, with varying yields and performance over different timeframes.  However, these companies' share prices have experienced fluctuations in recent months, reflecting market conditions.",
+      "sentiment_target": "NASA",
+      "rephrased_article": "**NASA** and other space agencies are tracking two near-Earth objects, 2026 LD and 2026 KM3, as they pass Earth at distances measured in millions of kilometers. While these objects are described as \"aeroplane-sized,\" their flybys are routine encounters within the safe, non-threatening range classified by planetary defense systems.  The tracking itself is crucial for refining orbital models and predicting asteroid trajectories years or even decades ahead.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 67206,
-      "title": "From the Vatican to the White House: The Unlikely Alliance",
-      "url": "https://indianexpress.com/article/opinion/columns/pope-leo-xiv-inequality-sam-altman-trump-bernie-sanders-10731080/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Pope-Leo-XIV_20260607180311.jpg",
-      "scraped_at": "2026-06-09 08:35:39.534071",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "AI",
-      "rephrased_article": "**Pope Leo XIV**, in his first encyclical, \"Magnifica Humanitas,\" addresses the ethical and social challenges posed by artificial intelligence (AI).  He echoes concerns raised by **Leo XIII** in 1891 regarding the impact of industrialization on labor. The debate over AI's benefits is intensifying with proposals from Senator **Bernie Sanders**, who advocates for an American AI sovereign wealth fund, and OpenAI chief **Sam Altman**, who suggests sharing AI-generated wealth with citizens. President **Donald Trump** has expressed support for similar ideas, though they face opposition from some liberal economists. The debate reflects a broader tension between the potential benefits of AI and concerns about its impact on employment and inequality.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
       "topic_tags": [
         "economy",
         "foreign_policy"
       ]
     },
     {
-      "id": 67204,
-      "title": "Bonus issue alert! Brigade Enterprises sets record date for 1:3 bonus share reward - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-gain-2-after-analyst-meet-why-goldman-morgan-stanley-others-see-up-to-38-upside/articleshow/131602516.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131602646,width-1200,height-630,imgsize-4034,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-06-09 08:35:37.274310",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Brigade Enterprises",
-      "rephrased_article": "**Brigade Enterprises** shareholders approved a bonus share issue through e-voting on June 7th, with eligible shareholders receiving one bonus share for every three shares held as of the record date. The company plans to increase its share capital from Rs 250 crore to Rs 400 crore, aiming to boost liquidity and affordability for investors. **Brigade Enterprises** reported a consolidated net profit of Rs 190 crore for Q4 FY 2025-26, down from Rs 249 crore in the previous year. The company also announced a final dividend of Rs 2 per equity share for the financial year 2026.",
+      "id": 67275,
+      "title": "UK to deploy AI legal assistants in Crown courts to tackle record case backlog | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/uk-to-deploy-ai-legal-assistants-in-crown-courts-to-tackle-record-case-backlog/articleshow/131604565.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131605905,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-09 12:10:23.610790",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "UK government",
+      "rephrased_article": "The **UK government** will trial artificial intelligence-powered legal assistants in Crown Courts to address a record backlog of criminal cases.  **Justice Secretary David Lammy** plans to announce the initiative at London Tech Week, highlighting AI's potential to modernize the justice system and deliver faster outcomes for victims. The technology is expected to analyze case files, identify cases ready for trial, and group similar hearings together. Legal bodies have welcomed the pilot but stressed the importance of thorough evaluation and investment in courts and staffing.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "economy"
+        "crime_violence",
+        "foreign_policy"
       ]
     },
     {
-      "id": 67203,
-      "title": "Haunted by 2020, Congress flies Madhya Pradesh MLAs to Karnataka before Rajya Sabha vote | Political Pulse News - The Indian Express",
-      "url": "https://indianexpress.com/article/political-pulse/congress-relocates-mp-legislators-rajya-sabha-vote-10731152/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/meenakshi.jpg",
-      "scraped_at": "2026-06-09 08:35:36.056877",
-      "category": "politics",
+      "id": 67274,
+      "title": "Torso of unidentified man found in suitcase at Chennai’s Perambur railway station - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/torso-of-unidentified-man-found-in-suitcase-at-perambur-railway-station/article71064261.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bo9djf/article71064435.ece/alternates/LANDSCAPE_1200/PERAMBUR%20RAILWAY%20STATION%20PASSENGER%20COMMUTERS%20TRAIN.jpg",
+      "scraped_at": "2026-06-09 12:10:19.954159",
+      "category": "crime",
       "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "To secure a third seat in the June 18 Rajya Sabha election, the **BJP** needs additional votes.  The Congress has relocated nearly all of its 61 MLAs to Karnataka, citing concerns about potential BJP attempts to contact them. The move is seen as a precautionary measure to prevent defections and maintain party unity ahead of the vote.  Congress leaders have denied any discontent among their legislators and insist they are united in supporting their nominee, Meenakshi Natarajan.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Madhya Pradesh",
-        "Odisha"
-      ],
+      "sentiment_target": "Government Railway Police",
+      "rephrased_article": "**The Government Railway Police (GRP)** in Chennai are investigating the discovery of a mutilated torso inside a suitcase at Perambur railway station. The victim's identity remains unknown, and police are working to establish it. Commuters alerted authorities after detecting a foul smell from the bag near Platform No. 4 around 7:15 a.m.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
       "cities_mentioned": [
-        "Bhopal"
+        "Chennai"
       ],
       "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
+        "crime_violence"
       ]
     },
     {
-      "id": 67202,
-      "title": "ED summons ex-Kerala CM Pinarayi Vijayan’s daughter T. Veena for questioning in CMRL pay-off case - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/ed-summons-ex-kerala-cm-pinarayi-vijayans-daughter-t-veena-for-questioning-in-cmrl-pay-off-case/article71079295.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ahb949/article71079315.ece/alternates/LANDSCAPE_1200/Veena%20Vijayan3.jpg",
-      "scraped_at": "2026-06-09 08:35:34.493112",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Pinarayi Vijayan",
-      "rephrased_article": "**The Enforcement Directorate (ED)** has summoned **T. Veena**, daughter of former Kerala Chief Minister **Pinarayi Vijayan**, and other officials of **Cochin Minerals and Rutile Limited (CMRL)** to appear before investigators on June 12, 2026, in connection with a money-laundering case linked to the CMRL pay-off case.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 67199,
-      "title": "Dressing up massacre as military operation does not absolve perpetrator: India on Pakistan at UNSC - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/ahmedabad-plane-crash-families-of-ai-171-crash-victims-grapple-with-flight-fears-anxiety/article71079506.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3uan4j/article71079782.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG5NFGOCP1.4.jpg.jpg",
-      "scraped_at": "2026-06-09 08:35:31.737105",
+      "id": 67273,
+      "title": "More than bones: German students buried their classroom skeleton after discovering it was a real person, likely from India | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/more-than-bones-german-students-buried-their-classroom-skeleton-after-discovering-it-was-a-real-person-likely-from-india/articleshow/131606085.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131606271,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-09 12:10:19.175036",
       "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Pakistan",
-      "rephrased_article": "**India**'s Permanent Representative to the UN, Ambassador Harish Parvathaneni, delivered a scathing condemnation of **Pakistan** at the Security Council meeting on the situation in Afghanistan.  He accused **Pakistan** of \"trade and transit terrorism\" and military airstrikes against Afghan territory that have resulted in civilian casualties, violating international law and the UN Charter.  **India** also rejected **Pakistan**'s labeling of Balochistan-based terror groups as \"Fitna al Hindustan,\" calling it a form of misinformation and disinformation. **India** emphasized its support for Afghan traders and called for condemnation of **Pakistan**'s actions by the global community.",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "In Schleiden, Germany, a skeleton that had been used as a teaching aid in a biology classroom for decades was recently buried after students discovered it likely originated from India. The discovery led to an investigation into the forgotten global trade of human skeletons that supplied anatomical specimens to institutions across Europe and North America during the 19th and 20th centuries.  The trade, fueled by the growing demand for real human remains in medical education, was largely unregulated and often involved individuals who died from ordinary causes without clear consent or documentation. The skeleton's journey highlights ethical concerns surrounding the use of human remains in educational settings and raises questions about ownership, consent, and the treatment of the dead.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
-      "cities_mentioned": [],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
       "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 67196,
-      "title": "Dressing up massacre as military operation does not absolve perpetrator: India on Pakistan at UNSC - The Hindu",
-      "url": "https://www.thehindu.com/news/national/india-at-unsc-pakistans-fitna-al-hindustan-narrative-officially-sponsored-misinformation/article71079143.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3uan4j/article71079782.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG5NFGOCP1.4.jpg.jpg",
-      "scraped_at": "2026-06-09 08:35:20.299325",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Pakistan",
-      "rephrased_article": "**India**'s Permanent Representative to the UN, Ambassador Harish Parvathaneni, delivered a scathing condemnation of **Pakistan** at the Security Council meeting on the situation in Afghanistan.  He accused **Pakistan** of \"trade and transit terrorism\" against Afghan traders and military airstrikes that are causing civilian casualties, violating international law and the UN Charter.  **India** also rejected **Pakistan**'s attempt to label Balochistan-based terror groups as \"Fitna al Hindustan,\" calling it a form of misinformation and disinformation.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
         "foreign_policy"
       ]
     }
   ],
   "category_breakdown_30d": {
-    "other": 411,
-    "education": 73,
-    "international": 653,
-    "crime": 247,
-    "regional": 118,
-    "environment": 85,
-    "economy": 267,
-    "politics": 355,
-    "sports": 125,
-    "health": 94
+    "other": 421,
+    "education": 74,
+    "international": 672,
+    "crime": 259,
+    "regional": 121,
+    "environment": 90,
+    "economy": 271,
+    "politics": 366,
+    "sports": 127,
+    "health": 97
   },
   "top_ministers_30d": {
-    "Narendra Modi": 388,
-    "Rahul Gandhi": 182,
-    "Amit Shah": 177,
-    "Mamata Banerjee": 120,
+    "Narendra Modi": 390,
+    "Rahul Gandhi": 185,
+    "Amit Shah": 179,
+    "Mamata Banerjee": 123,
     "Siddaramaiah": 100,
-    "C. Joseph Vijay": 77,
-    "Dharmendra Pradhan": 72,
+    "C. Joseph Vijay": 78,
+    "Dharmendra Pradhan": 73,
     "Mallikarjun Kharge": 70,
-    "Abhishek Banerjee": 63,
+    "Abhishek Banerjee": 65,
     "S. Jaishankar": 58,
-    "JP Nadda": 46,
-    "M.K. Stalin": 43,
+    "JP Nadda": 47,
     "Suvendu Adhikari": 43,
-    "Revanth Reddy": 38,
-    "Chandrababu Naidu": 34,
+    "M.K. Stalin": 42,
+    "Revanth Reddy": 37,
+    "Chandrababu Naidu": 36,
     "V.D. Satheesan": 30,
     "Pinarayi Vijayan": 29,
     "Devendra Fadnavis": 29,
@@ -283,8 +293,8 @@
     "Sharad Pawar": 20,
     "Samrat Choudhary": 19,
     "Nitish Kumar": 19,
+    "Nirmala Sitharaman": 18,
     "Arvind Kejriwal": 18,
-    "Nirmala Sitharaman": 17,
     "Rekha Gupta": 16,
     "Sonia Gandhi": 15,
     "Nitin Gadkari": 13,
@@ -298,7 +308,7 @@
     "Bhagwant Mann": 9,
     "Uddhav Thackeray": 9,
     "Mohan Yadav": 9,
-    "Ashwini Vaishnaw": 8,
+    "Ashwini Vaishnaw": 9,
     "Nayab Singh Saini": 7,
     "Sukhvinder Singh Sukhu": 6,
     "G. Kishan Reddy": 6,
@@ -325,26 +335,26 @@
     "Mansukh Mandaviya": 1
   },
   "top_parties_30d": {
-    "BJP": 998,
-    "Congress": 682,
-    "INC": 621,
-    "TMC": 175,
-    "Trinamool": 143,
-    "TVK": 112,
+    "BJP": 1007,
+    "Congress": 686,
+    "INC": 627,
+    "TMC": 178,
+    "Trinamool": 145,
+    "TVK": 114,
     "DMK": 99,
-    "SP": 90,
+    "SP": 91,
     "AAP": 84,
     "SAD": 77,
-    "AIADMK": 61,
-    "CPI": 61,
-    "NDA": 47,
+    "AIADMK": 62,
+    "CPI": 60,
+    "NDA": 50,
     "National Conference": 47,
     "CPM": 46,
-    "TDP": 39,
+    "TDP": 41,
     "Samajwadi Party": 34,
     "Shiv Sena": 34,
-    "NCP": 34,
-    "Akali Dal": 23,
+    "NCP": 33,
+    "Akali Dal": 24,
     "Janata Dal": 22,
     "JDU": 18,
     "PDP": 18,
@@ -354,9 +364,9 @@
     "Nationalist Congress": 10,
     "UPA": 9,
     "INDIA Alliance": 9,
+    "YSRCP": 8,
     "Jharkhand Mukti Morcha": 7,
     "Telugu Desam": 6,
-    "YSRCP": 6,
     "VCK": 4,
     "AIMIM": 4,
     "Biju Janata Dal": 4,
@@ -366,40 +376,40 @@
     "ZPM": 1
   },
   "top_states_30d": {
-    "Delhi": 755,
-    "Gujarat": 565,
-    "Kerala": 429,
-    "Karnataka": 337,
-    "Tamil Nadu": 305,
-    "West Bengal": 263,
+    "Delhi": 758,
+    "Gujarat": 570,
+    "Kerala": 434,
+    "Karnataka": 341,
+    "Tamil Nadu": 307,
+    "West Bengal": 267,
     "Punjab": 251,
-    "Maharashtra": 232,
+    "Maharashtra": 234,
     "Uttar Pradesh": 213,
-    "Kashmir": 185,
-    "Telangana": 175,
-    "Andhra Pradesh": 158,
+    "Kashmir": 187,
+    "Telangana": 176,
+    "Andhra Pradesh": 160,
+    "Odisha": 158,
     "Rajasthan": 158,
-    "Odisha": 155,
-    "Bihar": 129,
+    "Bihar": 130,
     "Jammu": 126,
-    "Madhya Pradesh": 107,
-    "Himachal Pradesh": 98,
-    "Haryana": 93,
+    "Madhya Pradesh": 109,
+    "Himachal Pradesh": 99,
+    "Haryana": 95,
+    "Chandigarh": 86,
     "Assam": 85,
-    "Chandigarh": 85,
     "Jammu and Kashmir": 84,
     "Uttarakhand": 54,
     "Jharkhand": 49,
     "Manipur": 48,
-    "Chhattisgarh": 41,
+    "Chhattisgarh": 42,
     "Ladakh": 39,
-    "Goa": 33,
+    "Goa": 32,
     "Andaman": 24,
     "Puducherry": 22,
     "Meghalaya": 21,
     "Tripura": 17,
     "Mizoram": 16,
-    "Sikkim": 15,
+    "Sikkim": 16,
     "Nagaland": 14,
     "Arunachal Pradesh": 13,
     "Lakshadweep": 12,
