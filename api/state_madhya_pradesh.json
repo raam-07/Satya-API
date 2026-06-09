@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 21:09:01.130367",
+  "generated_at": "2026-06-09 22:51:49.344038",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 204,
-    "articles_last_30d": 112
+    "total_articles": 205,
+    "articles_last_30d": 113
   },
   "top_cities_30d": {
     "Bhopal": 36,
@@ -20,8 +20,8 @@
     "Pune": 4,
     "Ahmedabad": 4,
     "Ludhiana": 4,
-    "Jaipur": 3,
-    "Coimbatore": 3
+    "Hyderabad": 3,
+    "Jaipur": 3
   },
   "top_topics_30d": {
     "foreign_policy": 81,
@@ -31,11 +31,37 @@
     "health": 16,
     "rape_sexual_crime": 16,
     "protest_opposition": 15,
+    "political_gaffe": 12,
     "infrastructure": 11,
-    "political_gaffe": 11,
     "corruption_scam": 8
   },
   "recent_articles": [
+    {
+      "id": 67437,
+      "title": "Meenakshi Natarajan named as respondent in private complaint - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/meenakshi-natarajan-named-as-respondent-in-private-complaint/article71082248.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/3185vg/article71082328.ece/alternates/LANDSCAPE_1200/PTI06_09_2026_000386B.jpg",
+      "scraped_at": "2026-06-09 20:31:47.407131",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Meenakshi Natarajan",
+      "rephrased_article": "**Congress** leaders in **Telangana** are investigating the rejection of **Meenakshi Natarajan**, the party's in-charge for the state, for her Rajya Sabha nomination papers. The rejection stems from a private petition filed by a former Congress leader and ex-Municipal Corporator in 2025.  The document was submitted to the Court of the 4th Additional Chief Judicial Magistrate at Hyderabad.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67354,
       "title": "Meenakshi Natarajan's Nomination Scrapped, Congress Explores Legal Options",
@@ -5938,33 +5964,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "infrastructure"
-      ]
-    },
-    {
-      "id": 42236,
-      "title": "ED arrests Madhya Pradesh food company owner for money laundering, selling adulterated dairy products - The Hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/ed-arrests-madhya-pradesh-food-company-owner-for-money-laundering-selling-adulterated-dairy-products/article70751069.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/eoimqh/article70751363.ece/alternates/LANDSCAPE_1200/iStock-611631070%204.jpg",
-      "scraped_at": "2026-03-16 19:01:08.221294",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Kishan Modi",
-      "rephrased_article": "**Enforcement Directorate (ED)** arrested Kishan Modi, owner of **M/s Jayshri Gayatri Food Products Pvt. Ltd.** (JGFPPL), in Bhopal for money laundering and selling adulterated dairy products. The arrest followed investigations into two separate cases lodged by the Bhopal police and the Economic Offences Wing.  Modi was presented before a special PMLA court and is currently under ED custody until March 18.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh"
-      ],
-      "cities_mentioned": [
-        "Indore",
-        "Bhopal"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "corruption_scam"
       ]
     }
   ]

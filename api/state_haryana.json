@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 21:09:01.095171",
+  "generated_at": "2026-06-09 22:51:49.307533",
   "state": "Haryana",
   "capital": "Chandigarh",
   "ruling_party": "BJP",
@@ -8,34 +8,88 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 191,
-    "articles_last_30d": 96
+    "total_articles": 193,
+    "articles_last_30d": 98
   },
   "top_cities_30d": {
-    "Delhi": 54,
+    "Delhi": 55,
     "Faridabad": 7,
     "Amritsar": 6,
+    "Jaipur": 6,
     "Ludhiana": 6,
-    "Jaipur": 5,
-    "Mumbai": 5,
+    "Mumbai": 6,
+    "Coimbatore": 5,
     "Bengaluru": 4,
     "Hyderabad": 4,
-    "Coimbatore": 4,
     "Pune": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 68,
+    "foreign_policy": 69,
     "education": 32,
-    "crime_violence": 23,
+    "crime_violence": 24,
     "economy": 17,
     "infrastructure": 15,
     "political_gaffe": 14,
     "protest_opposition": 12,
     "farmer_agriculture": 10,
-    "rape_sexual_crime": 6,
+    "rape_sexual_crime": 7,
     "health": 6
   },
   "recent_articles": [
+    {
+      "id": 67409,
+      "title": "Today Weather LIVE, Heatwave Today, Rain Alert Highlights: Delhi-NCR To Witness More Rain, Says Weather Office",
+      "url": "https://www.ndtv.com/india-news/today-weather-live-heatwave-today-rain-alert-live-delhi-ncr-to-witness-more-rain-says-weather-office-11610040#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/6vje3ud4_delhi-rains_625x300_29_April_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:46.979745",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**The India Meteorological Department (IMD)** forecast light rainfall and thunderstorms with gusty winds of up to 60 kmph for Delhi and neighboring regions on June 11 and 12.  This weather change is expected to bring a drop in temperatures, offering relief from the heatwave conditions that have persisted across the region. Meanwhile, attention is shifting to the progress of the southwest monsoon, which entered Kerala on June 4. The IMD reports favorable conditions for its gradual advancement across southern and central parts of the country.  The Mumbai Metropolitan Region Development Authority (MMRDA) has activated a technology-driven preparedness plan across key Metro lines ahead of the monsoon season.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Kerala",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Jaipur",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67395,
+      "title": "Girl, 16, Raped By 5 Youths In Haryana's Nuh: Cops",
+      "url": "https://www.ndtv.com/india-news/girl-16-raped-by-5-youths-in-haryanas-nuh-cops-11614575#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:10.543906",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Five youths**, including a minor, have been accused of raping a 16-year-old girl in Nuh district after kidnapping her. The girl's father reported his daughter missing on June 6th and later learned she had been raped by the suspects, who allegedly threatened to upload private photos and videos online.  An FIR has been registered under the POCSO Act, and **police** are conducting raids to arrest the accused.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67327,
       "title": "Property registration to trigger automatic mutation in Haryana | Chandigarh News - The Indian Express",

@@ -1,14 +1,67 @@
 {
-  "generated_at": "2026-06-09 21:09:00.841853",
-  "total": 638,
+  "generated_at": "2026-06-09 22:51:49.012644",
+  "total": 641,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 515,
+    "power_abuse": 518,
     "scale_of_harm": 36,
     "institutional_failure": 67,
     "suppression": 20
   },
   "articles": [
+    {
+      "id": 67399,
+      "title": "Israel preventing more than 16,500 Palestinians from accessing medical treatment | Israel-Palestine conflict News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-01T095516Z_1432422282_RC2WCJAV68TA_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1778413686.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-06-09 20:30:14.852951",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Israel has been accused of preventing more than 16,500 Palestinians from accessing medical treatment abroad despite a ceasefire since October 2023. Gaza’s Health Ministry claims that Israel is killing patients with delays and hindering the rebuilding of its healthcare system, which has been systematically destroyed by Israel. The UN Secretary-General, Antonio Guterres, called for the immediate reopening of all crossings into Gaza to allow humanitarian aid to enter without restriction.  The UN and European Union have warned that human development in Gaza has been set back by 77 years due to the ongoing conflict.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy",
+        "crime_violence"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Systematic denial of medical care constitutes large-scale harm to citizens."
+    },
+    {
+      "id": 67395,
+      "title": "Girl, 16, Raped By 5 Youths In Haryana's Nuh: Cops",
+      "url": "https://www.ndtv.com/india-news/girl-16-raped-by-5-youths-in-haryanas-nuh-cops-11614575#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:10.543906",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Police",
+      "rephrased_article": "Five youths, including a minor, have been accused of raping a 16-year-old girl in Nuh district after kidnapping her. The girl's father reported his daughter missing on June 6th and later learned she had been raped by the suspects, who allegedly threatened to upload private photos and videos online.  An FIR has been registered under the POCSO Act, and police are conducting raids to arrest the accused.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Rape of a minor is a serious crime and a grave abuse of power."
+    },
     {
       "id": 67305,
       "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon | Benjamin Netanyahu News | Al Jazeera",
@@ -4922,6 +4975,47 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 67407,
+      "title": "Trinamool Congress Crisis, Trinamool: \"She Said Will Fight, Rebuild\": Kirti Azad On Mamata Banerjee's Crisis Plan",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-trinamool-she-said-will-fight-rebuild-kirti-azad-on-mamata-banerjees-crisis-plan-11614451#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/n0pa57rs_1_625x300_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:31.100079",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "Kirti Azad, a Trinamool Congress MP, criticized rebel MPs who he called \"traitors\" and accused them of seeking power. He alleged that these individuals were being blackmailed and threatened with coercion to join the BJP. Mamata Banerjee, the party's chief, has vowed to rebuild the party and fight again on the streets. Azad also claimed that several rebels, including Kakoli Ghosh Dastidar, had been caught taking bribes and that they lacked loyalty to the party. He asserted that these individuals would not be able to win in future elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "protest_opposition",
+        "education"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Allegations of blackmail and coercion within a political party raise serious concerns."
     },
     {
       "id": 67320,
@@ -15386,98 +15480,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Threats and intimidation to prevent political activity are a serious abuse of power."
-    },
-    {
-      "id": 44260,
-      "title": "Kerala Assembly Elections 2026: case registered against BJP candidate in Guruvayur B. Gopalakrishnan over alleged Model Code of Conduct violation - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-case-registered-against-bjp-candidate-in-guruvayur-b-gopalakrishnan-over-alleged-model-code-of-conduct-violation/article70772880.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-22 15:56:23.812570",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "B. Gopalakrishnan, the BJP candidate for Guruvayur Assembly Constituency, has been accused of making communal remarks in a campaign video and is facing legal action. The Election Commission of India (EC) intervened after complaints from various parties, including the CPI(M) and Congress. The case was registered under BNS Section 192 and Section 125 of the Representation of the People Act for promoting enmity between classes in connection with elections.  V.D. Satheesan, Leader of the Opposition, criticized the remarks, while Abdul Khader, CPI(M) Thrissur district secretary, accused the BJP of pursuing divisive politics.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Abuse of power by a candidate during elections is a serious concern."
-    },
-    {
-      "id": 44238,
-      "title": "Punjab official suicide: Opposition steps up pressure for Laljit Singh Bhullar’s arrest - The Hindu",
-      "url": "https://www.thehindu.com/news/national/punjab/punjab-official-suicide-opposition-steps-up-pressure-for-laljit-singh-bhullars-arrest/article70772320.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/ipb3lp/article70772669.ece/alternates/LANDSCAPE_1200/AFP_34NF682.jpg",
-      "scraped_at": "2026-03-22 14:40:04.266941",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Laljit Singh Bhullar",
-      "rephrased_article": "Opposition parties in Punjab, including the Indian National Congress, Bharatiya Janata Party, and Shiromani Akali Dal, are demanding the immediate arrest of Laljit Singh Bhullar, a senior leader of the ruling Aam Aadmi Party, following allegations that he harassed and pressured a state warehousing corporation official to award a tender.  The deceased official, Gagandeep Singh Randhawa, allegedly died by suicide after accusing Bhullar of pressuring him into accepting a bribe. The family of the deceased has refused to perform the last rites or permit a post-mortem until Bhullar is arrested, and opposition parties are demanding an investigation by the Central Bureau of Investigation.",
-      "party_mentioned": [
-        "Congress",
-        "AAP",
-        "Akali Dal"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Allegations of harassment leading to suicide raise concerns about abuse of power."
-    },
-    {
-      "id": 44227,
-      "title": "Kerala Assembly Elections 2025: K. Surendran declares 242 cases in election affidavit - The Hindu",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/k-surendran-declares-242-cases-in-election-affidavit/article70772067.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-22 14:36:26.355303",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "K. Surendran",
-      "rephrased_article": "K. Surendran, the BJP candidate in the Manjeswaram Assembly constituency, has filed his nomination with a criminal record of 242 cases across multiple police stations in Kerala. The cases primarily involve offenses related to unlawful assembly, rioting, and obstructing public servants. Surendran's affidavit disclosed cash on hand of ₹5,000 and bank deposits totaling ₹7,551, along with movable assets valued at ₹3,47,836.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "A candidate with 242 criminal cases is normalized, raising concerns about justice and law enforcement."
     }
   ]
 }

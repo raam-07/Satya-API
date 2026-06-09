@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 21:09:01.162598",
+  "generated_at": "2026-06-09 22:51:49.377669",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 563,
-    "articles_last_30d": 251
+    "total_articles": 564,
+    "articles_last_30d": 252
   },
   "top_cities_30d": {
-    "Delhi": 70,
+    "Delhi": 71,
     "Amritsar": 25,
+    "Mumbai": 17,
     "Bengaluru": 17,
-    "Mumbai": 16,
     "Ludhiana": 15,
     "Ahmedabad": 11,
     "Chennai": 8,
@@ -24,7 +24,7 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 190,
+    "foreign_policy": 191,
     "crime_violence": 78,
     "education": 64,
     "economy": 63,
@@ -36,6 +36,38 @@
     "corruption_scam": 17
   },
   "recent_articles": [
+    {
+      "id": 67409,
+      "title": "Today Weather LIVE, Heatwave Today, Rain Alert Highlights: Delhi-NCR To Witness More Rain, Says Weather Office",
+      "url": "https://www.ndtv.com/india-news/today-weather-live-heatwave-today-rain-alert-live-delhi-ncr-to-witness-more-rain-says-weather-office-11610040#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/6vje3ud4_delhi-rains_625x300_29_April_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:46.979745",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**The India Meteorological Department (IMD)** forecast light rainfall and thunderstorms with gusty winds of up to 60 kmph for Delhi and neighboring regions on June 11 and 12.  This weather change is expected to bring a drop in temperatures, offering relief from the heatwave conditions that have persisted across the region. Meanwhile, attention is shifting to the progress of the southwest monsoon, which entered Kerala on June 4. The IMD reports favorable conditions for its gradual advancement across southern and central parts of the country.  The Mumbai Metropolitan Region Development Authority (MMRDA) has activated a technology-driven preparedness plan across key Metro lines ahead of the monsoon season.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Kerala",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Jaipur",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67345,
       "title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
@@ -5507,32 +5539,6 @@
       "topic_tags": [
         "corruption_scam",
         "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 60965,
-      "title": "PTI workers stage protests in various cities, defy Section 144 in Islamabad - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002316/pti-workers-stage-protests-in-various-cities-defy-section-144-in-islamabad",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/22232555c28a5a9.webp",
-      "scraped_at": "2026-05-22 21:17:24.055424",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "PTI",
-      "rephrased_article": "**PTI** and **TTAP** organized protests across Pakistan on Friday, demanding the release of former prime minister Imran Khan and addressing concerns over inflation, rising petroleum prices, and deteriorating law and order.  **PTI Islamabad President Aamir Mughal**, along with other leaders, held a protest in Islamabad despite Section 144 being in place, while **Shandana Gulzar** from **TTAP** spoke at a press conference in Peshawar, highlighting the plight of civilians in Khyber Pakhtunkhwa and accusing the federal government of mismanagement. These protests were joined by political and social activists across the country, including those from the Haqooq-i-Khalq Party.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "health",
         "education",
         "protest_opposition"
       ]

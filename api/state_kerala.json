@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 21:09:01.123133",
+  "generated_at": "2026-06-09 22:51:49.336512",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,27 +8,27 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1262,
-    "articles_last_30d": 428
+    "total_articles": 1267,
+    "articles_last_30d": 433
   },
   "top_cities_30d": {
-    "Delhi": 82,
+    "Delhi": 83,
     "Bengaluru": 37,
     "Hyderabad": 25,
     "Chennai": 22,
-    "Mumbai": 20,
+    "Mumbai": 21,
     "Kolkata": 17,
     "Ahmedabad": 7,
+    "Pune": 6,
     "Bangalore": 6,
-    "Pune": 4,
-    "Nagpur": 4
+    "Jaipur": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 273,
-    "education": 104,
+    "foreign_policy": 275,
+    "education": 105,
     "protest_opposition": 103,
     "crime_violence": 94,
-    "economy": 63,
+    "economy": 65,
     "health": 39,
     "political_gaffe": 39,
     "corruption_scam": 37,
@@ -36,6 +36,130 @@
     "farmer_agriculture": 15
   },
   "recent_articles": [
+    {
+      "id": 67442,
+      "title": "Kerala HC dismisses CBSE students’ plea challenging prospectus for admission to professional courses - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-dismisses-cbse-students-plea-challenging-prospectus-for-admission-to-professional-courses/article71082266.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-09 20:32:05.936996",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "Kerala High Court",
+      "rephrased_article": "**The Kerala High Court** dismissed a petition from CBSE students challenging the 2026 professional degree course prospectus, which includes a new standardized method for rank list preparation. The students argued that the formula unfairly disadvantages CBSE students and lacks expert study.  The court's decision follows a long-standing standardisation procedure implemented in 2012 to ensure uniformity among students from different boards.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 67410,
+      "title": "NCPs unite in property tax relief bid in Pune | The Indian Express",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/surat-nri-severed-thumb-replantation-surgery-horse-bite-10731983/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tax-relief.jpg",
+      "scraped_at": "2026-06-09 20:30:47.318906",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Pune civic body",
+      "rephrased_article": "**NCP** and **NCP(SP)** have submitted a proposal to the **Pune civic body's Standing Committee** requesting a 35% reduction in property tax rates for properties in 32 merged villages. The proposal also calls for the cancellation of penalties on outstanding dues and a flat rate for properties registered with the Gram Panchayat before the merger.  The parties argue that this will alleviate financial burdens on property owners and address long-standing issues with property tax collection.",
+      "party_mentioned": [
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 67409,
+      "title": "Today Weather LIVE, Heatwave Today, Rain Alert Highlights: Delhi-NCR To Witness More Rain, Says Weather Office",
+      "url": "https://www.ndtv.com/india-news/today-weather-live-heatwave-today-rain-alert-live-delhi-ncr-to-witness-more-rain-says-weather-office-11610040#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/6vje3ud4_delhi-rains_625x300_29_April_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:46.979745",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**The India Meteorological Department (IMD)** forecast light rainfall and thunderstorms with gusty winds of up to 60 kmph for Delhi and neighboring regions on June 11 and 12.  This weather change is expected to bring a drop in temperatures, offering relief from the heatwave conditions that have persisted across the region. Meanwhile, attention is shifting to the progress of the southwest monsoon, which entered Kerala on June 4. The IMD reports favorable conditions for its gradual advancement across southern and central parts of the country.  The Mumbai Metropolitan Region Development Authority (MMRDA) has activated a technology-driven preparedness plan across key Metro lines ahead of the monsoon season.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Kerala",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Jaipur",
+        "Coimbatore"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67406,
+      "title": "NCPs unite in property tax relief bid in Pune | The Indian Express",
+      "url": "https://indianexpress.com/article/pune/ncps-unite-in-property-tax-relief-bid-in-pune-10731982/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/tax-relief.jpg",
+      "scraped_at": "2026-06-09 20:30:29.941067",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "NCP",
+      "rephrased_article": "**NCP** and **NCP(SP)** have proposed to the **Pune civic body's Standing Committee** to reduce property tax rates by 35 percent for properties in 32 merged villages. The proposal also includes cancelling penalties on outstanding dues, considering the date of inclusion as the cut-off date for taxation.  The parties argue that ending these tax arrears and preventing financial burdens on owners is necessary.",
+      "party_mentioned": [
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Pune"
+      ],
+      "topic_tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 67391,
+      "title": "5 lesser-known monsoon treks in India | Destination-of-the-week News - The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/destination-of-the-week/5-lesser-known-monsoon-treks-in-india-10710959/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Kudremekh.jpg",
+      "scraped_at": "2026-06-09 20:30:04.384325",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "Several lesser-known trekking trails in India are offering a quieter, more immersive experience during the monsoon season. **The Kudremukh Trek** in the Western Ghats is known for its lush green landscapes and rain-fed waterfalls, while **Dzukou Valley** in Northeast India comes alive with blooming wildflowers and mist.  **Chembra Peak** in Kerala's Wayanad district offers scenic views of tea plantations and forests transformed by monsoon rains. The **Rajmachi Fort Trek**, located near Lonavala, combines history with the beauty of monsoon-soaked trails and waterfalls. Finally, **Sandakphu**, along the India-Nepal border, provides a stunning Himalayan trekking experience with foggy forests and blooming flowers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Manipur",
+        "Nagaland"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67358,
       "title": "Congress, Trinamool Congress: After Hug At INDIA Huddle, A Mamata Banerjee-Sonia Gandhi Meet At 10 Janpath",
@@ -5289,122 +5413,6 @@
         "rape_sexual_crime",
         "crime_violence",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 64571,
-      "title": "In Odisha, one in five women face domestic violence; one in four children stunted: NFHS-6 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/odisha-nfhs-6-survey-report-domestic-violence-maternal-health-pregnancy-child-malnutrition-diabetes-obesity/article71047618.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/fkn5mg/article71047617.ece/alternates/LANDSCAPE_1200/IMG-20230209-WA0018.jpg",
-      "scraped_at": "2026-06-02 11:21:48.017756",
-      "category": "health",
-      "sentiment": "negative",
-      "sentiment_target": "Odisha Government",
-      "rephrased_article": "The **National Family Health Survey (NFHS-6)** revealed that at least one in five women in Odisha experience domestic violence, with rural areas experiencing a higher prevalence than urban areas. The survey also highlighted declining women's participation in household decision-making and a rise in C-section births, exceeding the national average. While Odisha saw an increase in bank account ownership for women, maternal health indicators remain concerning, with low iron folic acid consumption and high caesarean section rates. Child health indicators show persistent immunization gaps and malnutrition, particularly stunting and wasting cases. The survey also revealed a significant rise in obesity among women and hypertension among men, highlighting disparities in health outcomes between genders.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Odisha",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64416,
-      "title": "UAPA Accused Madhesh Shankar Gets Bail After Nearly 5 Years In Custody",
-      "url": "https://www.ndtv.com/india-news/uapa-accused-madhesh-shankar-gets-bail-after-nearly-5-years-in-custody-11577993#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/court-generic_625x300_1527245477936.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-01 23:06:18.460807",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Madhesh Shanker",
-      "rephrased_article": "**The Special National Investigation Agency (NIA) court at Patiala House granted bail to Madhesh Shanker, who spent 4 years and 9 months in custody for alleged terror activities.**  **Principal District and Sessions Judge (PDSJ) Pitambar Dutt** imposed conditions including surrendering his passport, refraining from similar offenses, and not communicating with other ISIS members. The court noted the lengthy trial process and granted bail on a bond of Rs 1 lakh and two sureties of the same amount. Advocate Rahul Sahani argued for Madhesh Shanker's release based on prolonged custody and lack of apprehension to influence the investigation.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64411,
-      "title": "17-Year-Old Boy Stabbed To Death In Delhi, Probe On: Cops",
-      "url": "https://www.ndtv.com/delhi-news/17-year-old-boy-stabbed-to-death-in-delhi-probe-on-cops-11578067#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2024-02/80ef0ba_delhi-police-generic_625x300_04_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-01 23:06:01.099424",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Police",
-      "rephrased_article": "A 17-year-old male was fatally stabbed in New Usmanpur, northeast Delhi. **Deputy Commissioner of Police (DCP) Rahul Alwal** stated that multiple teams are searching for the accused and a case under Section 103(1) of the BNS is being registered.  The incident has sparked fear among residents, with local police confirming the victim's identity as Abhishek, who lived nearby. The investigation is ongoing.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64319,
-      "title": "CMRL appeal against ED probe: HC directs status quo till June 5 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/cmrl-case-hc-directs-status-quo-till-friday/article71048544.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-06-01 16:44:42.459812",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Enforcement Directorate",
-      "rephrased_article": "The **Kerala High Court** has ordered the **Enforcement Directorate (ED)** to maintain the status quo in the pay-off case involving **Cochin Minerals and Rutile Ltd. (CMRL)** and **Exalogic Solutions**. The court will rule on Friday, June 5th, after CMRL appealed a single bench order dismissing its plea to quash the ED's investigation into alleged misappropriation of public funds.  The ED has agreed to refrain from taking any further action until then.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Pinarayi Vijayan"
-      ],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 64306,
-      "title": "Close call as roof of building on school campus in Kerala capital collapses - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/roof-of-building-on-school-campus-in-kerala-capital-collapses-no-injuries/article71049564.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ci1q9g/article71049643.ece/alternates/LANDSCAPE_1200/AttakulangaraSchool13.JPG",
-      "scraped_at": "2026-06-01 16:44:06.219762",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Kerala Government",
-      "rephrased_article": "A roof collapse at the **Samagra Shiksha Kerala (SSK)** district project office on the campus of Central High School in Thiruvananthapuram caused damage but no injuries on Pravesanotsavam day.  **N. Samsudheen**, Minister for General Education, stated that permission for work on the roof should have been obtained due to the office's function, and a report is being sought from the Deputy Director of Education (DDE). **Chempazhanthy Udayan**, chairperson of the Corporation Education standing committee, said the school was 100 meters away and a fitness certificate could have been obtained.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

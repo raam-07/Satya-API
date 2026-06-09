@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 21:09:01.087780",
+  "generated_at": "2026-06-09 22:51:49.299992",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1282,
-    "articles_last_30d": 568
+    "total_articles": 1289,
+    "articles_last_30d": 575
   },
   "top_cities_30d": {
-    "Delhi": 157,
+    "Delhi": 159,
     "Ahmedabad": 79,
     "Bengaluru": 74,
     "Mumbai": 45,
@@ -24,18 +24,214 @@
     "Vadodara": 11
   },
   "top_topics_30d": {
-    "foreign_policy": 400,
-    "economy": 141,
+    "foreign_policy": 406,
+    "economy": 142,
+    "education": 103,
     "crime_violence": 103,
-    "education": 101,
-    "infrastructure": 78,
-    "protest_opposition": 72,
+    "infrastructure": 79,
+    "protest_opposition": 75,
     "political_gaffe": 42,
-    "corruption_scam": 37,
+    "corruption_scam": 39,
     "farmer_agriculture": 26,
     "health": 24
   },
   "recent_articles": [
+    {
+      "id": 67441,
+      "title": "Modi expected to meet Trump on the sidelines of the G7 summit in France - The Hindu",
+      "url": "https://www.thehindu.com/news/national/modi-expected-to-meet-trump-on-the-sidelines-of-the-g7-summit-in-france/article71082075.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lbzrt8/article71082320.ece/alternates/LANDSCAPE_1200/TH28-Suhasini-CGLBFPD3A7.3.jpg.jpg",
+      "scraped_at": "2026-06-09 20:32:00.476808",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** is expected to meet **President Donald Trump** on the sidelines of the G7 summit in Evian, France. The meeting will be their first since February 2025 and is anticipated to cover bilateral trade negotiations and other regional and global concerns.  The details of the planned discussion were not elaborated upon by officials who confirmed the meeting.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67433,
+      "title": "Gujarat, a State without an Opposition - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/gujarat-a-state-without-an-opposition/article71082259.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/latest-news/ex2wuc/article71082362.ece/alternates/LANDSCAPE_1200/Gujarat.jpg",
+      "scraped_at": "2026-06-09 20:31:29.454079",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Shaktisinh Gohil**, the Congress leader whose term in the Rajya Sabha ends on June 21, will be the first representative from Gujarat's opposition to leave the Upper House since the state's formation in 1960. This vacancy is a product of electoral arithmetic and reflects the BJP's sustained dominance in Gujarat since 1995, which has resulted in an overwhelming majority in the State Assembly and consequently determined Rajya Sabha representation.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67424,
+      "title": "Zojila tunnel is a gamechanger for national security, integration: Nitin Gadkari - The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh/zojila-tunnel-is-a-gamechanger-for-national-security-integration-nitin-gadkari/article71081341.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g4dmgt/article71082373.ece/alternates/LANDSCAPE_1200/PTI06_09_2026_000290B.jpg",
+      "scraped_at": "2026-06-09 20:31:11.115117",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Zojila tunnel",
+      "rephrased_article": "**Nitin Gadkari**, **Union Minister of Road Transport and Highways**, oversaw the breakthrough of the 13.14 km long Zojila tunnel, calling it a \"gamechanger\" for national security and integration. The tunnel, Asia's longest single-tube bi-directional road tunnel at an altitude of 11,578 ft, was completed at a cost of ₹6,800 crore despite an initial estimate of ₹12,000 crore.  **Omar Abdullah**, **J&K Chief Minister**, and **Manoj Sinha**, **J&K Lieutenant Governor**, also attended the ceremony expressing their support for the project's benefits to the region.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Omar Abdullah",
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 67422,
+      "title": "'This Is Our Finest Hour': Israeli Ambassador Reuven Azar Celebrates Deepening Ties With India",
+      "url": "https://www.ndtv.com/world-news/this-is-our-finest-hour-israeli-ambassador-reuven-azar-celebrates-deepening-ties-with-india-11614334#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-03/72s35hos_image_160x120_20_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:31:08.178613",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Israel",
+      "rephrased_article": "**Israel's** ambassador to India, Reuven Azar, addressed a reception in New Delhi on Tuesday evening, emphasizing the resilience of **Israel** despite ongoing conflict. He highlighted the country's economic success and its strategic partnership with **India**, citing Prime Minister Narendra Modi's visit earlier this year as a key development.  Azar emphasized that both nations share common values, including vitality and entrepreneurship, and that defense cooperation between them is expanding. The ambassador concluded by offering a prayer for peace in the region and around the world.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 67407,
+      "title": "Trinamool Congress Crisis, Trinamool: \"She Said Will Fight, Rebuild\": Kirti Azad On Mamata Banerjee's Crisis Plan",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-trinamool-she-said-will-fight-rebuild-kirti-azad-on-mamata-banerjees-crisis-plan-11614451#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/n0pa57rs_1_625x300_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:31.100079",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Kirti Azad**, a Trinamool Congress MP, criticized rebel MPs who he called \"traitors\" and accused them of seeking power. He alleged that these individuals were being blackmailed and threatened with coercion to join the BJP. **Mamata Banerjee**, the party's chief, has vowed to rebuild the party and fight again on the streets. Azad also claimed that several rebels, including Kakoli Ghosh Dastidar, had been caught taking bribes and that they lacked loyalty to the party. He asserted that these individuals would not be able to win in future elections.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 67402,
+      "title": "Will Hobnobbing With Trinamool Rebels Cost BJP? What State Leaders Say",
+      "url": "https://www.ndtv.com/india-news/will-hobnobbing-with-trinamool-rebels-cost-bjp-what-state-leaders-say-11614468#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/vch80rts_tmc-mps-meeting_625x300_08_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 20:30:19.383478",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "**Suvendu Adhikari**, the **West Bengal** Chief Minister, met with rebel Trinamool Congress MPs at **Satabdi Roy's** Delhi residence. This meeting followed a similar gathering of the rebels at **Bhupendra Yadav's** home earlier in the day. Despite these meetings, the **BJP** maintains it will not induct any Trinamool leaders into its ranks. The BJP leadership argues that this gesture is a political move to weaken the Trinamool party and prepare for upcoming elections.  The BJP has stated that they are focused on cleaning Bengal of the Trinamool party.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Shah",
+        "Mamata Banerjee",
+        "Mamata"
+      ],
+      "states_mentioned": [
+        "Meghalaya",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "protest_opposition",
+        "education"
+      ]
+    },
+    {
+      "id": 67390,
+      "title": "India pushes for dialogue on climate finance, adaptation at Bonn climate talks - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-pushes-for-dialogue-on-climate-finance-adaptation-at-bonn-climate-talks/article71081144.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bsplp7/article71081641.ece/alternates/LANDSCAPE_1200/IMG_International_replen_2_1_CRBRBCT7.jpg",
+      "scraped_at": "2026-06-09 20:30:04.052833",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India** called for the expansion of adaptation finance and a dedicated agenda space for developed countries to fulfill their obligations under the Paris Agreement at the ongoing UN climate negotiations in Bonn, Germany. The country emphasized that equity and historical responsibility should guide the implementation phase, urging for operationalization of the Just Transition Mechanism based on CBDR-RC principles. **India** also urged against unilateral trade measures like carbon border levies and stressed the need to preserve the facilitative, non-prescriptive nature of the Mitigation Work Programme.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67373,
       "title": "Terror Hideout To Purple Revolution: How Lavender Changed Fate Of A Bhaderwah in Jammu and Kashmir",
@@ -5311,202 +5507,6 @@
       ],
       "topic_tags": [
         "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65028,
-      "title": "Exit Route Or Reconciliation? Inside K Annamalai's Meeting With BJP's Top Leadership",
-      "url": "https://www.ndtv.com/india-news/exit-route-or-reconciliation-inside-k-annamalais-meeting-with-bjps-top-leadership-11585722#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/ssn8gun8_anna-amit-_625x300_03_June_26.jpeg",
-      "scraped_at": "2026-06-03 19:10:31.519499",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**K Annamalai**, former Tamil Nadu BJP chief, met with **Nitin Nabin**, **Amit Shah**, and **BL Santhosh** to express his dissatisfaction with the party's performance in Tamil Nadu. He raised concerns about state leadership, alliance management, and organizational issues.  The central leadership is seeking input from multiple stakeholders before responding to Annamalai's concerns. The BJP leadership has assured him of support for his proposed public outreach program, but no formal decision has been made on the future of his role within the party.",
-      "party_mentioned": [
-        "BJP",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "political_gaffe",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65020,
-      "title": "Cabinet Okays Rs 9,585 Crore Scheme To Replace Old Trucks, Buses In Delhi-NCR",
-      "url": "https://www.ndtv.com/india-news/cabinet-okays-rs-9-585-crore-scheme-to-replace-old-trucks-buses-in-delhi-ncr-11585828#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/cj5mjdig_delhincr-green-scheme-_625x300_03_June_26.jpeg",
-      "scraped_at": "2026-06-03 19:10:19.946852",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "The **Union Cabinet**, led by Prime Minister Narendra Modi, approved a two-year scheme to reduce air pollution in the Delhi-NCR region with a total financial outlay of Rs 9,585 crore. The scheme aims to incentivize truck and bus owners to switch to BS-VI or electric vehicles, while also offering tax concessions for new and used vehicles. **The National Capital Region Planning Board (NCRPB)** will implement this initiative in collaboration with participating states and Union Territories of Delhi, Haryana, Rajasthan, and Uttar Pradesh.  The scheme is expected to benefit approximately 2.07 lakh vehicle owners by providing financial support, fuel vouchers, and tax benefits for switching to cleaner transportation options.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Haryana",
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65001,
-      "title": "Gujarat cabinet approves ‘wire-free city mission’; ₹500 crore allocated for first phase - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-cabinet-approves-wire-free-city-mission-500-crore-allocated-for-first-phase/article71057135.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/h28awa/article71058549.ece/alternates/LANDSCAPE_1200/20251010265L.jpg",
-      "scraped_at": "2026-06-03 19:09:50.896738",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Gujarat Government",
-      "rephrased_article": "**Gujarat**'s Cabinet approved the ambitious 'Gujarat Wire-Free City Mission', a statewide initiative to shift overhead electricity lines underground by 2030. The project, aimed at creating smart, green and resilient cities, will involve converting over 14,600 circuit kilometers of high-tension (HT) and over 31,400 circuit kilometers of low-tension (LT) distribution lines across urban areas.  The initial phase, focusing on converting existing 11 kV overhead lines into underground cable networks, is expected to cost ₹500 crore. **Prime Minister Narendra Modi**'s vision for smart cities was cited as a driving force behind the project. The initiative aims to improve public safety and resilience against natural disasters while enhancing the reliability and quality of electricity supply.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64996,
-      "title": "ADB, StanChart ink partnership to support Indian firms across supply chains - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/adb-stanchart-ink-partnership-to-support-indian-firms-across-supply-chains/articleshow/131486602.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131486680,width-1200,height-630,imgsize-408190,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-06-03 15:24:39.707008",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**The Asian Development Bank (ADB)** and **Standard Chartered Bank** have signed agreements to strengthen supply chain finance in India. The agreements, including a risk participation arrangement through Gujarat International Finance Tec-City (GIFT City) and a partial guarantee facility agreement, aim to expand access to trade and supply chain finance for businesses operating in India. These arrangements are intended to support the continued flow of cross-border and domestic trade, particularly by addressing financing gaps for emerging and underserved segments like distributor financing, which often involves small and medium-sized enterprises (SMEs). This partnership aligns with ADB's strategic priority to promote inclusive economic growth and financial deepening across Asia and the Pacific.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64983,
-      "title": "How the D-day unfolded for DKS, reaching across political divide - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/how-the-d-day-unfolded-for-dks-reaching-across-political-divide/article71057406.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/udauxx/article71057824.ece/alternates/LANDSCAPE_1200/20260603130L.jpg",
-      "scraped_at": "2026-06-03 15:23:55.758183",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "D.K. Shivakumar",
-      "rephrased_article": "**D.K. Shivakumar**, the newly sworn-in Chief Minister of Karnataka, began his day with personal and political gestures, including calls to MLAs and a visit to former Chief Ministers **B.S. Yediyurappa** and **H.D. Deve Gowda**. He chose traditional attire for his oath ceremony and invited Congress leaders **Rahul Gandhi**, **Mallikarjun Kharge**, and **Sonia Gandhi** to the event, which was attended by high-ranking members of the **Congress** party from other states.  The ceremony also included a gathering of religious leaders representing various faiths.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Rahul Gandhi",
-        "Sonia Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Himachal Pradesh",
-        "Kerala",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "political_gaffe",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64977,
-      "title": "“Telangana is the Jagir of its four crore people”, KTR tells Pawan Kalyan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-is-the-jagir-of-its-four-crore-people-ktr-tells-pawan-kalyan/article71057813.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xjjl12/article71057974.ece/alternates/LANDSCAPE_1200/_DSC1023.JPG",
-      "scraped_at": "2026-06-03 15:23:33.495906",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "K.T. Rama Rao",
-      "rephrased_article": "**K.T. Rama Rao**, **working president of the Bharat Rashtra Samithi (BRS)**, criticized **Pawan Kalyan**, **Andhra Pradesh Deputy Chief Minister**, for his comments about Telangana being \"no one's jagir.\"  **Rama Rao** asserted that Telangana was indeed the \"jagir of four crore Telangana people\" and accused **Pawan Kalyan** of undermining the sacrifices made for statehood. He also questioned why only the Telangana movement is portrayed negatively while similar movements elsewhere are celebrated.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Gujarat",
-        "Telangana"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 64976,
-      "title": "Gujarat launches massive anti-infiltration drive; 362 detained in Operation Delta Hunt - The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-launches-massive-anti-infiltration-drive-362-detained-in-operation-delta-hunt/article71057532.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/xjrlfz/article71057985.ece/alternates/LANDSCAPE_1200/Screenshot%201891.png",
-      "scraped_at": "2026-06-03 15:23:29.742712",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Gujarat Police",
-      "rephrased_article": "The **Gujarat Police** conducted a statewide crackdown, \"Operation Delta Hunt,\" detaining 362 undocumented Bangladeshi immigrants and questioning over 782 suspected foreign nationals. The operation, launched on June 2nd and continuing into early Wednesday, targeted cities like Ahmedabad, Surat, Rajkot, Vadodara, and others.  **Deputy Chief Minister and Home Minister Harsh Sanghavi** stated that the operation reflects a \"zero tolerance\" policy towards illegal immigration and national security threats. **Mr. Sanghavi** also emphasized that authorities are investigating local agents and facilitators involved in providing accommodation, jobs, and forged documents to facilitate illegal stay. The operation is ongoing with further raids expected in the coming days.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Gujarat",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Ahmedabad",
-        "Surat",
-        "Vadodara",
-        "Rajkot"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "protest_opposition",
         "foreign_policy"
       ]
     }
