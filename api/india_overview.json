@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 04:22:23.935479",
+  "generated_at": "2026-06-09 08:08:21.164534",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,15 +7,15 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 24364,
-    "articles_last_7_days": 2424,
-    "articles_last_30_days": 7882,
+    "total_articles_classified": 24399,
+    "articles_last_7_days": 2413,
+    "articles_last_30_days": 7874,
     "civic_flags_last_30_days": 243,
-    "civic_flags_today": 13
+    "civic_flags_today": 9
   },
   "civic_alert": {
     "flagged_count_30d": 243,
-    "flagged_today": 13,
+    "flagged_today": 9,
     "top_flag_categories": {
       "power_abuse": 207,
       "institutional_failure": 19,
@@ -25,44 +25,75 @@
   },
   "top_stories": [
     {
-      "id": 67099,
-      "title": "Rajya Sabha polls: Only 4 BJP candidates in fray, party eyes clean sweep | Ahmedabad News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/rajya-sabha-elections-bjp-nominations-congress-zero-representation-10730143/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/image-28.jpg",
-      "scraped_at": "2026-06-09 00:13:40.005844",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**BJP** candidates Raju Shukla, Mukesh Rathva, Mansinh Parmar, and Jitendra Kanzariya filed their nominations for the four Rajya Sabha seats in Gujarat on Monday.  The ruling party is expected to sweep the election uncontested as only four nominations were submitted by the deadline of June 8th. The scrutiny of the nomination papers will take place on June 9th, with the final results announced on June 11th. **Chief Minister Bhupendra Patel**, **Deputy CM Harsh Sanghavi**, state party president **Jagdish Vishwakarma**, and state organizing secretary **Ratnakar** were among those present during the nominations filing.  The election for these seats is being held due to the end of the six-year term of four Rajya Sabha MPs, including Congress leader **Shaktisinh Gohil**.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Gujarat"
-      ],
-      "cities_mentioned": [
-        "Ahmedabad"
-      ],
+      "id": 67136,
+      "title": "Mid and smallcaps get the money as Nifty lags - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mid-and-smallcaps-get-the-money-as-nifty-lags/articleshow/131599512.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131599548,width-1200,height-630,imgsize-46134,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-09 04:49:12.081031",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Stock Market",
+      "rephrased_article": "The **Advance-Decline Ratio (ADR)** for BSE stocks remained strong in May, with the ratio exceeding one for two consecutive months.  **Nifty Midcap 100** and **Nifty Smallcap 100** indices reached record highs in May, while the **Nifty** and **Sensex** benchmarks experienced declines. Analysts predict that midcaps and smallcaps will outperform the Nifty in the coming months, with potential for gains in the midcap index to reach 63,500 levels and the smallcap index to test its record high around 19,600.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
       "topic_tags": [
-        "political_gaffe"
+        "economy"
       ]
     },
     {
-      "id": 67098,
-      "title": "Israel-Iran Strikes Resume: 3 Major Takeaways From Latest Escalation",
-      "url": "https://indianexpress.com/article/explained/explained-global/israel-iran-trade-strikes-again-3-major-takeaways-10730160/",
+      "id": 67135,
+      "title": "MSCI confirms early index inclusion rules ahead of SpaceX IPO - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/msci-confirms-early-index-inclusion-rules-ahead-of-spacex-ipo/articleshow/131599356.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131599366,width-1200,height-630,imgsize-89982,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-09 04:49:08.737141",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "SpaceX",
+      "rephrased_article": "**SpaceX**, led by **Elon Musk**, is expected to join the MSCI indexes, potentially attracting trillions of dollars in assets from passively managed funds. The rocket maker's $75 billion fundraising and $1.75 trillion valuation have met the size and free-float thresholds for early inclusion.  However, S&P Global has excluded **SpaceX** from its S&P 500 index due to its lack of profitability. Trading on Nasdaq is scheduled to begin June 12th, with MSCI's decision expected within ten trading days.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 67134,
+      "title": "NLC India shares fall 3% as OFS worth up to Rs 1,263 crore opens - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-dividend-alert-last-date-to-buy-it-giants-shares-to-secure-rs-25/sh-payout/articleshow/131600162.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131601093,width-1200,height-630,imgsize-15670,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-09 04:49:05.058341",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **government** will sell a 3% stake in **NLC India**, the country's leading mining and power generation company, through an offer for sale (OFS). The OFS opens to non-retail investors on June 9th with retail investors joining on June 10th.  The government aims to raise approximately Rs 1,263.51 crore from the sale of 4.17 crore shares at a floor price of Rs 303 per share. **NLC India** has seen its share price fluctuate in recent months but overall remains up over 31% in 2026.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 67133,
+      "title": "Somali referee Omar Abdulkadir Artan denied entry to USA for FIFA World Cup | Football News - The Indian Express",
+      "url": "https://indianexpress.com/article/sports/football/somali-referee-omar-abdulkadir-artan-denied-entry-to-usa-for-fifa-world-cup-10730653/",
       "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/iran-war-1600.jpg",
-      "scraped_at": "2026-06-09 00:13:38.510668",
+      "image_url": "https://images.indianexpress.com/2026/06/Omar-Artan.jpg",
+      "scraped_at": "2026-06-09 04:49:03.268621",
       "category": "international",
       "sentiment": "negative",
-      "sentiment_target": "Israel-Iran conflict",
-      "rephrased_article": "**Iran** and **Israel** resumed direct strikes on each other's territories after a ceasefire agreement, escalating tensions in the region.  **Donald Trump**, US President, called for an immediate ceasefire and stated that \"final negotiations\" were proceeding. The attacks followed **Iran**'s assertion that it would not engage in peace talks with the US until **Israel** ceased its actions in Lebanon. This escalation complicates efforts to achieve a ceasefire in Lebanon, while also raising concerns about the future of US-brokered peace negotiations and regional stability.  The events highlight the challenges facing both **Trump** and **Netanyahu**, who are facing elections later this year.",
+      "sentiment_target": "US Customs and Border Protection",
+      "rephrased_article": "**Omar Abdulkadir Artan**, a Somali referee selected for the 2026 World Cup, was denied entry to the United States by **US Customs and Border Protection**.  The **FIFA** confirmed that he would be unable to officiate at the tournament.  **A senior adviser to Somalia’s Ministry of Youth and Sports** stated that Artan had valid documents and a diplomatic passport issued to facilitate travel after previous visa-related difficulties, but was still denied entry due to vetting concerns.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
@@ -72,192 +103,116 @@
       ]
     },
     {
-      "id": 67095,
-      "title": "Naga man killed by armed miscreants in Kangpokpi forest | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/manipur-violence-rongmei-naga-leader-killed-kangpokpi-forest-10730180/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Naga-man-killed.jpg",
-      "scraped_at": "2026-06-09 00:13:22.538796",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Kuki militants",
-      "rephrased_article": "A **Rongmei Naga** man, 58-year-old Chungjanglung Panmei, was killed by armed miscreants in Kangpokpi district of Manipur while collecting firewood. The incident occurred around 6:40 am on Monday when a group of villagers from Pongringlong Part-I were attacked. **Pongringlong Youth Club**, a local Rongmei Naga body, and the **village authority** stated that Panmei was killed by Kuki militants in Kangpokpi forests.  The police launched a rescue operation and recovered his body with four bullet injury marks.",
+      "id": 67129,
+      "title": "NLC India shares fall 3% as OFS worth up to Rs 1,263 crore opens - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nlc-india-shares-in-focus-as-govts-ofs-worth-up-to-rs-1263-crore-opens-at-10-discount-check-details/articleshow/131601084.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131601093,width-1200,height-630,imgsize-15670,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-09 04:48:53.431497",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Central government",
+      "rephrased_article": "The **Central government** will sell 3% of its stake in **NLC India**, a leading mining and power generation company, through an offer for sale (OFS) starting on June 9th. The OFS offers around 4.17 crore shares at a floor price of Rs 303 each, raising approximately Rs 1,263.51 crore. **NLC India** has seen its share price fluctuate recently but overall remains up over 31% in 2026. The government is ramping up disinvestment efforts and this sale follows similar offloading of stakes in other public sector undertakings (PSUs).",
       "party_mentioned": [],
       "ministers_mentioned": [],
-      "states_mentioned": [
-        "Manipur"
-      ],
+      "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy",
-        "crime_violence"
+        "economy"
       ]
     },
     {
-      "id": 67094,
-      "title": "Bhagwant Singh surplus land case: Ambala officer cancels mutation of 810 acres | Chandigarh News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-singh-surplus-land-case-ambala-officer-cancels-mutation-of-810-acres-10730489/",
+      "id": 67128,
+      "title": "Ayali switches to Amritpal’s party, puts panthic unity to another political test | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/manpreet-singh-ayali-switches-amritpal-party-unity-another-political-test-10730676/",
       "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/land.jpg",
-      "scraped_at": "2026-06-09 00:13:15.151282",
+      "image_url": "https://images.indianexpress.com/2026/06/Manpreet-Singh-Ayali.jpg",
+      "scraped_at": "2026-06-09 04:48:48.387605",
       "category": "politics",
       "sentiment": "neutral",
-      "sentiment_target": "Sardar Bhagwant Singh",
-      "rephrased_article": "**Sanjeev Verma**, **Ambala Divisional Commissioner**, has ordered the cancellation of land mutations in seven Panchkula villages, totaling over 810 acres. The land, valued at Rs 5,000 crore, belonged to **Sardar Bhagwant Singh**, an erstwhile king, and is now being transferred to the state government. This decision follows years of legal proceedings regarding the ownership of the estate, which has been disputed for decades.",
-      "party_mentioned": [],
+      "sentiment_target": "SAD",
+      "rephrased_article": "**Manpreet Singh Ayali**, a three-time Dakha MLA, is set to formally join the **Amritpal Singh**-led **Akali Dal (Waris Punjab De)** in Chandigarh on Tuesday.  Ayali's move strengthens the fledgling outfit and marks another chapter in the ongoing realignment of **Punjab’s Akali politics**. The decision comes after Ayali resigned from all posts of the **SAD (Punar Surjit)**, a breakaway faction of the **Shiromani Akali Dal**, and expressed his desire for a unified Panthic platform.  Ayali's departure further reduces the **SAD**’s legislative strength, but senior leaders maintain that the party still has a strong grassroots base.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
       "ministers_mentioned": [],
       "states_mentioned": [
         "Punjab",
         "Chandigarh"
       ],
-      "cities_mentioned": [],
+      "cities_mentioned": [
+        "Ludhiana"
+      ],
       "topic_tags": [
-        "farmer_agriculture",
+        "protest_opposition",
         "education",
-        "foreign_policy",
-        "corruption_scam"
+        "foreign_policy"
       ]
     },
     {
-      "id": 67093,
-      "title": "‘Confident of high growth in Q1 despite elevated energy prices’ | Business News - The Indian Express",
-      "url": "https://indianexpress.com/article/business/confident-of-high-growth-in-q1-despite-elevated-energy-prices-10730493/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/FII-tax-cuts-aimed-at-Bloomberg-index-inclusion.jpg",
-      "scraped_at": "2026-06-09 00:13:07.483510",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Indian government",
-      "rephrased_article": "Despite elevated energy prices due to the war in West Asia, **the Indian government** is confident that the economy continues to perform well.  The high growth seen in January-March has spilled over into the new fiscal year, with data showing strong industrial growth and increased GST collections from imports. The government is taking steps to attract foreign capital, including tax cuts for foreign institutional investors (FIIs) investments in government bonds, aiming to boost India's inclusion in the Bloomberg Global Aggregate Bond Index.  The **Reserve Bank of India** has lowered its GDP growth forecast for 2026-27 but acknowledges the government's efforts to mitigate pressures on the economy.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 67091,
-      "title": "India’s current account surplus narrows to $7.1 billion in Q4 | Business News - The Indian Express",
-      "url": "https://indianexpress.com/article/business/economy/indias-current-account-surplus-narrows-to-7-1-billion-in-q4-10730474/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2022/04/RBI_5f0096.jpg",
-      "scraped_at": "2026-06-09 00:12:59.164235",
-      "category": "economy",
+      "id": 67127,
+      "title": "\"Lovers' Spat\": Israeli Envoy On Trump's Iran Ultimatum To Netanyahu",
+      "url": "https://www.ndtv.com/world-news/lovers-spat-israeli-envoy-on-trumps-iran-ultimatum-to-netanyahu-11610054#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/komk4r6_trump-netanyahu_625x300_20_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 04:48:42.799582",
+      "category": "international",
       "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India’s** current account surplus narrowed to $7.1 billion in the fourth quarter of 2025-26, down from $13.7 billion a year earlier.  Factors contributing to this decline include rising gold imports and foreign investor outflows. **The Reserve Bank of India (RBI)** reported that while the current account remained in surplus territory, the lower figure reflects reduced external earnings compared to the previous year. Net invisibles receipts increased significantly due to higher net services earnings and stronger remittances.",
+      "sentiment_target": "US Government",
+      "rephrased_article": "**Iran** and **Israel** have halted hostilities following a series of strikes that threatened regional war.  **Donald Trump**, US President, reportedly warned **Benjamin Netanyahu**, the Israeli Prime Minister, against escalating attacks on **Iran**, citing potential loss of US support. **Yechiel Leiter**, Israel's ambassador to the US, denied reports of an ultimatum and characterized US-Israel talks as cooperative. While **Netanyahu** asserted Israel's right to self-defense, Iranian officials vowed a prolonged conflict and threatened further strikes against US interests in the region.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "economy"
+        "foreign_policy"
       ]
     },
     {
-      "id": 67090,
-      "title": "Rajya Sabha polls: M.P. Congress mulls moving MLAs away as BJP fields candidate on third seat - The Hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/rajya-sabha-polls-mp-congress-mulls-moving-mlas-away-as-bjp-fields-candidate-on-third-seat/article71077677.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/rh3dfi/article71078428.ece/alternates/LANDSCAPE_1200/PTI06_08_2026_000329B.jpg",
-      "scraped_at": "2026-06-09 00:12:52.523910",
+      "id": 67124,
+      "title": "West Bengal Trinamool Leader Former Bidhannagar Mayor Sabyasachi Dutta Arrested On Extortion Charges",
+      "url": "https://www.ndtv.com/india-news/west-bengal-trinamool-leader-former-bidhannagar-mayor-sabyasachi-dutta-arrested-on-extortion-charges-11610155#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ri8vk9ig_sabyasachi-dutta_625x300_09_June_26.jpeg",
+      "scraped_at": "2026-06-09 04:48:36.864833",
       "category": "politics",
       "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Bharatiya Janata Party (BJP)**'s Mahesh Kewat entered the race for one of three Rajya Sabha seats in **Madhya Pradesh**, following the announcement of his candidacy on Sunday. The move prompted the Congress to consider moving its MLAs to other states, while the party's leader of opposition, **Umang Singhar**, hosted a dinner meeting with MLAs and senior leaders to discuss election strategy.  The Congress candidate, **Meenakshi Natarajan**, is backed by all her party members and sees this as a battle between \"Gandhian ideology\" and the BJP's \"divisive politics.\"",
+      "sentiment_target": "Trinamool",
+      "rephrased_article": "**Sabyasachi Dutta**, former Biddhannagar mayor and a known political turncoat, was arrested on extortion charges.  The businessman who filed the complaint alleged that **Dutta** extorted lakhs of rupees from him in 2018. This arrest comes as investigative agencies tighten their grip on several prominent Trinamool leaders following the party's loss in West Bengal. The developments add to a string of desertions and arrests, including former minister Sujit Bose, and are occurring amidst a massive internal rebellion within the party.",
       "party_mentioned": [
         "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Madhya Pradesh",
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Hyderabad",
-        "Bhopal"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 67089,
-      "title": "‘India-US deal only after Section 301 probe is over’ | Business News - The Indian Express",
-      "url": "https://indianexpress.com/article/business/india-us-deal-only-after-section-301-probe-is-over-10730500/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/container-3col_20260420230513_20260608231042.jpg",
-      "scraped_at": "2026-06-09 00:12:52.023631",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Ravi Dutta Mishra**, a Principal Correspondent for **The Indian Express**, focuses on economic policy and financial regulations.  With over five years of experience in business journalism, he provides critical coverage of the frameworks governing India's commercial landscape. His expertise includes trade and commerce analysis, banking and finance reporting, and understanding the intersection of government policy and market operations.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 67088,
-      "title": "Mamata Banerjee, TMC: How one of India's most successful female politicians is losing her party",
-      "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1b1f/live/465adfe0-6320-11f1-b31a-bb3d090df46a.jpg",
-      "scraped_at": "2026-06-09 00:12:51.482527",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Mamata Banerjee",
-      "rephrased_article": "The Trinamool Congress (TMC), led by Mamata Banerjee, is experiencing a significant internal crisis following its loss in the recent West Bengal elections.  Banerjee's party has faced a rebellion from many of its legislators and MPs, who have accused her and her nephew of corruption and forging signatures on legislative documents. This has resulted in several TMC members seeking to align with the BJP-led ruling alliance. Political analysts suggest that this is part of a broader trend of regional parties becoming more centralized and family-centric, making them vulnerable after losing power. Banerjee remains defiant, but the future of the party remains uncertain.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
         "Trinamool",
-        "Shiv Sena"
+        "NDA"
       ],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Mamata Banerjee",
-        "Rahul Gandhi",
-        "Uddhav Thackeray"
+        "Mamata Banerjee"
       ],
       "states_mentioned": [
-        "West Bengal",
-        "Delhi"
+        "West Bengal"
       ],
       "cities_mentioned": [
-        "Delhi",
         "Kolkata"
       ],
       "topic_tags": [
-        "foreign_policy",
         "education",
-        "corruption_scam",
+        "foreign_policy",
         "political_gaffe"
       ]
     },
     {
-      "id": 67087,
-      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7227/live/3f8dbf70-6325-11f1-b1db-af71d47507d6.jpg",
-      "scraped_at": "2026-06-09 00:12:49.366536",
+      "id": 67123,
+      "title": "Explained: Why Bharti Airtel, Vodafone Idea shares rallied up to 4% on Tuesday - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kospi-surges-5-after-15-rout-in-3-sessions-whats-fuelling-2026s-top-market/articleshow/131599848.cms",
+      "source": "Economic Times",
+      "image_url": "https://img.etimg.com/thumb/msid-131600403,width-1200,height-630,imgsize-35018,overlay-etmarkets/articleshow.jpg",
+      "scraped_at": "2026-06-09 04:48:36.458818",
       "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "SpaceX",
-      "rephrased_article": "SpaceX, led by Elon Musk, is launching its initial public offering (IPO) of shares. The company's valuation has soared to $1.75 trillion, making it one of the most valuable companies on Earth.  Musk's ambitious vision for space exploration and artificial intelligence, including plans for a multiplanetary future and data centers in space, fuels investor interest. However, concerns remain about the control Musk will exert over the company and potential risks associated with investing in this rapidly evolving sector.",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "The **Bombay High Court** ruled that the **Indian government** lacked legal authority to impose a one-time spectrum charge on telecom operators, providing relief of around Rs 20,000 crore to **Vodafone Idea** and **Bharti Airtel**. The court struck down demand notices issued by the Centre for recovery of OTSC, ordered the return of bank guarantees, and declared all related orders concerning the charge invalid.  The dispute stems from a 2012 Union Cabinet decision that imposed a one-time charge on spectrum holdings exceeding 6.2 MHz, which was challenged by both companies. The court emphasized that the government's actions exceeded contractual and licensing arrangements with telecom operators.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [],
@@ -266,41 +221,65 @@
         "foreign_policy",
         "economy"
       ]
+    },
+    {
+      "id": 67122,
+      "title": "Kerala 'Islam-Friendly' Gym Row Deepens Amid Ownership Questions",
+      "url": "https://www.ndtv.com/india-news/kerala-islam-friendly-gym-row-deepens-amid-ownership-questions-11610150#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/arufrlu4_kerala-gym-promoter_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 04:48:30.530702",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Nawas Muthu",
+      "rephrased_article": "A controversy has erupted in Kerala's Palakkad over an unfinished gym, ASB Fitness Centre, promoted by **Nawas Muthu** as \"Islamic-friendly\".  **Ahmed Settu** and **Shahul Hameed**, who claim to be the long-time operators of the facility, deny **Muthu's** ownership and involvement.  The controversy stems from **Muthu's** proposed time slots for women with no music, separate timings for men and women, dress code requirements, and restrictions on \"unnecessary conversations\" which were criticized as promoting religious segregation. While police sources confirmed the gym was not operational when the controversy erupted, BJP activists have filed a complaint alleging that the facility promotes religious segregation and seeks action under multiple provisions of the Bharatiya Nyaya Sanhita.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
     }
   ],
   "category_breakdown_30d": {
-    "economy": 276,
-    "education": 70,
-    "politics": 351,
+    "economy": 271,
     "international": 661,
+    "other": 397,
+    "politics": 351,
+    "crime": 249,
+    "education": 70,
+    "environment": 82,
+    "sports": 125,
     "health": 92,
-    "other": 406,
-    "sports": 126,
-    "crime": 248,
-    "environment": 81,
-    "regional": 113
+    "regional": 115
   },
   "top_ministers_30d": {
-    "Narendra Modi": 390,
+    "Narendra Modi": 391,
     "Rahul Gandhi": 181,
     "Amit Shah": 178,
     "Mamata Banerjee": 119,
     "Siddaramaiah": 100,
-    "C. Joseph Vijay": 82,
+    "C. Joseph Vijay": 79,
     "Dharmendra Pradhan": 71,
-    "Mallikarjun Kharge": 67,
+    "Mallikarjun Kharge": 68,
     "Abhishek Banerjee": 62,
-    "S. Jaishankar": 59,
-    "JP Nadda": 49,
-    "M.K. Stalin": 45,
-    "Suvendu Adhikari": 45,
-    "Revanth Reddy": 36,
+    "S. Jaishankar": 58,
+    "JP Nadda": 48,
+    "M.K. Stalin": 44,
+    "Suvendu Adhikari": 43,
+    "Revanth Reddy": 37,
     "Chandrababu Naidu": 34,
     "V.D. Satheesan": 30,
     "Devendra Fadnavis": 29,
     "Yogi Adityanath": 29,
     "Pinarayi Vijayan": 28,
-    "Omar Abdullah": 26,
+    "Omar Abdullah": 27,
     "Akhilesh Yadav": 26,
     "Rajnath Singh": 24,
     "Priyanka Gandhi": 22,
@@ -309,7 +288,7 @@
     "Nitish Kumar": 19,
     "Arvind Kejriwal": 18,
     "Nirmala Sitharaman": 17,
-    "Rekha Gupta": 15,
+    "Rekha Gupta": 16,
     "Sonia Gandhi": 15,
     "Himanta Biswa Sarma": 13,
     "Nitin Gadkari": 13,
@@ -349,27 +328,27 @@
     "Mansukh Mandaviya": 1
   },
   "top_parties_30d": {
-    "BJP": 999,
-    "Congress": 687,
+    "BJP": 1000,
+    "Congress": 685,
     "INC": 620,
-    "TMC": 173,
-    "Trinamool": 142,
-    "TVK": 117,
-    "DMK": 103,
+    "TMC": 174,
+    "Trinamool": 143,
+    "TVK": 114,
+    "DMK": 101,
     "SP": 91,
-    "AAP": 83,
-    "SAD": 76,
-    "AIADMK": 65,
+    "AAP": 84,
+    "SAD": 77,
+    "AIADMK": 62,
     "CPI": 61,
-    "National Conference": 46,
-    "NDA": 45,
+    "National Conference": 47,
+    "NDA": 46,
     "CPM": 45,
     "TDP": 39,
     "Samajwadi Party": 34,
     "Shiv Sena": 34,
     "NCP": 32,
+    "Akali Dal": 23,
     "Janata Dal": 22,
-    "Akali Dal": 22,
     "JDU": 18,
     "PDP": 18,
     "JMM": 15,
@@ -390,36 +369,36 @@
     "ZPM": 1
   },
   "top_states_30d": {
-    "Delhi": 745,
+    "Delhi": 749,
     "Gujarat": 567,
-    "Kerala": 424,
-    "Karnataka": 334,
-    "Tamil Nadu": 310,
+    "Kerala": 425,
+    "Karnataka": 335,
+    "Tamil Nadu": 307,
     "West Bengal": 262,
-    "Punjab": 252,
+    "Punjab": 253,
     "Maharashtra": 226,
-    "Uttar Pradesh": 211,
+    "Uttar Pradesh": 212,
     "Kashmir": 188,
-    "Telangana": 172,
+    "Telangana": 173,
     "Rajasthan": 158,
-    "Andhra Pradesh": 155,
+    "Andhra Pradesh": 157,
     "Odisha": 154,
-    "Bihar": 126,
+    "Bihar": 127,
     "Jammu": 126,
     "Madhya Pradesh": 103,
-    "Himachal Pradesh": 101,
+    "Himachal Pradesh": 100,
     "Haryana": 94,
+    "Jammu and Kashmir": 85,
     "Assam": 85,
-    "Jammu and Kashmir": 84,
-    "Chandigarh": 84,
-    "Uttarakhand": 52,
+    "Chandigarh": 85,
+    "Uttarakhand": 54,
     "Jharkhand": 49,
     "Manipur": 48,
     "Chhattisgarh": 41,
     "Ladakh": 39,
     "Goa": 33,
     "Andaman": 24,
-    "Puducherry": 24,
+    "Puducherry": 22,
     "Meghalaya": 21,
     "Tripura": 17,
     "Mizoram": 16,

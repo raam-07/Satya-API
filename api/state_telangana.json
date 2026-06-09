@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 04:22:24.158806",
+  "generated_at": "2026-06-09 08:08:21.430581",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 535,
-    "articles_last_30d": 172
+    "total_articles": 536,
+    "articles_last_30d": 173
   },
   "top_cities_30d": {
-    "Hyderabad": 63,
+    "Hyderabad": 64,
     "Delhi": 22,
     "Bengaluru": 17,
     "Mumbai": 11,
@@ -24,18 +24,46 @@
     "Jaipur": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 99,
+    "foreign_policy": 100,
     "economy": 34,
     "infrastructure": 34,
     "education": 28,
     "crime_violence": 28,
     "protest_opposition": 20,
     "farmer_agriculture": 17,
+    "political_gaffe": 16,
     "health": 15,
-    "political_gaffe": 15,
     "rape_sexual_crime": 13
   },
   "recent_articles": [
+    {
+      "id": 67117,
+      "title": "K Kavitha Slams Revanth Reddy, Demands Action On Land Owned By Pawan Kalyan",
+      "url": "https://www.ndtv.com/india-news/k-kavitha-slams-revanth-reddy-demands-action-on-land-owned-by-pawan-kalyan-11610260#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/vra9lp9g_k-kavitha_625x300_25_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 04:48:15.959112",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Revanth Reddy",
+      "rephrased_article": "**K Kavitha**, **Telangana Rakshana Sena (TRS)** chief, accused the Revanth Reddy-led Congress government of selectively targeting poor and middle class individuals through HYDRAA anti-encroachment drives while ignoring large-scale land grabs by influential people. She alleged that nearly Rs 1 lakh crore worth of public land had been illegally occupied, including a 10-acre plot owned by **Pawan Kalyan**, the Andhra Pradesh Deputy Chief Minister and Janasena Party chief, which she claims falls within protected \"Shikam\" and FTL limits. Kavitha demanded immediate action against encroachers and accused the government of turning a blind eye to major real estate projects.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 67090,
       "title": "Rajya Sabha polls: M.P. Congress mulls moving MLAs away as BJP fields candidate on third seat - The Hindu",
@@ -5347,31 +5375,6 @@
         "foreign_policy",
         "education",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 55967,
-      "title": "Commercial LPG 19 kg cylinder prices increase sharply, no change in domestic LPG cost - The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/commercial-lpg-19-kg-cylinders-prices-increased-sharply-in-telangana-no-change-in-domestic-lpg-cost/article70927393.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jqpf1k/article70927416.ece/alternates/LANDSCAPE_1200/6578_1_3_2021_16_21_8_1_NDBL_1_1_03_21.JPG",
-      "scraped_at": "2026-05-02 09:49:52.799079",
-      "category": "economy",
-      "sentiment": "negative",
-      "sentiment_target": "LPG",
-      "rephrased_article": "**State-owned oil marketing companies** have announced a significant increase in commercial liquefied petroleum gas (LPG) prices, effective May 1, 2026. The price of 19 kg commercial cylinders has risen by almost ₹1,000 per refill to ₹3,315, marking an all-time high. This hike comes amid supply constraints due to the war in West Asia and government efforts to prioritize domestic LPG supplies. **The Telangana LPG Distributors Association (TLDA)** urged consumers to purchase from authorized distributors only, citing concerns about premium pricing and quality risks associated with unauthorized agents.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "education"
       ]
     }
   ]

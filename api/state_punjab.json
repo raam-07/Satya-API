@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 04:22:24.136983",
+  "generated_at": "2026-06-09 08:08:21.405230",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 558,
-    "articles_last_30d": 252
+    "total_articles": 559,
+    "articles_last_30d": 253
   },
   "top_cities_30d": {
     "Delhi": 71,
     "Amritsar": 25,
     "Bengaluru": 17,
+    "Ludhiana": 16,
     "Mumbai": 16,
-    "Ludhiana": 15,
     "Ahmedabad": 11,
     "Chennai": 8,
     "Kolkata": 6,
@@ -24,11 +24,11 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 194,
+    "foreign_policy": 195,
     "crime_violence": 78,
-    "education": 64,
+    "education": 65,
     "economy": 62,
-    "protest_opposition": 44,
+    "protest_opposition": 45,
     "infrastructure": 28,
     "health": 24,
     "farmer_agriculture": 21,
@@ -36,6 +36,36 @@
     "political_gaffe": 16
   },
   "recent_articles": [
+    {
+      "id": 67128,
+      "title": "Ayali switches to Amritpal’s party, puts panthic unity to another political test | Chandigarh News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/chandigarh/manpreet-singh-ayali-switches-amritpal-party-unity-another-political-test-10730676/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Manpreet-Singh-Ayali.jpg",
+      "scraped_at": "2026-06-09 04:48:48.387605",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "SAD",
+      "rephrased_article": "**Manpreet Singh Ayali**, a three-time Dakha MLA, is set to formally join the **Amritpal Singh**-led **Akali Dal (Waris Punjab De)** in Chandigarh on Tuesday.  Ayali's move strengthens the fledgling outfit and marks another chapter in the ongoing realignment of **Punjab’s Akali politics**. The decision comes after Ayali resigned from all posts of the **SAD (Punar Surjit)**, a breakaway faction of the **Shiromani Akali Dal**, and expressed his desire for a unified Panthic platform.  Ayali's departure further reduces the **SAD**’s legislative strength, but senior leaders maintain that the party still has a strong grassroots base.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Ludhiana"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67094,
       "title": "Bhagwant Singh surplus land case: Ambala officer cancels mutation of 810 acres | Chandigarh News - The Indian Express",
@@ -5499,28 +5529,6 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 60851,
-      "title": "Nifty Bank rises 650 points as report says RBI unlikely to hike rates to defend rupee; Axis, ICICI, HDFC shares jump up to 2% - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-rises-650-points-as-report-says-rbi-unlikely-to-hike-rates-to-defend-rupee-axis-icici-hdfc-shares-jump-up-to-2/articleshow/131258921.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131258979,width-1200,height-630,imgsize-8222,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-05-22 09:37:14.256779",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "RBI",
-      "rephrased_article": "**The Reserve Bank of India (RBI)** is considering various options to address inflation, which remains subdued despite the rupee's recent decline.  While **the RBI** has stated it will prioritize inflation over currency defense, economists at Standard Chartered predict rate hikes as early as June, citing rising crude prices. Interest rate swap markets are pricing in significant rate increases by **the RBI**, with some predicting a 50 basis point hike in June and more than 100 basis points over the next year.  **The RBI's** decision on whether to raise rates will be announced on June 5th, following its second meeting since the Iran-US conflict began.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
       ]
     }
   ]

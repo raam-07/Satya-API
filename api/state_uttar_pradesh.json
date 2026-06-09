@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 04:22:24.167617",
+  "generated_at": "2026-06-09 08:08:21.440531",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 442,
-    "articles_last_30d": 211
+    "total_articles": 443,
+    "articles_last_30d": 212
   },
   "top_cities_30d": {
     "Delhi": 68,
@@ -24,8 +24,8 @@
     "Agra": 7
   },
   "top_topics_30d": {
-    "foreign_policy": 150,
-    "crime_violence": 86,
+    "foreign_policy": 151,
+    "crime_violence": 87,
     "education": 56,
     "protest_opposition": 50,
     "economy": 33,
@@ -33,9 +33,33 @@
     "farmer_agriculture": 14,
     "health": 14,
     "corruption_scam": 13,
-    "rape_sexual_crime": 9
+    "rape_sexual_crime": 10
   },
   "recent_articles": [
+    {
+      "id": 67110,
+      "title": "Woman's Father Dies Of Heart Attack Amid Dowry Dispute In Uttarakhand: Cops",
+      "url": "https://www.ndtv.com/india-news/womans-father-dies-of-heart-attack-amid-dowry-dispute-in-uttarakhand-cops-11610267#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2024-01/8ik97p4o_uttarakhand-police-generic_625x300_29_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 04:47:48.016487",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "A dispute over dowry and 'mehr' led to the death of a bride's father from a heart attack during a wedding ceremony in Khatima town. **Sadiq**, a local contractor, died after an altercation between his family and the groom's side escalated tensions at the ceremony. The bride's family alleged that the groom's side demanded additional dowry, escalating from a scooter to Rs 1 lakh cash.  Following the incident, relatives of the bride detained the groom and several guests, leading to violence and injuries as security forces were deployed to restore order. An investigation is underway.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttar Pradesh",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67051,
       "title": "Uttar Pradesh may send satellite to space for weather warning: CM Yogi Adityanath | Lucknow News - The Indian Express",
@@ -5791,37 +5815,6 @@
         "infrastructure",
         "education",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 58745,
-      "title": "Prateek Yadav, Mulayam Singh Yadav’s younger son, passes away in Lucknow - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/prateek-yadav-mulayam-singh-yadavs-younger-son-passes-away-in-lucknow/article70972485.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/l6nciv/article70972509.ece/alternates/LANDSCAPE_1200/Screenshot%202026-05-13%20090613.png",
-      "scraped_at": "2026-05-13 04:37:22.385309",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Yogi Adityanath",
-      "rephrased_article": "**Prateek Yadav**, the son of former Uttar Pradesh Chief Minister **Mulayam Singh Yadav** and husband of BJP leader **Aparna Bisht Yadav**, passed away on Wednesday morning at the age of 38.  He was pronounced dead after being rushed to a hospital in Lucknow where doctors could not determine the cause of death.  **Yogi Adityanath**, the current Chief Minister of Uttar Pradesh, expressed condolences and offered prayers for the departed soul.",
-      "party_mentioned": [
-        "BJP",
-        "Samajwadi Party",
-        "SP"
-      ],
-      "ministers_mentioned": [
-        "Yogi Adityanath",
-        "Akhilesh Yadav"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Lucknow"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health"
       ]
     }
   ]
