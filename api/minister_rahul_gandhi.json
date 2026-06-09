@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 16:45:38.319107",
+  "generated_at": "2026-06-09 19:05:13.412493",
   "name": "Rahul Gandhi",
   "role": "Leader of Opposition",
   "ministry": "",
@@ -20,11 +20,11 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
   "affidavit_url": "https://affidavit.eci.gov.in",
   "stats": {
-    "total_articles": 412,
-    "articles_last_30d": 185,
+    "total_articles": 413,
+    "articles_last_30d": 186,
     "sentiment_breakdown_30d": {
       "neutral": 60,
-      "negative": 92,
+      "negative": 93,
       "positive": 33
     }
   },
@@ -66,6 +66,37 @@
     }
   ],
   "recent_articles": [
+    {
+      "id": 67311,
+      "title": "Meenakshi Natarajan, Madhya Pradesh, KC Venugopal: Rajya Sabha Pick Meenakshi Natarajan's Nomination Junked, Congress Protests",
+      "url": "https://www.ndtv.com/india-news/meenakshi-natarajan-madhya-pradesh-kc-venugopal-rajya-sabha-pick-meenakshi-natarajans-nomination-junked-congress-protests-11613472#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/s8h119e8_meenakshi-natarajan_625x300_09_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 15:41:21.409024",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission",
+      "rephrased_article": "The **Election Commission** rejected the nomination of **Meenakshi Natarajan**, a Congress candidate, for the Rajya Sabha election due to her failure to disclose a pending case against her in her nomination papers.  **Natarajan** accused the **BJP** of manipulating the election and undermining democracy. The **Congress** protested the decision but was unsuccessful. The **Election Commission** has accepted a memorandum from the **Congress** and will seek a report from the Returning Officer, who is expected to meet with the party tomorrow.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "INC"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67269,
       "title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
@@ -6085,33 +6116,6 @@
         "infrastructure",
         "education",
         "farmer_agriculture",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 56971,
-      "title": "Assam Congress to analyse poll defeat - The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam/assam-congress-to-analyse-poll-defeat/article70943588.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jujjlb/article70943640.ece/alternates/LANDSCAPE_1200/2150_5_5_2026_16_35_49_1_GAURAVGOGOI_05052026_01.JPG",
-      "scraped_at": "2026-05-05 23:59:57.914485",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Gaurav Gogoi**, the Assam Congress chief, convened a meeting with party leaders and candidates to analyze their defeat in the recent Assembly election. He expressed his responsibility for the loss while expressing concerns about the Election Commission of India's neutrality and questioning the accuracy of the results. **Gogoi** asserted that the BJP's focus on destabilizing the electoral process poses a threat to India's democratic future. Despite the loss, he pledged continued efforts by the Congress as an Opposition party to address people's issues and hold the new government accountable for its performance.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "infrastructure",
         "protest_opposition"
       ]
     }

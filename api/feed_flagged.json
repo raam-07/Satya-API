@@ -1,14 +1,40 @@
 {
-  "generated_at": "2026-06-09 16:45:37.807996",
-  "total": 633,
+  "generated_at": "2026-06-09 19:05:12.820202",
+  "total": 638,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 511,
-    "scale_of_harm": 35,
+    "power_abuse": 515,
+    "scale_of_harm": 36,
     "institutional_failure": 67,
     "suppression": 20
   },
   "articles": [
+    {
+      "id": 67305,
+      "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon | Benjamin Netanyahu News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a27f8a5596c-1781004453.jpg?resize=1920%2C1348",
+      "scraped_at": "2026-06-09 15:41:08.909543",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Israel",
+      "rephrased_article": "Donald Trump stated that a peace deal with Iran is imminent, but Israeli attacks on Tyre in southern Lebanon have killed at least eight people and forced thousands to flee.  Israel claims it will continue to target southern Lebanon despite the ceasefire agreement between Israel and Iran. The US president warned Netanyahu that he would be on his own if attacks continue, while Iran has threatened \"more severe and crushing measures\" if the fighting continues.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "rape_sexual_crime",
+        "foreign_policy"
+      ],
+      "is_india": false,
+      "civic_flag": true,
+      "civic_flag_score": 10,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Escalating violence and civilian casualties in Lebanon raise serious concerns."
+    },
     {
       "id": 67279,
       "title": "Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules | WIRED",
@@ -4896,6 +4922,111 @@
       "civic_flag_score": 10,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
+    },
+    {
+      "id": 67320,
+      "title": "Bengal BJP govt’s first month: From anti-corruption drive, border fencing to new welfare schemes | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/bengal-bjp-govt-first-month-anti-corruption-border-fencing-welfare-schemes-10731896/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Suvendu-Adhikari-1_20260608233755_064f48.jpg",
+      "scraped_at": "2026-06-09 15:41:48.731058",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "BJP",
+      "rephrased_article": "The newly formed BJP government in West Bengal has taken several significant steps in its first month, including transferring land to the Border Security Force for border fencing and expanding the state's flagship subsidized food program.  The government has also launched an anti-corruption drive, arresting over 300 TMC leaders accused of corruption. Chief Minister Suvendu Adhikari has promised to tackle issues like illegal infiltration and address concerns about welfare schemes. However, the government has faced criticism for its \"bulldozer culture\" approach to evicting street hawkers without proper rehabilitation.  The BJP government is still in its early stages and faces a long road ahead.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Amit Shah",
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "education",
+        "corruption_scam",
+        "political_gaffe",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Mass arrests without due process raise concerns about abuse of power."
+    },
+    {
+      "id": 67301,
+      "title": "Modi is using a cannon to kill a cockroach | Narendra Modi | Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/9/modi-is-using-a-cannon-to-kill-a-cockroach?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a281a5a01-1781013082.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-06-09 15:41:05.832870",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "Prime Minister Narendra Modi's government has taken action against a satirical parody account called \"Cockroach Janta Party\" after it gained popularity online. The Chief Justice Surya Kant made a comparison to cockroaches and parasites, which sparked the creation of the account.  The government has pressured the page to be removed from social media platforms, accusing its founder of being influenced by foreign powers. This action is seen as an overreaction to harmless satire and reflects the growing discontent among young Indians who are facing challenges such as unemployment, climate change, and a lack of trust in their government.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi"
+      ],
+      "states_mentioned": [
+        "Telangana",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition",
+        "economy",
+        "foreign_policy",
+        "crime_violence",
+        "political_gaffe",
+        "education"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Government silencing dissent through pressure on social media is a serious concern."
+    },
+    {
+      "id": 67296,
+      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4caa/live/37b2b130-63c9-11f1-8546-8f19e4fe30f4.jpg",
+      "scraped_at": "2026-06-09 15:40:59.370783",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "kidnapping and torture ring",
+      "rephrased_article": "The BBC has uncovered evidence of a kidnapping and torture ring operating in Libya, targeting migrants from Iraqi Kurdistan. Noah Aaron, an Iraqi Kurd smuggler who was sentenced to 10 years in France for money laundering and smuggling offenses, is believed to have been involved in the operation. The group kidnapped over 300 migrants last summer, demanding a ransom of $5,000 (£3,700) from each family.  The victims were held in cramped conditions and threatened with forced organ removal if payment was not made promptly. While some hostages were released, many remain missing or have been subjected to torture, including burning their legs and forcing them to sleep standing up for months. Anthony Dunkerley, a UN adviser who has investigated human trafficking in Libya, notes that the lack of state control in the country allows criminal groups to exploit migrants.",
+      "party_mentioned": [
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "Kidnapping, torture, and organ trafficking are serious crimes against humanity."
     },
     {
       "id": 67236,
@@ -15347,127 +15478,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "A candidate with 242 criminal cases is normalized, raising concerns about justice and law enforcement."
-    },
-    {
-      "id": 44221,
-      "title": "Queensland government ‘opens old wounds’ as police officer criticised after Palm Island riots appointed to Legal Aid board | Australian police and policing | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/23/queensland-police-detective-darren-robinson-palm-island-legal-aid-board-ntwnfb",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/12a781b478a85e987ee86033781b1a558a21e0d7/1505_540_3531_2825/master/3531.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e329846cae740bd3b14f0da54311346e",
-      "scraped_at": "2026-03-22 14:34:09.912985",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Queensland government",
-      "rephrased_article": "The Queensland government appointed Darren Robinson, a former police officer who was criticized for his role in the 2004 Palm Island riots, to the state's Legal Aid board. First Nations community leaders and legal professionals expressed concern over this appointment, citing Robinson's involvement in events surrounding Mulrunji Doomadgee's death in custody and his alleged discriminatory conduct towards Indigenous residents.  The attorney general, Deb Frecklington, defended the appointment, emphasizing Robinson's experience working with vulnerable communities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "rape_sexual_crime",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "institutional_failure",
-      "civic_flag_reason": "Appointing an officer criticized for misconduct to a justice board raises serious concerns."
-    },
-    {
-      "id": 44199,
-      "title": "Even Muslim-majority countries don’t allow Namaz on roads, says Sunil Ambekar of RSS - The Hindu",
-      "url": "https://www.thehindu.com/news/national/even-muslim-majority-countries-dont-allow-namaz-on-roads-says-sunil-ambekar-of-rss/article70772182.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/g1qmdw/article70772271.ece/alternates/LANDSCAPE_1200/Sunil%20Ambekar%20RSS%204.JPG",
-      "scraped_at": "2026-03-22 13:05:38.924954",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP government",
-      "rephrased_article": "Sunil Ambekar, national publicity in-charge of the Rashtriya Swayamsevak Sangh (RSS), defended several recent policies and actions by the BJP government. He stated that restrictions on religious practices like Namaz on roads should be viewed as law-and-order decisions, not religious restrictions.  Ambekar also emphasized the importance of national unity and shared ancestry, citing historical events like the partition of India as examples. He defended measures such as the Socio-Economic and Caste Census (SECC), the Citizenship Amendment Act (CAA), and the National Register of Citizens (NRC) as constitutional processes aimed at safeguarding national interest.  Ambekar also addressed concerns about youth-led protests in neighboring countries, stating that democracy allows for peaceful dissent while highlighting India's strong democratic tradition.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "It normalizes restrictions on religious practices, potentially leading to suppression of religious freedom."
-    },
-    {
-      "id": 44180,
-      "title": "Woman killed, six injured as ropeway trolley crashes in Chhattisgarh's Mahasamund - The Hindu",
-      "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-mahasamund-ropeway-trolley-accident-death-toll-probe/article70772055.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/32ta7w/article70772063.ece/alternates/LANDSCAPE_1200/PTI03_22_2026_000099A.jpg",
-      "scraped_at": "2026-03-22 11:34:40.082772",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "none",
-      "rephrased_article": "A ropeway trolley carrying seven passengers crashed from a height of 200 to 300 feet in Chhattisgarh's Mahasamund district, killing one woman and injuring six others.  The incident occurred on Sunday (March 22, 2026) while the trolley was descending from the Bagbahra Sub-Divisional Magistrate (SDM) Namita Markole said. Chief Minister Vishnu Deo Sai expressed grief over the incident and ordered a detailed investigation into the cause of the accident. The injured were taken to a nearby hospital, with four being referred to Raipur for further treatment.  The incident occurred during the ongoing nine-day Navratri festival at the Khallari Mata temple.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Chhattisgarh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Ropeway accidents highlight systemic safety failures and potential negligence."
-    },
-    {
-      "id": 44097,
-      "title": "SIR fallout obliterated localised anti-incumbency in West Bengal, no discontent against Mamata: Sagarika Ghose - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/sir-fallout-obliterated-localised-anti-incumbency-in-west-bengal-no-discontent-against-mamata-sagarika-ghose/article70771555.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/w8x585/article70771565.ece/alternates/LANDSCAPE_1200/01_Sagarikha_Ghose_14_05_Delhi.jpg",
-      "scraped_at": "2026-03-22 06:01:47.836735",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Mamata Banerjee",
-      "rephrased_article": "TMC's Rajya Sabha MP Sagarika Ghose believes the BJP's SIR exercise, which cast citizenship doubts on prominent citizens, has backfired and given the TMC a distinct advantage in the upcoming West Bengal Assembly elections.  Ghose argues that while local anti-incumbency may have existed, it has been obscured by the SIR process, creating an anti-BJP wave. She believes Mamata Banerjee, as a leader, enjoys strong support from her constituents and will benefit from her governance record. Ghose also highlights the TMC's commitment to combating disinformation and protecting women's rights, citing the Aparajita Bill as evidence of their stance.",
-      "party_mentioned": [
-        "BJP",
-        "TMC",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy",
-        "crime_violence"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "The article suggests a politically motivated citizenship probe was used to suppress dissent."
     }
   ]
 }
