@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 22:51:49.377669",
+  "generated_at": "2026-06-10 00:07:45.173959",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 564,
-    "articles_last_30d": 252
+    "total_articles": 565,
+    "articles_last_30d": 253
   },
   "top_cities_30d": {
     "Delhi": 71,
-    "Amritsar": 25,
-    "Mumbai": 17,
+    "Amritsar": 26,
+    "Mumbai": 18,
     "Bengaluru": 17,
     "Ludhiana": 15,
     "Ahmedabad": 11,
@@ -24,18 +24,55 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 191,
-    "crime_violence": 78,
+    "foreign_policy": 192,
+    "crime_violence": 79,
     "education": 64,
     "economy": 63,
     "protest_opposition": 43,
     "infrastructure": 25,
     "health": 24,
     "farmer_agriculture": 20,
-    "political_gaffe": 18,
+    "political_gaffe": 19,
     "corruption_scam": 17
   },
   "recent_articles": [
+    {
+      "id": 67457,
+      "title": "Congress, Sena (UBT) seek Girish Mahajan’s removal over Operation Blue Star remarks | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/girish-mahajan-operation-blue-star-row-congress-sena-ubt-removal-demand-10731906/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Girish-Mahajan.jpg",
+      "scraped_at": "2026-06-09 22:11:59.541500",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Girish Mahajan",
+      "rephrased_article": "**Congress** and **Shiv Sena (UBT)** leaders demanded the removal of Maharashtra minister Girish Mahajan from his cabinet position, accusing him of undermining the armed forces.  They criticized Mahajan's comments on Operation Blue Star, calling them a betrayal of national interests and questioning India’s fight against terrorism. **Harshvardhan Sapkal**, **Maharashtra Congress** president, called for Prime Minister Narendra Modi, Union Home Minister Amit Shah, and Chief Minister Devendra Fadnavis to publicly condemn Mahajan's remarks.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67409,
       "title": "Today Weather LIVE, Heatwave Today, Rain Alert Highlights: Delhi-NCR To Witness More Rain, Says Weather Office",
@@ -5517,30 +5554,6 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 60972,
-      "title": "NCCIA uncovers gang selling data of govt officials to foreign entities; four arrested - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002298/nccia-uncovers-gang-selling-data-of-govt-officials-to-foreign-entities-four-arrested",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/221936355403e85.webp",
-      "scraped_at": "2026-05-22 21:19:36.216002",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "NCCIA",
-      "rephrased_article": "The **National Cyber Crime Investigation Agency (NCCIA)** arrested four individuals in South Punjab for selling sensitive personal data of government officers to foreign entities. The suspects, identified as Arshad Tariq, Arham Bari, Anam Sabir and Mohammad Rizwan, were allegedly sharing the data with foreign intelligence agencies.  **The NCCIA** is investigating how the information was accessed and has directed government institutions to strengthen data security.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy",
-        "education",
-        "protest_opposition"
       ]
     }
   ]

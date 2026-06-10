@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09 22:51:49.012644",
-  "total": 641,
+  "generated_at": "2026-06-10 00:07:44.884114",
+  "total": 643,
   "description": "Articles flagged as needing immediate public attention",
   "category_breakdown": {
-    "power_abuse": 518,
+    "power_abuse": 519,
     "scale_of_harm": 36,
-    "institutional_failure": 67,
+    "institutional_failure": 68,
     "suppression": 20
   },
   "articles": [
@@ -4977,6 +4977,48 @@
       "civic_flag_reason": "Child trafficking is a serious crime and a grave abuse of power."
     },
     {
+      "id": 67457,
+      "title": "Congress, Sena (UBT) seek Girish Mahajan’s removal over Operation Blue Star remarks | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/girish-mahajan-operation-blue-star-row-congress-sena-ubt-removal-demand-10731906/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Girish-Mahajan.jpg",
+      "scraped_at": "2026-06-09 22:11:59.541500",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Girish Mahajan",
+      "rephrased_article": "Congress and Shiv Sena (UBT) leaders demanded the removal of Maharashtra minister Girish Mahajan from his cabinet position, accusing him of undermining the armed forces.  They criticized Mahajan's comments on Operation Blue Star, calling them a betrayal of national interests and questioning India’s fight against terrorism. Harshvardhan Sapkal, Maharashtra Congress president, called for Prime Minister Narendra Modi, Union Home Minister Amit Shah, and Chief Minister Devendra Fadnavis to publicly condemn Mahajan's remarks.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Amit Shah",
+        "Shah",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "political_gaffe",
+        "foreign_policy"
+      ],
+      "is_india": true,
+      "civic_flag": true,
+      "civic_flag_score": 9,
+      "civic_flag_category": "power_abuse",
+      "civic_flag_reason": "The article discusses potentially inflammatory remarks about a sensitive historical event."
+    },
+    {
       "id": 67407,
       "title": "Trinamool Congress Crisis, Trinamool: \"She Said Will Fight, Rebuild\": Kirti Azad On Mamata Banerjee's Crisis Plan",
       "url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-trinamool-she-said-will-fight-rebuild-kirti-azad-on-mamata-banerjees-crisis-plan-11614451#publisher=newsstand",
@@ -4995,9 +5037,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Mamata Banerjee",
-        "Mamata",
         "Didi",
         "Sonia Gandhi"
       ],
@@ -15452,34 +15492,6 @@
       "civic_flag_score": 9,
       "civic_flag_category": "power_abuse",
       "civic_flag_reason": "The article highlights concerning issues of judicial bias and prolonged incarceration."
-    },
-    {
-      "id": 44269,
-      "title": "Unable to find space for election office owing to CPI(M) threat, alleges Kunhikrishnan - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/unable-to-find-space-for-election-office-owing-to-cpim-threat-alleges-kunhikrishnan/article70772891.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-22 16:00:04.358609",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "CPI(M)",
-      "rephrased_article": "V. Kunhikrishnan, a former CPI(M) leader and rebel candidate, claims he is facing difficulties opening an election office in the Payyannur Assembly constituency due to fear of repercussions from CPI(M) workers. He alleges landowners are backing out after threats and another supporter withdrew citing family pressure. The United Democratic Front has decided not to field a candidate in Payyannur, extending support to Kunhikrishnan. Senior Congress leader K. Sudhakaran has publicly backed his candidature and spoken with him over the phone.  Kunhikrishnan believes this intimidation will ultimately benefit him by turning voters against the CPI(M)-led LDF.",
-      "party_mentioned": [
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam"
-      ],
-      "is_india": true,
-      "civic_flag": true,
-      "civic_flag_score": 9,
-      "civic_flag_category": "power_abuse",
-      "civic_flag_reason": "Threats and intimidation to prevent political activity are a serious abuse of power."
     }
   ]
 }

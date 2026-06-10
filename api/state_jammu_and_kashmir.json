@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09 22:51:49.443276",
+  "generated_at": "2026-06-10 00:07:45.234974",
   "state": "Jammu and Kashmir",
   "capital": "Srinagar / Jammu",
   "ruling_party": "National Conference",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 154,
-    "articles_last_30d": 87
+    "total_articles": 156,
+    "articles_last_30d": 89
   },
   "top_cities_30d": {
     "Srinagar": 26,
@@ -24,11 +24,11 @@
     "Chennai": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 63,
-    "crime_violence": 23,
+    "foreign_policy": 65,
+    "crime_violence": 25,
+    "protest_opposition": 18,
     "education": 17,
-    "protest_opposition": 17,
-    "economy": 13,
+    "economy": 14,
     "infrastructure": 7,
     "health": 6,
     "corruption_scam": 4,
@@ -36,6 +36,54 @@
     "political_gaffe": 3
   },
   "recent_articles": [
+    {
+      "id": 67465,
+      "title": "Why are protests erupting in PoK? India slams Pakistan as 20 killed in clashes",
+      "url": "https://indianexpress.com/article/world/pakistan-pojk-clashes-joint-awami-action-committee-protests-death-toll-india-reaction-10731400/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/pok.jpeg",
+      "scraped_at": "2026-06-09 22:12:19.786996",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "Violent clashes in Pakistan-occupied Jammu and Kashmir (PoJK) have resulted in at least 20 deaths, according to news agencies. **The Joint Awami Action Committee (JAAC)**, a coalition of traders, civil society groups, and political activists, has been leading protests against rising electricity prices, taxation policies, and governance issues.  **Pakistan** officials claim security measures were necessary to maintain law and order, while **India** called on the international community to hold Pakistan accountable for alleged human rights abuses. Over 50 British MPs have also expressed concern over reports of communications blackouts, arrests, and escalating tensions in PoJK.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "protest_opposition",
+        "economy",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67451,
+      "title": "Minor Boy From PoK Detained In J&K's Poonch After He Crossed LoC",
+      "url": "https://www.ndtv.com/india-news/minor-boy-from-pok-detained-in-j-ks-poonch-after-he-crossed-loc-11614217#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/bonfag1c_pok_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-09 22:11:50.195278",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Javid Ali",
+      "rephrased_article": "A minor from Pakistan-occupied Kashmir (PoK), Javid Ali, was detained in Poonch, Jammu and Kashmir after crossing into Indian territory.  **Javid Ali** claimed he accidentally crossed the Line of Control (LoC) while bathing in a river, but security agencies are investigating his true intentions. **Security officials** stated they will hand over **Javid Ali** to Pakistani authorities if he crossed by mistake, as this is standard procedure for such incidents.  The incident comes amid unrest in PoK and intelligence reports indicating potential terror infiltration attempts along the LoC.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67424,
       "title": "Zojila tunnel is a gamechanger for national security, integration: Nitin Gadkari - The Hindu",
@@ -52,7 +100,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Omar Abdullah",
         "Nitin Gadkari"
       ],

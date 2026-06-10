@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09 22:51:49.881158",
+  "generated_at": "2026-06-10 00:07:45.613647",
   "stats": {
-    "total_promises": 154,
+    "total_promises": 157,
     "kept": 3,
     "broken": 12,
-    "ongoing": 137
+    "ongoing": 140
   },
   "by_status": {
     "broken": [
@@ -56,7 +56,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials and parties contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -206,7 +206,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the target was not met."
       },
       {
         "id": "p011",
@@ -256,7 +256,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed, and the project is delayed."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p016",
@@ -367,7 +367,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
       },
       {
         "id": "p013",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       },
       {
         "id": "p020",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The BJP government is in power and actively working on promoting self-sufficiency in fish production."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, suggesting ongoing work on the promise."
       },
       {
         "id": "promise_1780208617_8",
@@ -1087,7 +1087,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780361059_5",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
       },
       {
         "id": "promise_1780373808_3",
@@ -1635,7 +1635,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Shah met with the Chief Minister to discuss the peace process, indicating ongoing discussion."
+        "gemma_reasoning": "Shah met with the CM to discuss peace process, implying ongoing work."
       },
       {
         "id": "promise_1780436701_3",
@@ -1755,7 +1755,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The scheme was announced in a manifesto and is likely in implementation."
+        "gemma_reasoning": "The promise was made in a manifesto and the government is still in power."
       },
       {
         "id": "promise_1780451941_6",
@@ -2275,7 +2275,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is to start in July 2026, the deadline has not passed."
+        "gemma_reasoning": "The promise is set to begin July 1st, 2026, and is still in progress."
       },
       {
         "id": "promise_1780697691_0",
@@ -2328,7 +2328,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre is the Rural Development Minister and actively working on the promise."
+        "gemma_reasoning": "Khandre has identified clean drinking water access as a priority and is in power."
       },
       {
         "id": "promise_1780745252_0",
@@ -2448,6 +2448,48 @@
         "party": "",
         "promise": "Yogi Adityanath plans to send a dedicated satellite to monitor weather parameters specific to Uttar Pradesh.",
         "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1781042252_0",
+        "person": "Suvendu Adhikari",
+        "party": "",
+        "promise": "The West Bengal government will remove the word 'Dham' from the name of the Jagannath temple in Digha.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1781042751_1",
+        "person": "Devendra Fadnavis",
+        "party": "",
+        "promise": "Devendra Fadnavis directed the collectors to withdraw notices issued to tanker operators.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1781043204_2",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "Mamata Banerjee vowed to rebuild the party and fight again on the streets.",
+        "category": "politics",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -2637,7 +2679,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -2737,7 +2779,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials and parties contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -2787,7 +2829,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the target was not met."
       },
       {
         "id": "p009",
@@ -2846,7 +2888,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
       },
       {
         "id": "p011",
@@ -2896,7 +2938,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed, and the project is delayed."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p020",
@@ -3263,7 +3305,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780370419_2",
@@ -3288,7 +3330,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
       },
       {
         "id": "promise_1780383641_1",
@@ -3355,7 +3397,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Shah met with the Chief Minister to discuss the peace process, indicating ongoing discussion."
+        "gemma_reasoning": "Shah met with the CM to discuss peace process, implying ongoing work."
       },
       {
         "id": "promise_1780443870_2",
@@ -3664,7 +3706,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       },
       {
         "id": "promise_1780207073_7",
@@ -3689,7 +3731,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The BJP government is in power and actively working on promoting self-sufficiency in fish production."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, suggesting ongoing work on the promise."
       },
       {
         "id": "promise_1780332240_0",
@@ -3796,6 +3838,20 @@
         ],
         "gemma_suggestion": "ongoing",
         "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
+      },
+      {
+        "id": "promise_1781043204_2",
+        "person": "Mamata Banerjee",
+        "party": "",
+        "promise": "Mamata Banerjee vowed to rebuild the party and fight again on the streets.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Revanth Reddy": [
@@ -4814,6 +4870,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1781042751_1",
+        "person": "Devendra Fadnavis",
+        "party": "",
+        "promise": "Devendra Fadnavis directed the collectors to withdraw notices issued to tanker operators.",
+        "category": "infrastructure",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "Nitish Kumar": [
@@ -4881,7 +4951,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre is the Rural Development Minister and actively working on the promise."
+        "gemma_reasoning": "Khandre has identified clean drinking water access as a priority and is in power."
       }
     ],
     "Pinarayi Vijayan": [
@@ -5038,6 +5108,20 @@
         "evidence_articles": [],
         "gemma_suggestion": null,
         "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1781042252_0",
+        "person": "Suvendu Adhikari",
+        "party": "",
+        "promise": "The West Bengal government will remove the word 'Dham' from the name of the Jagannath temple in Digha.",
+        "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
       }
     ],
     "M.K. Stalin": [
@@ -5064,7 +5148,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The scheme was announced in a manifesto and is likely in implementation."
+        "gemma_reasoning": "The promise was made in a manifesto and the government is still in power."
       }
     ],
     "Sukhvinder Singh Sukhu": [
@@ -5212,7 +5296,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is to start in July 2026, the deadline has not passed."
+        "gemma_reasoning": "The promise is set to begin July 1st, 2026, and is still in progress."
       }
     ]
   },
@@ -5266,7 +5350,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
+        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
       },
       {
         "id": "p003",
@@ -5366,7 +5450,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials and parties contradict the promise."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
       },
       {
         "id": "p007",
@@ -5416,7 +5500,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the target was not met."
       },
       {
         "id": "p009",
@@ -5475,7 +5559,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
+        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
       },
       {
         "id": "p011",
@@ -5525,7 +5609,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "The target deadline of 2023 has passed, and the project is delayed."
+        "gemma_reasoning": "The target deadline of 2023 has passed and the project is not complete."
       },
       {
         "id": "p013",
@@ -5730,7 +5814,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Mamata Banerjee is still in power and actively governing West Bengal."
+        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
       }
     ]
   }
