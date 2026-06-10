@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 12:05:08.029515",
+  "generated_at": "2026-06-10 16:07:09.583756",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
@@ -8,12 +8,12 @@
   "cm_confidence": 0.75,
   "party_confidence": null,
   "stats": {
-    "total_articles": 864,
-    "articles_last_30d": 347
+    "total_articles": 871,
+    "articles_last_30d": 353
   },
   "top_cities_30d": {
-    "Bengaluru": 125,
-    "Delhi": 66,
+    "Bengaluru": 126,
+    "Delhi": 70,
     "Bangalore": 31,
     "Hyderabad": 17,
     "Mumbai": 11,
@@ -24,18 +24,203 @@
     "Kolkata": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 193,
+    "foreign_policy": 195,
+    "education": 69,
     "protest_opposition": 69,
-    "education": 68,
-    "economy": 56,
-    "crime_violence": 51,
-    "political_gaffe": 48,
+    "economy": 59,
+    "crime_violence": 53,
+    "political_gaffe": 51,
     "infrastructure": 42,
+    "corruption_scam": 25,
     "health": 24,
-    "corruption_scam": 24,
     "farmer_agriculture": 22
   },
   "recent_articles": [
+    {
+      "id": 67665,
+      "title": "No fee hike for medical courses this year in Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kathua-fire-guts-two-dozen-hutments-in-jk-forest-fire-sparks-mine-blasts-in-rajouri/article71084482.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cja1rv/article71076984.ece/alternates/LANDSCAPE_1200/TH22-A-LakshmanG6GFBDSH4.3.jpg.jpg",
+      "scraped_at": "2026-06-10 12:27:17.163377",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "State government",
+      "rephrased_article": "**Private medical colleges** in Karnataka have decided not to submit a proposal for fee hikes for 2026-27 due to inflation and other factors.  The **State government** has also decided against raising fees for medical courses, citing concerns about student affordability. The decision follows previous rejections of fee hike requests by the **government**, with private college associations arguing for increased fees despite a cap on maximum charges.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "education"
+      ]
+    },
+    {
+      "id": 67663,
+      "title": "No fee hike for medical courses this year in Karnataka - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/no-fee-hike-for-medical-courses-this-year-in-karnataka/article71076243.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/cja1rv/article71076984.ece/alternates/LANDSCAPE_1200/TH22-A-LakshmanG6GFBDSH4.3.jpg.jpg",
+      "scraped_at": "2026-06-10 12:27:06.102107",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Karnataka State Government",
+      "rephrased_article": "**Private medical colleges** in Karnataka have decided not to submit a proposal for fee hikes for 2026-27 due to inflation and other reasons.  The **State government** has also chosen not to allow any fee increases for medical courses this year. The decision comes after the **Union government** ordered a re-examination of NEET 2026 following a paper leak, which has caused nationwide anger.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "education",
+        "health"
+      ]
+    },
+    {
+      "id": 67657,
+      "title": "12 Years Of 'Decolonisation': How Modi Government Shed British-Era Practices",
+      "url": "https://www.ndtv.com/india-news/12-years-of-decolonisation-how-modi-government-shed-british-era-practices-11617406#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-02/2spv28u8_seva-tirtha_625x300_13_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 12:26:30.098271",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "The **Narendra Modi** government has undertaken a significant effort to dismantle symbols and practices associated with British colonial rule over the past twelve years. This includes renaming landmarks like Rajpath to Kartavya Path, incorporating Indian motifs in new buildings like the Parliament building, and replacing outdated laws with new ones.  The government has also renamed three islands in the Andaman and Nicobar chain and changed several other aspects of public life, including street names, office titles, and even the budget presentation date. These changes reflect a broader effort to reclaim India's identity and culture.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Nirmala Sitharaman"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi",
+        "Andaman"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67656,
+      "title": "Newly-wed woman from Udupi found dead in husband’s house in Belagavi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/newly-wed-found-dead-in-husbands-house-in-belagavi/article71084413.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i2s8ds/article71084510.ece/alternates/LANDSCAPE_1200/dowry.jpg",
+      "scraped_at": "2026-06-10 12:26:29.414335",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "none",
+      "rephrased_article": "**Rakshita Pujari**, a 29-year-old woman from Karnataka, was found dead in her husband's house in Belagavi on June 10th. Her husband, **Manjunath Pujari**, reported finding her body upon returning from work.  **Rakshita's parents** stated they had been unable to contact her on June 9th. A case has been registered and authorities are investigating the circumstances surrounding her death.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Karnataka"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67655,
+      "title": "Waste Management Scam In Karnataka? BJP Alleges Rs 10,000-Crore Kickback",
+      "url": "https://www.ndtv.com/india-news/waste-management-scam-in-karnataka-bjp-alleges-rs-10-000-crore-kickback-11617376#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/05anntmg_karnataka-gov-meets-bjp_625x300_10_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 12:26:20.217280",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Karnataka Government",
+      "rephrased_article": "**R Ashok**, Leader of the Opposition in **Karnataka**, alleged a massive Rs 39,000-crore scam in the city's waste processing system. He claimed that the new contract awarded to **MSW Solutions Limited**, linked to **Ramky Group**, involves kickbacks worth Rs 10,000 crore and raises waste processing costs from Rs 6,117 crore to Rs 39,437 crore over a 35-year period. Ashok also alleged procedural violations in the tender process, including inadequate scrutiny and failure to publish mandatory advertisements. He demanded an immediate cancellation of the contract and urged Governor **Thawar Chand Gehlot** to order a probe into the matter.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67647,
+      "title": "Rajya Sabha polls: Congress delegation meets ECI over rejection of Meenakshi Natarajan’s nomination - The Hindu",
+      "url": "https://www.thehindu.com/news/national/allahabad-hc-issues-guidelines-to-stop-abuse-of-preventive-detention-holds-magistrates-policemen-personally-liable/article71084458.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ye24v/article71084002.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-10%20at%2013.14.19.jpeg",
+      "scraped_at": "2026-06-10 12:25:46.243109",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "A **Congress** delegation, including general secretary K.C. Venugopal and candidate Meenakshi Natarajan, met with the **Election Commission of India (ECI)** on Wednesday to address the rejection of her nomination for Rajya Sabha polls in Madhya Pradesh.  **Mr. Singhvi**, a member of the delegation, argued that the court notice was based on a private complaint and not a criminal case, and requested the commission to withdraw the order of rejection. The party president **Mallikarjun Kharge** convened an urgent meeting for Congress leaders to discuss the situation.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67642,
+      "title": "Rajya Sabha polls: Congress delegation meets ECI over rejection of Meenakshi Natarajan’s nomination - The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajya-sabha-pollscongress-delegation-meets-eci-over-rejection-of-meenakshi-natarajans-nomination/article71084028.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ye24v/article71084002.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-10%20at%2013.14.19.jpeg",
+      "scraped_at": "2026-06-10 12:25:27.882664",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Election Commission of India (ECI)",
+      "rephrased_article": "A **Congress** delegation, including general secretary **K.C. Venugopal** and candidate **Meenakshi Natarajan**, met with the **Election Commission of India (ECI)** on Wednesday to address the rejection of **Natarajan's** nomination for Rajya Sabha polls in Madhya Pradesh.  The delegation argued that the court notice was based on a private complaint, not a criminal case, and requested the commission to withdraw the rejection order. The party president, **Mallikarjun Kharge**, convened an urgent meeting to discuss the situation.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Bhupesh Baghel"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67564,
       "title": "Ahead of Karnataka SIR, Congress seeks printed copies of 2002 electoral rolls from EC | Bangalore News - The Indian Express",
@@ -5422,198 +5607,6 @@
       "topic_tags": [
         "economy"
       ]
-    },
-    {
-      "id": 63305,
-      "title": "NEET paper leak case: Supreme Court directs Centre, NTA to file affidavit - India Today",
-      "url": "https://www.indiatoday.in/india/video/neet-paper-leak-case-supreme-court-directs-centre-nta-to-file-affidavit-2919077-2026-05-29?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202605/sc-293002497-16x9_0.png?VersionId=qjc66CajdLsXThyi8s88tuGwQZVn3GAH",
-      "scraped_at": "2026-05-31 01:40:26.006476",
-      "category": "education",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**CBI** has secured a five-day remand for the mother-in-law and husband of **Twisha Sharma**, who died after allegedly taking an exam, in connection with the case. The Supreme Court is demanding details from the central government and the National Testing Agency regarding the NEET paper leak, while a parliamentary review meeting is underway to address the crisis.  The Education Minister has acknowledged lapses and promised a secure retest for all candidates.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "education"
-      ]
-    },
-    {
-      "id": 63302,
-      "title": "What went wrong with Bengaluru’s K-100?",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR01qaDlpcFJENE00ZEdJOEZxN1QydllsdERCT0ZfYzdPMEY2cEJ5anI1MzRyR3B5WFJpU241WVMzVUNtcGhtc0dUWEZyVE9yTklNSGEyajdIRkpFRHdqb1BzclYweVNwVW5zei1sT2pkMjQ1b05qYWs5NUZxT2xzdno1UnJaYVowSlZOckR1RjFtbEFvNDFDem01WWRhZEtPS3M4ZTFwMU9zNXJ5MXN3a1VPdlp2RzNEUm1QcTV1TXFJVlhSZ0ZxUWFLUQ?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fgott4q9h%2F1966325464.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 01:40:13.824879",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "Siddaramaiah",
-      "rephrased_article": "The K-100 waterway project, a stormwater drain initiative launched by **Siddaramaiah**, has fallen into disrepair despite initial hopes for an accessible public space. The project, part of the Koramangala Valley stormwater drain network, is plagued by sewage and garbage issues, leading to a foul smell and concerns about safety.  **MOD Foundation**, involved since the beginning, has completed 90% of the project but it remains unfinished due to lack of handover to the Greater Bengaluru Authority or corporation. While some sections are maintained periodically, the full potential of the project is hindered by governance issues and inadequate maintenance efforts.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 63299,
-      "title": "Dimpy Dhillon of AAP gets third-time lucky - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblBFWjhTT2d3LXNTZDFOanJMcjhTeVdXYkwtZ1VuRTc5NlBuTnpKbGdZX0xtZ2NGX2IyUU1ZT1J1UVN4Mk5XZGw0cXVwc1EwNnFXSDZDYXpEZEU5ZmRmYmFnRmJralJyaXpSRkpiTFR3QlVaQW5ZU1NDOTJGWGJ0SlpsWEJGOFota3Z3MQ?oc=5",
-      "source": "The Tribune",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThjODNjNWIwLWFhMDEtMTFlZi1hNjI2LWQ5ZDRhZTViZWQ1Ni5qcGc=",
-      "scraped_at": "2026-05-31 01:40:00.486653",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "AAP",
-      "rephrased_article": "**Dimpy Dhillon**, a leading transporter, won the Gidderbaha bypoll for **AAP**, defeating his nearest rival, **Amrita Waring** of the Congress.  Dhillon secured 71,644 votes, while Waring received 49,675. The victory marks the first AAP MLA from this constituency and follows a week-long postponement of the election. Dhillon's win is attributed to factors such as his previous losses in the area, public sympathy for him, development initiatives by the state government, and a strong campaign led by **CM Bhagwant Mann** and national convener **Arvind Kejriwal**.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "SAD"
-      ],
-      "ministers_mentioned": [
-        "Arvind Kejriwal"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 63289,
-      "title": "D K Shivakumar to take oath as Karnataka CM on May 31 or June 1",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeE5RUzlXUnRlNGxwWXpMdGhrZ3NqdDVxRXZjbGF2c21yTHBmQUFTaEo3QlQtU3kxZVdtcGdsT2syejF2UFN5bGFPMjRtVFhKLXc5TFEySkFlV3RUQ1BkUGJPYy1xbFlWSF85aW1GdWV3RlRJSlFwbXdGSjZMdGNycnZHamZuOHV6RWJveC1IWjZlQkRuTnNNellrdUlSMlBGY19XVlJ4cHgxMkFtZXpjS0NSYkdNYXc?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2F3jsbs66o%2Ffile86227g9uk6919vr7c8i1.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 01:39:30.787187",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "D K Shivakumar",
-      "rephrased_article": "**Congress** lawmakers are set to elect **D K Shivakumar** as their leader at a CLP meeting on Saturday, with **Siddaramaiah** expected to propose his candidacy.  The meeting will be overseen by **K C Venugopal** and **Randeep Singh Surjewala**, and is likely to involve discussions about the new Cabinet formation. The Congress high command is reportedly keen on having a larger say in the allocation of ministerial positions.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63245,
-      "title": "The political economy of cash transfers",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1NmVldyWTRLVnQtdW1UM1Q1YUFZcVkwYVZ2UmVVSDRhNWVqeEtmMmlKM2swRGZmekI0UXRLSXpRVHUyYlJEalltWnltVVdRUnNLUWY2UDlBUS1qcE9xVlJQd05XbmlzYnpybEhCeGtncG40SHRJOWJtQ09iRzhhOUNaN2ZxUDVIRmt3Xw?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fahcdh5gj%2Ffile8625mj01iyo1hphophvz.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 23:05:50.417393",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Government of India",
-      "rephrased_article": "**India's** budgetary allocation for unconditional cash transfers (UCT) has increased significantly, reaching 0.9% of GDP in 2026.  While **Government of India** officials and researchers warn that this expansion will increase future debt burdens and crowd out productive investment, the practice persists due to political incentives. The rise of UCT is driven by voter-targeted cash transfers, which have become a popular strategy for election campaigns. This trend has led to increased competition among parties, with promises of cash transfers becoming a key electoral tool.  However, critics argue that poorly designed UCT schemes fail to create long-term productive assets and can negatively impact fiscal sustainability.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Chhattisgarh",
-        "Jharkhand",
-        "Karnataka",
-        "Kerala",
-        "Odisha",
-        "Punjab",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 63242,
-      "title": "D K Shivakumar hails Siddaramaiah’s ‘unwavering commitment to social justice",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmNtNEZBNHFobHEtUjFrdEpVN2NsWDJuZTdOelFSZTgyclJwSldHRTVTYlFFbW5TWWs1X0NwUXRVM3BkVGxmWUxUaG9JSWk0Y3RVQVpPUkpCRlRXS2xwZzlxN1ZDbTUtdURZTGIzbTRBZjU0V05Pb2tqdUdGdm9CTmhRVUg1b3lqczFZaGUyclB2TVJ4aXVHZ1hMTkpINXFXbzAwVlJKdDVQcl9BTHV3YWtjcFNzM1JzT3pVRUZZV0RYTFZtRkE?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fvbd6m391%2Ffile861jwar8w2q1g57u5h9l.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 23:05:43.570408",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Siddaramaiah",
-      "rephrased_article": "**Deputy Chief Minister D K Shivakumar** praised **acting CM Siddaramaiah’s** political journey, highlighting his commitment to social justice and significant contributions to Karnataka's growth.  The Governor accepted **Siddaramaiah’s** resignation but asked him to continue until alternative arrangements are made. **Shivakumar** expressed admiration for **Siddaramaiah’s** leadership and pledged to continue learning from him as they work towards the state's progress.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63241,
-      "title": "Siddaramaiah introduces son Yathindra to Rahul, pushes for his inclusion in next dispensation",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWtQSzRzUUpzcklncnZKZ3JPWVRDYzBRQmxjODVqVkZlZnktS3JHQWJJNERiZDVyeTA5a1VmcWV3Ty13Y3d4Wmd5ZFNKbVR4aWFtekRNaUI1ZlFUNXY2cU1NanZLVGZUaEJYeENJOXdIZHNDSW12RmlkcExFdVBuUmlXcFdheFJiM1BoenJsNzhJNzJxbENJWjQxYkMwU1ZZMjFBM0tQTV8tZVhKS0t6SnhMWXdSckNzcFJiVmMxY1RHYnExbGEyWE00V1NKdGtVb1JBQjE4LThvQXBq?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-29%2Fp97oyols%2FSidduyathindra.jfif?rect=0%2C0%2C1395%2C732&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-30 23:05:39.787641",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Siddaramaiah",
-      "rephrased_article": "**Siddaramaiah**, the outgoing Chief Minister of Karnataka, met with **Rahul Gandhi** and other **Congress** leadership in New Delhi.  He resigned on Thursday and requested that his son, **Yathindra**, be accommodated in the next government. **Rahul Gandhi** reportedly assured him of this, while **K J George**, the outgoing Energy Minister, was present at the meeting. **Siddaramaiah** also met with **Mallikarjun Kharge**, the Congress president.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Rahul Gandhi",
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
     }
   ]
 }

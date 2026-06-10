@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 12:05:08.078112",
+  "generated_at": "2026-06-10 16:07:09.632623",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 569,
-    "articles_last_30d": 256
+    "total_articles": 572,
+    "articles_last_30d": 259
   },
   "top_cities_30d": {
-    "Delhi": 74,
-    "Amritsar": 26,
+    "Delhi": 75,
+    "Amritsar": 28,
     "Bengaluru": 19,
     "Mumbai": 18,
     "Ludhiana": 15,
@@ -24,11 +24,11 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 194,
-    "crime_violence": 79,
+    "foreign_policy": 197,
+    "crime_violence": 82,
+    "economy": 65,
     "education": 64,
-    "economy": 63,
-    "protest_opposition": 44,
+    "protest_opposition": 45,
     "infrastructure": 25,
     "health": 24,
     "farmer_agriculture": 20,
@@ -36,6 +36,92 @@
     "corruption_scam": 17
   },
   "recent_articles": [
+    {
+      "id": 67673,
+      "title": "Balochistan Liberation Front: PoK unrest: BLF chief backs resistance, accuses Pakistan of suppressing political rights - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pok-unrest-blf-chief-backs-resistance-accuses-pakistan-of-suppressing-political-rights/articleshow/131632714.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131632778,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-10 12:28:32.637795",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan",
+      "rephrased_article": "**Allah Nazar Baloch**, chief of the **Balochistan Liberation Front (BLF)**, criticized **Pakistan's** policies in Pakistan-occupied Jammu and Kashmir (PoJK), claiming that growing resistance reflects demands for rights and self-determination. He accused **Islamabad** of using repression to silence dissent and argued that \"Azad Kashmir\" is a facade masking continued control by Pakistani authorities. Baloch called for solidarity among oppressed groups, including Kashmiri, Pashtun, and Sindhi people, urging them to stand together against political subjugation. His remarks come amid unrest in PoJK following protests and a crackdown by **Pakistani** security forces that resulted in the deaths of 26 civilians.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "protest_opposition",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67666,
+      "title": "Akal Takht breaks deadlock, SGPC jatha heads to Pakistan after 14 years | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/pune-ammunition-factory-khadki-blast-civilian-labourer-killed-10731746/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/image-pd.jpg",
+      "scraped_at": "2026-06-10 12:27:24.122618",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "SGPC",
+      "rephrased_article": "**Kamaldeep Singh Brar**, a Principal Correspondent for **The Indian Express**, primarily covers the Amritsar and Majha regions of Punjab. His reporting focuses on religious issues, including sentences from the Akal Takht and the SGPC, as well as national security concerns like drug smuggling and drone activity.  Brar's recent work has included coverage of local elections, religious controversies, and criminal investigations involving Amritpal Singh. He is known for his nuanced understanding of border dynamics and his focus on the impact of addiction in marginalized communities.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67649,
+      "title": "Akal Takht breaks deadlock, SGPC jatha heads to Pakistan after 14 years | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/sgpc-sikh-jatha-pakistan-visit-guru-arjan-dev-martyrdom-anniversary-lahore-10731874/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/image-pd.jpg",
+      "scraped_at": "2026-06-10 12:25:47.629997",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "SGPC",
+      "rephrased_article": "**Kamaldeep Singh Brar**, a Principal Correspondent for **The Indian Express**, primarily covers Amritsar and the Majha region of Punjab. He is known for his expertise in religious and panthic affairs, including reporting on the Akal Takht, SGPC, and Sikh institutions. His recent work has focused on judicial developments, local body elections, and religious controversies. Brar also reports on national security issues, crime, regional politics, and human interest stories.",
+      "party_mentioned": [
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67549,
       "title": "IMD forecast: Delhi likely to cool down on June 11; heavy rain batters Kerala, Karnataka | India News - The Indian Express",
@@ -5535,75 +5621,6 @@
         "education",
         "infrastructure",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 61336,
-      "title": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging | Women News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_1-1-1779082709.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-05-24 07:34:44.669952",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Pakistan's women",
-      "rephrased_article": "Pakistan's women are increasingly participating in tent pegging, a traditionally male-dominated sport.  **Anum Shakoor**, **Eshal Ibrahim**, and **Noor un Nisa Malik**, members of the Bint-e-Zahra Club, have been making waves at melas, challenging traditional gender roles and gaining recognition for their skill. Despite facing social pressure and financial barriers, these women are pushing boundaries and demanding respect in a sport that has historically excluded them.  **Ayesha Khan** is another prominent female rider who has broken down barriers by competing against male riders and leading Pakistan's all-women tent pegging team. Social media has also played a role in raising awareness of women's participation, but some traditionalists remain resistant to their presence.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61219,
-      "title": "‘Clever and street-smart’: Police say Anmol did not employ anyone permanently - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002572/clever-and-street-smart-police-say-anmol-did-not-employ-anyone-permanently",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/23230130a7af503.webp",
-      "scraped_at": "2026-05-23 18:36:40.061440",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Anmol",
-      "rephrased_article": "**Anmol**, an alleged cocaine queenpin arrested in Karachi, operated a sophisticated drug network across Pakistan. She began her illicit activities after separating from her husband, **Rana Nasir**, who was also an alleged drug dealer.  She hired several associates to supply drugs and launder money through various methods, including using a network of 35 riders, a police officer, and foreign contacts. Police have seized properties and frozen bank accounts linked to Anmol, while investigations continue with the Punjab Police, NCCIA, FIA, ANF, and Nadra.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
-        "foreign_policy",
-        "infrastructure",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 61206,
-      "title": "Punjab CTD arrests 13 suspected terrorists in province-wide crackdown - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002529/punjab-ctd-arrests-13-suspected-terrorists-in-province-wide-crackdown",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/231652393436496.webp",
-      "scraped_at": "2026-05-23 17:09:34.106822",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "CTD",
-      "rephrased_article": "**The Punjab Counter Terrorism Department (CTD)** arrested 13 suspected terrorists belonging to banned organizations during week-long intelligence-based operations across the province. The suspects, including Khawarij Mukhtar Ahmed apprehended in Lahore with explosives, were allegedly planning to target law enforcement agencies.  **The CTD** registered 13 terrorism charges against the detainees and conducted 1,487 combing operations, resulting in 168 arrests, 153 FIRs, and 150 recoveries.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
       ]
     }
   ]
