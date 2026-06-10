@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 04:49:16.181092",
+  "generated_at": "2026-06-10 08:42:53.153539",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 480,
-    "articles_last_30d": 244
+    "total_articles": 482,
+    "articles_last_30d": 246
   },
   "top_cities_30d": {
     "Mumbai": 83,
-    "Delhi": 60,
+    "Delhi": 61,
     "Pune": 45,
     "Nashik": 15,
     "Kolkata": 14,
@@ -24,18 +24,81 @@
     "Ahmedabad": 8
   },
   "top_topics_30d": {
-    "foreign_policy": 166,
+    "foreign_policy": 168,
     "crime_violence": 64,
     "education": 60,
-    "infrastructure": 55,
-    "economy": 47,
-    "protest_opposition": 39,
-    "corruption_scam": 23,
+    "infrastructure": 56,
+    "economy": 48,
+    "protest_opposition": 40,
+    "corruption_scam": 24,
     "farmer_agriculture": 21,
     "health": 20,
     "political_gaffe": 14
   },
   "recent_articles": [
+    {
+      "id": 67550,
+      "title": "Daily Briefing: West Asia tensions hit India’s farms, exports and global supply chains | Live News - The Indian Express",
+      "url": "https://indianexpress.com/article/live-news/top-news-today-daily-briefing-west-asia-war-india-hit-farms-exports-10732363/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Newsletter-morning-expresso-Final-1600x900-2_20260608034351_20260609032841_20260610035711.jpg",
+      "scraped_at": "2026-06-10 04:06:25.612326",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** has surpassed **Jawaharlal Nehru** to become India’s longest-serving elected Prime Minister, marking a significant milestone in the country's political history.  The BJP-led National Democratic Alliance (NDA) is celebrating 12 years of power at the Centre and will commemorate this achievement with a resolution congratulating Modi on his record. Meanwhile, global fertilizer shortages are straining India’s supply chains, potentially increasing subsidy burdens and impacting agricultural productivity. Additionally, geopolitical tensions in West Asia are causing shipping disruptions for Indian exporters, raising concerns about competitiveness in global markets.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "AAP",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Pinarayi Vijayan"
+      ],
+      "states_mentioned": [
+        "Kerala",
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "economy",
+        "corruption_scam",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67548,
+      "title": "Residents want NHAI to take up elevated corridor between Madhavaram junction and Nallur toll plaza - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/residents-want-nhai-to-take-up-elevated-corridor-between-madhavaram-junction-and-nallur-toll-plaza/article71062386.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-10 04:06:21.633666",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "NHAI",
+      "rephrased_article": "**Residents** of Redhills, Ambattur, Puzhal, Gummidipoondi and surrounding areas are advocating for the construction of an elevated corridor from Nallur toll plaza to Madhavaram junction.  The **National Highways Authority of India (NHAI)** had previously planned to construct an elevated corridor along the median but later decided to hand over the stretch back to the **State Highways** due to land acquisition concerns. Social activist S. Suresh Babu and residents like K. Suklaprakash argue that an elevated corridor is necessary for improved connectivity and traffic management, citing the high volume of vehicles using the road daily. Advocate V. S. Suresh suggests widening the road, removing encroachments, creating parking spaces for trucks, and conducting a comprehensive study to address safety concerns.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Nitin Gadkari"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "infrastructure",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67506,
       "title": "‘50-year demand’ nears fulfilment as Zojila tunnel breakthrough brings Ladakh closer to all-weather connectivity | India News - The Indian Express",
@@ -50,7 +113,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Nitin Gadkari"
       ],
       "states_mentioned": [
@@ -5641,48 +5703,6 @@
       ],
       "topic_tags": [
         "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62618,
-      "title": "Kolhapur forms team of 10 transwomen for disaster management and rescue work - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/kolhapur-forms-team-of-10-transwomen-for-disaster-management-and-rescue-work/article71037444.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-30 03:47:40.185262",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Kolhapur Disaster Management Cell",
-      "rephrased_article": "**Kolhapur Disaster Management Cell** in Maharashtra has formed a ten-member rescue team comprised of transgender women, marking the first such initiative in the state. The training program, conducted by the cell, included practical knowledge on boat operation and lifesaving techniques. **Mayuri Alvekar**, Chief of the Maitri NGO, mobilized transwomen from her community for this role, emphasizing their physical strength and sensitivity as valuable assets in rescue operations.  The team is expected to assist with flood relief efforts during the monsoon season.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "health",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62530,
-      "title": "India, Canada launch trade & investment forum - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-launch-trade-investment-forum/articleshow/131397012.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131396997,width-1200,height-630,imgsize-93440,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-05-29 20:34:10.412574",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "India, Canada",
-      "rephrased_article": "**Goyal**, during his recent trade missions to Canada and the United States, emphasized the importance of enhancing connectivity and fostering business partnerships. He met with **Canadian International Trade Minister Maninder Sidhu**, business leaders in both countries, and prominent figures like **Ted Pick** (Morgan Stanley) and **Chip Kaye** (Warburg Pincus).  These engagements focused on expanding trade, investment, innovation, and supply chain collaborations to drive shared prosperity between the nations.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
         "foreign_policy"
       ]
     }

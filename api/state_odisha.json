@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 04:49:16.198316",
+  "generated_at": "2026-06-10 08:42:53.169767",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 346,
-    "articles_last_30d": 160
+    "total_articles": 349,
+    "articles_last_30d": 162
   },
   "top_cities_30d": {
-    "Delhi": 55,
+    "Delhi": 57,
+    "Bengaluru": 10,
     "Hyderabad": 10,
     "Kolkata": 10,
     "Chennai": 8,
-    "Bengaluru": 8,
     "Kanpur": 8,
     "Mumbai": 4,
     "Jaipur": 3,
@@ -24,18 +24,127 @@
     "Varanasi": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 98,
-    "education": 66,
+    "foreign_policy": 100,
+    "education": 65,
     "protest_opposition": 39,
     "crime_violence": 23,
-    "economy": 20,
+    "economy": 21,
     "infrastructure": 19,
     "corruption_scam": 19,
-    "health": 12,
+    "health": 13,
     "political_gaffe": 7,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67549,
+      "title": "IMD forecast: Delhi likely to cool down on June 11; heavy rain batters Kerala, Karnataka | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/health/study-glp-1-users-30-per-cent-less-likely-develop-breast-cancer-experts-10731115/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/monsoon-rain-weather.jpg",
+      "scraped_at": "2026-06-10 04:06:21.914636",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "IMD",
+      "rephrased_article": "**India Meteorological Department (IMD)** forecasts significant weather changes for Delhi-NCR and other parts of the country over the next three days. **Delhi** is expected to experience thunderstorms, dust storms, and rain, leading to a drop in temperatures from June 12 onwards.  The south will see widespread rainfall activity with Kerala receiving heavy downpours, while Karnataka is also likely to experience heavy rainfall throughout the week. Strong winds are anticipated across various regions, including Kerala, Karnataka, Lakshadweep, and parts of the Arabian Sea.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67527,
+      "title": "Jan Dhan Yojana To Ayushman Bharat: 5 Schemes That Marked PM Narendra Modi's 12 Years",
+      "url": "https://www.ndtv.com/india-news/jan-dhan-yojana-to-ayushman-bharat-5-schemes-that-marked-pm-narendra-modis-12-years-11615085#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ci6ppdes_pm-modi_625x300_10_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 04:05:05.327652",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** has served as India's longest continuously serving PM for 12 years, overseeing a series of government schemes that have significantly impacted the lives of millions.  These include the **Swachh Bharat Mission**, which built over 12 crore toilets and declared 753 districts Open Defecation Free, and the **Ayushman Bharat** program, providing free healthcare to over 44 crore people with 10 crore hospital admissions. Other notable schemes include the **Pradhan Mantri Jan Dhan Yojana (PMJDY)**, which aims to provide financial inclusion for unbanked adults, and the **Pradhan Mantri Awas Yojana (PMAY)**, which provides affordable housing for urban and rural poor.  These initiatives have transformed India's social and economic landscape.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "foreign_policy",
+        "health"
+      ]
+    },
+    {
+      "id": 67517,
+      "title": "IMD forecast: Delhi likely to cool down on June 11; heavy rain batters Kerala, Karnataka | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/rain-monsoon-kerala-karnataka-india-delhi-heatwave-thunderstorm-10732275/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/monsoon-rain-weather.jpg",
+      "scraped_at": "2026-06-10 04:04:45.281493",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "IMD",
+      "rephrased_article": "**The India Meteorological Department (IMD)** predicts weather changes for Delhi-NCR over the next three days, with thunderstorms, dust storms and rain expected to bring relief from scorching temperatures.  Maximum temperatures are forecast between 42 degrees Celsius and 44 degrees Celsius on June 10, with wind speeds reaching up to 60 kmph. The unstable weather is expected to continue through June 12, bringing two spells of rain and thunderstorms. **Kerala** will experience widespread rainfall activity from June 10 to June 14, with heavy downpours possible in some areas.  Strong winds are also anticipated across Kerala and Lakshadweep, raising concerns about rough weather conditions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67479,
       "title": "Do not want confrontation with Governor, but cannot compromise on State’s rights, says Tamil Nadu Higher Education Minister - The Hindu",
@@ -5434,101 +5543,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "corruption_scam"
-      ]
-    },
-    {
-      "id": 54701,
-      "title": "BJD asks Odisha Speaker to disqualify MLAs who cross-voted in Rajya Sabha election - The Hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/bjd-asks-odisha-speaker-to-disqualify-mlas-who-cross-voted-in-rajya-sabha-election/article70913039.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-04-27 16:12:06.265136",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJD",
-      "rephrased_article": "The **Biju Janata Dal (BJD)** has demanded the disqualification of eight Odisha MLAs who voted against the party's decision in the March 16 Rajya Sabha election. The BJD, citing the Tenth Schedule, argues that these MLAs violated party directives and should be disqualified for defying the whip.  The MLAs, however, maintain their actions were constitutional and claim the move is an attempt to pressure them into submission. **Surama Padhy**, the Odisha Assembly Speaker, is currently examining the BJD's formal complaint.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Janata Dal",
-        "BJD",
-        "Biju Janata Dal"
-      ],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "Himachal Pradesh",
-        "Odisha"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 54655,
-      "title": "West Bengal election 2026: Mood of Bengal suggests BJP victory in polls, will return during oath-taking ceremony: PM Modi - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-pm-modi-rally-in-barrackpore-april-27-2026/article70911273.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8bi0l2/article70911313.ece/alternates/LANDSCAPE_1200/PTI04_27_2026_000035B.jpg",
-      "scraped_at": "2026-04-27 09:45:15.494118",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Prime Minister Narendra Modi** addressed a rally in Barrackpore, West Bengal on the final day of campaigning for the Assembly elections. He expressed confidence that the **BJP** would form the next government and asserted his intention to return for the oath-taking ceremony after May 4th.  **Modi** accused the ruling **TMC** of presiding over “syndicate raj”, political violence, and economic decline, while promising employment opportunities for youth and a focus on restoring West Bengal's prosperity. He also appealed to Matua voters, assuring them of citizenship rights and protection against illegal infiltration.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Odisha",
-        "West Bengal",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 54644,
-      "title": "Weather tracker: Torrential rain in southern China leads to flooding fears | Extreme weather | The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/27/weather-tracker-torrential-rain-southern-china-flooding-fears-india-heatwave-canada-cold",
-      "source": "The Guardian",
-      "image_url": "https://i.guim.co.uk/img/media/79226c1c3a2587a11ff445d6f4a3e5a4a0cf19af/178_0_5355_4284/master/5355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5e1f925646ffbf4950f19e58f7260f4",
-      "scraped_at": "2026-04-27 09:40:16.715046",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Weather",
-      "rephrased_article": "**Widespread heavy rainfall** is impacting southern China, with **the Office of the State Flood Control and Drought Relief Headquarters** and the **Ministry of Emergency Management** urging preparedness for potential flooding.  Torrential rain is also forecast in Bangladesh, northern Myanmar, and parts of India, while central and northern India are experiencing extreme heat waves with temperatures exceeding 45°C. Heavy rainfall has caused damage in Nigeria, particularly in Jalingo, due to poor drainage infrastructure. Unseasonably cold weather is affecting western Canada, with daytime temperatures below freezing in Calgary, Edmonton, and Saskatoon.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Haryana",
-        "Manipur",
-        "Nagaland",
-        "Odisha",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Surat"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 04:49:16.224476",
+  "generated_at": "2026-06-10 08:42:53.194175",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1159,
-    "articles_last_30d": 306
+    "total_articles": 1167,
+    "articles_last_30d": 313
   },
   "top_cities_30d": {
-    "Chennai": 72,
-    "Delhi": 49,
+    "Chennai": 76,
+    "Delhi": 52,
     "Coimbatore": 24,
-    "Bengaluru": 19,
-    "Hyderabad": 16,
+    "Bengaluru": 21,
+    "Hyderabad": 17,
     "Madurai": 12,
     "Mumbai": 12,
     "Kolkata": 3,
@@ -24,18 +24,237 @@
     "Thane": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 199,
+    "foreign_policy": 203,
     "protest_opposition": 71,
-    "education": 59,
+    "education": 58,
     "crime_violence": 49,
     "economy": 46,
     "infrastructure": 35,
     "corruption_scam": 28,
-    "political_gaffe": 22,
+    "political_gaffe": 23,
     "farmer_agriculture": 21,
     "health": 20
   },
   "recent_articles": [
+    {
+      "id": 67549,
+      "title": "IMD forecast: Delhi likely to cool down on June 11; heavy rain batters Kerala, Karnataka | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/lifestyle/health/study-glp-1-users-30-per-cent-less-likely-develop-breast-cancer-experts-10731115/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/monsoon-rain-weather.jpg",
+      "scraped_at": "2026-06-10 04:06:21.914636",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "IMD",
+      "rephrased_article": "**India Meteorological Department (IMD)** forecasts significant weather changes for Delhi-NCR and other parts of the country over the next three days. **Delhi** is expected to experience thunderstorms, dust storms, and rain, leading to a drop in temperatures from June 12 onwards.  The south will see widespread rainfall activity with Kerala receiving heavy downpours, while Karnataka is also likely to experience heavy rainfall throughout the week. Strong winds are anticipated across various regions, including Kerala, Karnataka, Lakshadweep, and parts of the Arabian Sea.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67535,
+      "title": "How do you intend to appoint Director of Prosecution? Madras High Court asks T.N. Govt - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/how-do-you-intend-to-appoint-director-of-prosecution-madras-high-court-asks-tn-govt/article71080485.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bdyt62/article71083268.ece/alternates/LANDSCAPE_1200/Madras-High-CouGV3FR6K5T.4.jpg.jpg",
+      "scraped_at": "2026-06-10 04:05:42.416277",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "The **Madras High Court** granted a two-week extension to the **Tamil Nadu government** to provide details on its appointment procedures for Director, Deputy Director, and Assistant Director positions in the Prosecution department. The court's decision followed a writ petition filed by five Additional and Assistant Public Prosecutors who challenged Section 20 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), arguing that it allows appointments to these posts without prior experience as public prosecutors.  The petitioners also sought statutory rules for future appointments and an injunction against appointing individuals outside the regular cadre of prosecuting officers.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67534,
+      "title": "Weather today live updates imd weather forecast delhi ncr up noida heatwave warnings High Speed Winds Hit Delhi, Temperatures Continue To Soar",
+      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-heatwave-warnings-high-speed-winds-hit-delhi-temperatures-continue-to-soar-11615043#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/tldr5bjo_delhi-weather_625x300_10_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 04:05:38.429431",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "IMD",
+      "rephrased_article": "**India Meteorological Department (IMD)** forecast partly cloudy skies for Wednesday with the possibility of thunderstorms and lightning at isolated places in Delhi.  The **IMD** also warned of strong surface winds reaching up to 50 kmph in Tamil Nadu, Puducherry, and Karaikal during thunderstorm activity. **Regional Meteorological Centre (RMC)** in Chennai predicted widespread rainfall across Tamil Nadu, Puducherry, and Karaikal over the next few days under the influence of a low-pressure system. Heavy rain is expected at isolated locations in the hill areas of Tirunelveli district and the hill areas of Theni and Kanniyakumari districts.  The **IMD** also reported heavy rainfall disrupting traffic in Hyderabad due to thunderstorms and lightning, resulting in two electrocutions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Telangana",
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67529,
+      "title": "Bharathiraja, ace film director, passes away - The Hindu",
+      "url": "https://www.thehindu.com/entertainment/movies/ace-tamil-film-director-bharathiraja-passes-away-june-10-2026/article71083344.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/n9kihv/article71083346.ece/alternates/LANDSCAPE_1200/DSC_3794.JPG",
+      "scraped_at": "2026-06-10 04:05:18.558491",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Bharathiraja",
+      "rephrased_article": "**Bharathiraja**, a renowned Tamil film director, passed away on June 10, 2026, at the age of 84.  He was known for his distinctive rural filmmaking style and iconic opening line \"Yen Iniya Tamil Makkale\".  The filmmaker, who won numerous awards including six National Film Awards, introduced several new actors in Tamil cinema, such as Radikaa, Revathi, Radha, Ranjitha, and Rekha. **Bharathiraja** also had a close association with composers Ilaiyaraaja and Gangai Amaran, and was instrumental in the formation of the Tamilar Kalai Ilakkiya Panpadu Maiyam to advocate for the Cauvery Management Board.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67520,
+      "title": "Bharathiraja passes away | Tributes pour in for Tamil cinema's transformative voice - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/irregular-collection-of-garbage-leads-to-proliferation-of-blackspots-in-bengaluru/article71072886.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lv2313/article71083381.ece/alternates/LANDSCAPE_1200/111.JPG",
+      "scraped_at": "2026-06-10 04:04:56.226993",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Bharathiraja",
+      "rephrased_article": "**Bharathiraja**, a renowned Tamil film director, passed away in Chennai on June 10, 2026, at the age of 84.  He was celebrated for his contributions to shifting Tamil cinema from studio-bound filmmaking to authentic rural landscapes and for his iconic opening line, \"Yen Iniya Tamil Makkale.\" **Bharathiraja** won six National Film Awards, four Filmfare Awards (South), six Tamil Nadu State Film Awards, and a Nandi Award. He was instrumental in introducing several new actors into the industry, including Radikaa, Revathi, Radha, Ranjitha, and Rekha.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 67517,
+      "title": "IMD forecast: Delhi likely to cool down on June 11; heavy rain batters Kerala, Karnataka | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/rain-monsoon-kerala-karnataka-india-delhi-heatwave-thunderstorm-10732275/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/monsoon-rain-weather.jpg",
+      "scraped_at": "2026-06-10 04:04:45.281493",
+      "category": "environment",
+      "sentiment": "neutral",
+      "sentiment_target": "IMD",
+      "rephrased_article": "**The India Meteorological Department (IMD)** predicts weather changes for Delhi-NCR over the next three days, with thunderstorms, dust storms and rain expected to bring relief from scorching temperatures.  Maximum temperatures are forecast between 42 degrees Celsius and 44 degrees Celsius on June 10, with wind speeds reaching up to 60 kmph. The unstable weather is expected to continue through June 12, bringing two spells of rain and thunderstorms. **Kerala** will experience widespread rainfall activity from June 10 to June 14, with heavy downpours possible in some areas.  Strong winds are also anticipated across Kerala and Lakshadweep, raising concerns about rough weather conditions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Andaman",
+        "Lakshadweep"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67516,
+      "title": "Bharathiraja passes away | Tributes pour in for Tamil cinema's transformative voice - The Hindu",
+      "url": "https://www.thehindu.com/entertainment/movies/bharathiraja-tamil-nadu-film-cinema-director-passes-away-chennai-hospital-reactions-updates-june-10-2026/article71083374.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/lv2313/article71083381.ece/alternates/LANDSCAPE_1200/111.JPG",
+      "scraped_at": "2026-06-10 04:04:44.851417",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Bharathiraja",
+      "rephrased_article": "**Bharathiraja**, a renowned Tamil film director, passed away in Chennai on June 10, 2026, at the age of 84. He was celebrated for his contributions to Tamil cinema, including shifting filmmaking from studio settings to authentic rural landscapes and introducing new actors with names starting with \"R.\"  **Bharathiraja** won numerous awards, including six National Film Awards and four Filmfare Awards (South). His passing is mourned by the film industry and fans.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": []
+    },
+    {
+      "id": 67511,
+      "title": "Iniya Thamizh makkale, the master director is no more - The Hindu",
+      "url": "https://www.thehindu.com/entertainment/movies/bharathiraja-obituary-iniya-thamizh-makkale-the-master-director-is-no-more/article71083386.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/833yjq/article71083371.ece/alternates/LANDSCAPE_1200/19.JPG",
+      "scraped_at": "2026-06-10 04:04:35.832084",
+      "category": "other",
+      "sentiment": "positive",
+      "sentiment_target": "Bharathiraja",
+      "rephrased_article": "**Bharathiraja**, a legendary Tamil film director, passed away on June 10, 2026, at the age of 84.  Known for launching numerous actors and directors, he was celebrated for his rural-themed films that brought a fresh perspective to Tamil cinema. **Bharathiraja's** iconic works like \"16 Vayadhinile\" and \"Sigappu Rojakkal\" pushed the boundaries of filmmaking and explored social issues with depth. He mentored several talented individuals who went on to become successful directors, including **K. Bhagyaraj**.  His influence continues to be felt in contemporary Tamil cinema, as his films remain timeless testaments to his artistic vision.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67499,
       "title": "Vijay to attend NITI Aayog Governing Council meeting in Delhi - The Hindu",
@@ -50,7 +269,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Nirmala Sitharaman"
       ],
       "states_mentioned": [
@@ -5323,213 +5541,6 @@
       "topic_tags": [
         "economy",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 62190,
-      "title": "T.N. Congress forms committee to look into allegations of anti-party activities - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-forms-committee-to-look-into-allegations-of-anti-party-activities/article71030477.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-27 22:46:42.123721",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Tamil Nadu Congress Committee",
-      "rephrased_article": "**K. Jayakumar**, head of the **Tamil Nadu Congress Committee** fact-finding committee, announced an investigation into allegations of anti-party activities by party workers during the recent Assembly elections. The committee will investigate complaints and present a report in 60 days.  The AICC has empowered the committee to gather feedback from stakeholders and ensure such behavior doesn't occur in future. Some party leaders expressed skepticism about the committee's findings, questioning its effectiveness given past alliances with the Tamilaga Vettri Kazhagam (TVK).",
-      "party_mentioned": [
-        "Congress",
-        "AIADMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 62186,
-      "title": "Temperatures across T.N. to remain within limits: RMC - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/temperatures-across-tn-to-remain-within-limits-rmc/article71030339.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/k966be/article71030906.ece/alternates/LANDSCAPE_1200/4871_27_4_2026_15_19_52_1_DSC_7175.JPG",
-      "scraped_at": "2026-05-27 22:45:38.053440",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Regional Meteorological Centre (RMC)",
-      "rephrased_article": "**Regional Meteorological Centre (RMC)** forecasts temperatures across Tamil Nadu will remain within normal limits for the next three days, with only isolated pockets in north interior parts experiencing a slight increase of 2-3 degrees Celsius.  The **Chennai city** and northern districts are expected to have maximum temperatures around 40-41 degrees Celsius on Thursday.  Heavy rain is forecast for several districts including Nilgiris, Coimbatore, Tiruppur, Dindigul, Theni, Virudhunagar, Tenkasi, Tirunelveli, Kanyakumari, Vellore, Tirupattur, Krishnagiri, Dharmapuri, Salem, and Erode.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu",
-        "Puducherry"
-      ],
-      "cities_mentioned": [
-        "Chennai",
-        "Coimbatore"
-      ],
-      "topic_tags": [
-        "health",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 62166,
-      "title": "Thirumavalavan calls upon VCK cadre to “let go and move on” - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/thirumavalavan-calls-upon-vck-cadre-to-let-go-and-move-on/article71030085.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-27 19:45:40.403323",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Viduthalai Chiruthaigal Katchi (VCK)",
-      "rephrased_article": "**Thol. Thirumavalavan**, founder of the **Viduthalai Chiruthaigal Katchi (VCK)**, addressed supporters after DMK leaders criticized the party for joining the Tamilaga Vettri Kazhagam-led state government's Cabinet.  He explained that he made the decision to join the Cabinet based on assessments of potential vote shifts and alliances following the Assembly elections. **Thirumavalavan** acknowledged criticisms from some DMK leaders, but emphasized the VCK's contribution to the alliance over the past decade and urged supporters to focus on strengthening their party. He also stated that the VCK's vote share has been transferred to its alliance partners.",
-      "party_mentioned": [
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 62164,
-      "title": "Rest still a favour, not a right, for retail-staff in Chennai - The Hindu",
-      "url": "https://www.thehindu.com/news/national/rest-still-a-favour-not-a-right-for-retail-staff-in-chennai/article70917511.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/7b1x6d/article70917493.ece/alternates/LANDSCAPE_1200/1000355729.jpg",
-      "scraped_at": "2026-05-27 19:44:58.906266",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "employers",
-      "rephrased_article": "**Kajal**, **Mahe**, **Meena**, and **Yasmin** all work long hours in retail stores across Chennai, but many lack proper seating arrangements despite a 2021 amendment to the Shops and Establishments Act.  While some establishments provide limited seating options, others neglect this legal provision entirely, forcing employees like **John** from Manipur and those at the Express Avenue mall to stand for extended periods. Despite the law requiring employers to provide suitable seating for employees, many retail workers continue to experience discomfort and pain due to long hours of standing without adequate rest opportunities.  The lack of enforcement and support from labor inspectors has left these workers struggling to meet their basic needs.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Manipur",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 62154,
-      "title": "Will file curative petition against youngster’s acquittal from 2017 Mugalivakkam child sexual assault-cum-murder case, T.N. govt. tells Madras High Court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/will-file-curative-petition-against-youngsters-acquittal-from-2017-mugalivakkam-child-sexual-assault-cum-murder-case-tn-govt-tells-madras-high-court/article71030497.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ib3qow/article71028932.ece/alternates/LANDSCAPE_1200/IMG_Madras_High_Court_Bu_2_1_36DLVMFJ.jpg",
-      "scraped_at": "2026-05-27 19:41:38.252661",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Tamil Nadu government",
-      "rephrased_article": "**Tamil Nadu** government announced its intention to file a curative petition against the Supreme Court's acquittal of an engineering graduate accused of sexually assaulting and murdering a seven-year-old girl in 2017. The **Madras High Court** recorded the government's submission after a writ petition was filed by advocate S. Venkatesh, who sought a direction to file the curative petition.  The case has been ongoing since 2017 when the accused was sentenced to death by a Chengalpattu court and later confirmed by the **Madras High Court**. The Supreme Court then acquitted him in October 2025.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Chennai",
-        "Madurai"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 62146,
-      "title": "Tamil Nadu Information Commission pulls up PIO for delaying information under RTI Act - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/info-panel-pulls-up-pio-for-delaying-information-under-rti-act/article71030595.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-27 19:32:37.134404",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Public Information Officer",
-      "rephrased_article": "**The Tamil Nadu Information Commission (TNIC)** imposed a ₹10,000 penalty on officials at the Chief Educational Officer's office in Chennai for failing to provide information requested under the Right to Information Act. **E.L. Sagayaraj**, an information commissioner, found that the Public Information Officer did not respond within 30 days and provided no valid explanation for the delay. The TNIC also ordered the PIO to explain why a maximum penalty of ₹25,000 should not be levied and disciplinary action taken against her.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Chennai"
-      ],
-      "topic_tags": [
-        "education"
-      ]
-    },
-    {
-      "id": 62102,
-      "title": "CPI(M), CPI: India's communists once ruled millions. What happened to them?",
-      "url": "https://www.bbc.com/news/articles/cwy2gr1rpnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e8a4/live/9e369c20-5472-11f1-97ab-4b256b476233.jpg",
-      "scraped_at": "2026-05-27 18:31:45.258463",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "CPI(M)",
-      "rephrased_article": "India's communist parties, once dominant in several states, have lost their grip on power. The defeat of the Communist Party of India (Marxist)-led Left Democratic Front (LDF) in Kerala marks a significant shift, ending one of the world's longest-running experiments in democratic communism. While the party has seen its influence diminish across various regions, it remains politically relevant in Kerala and continues to hold onto some support in other states like Tamil Nadu. The decline is attributed to factors including economic stagnation, changing political landscapes, and a shift towards identity politics. Despite these challenges, the CPI (M) insists on adapting to the modern economy and seeks to revitalize its presence within the Indian political landscape.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "CPI"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Bihar",
-        "Kerala",
-        "Tamil Nadu",
-        "Tripura",
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "farmer_agriculture",
-        "education",
-        "economy"
-      ]
-    },
-    {
-      "id": 62098,
-      "title": "TNEA gets over 2.6 lakh applications so far - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tnea-gets-over-26-lakh-applications-so-far/article71030341.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-27 18:30:52.690634",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "TNEA",
-      "rephrased_article": "**Tamil Nadu Engineering Admissions (TNEA)** has received over 2.6 lakh applications for the 2026 admissions cycle, with a significant number of candidates completing the payment and certificate uploading processes. The deadline for application registration is approaching rapidly, with Day 25 marking an important milestone in the process.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education"
       ]
     }
   ]
