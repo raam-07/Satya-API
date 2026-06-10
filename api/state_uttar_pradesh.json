@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 16:07:09.670070",
+  "generated_at": "2026-06-10 18:42:53.989073",
   "state": "Uttar Pradesh",
   "capital": "Lucknow",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": 0.8,
   "party_confidence": null,
   "stats": {
-    "total_articles": 455,
-    "articles_last_30d": 219
+    "total_articles": 458,
+    "articles_last_30d": 221
   },
   "top_cities_30d": {
     "Delhi": 72,
-    "Lucknow": 36,
+    "Lucknow": 35,
     "Ghaziabad": 13,
     "Mumbai": 12,
     "Bengaluru": 11,
@@ -24,18 +24,103 @@
     "Meerut": 6
   },
   "top_topics_30d": {
-    "foreign_policy": 156,
-    "crime_violence": 88,
-    "education": 57,
+    "foreign_policy": 158,
+    "crime_violence": 87,
+    "education": 58,
     "protest_opposition": 49,
-    "economy": 37,
+    "economy": 36,
     "infrastructure": 26,
-    "farmer_agriculture": 14,
-    "corruption_scam": 13,
+    "farmer_agriculture": 13,
     "health": 13,
-    "rape_sexual_crime": 10
+    "corruption_scam": 12,
+    "political_gaffe": 12
   },
   "recent_articles": [
+    {
+      "id": 67750,
+      "title": "Watch: U.S. and Iran exchange strikes in major escalation | Above the Fold | 10.06.2026 - The Hindu",
+      "url": "https://www.thehindu.com/videos/watch-us-and-iran-exchange-strikes-in-major-escalation-above-the-fold-10062026/article71086161.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/d9ccu5/article71086108.ece/alternates/LANDSCAPE_1200/June%2010%20THUMB.png",
+      "scraped_at": "2026-06-10 16:26:20.358188",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "U.S.",
+      "rephrased_article": "**Iran** is retaliating against **U.S.** military facilities, escalating tensions in West Asia. The **Congress** is facing a battle over **Meenakshi Natarajan’s** Rajya Sabha nomination. **Mamata Banerjee** met with **Sonia Gandhi**.",
+      "party_mentioned": [
+        "Congress",
+        "TMC"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67742,
+      "title": "UPSC subject-wise quiz: Polity and Governance (Week 166)",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2027-polity-quiz-week-166-10731843/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Panchayat-Advancement-Index.jpg",
+      "scraped_at": "2026-06-10 16:25:44.870003",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "UPSC",
+      "rephrased_article": "The **Panchayat Advancement Index (PAI)** is used to assess the performance of local bodies in rural governance, with a focus on areas like infrastructure, livelihoods, and social justice. The **Parliament** has exclusive power to make laws on matters not listed in the Concurrent List or State List, including taxes not mentioned in those lists.  The **Council of States** is not subject to dissolution but members retire every second year.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67726,
+      "title": "Meenakshi Natarajan Row And Congress' Article 324 Demand. What It Is",
+      "url": "https://www.ndtv.com/india-news/meenakshi-natarajan-row-and-congress-article-324-demand-what-it-is-11618805#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/rl0513js_meenakshi-natarajan_625x300_09_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 16:24:58.563325",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission (EC)",
+      "rephrased_article": "**Congress** leader Meenakshi Natarajan's Rajya Sabha nomination was rejected for nondisclosure of a pending court case. The party is urging the **Election Commission (EC)** to use its powers under Article 324 to overturn the Returning Officer's decision, arguing that the alleged omission does not warrant disqualification.  The EC has the power to oversee elections and ensure free and fair processes, but experts question whether this provision can override specific legal provisions or be used as a substitute for existing remedies like Election Petitions. The EC is currently examining the Congress' representation and seeking the Returning Officer's report before making a decision.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Smriti Irani"
+      ],
+      "states_mentioned": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Telangana"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67683,
       "title": "Indian-origin billionaire announces Dh1m aid for UAE road crash victims: 6 Indians among 7 dead | World News - The Times of India",
@@ -5752,93 +5837,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 60805,
-      "title": "Fake call centres duping U.S. citizens busted in Bengaluru, man from Delhi, another from U.P. arrested - The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/fake-call-centres-duping-us-citizens-busted-in-bengaluru-two-arrested/article71005531.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/a5lztr/article71005786.ece/alternates/LANDSCAPE_1200/IMG_27SM_agony_3_1_FM8MVD5A.jpg",
-      "scraped_at": "2026-05-22 01:33:45.733259",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "other",
-      "rephrased_article": "**Karnataka State Cyber Command** officials raided four fake call centers in Bengaluru, uncovering a sophisticated operation that defrauded U.S. citizens by impersonating a prominent American accounting firm. The accused, Prashanth and Akash, allegedly collected millions of rupees from victims through fake tax advice, license renewal services, and counterfeit software keys.  The investigation revealed the use of shell companies to launder money and a network of over 120 employees trained to deceive victims using US accents. **Pronab Mohanty**, Director General of Cyber Command, stated that further investigations will focus on tracing the money trail and identifying bank accounts used in the fraud.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 60528,
-      "title": "Modi, Shah are traitors who are attacking the Constitution, says Rahul at Rae Bareli meet - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/modi-shah-are-traitors-who-are-attacking-the-constitution-says-rahul-at-rae-bareli-meet/article71002954.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jrqigu/article71003714.ece/alternates/LANDSCAPE_1200/PTI05_20_2026_000198B.jpg",
-      "scraped_at": "2026-05-20 21:02:35.346080",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Rahul Gandhi**, leader of the **Congress** party, criticized **Prime Minister Narendra Modi** and **Union Home Minister Amit Shah**, accusing them of attacking the Constitution and supporting industrialists. He also warned of an impending economic crisis, stating that it would disproportionately affect ordinary citizens while benefiting those in power.  Gandhi unveiled a statue of Veera Pasi in Rae Bareli, highlighting his party's renewed focus on the community. He further criticized the BJP government over land acquisition policies and unemployment rates, vowing to fight for the rights of the people.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "economy",
-        "foreign_policy",
-        "farmer_agriculture",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 59618,
-      "title": "Mayawati demands extensive relief for storm victims in Uttar Pradesh - The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-demands-extensive-relief-for-storm-victims-in-uttar-pradesh/article70987319.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/8dbxy/article70988160.ece/alternates/LANDSCAPE_1200/PTI03_31_2026_000099A.jpg",
-      "scraped_at": "2026-05-16 17:08:42.222557",
-      "category": "other",
-      "sentiment": "positive",
-      "sentiment_target": "Mayawati",
-      "rephrased_article": "**Mayawati**, president of the Bahujan Samaj Party, called on the **Uttar Pradesh** government to provide extensive support to families affected by recent storms and heavy rain that have caused at least 111 deaths. She urged the government to help people rebuild their lives after the destruction of property and loss of life.",
-      "party_mentioned": [
-        "BSP",
-        "Bahujan Samaj Party"
-      ],
-      "ministers_mentioned": [
-        "Mayawati"
-      ],
-      "states_mentioned": [
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
         "foreign_policy"
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 16:07:09.650386",
+  "generated_at": "2026-06-10 18:42:53.971673",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1169,
-    "articles_last_30d": 313
+    "total_articles": 1170,
+    "articles_last_30d": 312
   },
   "top_cities_30d": {
     "Chennai": 77,
@@ -24,18 +24,46 @@
     "Thane": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 203,
+    "foreign_policy": 202,
     "protest_opposition": 70,
     "education": 57,
     "crime_violence": 49,
     "economy": 47,
     "infrastructure": 35,
     "corruption_scam": 28,
-    "political_gaffe": 24,
+    "political_gaffe": 25,
     "farmer_agriculture": 21,
     "health": 19
   },
   "recent_articles": [
+    {
+      "id": 67742,
+      "title": "UPSC subject-wise quiz: Polity and Governance (Week 166)",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2027-polity-quiz-week-166-10731843/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Panchayat-Advancement-Index.jpg",
+      "scraped_at": "2026-06-10 16:25:44.870003",
+      "category": "education",
+      "sentiment": "neutral",
+      "sentiment_target": "UPSC",
+      "rephrased_article": "The **Panchayat Advancement Index (PAI)** is used to assess the performance of local bodies in rural governance, with a focus on areas like infrastructure, livelihoods, and social justice. The **Parliament** has exclusive power to make laws on matters not listed in the Concurrent List or State List, including taxes not mentioned in those lists.  The **Council of States** is not subject to dissolution but members retire every second year.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Telangana",
+        "Uttar Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67605,
       "title": "Mocked online, tested in ministry: As Hyundai bets on Tamil Nadu, Keerthana has last laugh | Political Pulse News - The Indian Express",
@@ -5511,27 +5539,6 @@
       ],
       "topic_tags": [
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 62251,
-      "title": "CM Vijay’s signature suit: Has Tamil Nadu’s new Chief Minister sparked a blazer trend? - The Hindu",
-      "url": "https://www.thehindu.com/life-and-style/fashion/cm-vijays-signature-suit-has-tamil-nadus-new-chief-minister-sparked-a-blazer-trend/article71011676.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/x8b2bf/article71011713.ece/alternates/LANDSCAPE_1200/TH13-Aravind-TaGATFVRDAQ.5.jpg.jpg",
-      "scraped_at": "2026-05-28 04:58:34.387708",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "CM Vijay",
-      "rephrased_article": "**C Joseph Vijay**, the new Chief Minister of Tamil Nadu, has made a bold fashion statement by consistently wearing blazers instead of traditional white shirts and veshtis.  Inspired by a viral shopping offer advertising a \"CM Vijay Look\" for ₹3,999, some are considering adopting this style, though it comes with a significant price tag.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

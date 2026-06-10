@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 16:07:09.632623",
+  "generated_at": "2026-06-10 18:42:53.953933",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 572,
+    "total_articles": 574,
     "articles_last_30d": 259
   },
   "top_cities_30d": {
-    "Delhi": 75,
+    "Delhi": 74,
     "Amritsar": 28,
     "Bengaluru": 19,
     "Mumbai": 18,
@@ -29,13 +29,62 @@
     "economy": 65,
     "education": 64,
     "protest_opposition": 45,
-    "infrastructure": 25,
-    "health": 24,
+    "health": 25,
+    "infrastructure": 24,
     "farmer_agriculture": 20,
     "political_gaffe": 19,
     "corruption_scam": 17
   },
   "recent_articles": [
+    {
+      "id": 67737,
+      "title": "Himachal receives nearly 2,790 tonnes of urea ahead of kharif | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/himachal-pradesh-urea-consignment-kharif-paddy-season-fertiliser-10733601/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/urea.jpg",
+      "scraped_at": "2026-06-10 16:25:30.565360",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Himachal Pradesh Government",
+      "rephrased_article": "**Saurabh Parashar**, an Assistant Editor at **The Indian Express**, focuses on the socio-political landscape of **Himachal Pradesh**. His reporting covers topics such as drug trafficking, environmental issues, and governance challenges in the state. Recent articles include investigations into the impact of Chitta on border areas and the implications of the Shimla ropeway project for forest conservation.  **Parashar**'s expertise in law and his familiarity with remote regions make him a valuable resource for covering complex issues in **Himachal Pradesh**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67711,
+      "title": "8-Year-Old Girl, Out To Buy Milk, Mauled To Death By Stray Dogs In Punjab",
+      "url": "https://www.ndtv.com/india-news/8-year-old-girl-out-to-buy-milk-mauled-to-death-by-stray-dogs-in-punjab-11618930#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/801i2nv4_stray-attack_625x300_10_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 16:24:21.762275",
+      "category": "other",
+      "sentiment": "negative",
+      "sentiment_target": "Authorities",
+      "rephrased_article": "An **8-year-old girl** from a migrant family in Morinda, Punjab, tragically died after being attacked by a pack of stray dogs. The incident occurred on Wednesday afternoon while the child was buying milk.  CCTV footage shows the dogs relentlessly attacking her as she struggled to escape. Residents have long complained about the increasing stray dog population and lack of action from authorities despite existing Supreme Court guidelines.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Punjab",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "economy",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67673,
       "title": "Balochistan Liberation Front: PoK unrest: BLF chief backs resistance, accuses Pakistan of suppressing political rights - The Times of India",
@@ -5572,54 +5621,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61349,
-      "title": "More facts surface ahead of high profile One Constitution project case hearing - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002704/more-facts-surface-ahead-of-high-profile-one-constitution-project-case-hearing",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/241119157246417.webp",
-      "scraped_at": "2026-05-24 09:33:52.532648",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Islamabad High Court",
-      "rephrased_article": "The **Islamabad High Court** is set to resume hearing the One Constitution project, with new details emerging regarding a 2012 arbitration award between **Abdul Hafeez Sheikh** of M BNP and **Nadeem Zia Pirzada** of M/s Paragon. The agreement stipulated that BNP would hold 75% ownership with Sheikh and 25% with Pirzada, subject to a forensic audit.  The court record also includes a petition concerning a dispute between BNP and the Bank of Punjab, signed by Ejazul Ahsan who later became a judge of the Supreme Court. Notably, Ahsan was part of the IHC bench that restored the controversial lease of the One Constitution Avenue project.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "corruption_scam",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61337,
-      "title": "Karachi Museum of History to be built by the seaside - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002626/karachi-museum-of-history-to-be-built-by-the-seaside",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/240310367a389be.webp",
-      "scraped_at": "2026-05-24 07:35:02.685612",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Karachi Museum of History",
-      "rephrased_article": "A groundbreaking ceremony was held at Clifton's Beach View Park for the Karachi Museum of History, a landmark cultural and educational space. **Sindh Chief Minister Syed Murad Ali Shah**, **Karachi Mayor Barrister Murtaza Wahab**, and representatives from the **Citizens Archive of Pakistan (CAP)** were among those present. The museum aims to preserve and celebrate Sindh's history and the Pakistan independence movement through storytelling, technology, archival material, and interactive experiences.  **Sharmeen Obaid-Chinoy**, CAP Patron-in-Chief, spearheaded the project, envisioning a space that honors Karachi's diverse heritage and resilience.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "infrastructure",
         "foreign_policy"
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 16:07:09.677570",
+  "generated_at": "2026-06-10 18:42:53.996370",
   "state": "Uttarakhand",
   "capital": "Dehradun",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 94,
-    "articles_last_30d": 55
+    "total_articles": 96,
+    "articles_last_30d": 57
   },
   "top_cities_30d": {
     "Delhi": 26,
@@ -18,24 +18,75 @@
     "Amritsar": 3,
     "Chennai": 2,
     "Mumbai": 2,
+    "Prayagraj": 2,
+    "Lucknow": 2,
     "Pune": 1,
-    "Kanpur": 1,
-    "Indore": 1,
-    "Bhopal": 1
+    "Kanpur": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 46,
-    "crime_violence": 17,
+    "foreign_policy": 47,
+    "crime_violence": 18,
     "education": 11,
+    "health": 9,
     "protest_opposition": 8,
-    "health": 8,
-    "rape_sexual_crime": 6,
+    "rape_sexual_crime": 7,
     "economy": 6,
-    "farmer_agriculture": 5,
+    "farmer_agriculture": 6,
     "infrastructure": 3,
     "political_gaffe": 3
   },
   "recent_articles": [
+    {
+      "id": 67737,
+      "title": "Himachal receives nearly 2,790 tonnes of urea ahead of kharif | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/himachal-pradesh-urea-consignment-kharif-paddy-season-fertiliser-10733601/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/urea.jpg",
+      "scraped_at": "2026-06-10 16:25:30.565360",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Himachal Pradesh Government",
+      "rephrased_article": "**Saurabh Parashar**, an Assistant Editor at **The Indian Express**, focuses on the socio-political landscape of **Himachal Pradesh**. His reporting covers topics such as drug trafficking, environmental issues, and governance challenges in the state. Recent articles include investigations into the impact of Chitta on border areas and the implications of the Shimla ropeway project for forest conservation.  **Parashar**'s expertise in law and his familiarity with remote regions make him a valuable resource for covering complex issues in **Himachal Pradesh**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "farmer_agriculture",
+        "health",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67713,
+      "title": "‘Filed fake POCSO case against Swami Avimukteshwaranand’: Complainant’s U-turn | Lucknow News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/lucknow/ashutosh-brahmachari-maharaj-claims-fake-pocso-case-shankaracharya-avimukteshwaranand-conspiracy-10733537/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/02/Swami-Avimukteshwaranand-Saraswati-at-Sangam_20260217111749.jpg",
+      "scraped_at": "2026-06-10 16:24:25.212499",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Swami Avimukteshwaranand Saraswati",
+      "rephrased_article": "**Ashutosh Brahmachari Maharaj**, who previously accused **Swami Avimukteshwaranand Saraswati** of sexual harassment, has retracted his complaint and claimed he was misled by **Mahant Ramchandra Das**.  He alleges that Das planned the false case against Saraswati. **Das**, in response, demanded legal action against Maharaj and refuted his claims. The special court ordered police to lodge an FIR under the POCSO Act, while the Allahabad High Court granted anticipatory bail to Saraswati and others.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Uttarakhand"
+      ],
+      "cities_mentioned": [
+        "Lucknow",
+        "Allahabad",
+        "Prayagraj"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67415,
       "title": "Woman, 55, Mauled To Death By Leopard In Uttarakhand, Wild Cat Shot Dead",

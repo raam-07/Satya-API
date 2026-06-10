@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 16:07:09.691856",
+  "generated_at": "2026-06-10 18:42:54.010372",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,305 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1383,
-    "articles_last_30d": 792
+    "total_articles": 1392,
+    "articles_last_30d": 800
   },
   "top_cities_30d": {
-    "Delhi": 784,
-    "Mumbai": 84,
+    "Delhi": 792,
+    "Mumbai": 86,
     "Bengaluru": 61,
     "Kolkata": 47,
     "Hyderabad": 37,
     "Chennai": 33,
-    "Jaipur": 20,
+    "Jaipur": 21,
     "Pune": 16,
-    "Kanpur": 15,
-    "Ahmedabad": 14
+    "Ahmedabad": 15,
+    "Kanpur": 15
   },
   "top_topics_30d": {
-    "foreign_policy": 574,
-    "crime_violence": 245,
-    "education": 163,
-    "economy": 150,
-    "protest_opposition": 147,
+    "foreign_policy": 579,
+    "crime_violence": 248,
+    "education": 165,
+    "protest_opposition": 151,
+    "economy": 149,
     "corruption_scam": 76,
-    "infrastructure": 73,
-    "political_gaffe": 47,
+    "infrastructure": 72,
+    "political_gaffe": 48,
     "health": 40,
-    "rape_sexual_crime": 22
+    "rape_sexual_crime": 23
   },
   "recent_articles": [
+    {
+      "id": 67746,
+      "title": "Sukhendu Sekhar Ray distances himself from TMC rebel group - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/sukhendu-sekhar-ray-distances-himself-from-tmc-rebel-group/article71085365.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/msbbwc/article71086182.ece/alternates/LANDSCAPE_1200/Parliament_Session_H.jpg",
+      "scraped_at": "2026-06-10 16:26:01.042244",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Sukhendu Sekhar Ray",
+      "rephrased_article": "**Sukhendu Sekhar Ray**, former TMC Chief Whip in the Rajya Sabha, resigned from his Upper House seat on Monday and praised colleagues who rebelled against **Mamata Banerjee** and her nephew, **Abhishek Banerjee**.  He clarified that he was unaware of a meeting with other rebels at actor-turned-politician **Shatabdi Roy's** residence before joining them for 30-40 minutes. Ray also stated his support for the rebellion but did not attend the meeting. He expressed hope for the new BJP government in West Bengal and acknowledged past harassment he faced within the TMC, prompting him to consider leaving politics altogether.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee"
+      ],
+      "states_mentioned": [
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "rape_sexual_crime",
+        "protest_opposition",
+        "crime_violence",
+        "education"
+      ]
+    },
+    {
+      "id": 67743,
+      "title": "Majority of workers with NCP(SP) official faction, claim leaders - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/majority-of-workers-with-ncpsp-official-faction-claim-leaders/article71085781.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/y30a6z/article71086179.ece/alternates/LANDSCAPE_1200/80968_10_6_2026_15_49_8_1_7O3A8977.JPEG",
+      "scraped_at": "2026-06-10 16:25:51.586845",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "NCP(SP)",
+      "rephrased_article": "**P.M. Suresh Babu**, the new **NCP(SP)** State president, stated that a majority of party workers in Kerala remain loyal to the central leadership despite a split within the organization.  He refuted claims by a rival faction led by former Minister **A.K. Saseendran** and **Thomas K. Thomas**, stating that these allegations are baseless as **Supriya Sule**, the working president, attended the INDIA bloc meeting in New Delhi.  Babu asserted that the Kerala unit will stand firm with the Left front and reject attempts to induct the rival faction into the front.",
+      "party_mentioned": [
+        "Congress",
+        "SP",
+        "NCP",
+        "Nationalist Congress"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Kerala",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67740,
+      "title": "After viral video of elderly man beaten for objecting to spitting, Maharashtra Deputy CM seeks FIR | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/thane-elderly-man-assaulted-spitting-eknath-shinde-10733483/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Mumbai-old-man-beaten-up-1.jpg",
+      "scraped_at": "2026-06-10 16:25:40.151065",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Maharashtra Deputy CM",
+      "rephrased_article": "An elderly man was allegedly assaulted by a driver after he objected to the driver spitting on a road near Jupiter Hospital in Thane. **Deputy Chief Minister Eknath Shinde** directed police to investigate an attempt-to-murder charge against the accused, who was later assaulted by local Shiv Sena and MNS workers. The incident sparked outrage and demands for action from leaders across party lines. Police are currently investigating the case.",
+      "party_mentioned": [
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Eknath Shinde"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Thane"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67733,
+      "title": "'No Merger With Congress': Trinamool Rebel Leader Ritabrata Banerjee Claims Support Of 64 MLAs",
+      "url": "https://www.ndtv.com/india-news/no-merger-with-congress-trinamool-rebel-leader-ritabrata-banerjee-claims-support-of-64-mlas-11618261#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/emclvavg_ritabrata-banerjee-_625x300_03_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 16:25:20.410727",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Ritabrata Banerjee**, leader of a rebel faction within the **Trinamool Congress (TMC)**, denies any merger plans with the **Congress party**. He claims his camp now supports 64 MLAs who are preparing to formally submit a letter to the Assembly Speaker.  **Adhir Ranjan Chowdhury**, a senior Congress leader, denies knowledge of any such talks. Meanwhile, **Sushmita Dev**, a Rajya Sabha MP and former TMC member, has resigned from both positions and plans to work in Assam. The rebel faction is seeking separate seating arrangements and meeting with BJP leaders, sparking speculation about potential merger with the NDA.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67722,
+      "title": "3 Indians Missing After Attack On Ship Off Oman Coast: Centre",
+      "url": "https://www.ndtv.com/world-news/3-indians-missing-after-attack-on-ship-off-oman-coast-centre-11618773#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-04/m9nepf1o_strait-of-hormuz-_625x300_06_April_26.jpg",
+      "scraped_at": "2026-06-10 16:24:43.195611",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**India's Ministry of External Affairs** confirmed that 21 Indian sailors were rescued after an attack on a commercial vessel off the coast of Oman. The **missile strike** damaged the engine room of the oil tanker Settebello, near the Strait of Hormuz, and three crew members remain missing.  The incident is suspected to be linked to ongoing US naval operations targeting Iranian shipping.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67717,
+      "title": "Rajasthan Congress: After Ashok Gehlot's Outburst, Sachin Pilot's Message On \"Restraint\"",
+      "url": "https://www.ndtv.com/india-news/rajasthan-congress-after-ashok-gehlots-outburst-sachin-pilots-message-on-restraint-11618852#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/9d0d5ir_ashok-gehlot-sachin-pilot_625x300_09_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 16:24:33.472147",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Sachin Pilot",
+      "rephrased_article": "**Sachin Pilot**, former Rajasthan Chief Minister, emphasized patience, restraint, and humility in politics at a Karauli farmers' conference. He recalled his father's courage against godman Chandraswami's influence in the 1990s and stressed that public life should be guided by truth, principles, and courage. **Ashok Gehlot**, former Rajasthan Chief Minister, had previously made statements about Pilot and the September 2022 showdown, which did not allow a change of guard in the state. **Ramesh Meena**, former Congress minister, criticized Gehlot's allegations against MLAs who sided with Pilot, calling for a narco-analysis test to expose the truth.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Ashok Gehlot"
+      ],
+      "states_mentioned": [
+        "Rajasthan",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Jaipur"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67710,
+      "title": "Air India crash: Sumeet Sabharwal's father vows to defend son's reputation ahead of report",
+      "url": "https://www.bbc.com/news/articles/cj0gj911060o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5bea/live/da3ed330-64b3-11f1-a758-750f2ac1a6ce.jpg",
+      "scraped_at": "2026-06-10 16:24:15.076171",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Sumeet Sabharwal",
+      "rephrased_article": "**Air India** crash pilot's father, Pushkar Raj Sabharwal, vows to defend his son's reputation as investigators prepare to release an update on their findings.  Sabharwal, a retired aviation safety officer, expressed his commitment to protecting his son's legacy despite media reports suggesting the senior pilot in the cockpit may have played a role in the crash. The preliminary report from India's Aircraft Accident Investigation Bureau (AAIB) found that fuel control switches had moved to the \"cut-off\" position shortly after take-off, depriving the engines of fuel.  Sabharwal maintains his son was devoted to his family and deeply respected by colleagues and friends.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67707,
+      "title": "At NDA Meet On Completing 12 Years, PM Narendra Modi's 'Congress Growth Rate' Jab",
+      "url": "https://www.ndtv.com/india-news/at-nda-meet-on-completing-12-years-pm-narendra-modis-congress-growth-rate-jab-11618958#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/3mfnk018_modi_625x300_10_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 16:24:10.772553",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Prime Minister Narendra Modi** highlighted his government's achievements during 12 years in office, emphasizing the end of Congress dominance and a shift to rapid development. He attributed the growth to the NDA rule, contrasting it with the \"Congress Growth Rate\" characterized by stagnation and lack of progress. **Modi** also praised his government's actions on issues like Article 370 abolition, Northeast peace restoration, counter-terrorism operations, and social reforms. The BJP passed a resolution praising **Modi**'s leadership and vowing to continue people-centric development.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67704,
+      "title": "US diplomat found dead in Myanmar, Thai woman in custody | Crime News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a29759cec165-1781101981.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-06-10 16:24:09.316200",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "US diplomat",
+      "rephrased_article": "A **US** diplomat serving at the US Embassy in Yangon has been found dead, according to the **US Department of State**.  The department declined to provide further details about the circumstances surrounding the death. Three members of the diplomatic community in Yangon say Myanmar police are treating the death as a possible murder and that a Thai woman is in custody. The **Thai** Foreign Ministry said it has provided consular assistance to the woman but would not comment further.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi",
+        "PM Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67673,
       "title": "Balochistan Liberation Front: PoK unrest: BLF chief backs resistance, accuses Pakistan of suppressing political rights - The Times of India",
@@ -5509,249 +5780,6 @@
       ],
       "topic_tags": [
         "crime_violence"
-      ]
-    },
-    {
-      "id": 65929,
-      "title": "Delhi court flags economic abuse as man pays no child support for 10 years, orders maintenance | Legal News - The Indian Express",
-      "url": "https://indianexpress.com/article/legal-news/delhi-court-economic-abuse-man-child-support-10-years-maintenance-10726043/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Delhi-court-maintenance-economic-abuse.jpg",
-      "scraped_at": "2026-06-06 05:38:21.760494",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Delhi court",
-      "rephrased_article": "A **Delhi** court ordered a man to pay Rs 6,000 per month in maintenance to his minor son.  The court found that the husband's claim of unemployment and other financial responsibilities did not absolve him from supporting his child, noting that maintenance is intended to prevent destitution and vagrancy. The judge rejected the husband's argument that the wife was capable of earning and emphasized that actual earnings are distinct from educational qualifications.  The court also found that the trial court erred in dismissing the wife's complaint under the Protection of Women from Domestic Violence Act, 2005.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65926,
-      "title": "Nilgiri Tahr population rises to 1,364 in Tamil Nadu, 4.68% rise over ’25 | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/nilgiri-tahr-population-rises-to-1364-in-tamil-nadu-4-68-rise-over-25-10726383/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/nilgiris_20260606001209.png",
-      "scraped_at": "2026-06-06 01:32:01.359261",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Nilgiri Tahr",
-      "rephrased_article": "The **Tamil Nadu Forest Department** conducted a synchronized population estimation exercise for the Nilgiri Tahr, resulting in an estimated 1,364 individuals, representing a 4.68% increase from last year. The study, conducted across 14 forest divisions from April 24-27, 2026, showed Pollachi Forest Division had the highest population with 438 individuals, followed by Udhagai Division of the Mudumalai Tiger Reserve and Tiruppur division.  The Nilgiri Tahr is an endangered species found exclusively in the Southern Western Ghats and plays a vital role in nutrient cycling in high-altitude mountain ecosystems.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Tamil Nadu",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65925,
-      "title": "US has deported more than 4,600 Indians in last 17 months: Ministry of External Affairs | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/us-has-deported-more-than-4600-indians-in-last-17-months-ministry-of-external-affairs-10726390/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/MEA-randhir_20260319202117_20260417235346_20260606002232.jpg",
-      "scraped_at": "2026-06-06 01:31:58.512136",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "US",
-      "rephrased_article": "**The US** has deported more than 4,600 Indian nationals in the last 17 months since President Trump took office. **India's Ministry of External Affairs** confirmed these figures, stating that a total of 1,076 Indians were deported to India this year and over 4,600 have been deported since January 2017.  The issue of immigration is a political hot button for the Trump administration, with **India** emphasizing its obligation to take back its nationals living illegally abroad, subject to verification of their nationality.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65911,
-      "title": "Cockroach Janta Party Protest Live Updates: CJP Leader Abhijeet Dipke Landing Time, Protest at Delhi Jantar Mantar Today Latest Updates",
-      "url": "https://indianexpress.com/article/india/cockroach-janata-party-protest-live-updates-demonstration-at-jantar-mantar-tomorrow-demand-for-dharmendra-pradhans-resignation-10726103/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Cockroach-Janta-Party.jpg",
-      "scraped_at": "2026-06-05 23:21:41.520762",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Dharmendra Pradhan",
-      "rephrased_article": "The **Cockroach Janta Party (CJP)**, a social media-driven movement founded by Boston University graduate Abhijeet Dipke, is holding a protest at Delhi’s Jantar Mantar on June 6th demanding the resignation of Union Education Minister Dharmendra Pradhan. The protest was announced through the party's X handle and has garnered support from figures like social activist Sonam Wangchuk and actor Prakash Raj.  The Delhi High Court declined to grant an urgent hearing on a PIL seeking crowd control measures for the event, while the **Delhi Police** have deployed over 1,000 personnel as a precautionary measure. The CJP claims it has attracted millions of supporters across social media platforms and is calling for Pradhan's removal from the Union Cabinet.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 65910,
-      "title": "Moving fast to close ‘open-ends’; first tranche of India-US trade deal by mid-July: Piyush Goyal | Business News - The Indian Express",
-      "url": "https://indianexpress.com/article/business/india-us-bilateral-trade-tariffs-piyush-goyal-10726135/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Piyush-Goyal-1.jpg",
-      "scraped_at": "2026-06-05 23:21:39.874175",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "India-US trade deal",
-      "rephrased_article": "**Piyush Goyal**, India's Commerce Minister, announced that the country and the **US** will sign the initial phase of their trade agreement by mid-July.  **Donald Trump**, US President, stated that a deal is in progress and he has confidence in the relationship between the two countries. The **Office of the United States Trade Representative (USTR)** led a delegation to India from June 1st to 4th to discuss the trade agreement. Experts warn that Section 301 tariffs are more powerful than previous measures, giving the USTR wide powers to impose restrictions and retaliate against unfair trade practices.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 65905,
-      "title": "TMC parliamentary split ‘just a matter of time’: As Mamata fights back, cracks grow | Political Pulse News - The Indian Express",
-      "url": "https://indianexpress.com/article/political-pulse/tmc-parliamentary-split-matter-of-time-as-mamata-fights-back-cracks-grow-10726163/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/tmc-mamata-abhishek-banerjee-3.jpg_e894b0.jpeg",
-      "scraped_at": "2026-06-05 23:21:29.866653",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Mamata Banerjee",
-      "rephrased_article": "**Mamata Banerjee** is facing growing dissent within the **Trinamool Congress (TMC)**, with 60 of its 80 MLAs in West Bengal signaling rebellion.  Senior TMC leader Sukhendu Sekhar Roy believes a similar reaction could occur in the Lok Sabha, where the party has 28 MPs and faces potential defections under anti-defection laws. The rebel faction is seeking to retain **Mamata Banerjee** as chairperson of the party, while others within the party are calling for her removal from leadership positions.  The situation remains fluid with some rebels expressing a desire to remain under **Mamata Banerjee's** leadership but disagreeing with Abhishek Banerjee's role as national general secretary.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition",
-        "corruption_scam",
-        "education"
-      ]
-    },
-    {
-      "id": 65904,
-      "title": "Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/penguin-pulls-plug-on-joe-saccos-book-on-muzaffarnagar-riots-10726350/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/P1-sacco-3col.jpg",
-      "scraped_at": "2026-06-05 23:21:22.666622",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Joe Sacco",
-      "rephrased_article": "**Penguin Random House India** has pulled the distribution of Joe Sacco's graphic novel, \"The Once and Future Riot,\" which chronicles the 2013 Muzaffarnagar communal clashes. The publisher cited concerns about an inaccurate map and content questions raised during legal scrutiny.  While the book is available online through UK-based wholesalers, some South Delhi bookstores have imported copies directly from the UK. **Ritu Sarin**, Executive Editor (News and Investigations) at **The Indian Express** group, has been involved in investigative journalism on topics like offshore leaks and corruption.",
-      "party_mentioned": [
-        "INC"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 65901,
-      "title": "Cockroach Janta Party founder Dipke lands in Delhi today, police prepare for protest | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/business/banking-and-finance/differential-rates-on-deposits-beyond-rbi-norms-not-acceptable-says-governor-10726351/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/5Dipke_20260605222314.jpg",
-      "scraped_at": "2026-06-05 23:21:18.368443",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Dharmendra Pradhan**, **Amit Shah**, and **Narendra Modi** are among the VIPs targeted by a protest planned for Saturday in New Delhi. The \"Cockroach Janta Party\" (CJP) group, led by Abhijeet Dipke, is calling for the Education Minister's resignation, citing concerns about education system issues.  The CJP has requested permission to hold a protest at Jantar Mantar and police are prepared to grant it after taking an undertaking. The Delhi Police have deployed additional personnel to manage potential disruptions and ensure public order during the protest.",
-      "party_mentioned": [
-        "AAP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Punjab",
-        "Delhi",
-        "Ladakh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "education"
-      ]
-    },
-    {
-      "id": 65892,
-      "title": "After initial denial, CBSE invited ethical hacker to plug gaps in IT system - The Hindu",
-      "url": "https://www.thehindu.com/education/after-initial-denial-cbse-invited-ethical-hacker-to-plug-gaps-in-it-system/article71065390.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/latest-news/xqvops/article71067295.ece/alternates/LANDSCAPE_1200/Nisarga.jpg",
-      "scraped_at": "2026-06-05 23:20:47.191633",
-      "category": "education",
-      "sentiment": "neutral",
-      "sentiment_target": "CBSE",
-      "rephrased_article": "**Central Board of Secondary Education (CBSE)** invited ethical hacker **Nisarga Adhikary**, 19, to help address security vulnerabilities in its IT ecosystem.  A team of cybersecurity experts from the Indian Institutes of Technology (IITs) worked for two weeks at the CBSE headquarters, patching critical vulnerabilities found in the OSM portal and the re-evaluation portal. The IIT teams identified seven to eight critical vulnerabilities, including an authentication bypass and unauthorized administrative access, in the portals developed by **COEMPT Eduteck**.  The team also discovered that the external vendor had severely misconfigured cloud storage buckets, keeping unsecured backups of student answer scripts on their servers.  To address these issues, the IIT experts set up a \"Red Team versus Blue Team\" dynamic to test and defend the portals. The CBSE has issued an advisory to departments to consider cybersecurity hygiene when hiring tech vendors.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kanpur"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education"
       ]
     }
   ]
