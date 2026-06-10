@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 21:19:05.934317",
+  "generated_at": "2026-06-10 23:02:43.686833",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,8 +8,8 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 290,
-    "articles_last_30d": 175
+    "total_articles": 291,
+    "articles_last_30d": 176
   },
   "top_cities_30d": {
     "Delhi": 59,
@@ -18,17 +18,17 @@
     "Ahmedabad": 16,
     "Mumbai": 14,
     "Chennai": 12,
-    "Hyderabad": 8,
+    "Hyderabad": 9,
     "Kolkata": 7,
     "Pune": 6,
     "Ludhiana": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 121,
-    "education": 44,
+    "foreign_policy": 122,
+    "education": 45,
     "crime_violence": 27,
+    "protest_opposition": 27,
     "infrastructure": 26,
-    "protest_opposition": 26,
     "economy": 23,
     "political_gaffe": 16,
     "health": 15,
@@ -36,6 +36,48 @@
     "corruption_scam": 9
   },
   "recent_articles": [
+    {
+      "id": 67824,
+      "title": "Trinamool Congress: \"No Trinamool Without Mamata Banerjee\": Sagarika Ghose To NDTV",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-no-trinamool-without-mamata-banerjee-sagarika-ghose-to-ndtv-11619244#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-07/a65hjs6g_sagarika-ghose_625x300_25_July_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 21:38:35.905818",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "The **Trinamool Congress** is facing a severe internal crisis following resignations from senior figures and open rebellion.  **MP Sagarika Ghose** stated that the party cannot exist without **Mamata Banerjee**, while criticizing the BJP for weaponizing state agencies to intimidate opposition members. **Abhishek Banerjee** met with **Rahul Gandhi** to discuss the INDIA bloc, while **Sushmita Dev** resigned from the Rajya Sabha and the party, expressing admiration for **Himanta Biswa Sarma**.  Senior Trinamool figures dismissed speculation of a merger with the Congress.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NCP",
+        "CPM",
+        "RJD",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67764,
       "title": "Tamil Nadu Chief Minister Vijay Meets Sonia, Rahul Gandhi In Delhi",
@@ -52,9 +94,7 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi"
       ],
       "states_mentioned": [
@@ -5861,30 +5901,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
-      ]
-    },
-    {
-      "id": 54006,
-      "title": "10 of 26 petitioners caught in Russia-Ukraine crossfire dead; some volunteered, others duped, government tells Supreme Court - The Hindu",
-      "url": "https://www.thehindu.com/news/national/10-of-26-petitioners-caught-in-russia-ukraine-crossfire-dead-some-volunteered-others-duped-govt-tells-sc/article70901516.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9x86l8/article70903365.ece/alternates/LANDSCAPE_1200/TH18-Vijiaita-2GQNFATHSN.4.jpg.jpg",
-      "scraped_at": "2026-04-24 22:44:39.703983",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Union government",
-      "rephrased_article": "The **Union government** informed the Supreme Court that 10 of the 26 individuals who claimed to have been \"human-trafficked\" to fight in Ukraine are deceased.  **Additional Solicitor General Aishwarya Bhati** stated that the government is pursuing a multi-pronged strategy, including advising young people against traveling to Russia, while acknowledging cases of individuals being misled by agents. The court expressed concern over bringing back the remains from the conflict zone and requested a detailed status report.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Himachal Pradesh",
-        "Punjab",
-        "Rajasthan"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

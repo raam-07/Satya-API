@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 21:19:05.944754",
+  "generated_at": "2026-06-10 23:02:43.697485",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1173,
-    "articles_last_30d": 315
+    "total_articles": 1174,
+    "articles_last_30d": 316
   },
   "top_cities_30d": {
     "Chennai": 80,
     "Delhi": 53,
     "Coimbatore": 24,
     "Bengaluru": 21,
-    "Hyderabad": 17,
+    "Hyderabad": 18,
     "Madurai": 12,
     "Mumbai": 12,
     "Kolkata": 3,
@@ -24,9 +24,9 @@
     "Thane": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 202,
-    "protest_opposition": 71,
-    "education": 57,
+    "foreign_policy": 203,
+    "protest_opposition": 72,
+    "education": 58,
     "crime_violence": 49,
     "economy": 47,
     "infrastructure": 35,
@@ -36,6 +36,48 @@
     "health": 19
   },
   "recent_articles": [
+    {
+      "id": 67824,
+      "title": "Trinamool Congress: \"No Trinamool Without Mamata Banerjee\": Sagarika Ghose To NDTV",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-no-trinamool-without-mamata-banerjee-sagarika-ghose-to-ndtv-11619244#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-07/a65hjs6g_sagarika-ghose_625x300_25_July_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 21:38:35.905818",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "The **Trinamool Congress** is facing a severe internal crisis following resignations from senior figures and open rebellion.  **MP Sagarika Ghose** stated that the party cannot exist without **Mamata Banerjee**, while criticizing the BJP for weaponizing state agencies to intimidate opposition members. **Abhishek Banerjee** met with **Rahul Gandhi** to discuss the INDIA bloc, while **Sushmita Dev** resigned from the Rajya Sabha and the party, expressing admiration for **Himanta Biswa Sarma**.  Senior Trinamool figures dismissed speculation of a merger with the Congress.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NCP",
+        "CPM",
+        "RJD",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67775,
       "title": "Ex AIADMK Minister P Benjamin, Supporters Join DMK",
@@ -52,7 +94,7 @@
         "AIADMK"
       ],
       "ministers_mentioned": [
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [],
       "cities_mentioned": [
@@ -78,9 +120,7 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi"
       ],
       "states_mentioned": [
@@ -111,8 +151,7 @@
         "AIADMK"
       ],
       "ministers_mentioned": [
-        "M.K. Stalin",
-        "Stalin"
+        "M.K. Stalin"
       ],
       "states_mentioned": [],
       "cities_mentioned": [
@@ -5516,28 +5555,6 @@
         "crime_violence",
         "rape_sexual_crime",
         "corruption_scam"
-      ]
-    },
-    {
-      "id": 62358,
-      "title": "PDS rice laden lorry overturns on hill road near Gudiyatham - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/pds-rice-laden-lorry-overturns-on-hill-road-near-gudiyatham/article71033811.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/72did1/article71034801.ece/alternates/LANDSCAPE_1200/lorry-13.jpg",
-      "scraped_at": "2026-05-28 22:03:01.552095",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "A ** lorry** carrying 35 tonnes of PDS rice overturned on a hill road in Paradarami village near Gudiyatham, Tamil Nadu. The driver, **G. Sivakumar**, lost control of the vehicle after encountering wet and slippery conditions caused by recent rainfall.  The driver was injured and treated at the Government Taluk Hospital in Gudiyatham. Police inspected the scene and lifted the overturned lorry to a safer location.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

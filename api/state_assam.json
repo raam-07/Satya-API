@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 21:19:05.824617",
+  "generated_at": "2026-06-10 23:02:43.576118",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,7 +8,7 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 322,
+    "total_articles": 323,
     "articles_last_30d": 91
   },
   "top_cities_30d": {
@@ -16,8 +16,8 @@
     "Kolkata": 6,
     "Mumbai": 4,
     "Chennai": 4,
+    "Hyderabad": 4,
     "Bengaluru": 4,
-    "Hyderabad": 3,
     "Jaipur": 3,
     "Varanasi": 1,
     "Meerut": 1,
@@ -25,17 +25,59 @@
   },
   "top_topics_30d": {
     "foreign_policy": 65,
-    "economy": 23,
-    "crime_violence": 21,
-    "education": 17,
+    "economy": 22,
+    "crime_violence": 20,
+    "education": 18,
     "protest_opposition": 16,
-    "infrastructure": 12,
+    "infrastructure": 11,
     "farmer_agriculture": 8,
     "political_gaffe": 6,
     "corruption_scam": 5,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67824,
+      "title": "Trinamool Congress: \"No Trinamool Without Mamata Banerjee\": Sagarika Ghose To NDTV",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-no-trinamool-without-mamata-banerjee-sagarika-ghose-to-ndtv-11619244#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-07/a65hjs6g_sagarika-ghose_625x300_25_July_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 21:38:35.905818",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "The **Trinamool Congress** is facing a severe internal crisis following resignations from senior figures and open rebellion.  **MP Sagarika Ghose** stated that the party cannot exist without **Mamata Banerjee**, while criticizing the BJP for weaponizing state agencies to intimidate opposition members. **Abhishek Banerjee** met with **Rahul Gandhi** to discuss the INDIA bloc, while **Sushmita Dev** resigned from the Rajya Sabha and the party, expressing admiration for **Himanta Biswa Sarma**.  Senior Trinamool figures dismissed speculation of a merger with the Congress.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NCP",
+        "CPM",
+        "RJD",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67747,
       "title": "Second Trinamool MP quits Rajya Sabha - The Hindu",
@@ -5853,51 +5895,6 @@
         "economy",
         "education",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 49093,
-      "title": "Assam Assembly election 2026: Curtains down on high-voltage campaign - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-2026-curtains-down-on-high-voltage-campaign/article70834669.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/sg97nj/article70834762.ece/alternates/LANDSCAPE_1200/20260407255L.jpg",
-      "scraped_at": "2026-04-07 14:15:37.682570",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "The Assam Assembly elections concluded on April 7, with voters casting their ballots for the state's 126 seats. **Prime Minister Narendra Modi**, **Union Home Minister Amit Shah**, and other BJP leaders campaigned against the opposition Congress, accusing it of promoting infiltrators and failing to address development issues. The Congress countered by highlighting corruption allegations against the ruling party and promising justice for singer Zubeen Garg if elected. Prominent candidates include Chief Minister Himanta Biswa Sarma, Gaurav Gogoi (Congress), Badruddin Ajmal (AIUDF), and Debabrata Saikia (opposition).  The elections will be held in a single phase on April 9th.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "AAP",
-        "TMC",
-        "CPI",
-        "AIMIM",
-        "Owaisi",
-        "JMM",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Nirmala Sitharaman",
-        "Yogi Adityanath",
-        "Rahul Gandhi",
-        "Priyanka Gandhi",
-        "Hemant Soren",
-        "Nitin Gadkari",
-        "Asaduddin Owaisi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Jharkhand",
-        "Odisha",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam"
       ]
     }
   ]

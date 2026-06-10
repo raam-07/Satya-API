@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 21:19:05.952541",
+  "generated_at": "2026-06-10 23:02:43.705102",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,34 +8,67 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 558,
-    "articles_last_30d": 182
+    "total_articles": 559,
+    "articles_last_30d": 180
   },
   "top_cities_30d": {
-    "Hyderabad": 67,
-    "Delhi": 27,
-    "Bengaluru": 20,
+    "Hyderabad": 66,
+    "Delhi": 28,
+    "Bengaluru": 21,
     "Mumbai": 11,
     "Chennai": 9,
     "Kolkata": 5,
-    "Bhopal": 3,
+    "Bhopal": 4,
     "Kanpur": 3,
     "Ludhiana": 2,
     "Amritsar": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 102,
-    "economy": 33,
+    "foreign_policy": 100,
+    "economy": 32,
     "education": 30,
-    "infrastructure": 30,
-    "crime_violence": 30,
-    "political_gaffe": 24,
+    "infrastructure": 29,
+    "crime_violence": 29,
+    "political_gaffe": 25,
     "protest_opposition": 18,
     "farmer_agriculture": 16,
     "health": 15,
-    "rape_sexual_crime": 11
+    "rape_sexual_crime": 10
   },
   "recent_articles": [
+    {
+      "id": 67801,
+      "title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g6fcp/article71086571.ece/alternates/LANDSCAPE_1200/20260610058L.jpg",
+      "scraped_at": "2026-06-10 21:37:18.591976",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Chief Minister Mohan Yadav** of **Madhya Pradesh** accused the **Congress** of deliberately sabotaging **Meenakshi Natarajan's** nomination for a Rajya Sabha seat, alleging that it was part of an attempt to secure the seat themselves.  The nomination was rejected by the Returning Officer based on allegations of undisclosed information in her form, which led to **Mahesh Kewat**, the BJP candidate for the third seat, winning unopposed. The **Congress** has challenged the rejection and plans a statewide protest.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67788,
       "title": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash | World News - The Indian Express",
@@ -5417,31 +5450,6 @@
       "topic_tags": [
         "corruption_scam",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 57581,
-      "title": "Telangana Govt issues detailed guidelines for Musi rejuvenation Phase-I; December 2027 deadline for project completion - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-issues-detailed-guidelines-for-musi-rejuvenation-phase-i/article70954834.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/9xfbsk/article70954953.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-08%20at%203.14.41%20PM.jpeg",
-      "scraped_at": "2026-05-08 12:01:31.335577",
-      "category": "environment",
-      "sentiment": "positive",
-      "sentiment_target": "Telangana Government",
-      "rephrased_article": "The **Telangana** Government is moving forward with the ambitious Musi Riverfront Development Project, emphasizing its social responsibility and stakeholder engagement.  A Cabinet sub-committee has outlined guidelines for Phase I of the project, which involves a 5 km stretch from Himayatsagar to Bapughat, with an estimated ₹7,055 crore in funding from the **Asian Development Bank**. The project aims to revitalize the riverfront while minimizing impact on residents' properties. Officials have been directed to address public concerns and ensure minimal disruption during construction.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Nashik"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
       ]
     }
   ]

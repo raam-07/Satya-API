@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 21:19:05.814755",
+  "generated_at": "2026-06-10 23:02:43.566072",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 534,
-    "articles_last_30d": 162
+    "total_articles": 535,
+    "articles_last_30d": 160
   },
   "top_cities_30d": {
-    "Delhi": 33,
+    "Delhi": 34,
     "Visakhapatnam": 24,
     "Hyderabad": 18,
     "Chennai": 12,
@@ -24,18 +24,52 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 94,
+    "foreign_policy": 93,
     "economy": 28,
-    "education": 26,
-    "crime_violence": 22,
+    "education": 25,
     "infrastructure": 21,
-    "health": 19,
-    "protest_opposition": 13,
-    "political_gaffe": 9,
+    "crime_violence": 21,
+    "health": 18,
+    "protest_opposition": 12,
+    "political_gaffe": 10,
     "farmer_agriculture": 8,
-    "rape_sexual_crime": 4
+    "corruption_scam": 4
   },
   "recent_articles": [
+    {
+      "id": 67811,
+      "title": "NDA Leaders Adopt Resolution Lauding PM Modi's 12 Years In Power",
+      "url": "https://www.ndtv.com/india-news/nda-leaders-adopt-resolution-lauding-pm-modis-12-years-in-power-11619718#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/n3piif8s_modi_625x300_11_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 21:37:49.052016",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**The NDA**, a coalition of 35 political parties, held a meeting in New Delhi to mark 12 years of Prime Minister Narendra Modi's continuous service. The meeting, chaired by **BJP National President Nitin Nabin**, saw the adoption of a resolution recognizing Modi's leadership and contributions to national development. Leaders from across the alliance discussed ways to improve coordination between states and the Centre, focusing on \"Ease of Living\" and \"Ease of Doing Business\" reforms under the \"Viksit Bharat 2047\" vision.  **PM Modi** thanked the leaders for their support and reaffirmed the NDA's commitment to serving the nation.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67771,
       "title": "In Big Step, India Issues Demarche To US Diplomat After Attack On Ship",
@@ -49,7 +83,7 @@
       "rephrased_article": "**India** condemned an attack on the oil tanker Settebello near Oman, which injured 24 Indian crew members. **New Delhi** issued a demarche to the United States' top diplomat in India after the incident and called for de-escalation of tensions in the region.  The Foreign Ministry confirmed that 21 Indians have been rescued while three remain missing. The attack occurred as part of escalating tensions between Iran and the US, which has imposed a naval blockade on Iranian shipping.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Naidu"
+        "Chandrababu Naidu"
       ],
       "states_mentioned": [
         "Delhi"
@@ -5408,30 +5442,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 56150,
-      "title": "Aqua farmers in upbeat mood as India’s seafood exports cross ₹72,000-crore mark - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/aqua-farmers-in-upbeat-mood-as-indias-seafood-exports-crosses-72000-crore-mark/article70931906.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jzeacv/article70932656.ece/alternates/LANDSCAPE_1200/DSC_0972.JPG",
-      "scraped_at": "2026-05-02 21:50:34.585614",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "India",
-      "rephrased_article": "**Andhra Pradesh** aquaculture farmers are celebrating record-breaking seafood exports, exceeding ₹72,000 crore in the 2025-26 fiscal year.  Exports reached an all-time high, with **India** surpassing previous records and accounting for over 30% of the total volume. The export growth was driven by strong demand from markets like China, the European Union (EU), and Southeast Asia.  The Marine Products Export Development Authority (MPEDA) attributes this success to diversification efforts and a shift away from reliance on the United States.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "corruption_scam",
-        "economy",
-        "foreign_policy",
-        "farmer_agriculture"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 21:19:05.974567",
+  "generated_at": "2026-06-10 23:02:43.727110",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": 0.83,
   "stats": {
-    "total_articles": 686,
-    "articles_last_30d": 290
+    "total_articles": 687,
+    "articles_last_30d": 289
   },
   "top_cities_30d": {
     "Kolkata": 111,
     "Delhi": 71,
     "Mumbai": 15,
     "Bengaluru": 13,
-    "Hyderabad": 10,
+    "Hyderabad": 11,
     "Chennai": 9,
     "Ghaziabad": 4,
     "Ahmedabad": 4,
@@ -24,18 +24,60 @@
     "Ludhiana": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 221,
+    "foreign_policy": 220,
     "education": 173,
-    "protest_opposition": 128,
-    "crime_violence": 92,
-    "economy": 47,
+    "protest_opposition": 127,
+    "crime_violence": 91,
     "corruption_scam": 47,
-    "infrastructure": 26,
+    "economy": 46,
+    "infrastructure": 25,
     "political_gaffe": 18,
     "health": 16,
     "rape_sexual_crime": 15
   },
   "recent_articles": [
+    {
+      "id": 67824,
+      "title": "Trinamool Congress: \"No Trinamool Without Mamata Banerjee\": Sagarika Ghose To NDTV",
+      "url": "https://www.ndtv.com/india-news/trinamool-congress-no-trinamool-without-mamata-banerjee-sagarika-ghose-to-ndtv-11619244#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2025-07/a65hjs6g_sagarika-ghose_625x300_25_July_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 21:38:35.905818",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "The **Trinamool Congress** is facing a severe internal crisis following resignations from senior figures and open rebellion.  **MP Sagarika Ghose** stated that the party cannot exist without **Mamata Banerjee**, while criticizing the BJP for weaponizing state agencies to intimidate opposition members. **Abhishek Banerjee** met with **Rahul Gandhi** to discuss the INDIA bloc, while **Sushmita Dev** resigned from the Rajya Sabha and the party, expressing admiration for **Himanta Biswa Sarma**.  Senior Trinamool figures dismissed speculation of a merger with the Congress.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "Trinamool",
+        "NCP",
+        "CPM",
+        "RJD",
+        "DMK"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "Kerala",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67786,
       "title": "Mrinaltai Gore flyover contractor penalised Rs 27 lakh earlier: BMC on construction quality criticism | Mumbai News - The Indian Express",
@@ -82,7 +124,6 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Didi"
       ],
       "states_mentioned": [],
@@ -6243,45 +6284,6 @@
         "rape_sexual_crime",
         "crime_violence",
         "education"
-      ]
-    },
-    {
-      "id": 63150,
-      "title": "West Bengal AI adoption lag | Bengal and AI: For a ‘Deep State’ to aid technological innovation - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV1hsbXhZWTBGaTZsQ1hlOHJDNEVXZ1RrS1NFT0lBNTNhRXEzZEM0NUEwLVVNQWhGbDVhVGZyODNBUlp6SmNIM3AwWlBXWFRlM0dZQ0hEMHdOVGdobWtudVVoOHp0UzBoS2lsMmpjWV9vdWhTbklCSFZXcVZKNnNrbU9ZYng2aXRzTUUwT0dkUFNNbkRDdm5mN0dMNDlFdUJqcHN1SDUySWd0WWNIUnFFRG1BSkM2cTVYczN3bVRQMlZqR0NlUndZTXZiU3ZKVnlSNC0wSHFxcjdIMXFQbWdNRNIB5gFBVV95cUxOYmkxak9BWmlGcmVnOTJndDVQZWFLSTg2bm1VakdqVi14Q1RTOENkenJTWWFHUWthVFh0d01pSWIxcUIzdl9ucGxjZThtVHZSNkdVWG1qeUs5SWtvNVUxdnZFZmdKVDIzRENxNTd0VHNqVVFCR01QZnlhTnlHQndSVTdtNUZsbUkyMFhEb1p0ZWF6S3pPSFktYVdtQ1AyaWxUbEphU245LVEyTUx5aG54eU0wOHBsXzU4aGhjdnlNRFd5Szd5ZGhMY0hFNW02NUhnanV5d1M1WWVwV0MxczlBTlZib1R2UQ?oc=5",
-      "source": "The Telegraph",
-      "image_url": "https://assets.telegraphindia.com/telegraph/2026/May/1777772950_new-project-84.jpg",
-      "scraped_at": "2026-05-30 21:59:23.089606",
-      "category": "regional",
-      "sentiment": "negative",
-      "sentiment_target": "West Bengal Government",
-      "rephrased_article": "A recent report by **OpenAI** reveals that India is a leader in AI adoption, with cities like Bengaluru, Hyderabad, Delhi, and Chennai leading the way. However, West Bengal lags behind, despite having a strong talent pool and intellectual tradition. The state's lack of AI adoption raises concerns about missed opportunities and potential stagnation.  This situation mirrors past hesitation towards technology in the 1980s, highlighting the need for a proactive approach to integrate AI into various sectors. A collaborative think tank, similar to the \"Deep State\" concept, is proposed to drive AI adoption in West Bengal by identifying high-impact use cases and fostering partnerships between government and private entities.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Assam",
-        "Chhattisgarh",
-        "Himachal Pradesh",
-        "Kerala",
-        "Manipur",
-        "Odisha",
-        "Punjab",
-        "Tripura",
-        "West Bengal",
-        "Delhi",
-        "Jammu",
-        "Kashmir",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Bengaluru",
-        "Hyderabad",
-        "Chennai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
       ]
     }
   ]

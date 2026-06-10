@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 21:19:05.983987",
+  "generated_at": "2026-06-10 23:02:43.736697",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,13 +8,13 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1399,
-    "articles_last_30d": 807
+    "total_articles": 1407,
+    "articles_last_30d": 813
   },
   "top_cities_30d": {
-    "Delhi": 799,
+    "Delhi": 805,
     "Mumbai": 86,
-    "Bengaluru": 61,
+    "Bengaluru": 62,
     "Kolkata": 47,
     "Hyderabad": 37,
     "Chennai": 34,
@@ -24,18 +24,236 @@
     "Kanpur": 15
   },
   "top_topics_30d": {
-    "foreign_policy": 583,
-    "crime_violence": 253,
-    "education": 165,
+    "foreign_policy": 585,
+    "crime_violence": 257,
+    "education": 167,
     "protest_opposition": 152,
     "economy": 149,
     "corruption_scam": 77,
     "infrastructure": 72,
-    "political_gaffe": 49,
+    "political_gaffe": 51,
     "health": 40,
     "rape_sexual_crime": 23
   },
   "recent_articles": [
+    {
+      "id": 67829,
+      "title": "On-duty traffic cop injured after being hit by speeding car in Southeast Delhi | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/on-duty-traffic-cop-injured-after-being-hit-by-speeding-car-in-southeast-delhi-10733835/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/traffic-4col_20260610211349.jpg",
+      "scraped_at": "2026-06-10 21:39:04.415847",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Police",
+      "rephrased_article": "A **Delhi Police** head constable, Rahul Kumar, sustained injuries after being struck by a speeding car driving from the wrong side of the road in Sarai Jullena on Tuesday morning. The incident occurred while Kumar was on duty at a red light.  The offending vehicle fled the scene, leaving Kumar injured. A case has been registered against the driver under relevant sections of the **Bharatiya Nyaya Sanhita** and the **Motor Vehicles Act**.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67827,
+      "title": "3 Indians missing after attack on ship, Delhi summons US diplomat | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/3-indians-missing-after-attack-on-ship-delhi-summons-us-diplomat-10733836/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/ministry-of-external-affairs_20260606003018_20260610211628.jpg",
+      "scraped_at": "2026-06-10 21:38:54.274606",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "US",
+      "rephrased_article": "**India** summoned the US charge d'affaires, **Jason Meeks**, following an attack on a commercial ship off the coast of Oman that left three Indian crew members missing. The incident is the first since President Donald Trump returned to the White House in January 2025 and follows similar incidents involving Indian seafarers in recent months.  **India** condemned the attack, calling for de-escalation of tensions and the restoration of peace and stability in the region. The **Indian Ministry of External Affairs** reiterated its concerns about attacks on shipping and civilian infrastructure in the region.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Arvind Kejriwal",
+        "Kejriwal"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67826,
+      "title": "Cyber fraud linked to over 159 cases across country unearthed, nearly Rs 67.92 cr routed through mule account | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/government-approves-price-hike-for-4-medicines-10733837/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Cyber-fraud-generic-picture_20260608102023_20260610212007.jpg",
+      "scraped_at": "2026-06-10 21:38:48.656571",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "cyber criminals",
+      "rephrased_article": "**Officers** at the East Delhi Cyber Police Station arrested a deputy manager of the **National Urban Cooperative Bank** for allegedly facilitating the opening of a mule account used to receive and route proceeds from over 159 cyber fraud cases across the country. The account, registered in the name of Mahakal Enterprises and purportedly belonging to Shailendra Kumar Yadav, was linked to complaints filed on the National Cyber Crime Reporting Portal (NCRP). Investigations revealed that the deputy manager did not visit the bank branch during the account opening period and his signatures did not match those on the forms.  Further investigation is underway to determine if a wider network is involved.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67815,
+      "title": "India summons US envoy over attack on ship carrying Indian sailors off Oman | US-Israel war on Iran News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/india-summons-us-envoy-over-ship-attack-that-left-three-indians-missing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/2013-12-17T120000Z_597750334_GM1E9CH1P9P01_RTRMADP_3_USA-INDIA-DIPLOMAT-1781120370.jpg?resize=1920%2C1440",
+      "scraped_at": "2026-06-10 21:38:01.390417",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "US",
+      "rephrased_article": "**India** summoned a senior US diplomat, **Jason Meeks**, following a US attack on the Palau-flagged Settebello off the coast of Oman that left three Indian seafarers missing. The **US military’s Central Command (CENTCOM)** claims the crew failed to comply with instructions and targeted the vessel while it was transporting Iranian oil.  The incident has drawn condemnation from international organizations, including the **International Maritime Organization**, Secretary-General **Arsenio Dominguez**. This attack on a commercial ship carrying Indian sailors is raising concerns about the US naval blockade of Iran and its impact on India-US relations.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Modi"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67811,
+      "title": "NDA Leaders Adopt Resolution Lauding PM Modi's 12 Years In Power",
+      "url": "https://www.ndtv.com/india-news/nda-leaders-adopt-resolution-lauding-pm-modis-12-years-in-power-11619718#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/n3piif8s_modi_625x300_11_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 21:37:49.052016",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**The NDA**, a coalition of 35 political parties, held a meeting in New Delhi to mark 12 years of Prime Minister Narendra Modi's continuous service. The meeting, chaired by **BJP National President Nitin Nabin**, saw the adoption of a resolution recognizing Modi's leadership and contributions to national development. Leaders from across the alliance discussed ways to improve coordination between states and the Centre, focusing on \"Ease of Living\" and \"Ease of Doing Business\" reforms under the \"Viksit Bharat 2047\" vision.  **PM Modi** thanked the leaders for their support and reaffirmed the NDA's commitment to serving the nation.",
+      "party_mentioned": [
+        "BJP",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "PM Modi",
+        "Chandrababu Naidu",
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Andhra Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67809,
+      "title": "Cyber fraud linked to over 159 cases across country unearthed, nearly Rs 67.92 cr routed through mule account | Delhi News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/cyber-fraud-linked-to-over-159-cases-across-country-unearthed-nearly-rs-67-92-cr-routed-through-mule-account-10733838/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Cyber-fraud-generic-picture_20260608102023_20260610212007.jpg",
+      "scraped_at": "2026-06-10 21:37:40.646470",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "National Urban Cooperative Bank",
+      "rephrased_article": "**Officers** at the **East Delhi Cyber Police Station** arrested a deputy manager of the **National Urban Cooperative Bank** for allegedly facilitating the opening of a mule account used to receive and route proceeds from over 159 cyber fraud cases across the country. The account, registered under the name of Mahakal Enterprises and purportedly belonging to Shailendra Kumar Yadav, was found to have received nearly Rs 67.92 crore.  The investigation revealed that the bank did not properly conduct KYC checks or verify customers, leading to the creation of the mule account. Further investigation is underway to identify other potential beneficiaries and facilitators involved in this case.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67808,
+      "title": "4 Bangladeshi Robbers Jump In Gurugram Underpass To Run From Cops, Arrested",
+      "url": "https://www.ndtv.com/india-news/4-bangladeshi-robbers-jump-in-gurugram-underpass-to-run-from-cops-arrested-11619726#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2019-12/pasi7rqs_gurgaon-police-generic_625x300_19_December_19.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 21:37:38.992848",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "Police",
+      "rephrased_article": "**Four Bangladeshi nationals**, Hilal, Mamo Khan, Mohammad Khairul alias Arman and Mohammad Maman, were arrested after a chase in Gurugram following a robbery at the residence of a retired Army colonel. The suspects allegedly entered the house by cutting through the iron grill of a rear window and held the family hostage before looting valuables.  All four sustained fractures during their attempt to evade police and will be formally arrested after being discharged from the hospital. Police believe these individuals have a history of criminal activity in multiple states, including theft, robbery, and dacoity.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Uttar Pradesh",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67801,
+      "title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/g6fcp/article71086571.ece/alternates/LANDSCAPE_1200/20260610058L.jpg",
+      "scraped_at": "2026-06-10 21:37:18.591976",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "**Chief Minister Mohan Yadav** of **Madhya Pradesh** accused the **Congress** of deliberately sabotaging **Meenakshi Natarajan's** nomination for a Rajya Sabha seat, alleging that it was part of an attempt to secure the seat themselves.  The nomination was rejected by the Returning Officer based on allegations of undisclosed information in her form, which led to **Mahesh Kewat**, the BJP candidate for the third seat, winning unopposed. The **Congress** has challenged the rejection and plans a statewide protest.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Bengaluru",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67792,
       "title": "Kashmiri rights activist wins partial court victory but remains behind bars | Civil Rights News | Al Jazeera",
@@ -49,8 +267,7 @@
       "rephrased_article": "**Khurram Parvez**, a Kashmiri human rights activist, was granted partial bail in a \"terror funding\" case after nearly five years of imprisonment in India.  The Delhi High Court's decision came after he was arrested by the **National Investigation Agency (NIA)** for accusations of recruiting rebels and mobilizing protesters. Despite this victory, Parvez remains incarcerated in a separate case related to alleged \"terror funding.\" International rights groups have condemned his arrest and continued imprisonment, highlighting concerns about political prisoners facing lengthy pre-trial detention under India's counterterrorism law.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Narendra Modi",
-        "Modi"
+        "Narendra Modi"
       ],
       "states_mentioned": [
         "Delhi",
@@ -81,7 +298,7 @@
       "rephrased_article": "A speeding black SUV attempted to run over traffic police in Delhi's New Friends Colony.  **Head Constable Rahul** was hit by the vehicle near the Sarai Julena red light and sustained injuries. The SUV fled the scene after hitting the officer, who is now hospitalized for treatment. **The police** have registered a case and are investigating the incident.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Rahul"
+        "Rahul Gandhi"
       ],
       "states_mentioned": [
         "Delhi"
@@ -131,7 +348,7 @@
       "rephrased_article": "**India** condemned an attack on the oil tanker Settebello near Oman, which injured 24 Indian crew members. **New Delhi** issued a demarche to the United States' top diplomat in India after the incident and called for de-escalation of tensions in the region.  The Foreign Ministry confirmed that 21 Indians have been rescued while three remain missing. The attack occurred as part of escalating tensions between Iran and the US, which has imposed a naval blockade on Iranian shipping.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Naidu"
+        "Chandrababu Naidu"
       ],
       "states_mentioned": [
         "Delhi"
@@ -182,9 +399,7 @@
       ],
       "ministers_mentioned": [
         "Amit Shah",
-        "Shah",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi"
       ],
       "states_mentioned": [
@@ -5565,227 +5780,6 @@
         "protest_opposition",
         "foreign_policy",
         "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 66028,
-      "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi | Politics News | Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a23d985c54d-1780734341.jpg?resize=1920%2C1440",
-      "scraped_at": "2026-06-06 10:57:15.644557",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "Hundreds of supporters of the **Cockroach Janta Party** (CJP), a satirical political movement in India, gathered in New Delhi to protest Education Minister Dharmendra Pradhan.  The CJP, inspired by comments made by India's Chief Justice Surya Kant, has gained widespread online support among young Indians frustrated with job opportunities and limited education access. Organisers of the march encouraged peaceful demonstrations and urged participants to bring national flags and books symbolizing the right to education. The group’s rise echoes similar trends in South Asia where youth movements have played a key role in anti-government protests.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "economy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 66020,
-      "title": "NFHS collected data on COVID deaths, toilets and fuel, but information missing from factsheets - The Hindu",
-      "url": "https://www.thehindu.com/news/national/nfhs-collected-data-on-covid-deaths-toilets-and-fuel-but-information-missing-from-factsheets/article71069343.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/4z729v/article71069453.ece/alternates/LANDSCAPE_1200/07_RVM_9189.jpg",
-      "scraped_at": "2026-06-06 10:57:03.895531",
-      "category": "health",
-      "sentiment": "neutral",
-      "sentiment_target": "National Family Health Survey-6",
-      "rephrased_article": "The **National Family Health Survey-6 (NFHS-6)**, conducted by **Sigma**, a Delhi-based social research organization, collected data on COVID-19 and other health topics. The survey gathered information from 6,79,238 households across India, including questions about COVID-19 infection status, hospitalizations, and economic impact. However, the data related to COVID-19 is not included in the released factsheets despite its collection.  The **Ministry of Health and Family Welfare** published the NFHS-6 factsheets with only 101 parameters compared to the previous survey's 131. The NFHS-6 also omitted details on neonatal mortality rate, infant mortality rate, under-five mortality rate, sanitation data, and adult literacy.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Telangana",
-        "Delhi",
-        "Andaman"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "health"
-      ]
-    },
-    {
-      "id": 66017,
-      "title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/ncjwrs/article71068895.ece/alternates/LANDSCAPE_1200/IMG_Sakina_Itoo_addresse_2_1_L5DRQ4NO.jpg",
-      "scraped_at": "2026-06-06 08:41:43.929151",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Mehbooba Mufti",
-      "rephrased_article": "**Sakeena Itoo**, **Jammu and Kashmir Health Minister**, criticized former Chief Minister **Mehbooba Mufti** for visiting the under-construction AIIMS, Awantipora site.  Itoo accused those who delayed the project of now attempting to claim credit for its progress. **Mufti Muhammad Sayeed**, a PDP leader, had envisioned the project in 2015. **Ms. Mufti** visited the site and requested **J.P. Nadda**, **Union Health Minister**, to expedite its completion.",
-      "party_mentioned": [
-        "BJP",
-        "PDP"
-      ],
-      "ministers_mentioned": [
-        "Omar Abdullah",
-        "Mehbooba Mufti"
-      ],
-      "states_mentioned": [
-        "Delhi",
-        "Jammu",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "political_gaffe"
-      ]
-    },
-    {
-      "id": 66013,
-      "title": "CJP founder Abhijeet Dipke arrives at Jantar Mantar for Pradhan resignation protest - The Hindu",
-      "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-jantar-mantar-dharmendra-pradhan-exam-leaks/article71068441.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/3nvqyf/article71068980.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20DELHI_06_06_31.jpg",
-      "scraped_at": "2026-06-06 08:41:30.779171",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Dharmendra Pradhan",
-      "rephrased_article": "**Abhijeet Dipke**, founder of the **Cockroach Janta Party (CJP)**, arrived in New Delhi on Saturday morning to lead a protest demanding the resignation of **Education Minister Dharmendra Pradhan**.  The CJP movement, which has garnered over 2 crore followers online, is protesting irregularities in multiple competitive and school examinations. The protest took place at Jantar Mantar, with heavy security measures in place. Counter-protesters were detained by police.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 66009,
-      "title": "Sixty next-generation trains to be introduced for Kolkata Metro in 5 years: Vaishnaw - The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/sixty-next-generation-trains-to-be-introduced-for-kolkata-metro-in-5-years-vaishnaw/article71068997.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/nttmlf/article71069011.ece/alternates/LANDSCAPE_1200/20260603232L.jpg",
-      "scraped_at": "2026-06-06 08:41:11.665941",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Union Minister Ashwini Vaishnaw** announced plans to introduce 60 next-generation trains for the Kolkata Metro over the next five years, aiming to revitalize railway projects in West Bengal. **Vaishnaw**, who visited the state secretariat Nabanna with **Chief Minister Suvendu Adhikari**, highlighted the progress made since 2014, including the addition of 45 km of metro lines. He also discussed proposed bullet train services between Delhi–Varanasi and Varanasi–Siliguri, which aim to reduce travel time significantly.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata",
-        "Varanasi"
-      ],
-      "topic_tags": [
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 65997,
-      "title": "Gurgaon deploys IIT-backed AI sewer sensors in posh colonies to stop monsoon waterlogging | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/delhi/gurgaon-gurugram-ai-sewer-sensors-monsoon-waterlogging-prevention-10726957/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/gurgaon-sewer.jpg",
-      "scraped_at": "2026-06-06 08:40:44.148077",
-      "category": "regional",
-      "sentiment": "positive",
-      "sentiment_target": "Municipal Corporation of Gurugram",
-      "rephrased_article": "The **Municipal Corporation of Gurugram (MCG)** is installing advanced monitoring sensors across critical sewer lines to prevent waterlogging and sewer overflows during the upcoming monsoon. The project, in collaboration with AIResQ, a startup incubated at IIT Gandhinagar, uses sensor-based systems to monitor real-time technical parameters.  The MCG aims to provide citizens with better sewerage services by identifying potential overflow situations and allowing field response teams to address blockages before they escalate. This initiative prioritizes vulnerable locations across the city, including upscale colonies like Sushant Lok and Golf Course Extension Road, as well as critical traffic corridors.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Faridabad"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 65992,
-      "title": "Cockroach Janta Party protest LIVE: 'Youth of the country will no longer fear' Abhijeet Dipke leads students, youth at Jantar Mantar protest - The Hindu",
-      "url": "https://www.thehindu.com/news/national/cockroach-janta-party-abhijeet-dipke-cjp-protest-in-delhi-jantar-mantar-live-updates-june-6-2026/article71068317.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/vzpwke/article71068803.ece/alternates/LANDSCAPE_1200/Abhijeet%20Dipke%20Jantar%20Mantar%20protest",
-      "scraped_at": "2026-06-06 08:40:34.850880",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Dharmendra Pradhan",
-      "rephrased_article": "**Delhi Police** and **paramilitary forces** have been deployed across key locations in the national capital as members of the Cockroach Janta Party (CJP) began a protest at Jantar Mantar. The protest is being led by Abhijeet Dipke, founder of the satirical online \"Cockroach Janta Party\", who arrived from the United States to demand the resignation of **Union Education Minister Dharmendra Pradhan** over examination-related lapses.  Education reformer and climate activist Sonam Wangchuk has pledged to join the protest if the minister does not step down by June 5th.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "education",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 65990,
-      "title": "National Awards for e-Governance 2026 | UPSC Knowledge Nugget",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-e-governance-awards-2026-india-dpi-10726828/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/national-e-governance-awards-2026.jpg",
-      "scraped_at": "2026-06-06 08:40:29.699287",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Union government",
-      "rephrased_article": "The **Union government** has announced the winners of the 29th National Conference on e-Governance, recognizing excellence in e-governance initiatives. The awards include a trophy, certificate, and an incentive for Gold awardees.  This year's winners are projects from various ministries including the Agriculture Ministry's AgriStack platform, the Consumer Affairs Ministry's e-Jagriti portal, and the Prayagraj Mela Authority's conduct of the Mahakumbh 2025. E-governance in India has evolved since computerization in the 1970s, with key milestones including the establishment of the National Informatics Centre (NIC) and the launch of the National e-Governance Plan (NeGP).  Digital Public Infrastructure (DPI), a set of foundational digital systems, plays a crucial role in modern society. India's DPI is built on the JAM trinity—Jan Dhan bank accounts, Aadhaar enrolment, and widespread mobile phone penetration.",
-      "party_mentioned": [
-        "National Conference"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Rajasthan",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Jaipur",
-        "Prayagraj"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
       ]
     }
   ]
