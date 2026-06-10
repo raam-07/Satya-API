@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 18:42:53.843882",
+  "generated_at": "2026-06-10 21:19:05.814755",
   "state": "Andhra Pradesh",
   "capital": "Amaravati",
   "ruling_party": "TDP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 533,
+    "total_articles": 534,
     "articles_last_30d": 162
   },
   "top_cities_30d": {
-    "Delhi": 32,
+    "Delhi": 33,
     "Visakhapatnam": 24,
     "Hyderabad": 18,
     "Chennai": 12,
@@ -30,12 +30,37 @@
     "crime_violence": 22,
     "infrastructure": 21,
     "health": 19,
-    "protest_opposition": 14,
-    "farmer_agriculture": 9,
+    "protest_opposition": 13,
     "political_gaffe": 9,
+    "farmer_agriculture": 8,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67771,
+      "title": "In Big Step, India Issues Demarche To US Diplomat After Attack On Ship",
+      "url": "https://www.ndtv.com/india-news/in-big-step-india-issues-demarche-to-us-diplomat-after-attack-on-ship-11619054#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/cen8hq1_settebello_625x300_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 19:14:15.858978",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "US",
+      "rephrased_article": "**India** condemned an attack on the oil tanker Settebello near Oman, which injured 24 Indian crew members. **New Delhi** issued a demarche to the United States' top diplomat in India after the incident and called for de-escalation of tensions in the region.  The Foreign Ministry confirmed that 21 Indians have been rescued while three remain missing. The attack occurred as part of escalating tensions between Iran and the US, which has imposed a naval blockade on Iranian shipping.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Naidu"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67742,
       "title": "UPSC subject-wise quiz: Polity and Governance (Week 166)",
@@ -5407,32 +5432,6 @@
         "economy",
         "foreign_policy",
         "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 56126,
-      "title": "Tele-MANAS helpline counselling 3,000 people per month in A.P., says Health Minister - The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tele-manas-helpline-counselling-3000-people-per-month-in-ap-says-health-minister/article70932441.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/cgxfii/article70932664.ece/alternates/LANDSCAPE_1200/10215_17_1_2026_21_24_29_1_WHATSAPPIMAGE2026_01_17AT92252PM.JPEG",
-      "scraped_at": "2026-05-02 19:42:56.369190",
-      "category": "health",
-      "sentiment": "positive",
-      "sentiment_target": "Tele-MANAS helpline",
-      "rephrased_article": "**Andhra Pradesh** Minister for Health, Family Welfare and Medical Education Satya Kumar Yadav stated that the **Tele-MANAS** helpline, launched by the **Union government** in 2022 to address mental health issues, is providing support to individuals experiencing stress, depression, and anxiety. The national helpline, operated by **NIMHANS**, Bengaluru, routes calls to call centers within each state, with two centers in Andhra Pradesh located in Vijayawada and Visakhapatnam.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh"
-      ],
-      "cities_mentioned": [
-        "Bengaluru",
-        "Visakhapatnam"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "health",
-        "education"
       ]
     }
   ]

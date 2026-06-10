@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 18:42:53.971673",
+  "generated_at": "2026-06-10 21:19:05.944754",
   "state": "Tamil Nadu",
   "capital": "Chennai",
   "ruling_party": "TVK",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1170,
-    "articles_last_30d": 312
+    "total_articles": 1173,
+    "articles_last_30d": 315
   },
   "top_cities_30d": {
-    "Chennai": 77,
-    "Delhi": 52,
+    "Chennai": 80,
+    "Delhi": 53,
     "Coimbatore": 24,
     "Bengaluru": 21,
     "Hyderabad": 17,
@@ -25,17 +25,103 @@
   },
   "top_topics_30d": {
     "foreign_policy": 202,
-    "protest_opposition": 70,
+    "protest_opposition": 71,
     "education": 57,
     "crime_violence": 49,
     "economy": 47,
     "infrastructure": 35,
     "corruption_scam": 28,
-    "political_gaffe": 25,
+    "political_gaffe": 27,
     "farmer_agriculture": 21,
     "health": 19
   },
   "recent_articles": [
+    {
+      "id": 67775,
+      "title": "Ex AIADMK Minister P Benjamin, Supporters Join DMK",
+      "url": "https://www.ndtv.com/india-news/ex-aiadmk-minister-p-benjamin-supporters-join-dmk-11619568#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/acv6iqt4_dmk-stalin-_625x300_10_June_26.jpeg",
+      "scraped_at": "2026-06-10 19:14:39.089531",
+      "category": "politics",
+      "sentiment": "positive",
+      "sentiment_target": "DMK",
+      "rephrased_article": "**P Benjamin**, former AIADMK minister, joined the DMK on Wednesday in the presence of party president **M K Stalin** and senior leaders.  Benjamin was accompanied by several AIADMK office-bearers, including Tiruvallur Central Party District Women's Wing secretary Yamini Ilayaraja and scores of other officials.  **MK Stalin** welcomed Benjamin and his supporters to the DMK on social media.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "Stalin"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67764,
+      "title": "Tamil Nadu Chief Minister Vijay Meets Sonia, Rahul Gandhi In Delhi",
+      "url": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-vijay-meets-sonia-gandhi-rahul-gandhi-in-delhi-11618314#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/m92e9g1o_vijay-sonia-gandhi_625x300_11_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 19:13:41.532800",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Vijay",
+      "rephrased_article": "**Tamil Nadu Chief Minister C Joseph Vijay** met with **Sonia Gandhi** and **Rahul Gandhi** in New Delhi on Wednesday.  Vijay is attending the Niti Aayog governing council meeting on Thursday, marking his second visit to the capital since becoming chief minister in May. The meeting was a courtesy call, with the Gandhis wishing Vijay well for his future as chief minister.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67759,
+      "title": "Former AIADMK Minister P. Benjamin joins DMK - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/former-aiadmk-minister-p-benjamin-joins-dmk/article71085832.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/ie7to/article71086517.ece/alternates/LANDSCAPE_1200/PTI06_10_2026_000495B.jpg",
+      "scraped_at": "2026-06-10 19:13:36.226431",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "P. Benjamin",
+      "rephrased_article": "**P. Benjamin**, a former AIADMK minister, joined the DMK on Wednesday in Chennai. **M.K. Stalin**, the party president, welcomed him to the organization.  Benjamin previously served as the Deputy Mayor of Chennai Corporation and held ministerial positions in the education and rural industries sectors. He contested for the Maduravoyal constituency in the 2026 Assembly election but lost. Benjamin stated his intention to continue serving the public after joining the DMK.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
+      "ministers_mentioned": [
+        "M.K. Stalin",
+        "Stalin"
+      ],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
     {
       "id": 67742,
       "title": "UPSC subject-wise quiz: Polity and Governance (Week 166)",
@@ -5452,93 +5538,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 62308,
-      "title": "Govt. plans security protocol for fishing harbours under CISF oversight - The Hindu",
-      "url": "https://www.thehindu.com/news/national/govt-plans-security-protocol-for-fishing-harbours-under-cisf-oversight/article71033639.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/g8isyn/article71034141.ece/alternates/LANDSCAPE_1200/DSC_2829.JPG",
-      "scraped_at": "2026-05-28 17:02:22.073062",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**The Central Industrial Security Force (CISF)** will oversee the security of around 1,200 fishing harbours and landing sites across India as part of a plan to strengthen the country's coastline. The **Union Home Ministry** aims to implement this framework after assigning CISF personnel to secure 250 seaports. This move follows guidelines issued by the **Ministry of Home Affairs (MHA)** in 2023, and is intended to provide a uniform security template for all coastal areas.  The government's objective is to ensure the safety of fisherfolk and prevent potential threats like those seen during the 26/11 Mumbai attacks.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Goa",
-        "Gujarat",
-        "Karnataka",
-        "Kerala",
-        "Maharashtra",
-        "Odisha",
-        "Tamil Nadu",
-        "West Bengal",
-        "Puducherry",
-        "Andaman",
-        "Lakshadweep"
-      ],
-      "cities_mentioned": [
-        "Mumbai"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 62294,
-      "title": "Session to focus on the rise of the TVK at The Hindu Huddle - The Hindu",
-      "url": "https://www.thehindu.com/news/national/session-to-focus-on-the-rise-of-the-tvk-at-the-hindu-huddle/article71034133.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/news/national/vpesu8/article71034536.ece/alternates/LANDSCAPE_1200/Logo%20Unit%20ILU%201%201.pdf.jpg",
-      "scraped_at": "2026-05-28 16:58:25.631669",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Tamilaga Vettri Kazhagam (TVK)",
-      "rephrased_article": "In Tamil Nadu, the **Tamilaga Vettri Kazhagam (TVK)** secured an unexpected victory in the Assembly elections on May 4th, winning nearly 35% of the vote and securing 108 seats. This unprecedented result marks a significant shift from traditional Dravidian politics, with the TVK utilizing online campaigns and targeted messaging to reach younger demographics like Gen Z. The party's success is attributed in part to K.G. Arunraj, a former civil servant who joined the party in June 2025 and played a key role in its campaign strategy.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Bengaluru"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 62278,
-      "title": "Tamil Nadu’s rights of utmost importance, never said will surrender that: Higher Education Minister - The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/states-rights-of-utmost-importance-never-said-will-surrender-that-higher-education-minister/article71032052.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/x21zbr/article71032505.ece/alternates/LANDSCAPE_1200/DSC_1256.JPG",
-      "scraped_at": "2026-05-28 12:34:32.449822",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "DMK",
-      "rephrased_article": "**P. Viswanathan**, Tamil Nadu Higher Education Minister, defended his statement that the new government would not follow previous policies regarding university governance, particularly concerning the Chief Minister's role as Chancellor. He clarified that he made a general comment and emphasized the state's commitment to protecting its citizens' rights. The **DMK** and other political parties criticized his remarks, accusing him of surrendering state rights.",
-      "party_mentioned": [
-        "Congress",
-        "CPI",
-        "DMK"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Tamil Nadu"
-      ],
-      "cities_mentioned": [
-        "Madurai"
-      ],
-      "topic_tags": [
-        "protest_opposition"
       ]
     }
   ]

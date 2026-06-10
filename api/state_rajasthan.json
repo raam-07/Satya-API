@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 18:42:53.961458",
+  "generated_at": "2026-06-10 21:19:05.934317",
   "state": "Rajasthan",
   "capital": "Jaipur",
   "ruling_party": "BJP",
@@ -8,16 +8,16 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 289,
-    "articles_last_30d": 174
+    "total_articles": 290,
+    "articles_last_30d": 175
   },
   "top_cities_30d": {
-    "Delhi": 58,
+    "Delhi": 59,
     "Jaipur": 24,
     "Bengaluru": 23,
     "Ahmedabad": 16,
     "Mumbai": 14,
-    "Chennai": 11,
+    "Chennai": 12,
     "Hyderabad": 8,
     "Kolkata": 7,
     "Pune": 6,
@@ -30,12 +30,45 @@
     "infrastructure": 26,
     "protest_opposition": 26,
     "economy": 23,
+    "political_gaffe": 16,
     "health": 15,
-    "political_gaffe": 15,
     "farmer_agriculture": 10,
     "corruption_scam": 9
   },
   "recent_articles": [
+    {
+      "id": 67764,
+      "title": "Tamil Nadu Chief Minister Vijay Meets Sonia, Rahul Gandhi In Delhi",
+      "url": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-vijay-meets-sonia-gandhi-rahul-gandhi-in-delhi-11618314#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/m92e9g1o_vijay-sonia-gandhi_625x300_11_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 19:13:41.532800",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Vijay",
+      "rephrased_article": "**Tamil Nadu Chief Minister C Joseph Vijay** met with **Sonia Gandhi** and **Rahul Gandhi** in New Delhi on Wednesday.  Vijay is attending the Niti Aayog governing council meeting on Thursday, marking his second visit to the capital since becoming chief minister in May. The meeting was a courtesy call, with the Gandhis wishing Vijay well for his future as chief minister.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67750,
       "title": "Watch: U.S. and Iran exchange strikes in major escalation | Above the Fold | 10.06.2026 - The Hindu",
@@ -108,7 +141,6 @@
       ],
       "ministers_mentioned": [
         "Rahul Gandhi",
-        "Rahul",
         "Ashok Gehlot"
       ],
       "states_mentioned": [
@@ -5854,29 +5886,6 @@
       "topic_tags": [
         "foreign_policy"
       ]
-    },
-    {
-      "id": 53893,
-      "title": "In photos: North India braces for heatwaves as temperatures cross 40C",
-      "url": "https://www.bbc.com/news/articles/cvg0666d0xjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6d4b/live/647ddd40-3fa5-11f1-b7fe-5bf54e67de0f.jpg",
-      "scraped_at": "2026-04-24 16:36:10.013432",
-      "category": "environment",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India's weather department** has issued warnings of heatwaves across northern and central India, including Delhi, for the weekend. Temperatures in some areas have already exceeded 40C, prompting **the education department** to issue guidelines for schools to mitigate the risks associated with extreme heat, such as dehydration and heatstroke.  The **Lancet** medical journal reported that climate change played a significant role in driving heatwaves in India in 2024, resulting in substantial economic losses due to reduced labor hours.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 18:42:53.861379",
+  "generated_at": "2026-06-10 21:19:05.832362",
   "state": "Bihar",
   "capital": "Patna",
   "ruling_party": "BJP",
@@ -8,23 +8,23 @@
   "cm_confidence": 1.0,
   "party_confidence": null,
   "stats": {
-    "total_articles": 298,
-    "articles_last_30d": 133
+    "total_articles": 299,
+    "articles_last_30d": 134
   },
   "top_cities_30d": {
     "Delhi": 54,
     "Patna": 24,
-    "Mumbai": 12,
+    "Mumbai": 13,
     "Kolkata": 11,
     "Hyderabad": 8,
-    "Bengaluru": 7,
+    "Bengaluru": 8,
     "Chennai": 7,
     "Lucknow": 6,
     "Ahmedabad": 4,
     "Kanpur": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 95,
+    "foreign_policy": 96,
     "crime_violence": 44,
     "education": 39,
     "protest_opposition": 22,
@@ -36,6 +36,34 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67796,
+      "title": "How did Rohit Sharma fare in nets as he returns to Indian team for Afghan ODIs",
+      "url": "https://indianexpress.com/article/sports/cricket/rohit-sharma-returns-fitness-india-vs-afghanistan-odi-net-session-10733664/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Rohit-66.jpg",
+      "scraped_at": "2026-06-10 19:15:15.029367",
+      "category": "sports",
+      "sentiment": "neutral",
+      "sentiment_target": "Rohit Sharma",
+      "rephrased_article": "**Rohit Sharma** participated in a light training session with the Indian team at the HPCA Stadium in Dharamshala, marking his return to action after receiving fitness clearance from **BCCI’s Centre of Excellence**.  The session saw **Rohit Sharma**, along with other players like **Ishan Kishan** and **Shreyas Iyer**, focus on their batting techniques. While several top-order batters showcased aggressive play, **Rohit Sharma** adopted a more restrained approach, demonstrating his commitment to regaining full match fitness.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Rahul",
+        "Nitish Kumar",
+        "Nitish"
+      ],
+      "states_mentioned": [
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67742,
       "title": "UPSC subject-wise quiz: Polity and Governance (Week 166)",
@@ -5989,34 +6017,6 @@
       ],
       "cities_mentioned": [],
       "topic_tags": []
-    },
-    {
-      "id": 50548,
-      "title": "BJP appoints Shivraj Chouhan as central observer for election of Bihar legislative party leader - The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bjp-appoints-shivraj-chouhan-as-central-observer-for-election-of-bihar-legislative-party-leader/article70853831.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/m101q3/article70853899.ece/alternates/LANDSCAPE_1200/5col_bottom_shaG3MFRB38R.4.jpg.jpg",
-      "scraped_at": "2026-04-12 12:04:35.680209",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**The BJP** appointed Union Minister Shivraj Singh Chouhan as the central observer to oversee the election of a new leader for the party's legislative party in Bihar.  Following **Nitish Kumar's** move to the Rajya Sabha, the process of forming a new government is expected to begin after April 13th. **JD(U)** national working president Sanjay Kumar Jha confirmed that the new government will be formed by the NDA legislators upon the recommendation of the BJP.  The date for the Bihar NDA legislature party meeting has yet to be announced.",
-      "party_mentioned": [
-        "BJP",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Nitish Kumar"
-      ],
-      "states_mentioned": [
-        "Bihar"
-      ],
-      "cities_mentioned": [
-        "Patna"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
     }
   ]
 }

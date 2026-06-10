@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 18:42:53.929442",
+  "generated_at": "2026-06-10 21:19:05.901744",
   "state": "Maharashtra",
   "capital": "Mumbai",
   "ruling_party": "BJP",
@@ -8,15 +8,15 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 488,
-    "articles_last_30d": 252
+    "total_articles": 489,
+    "articles_last_30d": 253
   },
   "top_cities_30d": {
-    "Mumbai": 84,
+    "Mumbai": 85,
     "Delhi": 64,
     "Pune": 45,
+    "Kolkata": 16,
     "Nashik": 15,
-    "Kolkata": 15,
     "Thane": 13,
     "Nagpur": 12,
     "Hyderabad": 10,
@@ -24,18 +24,45 @@
     "Ahmedabad": 8
   },
   "top_topics_30d": {
-    "foreign_policy": 174,
-    "crime_violence": 66,
+    "foreign_policy": 175,
+    "crime_violence": 67,
     "education": 63,
     "infrastructure": 56,
     "economy": 48,
     "protest_opposition": 42,
     "corruption_scam": 24,
     "farmer_agriculture": 21,
-    "health": 20,
+    "health": 21,
     "political_gaffe": 17
   },
   "recent_articles": [
+    {
+      "id": 67786,
+      "title": "Mrinaltai Gore flyover contractor penalised Rs 27 lakh earlier: BMC on construction quality criticism | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/mrinaltai-gore-flyover-contractor-penalised-rs-27-lakh-earlier-bmc-on-construction-quality-criticism-10733684/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Mrinaltai-Gore-Express-photo-by-Amit-Chakravarty.jpg",
+      "scraped_at": "2026-06-10 19:15:00.768970",
+      "category": "regional",
+      "sentiment": "negative",
+      "sentiment_target": "Brihanmumbai Municipal Corporation (BMC)",
+      "rephrased_article": "The **Brihanmumbai Municipal Corporation (BMC)** has faced criticism over the quality of construction on the newly opened Mrinaltai Gore flyover, which was flagged for potential structural issues by its internal vigilance team five years before its inauguration.  Data shows that a total penalty of Rs 27 lakh has been imposed on the contractor over the past eight years for various violations including using poor quality materials and delaying work. The construction period was impacted by the pandemic, leading to delays in material procurement and labor mobilization, which resulted in no penalties during those times. **Pratip Acharya**, a seasoned journalist with extensive experience covering urban governance and civic affairs for The Indian Express, reported on this issue.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Maharashtra",
+        "West Bengal"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Kolkata"
+      ],
+      "topic_tags": [
+        "health",
+        "crime_violence",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67743,
       "title": "Majority of workers with NCP(SP) official faction, claim leaders - The Hindu",
@@ -5657,34 +5684,6 @@
         "Bengaluru"
       ],
       "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 63072,
-      "title": "7 dead as car gets crushed between two container trucks in Pune",
-      "url": "https://www.onmanorama.com/news/india/2025/11/13/pune-highway-accident-car-crushed-trucks.html",
-      "source": "Onmanorama",
-      "image_url": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2025/11/13/pune-accident.jpg",
-      "scraped_at": "2026-05-30 21:54:39.977574",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "Pune police",
-      "rephrased_article": "Seven people were killed and over a dozen injured in a horrific accident on the Mumbai-Bengaluru Highway in Pune city. A car became trapped between two container trucks that caught fire after one lost control due to a suspected brake failure, according to **Deputy Commissioner of Police Sambhaji Kadam**.  **Pune police commissioner Amitesh Kumar**, who visited the scene, said the fire erupted due to the impact of the collision. **Maharashtra Chief Minister Devendra Fadnavis** announced ₹5 lakh ex-gratia for the families of the deceased.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Devendra Fadnavis"
-      ],
-      "states_mentioned": [
-        "Maharashtra"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Bengaluru",
-        "Pune"
-      ],
-      "topic_tags": [
-        "foreign_policy",
         "crime_violence"
       ]
     }
