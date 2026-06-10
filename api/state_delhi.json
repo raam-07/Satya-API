@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 00:07:45.227691",
+  "generated_at": "2026-06-10 04:49:16.264756",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,16 +8,16 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1357,
-    "articles_last_30d": 768
+    "total_articles": 1360,
+    "articles_last_30d": 771
   },
   "top_cities_30d": {
-    "Delhi": 760,
+    "Delhi": 763,
     "Mumbai": 81,
     "Bengaluru": 57,
     "Kolkata": 46,
-    "Hyderabad": 35,
-    "Chennai": 29,
+    "Hyderabad": 36,
+    "Chennai": 30,
     "Jaipur": 20,
     "Pune": 15,
     "Kanpur": 15,
@@ -25,17 +25,117 @@
   },
   "top_topics_30d": {
     "foreign_policy": 559,
-    "crime_violence": 238,
+    "crime_violence": 239,
     "education": 158,
     "economy": 145,
-    "protest_opposition": 140,
+    "protest_opposition": 141,
     "infrastructure": 73,
     "corruption_scam": 72,
+    "political_gaffe": 42,
     "health": 40,
-    "political_gaffe": 40,
     "rape_sexual_crime": 22
   },
   "recent_articles": [
+    {
+      "id": 67508,
+      "title": "Congress tries moving MLAs to Karnataka – in vain – as Meenakshi Natarajan’s Rajya Sabha nomination is rejected | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/congress-mla-karnataka-meenakshi-natarajan-rajya-sabha-madhya-pradesh-10731823/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/meenakshi-natarajan.jpg.jpeg",
+      "scraped_at": "2026-06-09 23:55:00.886686",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "The **BJP** secured a victory in the Rajya Sabha election after rejecting the nomination of **Congress** leader Meenakshi Natarajan. The rejection came after the BJP challenged her nomination, alleging incomplete disclosure of information related to a court case.  Despite attempts by the **Congress** to move its legislators to Karnataka to avoid potential influence from the BJP, the decision was made and the party's candidate was ultimately rejected. The **BJP** celebrated the victory while the **Congress** condemned the decision as an attempt to undermine democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "INC"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67501,
+      "title": "Frequent disruptions in legislatures pose a serious challenge to democratic institutions: Om Birla - The Hindu",
+      "url": "https://www.thehindu.com/news/national/frequent-disruptions-in-legislatures-pose-a-serious-challenge-to-democratic-institutions-om-birla/article71081572.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/vpdpee/article71082255.ece/alternates/LANDSCAPE_1200/Om%20Birla.jpg",
+      "scraped_at": "2026-06-09 23:54:47.355868",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**Om Birla**, Speaker of the Lok Sabha, emphasized that frequent disruptions in legislative institutions pose a challenge to democratic principles. He urged **state and central legislatures** to promote conduct aligned with public expectations and meaningful discussion. The second conference of the **Commonwealth Parliamentary Association (CPA) India Region Zone-II (North Zone)** concluded with four resolutions aimed at making legislative institutions more effective, accountable, and people-centric.  These resolutions are expected to contribute to the progress of parliamentary and democratic institutions in India.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Goa",
+        "Haryana",
+        "Himachal Pradesh",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi",
+        "Jammu",
+        "Kashmir",
+        "Chandigarh"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67499,
+      "title": "Vijay to attend NITI Aayog Governing Council meeting in Delhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-to-attend-niti-aayog-governing-council-meeting-in-delhi/article71080951.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/i3y9qk/article71064889.ece/alternates/LANDSCAPE_1200/DSC_7522.JPG",
+      "scraped_at": "2026-06-09 23:54:44.746681",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "C. Joseph Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu's Chief Minister, will attend the 11th Governing Council meeting of **NITI Aayog** in New Delhi on Thursday.  He is scheduled to meet with political leaders in New Delhi before participating in the council meeting alongside other state and UT chief ministers and lieutenant governors. This marks his second visit to the national capital since becoming Chief Minister.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Nirmala Sitharaman"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67481,
       "title": "Stand-off over Bengaluru Development portfolio likely to be discussed in Delhi - The Hindu",
@@ -187,9 +287,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
-        "Amit Shah",
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [
         "Delhi"
@@ -221,9 +319,7 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Mamata Banerjee",
-        "Mamata",
         "Didi",
         "Sonia Gandhi"
       ],
@@ -5600,99 +5696,6 @@
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 65586,
-      "title": "AAP questions ‘delay’ in DFS response to Malviya Nagar fire - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/aap-questions-delay-in-dfs-response-to-malviya-nagar-fire/article71062444.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/9faxi4/article71062758.ece/alternates/LANDSCAPE_1200/FIRE%20MALVIYA%20NAGAR%20HOTEL%20DELHI%202026_04_06_40.jpg",
-      "scraped_at": "2026-06-05 05:01:15.260695",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Delhi Fire Services",
-      "rephrased_article": "The **Aam Aadmi Party (AAP)** has criticized the Delhi Fire Services' (DFS) response to the Malviya Nagar fire, alleging inconsistencies in their account of when they were alerted and how quickly personnel arrived.  **Saurabh Bharadwaj**, AAP’s Delhi unit president, questioned the government's timeline and suggested residents may have already alerted emergency services before 8:50 a.m., as claimed by DFS. The **Delhi Fire Services (DFS)** Deputy Chief Fire Officer A.K. Malik defended their response, stating that units from other stations were dispatched due to an existing fire at another location and traffic delays. He emphasized that seven units reached the scene within 19 minutes, carrying essential equipment and deploying a total of 38 personnel.  The incident has sparked debate between the AAP and BJP over the DFS's capabilities and past governance.",
-      "party_mentioned": [
-        "BJP",
-        "AAP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "foreign_policy",
-        "corruption_scam"
-      ]
-    },
-    {
-      "id": 65583,
-      "title": "Daily Briefing: Monsoon arrives in Kerala; 45 major paper leaks in 24 years, who’s accountable? | Live News - The Indian Express",
-      "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-today-10724873/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Newsletter-morning-expresso-Final-1600x900-2.jpg",
-      "scraped_at": "2026-06-05 05:01:11.134662",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "The India Meteorological Department (IMD) declared the onset of the southwest monsoon on Thursday, three days later than usual. The monsoon is expected to bring below-normal rainfall this year due to the El Niño weather pattern. **Prime Minister Narendra Modi** discussed deepening cooperation in energy and other areas with **Acting President Delcy Rodríguez** of Venezuela during talks in India.  The IMD has forecast below-normal rainfall this year at 90% of the long-period average, largely due to the developing El Niño weather pattern, which typically weakens monsoon rains and pushes temperatures higher. The monsoon is now expected to advance towards Goa, Maharashtra and more parts of southern India over the next few days.",
-      "party_mentioned": [
-        "Congress",
-        "TMC",
-        "Trinamool",
-        "CPM"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "Amit Shah"
-      ],
-      "states_mentioned": [
-        "Goa",
-        "Gujarat",
-        "Kerala",
-        "Maharashtra",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Bengaluru",
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "education",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65582,
-      "title": "Flourish Stay owner sent to 4-day police custody; MCD finds 12 nearby B&Bs violating their permits - The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/malviya-nagar-fire-court-sends-hotel-owner-to-4-days-police-custody/article71060810.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/2jet6b/article71060846.ece/alternates/LANDSCAPE_1200/FIRE%20MALVIYA%20NAGAR%20HOTEL%20DELHI%202026_04_06_46.jpg",
-      "scraped_at": "2026-06-05 05:01:10.770682",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Lavkesh Bajaj",
-      "rephrased_article": "**Lavkesh Bajaj**, owner of the Delhi B&B where a fire killed 21 people, was remanded to four days of police custody on charges of culpable homicide. **Rakesh**, his manager, and **Jay Mishra**, his accountant, are still at large. The Delhi government will seal unauthorized constructions and buildings operating without fire safety equipment as part of a month-long crackdown.  The incident has prompted the MCD to cancel the licenses of 12 B&Bs in the area that were found to be operating illegally. Twelve foreign nationals among the victims have been identified, and their bodies have been handed over to their respective embassies.",
-      "party_mentioned": [
-        "AAP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition",
-        "crime_violence"
       ]
     }
   ]

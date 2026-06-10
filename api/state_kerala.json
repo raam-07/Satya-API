@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 00:07:45.135086",
+  "generated_at": "2026-06-10 04:49:16.164991",
   "state": "Kerala",
   "capital": "Thiruvananthapuram",
   "ruling_party": "INC",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1269,
+    "total_articles": 1270,
     "articles_last_30d": 432
   },
   "top_cities_30d": {
-    "Delhi": 82,
+    "Delhi": 83,
     "Bengaluru": 37,
     "Hyderabad": 25,
     "Mumbai": 22,
@@ -24,18 +24,53 @@
     "Jaipur": 5
   },
   "top_topics_30d": {
-    "foreign_policy": 273,
+    "foreign_policy": 272,
     "education": 106,
-    "protest_opposition": 101,
+    "protest_opposition": 100,
     "crime_violence": 93,
-    "economy": 65,
-    "health": 39,
-    "political_gaffe": 39,
+    "economy": 64,
+    "political_gaffe": 40,
+    "health": 38,
     "corruption_scam": 37,
-    "infrastructure": 34,
+    "infrastructure": 33,
     "farmer_agriculture": 15
   },
   "recent_articles": [
+    {
+      "id": 67508,
+      "title": "Congress tries moving MLAs to Karnataka – in vain – as Meenakshi Natarajan’s Rajya Sabha nomination is rejected | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/congress-mla-karnataka-meenakshi-natarajan-rajya-sabha-madhya-pradesh-10731823/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/meenakshi-natarajan.jpg.jpeg",
+      "scraped_at": "2026-06-09 23:55:00.886686",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "The **BJP** secured a victory in the Rajya Sabha election after rejecting the nomination of **Congress** leader Meenakshi Natarajan. The rejection came after the BJP challenged her nomination, alleging incomplete disclosure of information related to a court case.  Despite attempts by the **Congress** to move its legislators to Karnataka to avoid potential influence from the BJP, the decision was made and the party's candidate was ultimately rejected. The **BJP** celebrated the victory while the **Congress** condemned the decision as an attempt to undermine democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "INC"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67478,
       "title": "Govt to kickstart ‘1 million Toofan Goals @World Cup 2026’ campaign in schools - The Hindu",
@@ -5367,28 +5402,6 @@
       "sentiment": "negative",
       "sentiment_target": "Ashkar",
       "rephrased_article": "A 21-year-old woman, Akhila, and her live-in partner, Ashkar, have been arrested for the murder of their one-and-a-half-year-old son, Arshid.  The post-mortem revealed that Arshid died from internal bleeding caused by sustained beatings, with 51 wounds found on his body. Police discovered evidence including a stick used to beat the child and a lighter used to burn him. Akhila admitted to witnessing Ashkar's abuse of her son but did not intervene. The investigation has also revealed that Ashkar has a history of violence against previous partners and is suspected of being involved in the deaths of other women.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 64596,
-      "title": "51 Wounds, Cigarette Burns: Kerala Toddler Arshid Abused For A Month, Killed By Mother's Lover Ashkar",
-      "url": "https://www.ndtv.com/india-news/51-wounds-cigarette-burns-kerala-toddler-arshid-abused-for-a-month-killed-by-stepfather-ashkar-11579563#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/ifd77eac_kerala-toddler-murder_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-02 11:22:45.398073",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Ashkar",
-      "rephrased_article": "A 21-year-old woman, Akhila, and her live-in partner, Ashkar, have been arrested in Kerala for the murder of their one-and-a-half-year-old son, Arshid.  The post-mortem revealed that Arshid died from internal bleeding caused by sustained beatings, with 51 wounds found on his body. **Ashkar** confessed to planning and carrying out the killing three months prior, stating he saw Arshid as an obstacle in his life. The police are investigating a history of violence against Ashkar's previous wife, Amina, and have uncovered evidence suggesting a pattern of domestic abuse.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [

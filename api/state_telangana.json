@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 00:07:45.198072",
+  "generated_at": "2026-06-10 04:49:16.232339",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,34 +8,69 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 545,
+    "total_articles": 546,
     "articles_last_30d": 175
   },
   "top_cities_30d": {
     "Hyderabad": 66,
-    "Delhi": 23,
+    "Delhi": 24,
     "Bengaluru": 18,
     "Mumbai": 11,
     "Chennai": 8,
     "Kolkata": 5,
+    "Bhopal": 3,
     "Kanpur": 3,
     "Ludhiana": 2,
-    "Amritsar": 2,
-    "Jaipur": 2
+    "Amritsar": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 98,
-    "economy": 35,
-    "infrastructure": 33,
+    "foreign_policy": 97,
+    "economy": 34,
+    "infrastructure": 32,
     "education": 29,
     "crime_violence": 28,
-    "protest_opposition": 19,
-    "political_gaffe": 19,
+    "political_gaffe": 20,
+    "protest_opposition": 18,
     "farmer_agriculture": 16,
-    "health": 14,
-    "rape_sexual_crime": 13
+    "rape_sexual_crime": 13,
+    "health": 13
   },
   "recent_articles": [
+    {
+      "id": 67508,
+      "title": "Congress tries moving MLAs to Karnataka – in vain – as Meenakshi Natarajan’s Rajya Sabha nomination is rejected | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/congress-mla-karnataka-meenakshi-natarajan-rajya-sabha-madhya-pradesh-10731823/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/meenakshi-natarajan.jpg.jpeg",
+      "scraped_at": "2026-06-09 23:55:00.886686",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Congress",
+      "rephrased_article": "The **BJP** secured a victory in the Rajya Sabha election after rejecting the nomination of **Congress** leader Meenakshi Natarajan. The rejection came after the BJP challenged her nomination, alleging incomplete disclosure of information related to a court case.  Despite attempts by the **Congress** to move its legislators to Karnataka to avoid potential influence from the BJP, the decision was made and the party's candidate was ultimately rejected. The **BJP** celebrated the victory while the **Congress** condemned the decision as an attempt to undermine democracy.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "INC"
+      ],
+      "ministers_mentioned": [
+        "Rahul"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Hyderabad",
+        "Bhopal"
+      ],
+      "topic_tags": [
+        "political_gaffe",
+        "crime_violence"
+      ]
+    },
     {
       "id": 67437,
       "title": "Meenakshi Natarajan named as respondent in private complaint - The Hindu",
@@ -5373,30 +5408,6 @@
       "sentiment": "neutral",
       "sentiment_target": "A. Revanth Reddy",
       "rephrased_article": "**Telangana** saw a mixed trend in road accident data for the first four months of 2026, with a rise in crashes and a decrease in fatalities.  While accidents increased by 2.5% to 9,313 between January and April this year, deaths fell to 2,363, marking a 15.3% decline from 2025. The **Chief Minister A. Revanth Reddy** launched the ‘Arrive Alive’ campaign in January to promote responsible driving and reduce accidents and fatalities.  The state attributed the reduction in deaths to a comprehensive road safety action plan that includes stricter enforcement of traffic rules, checks on overloading, action against unfit and illegally modified vehicles, and improvements in post-crash response.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Telangana"
-      ],
-      "cities_mentioned": [
-        "Hyderabad"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 56329,
-      "title": "Telangana sees more road accidents, fewer deaths in first quadrimester of 2026 - The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-sees-more-road-accidents-fewer-deaths-in-first-quadrimester-of-2026/article70935590.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-05-03 15:27:41.909067",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "A. Revanth Reddy",
-      "rephrased_article": "**Telangana** saw a mixed trend in road accident data for the first four months of 2026, with an increase in accidents and a decrease in fatalities.  The number of crashes rose by 2.5% to 9,313 between January and April this year, while deaths fell to 2,363, marking a 15.3% decline from 2025. **Chief Minister A. Revanth Reddy** launched the ‘Arrive Alive’ campaign in January to promote responsible driving and reduce both accidents and fatalities.  The state's efforts have been attributed to stricter enforcement of traffic rules, checks on overloading, action against unfit vehicles, and improvements in post-crash response.",
       "party_mentioned": [],
       "ministers_mentioned": [],
       "states_mentioned": [

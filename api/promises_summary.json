@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-10 00:07:45.613647",
+  "generated_at": "2026-06-10 04:49:16.704163",
   "stats": {
-    "total_promises": 157,
+    "total_promises": 158,
     "kept": 3,
     "broken": 12,
-    "ongoing": 140
+    "ongoing": 141
   },
   "by_status": {
     "broken": [
@@ -56,7 +56,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -131,7 +131,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -156,7 +156,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and schemes."
       },
       {
         "id": "p007",
@@ -206,7 +206,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 has passed and the target was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p011",
@@ -367,7 +367,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p013",
@@ -417,7 +417,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       },
       {
         "id": "p020",
@@ -564,7 +564,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, suggesting ongoing work on the promise."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       },
       {
         "id": "promise_1780208617_8",
@@ -1087,7 +1087,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780361059_5",
@@ -1210,7 +1210,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780373808_3",
@@ -1235,7 +1235,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
+        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
       },
       {
         "id": "promise_1780376713_4",
@@ -1635,7 +1635,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Shah met with the CM to discuss peace process, implying ongoing work."
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying work is ongoing."
       },
       {
         "id": "promise_1780436701_3",
@@ -1755,7 +1755,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise was made in a manifesto and the government is still in power."
+        "gemma_reasoning": "The promise is part of a manifesto for upcoming elections."
       },
       {
         "id": "promise_1780451941_6",
@@ -1836,7 +1836,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Cabinet expansion is ongoing, current size is 17."
+        "gemma_reasoning": "Cabinet expansion is ongoing with 17 members appointed."
       },
       {
         "id": "promise_1780484944_2",
@@ -1959,7 +1959,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
+        "gemma_reasoning": "The TMC is contesting the West Bengal assembly elections."
       },
       {
         "id": "promise_1780521517_7",
@@ -2275,7 +2275,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is set to begin July 1st, 2026, and is still in progress."
+        "gemma_reasoning": "The promise has a start date of July 1st, 2026, and is currently in progress."
       },
       {
         "id": "promise_1780697691_0",
@@ -2328,7 +2328,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre has identified clean drinking water access as a priority and is in power."
+        "gemma_reasoning": "Khandre is actively working to provide surface water for drinking purposes in rural areas."
       },
       {
         "id": "promise_1780745252_0",
@@ -2490,6 +2490,20 @@
         "party": "",
         "promise": "Mamata Banerjee vowed to rebuild the party and fight again on the streets.",
         "category": "politics",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1781048842_0",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay launched the 'Singappen Special Force' with an initial budget of ₹354 crore to address crimes against women and children.",
+        "category": "crime_violence",
         "status": "ongoing",
         "made_on": "",
         "deadline": "",
@@ -2679,7 +2693,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -2754,7 +2768,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -2779,7 +2793,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and schemes."
       },
       {
         "id": "p007",
@@ -2829,7 +2843,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 has passed and the target was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -2888,7 +2902,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -3305,7 +3319,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is actively touring border areas and meeting with officials."
+        "gemma_reasoning": "Amit Shah is currently touring border areas and meeting with officials."
       },
       {
         "id": "promise_1780370419_2",
@@ -3330,7 +3344,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Amit Shah is still in power and the policy is actively being implemented."
+        "gemma_reasoning": "Amit Shah is still in power and the policy is being implemented."
       },
       {
         "id": "promise_1780383641_1",
@@ -3397,7 +3411,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Shah met with the CM to discuss peace process, implying ongoing work."
+        "gemma_reasoning": "Amit Shah met with the Manipur CM to discuss peace, implying work is ongoing."
       },
       {
         "id": "promise_1780443870_2",
@@ -3706,7 +3720,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       },
       {
         "id": "promise_1780207073_7",
@@ -3731,7 +3745,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, suggesting ongoing work on the promise."
+        "gemma_reasoning": "Dilip Ghosh refuted claims the BJP would restrict fish consumption, indicating ongoing policy work."
       },
       {
         "id": "promise_1780332240_0",
@@ -3837,7 +3851,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The TMC is currently contesting the West Bengal assembly elections."
+        "gemma_reasoning": "The TMC is contesting the West Bengal assembly elections."
       },
       {
         "id": "promise_1781043204_2",
@@ -4018,7 +4032,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The target deadline is in 2027 and the party is in power."
+        "gemma_reasoning": "The target deadline year of 2027 has not yet passed."
       },
       {
         "id": "promise_1780383936_2",
@@ -4388,6 +4402,20 @@
         "person": "C. Joseph Vijay",
         "party": "",
         "promise": "Promised swift action against drug abuse.",
+        "category": "crime_violence",
+        "status": "ongoing",
+        "made_on": "",
+        "deadline": "",
+        "evidence_count": 0,
+        "evidence_articles": [],
+        "gemma_suggestion": null,
+        "gemma_reasoning": null
+      },
+      {
+        "id": "promise_1781048842_0",
+        "person": "C. Joseph Vijay",
+        "party": "",
+        "promise": "C. Joseph Vijay launched the 'Singappen Special Force' with an initial budget of ₹354 crore to address crimes against women and children.",
         "category": "crime_violence",
         "status": "ongoing",
         "made_on": "",
@@ -4951,7 +4979,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Khandre has identified clean drinking water access as a priority and is in power."
+        "gemma_reasoning": "Khandre is actively working to provide surface water for drinking purposes in rural areas."
       }
     ],
     "Pinarayi Vijayan": [
@@ -5063,7 +5091,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Cabinet expansion is ongoing, current size is 17."
+        "gemma_reasoning": "Cabinet expansion is ongoing with 17 members appointed."
       }
     ],
     "Suvendu Adhikari": [
@@ -5148,7 +5176,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise was made in a manifesto and the government is still in power."
+        "gemma_reasoning": "The promise is part of a manifesto for upcoming elections."
       }
     ],
     "Sukhvinder Singh Sukhu": [
@@ -5296,7 +5324,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "The promise is set to begin July 1st, 2026, and is still in progress."
+        "gemma_reasoning": "The promise has a start date of July 1st, 2026, and is currently in progress."
       }
     ]
   },
@@ -5350,7 +5378,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "CMIE data showed rising unemployment post-2016, contradicting the job creation promise."
+        "gemma_reasoning": "CMIE data consistently showed rising unemployment post-2016."
       },
       {
         "id": "p003",
@@ -5425,7 +5453,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 passed, and the $5 trillion GDP goal was not achieved."
+        "gemma_reasoning": "Target deadline of 2024 passed, and India's GDP remains below $5 trillion."
       },
       {
         "id": "p006",
@@ -5450,7 +5478,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Multiple corruption scandals involving BJP officials occurred."
+        "gemma_reasoning": "Multiple corruption scandals involving BJP leaders and schemes."
       },
       {
         "id": "p007",
@@ -5500,7 +5528,7 @@
           }
         ],
         "gemma_suggestion": "broken",
-        "gemma_reasoning": "Target deadline of 2024 has passed and the target was not met."
+        "gemma_reasoning": "Target deadline of 2024 has passed and the promise was not met."
       },
       {
         "id": "p009",
@@ -5559,7 +5587,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Bill introduced, Joint Parliamentary Committee examining it."
+        "gemma_reasoning": "Bill introduced, under parliamentary examination, not yet implemented."
       },
       {
         "id": "p011",
@@ -5814,7 +5842,7 @@
           }
         ],
         "gemma_suggestion": "ongoing",
-        "gemma_reasoning": "Political violence and dominance continue, making full assessment difficult."
+        "gemma_reasoning": "Political violence and worker dominance continue, making full assessment difficult."
       }
     ]
   }
