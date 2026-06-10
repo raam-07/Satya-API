@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 08:42:53.104507",
+  "generated_at": "2026-06-10 12:05:08.002245",
   "state": "Gujarat",
   "capital": "Gandhinagar",
   "ruling_party": "BJP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 1302,
-    "articles_last_30d": 581
+    "total_articles": 1305,
+    "articles_last_30d": 583
   },
   "top_cities_30d": {
-    "Delhi": 161,
-    "Ahmedabad": 79,
-    "Bengaluru": 74,
-    "Mumbai": 47,
+    "Delhi": 163,
+    "Ahmedabad": 80,
+    "Bengaluru": 75,
+    "Mumbai": 48,
     "Chennai": 35,
     "Kolkata": 28,
     "Hyderabad": 25,
@@ -24,18 +24,101 @@
     "Vadodara": 11
   },
   "top_topics_30d": {
-    "foreign_policy": 409,
-    "economy": 145,
-    "education": 104,
+    "foreign_policy": 410,
+    "economy": 146,
+    "education": 105,
     "crime_violence": 104,
     "infrastructure": 79,
     "protest_opposition": 76,
-    "political_gaffe": 45,
+    "political_gaffe": 46,
     "corruption_scam": 40,
     "farmer_agriculture": 26,
     "health": 23
   },
   "recent_articles": [
+    {
+      "id": 67602,
+      "title": "Ahmedabad plane crash: No pressure on families to accept final payout, says Air India | Business News - The Indian Express",
+      "url": "https://indianexpress.com/article/business/ahmedabad-plane-crash-no-pressure-on-families-to-accept-final-payout-says-air-india-10732820/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Photo-87.jpg",
+      "scraped_at": "2026-06-10 08:33:58.893906",
+      "category": "economy",
+      "sentiment": "neutral",
+      "sentiment_target": "Air India",
+      "rephrased_article": "**Air India** has responded to families of victims in the AI 171 crash, stating that there is no deadline or pressure for them to accept its final compensation offer. The airline clarified that families are free to wait until the final investigation report is released before deciding on accepting the compensation. **Air India** maintains that it is following international norms and that the compensation offered is fair and in accordance with the law.  The airline has also stated that it does not intend to shield any third parties from their legal liability, but rather wants to ensure that settlements are final.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat"
+      ],
+      "cities_mentioned": [
+        "Ahmedabad"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 67588,
+      "title": "UGC clears three foreign universities to begin intake process in Mumbai, Bengaluru campuses | Education News - The Indian Express",
+      "url": "https://indianexpress.com/article/education/ugc-clears-three-foreign-universities-to-begin-intake-process-in-mumbai-bengaluru-campuses-10732698/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Foreign-universities-letter-of-intent-pradhan.jpg",
+      "scraped_at": "2026-06-10 08:33:20.029240",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Union Education Minister Dharmendra Pradhan",
+      "rephrased_article": "**The University Grants Commission (UGC)** has approved three foreign universities to establish campuses in India, allowing them to begin student admissions. **The University of York**, **University of Bristol**, and **UNSW Sydney** received approvals for their respective campuses in Mumbai, Bengaluru, and Bengaluru, respectively. The UGC's decision follows the NEP's \"internationalisation\" proposal, with **Union Education Minister Dharmendra Pradhan** presiding over the announcement.  The institutions plan to offer various undergraduate and postgraduate programs upon commencement of operations in 2026.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67575,
+      "title": "‘The party stands united’: Sanjay Raut dismisses rumours of 7 Sena (UBT) MPs defecting to Shinde camp | Pune News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/shiv-sena-ubt-mps-defection-rumours-sanjay-raut-uddhav-thackeray-unity-10732862/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Sanjay-Raut-Fadnavis.jpg",
+      "scraped_at": "2026-06-10 08:32:57.529274",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Shiv Sena (UBT)",
+      "rephrased_article": "**Sanjay Raut**, spokesperson for the **Shiv Sena (UBT)**, denied reports that seven of its nine Lok Sabha MPs are planning to defect. He stated that the party remains united and that those who have previously defected will eventually do so.  Raut also condemned the trend of political defections, blaming central institutions and investigative agencies for creating an environment that incentivizes them. While acknowledging communication between factions, he emphasized that these conversations do not indicate defection.",
+      "party_mentioned": [
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Uddhav Thackeray",
+        "Eknath Shinde"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Pune",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67551,
       "title": "Nepal to reopen probe into royal palace massacre of 2001 - The Times of India",
@@ -49,7 +132,7 @@
       "rephrased_article": "**Nepal's** new Home Minister, Sudan Gurung, announced the reopening of files related to the 2001 royal massacre.  The incident saw **King Birendra Shah** and his family killed by then-crown prince Dipendra at the Narayanhiti Royal Palace. An official probe commission had previously dismissed its report on Dipendra's actions, but Gurung has vowed to reopen the investigation.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [],
@@ -78,7 +161,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
         "Pinarayi Vijayan"
       ],
@@ -110,7 +192,7 @@
       "rephrased_article": "Several Indian retail companies are planning initial public offerings (IPOs) exceeding 500 crore, driven by a shift in consumer behavior towards Tier II and III cities. **Sathya Agencies**, **SS Retail**, **Marri Retail**, and **RSB Retail** have already filed their draft red herring prospectuses (DRHPs), while companies like **Ratnadeep Retail**, **More Retail**, **Poorvika Mobiles**, **Sangeetha Gadgets**, **Pai International Electronics**, and **Big C Mobiles** are preparing for IPOs.  This trend is attributed to factors such as rising disposable incomes, formalization of the economy, improved digital connectivity, UPI-led payments adoption, aspirational spending influenced by social media, and better access to branded products.",
       "party_mentioned": [],
       "ministers_mentioned": [
-        "Shah"
+        "Amit Shah"
       ],
       "states_mentioned": [],
       "cities_mentioned": [
@@ -134,7 +216,6 @@
       "party_mentioned": [],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi"
       ],
       "states_mentioned": [],
@@ -5420,95 +5501,6 @@
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "economy"
-      ]
-    },
-    {
-      "id": 65339,
-      "title": "Marjane Satrapi refused to be drawn in black and white",
-      "url": "https://indianexpress.com/article/opinion/editorials/marjane-satrapi-refused-to-be-drawn-in-black-and-white-10724416/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Express-view-Copy-3-3_20260604154147.jpeg",
-      "scraped_at": "2026-06-04 16:05:55.714164",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Marjane Satrapi",
-      "rephrased_article": "**Marjane Satrapi**, a renowned Iranian-French graphic novelist and filmmaker, passed away at the age of 56.  Satrapi was known for her autobiographical work \"Persepolis,\" which explored her childhood experiences in Iran during the Islamic Revolution and subsequent years. She actively engaged with political activism in Iran throughout her life, praising the recent \"Woman, Life, Freedom\" protests as a feminist revolution. The world of Satrapi's childhood, shaped by the 1979 Islamic Revolution, will be missed as she refused to be drawn into simplistic black and white narratives.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Amit Shah"
-      ],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 65334,
-      "title": "Bhupinder Hooda's Remark Fuels Buzz Of Amarinder Singh's Congress Crossover",
-      "url": "https://www.ndtv.com/india-news/bhupinder-hoodas-remark-fuels-buzz-of-amarinder-singhs-congress-crossover-11591689#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/hgf13c6k_amarinder-_625x300_04_June_26.jpeg",
-      "scraped_at": "2026-06-04 16:04:55.439760",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Amarinder Singh",
-      "rephrased_article": "**Captain Amarinder Singh** is reportedly in contact with **Congress** leaders ahead of the Punjab elections next year, according to former Haryana chief minister **Bhupinder Hooda**.  **Hooda** described **Amarinder** as a senior Congress leader and long-time associate. **Amarinder**, who joined the BJP in 2021 after leaving the Congress, has expressed discomfort with the party's functioning and leadership style, citing a lack of personal outreach from leaders compared to the Congress.  While some senior Punjab Congress leaders have indicated that **Amarinder** would be welcomed back if he chooses to return, the BJP has dismissed the speculation as mere communication without political negotiations.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Akali Dal"
-      ],
-      "ministers_mentioned": [
-        "Amit Shah",
-        "Rahul Gandhi"
-      ],
-      "states_mentioned": [
-        "Haryana",
-        "Punjab",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "education",
-        "political_gaffe",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65330,
-      "title": "106 Reservoirs Below 40% As Weather Office Flags Weak Monsoon Risk",
-      "url": "https://www.ndtv.com/india-news/106-reservoirs-below-40-as-weather-office-flags-weak-monsoon-risk-11591823#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2019-05/h8cvdm7_dam-generic_625x300_07_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-04 16:04:34.367755",
-      "category": "environment",
-      "sentiment": "negative",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**India's** **IMD** has predicted a 10% below-normal monsoon rainfall, raising concerns for water-stressed areas. While national reservoir storage is slightly above last year's levels and the ten-year average, significant regional disparities exist. The Western region reports the highest surplus, followed by Northern and Central regions. However, the Eastern and Southern regions face deficits, with West Bengal reporting the largest deficit.  Several individual reservoirs across nine states are below 50% of their normal storage capacity.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Assam",
-        "Bihar",
-        "Gujarat",
-        "Himachal Pradesh",
-        "Karnataka",
-        "Kerala",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Mizoram",
-        "Tamil Nadu",
-        "Uttar Pradesh",
-        "Uttarakhand",
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
         "economy"
       ]
     }

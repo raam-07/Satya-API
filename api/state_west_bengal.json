@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 08:42:53.222422",
+  "generated_at": "2026-06-10 12:05:08.125364",
   "state": "West Bengal",
   "capital": "Kolkata",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": 0.82,
   "stats": {
-    "total_articles": 674,
-    "articles_last_30d": 279
+    "total_articles": 676,
+    "articles_last_30d": 280
   },
   "top_cities_30d": {
     "Kolkata": 109,
-    "Delhi": 64,
+    "Delhi": 66,
     "Mumbai": 14,
     "Bengaluru": 13,
     "Hyderabad": 10,
@@ -25,17 +25,89 @@
   },
   "top_topics_30d": {
     "foreign_policy": 215,
-    "education": 164,
-    "protest_opposition": 121,
+    "education": 166,
+    "protest_opposition": 123,
     "crime_violence": 89,
     "corruption_scam": 46,
     "economy": 45,
     "infrastructure": 26,
     "health": 15,
-    "rape_sexual_crime": 15,
-    "political_gaffe": 15
+    "political_gaffe": 15,
+    "rape_sexual_crime": 14
   },
   "recent_articles": [
+    {
+      "id": 67580,
+      "title": "West Bengal TMC Crisis Live Update, Mamata Banerjee: Sushmita Dev On Quitting Trinamool: Long Story, Won't Comment On Mamata Didi",
+      "url": "https://www.ndtv.com/india-news/west-bengal-tmc-crisis-live-updates-mamata-banerjee-abhishek-banerjee-trinamool-congress-bjp-11610857#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/bk858duk_tmc_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:33:10.316037",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Sushmita Dev**, a former Congress leader and Trinamool Congress MP, resigned from the Rajya Sabha, citing personal reasons. She is the second Trinamool MP to resign this week following **Sukhendu Sekhar Ray**.  Dev's resignation follows her meeting with Assam Chief Minister **Himanta Biswa Sarma** and her decision to support the BJP-led NDA government. The rebellion within the party has led to concerns about a potential split, potentially bringing the NDA closer to its two-thirds majority goal in the Lok Sabha.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67576,
+      "title": "Sushmita Dev Quits Trinamool, Meets Himanta Biswa Sarma For \"Guidance\"",
+      "url": "https://www.ndtv.com/india-news/trinamool-mp-sushmita-dev-quits-party-in-another-setback-for-mamata-banerjee-11615883#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ndisodr8_sushmita-dev-himanta-sarma-_650x400_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:33:00.512335",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Sushmita Dev**, a Trinamool Congress Rajya Sabha MP, resigned from all party posts and her membership on Wednesday.  She cited personal reasons for her decision, stating she wants to focus on serving the people of Assam. This follows the resignation of another **Trinamool** Rajya Sabha member, **Sukhendu Sekhar Ray**, who also criticized the party's leadership in a press statement. Dev joined the Trinamool in 2021 after previously serving as an MP from Silchar in Assam.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 67549,
       "title": "IMD forecast: Delhi likely to cool down on June 11; heavy rain batters Kerala, Karnataka | India News - The Indian Express",
@@ -6226,69 +6298,6 @@
         "foreign_policy",
         "corruption_scam",
         "protest_opposition"
-      ]
-    },
-    {
-      "id": 62990,
-      "title": "Mosque, temple and modernisation: Can Kolkata airport become world-class? - India Today",
-      "url": "https://www.indiatoday.in/india-today-insight/story/mosque-temple-and-modernisation-can-kolkata-airport-become-world-class-2919233-2026-05-29?utm_source=rss",
-      "source": "India Today",
-      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/acdsv-292300167-16x9_0.png?VersionId=sAsz.JYlPRITBwoKBcFSoDsKfRU6w8kK",
-      "scraped_at": "2026-05-30 21:41:45.467359",
-      "category": "regional",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "**Sourav Sikdar**, the BJP MLA from Uttar Dum Dum, and **Rammohan Naidu Kinjarapu**, the Union civil aviation minister, have confirmed plans to relocate a mosque and a temple near Kolkata's Netaji Subhas Chandra Bose International Airport for its expansion. The relocation is part of a larger redevelopment project aimed at transforming the airport into a world-class facility with an Aerocity district similar to Delhi's Indira Gandhi International Airport.  The government aims to boost economic benefits for the surrounding region, particularly the Uttar Dum Dum municipality, which currently earns around Rs 86 lakh annually from airport operations. The relocation of the mosque and temple is part of ongoing discussions that have been raised in Parliament since 1998.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Chandrababu Naidu"
-      ],
-      "states_mentioned": [
-        "West Bengal",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": 62988,
-      "title": "Video: Trinamool Congress Leader Abhishek Banerjee Assaulted During Visit To Party Worker's House",
-      "url": "https://www.ndtv.com/india-news/9-terrorists-with-links-to-paks-isi-dawood-ibrahim-arrested-were-planning-attacks-in-delhi-11567842#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-05/5kmcabp4_abhishek-banerjee-_625x300_30_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-05-30 21:41:41.316187",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Abhishek Banerjee",
-      "rephrased_article": "**Abhishek Banerjee**, Trinamool Congress leader, was attacked by a crowd in Sonarpur, West Bengal while visiting families affected by post-election violence. The incident occurred after his party's defeat in the assembly elections.  He was reportedly heckled and physically confronted amid heavy police presence. **Derek O'Brien**, Trinamool Congress national general secretary, condemned the attack and defended **Banerjee**. The BJP has denied involvement in the incident.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "TMC",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee"
-      ],
-      "states_mentioned": [
-        "West Bengal"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "foreign_policy",
-        "crime_violence",
-        "corruption_scam",
-        "education"
       ]
     }
   ]

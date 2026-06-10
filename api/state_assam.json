@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 08:42:53.081170",
+  "generated_at": "2026-06-10 12:05:07.977995",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 315,
-    "articles_last_30d": 85
+    "total_articles": 317,
+    "articles_last_30d": 87
   },
   "top_cities_30d": {
-    "Delhi": 22,
+    "Delhi": 24,
     "Kolkata": 6,
     "Mumbai": 4,
     "Chennai": 4,
@@ -24,18 +24,90 @@
     "Lucknow": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 64,
+    "foreign_policy": 65,
     "economy": 23,
     "crime_violence": 19,
+    "protest_opposition": 14,
+    "education": 14,
     "infrastructure": 12,
-    "protest_opposition": 12,
-    "education": 12,
     "farmer_agriculture": 9,
     "political_gaffe": 6,
     "corruption_scam": 5,
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67580,
+      "title": "West Bengal TMC Crisis Live Update, Mamata Banerjee: Sushmita Dev On Quitting Trinamool: Long Story, Won't Comment On Mamata Didi",
+      "url": "https://www.ndtv.com/india-news/west-bengal-tmc-crisis-live-updates-mamata-banerjee-abhishek-banerjee-trinamool-congress-bjp-11610857#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/bk858duk_tmc_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:33:10.316037",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Sushmita Dev**, a former Congress leader and Trinamool Congress MP, resigned from the Rajya Sabha, citing personal reasons. She is the second Trinamool MP to resign this week following **Sukhendu Sekhar Ray**.  Dev's resignation follows her meeting with Assam Chief Minister **Himanta Biswa Sarma** and her decision to support the BJP-led NDA government. The rebellion within the party has led to concerns about a potential split, potentially bringing the NDA closer to its two-thirds majority goal in the Lok Sabha.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67576,
+      "title": "Sushmita Dev Quits Trinamool, Meets Himanta Biswa Sarma For \"Guidance\"",
+      "url": "https://www.ndtv.com/india-news/trinamool-mp-sushmita-dev-quits-party-in-another-setback-for-mamata-banerjee-11615883#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ndisodr8_sushmita-dev-himanta-sarma-_650x400_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:33:00.512335",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Sushmita Dev**, a Trinamool Congress Rajya Sabha MP, resigned from all party posts and her membership on Wednesday.  She cited personal reasons for her decision, stating she wants to focus on serving the people of Assam. This follows the resignation of another **Trinamool** Rajya Sabha member, **Sukhendu Sekhar Ray**, who also criticized the party's leadership in a press statement. Dev joined the Trinamool in 2021 after previously serving as an MP from Silchar in Assam.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
     {
       "id": 67168,
       "title": "Adani Energy Signs Pact To Buy Smart Meter Firm IntelliSmart For Rs 3,050 Crore",
@@ -5862,63 +5934,6 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
-      ]
-    },
-    {
-      "id": 48971,
-      "title": "Assembly elections LIVE: Campaigning ends in Kerala, Assam, Puducherry today - The Hindu",
-      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-7-2026/article70832717.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/5spi92/article70832722.ece/alternates/LANDSCAPE_1200/PRPR5350.jpg%201.jpg",
-      "scraped_at": "2026-04-07 03:30:49.855002",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Indian Government",
-      "rephrased_article": "Public campaigning for the April 9 Kerala, Puducherry, and Assam Assembly polls ends on Tuesday. **Congress** in Kerala is ahead of its rivals, while **M.K. Stalin**, Tamil Nadu's Chief Minister and DMK president, claims the **Centre** has ignored Puducherry's plea for full statehood.  Prime Minister **Narendra Modi** urged voters to keep Congress out of power in Assam. The Election Commission of India (ECI) prohibits political advertisements from being published in newspapers on polling day or the day before.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "DMK"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "M.K. Stalin"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Kerala",
-        "Tamil Nadu",
-        "Puducherry"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": []
-    },
-    {
-      "id": 48951,
-      "title": "Keep Congress away for peace, development: PM in Assam - The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/congress-keeps-singing-to-pakistans-tunes-compromising-nations-security-pm-modi/article70829950.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/33ov9t/article70829992.ece/alternates/LANDSCAPE_1200/PTI04_06_2026_000204A.jpg",
-      "scraped_at": "2026-04-06 23:07:35.081950",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Prime Minister Narendra Modi** addressed election rallies in Assam, urging voters to keep the **Congress** party out of power for continued peace and development. He criticized the **Congress** for its alleged failure to address tribal poverty and violence, attributing it to their \"bloody game\" of politics and corruption.  Modi highlighted the NDA government's commitment to peace and development in the region, citing the example of the Bodos who suffered before the NDA's intervention. He also emphasized women's empowerment as a key priority for the BJP, highlighting its flagship Orunodoi scheme and the upcoming special session of Parliament on women's reservation.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "NDA"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Assam"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam"
       ]
     }
   ]

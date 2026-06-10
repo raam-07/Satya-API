@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 08:42:53.247086",
+  "generated_at": "2026-06-10 12:05:08.151355",
   "state": "Puducherry",
   "capital": "Puducherry",
   "ruling_party": "AINRC",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 148,
-    "articles_last_30d": 24
+    "total_articles": 149,
+    "articles_last_30d": 25
   },
   "top_cities_30d": {
     "Chennai": 10,
-    "Delhi": 8,
+    "Delhi": 9,
     "Coimbatore": 5,
     "Madurai": 4,
     "Mumbai": 1,
@@ -25,16 +25,41 @@
   },
   "top_topics_30d": {
     "foreign_policy": 20,
-    "crime_violence": 4,
+    "crime_violence": 5,
     "health": 4,
     "education": 3,
     "protest_opposition": 3,
     "political_gaffe": 3,
     "economy": 2,
     "infrastructure": 2,
-    "corruption_scam": 1
+    "corruption_scam": 2
   },
   "recent_articles": [
+    {
+      "id": 67604,
+      "title": "Delhi Cop Demanded Rs 3 Crore Bribe To Influence CBI's Fake Drugs Probe",
+      "url": "https://www.ndtv.com/india-news/delhi-cop-demanded-rs-3-crore-bribe-to-influence-cbis-fake-drugs-probe-11616134#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/u84ldgbk_cbi-generic-_625x300_13_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:34:04.728457",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Police Inspector Pradeep Kumar Singh",
+      "rephrased_article": "The **Central Bureau of Investigation (CBI)** uncovered a Rs 5,000-crore fake medicine racket in Puducherry involving bribery and corruption.  **Delhi Police Inspector Pradeep Kumar Singh** and his associate were arrested for allegedly demanding a bribe of Rs 3 crore from the main accused, N Raja alias Valliappan. The investigation revealed that **Raja** had sent Rs 1 crore to Singh through hawala channels and was promised favorable outcomes in the case by leveraging influence over CBI officers and government officials.  The CBI is now working to uncover other individuals involved in this bribery scheme.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
     {
       "id": 67534,
       "title": "Weather today live updates imd weather forecast delhi ncr up noida heatwave warnings High Speed Winds Hit Delhi, Temperatures Continue To Soar",

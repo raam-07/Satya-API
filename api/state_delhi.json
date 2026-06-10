@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 08:42:53.231312",
+  "generated_at": "2026-06-10 12:05:08.134867",
   "state": "Delhi",
   "capital": "New Delhi",
   "ruling_party": "BJP",
@@ -8,34 +8,265 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 1366,
-    "articles_last_30d": 776
+    "total_articles": 1374,
+    "articles_last_30d": 783
   },
   "top_cities_30d": {
-    "Delhi": 768,
-    "Mumbai": 81,
-    "Bengaluru": 59,
+    "Delhi": 775,
+    "Mumbai": 83,
+    "Bengaluru": 60,
     "Kolkata": 46,
     "Hyderabad": 37,
-    "Chennai": 32,
+    "Chennai": 33,
     "Jaipur": 20,
-    "Pune": 15,
+    "Pune": 16,
     "Kanpur": 15,
     "Ahmedabad": 14
   },
   "top_topics_30d": {
-    "foreign_policy": 564,
-    "crime_violence": 240,
-    "education": 158,
-    "economy": 147,
-    "protest_opposition": 141,
-    "corruption_scam": 74,
+    "foreign_policy": 568,
+    "crime_violence": 242,
+    "education": 161,
+    "economy": 148,
+    "protest_opposition": 144,
+    "corruption_scam": 75,
     "infrastructure": 73,
-    "political_gaffe": 42,
+    "political_gaffe": 43,
     "health": 40,
     "rape_sexual_crime": 22
   },
   "recent_articles": [
+    {
+      "id": 67614,
+      "title": "Jayshree Ullal: Meet Jayshree Ullal: The highest-ranked Indian-origin woman on America's Richest Self-Made Women list with a $6.8 billion fortune | World News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-jayshree-ullal-the-highest-ranked-indian-origin-woman-on-americas-richest-self-made-women-list-with-a-6-8-billion-fortune/articleshow/131626019.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131626018,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-10 08:34:22.286488",
+      "category": "international",
+      "sentiment": "positive",
+      "sentiment_target": "Jayshree Ullal",
+      "rephrased_article": "**Jayshree Ullal**, a former engineer and executive at **Cisco Systems**, became one of the wealthiest self-made women in the United States after leading networking startup **Arista Networks** to success.  She joined Arista in 2008, transforming it from a small startup into a major supplier of networking infrastructure used in cloud and AI data centers. Ullal's leadership has helped **Arista Networks** achieve significant growth and become a key beneficiary of the AI revolution. Her journey exemplifies how exceptional leadership and long-term value creation can lead to extraordinary wealth in the technology sector, making her one of the most influential figures in modern technology.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "economy"
+      ]
+    },
+    {
+      "id": 67611,
+      "title": "Pok Protests: Pakistan launches manhunt for four PoK protesters after crackdown killing 19 kids, 7 pregnant women - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-launches-manhunt-for-four-pok-protesters-after-crackdown-killing-19-kids-7-pregnant-women/articleshow/131625952.cms",
+      "source": "Times of India",
+      "image_url": "https://static.toiimg.com/thumb/msid-131626015,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "scraped_at": "2026-06-10 08:34:19.284730",
+      "category": "international",
+      "sentiment": "negative",
+      "sentiment_target": "Pakistan Government",
+      "rephrased_article": "**Pakistan-occupied Kashmir (PoK)** authorities launched a search operation for four protesters and announced a bounty of Rs 1 crore for information leading to their arrest after massive protests in the region. **The crackdown**, which resulted in the death of 26 people, has been condemned by **India**, with the Ministry of External Affairs (MEA) calling it a \"pattern of fake news\" and alleging excessive force used against civilians.  **Pakistan's security forces** have also been accused of targeting the **Joint Awami Action Committee (JAAC)**, which is campaigning for economic reforms, and banning it under anti-terrorism laws.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "protest_opposition",
+        "foreign_policy",
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67604,
+      "title": "Delhi Cop Demanded Rs 3 Crore Bribe To Influence CBI's Fake Drugs Probe",
+      "url": "https://www.ndtv.com/india-news/delhi-cop-demanded-rs-3-crore-bribe-to-influence-cbis-fake-drugs-probe-11616134#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-05/u84ldgbk_cbi-generic-_625x300_13_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:34:04.728457",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Delhi Police Inspector Pradeep Kumar Singh",
+      "rephrased_article": "The **Central Bureau of Investigation (CBI)** uncovered a Rs 5,000-crore fake medicine racket in Puducherry involving bribery and corruption.  **Delhi Police Inspector Pradeep Kumar Singh** and his associate were arrested for allegedly demanding a bribe of Rs 3 crore from the main accused, N Raja alias Valliappan. The investigation revealed that **Raja** had sent Rs 1 crore to Singh through hawala channels and was promised favorable outcomes in the case by leveraging influence over CBI officers and government officials.  The CBI is now working to uncover other individuals involved in this bribery scheme.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi",
+        "Puducherry"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "corruption_scam"
+      ]
+    },
+    {
+      "id": 67593,
+      "title": "Google Cloud Outage In India As 3rd-Party Data Centre Fire Triggers Shutdown",
+      "url": "https://www.ndtv.com/india-news/google-cloud-outage-in-india-as-3rd-party-data-centre-fire-triggers-shutdown-11616299#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/89nghgoc_google-cloud_625x300_10_June_26.jpeg",
+      "scraped_at": "2026-06-10 08:33:31.997860",
+      "category": "other",
+      "sentiment": "neutral",
+      "sentiment_target": "Google Cloud",
+      "rephrased_article": "**Google Cloud**, a subsidiary of **Alphabet**, experienced intermittent network disruptions in India after a fire at a third-party data center triggered an emergency shutdown. The incident isolated a local point of presence in Delhi, reducing network capacity across the metropolitan area and affecting traffic from Delhi, Chennai, Mumbai, and nearby regions.  The company is exploring additional traffic mitigation measures while restoration efforts continue.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67588,
+      "title": "UGC clears three foreign universities to begin intake process in Mumbai, Bengaluru campuses | Education News - The Indian Express",
+      "url": "https://indianexpress.com/article/education/ugc-clears-three-foreign-universities-to-begin-intake-process-in-mumbai-bengaluru-campuses-10732698/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Foreign-universities-letter-of-intent-pradhan.jpg",
+      "scraped_at": "2026-06-10 08:33:20.029240",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Union Education Minister Dharmendra Pradhan",
+      "rephrased_article": "**The University Grants Commission (UGC)** has approved three foreign universities to establish campuses in India, allowing them to begin student admissions. **The University of York**, **University of Bristol**, and **UNSW Sydney** received approvals for their respective campuses in Mumbai, Bengaluru, and Bengaluru, respectively. The UGC's decision follows the NEP's \"internationalisation\" proposal, with **Union Education Minister Dharmendra Pradhan** presiding over the announcement.  The institutions plan to offer various undergraduate and postgraduate programs upon commencement of operations in 2026.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Gujarat",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67580,
+      "title": "West Bengal TMC Crisis Live Update, Mamata Banerjee: Sushmita Dev On Quitting Trinamool: Long Story, Won't Comment On Mamata Didi",
+      "url": "https://www.ndtv.com/india-news/west-bengal-tmc-crisis-live-updates-mamata-banerjee-abhishek-banerjee-trinamool-congress-bjp-11610857#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/bk858duk_tmc_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:33:10.316037",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Sushmita Dev**, a former Congress leader and Trinamool Congress MP, resigned from the Rajya Sabha, citing personal reasons. She is the second Trinamool MP to resign this week following **Sukhendu Sekhar Ray**.  Dev's resignation follows her meeting with Assam Chief Minister **Himanta Biswa Sarma** and her decision to support the BJP-led NDA government. The rebellion within the party has led to concerns about a potential split, potentially bringing the NDA closer to its two-thirds majority goal in the Lok Sabha.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "TMC",
+        "Trinamool",
+        "NDA"
+      ],
+      "ministers_mentioned": [
+        "Mamata Banerjee",
+        "Mamata",
+        "Didi",
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67576,
+      "title": "Sushmita Dev Quits Trinamool, Meets Himanta Biswa Sarma For \"Guidance\"",
+      "url": "https://www.ndtv.com/india-news/trinamool-mp-sushmita-dev-quits-party-in-another-setback-for-mamata-banerjee-11615883#publisher=newsstand",
+      "source": "NDTV",
+      "image_url": "https://c.ndtvimg.com/2026-06/ndisodr8_sushmita-dev-himanta-sarma-_650x400_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "scraped_at": "2026-06-10 08:33:00.512335",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Trinamool Congress",
+      "rephrased_article": "**Sushmita Dev**, a Trinamool Congress Rajya Sabha MP, resigned from all party posts and her membership on Wednesday.  She cited personal reasons for her decision, stating she wants to focus on serving the people of Assam. This follows the resignation of another **Trinamool** Rajya Sabha member, **Sukhendu Sekhar Ray**, who also criticized the party's leadership in a press statement. Dev joined the Trinamool in 2021 after previously serving as an MP from Silchar in Assam.",
+      "party_mentioned": [
+        "Congress",
+        "Trinamool"
+      ],
+      "ministers_mentioned": [
+        "Mamata",
+        "Didi"
+      ],
+      "states_mentioned": [
+        "Assam",
+        "West Bengal",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "education",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67575,
+      "title": "‘The party stands united’: Sanjay Raut dismisses rumours of 7 Sena (UBT) MPs defecting to Shinde camp | Pune News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/shiv-sena-ubt-mps-defection-rumours-sanjay-raut-uddhav-thackeray-unity-10732862/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/05/Sanjay-Raut-Fadnavis.jpg",
+      "scraped_at": "2026-06-10 08:32:57.529274",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Shiv Sena (UBT)",
+      "rephrased_article": "**Sanjay Raut**, spokesperson for the **Shiv Sena (UBT)**, denied reports that seven of its nine Lok Sabha MPs are planning to defect. He stated that the party remains united and that those who have previously defected will eventually do so.  Raut also condemned the trend of political defections, blaming central institutions and investigative agencies for creating an environment that incentivizes them. While acknowledging communication between factions, he emphasized that these conversations do not indicate defection.",
+      "party_mentioned": [
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Amit Shah",
+        "Shah",
+        "Uddhav Thackeray",
+        "Eknath Shinde"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Pune",
+        "Nashik"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67559,
       "title": "Delhi data centre fire may have destroyed equipment worth hundreds of crores - The Hindu",
@@ -80,7 +311,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "PM Modi",
         "Pinarayi Vijayan"
       ],
@@ -5505,213 +5735,6 @@
       "topic_tags": [
         "foreign_policy",
         "economy"
-      ]
-    },
-    {
-      "id": 65705,
-      "title": "Delhi High Court rejects 2020 riots accused Devangana Kalita’s plea seeking videos, WhatsApp chats | Legal News - The Indian Express",
-      "url": "https://indianexpress.com/article/legal-news/delhi-high-court-delhi-riots-devangana-kalita-plea-dismissed-10725815/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/IE-photo-story-80_20260605113613.jpg",
-      "scraped_at": "2026-06-05 12:16:17.159315",
-      "category": "crime",
-      "sentiment": "neutral",
-      "sentiment_target": "Devangana Kalita",
-      "rephrased_article": "The **Delhi High Court** vacated its stay on the trial court's ability to pass a final order regarding charges in the 2020 Northeast Delhi riots \"larger\" conspiracy case. This decision came after the court dismissed activist **Devangana Kalita's** plea seeking video footage and police chat records related to the violence. The prosecution had requested the transfer of the case from Justice Neena Bansal Krishna, who had previously allowed the trial court to continue hearing arguments on framing of charges.  The court is expected to issue a detailed order.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 65700,
-      "title": "Khan Sir booked for attempted murder after ‘shooting orders’ — ‘Fire, I’ll handle what happens’",
-      "url": "https://indianexpress.com/article/india/khan-sir-booked-murder-shooting-orders-fire-ill-handle-what-happens-10725837/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/khan-sir.jpg",
-      "scraped_at": "2026-06-05 12:15:51.096054",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Khan Sir",
-      "rephrased_article": "**Faizal Khan**, also known as **Khan Sir**, has been booked for attempted murder and under the Arms Act after his two security guards allegedly told police he ordered them to open fire during violence outside his coaching institute in Patna. The case follows claims by **Khan** that gunfire was fired outside his institute on June 2nd, a claim which contradicted initial investigations by police who said no evidence of firing was found.  The FIR was registered Thursday based on statements from the guards and witnesses who identified them as firing \"two rounds each\" from rifles.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Patna"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65690,
-      "title": "PM Modi's 12-year Tenure \"Phenomenal Victory\": Pawan Kalyan To NDTV",
-      "url": "https://www.ndtv.com/india-news/pm-modis-12-year-tenure-phenomenal-victory-pawan-kalyan-to-ndtv-11595033#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/q5d35qn8_pawan-kalyan_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-05 12:14:53.135834",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Narendra Modi",
-      "rephrased_article": "**Pawan Kalyan**, the Jana Sena Party chief, expressed admiration for **Narendra Modi**, citing his Gujarat Chief Minister tenure as a turning point.  Kalyan recalled being impressed by a speech delivered by Modi near the India-Pakistan border and believes that Modi possesses the qualities needed to lead the country. He praised PM Modi's leadership, particularly his decisions like Article 370 repeal and efforts to strengthen border security. **Kalyan** affirmed his unwavering support for **Modi**, stating he would stand by him \"through thick and thin.\"",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi",
-        "PM Modi"
-      ],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Gujarat",
-        "Delhi",
-        "Kashmir"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "political_gaffe"
-      ]
-    },
-    {
-      "id": 65689,
-      "title": "Putin Offers Su-57 Fighter To Delhi As India Searches Its 5th-Gen Jet",
-      "url": "https://www.ndtv.com/world-news/putin-offers-su-57-fighter-to-delhi-as-india-searches-its-5th-gen-jet-11595521#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/80kpjm94_su57-fighter-jet_625x300_05_June_26.jpeg",
-      "scraped_at": "2026-06-05 12:14:45.311565",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "India",
-      "rephrased_article": "**Vladimir Putin** renewed his offer to jointly develop the Russian fifth-generation fighter jet, the Su-57, with **India**. This comes as **India** seeks to acquire fifth-generation jets amid regional aerial capability advancements and delays in its own indigenous project, the Advanced Medium Combat Aircraft (AMCA).  **Putin** stated that Russia is willing to provide India with critical technologies for major defense platforms and weapons. While **India** exited the FGFA program in 2018 due to concerns about cost, technology transfer, and stealth capabilities, recent changes in Russian terms have made the Su-57 more appealing.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65686,
-      "title": "\"This Is Not 1962\": Arunachal Chief Minister Dismisses China's Claim",
-      "url": "https://www.ndtv.com/india-news/this-is-not-1962-arunachal-chief-minister-dismisses-chinas-claim-11595721#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2024-06/gu4pmni8_pema-khandu_625x300_02_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-05 12:14:31.578364",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Arunachal Pradesh",
-      "rephrased_article": "**Chief Minister Pema Khandu** dismissed **China's** latest claims over Arunachal Pradesh as \"meaningless\" during the 73rd plenary session of the North Eastern Council (NEC) in Shillong.  Khandu stated that the state is focused on development and infrastructure growth, emphasizing that such claims no longer hold significance for Arunachal Pradesh. He reiterated the state's position, stating they do not share a border with China but rather with Tibet. Khandu highlighted ongoing infrastructure projects worth nearly Rs 2 lakh crore in the power sector, connecting remote regions through roads, tunnels, bridges, and improved communication infrastructure.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Arunachal Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65639,
-      "title": "‘Punjab Police, jail authorities defied high court order’: SAD worker’s father moves contempt petition | Legal News - The Indian Express",
-      "url": "https://indianexpress.com/article/legal-news/punjab-police-jail-authorities-defied-high-court-order-sad-workers-father-moves-contempt-petition-10725414/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/04/Punjab-and-haryana-HC.jpg",
-      "scraped_at": "2026-06-05 08:52:49.571919",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Punjab Police",
-      "rephrased_article": "**Jagpreet Singh Sandhu**, a Senior Correspondent at **The Indian Express**, based in Chandigarh, is a veteran reporter with over a decade of experience covering legal, crime, and environmental issues. His recent coverage has focused on significant judicial verdicts, major financial scams, public health concerns, and the intersection of technology and law enforcement.  Sandhu's reporting often highlights administrative lapses and his work has been recognized for its tenacious follow-up on cold cases and courtroom drama with a focus on victim rights.",
-      "party_mentioned": [
-        "SAD"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Haryana",
-        "Punjab",
-        "Delhi",
-        "Chandigarh"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "corruption_scam",
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 65638,
-      "title": "Vietnam’s Green SM Limo electric taxi service debuts in Delhi-NCR | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/delhi/green-sm-ev-cab-service-launch-delhi-ncr-india-vinfast-10725398/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/EV.jpg",
-      "scraped_at": "2026-06-05 08:52:45.942895",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Green SM",
-      "rephrased_article": "**Green SM**, a Vietnam-based mobility company, launched its electric taxi service, Green SM Limo, in the National Capital Region. The company plans to deploy around 10,000 vehicles and focus on daily commuting, airport transfers, and business travel initially. **GSM Global** CEO Nguyen Van Thanh expressed confidence in India's potential for green transportation and highlighted the company's commitment to working with local partners.  The launch also included the announcement of Green Alliance Frontier, a platform connecting businesses working on sustainability-related projects.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 65633,
-      "title": "Delhi Hotel Fire, Flourish Stay BnB: Delhi Hotel Owner Lavkesh Bajaj Spent 15 Days In Tihar In 2025 For Fake Passports, Aadhaar Cards",
-      "url": "https://www.ndtv.com/india-news/delhi-hotel-fire-flourish-stay-bnb-delhi-hotel-owner-lavkesh-bajaj-spent-15-days-in-tihar-in-2025-for-fake-passports-aadhaar-cards-11594702#publisher=newsstand",
-      "source": "NDTV",
-      "image_url": "https://c.ndtvimg.com/2026-06/rsd7njik_delhi-fire_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "scraped_at": "2026-06-05 08:52:32.608794",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Lavkesh Bajaj",
-      "rephrased_article": "**Lavkesh Bajaj**, owner of the Delhi bed-and-breakfast where a fire killed 21 people, is facing charges related to facilitating illegal immigration.  In 2025, **Bajaj** was arrested for procuring fake Indian documents for Bangladeshi nationals, and he has been implicated in another case involving the Flourish Stay's operation without a fire NOC. Following the deadly fire at his establishment, **Bajaj** is currently under police custody and has confessed to fleeing the scene instead of helping victims.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
       ]
     }
   ]
