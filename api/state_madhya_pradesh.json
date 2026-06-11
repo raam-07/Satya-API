@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11 01:37:01.866678",
+  "generated_at": "2026-06-11 11:08:36.559744",
   "state": "Madhya Pradesh",
   "capital": "Bhopal",
   "ruling_party": "BJP",
@@ -8,12 +8,12 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 218,
-    "articles_last_30d": 124
+    "total_articles": 221,
+    "articles_last_30d": 127
   },
   "top_cities_30d": {
+    "Delhi": 38,
     "Bhopal": 38,
-    "Delhi": 37,
     "Bengaluru": 11,
     "Indore": 8,
     "Mumbai": 7,
@@ -24,18 +24,108 @@
     "Jaipur": 3
   },
   "top_topics_30d": {
-    "foreign_policy": 84,
-    "crime_violence": 38,
+    "foreign_policy": 87,
+    "crime_violence": 40,
     "education": 31,
     "political_gaffe": 22,
-    "protest_opposition": 16,
+    "health": 18,
+    "protest_opposition": 17,
     "economy": 16,
-    "health": 16,
     "rape_sexual_crime": 16,
-    "infrastructure": 11,
-    "corruption_scam": 8
+    "infrastructure": 13,
+    "farmer_agriculture": 8
   },
   "recent_articles": [
+    {
+      "id": 67916,
+      "title": "Birsa Munda: His legacy, Ulgulan and the Adivasi identity debate",
+      "url": "https://indianexpress.com/article/explained/explained-history/birsa-munda-legacy-ulgulan-adivasi-identity-explained-10733209/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2024/06/Untitled-design-2-6.jpg",
+      "scraped_at": "2026-06-11 02:06:01.350081",
+      "category": "international",
+      "sentiment": "neutral",
+      "sentiment_target": "Birsa Munda",
+      "rephrased_article": "On June 9th, tribal organizations in Jharkhand pledged to protect the legacy of **Birsa Munda**, an iconic Adivasi leader who fought against colonial rule and land encroachment.  **Amit Shah**, the Union Home Minister, was involved in a recent demand for delisting Christian converts from the Scheduled Tribes (ST) list, reigniting debate over Adivasi identity.  **Birsa Munda**, born in 1875, became known as \"Dharti Aba,\" leading the Ulgulan movement against colonial rule and non-tribal landlords. His influence extended beyond Jharkhand to other states, making him a central figure in debates about Adivasi rights, land ownership, religion, and self-governance.  He died in 1900 after being arrested for inciting resistance against British authority and Christian missionaries.",
+      "party_mentioned": [],
+      "ministers_mentioned": [
+        "Amit Shah"
+      ],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Ranchi"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition",
+        "farmer_agriculture"
+      ]
+    },
+    {
+      "id": 67907,
+      "title": "GI tag for rice, irrigation, sewing machines: As Chhattisgarh CM travels to villages, residents queue up with requests | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/blind-pregnant-girl-identifies-rapists-court-denies-bail-to-3-10733149/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Chief-Minister-visited-more-than-30-districts-holding-informal-public-meetings-aimed-at-hearing-complaints-and-demands-directly-from-residents.jpg",
+      "scraped_at": "2026-06-11 02:05:44.620343",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Vishnu Deo Sai",
+      "rephrased_article": "**Chhattisgarh Chief Minister Vishnu Deo Sai** conducted over 30 informal public meetings across the state, listening to residents' complaints and demands.  The outreach program, which spanned 40 days, focused on rural areas with a majority of complaints related to revenue matters, cleanliness, rural development, electricity supply, and water connectivity. **Sai** assured villagers that their demands would be addressed and announced the launch of a state-level grievance redressal system through a helpline.  The program generated over 6.43 lakh submissions across the 30 districts visited, leading to immediate action on several issues and disciplinary action against officials.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Chandrababu Naidu"
+      ],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "health",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 67890,
+      "title": "GI tag for rice, irrigation, sewing machines: As Chhattisgarh CM travels to villages, residents queue up with requests | India News - The Indian Express",
+      "url": "https://indianexpress.com/article/india/gi-tag-for-rice-irrigation-sewing-machines-as-chhattisgarh-cm-vishnu-deo-sai-travels-to-villages-residents-queue-up-with-requests-10733797/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Chief-Minister-visited-more-than-30-districts-holding-informal-public-meetings-aimed-at-hearing-complaints-and-demands-directly-from-residents.jpg",
+      "scraped_at": "2026-06-11 02:04:03.268983",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "Vishnu Deo Sai",
+      "rephrased_article": "**Chhattisgarh Chief Minister Vishnu Deo Sai** conducted a state-wide outreach program, visiting over 30 districts and holding informal public meetings to address residents' grievances. The program, which involved traveling by helicopter, focused on listening to complaints related to revenue matters, rural development, electricity supply, water connectivity, and road infrastructure.  Over 6.4 million submissions were received during the tour, with **Sai** promising action on most of the issues raised. Officials reported that several immediate actions were taken based on the complaints, including delivering sewing machines and directing work on drinking water projects. The program concluded with the launch of a state-level grievance redressal system accessible through a helpline.",
+      "party_mentioned": [
+        "BJP"
+      ],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Chhattisgarh",
+        "Madhya Pradesh"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy",
+        "health",
+        "infrastructure"
+      ]
+    },
     {
       "id": 67831,
       "title": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express",
@@ -5898,87 +5988,6 @@
       "topic_tags": [
         "foreign_policy",
         "health"
-      ]
-    },
-    {
-      "id": 45282,
-      "title": "Long queues seen at fuel pumps in Madhya Pradesh districts; Minister denies shortage - The Hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/long-queues-seen-at-fuel-pumps-in-madhya-pradesh-districts-minister-denies-shortage/article70784486.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/on2ytv/article70785608.ece/alternates/LANDSCAPE_1200/PTI03_16_2026_000398A.jpg",
-      "scraped_at": "2026-03-26 00:01:04.162695",
-      "category": "economy",
-      "sentiment": "neutral",
-      "sentiment_target": "Madhya Pradesh Government",
-      "rephrased_article": "**Govind Singh Rajput**, **Minister for Food, Civil Supplies, and Consumer Protection** of **Madhya Pradesh**, addressed reports of long queues at fuel pumps in the state, stating that there was no shortage of petrol and diesel. He attributed the queues to rumors circulating among the public and urged citizens not to engage in panic buying or hoarding. The Congress party criticized the BJP government for misleading the public, citing videos of queues in Indore.",
-      "party_mentioned": [
-        "BJP",
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Narendra Modi"
-      ],
-      "states_mentioned": [
-        "Madhya Pradesh"
-      ],
-      "cities_mentioned": [
-        "Indore"
-      ],
-      "topic_tags": [
-        "foreign_policy",
-        "economy"
-      ]
-    },
-    {
-      "id": 44921,
-      "title": "Monalisa Bhosle accuses director of ‘misbehaving’ with minor girls - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/monalisa-bhosle-accuses-director-of-misbehaving-with-minor-girls/article70781454.ece",
-      "source": "The Hindu",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "scraped_at": "2026-03-24 20:09:08.415789",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "film director",
-      "rephrased_article": "**Monalisa Bhosle**, a woman who gained notoriety during the Prayagraj Kumbh Mela last year, alleged that a film director she knows has been misbehaving with minor girls in the name of films.  She also claimed to be receiving death threats and that her posters are being burned. **Bhosle** requested government intervention, seeking help from both the Centre and state governments of Kerala and Madhya Pradesh, as well as protection for her marriage.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Kerala",
-        "Madhya Pradesh",
-        "Uttar Pradesh"
-      ],
-      "cities_mentioned": [
-        "Prayagraj"
-      ],
-      "topic_tags": [
-        "rape_sexual_crime"
-      ]
-    },
-    {
-      "id": 44782,
-      "title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
-      "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-lalu-yadavs-plea-to-quash-cbi-fir-in-land-for-jobs-case/article70779054.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/z9c1j8/article70779059.ece/alternates/LANDSCAPE_1200/PTI11_06_2025_000036B.jpg",
-      "scraped_at": "2026-03-24 10:05:36.975630",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Lalu Prasad Yadav",
-      "rephrased_article": "The **Delhi High Court** dismissed a petition by former Bihar Chief Minister and RJD supremo **Lalu Prasad Yadav** to quash the FIR in the land-for-jobs case. The court ruled that the petition lacked merit and dismissed it, leaving the case against **Yadav**, his family members, and others related to alleged land deals during his tenure as Railway Minister.  The case involves appointments made in the West Central Zone of Indian Railways between 2004 and 2009.",
-      "party_mentioned": [
-        "RJD"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Bihar",
-        "Madhya Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "corruption_scam"
       ]
     }
   ]

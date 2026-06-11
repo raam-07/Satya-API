@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11 01:37:01.924517",
+  "generated_at": "2026-06-11 11:08:36.615405",
   "state": "Telangana",
   "capital": "Hyderabad",
   "ruling_party": "INC",
@@ -8,34 +8,70 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 559,
-    "articles_last_30d": 177
+    "total_articles": 560,
+    "articles_last_30d": 178
   },
   "top_cities_30d": {
-    "Hyderabad": 66,
-    "Delhi": 27,
-    "Bengaluru": 21,
-    "Mumbai": 11,
+    "Hyderabad": 67,
+    "Delhi": 28,
+    "Bengaluru": 22,
+    "Mumbai": 12,
     "Chennai": 9,
     "Kolkata": 5,
     "Bhopal": 4,
     "Kanpur": 3,
-    "Ludhiana": 2,
-    "Amritsar": 2
+    "Bangalore": 3,
+    "Ludhiana": 2
   },
   "top_topics_30d": {
-    "foreign_policy": 97,
+    "foreign_policy": 98,
     "economy": 32,
     "infrastructure": 29,
     "crime_violence": 29,
     "education": 28,
-    "political_gaffe": 25,
+    "political_gaffe": 26,
     "protest_opposition": 17,
     "farmer_agriculture": 16,
     "health": 15,
     "rape_sexual_crime": 10
   },
   "recent_articles": [
+    {
+      "id": 67880,
+      "title": "After ascent to CM, Shivakumar’s ties with Bengaluru real estate firms back in focus | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/dk-shivakumar-real-estate-conflict-interest-karnataka-chief-minister-10733704/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/49_af295d_20260608174200_20260610180857.jpg",
+      "scraped_at": "2026-06-11 02:03:45.265839",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "D K Shivakumar",
+      "rephrased_article": "**D K Shivakumar**, the new Karnataka Chief Minister, has faced allegations of conflict of interest throughout his political career. These allegations stem from land deals involving real estate firms and projects during his time as urban development minister and involve properties in Benniganahalli, Minerva Mills, and Salarpuria Sattva Divinity project.  Shivakumar's tenure as CM will be scrutinized for its impact on public good versus private profit, particularly given ongoing legal challenges over land ownership disputes and protests against a proposed township in his home district.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67801,
       "title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
@@ -5418,38 +5454,6 @@
       "topic_tags": [
         "foreign_policy",
         "infrastructure"
-      ]
-    },
-    {
-      "id": 57775,
-      "title": "Maharashtra records highest number of 24,171 cases in crimes against children: NCRB report - The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-records-highest-number-of-24171-cases-in-crimes-against-children-ncrb-report/article70956080.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/jkghx9/article70958450.ece/alternates/LANDSCAPE_1200/iStock-1341625999.jpg",
-      "scraped_at": "2026-05-09 08:45:30.421982",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "crime against children",
-      "rephrased_article": "**Maharashtra** topped the country with 24,171 cases of crimes against children in 2024, followed by **Uttar Pradesh**.  **Mumbai** recorded the highest number of FIRs concerning crimes against women, while **Delhi** led in overall crime against women. The **National Crime Records Bureau (NCRB)** stated that the increase in reported crimes does not necessarily indicate an increase in crime itself and is a reflection of improved reporting practices.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Maharashtra",
-        "Rajasthan",
-        "Telangana",
-        "Uttar Pradesh",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Delhi",
-        "Bangalore",
-        "Pune",
-        "Nagpur"
-      ],
-      "topic_tags": [
-        "corruption_scam",
-        "foreign_policy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11 01:37:01.899442",
+  "generated_at": "2026-06-11 11:08:36.591315",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 575,
-    "articles_last_30d": 256
+    "total_articles": 576,
+    "articles_last_30d": 257
   },
   "top_cities_30d": {
-    "Delhi": 73,
+    "Delhi": 74,
     "Amritsar": 29,
     "Mumbai": 19,
     "Bengaluru": 19,
@@ -24,18 +24,52 @@
     "Ghaziabad": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 194,
+    "foreign_policy": 195,
     "crime_violence": 82,
     "economy": 65,
-    "education": 62,
+    "education": 63,
     "protest_opposition": 43,
     "health": 25,
     "infrastructure": 23,
-    "farmer_agriculture": 20,
-    "political_gaffe": 20,
+    "farmer_agriculture": 21,
+    "political_gaffe": 21,
     "corruption_scam": 16
   },
   "recent_articles": [
+    {
+      "id": 67883,
+      "title": "‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/desperate-bid-to-regain-power-why-bhagwant-mann-is-talking-about-an-sad-bjp-reunion-10733661/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Bhagwant-Mann-5_20260513030331_20260607104046_20260610180423.jpg",
+      "scraped_at": "2026-06-11 02:03:51.529239",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "SAD",
+      "rephrased_article": "**Bhagwant Mann**, Punjab Chief Minister, criticized the possibility of a renewed alliance between the **Shiromani Akali Dal (SAD)** and the **Bharatiya Janata Party (BJP)**, arguing it would be opportunistic and detrimental to Punjab.  He stated that such an alliance would not be based on ideology or public welfare, but rather on regaining political power after being rejected by voters. While BJP leaders like **Capt Amarinder Singh** have expressed support for an alliance, the possibility remains speculative with neither party publicly acknowledging negotiations. The potential alliance is fueled by electoral arithmetic and a desire to regain power in Punjab.",
+      "party_mentioned": [
+        "BJP",
+        "AAP",
+        "Akali Dal",
+        "SAD"
+      ],
+      "ministers_mentioned": [
+        "Arvind Kejriwal"
+      ],
+      "states_mentioned": [
+        "Punjab",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "foreign_policy",
+        "political_gaffe",
+        "education",
+        "farmer_agriculture"
+      ]
+    },
     {
       "id": 67864,
       "title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
@@ -55,7 +89,6 @@
       ],
       "ministers_mentioned": [
         "Narendra Modi",
-        "Modi",
         "Sharad Pawar"
       ],
       "states_mentioned": [
@@ -5612,30 +5645,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "crime_violence"
-      ]
-    },
-    {
-      "id": 61429,
-      "title": "In Spectrum: Memory, migration and making of Lahore’s urban soul (Part-I) - Newspaper - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002609/in-spectrum-memory-migration-and-making-of-lahores-urban-soul-part-i",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/241133147b9d0ce.webp",
-      "scraped_at": "2026-05-24 14:14:54.783542",
-      "category": "other",
-      "sentiment": "neutral",
-      "sentiment_target": "Gawalmandi",
-      "rephrased_article": "**Gawalmandi**, a historically significant neighborhood in central Lahore, is more than just a culinary destination. Its origins as a hub for buffalo milk production and trade shaped its identity before becoming a vibrant space reflecting the complexities of urban modernity in South Asia.  The area's transformation after Partition saw migrants from various communities adapt their food traditions to the new environment, creating a unique cultural tapestry. This process involved improvisation, social interaction, and the creation of shared spaces that fostered a sense of belonging. Gawalmandi embodies the concept of \"urban conviviality,\" where everyday encounters contribute to the neighborhood's character. Despite challenges like commercialization and political interventions, its historical significance remains evident in its architecture, food culture, and vibrant public life.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [
-        "Mumbai",
-        "Amritsar"
-      ],
-      "topic_tags": [
-        "foreign_policy"
       ]
     }
   ]

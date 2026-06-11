@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-11 01:37:01.851276",
+  "generated_at": "2026-06-11 11:08:36.544654",
   "state": "Karnataka",
   "capital": "Bengaluru",
   "ruling_party": "INC",
   "cm": "Siddaramaiah",
   "region": "South",
-  "cm_confidence": 0.75,
+  "cm_confidence": 0.84,
   "party_confidence": null,
   "stats": {
-    "total_articles": 876,
-    "articles_last_30d": 352
+    "total_articles": 884,
+    "articles_last_30d": 356
   },
   "top_cities_30d": {
-    "Bengaluru": 125,
-    "Delhi": 72,
-    "Bangalore": 31,
-    "Hyderabad": 17,
-    "Mumbai": 11,
+    "Bengaluru": 128,
+    "Delhi": 74,
+    "Bangalore": 33,
+    "Hyderabad": 18,
+    "Mumbai": 12,
     "Chennai": 11,
     "Ahmedabad": 10,
     "Coimbatore": 5,
@@ -24,18 +24,79 @@
     "Kolkata": 4
   },
   "top_topics_30d": {
-    "foreign_policy": 193,
+    "foreign_policy": 196,
     "education": 69,
-    "protest_opposition": 67,
+    "protest_opposition": 69,
     "economy": 57,
-    "political_gaffe": 53,
-    "crime_violence": 51,
-    "infrastructure": 41,
-    "corruption_scam": 25,
+    "political_gaffe": 54,
+    "crime_violence": 52,
+    "infrastructure": 43,
+    "corruption_scam": 26,
     "health": 24,
     "farmer_agriculture": 20
   },
   "recent_articles": [
+    {
+      "id": 67915,
+      "title": "40 years ago June 11, 1986: Army on alert in Haryana | The Indian Express",
+      "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-11-1986-army-on-alert-in-haryana-10733776/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/express-archive-June-11-1986.jpg",
+      "scraped_at": "2026-06-11 02:05:59.246088",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Haryana government",
+      "rephrased_article": "**Haryana** **government** has alerted the **army** to meet any situation following a report by the **Venkataramiah Commission**.  The government also requisitioned about 80 companies of paramilitary forces to help maintain peace. In Cape Town, violence between rival Black groups in a squatter camp resulted in five more deaths, bringing the total to ten. Meanwhile, Sikh extremists in Western Canada planned attacks on Expo-86 with rocket launchers and other weapons.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Haryana",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence",
+        "foreign_policy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67880,
+      "title": "After ascent to CM, Shivakumar’s ties with Bengaluru real estate firms back in focus | Political Pulse News - The Indian Express",
+      "url": "https://indianexpress.com/article/political-pulse/dk-shivakumar-real-estate-conflict-interest-karnataka-chief-minister-10733704/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/49_af295d_20260608174200_20260610180857.jpg",
+      "scraped_at": "2026-06-11 02:03:45.265839",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "D K Shivakumar",
+      "rephrased_article": "**D K Shivakumar**, the new Karnataka Chief Minister, has faced allegations of conflict of interest throughout his political career. These allegations stem from land deals involving real estate firms and projects during his time as urban development minister and involve properties in Benniganahalli, Minerva Mills, and Salarpuria Sattva Divinity project.  Shivakumar's tenure as CM will be scrutinized for its impact on public good versus private profit, particularly given ongoing legal challenges over land ownership disputes and protests against a proposed township in his home district.",
+      "party_mentioned": [
+        "BJP",
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Siddaramaiah"
+      ],
+      "states_mentioned": [
+        "Karnataka",
+        "Telangana",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "topic_tags": [
+        "corruption_scam",
+        "foreign_policy",
+        "political_gaffe"
+      ]
+    },
     {
       "id": 67856,
       "title": "Rahul meets Abhishek Banerjee amid push for INDIA bloc coordination - The Hindu",
@@ -54,9 +115,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi"
       ],
       "states_mentioned": [
@@ -90,8 +149,7 @@
       ],
       "ministers_mentioned": [
         "Siddaramaiah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -124,8 +182,7 @@
       ],
       "ministers_mentioned": [
         "Siddaramaiah",
-        "Akhilesh Yadav",
-        "Akhilesh"
+        "Akhilesh Yadav"
       ],
       "states_mentioned": [
         "Karnataka",
@@ -699,6 +756,28 @@
       "states_mentioned": [
         "Karnataka"
       ],
+      "cities_mentioned": [
+        "Bangalore",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 67431,
+      "title": "GBA orders municipal corporations to prepare action plan to improve roads, junctions amid monsoon - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/gba-orders-municipal-corporations-to-prepare-action-plan-to-improve-roads-junctions-amid-monsoon/article71081613.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/mf6x3r/article71082168.ece/alternates/LANDSCAPE_1200/DSC_3252.JPG",
+      "scraped_at": "2026-06-09 20:31:24.156018",
+      "category": "regional",
+      "sentiment": "positive",
+      "sentiment_target": "D.K. Shivakumar",
+      "rephrased_article": "**The Greater Bengaluru Authority (GBA)** has directed municipal corporations to prepare an action plan for improving roads and congested junctions using a ₹2,000 crore fund announced by **Chief Minister D.K. Shivakumar**. The BDA will contribute 50% of the amount, while the remaining share will be provided by the State government. While residents welcome the announcement, they also point to ongoing infrastructure works causing inconvenience and highlight concerns about planning.  The GBA has directed corporations to prioritize areas with high traffic volumes and address citizen complaints regarding pedestrian infrastructure and waterlogged points.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
       "cities_mentioned": [
         "Bangalore",
         "Bengaluru"
@@ -5545,84 +5624,6 @@
       ],
       "topic_tags": [
         "foreign_policy"
-      ]
-    },
-    {
-      "id": 63518,
-      "title": "Karnataka senior leaders oppose appointing young MLAs as deputy CMs",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLWV6eTg3SEZfVHgzV3BiTmlRWXRhSE5GalZ5M0xRNVZXRTVWUjB3MVRielQ4eFZpRE5haWRmcE5GdzlGRTVyaWZJZTh0QzZTRERDRU8wTHlDRGYyMVJDZGVob1dqN1l1LThWSDM5bjJRcGNQVWd0NGZUWGIzS2xadnNhcmtXVDFOZi1jQlIyUERib3BENngzRXFla05BRkJkWkVxZjlzcU5CR0dWNXhKUThuQzZzbThoYzZXcg?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-30%2Ften7ima2%2FBeFunky-collage-2.jpg?rect=0%2C0%2C3264%2C1714&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 09:37:40.905131",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "Congress",
-      "rephrased_article": "**Senior Congress leaders**, including G Parameshwara, M B Patil, and Ramalinga Reddy, have expressed opposition to the appointment of young legislators as deputy chief ministers in the new **Karnataka** government. They met with **Congress President Mallikarjun Kharge** and AICC general secretary (organisation) K C Venugopal to convey their concerns, stating they would prefer to stay out of the government if younger leaders are appointed.  The **Congress high command** is considering appointing three deputy chief ministers representing different communities.",
-      "party_mentioned": [
-        "Congress"
-      ],
-      "ministers_mentioned": [
-        "Siddaramaiah"
-      ],
-      "states_mentioned": [
-        "Karnataka",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "protest_opposition"
-      ]
-    },
-    {
-      "id": 63488,
-      "title": "IGU Andhra Pradesh Junior Boys Golf Championship, Day-3: Dahiya stays ahead of field, Vihaan remains one stroke behind leader - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUXYtSTZQc1FxTE5YSEZ6ZzJ6VUpnS2M4U1BObGUzZWhQUmhJeDFNZHc2MjRxRVJlUWlTN0dDa1pxVTVOUE43OUo3NEdxekYyZm5hTGU0NkIyZC1NQlJBaW1FSHQzdEZrSnlET3RVMUwxSVlhSnJmY3dudUUtQnNqWjJ0UzgwempYZ1NDdE5WXzZNcUpjbkROcjlpUGR6V1VNcXEyWTEtUGhDOV96dVZ4WjVHU1RpVElPbUpkR2hDaW9keVpIR0F6QkJfa3E0YlZSd2d6VXZ3X2NjLTQ1RFlCM1VtakVVQTU5SjRKanVlUF83SkktSkY4?oc=5",
-      "source": "The Tribune",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJkZDQwZWMwLTRmYTctMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-      "scraped_at": "2026-05-31 09:35:48.106169",
-      "category": "sports",
-      "sentiment": "neutral",
-      "sentiment_target": "none",
-      "rephrased_article": "**Arjun Dahiya** and **Vihaan Jain** are tied for the lead after three days of competition in the IGU Andhra Pradesh Junior Boys Golf Championship.  Dahiya, who started the day with a one-over 73 card, held on to his overnight lead while **Vihaan Jain** struggled on the front nine but recovered with birdies on the 15th and 17th holes. The final round promises an exciting finish as only three strokes separate the top four players.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Andhra Pradesh",
-        "Haryana",
-        "Karnataka",
-        "Maharashtra",
-        "Punjab",
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi",
-        "Visakhapatnam"
-      ],
-      "topic_tags": []
-    },
-    {
-      "id": 63424,
-      "title": "Say 'Jai Shri Ram' in classrooms instead of 'Yes sir' during attendance calls: Karnataka BJP MLA Janardhan Reddy",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQ0gzckxxYjlBV0VNRlU5Mk41NmYzZFpWUTlRVDRvUmVSZVlTeWNXN0N0VEZTc1p5NTJyaXZNN0ZPWjA2dW9uMXN6ZnJ3MG13ZTNYQlhMQk9ZOXFBVzN6NGZaZVoycWw5UGZfOTlNRm9VTy1qbmppeHVvNmJxb1dqZlBvcnNKNnN0Z1kzc3ZfX1dsbm5nbmNSZDY0QWg1YXRCSU1JR3JKV2JEc19HRFpFYndLQmwySGxQTi1nSmlDVG9RUFRPQlNmWWxLX2o4WkR3MEpKSXZDM0pmRzJuQmZqZTRRQ3MxdEF4ckFjTzJSa2V4QkZWZmZZMkVLZzZzSnYxemNja2V5dGs0VnJ4c2dpdE9sUUY?oc=5",
-      "source": "Deccan Herald",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-05-22%2F6zqqsy1a%2Finsets.png?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "scraped_at": "2026-05-31 06:29:46.128120",
-      "category": "politics",
-      "sentiment": "positive",
-      "sentiment_target": "Karnataka BJP",
-      "rephrased_article": "**Karnataka BJP MLA G Janardhana Reddy** has voiced support for former party leader **Basanagouda Patil Yatnal’s** suggestion that students respond to teacher calls with \"Jai Shri Ram\" instead of \"Yes sir.\"  Reddy stated his full backing for the proposal, and expressed he would implement it himself at schools. The comments come amidst political reactions regarding the Karnataka government's decision to allow students to wear hijabs and other faith symbols in schools.",
-      "party_mentioned": [
-        "BJP"
-      ],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Karnataka"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition"
       ]
     }
   ]
