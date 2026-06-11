@@ -269,8 +269,9 @@ def enrich_articles(articles, entities):
             if len(alias_lower) >= 3:
                 pattern = r'\b' + re.escape(alias_lower) + r'\b'
                 for match in re.finditer(pattern, text_lower):
-                    # Ambiguity check for common surnames
-                    if alias_lower in {"modi", "shah", "yadav", "gandhi", "banerjee", "kejriwal"}:
+                    # Any single-word alias (surname/nickname) is ambiguous —
+                    # require contextual confirmation. Multi-word aliases pass.
+                    if ' ' not in alias_lower:
                         keywords = minister_keywords.get(canonical, set())
                         if verify_surname_context(match, text_lower, keywords):
                             all_ministers_canonical.add(canonical)
@@ -310,6 +311,10 @@ def enrich_articles(articles, entities):
                     # Extra check for "Congress" — only count if Indian context
                     if canonical in ['INC', 'Congress']:
                         if 'us congress' in text_lower or 'american congress' in text_lower or 'congressional' in text_lower:
+                            continue
+                        # Bare "inc" matches corporate names ("Apple Inc.").
+                        # Only accept if the text actually says "Congress".
+                        if alias_lower == 'inc' and 'congress' not in text_lower:
                             continue
                     implicit_parties.add(canonical)
 
@@ -676,7 +681,7 @@ def build_minister_pages(articles, entities, promises):
                         "id": p['id'],
                         "promise": p['promise'],
                         "status": p['status'],
-                        "made_on": p.get('made_on', ''),
+                        "made_on": p.get('made_on') or str(p.get('created_at', ''))[:10],
                         "evidence_count": len(p.get('evidence_articles', [])),
                         "evidence_articles": p.get('evidence_articles', [])
                     })
@@ -766,11 +771,21 @@ def build_topic_pages(articles, entities):
 
     return generated
 
-def build_promises_summary(promises):
+def build_promises_summary(promises, entities=None):
     """Promise tracker summary JSON."""
     if not promises:
         return False
     logging.info("Building promises_summary.json")
+
+    # Person -> party map from entities.json to backfill auto-extracted promises
+    person_party = {}
+    if entities:
+        for m in (entities['india']['cabinet_ministers'] +
+                  entities['india']['state_chief_ministers'] +
+                  entities['india']['opposition_leaders'] +
+                  entities['india'].get('generic_politicians', [])):
+            if m.get('name') and m.get('party'):
+                person_party[m['name']] = m['party']
 
     by_status = defaultdict(list)
     by_person = defaultdict(list)
@@ -779,7 +794,7 @@ def build_promises_summary(promises):
     for p in promises.get('promises', []):
         status = p.get('status', 'ongoing')
         person = p.get('person', '')
-        party = p.get('party', '')
+        party = p.get('party', '') or person_party.get(person, '')
 
         light = {
             "id": p['id'],
@@ -788,7 +803,7 @@ def build_promises_summary(promises):
             "promise": p['promise'],
             "category": p.get('category', ''),
             "status": status,
-            "made_on": p.get('made_on', ''),
+            "made_on": p.get('made_on') or str(p.get('created_at', ''))[:10],
             "deadline": p.get('deadline', ''),
             "evidence_count": len(p.get('evidence_articles', [])),
             "evidence_articles": p.get('evidence_articles', []),  # <-- Injected: Sends the actual articles to the frontend!
@@ -807,7 +822,8 @@ def build_promises_summary(promises):
             "total_promises": len(promises.get('promises', [])),
             "kept": len(by_status.get('kept', [])),
             "broken": len(by_status.get('broken', [])),
-            "ongoing": len(by_status.get('ongoing', []))
+            "ongoing": len(by_status.get('ongoing', [])),
+            "void": len(by_status.get('void', []))
         },
         "by_status": dict(by_status),
         "by_person": dict(by_person),
@@ -1041,7 +1057,7 @@ def main():
     states = build_state_pages(articles, entities, promises)
     ministers = build_minister_pages(articles, entities, promises)
     topics = build_topic_pages(articles, entities)
-    has_promises = build_promises_summary(promises)
+    has_promises = build_promises_summary(promises, entities)
 
     # 3. Build manifest
     build_manifest(parties, states, ministers, topics, has_promises)
