@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 23:02:43.423102",
+  "generated_at": "2026-06-11 01:37:01.656906",
   "current_government": {
     "ruling_party": "BJP",
     "ruling_coalition": "NDA",
@@ -7,17 +7,17 @@
     "president": "Droupadi Murmu"
   },
   "stats": {
-    "total_articles_classified": 25070,
-    "articles_last_7_days": 2546,
-    "articles_last_30_days": 8114,
-    "civic_flags_last_30_days": 272,
-    "civic_flags_today": 13
+    "total_articles_classified": 25108,
+    "articles_last_7_days": 2552,
+    "articles_last_30_days": 8135,
+    "civic_flags_last_30_days": 274,
+    "civic_flags_today": 14
   },
   "civic_alert": {
-    "flagged_count_30d": 272,
-    "flagged_today": 13,
+    "flagged_count_30d": 274,
+    "flagged_today": 14,
     "top_flag_categories": {
-      "power_abuse": 229,
+      "power_abuse": 231,
       "institutional_failure": 24,
       "scale_of_harm": 16,
       "suppression": 3
@@ -25,288 +25,320 @@
   },
   "top_stories": [
     {
-      "id": 67838,
-      "title": "'The Donald of Dubai': UAE billionaire close to Trump bets $66 billion on AI to become the world's data king - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/international/uae/the-donald-of-dubai-uae-billionaire-close-to-trump-bets-66-billion-on-ai-to-become-the-worlds-data-king/articleshow/131643926.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131643957,width-1200,height-630,imgsize-76802,overlay-economictimes/articleshow.jpg",
-      "scraped_at": "2026-06-10 21:39:43.328110",
-      "category": "economy",
-      "sentiment": "positive",
-      "sentiment_target": "Hussain Sajwani",
-      "rephrased_article": "**Hussain Sajwani**, chairman of **DAMAC Properties**, is investing billions of dollars in data centers, aiming to become a global leader in the field.  Sajwani, who attended Donald Trump's inauguration and is on Forbes' Arab rich-list, saw an opportunity during the COVID-19 pandemic to pivot from real estate to data centers, spurred by the growth of cloud computing and AI. He has earmarked sites in 13 countries across multiple continents, with a total capacity of 6,000 megawatts and a projected cost of $66 billion. Sajwani believes the demand for data center space will continue to grow rapidly due to the rise of AI and hyperscalers like Amazon, Microsoft, and Google.",
+      "id": 67876,
+      "title": "Tamil Nadu government promoted seven IAS officers without Centre’s approval, Union Ministry tells Madras High Court - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-promoted-seven-ias-officers-without-centres-approval-union-ministry-tells-madras-high-court/article71085278.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bknjwc/article70603329.ece/alternates/LANDSCAPE_1200/IMG_FORT_ST_GEORGE_LEGIS_2_1_9TE0SB5E.jpg",
+      "scraped_at": "2026-06-10 23:31:07.437190",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Tamil Nadu government",
+      "rephrased_article": "The **Union Ministry of Personnel, Public Grievances and Pensions** stated that the Tamil Nadu government promoted seven Indian Administrative Service (IAS) officers to the grade of Chief Secretary without its approval.  The **Madras High Court** dismissed a public interest litigation petition challenging this promotion order, stating that only those directly affected by the promotions could file a case. The **Union Ministry** will take independent action regarding the promotions.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu"
+      ],
+      "cities_mentioned": [
+        "Chennai"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67875,
+      "title": "Excise seizes 23.42 grams of suspected heroin from lodge in Perumbavoor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/excise-seizes-2342-grams-of-suspected-heroin-from-lodge-in-perumbavoor/article71086380.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-10 23:31:03.667933",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**Excise department** officials seized 23.42 grams of suspected heroin from a lodge on PP Road in Perumbavoor, where **Noushad Alam**, an Assam native, had checked in.  The drug was found in 240 tiny containers and empty containers were also discovered.  **Alam** fled the room before the raid but investigators believe he has stayed at the lodge previously. In a separate incident, **Perumbavoor police** arrested **Shahida Khatoon**, a 25-year-old Assam woman, with 1.3 grams of suspected heroin during a raid as part of Operation Toofan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
+    {
+      "id": 67873,
+      "title": "EC begins preparations for bypolls to five vacant Assembly seats in T.N. - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ec-begins-preparations-for-bypolls-to-five-vacant-assembly-seats-in-tn/article71085577.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-10 23:30:59.252696",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Election Commission of India",
+      "rephrased_article": "**Chief Electoral Officer (CEO) Archana Patnaik** has written to District Collectors seeking details of Returning Officers (ROs) and Assistant Returning Officers (AROs) for the five Assembly seats vacated by members who resigned from the Tamil Nadu Legislative Assembly. The resignations, following those of **Chief Minister C. Joseph Vijay**, three AIADMK rebel MLAs, and another rebel MLA, have triggered by-election preparations.  The Election Commission of India (ECI) may announce by-elections within six months.",
       "party_mentioned": [
-        "Congress"
+        "AIADMK"
       ],
       "ministers_mentioned": [],
       "states_mentioned": [],
       "cities_mentioned": [],
       "topic_tags": [
-        "economy",
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67872,
+      "title": "T.N. CM Vijay calls on President, Vice President in New Delhi - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-calls-on-president-vice-president-in-new-delhi/article71085235.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/national/ao679r/article71086503.ece/alternates/LANDSCAPE_1200/murmu.jpg",
+      "scraped_at": "2026-06-10 23:30:56.446888",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "T.N. CM Vijay",
+      "rephrased_article": "**C. Joseph Vijay**, Tamil Nadu Chief Minister, visited **President Droupadi Murmu** at Rashtrapati Bhavan in New Delhi on Wednesday. He also met with **Vice-President C.P. Radhakrishnan**, **Congress Parliamentary Party chairperson Sonia Gandhi**, and **Leader of the Opposition in the Lok Sabha Rahul Gandhi**.  Vijay's visit included discussions with leaders from various political parties, including the Communist Party of India (CPI) and its general secretary **D. Raja**.",
+      "party_mentioned": [
+        "Congress",
+        "CPI"
+      ],
+      "ministers_mentioned": [
+        "Rahul Gandhi",
+        "Rahul",
+        "Sonia Gandhi"
+      ],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Delhi",
+        "Chennai"
+      ],
+      "topic_tags": [
+        "political_gaffe"
+      ]
+    },
+    {
+      "id": 67871,
+      "title": "Protecting federalism must be the INDIA bloc’s ‘glue’ - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/protecting-federalism-must-be-the-india-blocs-glue/article71085764.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bpjafw/article71085778.ece/alternates/LANDSCAPE_1200/20260608206L.jpg",
+      "scraped_at": "2026-06-10 23:30:52.812424",
+      "category": "politics",
+      "sentiment": "neutral",
+      "sentiment_target": "Congress party",
+      "rephrased_article": "**Omar Abdullah**, Chief Minister of Jammu and Kashmir, stated at the June 8, 2026 meeting of the **INDIA** alliance that the **Congress party** is uniquely positioned to act as a unifying force due to its presence in all Indian states.  While other parties are limited to specific regions, the **Congress**'s nationwide reach makes it crucial for the alliance's success, according to all participants.  Despite criticisms of the **Congress**, including concerns about electoral support and potential conflicts with allies, the party is widely recognized as essential for the bloc's advancement.",
+      "party_mentioned": [
+        "Congress"
+      ],
+      "ministers_mentioned": [
+        "Omar Abdullah"
+      ],
+      "states_mentioned": [
+        "Delhi",
+        "Jammu",
+        "Kashmir"
+      ],
+      "cities_mentioned": [
+        "Delhi"
+      ],
+      "topic_tags": [
+        "political_gaffe",
         "foreign_policy"
       ]
     },
     {
-      "id": 67837,
-      "title": "Zee Entertainment to raise $241 million for stategic initiatives - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-to-raise-241-million-for-stategic-initiatives/articleshow/131637145.cms",
-      "source": "Economic Times",
-      "image_url": "https://img.etimg.com/thumb/msid-131637145,width-1200,height-630,imgsize-25112,overlay-etmarkets/articleshow.jpg",
-      "scraped_at": "2026-06-10 21:39:38.518085",
-      "category": "economy",
+      "id": 67868,
+      "title": "Why TVK is eager to woo AIADMK cadre - The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/59h89d/article71086539.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2026-_2_1_46G318T7.jpg",
+      "scraped_at": "2026-06-10 23:30:45.152968",
+      "category": "politics",
       "sentiment": "neutral",
-      "sentiment_target": "Zee Entertainment",
-      "rephrased_article": "**Zee Entertainment** announced plans to raise funds after securing a deal with **FIFA** for the 2026 World Cup broadcast rights in India. The company, which has expanded its sports broadcasting portfolio and invested in other ventures like micro-drama app Bullet and visual effects studio PhantomFX, reported a loss in the March quarter due to higher expenses and advertising budget constraints.  The fundraise comes after uncertainty surrounding the tournament's availability in India.",
-      "party_mentioned": [],
+      "sentiment_target": "TVK",
+      "rephrased_article": "**The Tamilaga Vettri Kazhagam (TVK)**, a new political party formed by defectors from the **All India Anna Dravida Munnetra Kazhagam (AIADMK)**, has been attracting former AIADMK members and officials.  **Aadhav Arjuna**, a prominent figure in the TVK, stated that it is essentially a \"parent body\" to the AIADMK. This influx of defectors has led some to question whether the **TVK** is attempting to strengthen its organizational network by recruiting from the **AIADMK**.",
+      "party_mentioned": [
+        "DMK",
+        "AIADMK"
+      ],
       "ministers_mentioned": [],
       "states_mentioned": [],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "protest_opposition"
+      ]
+    },
+    {
+      "id": 67867,
+      "title": "SEZs in Tamil Nadu region register record export worth ₹2.2 lakh crore in 2025-26 - The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/sezs-in-tamil-nadu-region-register-record-export-worth-22-lakh-crore-in-2025-26/article71086296.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-10 23:30:42.918037",
+      "category": "economy",
+      "sentiment": "positive",
+      "sentiment_target": "Special Economic Zones (SEZ)",
+      "rephrased_article": "The **Special Economic Zones (SEZ)** of Tamil Nadu-Anadaman and Nicobar Islands-Puducherry (TAP) Region achieved a record high export value of ₹2.2 lakh crore in the financial year 2025-26, according to **Alex Paul Menon**, the **MEPZ Development Commissioner**. This represents an increase from ₹2.03 lakh crore in the previous fiscal year and is attributed to various initiatives aimed at improving ease of doing business. The region boasts 62 functional SEZs with a cumulative investment of ₹82,844 crore, attracting significant investments from companies like High Glory Footwear India Private Limited and Mylan Laboratories.  The TAP region's exports have grown significantly since 2014-15, creating over 6.26 lakh jobs and contributing to the overall forex earnings of the country.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Tamil Nadu",
+        "Puducherry"
+      ],
       "cities_mentioned": [],
       "topic_tags": [
         "economy"
       ]
     },
     {
-      "id": 67833,
-      "title": "Indian national Sandeep Singh arrested by ICE in California, wanted in Germany for attempted murder; may face deportation - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/indian-national-sandeep-singh-arrested-by-ice-in-california-wanted-in-germany-for-attempted-murder-may-faces-deportation/articleshow/131643590.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131644159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-06-10 21:39:27.008987",
+      "id": 67866,
+      "title": "Trump congratulates Modi on becoming India's longest-serving elected PM - The Hindu",
+      "url": "https://www.thehindu.com/news/national/trump-congratulates-modi-on-becoming-indias-longest-serving-elected-pm/article71086445.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/incoming/bfoshv/article71086545.ece/alternates/LANDSCAPE_1200/PTI06_10_2026_000321B.jpg",
+      "scraped_at": "2026-06-10 23:30:40.486453",
       "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "Sandeep Singh",
-      "rephrased_article": "**ICE** arrested **Sandeep Singh**, a 40-year-old Indian national, in California for attempted murder in Germany.  Singh illegally entered the U.S. from Mexico in 2023 and is currently being held in ICE detention while immigration proceedings continue. Authorities have not provided details about the German warrant or the case. **ICE** has detained several other Indian nationals in recent years, primarily those with criminal records.",
+      "sentiment": "positive",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**President Donald Trump** congratulated **Prime Minister Narendra Modi** on becoming India's longest-serving Prime Minister, surpassing the record of Jawaharlal Nehru.  **Trump** praised **Modi** as a \"strong, healthy, and wise man\" with many years of success ahead.",
       "party_mentioned": [],
-      "ministers_mentioned": [],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi"
+      ],
       "states_mentioned": [],
       "cities_mentioned": [],
+      "topic_tags": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": 67865,
+      "title": "Ola driver held for assaulting elderly man who objected to him spitting on road in Thane | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/elderly-man-assaulted-after-objecting-to-driver-spitting-on-road-in-thane-10733755/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Eknath-Shinde-file-photo_20260601141634_20260610191604.jpg",
+      "scraped_at": "2026-06-10 23:30:34.850887",
+      "category": "crime",
+      "sentiment": "negative",
+      "sentiment_target": "Nishant Dhar Shukla",
+      "rephrased_article": "An **Ola** driver, **Nishant Dhar Shukla**, was arrested for allegedly assaulting a 70-year-old man who objected to him spitting on the road near Jupiter Hospital in Thane. The incident sparked outrage after videos of the assault surfaced online and prompted calls for action from **Deputy Chief Minister Eknath Shinde**.  **Shinde** directed police to investigate the case and consider an attempt-to-murder charge, while **Chief Minister Devendra Fadnavis** condemned the violence and promised swift action against anti-social elements.",
+      "party_mentioned": [
+        "Shiv Sena"
+      ],
+      "ministers_mentioned": [
+        "Eknath Shinde",
+        "Devendra Fadnavis"
+      ],
+      "states_mentioned": [
+        "Delhi"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Delhi",
+        "Thane"
+      ],
       "topic_tags": [
         "crime_violence",
         "foreign_policy"
       ]
     },
     {
-      "id": 67831,
-      "title": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/congress-approaches-supreme-court-over-meenakshi-natarajan-nomination-rejection-10733710/",
+      "id": 67864,
+      "title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
       "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Meenakshi-Natarajan_20260610071537_20260610182937.jpg",
-      "scraped_at": "2026-06-10 21:39:20.999817",
+      "image_url": "https://images.indianexpress.com/2026/06/Sharad-Pawar-file-photo_20260512190657_20260520190710_20260610191846.jpg",
+      "scraped_at": "2026-06-10 23:30:33.007053",
       "category": "politics",
       "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**The Congress** challenged the rejection of its candidate, **Meenakshi Natarajan**, for the Rajya Sabha election in Madhya Pradesh. The party filed a petition with the Supreme Court after an objection was raised by **Rahul Kothari**, a BJP state general secretary.  They argued that the returning officer's (RO) order disqualifying Natarajan should be withdrawn as there is no criminal case against her, and she did not have to disclose details of a private complaint in her affidavit. The Congress delegation requested the Election Commission to exercise its constitutional power under Article 324 to intervene and set aside the RO's order.",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Sharad Pawar**, NCP (SP) president, stated that there is no comparison between **Jawaharlal Nehru** and **Prime Minister Narendra Modi**.  Pawar emphasized the distinct achievements of both leaders during his speech at the party's 27th foundation day celebration in Mumbai. He also highlighted Indira Gandhi's dedication to national interests and condemned the controversial remarks made by Maharashtra BJP minister Girish Mahajan regarding Operation Blue Star, stating that it was a sacrifice for the nation.",
       "party_mentioned": [
         "BJP",
-        "Congress"
+        "Congress",
+        "SP",
+        "NCP"
       ],
       "ministers_mentioned": [
-        "Rahul"
+        "Narendra Modi",
+        "Modi",
+        "Sharad Pawar"
       ],
       "states_mentioned": [
-        "Madhya Pradesh"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "political_gaffe"
-      ]
-    },
-    {
-      "id": 67830,
-      "title": "Gujarat Confidential: ‘In-charge’, in line | Ahmedabad News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-confidential-in-charge-in-line-10733834/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Gujarat_20260610210954.jpg",
-      "scraped_at": "2026-06-10 21:39:11.400399",
-      "category": "politics",
-      "sentiment": "neutral",
-      "sentiment_target": "Gujarat Government",
-      "rephrased_article": "**Gujarat** has seen a revolving door of in-charge Directors General of Police (DGP) over the past 13 years.  After several interim appointments, **Pramod Kumar** served as in-charge DGP for two stints before retiring in March 2018. The state then saw three full-time DGPs: **Shivanand Jha**, **Ashish Bhatia**, and **Vikas Sahay**. All three received extensions to their tenures.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Gujarat"
+        "Maharashtra",
+        "Punjab"
       ],
       "cities_mentioned": [
-        "Ahmedabad"
-      ],
-      "topic_tags": [
-        "political_gaffe"
-      ]
-    },
-    {
-      "id": 67829,
-      "title": "On-duty traffic cop injured after being hit by speeding car in Southeast Delhi | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/cities/delhi/on-duty-traffic-cop-injured-after-being-hit-by-speeding-car-in-southeast-delhi-10733835/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/traffic-4col_20260610211349.jpg",
-      "scraped_at": "2026-06-10 21:39:04.415847",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "Delhi Police",
-      "rephrased_article": "A **Delhi Police** head constable, Rahul Kumar, sustained injuries after being struck by a speeding car driving from the wrong side of the road in Sarai Jullena on Tuesday morning. The incident occurred while Kumar was on duty at a red light.  The offending vehicle fled the scene, leaving Kumar injured. A case has been registered against the driver under relevant sections of the **Bharatiya Nyaya Sanhita** and the **Motor Vehicles Act**.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Rahul"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
+        "Mumbai",
+        "Amritsar"
       ],
       "topic_tags": [
         "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 67828,
-      "title": "Trump administration cracks down on ‘birth tourism’, revokes hundreds of visas: 'No foreigner is permitted...' - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-administration-cracks-down-on-birth-tourism-revokes-hundreds-of-visas-no-foreigner-is-permitted-/articleshow/131644173.cms",
-      "source": "Times of India",
-      "image_url": "https://static.toiimg.com/thumb/msid-131644237,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "scraped_at": "2026-06-10 21:39:03.710665",
-      "category": "international",
-      "sentiment": "neutral",
-      "sentiment_target": "US Government",
-      "rephrased_article": "**The US State Department** has intensified enforcement against \"birth tourism,\" revoking hundreds of visas and targeting organized networks facilitating childbirth trips for citizenship. The department claims to have identified over 600 cases across multiple regions, including West Africa, Europe, and North Africa, where individuals used fraudulent documents and visa brokers to enter the country. **The US** is tightening controls to protect the integrity of its immigration system and prevent misuse of visitor visas.  This crackdown aligns with previous efforts under the Trump administration to reduce fraud within the immigration system.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "protest_opposition",
-        "corruption_scam",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 67827,
-      "title": "3 Indians missing after attack on ship, Delhi summons US diplomat | India News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/3-indians-missing-after-attack-on-ship-delhi-summons-us-diplomat-10733836/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/ministry-of-external-affairs_20260606003018_20260610211628.jpg",
-      "scraped_at": "2026-06-10 21:38:54.274606",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "US",
-      "rephrased_article": "**India** summoned the US charge d'affaires, **Jason Meeks**, following an attack on a commercial ship off the coast of Oman that left three Indian crew members missing. The incident is the first since President Donald Trump returned to the White House in January 2025 and follows similar incidents involving Indian seafarers in recent months.  **India** condemned the attack, calling for de-escalation of tensions and the restoration of peace and stability in the region. The **Indian Ministry of External Affairs** reiterated its concerns about attacks on shipping and civilian infrastructure in the region.",
-      "party_mentioned": [],
-      "ministers_mentioned": [
-        "Arvind Kejriwal",
-        "Kejriwal"
-      ],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 67826,
-      "title": "Cyber fraud linked to over 159 cases across country unearthed, nearly Rs 67.92 cr routed through mule account | Delhi News - The Indian Express",
-      "url": "https://indianexpress.com/article/india/government-approves-price-hike-for-4-medicines-10733837/",
-      "source": "Indian Express",
-      "image_url": "https://images.indianexpress.com/2026/06/Cyber-fraud-generic-picture_20260608102023_20260610212007.jpg",
-      "scraped_at": "2026-06-10 21:38:48.656571",
-      "category": "crime",
-      "sentiment": "negative",
-      "sentiment_target": "cyber criminals",
-      "rephrased_article": "**Officers** at the East Delhi Cyber Police Station arrested a deputy manager of the **National Urban Cooperative Bank** for allegedly facilitating the opening of a mule account used to receive and route proceeds from over 159 cyber fraud cases across the country. The account, registered in the name of Mahakal Enterprises and purportedly belonging to Shailendra Kumar Yadav, was linked to complaints filed on the National Cyber Crime Reporting Portal (NCRP). Investigations revealed that the deputy manager did not visit the bank branch during the account opening period and his signatures did not match those on the forms.  Further investigation is underway to determine if a wider network is involved.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Delhi"
-      ],
-      "cities_mentioned": [
-        "Delhi"
-      ],
-      "topic_tags": [
-        "education",
-        "crime_violence"
-      ]
-    },
-    {
-      "id": 67825,
-      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents | WIRED",
-      "url": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
-      "source": "Wired",
-      "image_url": "https://media.wired.com/photos/6a28be619d2b42980b917b2f/191:100/w_1280,c_limit/2275885699",
-      "scraped_at": "2026-06-10 21:38:48.323725",
-      "category": "international",
-      "sentiment": "negative",
-      "sentiment_target": "Meta",
-      "rephrased_article": "A former **Meta** employee, who was laid off in May, is reported to have been detained by **US Immigration and Customs Enforcement (ICE)**.  The current status of the detained worker is unknown. Internal company communications indicate they were potentially detained in El Paso, Texas, a major US-Mexico border crossing point. This incident has sparked concerns among some employees about the lack of support from **Meta** for immigrant workers facing potential deportation by ICE.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "crime_violence",
+        "political_gaffe",
         "foreign_policy"
       ]
     }
   ],
   "category_breakdown_30d": {
-    "regional": 122,
-    "politics": 365,
-    "other": 416,
+    "economy": 259,
+    "other": 417,
+    "international": 716,
+    "health": 103,
+    "politics": 375,
+    "crime": 273,
     "education": 63,
-    "crime": 272,
-    "economy": 264,
-    "international": 715,
-    "health": 105,
-    "environment": 81,
+    "environment": 79,
+    "regional": 124,
     "sports": 143
   },
   "top_ministers_30d": {
-    "Narendra Modi": 398,
-    "Rahul Gandhi": 196,
-    "Amit Shah": 185,
-    "Mamata Banerjee": 138,
-    "Siddaramaiah": 100,
-    "Dharmendra Pradhan": 76,
-    "Mallikarjun Kharge": 70,
-    "C. Joseph Vijay": 69,
-    "Abhishek Banerjee": 68,
+    "Narendra Modi": 399,
+    "Rahul Gandhi": 198,
+    "Amit Shah": 186,
+    "Mamata Banerjee": 139,
+    "Siddaramaiah": 101,
+    "Dharmendra Pradhan": 77,
+    "C. Joseph Vijay": 72,
+    "Mallikarjun Kharge": 71,
+    "Abhishek Banerjee": 69,
     "S. Jaishankar": 60,
-    "JP Nadda": 47,
+    "JP Nadda": 46,
     "Suvendu Adhikari": 45,
     "M.K. Stalin": 43,
-    "Chandrababu Naidu": 37,
-    "Revanth Reddy": 35,
-    "Devendra Fadnavis": 33,
-    "Pinarayi Vijayan": 29,
-    "Omar Abdullah": 28,
+    "Chandrababu Naidu": 36,
+    "Revanth Reddy": 34,
+    "Devendra Fadnavis": 34,
+    "Omar Abdullah": 29,
+    "Pinarayi Vijayan": 28,
     "Yogi Adityanath": 28,
-    "V.D. Satheesan": 27,
+    "V.D. Satheesan": 26,
+    "Akhilesh Yadav": 26,
+    "Sonia Gandhi": 26,
     "Rajnath Singh": 25,
-    "Akhilesh Yadav": 24,
-    "Sonia Gandhi": 24,
-    "Sharad Pawar": 23,
+    "Sharad Pawar": 24,
     "Priyanka Gandhi": 22,
     "Nirmala Sitharaman": 20,
     "Nitish Kumar": 20,
     "Samrat Choudhary": 19,
     "Arvind Kejriwal": 18,
     "Rekha Gupta": 17,
+    "Eknath Shinde": 16,
     "Nitin Gadkari": 16,
     "Himanta Biswa Sarma": 15,
-    "Eknath Shinde": 14,
     "Krishna Byre Gowda": 13,
     "Hardeep Singh Puri": 13,
     "Piyush Goyal": 12,
     "Hemant Soren": 11,
-    "Mohan Yadav": 11,
     "Mehbooba Mufti": 11,
     "Bhagwant Mann": 10,
     "Uddhav Thackeray": 10,
+    "Mohan Yadav": 10,
     "Ashwini Vaishnaw": 10,
     "Smriti Irani": 8,
     "Bhupesh Baghel": 8,
@@ -332,29 +364,28 @@
     "Lalduhoma": 1,
     "Vishnu Deo Sai": 1,
     "Mansukh Mandaviya": 1,
-    "Neiphiu Rio": 1,
-    "Modi": 1
+    "Neiphiu Rio": 1
   },
   "top_parties_30d": {
-    "BJP": 1034,
-    "Congress": 700,
-    "INC": 650,
-    "TMC": 192,
-    "Trinamool": 158,
-    "TVK": 108,
-    "DMK": 101,
-    "SP": 91,
+    "BJP": 1039,
+    "Congress": 707,
+    "INC": 655,
+    "TMC": 193,
+    "Trinamool": 159,
+    "TVK": 111,
+    "DMK": 102,
+    "SP": 94,
     "AAP": 87,
     "SAD": 82,
-    "NDA": 66,
-    "AIADMK": 59,
-    "CPI": 56,
-    "CPM": 48,
-    "National Conference": 48,
-    "TDP": 41,
-    "NCP": 40,
-    "Shiv Sena": 37,
-    "Samajwadi Party": 33,
+    "NDA": 67,
+    "AIADMK": 60,
+    "CPI": 57,
+    "National Conference": 49,
+    "CPM": 47,
+    "NCP": 41,
+    "TDP": 40,
+    "Shiv Sena": 39,
+    "Samajwadi Party": 35,
     "Akali Dal": 27,
     "Janata Dal": 21,
     "JDU": 20,
@@ -378,44 +409,44 @@
     "NDPP": 1
   },
   "top_states_30d": {
-    "Delhi": 813,
-    "Gujarat": 592,
-    "Kerala": 452,
-    "Karnataka": 351,
-    "Tamil Nadu": 316,
-    "West Bengal": 289,
+    "Delhi": 823,
+    "Gujarat": 594,
+    "Kerala": 451,
+    "Karnataka": 352,
+    "Tamil Nadu": 321,
+    "West Bengal": 290,
     "Punjab": 256,
-    "Maharashtra": 252,
-    "Uttar Pradesh": 225,
-    "Kashmir": 204,
-    "Telangana": 180,
-    "Rajasthan": 176,
+    "Maharashtra": 253,
+    "Uttar Pradesh": 226,
+    "Kashmir": 206,
+    "Telangana": 177,
+    "Rajasthan": 177,
     "Odisha": 167,
-    "Andhra Pradesh": 160,
-    "Jammu": 135,
-    "Bihar": 134,
-    "Madhya Pradesh": 126,
-    "Haryana": 103,
-    "Himachal Pradesh": 101,
-    "Jammu and Kashmir": 92,
+    "Andhra Pradesh": 158,
+    "Jammu": 137,
+    "Bihar": 133,
+    "Madhya Pradesh": 124,
+    "Haryana": 102,
+    "Himachal Pradesh": 99,
+    "Jammu and Kashmir": 95,
     "Assam": 91,
-    "Chandigarh": 91,
-    "Uttarakhand": 58,
-    "Jharkhand": 54,
-    "Manipur": 52,
-    "Chhattisgarh": 47,
-    "Ladakh": 43,
-    "Goa": 34,
-    "Andaman": 29,
+    "Chandigarh": 90,
+    "Uttarakhand": 57,
+    "Jharkhand": 53,
+    "Manipur": 51,
+    "Chhattisgarh": 46,
+    "Ladakh": 42,
+    "Goa": 33,
+    "Andaman": 28,
     "Puducherry": 24,
-    "Meghalaya": 23,
-    "Sikkim": 19,
-    "Tripura": 17,
-    "Mizoram": 17,
-    "Nagaland": 16,
-    "Andaman and Nicobar": 13,
-    "Lakshadweep": 13,
-    "Arunachal Pradesh": 13,
+    "Meghalaya": 22,
+    "Sikkim": 18,
+    "Tripura": 16,
+    "Mizoram": 16,
+    "Nagaland": 15,
+    "Andaman and Nicobar": 12,
+    "Lakshadweep": 12,
+    "Arunachal Pradesh": 12,
     "UP": 1
   },
   "promise_summary": {

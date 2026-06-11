@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 23:02:43.678897",
+  "generated_at": "2026-06-11 01:37:01.899442",
   "state": "Punjab",
   "capital": "Chandigarh",
   "ruling_party": "AAP",
@@ -8,14 +8,14 @@
   "cm_confidence": null,
   "party_confidence": 1.0,
   "stats": {
-    "total_articles": 574,
+    "total_articles": 575,
     "articles_last_30d": 256
   },
   "top_cities_30d": {
-    "Delhi": 74,
-    "Amritsar": 28,
+    "Delhi": 73,
+    "Amritsar": 29,
+    "Mumbai": 19,
     "Bengaluru": 19,
-    "Mumbai": 18,
     "Ludhiana": 15,
     "Ahmedabad": 11,
     "Chennai": 8,
@@ -25,17 +25,53 @@
   },
   "top_topics_30d": {
     "foreign_policy": 194,
-    "crime_violence": 81,
+    "crime_violence": 82,
     "economy": 65,
-    "education": 63,
-    "protest_opposition": 44,
+    "education": 62,
+    "protest_opposition": 43,
     "health": 25,
     "infrastructure": 23,
     "farmer_agriculture": 20,
-    "political_gaffe": 19,
+    "political_gaffe": 20,
     "corruption_scam": 16
   },
   "recent_articles": [
+    {
+      "id": 67864,
+      "title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
+      "source": "Indian Express",
+      "image_url": "https://images.indianexpress.com/2026/06/Sharad-Pawar-file-photo_20260512190657_20260520190710_20260610191846.jpg",
+      "scraped_at": "2026-06-10 23:30:33.007053",
+      "category": "politics",
+      "sentiment": "negative",
+      "sentiment_target": "Narendra Modi",
+      "rephrased_article": "**Sharad Pawar**, NCP (SP) president, stated that there is no comparison between **Jawaharlal Nehru** and **Prime Minister Narendra Modi**.  Pawar emphasized the distinct achievements of both leaders during his speech at the party's 27th foundation day celebration in Mumbai. He also highlighted Indira Gandhi's dedication to national interests and condemned the controversial remarks made by Maharashtra BJP minister Girish Mahajan regarding Operation Blue Star, stating that it was a sacrifice for the nation.",
+      "party_mentioned": [
+        "BJP",
+        "Congress",
+        "SP",
+        "NCP"
+      ],
+      "ministers_mentioned": [
+        "Narendra Modi",
+        "Modi",
+        "Sharad Pawar"
+      ],
+      "states_mentioned": [
+        "Maharashtra",
+        "Punjab"
+      ],
+      "cities_mentioned": [
+        "Mumbai",
+        "Amritsar"
+      ],
+      "topic_tags": [
+        "crime_violence",
+        "political_gaffe",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67737,
       "title": "Himachal receives nearly 2,790 tonnes of urea ahead of kharif | India News - The Indian Express",
@@ -5599,28 +5635,6 @@
         "Amritsar"
       ],
       "topic_tags": [
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 61420,
-      "title": "PM Shehbaz lands in Beijing, will hold 'high-level' meetings with Chinese leadership - Pakistan - DAWN.COM",
-      "url": "https://www.dawn.com/news/2002753/pm-shehbaz-lands-in-beijing-will-hold-high-level-meetings-with-chinese-leadership",
-      "source": "The Dawn",
-      "image_url": "https://i.dawn.com/large/2026/05/24182845dfbe545.webp",
-      "scraped_at": "2026-05-24 14:11:51.289271",
-      "category": "international",
-      "sentiment": "positive",
-      "sentiment_target": "Pakistan",
-      "rephrased_article": "**Prime Minister Shehbaz Sharif** arrived in Beijing on Sunday to meet with Chinese leadership, including President Xi Jinping and Premier Li Qiang.  He discussed strengthening the Pakistan-China all-weather strategic cooperative partnership and advancing cooperation under CPEC Phase-II. **Shehbaz** highlighted areas of importance for Pakistani-Chinese cooperation, such as agriculture, IT, special economic zones (SEZs), and mining. He also emphasized the potential of renewable energy, healthcare, and investment opportunities in Pakistan.  **DPM Ishaq Dar**, accompanied by Planning Minister Ahsan Iqbal, arrived in Beijing to participate in the 2nd Pakistan–China Political Parties Forum and the 4th CPEC Political Parties Joint Consultation Mechanism. **Dar** highlighted Pakistan's economic revival and emphasized a billion-dollar joint venture between Servis Group of Pakistan and Long March Tyres of China.  The visit is significant as Pakistan and China commemorate the 75th anniversary of diplomatic relations.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Punjab"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
         "foreign_policy"
       ]
     }

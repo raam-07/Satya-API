@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 23:02:43.576118",
+  "generated_at": "2026-06-11 01:37:01.800225",
   "state": "Assam",
   "capital": "Dispur",
   "ruling_party": "BJP",
@@ -8,11 +8,11 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 323,
+    "total_articles": 324,
     "articles_last_30d": 91
   },
   "top_cities_30d": {
-    "Delhi": 26,
+    "Delhi": 25,
     "Kolkata": 6,
     "Mumbai": 4,
     "Chennai": 4,
@@ -24,11 +24,11 @@
     "Lucknow": 1
   },
   "top_topics_30d": {
-    "foreign_policy": 65,
+    "foreign_policy": 64,
     "economy": 22,
-    "crime_violence": 20,
-    "education": 18,
-    "protest_opposition": 16,
+    "crime_violence": 21,
+    "education": 17,
+    "protest_opposition": 15,
     "infrastructure": 11,
     "farmer_agriculture": 8,
     "political_gaffe": 6,
@@ -36,6 +36,27 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67875,
+      "title": "Excise seizes 23.42 grams of suspected heroin from lodge in Perumbavoor - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/excise-seizes-2342-grams-of-suspected-heroin-from-lodge-in-perumbavoor/article71086380.ece",
+      "source": "The Hindu",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "scraped_at": "2026-06-10 23:31:03.667933",
+      "category": "crime",
+      "sentiment": "neutral",
+      "sentiment_target": "none",
+      "rephrased_article": "**Excise department** officials seized 23.42 grams of suspected heroin from a lodge on PP Road in Perumbavoor, where **Noushad Alam**, an Assam native, had checked in.  The drug was found in 240 tiny containers and empty containers were also discovered.  **Alam** fled the room before the raid but investigators believe he has stayed at the lodge previously. In a separate incident, **Perumbavoor police** arrested **Shahida Khatoon**, a 25-year-old Assam woman, with 1.3 grams of suspected heroin during a raid as part of Operation Toofan.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [
+        "Assam"
+      ],
+      "cities_mentioned": [],
+      "topic_tags": [
+        "crime_violence"
+      ]
+    },
     {
       "id": 67824,
       "title": "Trinamool Congress: \"No Trinamool Without Mamata Banerjee\": Sagarika Ghose To NDTV",
@@ -58,9 +79,7 @@
       ],
       "ministers_mentioned": [
         "Mamata Banerjee",
-        "Mamata",
         "Rahul Gandhi",
-        "Rahul",
         "Sonia Gandhi"
       ],
       "states_mentioned": [
@@ -5857,43 +5876,6 @@
       "cities_mentioned": [],
       "topic_tags": [
         "economy",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": 49104,
-      "title": "‘How can Bengal election be fair when so many genuine voters are left out?’, says Shashi Panja - The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/how-can-bengal-election-be-fair-when-so-many-genuine-voters-are-left-out-says-shashi-panja/article70834210.ece",
-      "source": "The Hindu",
-      "image_url": "https://th-i.thgim.com/public/incoming/tgmn31/article70835392.ece/alternates/LANDSCAPE_1200/20240301151L.jpg",
-      "scraped_at": "2026-04-07 16:00:19.748474",
-      "category": "politics",
-      "sentiment": "negative",
-      "sentiment_target": "BJP",
-      "rephrased_article": "**Shashi Panja**, West Bengal Minister of Women and Child Development and Industries and Commerce, spoke on crucial electoral issues shaping the upcoming Assembly election. She criticized the BJP for allegedly vandalizing her residence and claimed their actions were politically motivated.  She also addressed concerns about voter suppression, highlighting the impact of voter deletion in certain constituencies. **Panja** emphasized the Trinamool Congress's focus on women-centric schemes like Lakshmi Bhandar, which aims to empower women financially. She also discussed the party's stance on issues such as crime against women and the lack of industry investment under the BJP government.",
-      "party_mentioned": [
-        "BJP",
-        "Congress",
-        "Trinamool"
-      ],
-      "ministers_mentioned": [
-        "Mamata Banerjee",
-        "Didi"
-      ],
-      "states_mentioned": [
-        "Assam",
-        "Gujarat",
-        "West Bengal"
-      ],
-      "cities_mentioned": [
-        "Kolkata"
-      ],
-      "topic_tags": [
-        "crime_violence",
-        "health",
-        "rape_sexual_crime",
-        "economy",
-        "education",
         "foreign_policy"
       ]
     }

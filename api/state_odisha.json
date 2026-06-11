@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 23:02:43.670935",
+  "generated_at": "2026-06-11 01:37:01.891782",
   "state": "Odisha",
   "capital": "Bhubaneswar",
   "ruling_party": "BJP",
@@ -8,17 +8,17 @@
   "cm_confidence": null,
   "party_confidence": null,
   "stats": {
-    "total_articles": 355,
+    "total_articles": 356,
     "articles_last_30d": 167
   },
   "top_cities_30d": {
-    "Delhi": 58,
-    "Bengaluru": 11,
+    "Delhi": 57,
+    "Bengaluru": 12,
     "Kolkata": 11,
     "Chennai": 9,
     "Hyderabad": 9,
     "Kanpur": 8,
-    "Mumbai": 5,
+    "Mumbai": 6,
     "Jaipur": 3,
     "Visakhapatnam": 3,
     "Varanasi": 3
@@ -26,7 +26,7 @@
   "top_topics_30d": {
     "foreign_policy": 104,
     "education": 67,
-    "protest_opposition": 39,
+    "protest_opposition": 38,
     "crime_violence": 24,
     "economy": 22,
     "corruption_scam": 19,
@@ -36,6 +36,29 @@
     "rape_sexual_crime": 4
   },
   "recent_articles": [
+    {
+      "id": 67860,
+      "title": "Bristol, York and UNSW get approval to set up campuses in India - The Hindu",
+      "url": "https://www.thehindu.com/education/bristol-york-and-unsw-get-approval-to-set-up-campuses-in-india/article71084509.ece",
+      "source": "The Hindu",
+      "image_url": "https://th-i.thgim.com/public/news/rjfy43/article71086555.ece/alternates/LANDSCAPE_1200/iStock-654454404.jpg",
+      "scraped_at": "2026-06-10 23:30:23.460095",
+      "category": "education",
+      "sentiment": "positive",
+      "sentiment_target": "Indian Government",
+      "rephrased_article": "**The Union Education Ministry** issued Letters of Approval (LoAs) to **University of Bristol**, **University of York**, and **University of New South Wales** on Tuesday, June 9, 2026.  These institutions will establish campuses in Mumbai and Bengaluru, respectively, marking another step towards advancing the internationalization of education under the National Education Policy 2020. The LoAs were handed over by Secretary, Department of Higher Education and Chairman, **University Grants Commission (UGC)**, Vineet Joshi, to representatives from the respective universities and other organizations involved in the process.  These campuses are expected to expand access to high-quality international education within India and promote research collaboration.",
+      "party_mentioned": [],
+      "ministers_mentioned": [],
+      "states_mentioned": [],
+      "cities_mentioned": [
+        "Mumbai",
+        "Bengaluru"
+      ],
+      "topic_tags": [
+        "education",
+        "foreign_policy"
+      ]
+    },
     {
       "id": 67701,
       "title": "Shots fired in air as ganja smugglers attack police in ASR, four nabbed - The Hindu",
@@ -5520,30 +5543,6 @@
         "economy",
         "foreign_policy",
         "education",
-        "farmer_agriculture"
-      ]
-    },
-    {
-      "id": 55223,
-      "title": "Odisha: Outrage after man carries sister's skeleton to bank to prove her death",
-      "url": "https://www.bbc.com/news/articles/clypl5jrjqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/31e5/live/53abc270-43ab-11f1-9d89-8526d1435c1c.jpg",
-      "scraped_at": "2026-04-29 19:49:18.564467",
-      "category": "other",
-      "sentiment": "negative",
-      "sentiment_target": "bank",
-      "rephrased_article": "An Indian man, **Jitu Munda**, carried his sister's skeletal remains to a bank in Odisha state after failing to withdraw her savings.  **Munda** claimed he was frustrated by repeated requests for proof of death and the bank's insistence on legally required documents. The bank denied asking for this, stating that the incident stemmed from a lack of awareness about procedures and that the money has since been handed over to the legal heirs. **Suresh Pujari**, Odisha's Revenue Minister, stated the case is under investigation and action will be taken against the branch manager.",
-      "party_mentioned": [],
-      "ministers_mentioned": [],
-      "states_mentioned": [
-        "Odisha"
-      ],
-      "cities_mentioned": [],
-      "topic_tags": [
-        "economy",
-        "foreign_policy",
-        "infrastructure",
         "farmer_agriculture"
       ]
     }
