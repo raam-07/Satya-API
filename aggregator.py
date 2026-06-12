@@ -805,6 +805,9 @@ def build_promises_summary(promises, entities=None):
             "status": status,
             "made_on": p.get('made_on') or str(p.get('created_at', ''))[:10],
             "deadline": p.get('deadline', ''),
+            "archived_url": p.get('archived_url'),
+            "url_status": p.get('url_status'),
+            "source_quality": p.get('source_quality'),
             "evidence_count": len(p.get('evidence_articles', [])),
             "evidence_articles": p.get('evidence_articles', []),  # <-- Injected: Sends the actual articles to the frontend!
             "gemma_suggestion": p.get('gemma_suggestion'),
