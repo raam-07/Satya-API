@@ -808,6 +808,7 @@ def build_promises_summary(promises, entities=None):
             "archived_url": p.get('archived_url'),
             "url_status": p.get('url_status'),
             "source_quality": p.get('source_quality'),
+            "supporting_quote": p.get('supporting_quote'),
             "evidence_count": len(p.get('evidence_articles', [])),
             "evidence_articles": p.get('evidence_articles', []),  # <-- Injected: Sends the actual articles to the frontend!
             "gemma_suggestion": p.get('gemma_suggestion'),
