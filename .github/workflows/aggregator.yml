@@ -40,6 +40,8 @@ jobs:
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
           ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
           PROMISES_JSON_URL: ${{ secrets.PROMISES_JSON_URL }}
+          SATYA_DB_URL: ${{ secrets.SATYA_DB_URL }}
+          SATYA_DB_TOKEN: ${{ secrets.SATYA_DB_TOKEN }}
         run: |
           python aggregator.py
 

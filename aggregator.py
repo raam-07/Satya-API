@@ -24,8 +24,47 @@ import re
 import requests
 from datetime import datetime, timedelta
 from collections import defaultdict, Counter
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
+import sqlite3
+import zlib
+
+# ==============================================================================
+# --- DATABASE CONFIGURATION ---
+# ==============================================================================
+def load_env():
+    env_paths = [
+        os.path.join(os.path.dirname(__file__), '.env'),
+        os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
+    ]
+    for env_path in env_paths:
+        if os.path.exists(env_path):
+            with open(env_path, 'r') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#') and '=' in line:
+                        key, val = line.split('=', 1)
+                        os.environ[key.strip()] = val.strip()
+
+load_env()
+
+default_db_path = '/Users/mac/Downloads/Code/Satya/satya.db'
+if not os.path.exists(os.path.dirname(default_db_path)):
+    default_db_path = os.path.join(os.path.dirname(__file__), 'satya.db')
+
+DB_PATH = os.environ.get('SATYA_DB_PATH', default_db_path)
+
+def get_db_connection():
+    db_url = os.environ.get('SATYA_DB_URL')
+    db_token = os.environ.get('SATYA_DB_TOKEN')
+    
+    if db_url and (db_url.startswith('libsql://') or db_url.startswith('https://')):
+        try:
+            import libsql
+            return libsql.connect(database=db_url, auth_token=db_token)
+        except ImportError:
+            logging.error("libsql package not installed. Falling back to local sqlite3.")
+            
+    return sqlite3.connect(DB_PATH)
+
 
 # ==============================================================================
 # --- CONFIGURATION ---
@@ -60,38 +99,100 @@ logging.basicConfig(
 # --- DATA LOADING ---
 # ==============================================================================
 
-def connect_to_sheets():
-    logging.info("Connecting to Google Sheets...")
-    scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-    gcp_json = os.environ.get("GCP_SERVICE_ACCOUNT_JSON")
-    if not gcp_json:
-        raise ValueError("GCP_SERVICE_ACCOUNT_JSON missing!")
-    creds_dict = json.loads(gcp_json)
-    creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
-    client = gspread.authorize(creds)
-    sheet = client.open(CLASSIFIED_SHEET_NAME).worksheet(CLASSIFIED_WORKSHEET_NAME)
-    return sheet
-
-def fetch_articles(sheet):
-    logging.info("Fetching classified articles...")
-    raw_data = sheet.col_values(1)
+def fetch_articles(conn):
+    logging.info("Fetching classified articles from Database...")
     articles = []
-    for cell in raw_data:
-        if not cell:
-            continue
+    try:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT a.id, a.cluster_id, s.name AS source_name, a.title, a.url, a.content, a.image_url, a.scraped_at, 
+                   a.category, a.sentiment, a.sentiment_target, a.rephrased_article, 
+                   a.party_mentioned, a.ministers_mentioned, a.states_mentioned, a.cities_mentioned, 
+                   a.topic_tags, a.civic_flag, a.civic_flag_score, a.civic_flag_category, a.civic_flag_reason, 
+                   a.classified_at, a.status 
+            FROM articles a
+            LEFT JOIN sources s ON a.source_id = s.id
+            WHERE a.status IN ('classified', 'entity_processed', 'processed')
+        """)
+        rows = cursor.fetchall()
+    except Exception as e:
+        logging.critical(f"Failed to query database for aggregator: {e}")
+        return []
+
+    for r in rows:
+        article_id = r[0]
+        cluster_id = r[1]
+        source_name = r[2] or ""
+        title = r[3] or ""
+        url = r[4] or ""
+        compressed_content = r[5]
+        image_url = r[6] or ""
+        scraped_timestamp = r[7]
+        category = r[8] or ""
+        sentiment = r[9] or ""
+        sentiment_target = r[10] or ""
+        compressed_rephrased = r[11]
+        party_str = r[12]
+        ministers_str = r[13]
+        states_str = r[14]
+        cities_str = r[15]
+        topics_str = r[16]
+        civic_flag_val = r[17]
+        civic_flag_score_val = r[18]
+        civic_flag_category_val = r[19]
+        civic_flag_reason_val = r[20]
+        classified_at_val = r[21]
+        status_val = r[22]
+
         try:
-            article = json.loads(cell)
-            scraped_raw = article.get('scraped_at', '')
+            content = zlib.decompress(compressed_content).decode('utf-8') if compressed_content else ""
+        except Exception:
+            content = ""
+
+        try:
+            rephrased = zlib.decompress(compressed_rephrased).decode('utf-8') if compressed_rephrased else content
+        except Exception:
+            rephrased = content
+
+        scraped_at_str = ""
+        if scraped_timestamp:
             try:
-                article['scraped_dt'] = datetime.strptime(
-                    str(scraped_raw).split('.')[0], "%Y-%m-%d %H:%M:%S"
-                )
-            except:
-                article['scraped_dt'] = datetime.now() - timedelta(days=365)
-            articles.append(article)
-        except json.JSONDecodeError:
-            continue
-    logging.info(f"Fetched {len(articles)} articles.")
+                scraped_at_str = datetime.fromtimestamp(scraped_timestamp).strftime("%Y-%m-%d %H:%M:%S")
+            except Exception:
+                pass
+
+        try:
+            scraped_dt = datetime.fromtimestamp(scraped_timestamp) if scraped_timestamp else datetime.now() - timedelta(days=365)
+        except Exception:
+            scraped_dt = datetime.now() - timedelta(days=365)
+
+        articles.append({
+            'id': article_id,
+            'cluster_id': cluster_id,
+            'source': source_name,
+            'title': title,
+            'url': url,
+            'content': content,
+            'image_url': image_url,
+            'scraped_at': scraped_at_str,
+            'scraped_dt': scraped_dt,
+            'category': category,
+            'sentiment': sentiment,
+            'sentiment_target': sentiment_target,
+            'rephrased_article': rephrased if rephrased else content,
+            'party_mentioned': json.loads(party_str) if party_str else [],
+            'ministers_mentioned': json.loads(ministers_str) if ministers_str else [],
+            'states_mentioned': json.loads(states_str) if states_str else [],
+            'cities_mentioned': json.loads(cities_str) if cities_str else [],
+            'topic_tags': json.loads(topics_str) if topics_str else [],
+            'civic_flag': True if civic_flag_val == 1 else False,
+            'civic_flag_score': civic_flag_score_val or 0,
+            'civic_flag_category': civic_flag_category_val,
+            'civic_flag_reason': civic_flag_reason_val,
+            'status': status_val
+        })
+
+    logging.info(f"Loaded {len(articles)} articles from Database for aggregation.")
     return articles
 
 def load_json_from_url(url, fallback_path=None):
@@ -1037,15 +1138,21 @@ def main():
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # 1. Load all data
-    sheet = connect_to_sheets()
-    articles = fetch_articles(sheet)
+    # 1. Connect to Database and Load articles
+    try:
+        conn = get_db_connection()
+    except Exception as e:
+        logging.critical(f"Failed to connect to database: {e}")
+        return
+
+    articles = fetch_articles(conn)
 
     entities = load_json_from_url(ENTITIES_JSON_URL, './entities.json')
     promises = load_json_from_url(PROMISES_JSON_URL, './promises.json')
 
     if not entities:
         logging.critical("Could not load entities.json. Exiting.")
+        conn.close()
         return
 
     if not promises:
@@ -1066,6 +1173,7 @@ def main():
     # 3. Build manifest
     build_manifest(parties, states, ministers, topics, has_promises)
 
+    conn.close()
     elapsed = round(time.time() - start_time, 2)
     logging.info(f"--- Aggregator Finished in {elapsed}s ---")
     logging.info(f"Generated: {len(parties)} parties, {len(states)} states, {len(ministers)} ministers, {len(topics)} topics, feed: {feed_count} articles")
