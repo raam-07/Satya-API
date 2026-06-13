@@ -1,14 +1,14 @@
-name: Satya Aggregator
+# name: Satya Aggregator
 
-on:
-  schedule:
-    # Runs every 30 minutes (data upstream only changes when the classifier runs)
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+# on:
+#   schedule:
+#     # Runs every 30 minutes (data upstream only changes when the classifier runs)
+#     - cron: '*/30 * * * *'
+#   workflow_dispatch:
 
-concurrency:
-  group: satya-aggregator
-  cancel-in-progress: false
+# concurrency:
+#   group: satya-aggregator
+#   cancel-in-progress: false
 
 jobs:
   aggregate:
